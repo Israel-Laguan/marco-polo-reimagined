@@ -1,8 +1,8 @@
 # Front Matter I-2
 ## Maps for the Outbound Road
 
-> *“And you may know that from this city of Lop it is forty days’ journey across the desert…”*
-> — Book I (Yule–Cordier tradition)
+> *“And here, where its breadth is least, it takes a month to cross it.”*
+> — Marco Polo, Book 1, ch. 39 (Yule–Cordier)
 
 ---
 

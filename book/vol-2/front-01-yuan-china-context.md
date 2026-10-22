@@ -1,8 +1,8 @@
 # Front Matter II-1
 ## Yuan China: The World You Are Entering
 
-> *“Now I have told you of the splendour of Cublay… and I will tell you of the city of Cambaluc…”*
-> — Book II openings (Yule–Cordier tradition)
+> *“To this city also are brought articles of greater cost and rarity, and in greater abundance of all kinds, than to any other city in the world.”*
+> — Marco Polo, Book 2, ch. 22 (Yule–Cordier)
 
 ---
 

@@ -1,8 +1,8 @@
 # Front Matter III-1
 ## The Indian Ocean World (and Why a Princess Boards a Ship)
 
-> *“And when the ships had been made ready…”*
-> — Book III return frame (Yule–Cordier tradition)
+> *“And when the ships had been equipt…”*
+> — Marco Polo, Prologue, ch. 18 (Yule–Cordier)
 
 ---
 

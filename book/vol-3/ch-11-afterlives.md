@@ -4,7 +4,7 @@
 > *“…he bethought himself that it would be a very great pity did he not cause to be put in writing all the great marvels that he had seen, or on sure information heard of, so that other people who had not these advantages might, by his Book, get such knowledge.”*
 > — Marco Polo, Prologue, preamble (Yule–Cordier)
 >
-> *“And I can tell you the quantity of gold they have is endless…”*
+> *“…all the pavement of the Palace, and the floors of its chambers, are entirely of gold, in plates like slabs of stone, a good two fingers thick…”*
 > — Marco Polo, Book 3, ch. 2 (Yule–Cordier)
 
 ---

@@ -1,8 +1,8 @@
 # Front Matter III-2
 ## Maps for the Seas and the Return
 
-> *“And from Zayton they sailed…”*
-> — Book III itinerary hinge (Yule–Cordier tradition)
+> *“Having finished our discourse concerning those countries wherewith our Book hath been occupied thus far, we are now about to enter on the subject of INDIA, and to tell you of all the wonders thereof.”*
+> — Marco Polo, Book 3, ch. 1 (Yule–Cordier)
 
 ---
 

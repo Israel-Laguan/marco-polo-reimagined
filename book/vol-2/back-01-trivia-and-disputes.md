@@ -1,8 +1,8 @@
 # Back Matter II-1
 ## Trivia and Disputes — Volume II
 
-> *“All these cities are so great that…”*
-> — The book’s habitual gasp before Manzi’s numbers
+> *“And there are in it twelve thousand bridges of stone, for the most part so lofty that a great fleet could pass beneath them.”*
+> — Marco Polo, Book 2, ch. 76 (Yule–Cordier)
 
 ---
 

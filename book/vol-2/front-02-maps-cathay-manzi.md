@@ -1,8 +1,8 @@
 # Front Matter II-2
 ## Maps for Cathay and Manzi
 
-> *“And so I will tell you of the great province of Manzi…”*
-> — Book II (Yule–Cordier tradition)
+> *“Now you must know that from this city of Cambaluc proceed many roads and highways leading to a variety of provinces, one to one province, another to another; and each road receives the name of the province to which it leads…”*
+> — Marco Polo, Book 2, ch. 26 (Yule–Cordier)
 
 ---
 

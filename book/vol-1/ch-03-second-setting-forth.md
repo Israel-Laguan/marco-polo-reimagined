@@ -1,8 +1,8 @@
 # Chapter I-3
 ## The Second Setting-Forth: Pope, Oil, and the Boy Marco
 
-> *“Sire, ’tis my son and your liegeman.”*
-> — Niccolò before Cublay at Kemenfu, Prologue (Yule–Cordier)
+> *“…’tis my son and your liegeman.”*
+> — Marco Polo, Prologue, ch. 14 (Yule–Cordier)
 
 ---
 

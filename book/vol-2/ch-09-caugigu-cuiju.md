@@ -1,8 +1,8 @@
 # Chapter II-9
 ## Caugigu, Anin, Coloman, Cuiju — and Back
 
-> *“From Sindafu you set out again and travel some seventy days through the provinces and cities and towns which we have already visited… At the end of those seventy days you come to Juju where we were before.”*
-> — Book II.lix (Yule–Cordier)
+> *“From Sindafu you set out again and travel some 70 days through the provinces and cities and towns which we have already visited, and all which have been already particularly spoken of in our Book. At the end of those 70 days you come to Juju where we were before.”*
+> — Marco Polo, Book 2, ch. 59 (Yule–Cordier)
 
 **[R]**
 

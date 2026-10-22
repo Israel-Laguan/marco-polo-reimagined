@@ -1,8 +1,8 @@
 # Chapter II-15
 ## Great Turkey, Caidu’s Daughter, and the Wars of the Ponent
 
-> *“In GREAT TURKEY there is a king called CAIDU, who is the Great Kaan’s nephew… He is never at peace with his uncle the Great Kaan, but ever at deadly war with him.”*
-> — Book IV.i (Yule–Cordier)
+> *“In GREAT TURKEY there is a king called CAIDU, who is the Great Kaan’s nephew… Now this King Caidu is never at peace with his uncle the Great Kaan, but ever at deadly war with him.”*
+> — Marco Polo, Book 4, ch. 1 (Yule–Cordier)
 
 **[R]**
 

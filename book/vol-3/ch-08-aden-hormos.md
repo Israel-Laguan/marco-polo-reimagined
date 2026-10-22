@@ -1,8 +1,8 @@
 # Chapter III-8
 ## Aden, Esher, Dufar, Calatu, Hormos Again
 
-> *“You must know that in the province of ADEN there is a Prince who is called the Soldan… it is by this way through Aden that the Saracens of Alexandria receive all their stores of pepper and other spicery… ESHER… white incense… cattle… live upon small fish… DUFAR… incense… CALATU… HORMOS… houses built with ventilators to catch the wind…”*
-> — Book III.xxxvi–xl (Yule–Cordier)
+> *“You must know that in the province of ADEN there is a Prince who is called the Soldan… it is by this way through Aden that the Saracens of Alexandria receive all their stores of pepper and other spicery… ESHER… white incense… cattle… live upon small fish… DUFAR… incense… CALATU… HORMOS… their houses are built with ventilators to catch the wind…”*
+> — Marco Polo, Book 3, chs. 36–40 (Yule–Cordier)
 
 ---
 

@@ -1,8 +1,8 @@
 # Front Matter I-1
 ## The World Before the Road
 
-> *“Ye must know that in the year of Christ… there were living in Venice two brothers…”*
-> — Prologue (Yule–Cordier tradition)
+> *“It came to pass in the year of Christ 1260, when Baldwin was reigning at Constantinople…”*
+> — Marco Polo, Prologue, ch. 1 (Yule–Cordier)
 
 ---
 

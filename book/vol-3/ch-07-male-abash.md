@@ -1,8 +1,8 @@
 # Chapter III-7
 ## Male and Female, Scotra, Madeigascar, Zanghibar, Abash
 
-> *“When you leave this kingdom of Kesmacoran… you go by sea some 500 miles towards the south; and then you find the two Islands, MALE and FEMALE… Scotra… Madeigascar… the bird Gryphon… they call the bird Ruc… Zanghibar… giraffes… ABASH, which constitutes the MIDDLE INDIA…”*
-> — Book III.xxxi–xxxv (Yule–Cordier)
+> *“When you leave this kingdom of Kesmacoran… you go by sea some 500 miles towards the south; and then you find the two Islands, MALE and FEMALE… Scotra… Madeigascar… the bird Gryphon… The people of those isles call the bird Ruc… Zanghibar… giraffes… ABASH, which constitutes the MIDDLE INDIA…”*
+> — Marco Polo, Book 3, chs. 31–34 (Yule–Cordier)
 
 ---
 

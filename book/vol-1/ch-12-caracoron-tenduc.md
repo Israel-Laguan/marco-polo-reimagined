@@ -1,8 +1,8 @@
 # Chapter I-12
 ## Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords
 
-> *“And when Chinghis Kaan heard the brutal message that Prester John had sent him, such rage seized him that his heart came nigh to bursting within him.”*
-> — Book I, Of Chinghis and the March against Prester John (Yule–Cordier)
+> *“When Chinghis Kaan heard the brutal message that Prester John had sent him, such rage seized him that his heart came nigh to bursting within him…”*
+> — Marco Polo, Book 1, ch. 48 (Yule–Cordier)
 
 ---
 

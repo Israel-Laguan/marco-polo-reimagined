@@ -1,10 +1,7 @@
 # Chapter III-12
 ## Closing Essay: Reliability, Silence, and the Art of the Book
 
-> *“Great Princes, Emperors, and Kings, Dukes and Marquises, Counts, Knights, and Burgesses! … take this Book and cause it to be read to you.”*
-> — Marco Polo, Prologue, preamble (Yule–Cordier)
->
-> *“And we shall set down things seen as seen, and things heard as heard only…”*
+> *“And we shall set down things seen as seen, and things heard as heard only, so that no jot of falsehood may mar the truth of our Book…”*
 > — Marco Polo, Prologue, preamble (Yule–Cordier)
 
 ---

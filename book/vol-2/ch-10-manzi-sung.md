@@ -1,8 +1,8 @@
 # Chapter II-10
 ## Eastward to Manzi: Canal Cities and the Fall of the Sung
 
-> *“So when you pass this river you enter the great province of Manzi. So now I must tell you how this province of Manzi was conquered by the Great Kaan.”*
-> — Book II.lxiv (Yule–Cordier)
+> *“And when you pass this river you enter the great province of Manzi. So now I must tell you how this province of Manzi was conquered by the Great Kaan.”*
+> — Marco Polo, Book 2, ch. 64 (Yule–Cordier)
 
 **[M]**
 

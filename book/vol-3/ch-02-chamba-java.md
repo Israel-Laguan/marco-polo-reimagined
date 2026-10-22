@@ -1,8 +1,8 @@
 # Chapter III-2
 ## Chamba, Java, Locac, Pentam: The Southern Ocean Road
 
-> *“When you leave the port of Zayton you sail west-south-west for 1500 miles, and then you come to a country called Chamba, a very rich region… And I can assure you the Great Kaan never could get possession of this Island [Java], on account of its great distance…”*
-> — Book III.v–vi (Yule–Cordier)
+> *“You must know that on leaving the port of Zayton you sail west-south-west for 1500 miles, and then you come to a country called Chamba, a very rich region… And I can assure you the Great Kaan never could get possession of this Island, on account of its great distance…”*
+> — Marco Polo, Book 3, chs. 5–6 (Yule–Cordier)
 
 **[R/M]**
 
