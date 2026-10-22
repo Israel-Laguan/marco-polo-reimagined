@@ -22,10 +22,10 @@ The recurring people of the book, as one source of truth for **text** (names, da
   - Rustichello is a layman (I-1 plate).
 - Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.
 - Co-presence: `tools/characters.py ages` proves no Polos at Xiangyang (II-11), no Chabi after 1281 (II-03), no Argon at the bride's arrival (III-9 secondary). The text, not the itinerary, keeps the Polos off the Nayan field (II-01) and out of Bayan's camp (II-10).
-- Waiting on research: costume entries from S-22 (headgear, hair, armour by period) to refine the `dress` lines; family facts from S-15; dates from S-14.
+- Waiting on: costume entries from S-22 (headgear, hair, armour by period) for the `dress` lines; the open facts in `CHR.T7` (library checks; family rows via S-15).
 
 ## Gated by spikes
-S-05 ✓ (closed 2026-10-22) · S-06 (verified dates, for `CHR.T4`) · S-15 (family) · S-22 (costume, for `CHR.T5`)
+S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · S-22 (costume, for `CHR.T5`)
 
 ## Tasks
 
@@ -45,15 +45,32 @@ S-05 ✓ (closed 2026-10-22) · S-06 (verified dates, for `CHR.T4`) · S-15 (fam
 - **Done when:** `GLO.T1` lists the people beside the places; every `gloss` form has an entry.
 
 ### CHR.T4 — Contested facts to verdicts
-- **Status:** in progress · **Depends:** S-06 (and its research S-14), S-15
-- **So far (2026-10-22):** one search-based run came back and was graded as **leads only** (`research/results/CHR-people-intake.md`: sources are Wikipedia and Yule-derived pages; 2 of 7 spot-checked claims failed). Leads are recorded in the registry as leads; nothing was upgraded. The intake note holds a stricter follow-up prompt for the 12 open rows. **Run 2** (`research/results/CHR-people-2-intake.md`): settled Argon's death day, Marco's death day, Fantina's marriage, Niccolò's illegitimate sons and Maffeo's 1309 will (two sources seen each, or Yule plus a calendar check); `verify` removed from `fantina`. Still open: Chabi's birth, Dorjé's mother, Maffeo's marriage, Bellela's husband, Marco's birth basis, the Agnese article (not seen), Rustichello's lay status, Peter's shelfmark (reported only).
-- **Do:** for each row with `verify`, carry the S-06 / S-15 verdict into `dates`, `relations` and `book_says`, then remove the spike from `verify`. Update the *Contested facts* table in `registry/characters.md`. Where a verdict changes an age (Niccolò's or Maffeo's birth, Donata's marriage), re-run `ages` and adjust the cards.
-- **Done when:** no row's `verify` names a closed spike; `check` and `ages` pass.
+- **Status:** done (2026-10-22) for everything research could settle
+- **Did:** two research runs, graded in `research/results/CHR-people-intake.md` (run 1: leads only) and `CHR-people-2-intake.md` (run 2: claims read against Yule, two DOIs and the Formentin–Schiavon article; 8 of 11 hold). Settled and written into the registry: Argon's death (10 March 1291), Marco's death (8 or 9 Jan 1324), Fantina's marriage and suit, Niccolò's illegitimate sons, Maffeo's 1309 will, the Zhenjiang churches, the Arghun envoys' notice. `verify` cleared on `fantina`; the other pointers stay with the spikes that own those topics (S-14, S-15).
+- **Left over:** the facts no search run could settle moved to `CHR.T7`.
 
 ### CHR.T5 — Costume refinement from S-22
 - **Status:** backlog · **Depends:** S-22 intake
 - **Do:** take S-22's costume entries (Mongol court robes, *boqta*, Venetian dress c. 1270–1324, Ilkhanid and Yuan armour) into the cards' `dress` and `avoid` lines. Content only: no actor's or manga character's likeness (S-22 rule 3).
 - **Done when:** each card's dress lines cite an S-22 entry or a period source.
+
+### CHR.T7 — Library checks for the open people facts
+- **Status:** backlog · **Depends:** library or archive access; the family rows are picked up by **S-15**'s intake (listed in its *Inputs*)
+- **Why here:** two research runs could not settle these (`research/results/CHR-people-2-intake.md` § Still open). Each needs a specific book or record seen, not another search run.
+
+  | Row | Open question | Where to look | Owner |
+  |---|---|---|---|
+  | `chabi` | Birth 1216 or 1227 (age blank until then) | *Yuan shi* 114 (biographies of empresses); Rossabi 1988 | CHR.T7 |
+  | `dorji` | Mother (Chabi or another wife); birth year | *Yuan shi* 107 (imperial genealogy) | CHR.T7 |
+  | `coja` | Did any envoy survive besides Coja? | Cleaves 1976, full text (JSTOR) | CHR.T7 |
+  | `maffeo` | Married? Children? (I-02's "bachelor") | Orlandini 1926 | S-15 |
+  | `bellela` | Her husband (Bertuccio Querini is only a lead) | Orlandini 1926; the 1324 will in Moule–Pelliot 1938 I | S-15 |
+  | `marco` | The daughter Agnese (b. 1295–99): see the article before III-10 changes; any document for 1254 | Bolognari, *Studi Medievali* 62 (2021) | S-15 |
+  | `rustichello` | Was he a layman? (the I-01 plate assumes it) | Larner 1999; scholarship on the Arthurian compilation | S-15 |
+  | `peter-the-tartar` | Shelfmark of the will, as seen | Plebani 2019; Marciana catalogue | S-15 |
+
+- **Do:** for each row, see the source, write the verdict into `characters.yaml` (`dates`, `relations`, `book_says`), add the work to `registry/bibliography.bib` as `confirmed`, and update the *Contested facts* table in `registry/characters.md`. Where a verdict changes an age (Chabi, Dorjé), run `tools/characters.py ages` and adjust the cards.
+- **Done when:** every row above has a seen source or an agreed hedge in the chapter text.
 
 ### CHR.T6 — Consistency sweep and promotion to error
 - **Status:** backlog · **Depends:** every narrative chapter's `.T3` (each carries a **People (S-05 ✓)** step)

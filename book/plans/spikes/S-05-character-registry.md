@@ -1,6 +1,6 @@
 # S-05 — Character registry
 
-**Status:** closed 2026-10-22 · **Timebox:** 1–2 sessions · **Gates:** `CHR` tasks; character consistency in chapter tasks; every plate showing a recurring person (`PLT`)
+**Status:** closed and **finalized** 2026-10-22 (research intake done) · **Timebox:** 1–2 sessions · **Gates:** `CHR` tasks; character consistency in chapter tasks; every plate showing a recurring person (`PLT`)
 
 ## Question
 Who are the recurring people of the book? What are their canonical names (book form / modern form), key dates, ages at each depicted event, and roles? And how should each be drawn consistently across very different art traditions?
@@ -52,8 +52,10 @@ _Closed 2026-10-22._
 
 **Feedback applied:** `illustration-style-guide.md` § Recurring figures (new) and the prompt template's `[PERIOD]` slot; `illustration-plan.md` (cards note, pipeline step, III-9 *boqta* fix, Pilot 1 prompt with the Polos' card lines); `VOICE-GUIDE.md` § Naming (people); `content-revision-plan.md` (lint note; W5 People); `GLO`, `PLT`, `CHR` task files; README board and decision log.
 
-## After close: first research run (2026-10-22)
+## After close: research intake (finalized 2026-10-22)
 A search-based run on the 28 `verify` claims came back and was graded as leads, not sources (`research/results/CHR-people-raw.md`, `CHR-people-intake.md`): 48 bibliography entries, all site pages; two of seven spot-checked claims failed (Maffeo's "daughter Fiordelisa" is Niccolò's wife; a death on 8 January contradicts a will of 9 January). The registry took only marked leads, and Chabi's age is now blank (birth 1216 or 1227). A stricter prompt for 12 open rows is in the intake note.
+
+Run 2 (`CHR-people-2-intake.md`) cited real works and was checked claim by claim against Yule, two DOIs and the Formentin–Schiavon article: 8 of 11 claims hold. It settled Argon's death (10 March 1291), Marco's (8 or 9 January 1324), Fantina's marriage, Niccolò's illegitimate sons and Maffeo's 1309 will, and turned up a fourth daughter, Agnese (2021 find, not yet seen). `CHR.T4` is done. **The facts still open need a library, not a search run: they moved to `CHR.T7`, with the family rows handed to S-15.** Nothing further is pending in this spike.
 
 ## Tasks created on close
 - [x] `CHR.T1` registry and `CHR.T2` first 19 cards: **done in this spike**. `CHR.T3` glossary entries (with `GLO`), `CHR.T4` contested facts to verdicts (after S-06/S-15), `CHR.T5` costume refinement (after S-22), `CHR.T6` consistency sweep and promotion to error: in `tasks/cross/CHR-characters.md`.

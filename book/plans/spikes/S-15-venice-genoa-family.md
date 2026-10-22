@@ -14,6 +14,7 @@ What does the documentary record say about Marco Polo, his family, his capture, 
 - `vol-1/ch-01-genoa-prison.md`, `vol-1/ch-02-house-of-polo.md`, `vol-3/ch-10-ca-polo-milione.md` and their Notes
 - Chapter backlogs I-01, I-02, III-10; `tasks/cross/CHR-characters.md`
 - Yule's Introduction in `refs/yule-vol1.txt`
+- **Handed over from S-05 (`CHR.T7`):** the family facts two people-research runs left open: Maffeo's marriage, Bellela's husband, the daughter Agnese (Bolognari 2021), any document for Marco's 1254, Rustichello's lay status, the will's shelfmark. What is already settled is in `registry/characters.yaml` and `research/results/CHR-people-2-intake.md`; don't re-research it.
 
 ## Method
 1. Run the prompt and save the output to `research/results/S-15-raw.md`.

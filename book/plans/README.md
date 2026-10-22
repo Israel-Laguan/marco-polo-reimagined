@@ -49,7 +49,7 @@ plans/
 | [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | **closed** 2026-10-21 (`tools/lint.py`; S-03/S-04 rules provisional) | — | `.T6` everywhere; the definition of done |
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | **closed** 2026-10-22 (`VOICE-GUIDE.md` § Apparatus conventions) | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | **closed** 2026-10-22 (`gazetteer.csv` v2, `tools/gazetteer.py`) | — | `GAZ.T5`–`T6`, `MAP`, naming items |
-| [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | **closed** 2026-10-22 (`registry/characters.yaml`, cards, `tools/characters.py`; facts pending S-06) | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
+| [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | **closed, finalized** 2026-10-22 (`registry/characters.yaml`, 19 cards, `tools/characters.py`; two research runs taken in; open facts → `CHR.T7`, family rows → S-15) | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
 | [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | open | — | factual `.T1` items; `DIA` timelines |
 | [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | open | S-01 | the affected files |
 | [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | open | toolchain install (needs approval) | `BLD`; `.T5` |
@@ -86,7 +86,7 @@ All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 fir
 | Wave | Spikes | Notes |
 |---|---|---|
 | 1 | S-02, S-03, S-04, S-06, S-11, S-08 | No dependencies; can run in parallel. S-08 needs install approval. |
-| 2 | S-01, S-05, S-09 | S-01 is the most important spike: it unlocks the bulk of the work. |
+| 2 | S-01 ✓, S-05 ✓, S-09 | S-01 is the most important spike: it unlocks the bulk of the work. Only S-09 remains in this wave. |
 | 3 | S-07, S-10 | |
 
 ## Ready now (no spike needed)
@@ -120,13 +120,13 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 | Code | Area | Main gate |
 |---|---|---|
 | [MAP](tasks/cross/MAP-maps.md) | Maps A1–A17 | S-04, S-09 |
-| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; S-06 (facts) |
+| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; open facts in `CHR.T7` (library; S-15) |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 34 GEN + 7 PD heroes, secondaries, legacy retirement | S-10, S-11 |
 | [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C16 | S-09 |
 | [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 |
 | [GAZ](tasks/cross/GAZ-gazetteer.md) | Gazetteer | S-04 |
 | [APP](tasks/cross/APP-apparatus.md) | Markers, tags, how-to-read box | S-03 |
-| [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | S-04, S-05 |
+| [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | S-04 ✓, S-05 ✓; S-08 |
 | [BLD](tasks/cross/BLD-build-tooling.md) | Lint, LaTeX build, media scripts | S-02, S-08, S-09 |
 | [MED](tasks/cross/MED-existing-media.md) | Existing media triage | none (T1 ready) |
 | [DOC](tasks/cross/DOC-status-docs.md) | Status and project docs | none (T1 ready) |
@@ -206,3 +206,4 @@ A manuscript file is **done** when:
 | 2026-10-22 | Phase R: references and enrichment via external deep research (S-12 … S-23); results are leads, verified at intake before use | user |
 | 2026-10-22 | Citation style: Chicago author-date (18th ed.) in the Notes, Pandoc keys, base text cited as YC (1903/1920 print edition; Gutenberg is only the access route); epigraph credit `— Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; Works cited per volume | user (S-24) |
 | 2026-10-22 | People follow the S-04 naming rule: Yule's form where Polo names the person (*Cublay*, *Alaü*, *Argon*), else the modern form; gloss once per chapter; registry `registry/characters.yaml` + visual cards; plate prompts take figure lines from `tools/characters.py cue`; co-presence checked by `tools/characters.py ages` | S-05 |
+| 2026-10-22 | S-05 finalized: two people-research runs taken in (run 1 leads only; run 2 checked against Yule, DOIs and Formentin–Schiavon 2024). Settled dates are in the registry; the facts still open need library checks and moved to `CHR.T7` (family rows to S-15) | S-05 |
