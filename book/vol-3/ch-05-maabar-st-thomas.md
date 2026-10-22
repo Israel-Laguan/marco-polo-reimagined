@@ -2,7 +2,7 @@
 ## Maabar: Pearls, Suttee, Horses, and St Thomas
 
 > *“When you leave the Island of Seilan and sail westward… you come to the great province of MAABAR which is styled INDIA THE GREATER… In this manner pearls are fished in great quantities, for thence in fact come the pearls which are spread all over the world… The Body of Messer St. Thomas the Apostle lies in this province of Maabar…”*
-> — Book III.xvi–xviii (Yule–Cordier)
+> — Marco Polo, Book 3, chs. 16–18 (Yule–Cordier)
 
 **[R/M]**
 

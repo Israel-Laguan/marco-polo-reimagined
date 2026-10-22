@@ -2,7 +2,7 @@
 ## Kerman, Camadi, Hormos: Heat, Stitched Ships, and Turning Back
 
 > *“Their ships are wretched affairs… They have one mast, one sail, and one rudder.”*
-> — Book I, Of the Descent to the City of Hormos (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 19 (Yule–Cordier)
 
 ---
 

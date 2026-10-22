@@ -2,7 +2,7 @@
 ## Mutfili to Kesmacoran: Diamonds, Brahmans, and the Westward Shore
 
 > *“It is in this kingdom that diamonds are got… Now among these mountains there are certain great and deep valleys… the men who go in search of the diamonds take with them pieces of flesh… white eagles… And you must know that this kingdom of Kesmacoran is the last in India as you go towards the west and north-west… from Maabar on, this province is what is called the GREATER INDIA…”*
-> — Book III.xix–xxx (Yule–Cordier)
+> — Marco Polo, Book 3, chs. 19–30 (Yule–Cordier)
 
 **[R]**
 

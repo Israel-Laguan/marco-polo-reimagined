@@ -2,7 +2,7 @@
 ## Mausul, Baudas, and the Mountain That Moved
 
 > *“Now I will tell you of a great miracle that befell at Baudas, wrought by God on behalf of the Christians.”*
-> — Book I, Of Baudas (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 6 (Yule–Cordier)
 
 ---
 
@@ -54,7 +54,7 @@ Thus Chapter I-5 holds two registers in one hand: the merchant’s Mausul and Ba
 
 ## Notes
 
-[1] ✓ Mausul on Armenia’s SE frontier; mixed Arabi, Nestorians, Jacobites. Standard historical geography. Book I.v. “Very great kingdom” is Polo’s habitual inflation — Atabeg Mosul had effectively ended after Badruddīn Lūlū’s line fell to the Mongols (Malik Ṣāliḥ tortured to death 1261).
+[1] ✓ Mausul on Armenia’s SE frontier; mixed Arabi, Nestorians, Jacobites. Standard historical geography. [@yc, 1.5]. “Very great kingdom” is Polo’s habitual inflation — Atabeg Mosul had effectively ended after Badruddīn Lūlū’s line fell to the Mongols (Malik Ṣāliḥ tortured to death 1261).
 
 [2] ✓ / ~ Jatolic (Catholicos) appointing prelates to India, Baudas, Cathay. ✓ Nestorian/Jacobite hierarchies and Asian reach; ~ “just like the Pope” as analogy. ◇ Oriental Christians “come short” of Roman Faith — Latin confessional framing (Nestorians’ two-Persons stereotype; Jacobites’ Monophysitism), not ethnography.
 

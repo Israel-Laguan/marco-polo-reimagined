@@ -2,7 +2,7 @@
 ## Java the Less: Ferlec to Fansur — Sumatran Kingdoms
 
 > *“When you leave the Island of Pentam and sail about 100 miles, you reach the Island of JAVA THE LESS… And in that kingdom [Samara] Messer Marco Polo was detained five months by the weather… In this kingdom of Fansur grows the best Camphor in the world called Canfora Fansuri.”*
-> — Book III.ix–xi (Yule–Cordier)
+> — Marco Polo, Book 3, chs. 9–11 (Yule–Cordier)
 
 **[V/M]**
 

@@ -2,7 +2,7 @@
 ## Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country
 
 > *“The plain is called Pamier, and you ride across it for twelve days together… The region is so lofty and cold that you do not even see any birds flying.”*
-> — Book I, Of the Great River of Badashan (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 32 (Yule–Cordier)
 
 ---
 

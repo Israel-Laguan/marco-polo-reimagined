@@ -2,7 +2,7 @@
 ## Closing Essay: Reliability, Silence, and the Art of the Book
 
 > *“Emperors and kings, dukes and marquises, counts, knights, and burgesses… take this book…”*
-> — Prologue address (Yule–Cordier tradition)
+> — Marco Polo, Prologue, preamble (Yule–Cordier)
 >
 > *“He put in writing all that he saw and heard…”*
 > — the Book’s own claim for its method

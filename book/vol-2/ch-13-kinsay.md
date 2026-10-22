@@ -2,7 +2,7 @@
 ## Kinsay: Capital of Manzi
 
 > *“And since we have got thither I will enter into particulars about its magnificence; and these are well worth the telling, for the city is beyond dispute the finest and the noblest in the world.”*
-> — Book II.lxxvi (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 76 (Yule–Cordier)
 
 **[V]**
 

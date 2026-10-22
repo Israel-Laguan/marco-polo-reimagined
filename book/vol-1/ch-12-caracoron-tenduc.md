@@ -60,48 +60,48 @@ Thus from Tangut’s northern gate the book has led through Caracoron’s digres
 
 ## Notes
 
-[1] ✓ / ~ Etzina (Khara-Khoto / Ejina) on Tangut desert verge; falcons; forty-day northern desert; wild asses (*Asinus hemionus*). ✓ Etsina corridor; Chinggis took it 1226 (Gaubil). ~ Schematic “forty.” Book I.xlv; gazetteer *likely_visited*.
+[1] ✓ / ~ Etzina (Khara-Khoto / Ejina) on Tangut desert verge; falcons; forty-day northern desert; wild asses (*Asinus hemionus*). ✓ Etsina corridor; Chinggis took it 1226 (Gaubil). ~ Schematic “forty.” [@yc, 1.45]; gazetteer *likely_visited*.
 
-[2] ✓ / ~ Caracoron (Karakorum) ~three miles; earthen rampart; first Tartar city. ✓ Orkhon capital historical (Ögedei 1235). ~ Polo’s autopsy doubtful; Rubruck richer. Book I.xlvi; gazetteer *reported_only*.
+[2] ✓ / ~ Caracoron (Karakorum) ~three miles; earthen rampart; first Tartar city. ✓ Orkhon capital historical (Ögedei 1235). ~ Polo’s autopsy doubtful; Rubruck richer. [@yc, 1.46]; gazetteer *reported_only*.
 
 [3] ◇ / ? Mental excursion vs personal visit. Carpini names *Caracoron*; Rubruck: Saracen and Cathayan streets, twelve idol temples, two mosques, one Christian church.
 
-[4] ~ / ◇ Tartars paid tribute to Unc Can / Prester John then revolted north. ~ Kerait overlordship memory (Toghrul Wang Khan). ◇ European Prester John overlay. Book I.xlvi.
+[4] ~ / ◇ Tartars paid tribute to Unc Can / Prester John then revolted north. ~ Kerait overlordship memory (Toghrul Wang Khan). ◇ European Prester John overlay. [@yc, 1.46].
 
-[5] ✗ / ~ Chinghis chosen king in 1187; mild conqueror of eight provinces. ✗ Date wrong (birth ~1155/1162; *qaghan* 1202/1206). ~ Idealised early career colour. Book I.xlvii.
+[5] ✗ / ~ Chinghis chosen king in 1187; mild conqueror of eight provinces. ✗ Date wrong (birth ~1155/1162; *qaghan* 1202/1206). ~ Idealised early career colour. [@yc, 1.47].
 
 [6] ✓ / ◇ Unc Can = Toghrul Wang Khan of the Kerait under Prester John romance dress. *Secret History*; Rashid al-Din; Yule on Prester John.
 
-[7] ~ / ✗ Chinghis demanded Prester John’s daughter (1200); insulting refusal; camps on plain of Tanduc. ~ Garbled from failed ~1202 double marriage. ✗ As stated battle geography. Book I.xlviii–xlix.
+[7] ~ / ✗ Chinghis demanded Prester John’s daughter (1200); insulting refusal; camps on plain of Tanduc. ~ Garbled from failed ~1202 double marriage. ✗ As stated battle geography. [@yc, 1.48–49].
 
-[8] ✗ / ✓ / ~ Battle on Tanduc; Prester John slain; six further years; arrow-wound death at Caaju. ✗ Final Aung Khan defeat elsewhere (1203); fled, killed by Naimans. ✗ Survived ~24 years; died 1227 on Tangut campaign. ✓ / ~ Twig/cane divination type (Rubruck Nestorians). Book I.xlix–l.
+[8] ✗ / ✓ / ~ Battle on Tanduc; Prester John slain; six further years; arrow-wound death at Caaju. ✗ Final Aung Khan defeat elsewhere (1203); fled, killed by Naimans. ✗ Survived ~24 years; died 1227 on Tangut campaign. ✓ / ~ Twig/cane divination type (Rubruck Nestorians). [@yc, 1.49–50].
 
 [9] ✗ Chinghis–Prester John war: chronology and Aung Khan identity badly scrambled (Yule ★). Caaju may confuse 1212 Taitongfu wound with Möngke’s death at Hochau (*Caagiu*). Comparative: Sanang Sechen; Rashid; Chinese annals.
 
-[10] ✗ Succession: Cuy → Batuy → Alacou → Mongou → Cublay. Omits Ögedei; wrongly inserts Batu and Hülegü as supreme Kaans. Book I.li.
+[10] ✗ Succession: Cuy → Batuy → Alacou → Mongou → Cublay. Omits Ögedei; wrongly inserts Batu and Hülegü as supreme Kaans. [@yc, 1.51].
 
 [11] ~ / ◇ Cublay more powerful than all prior Kaans and than Christendom + Islam. Rhetorical; Yuan extent real enough to sustain the boast.
 
-[12] ✓ / ? / ◇ Kaans buried at Altay wherever they die; escort slays all met on road; 20,000 at Möngke’s funeral. ✓ Northern sacred burial complex. ? Which “Altay” (Burkhan Khaldun / Ordos / other). ~ / ◇ Rashid for Chinggis escort/girls/horses; ? 20,000 figure and Yuan practice (Palladius caution). Book I.li.
+[12] ✓ / ? / ◇ Kaans buried at Altay wherever they die; escort slays all met on road; 20,000 at Möngke’s funeral. ✓ Northern sacred burial complex. ? Which “Altay” (Burkhan Khaldun / Ordos / other). ~ / ◇ Rashid for Chinggis escort/girls/horses; ? 20,000 figure and Yuan practice (Palladius caution). [@yc, 1.51].
 
 [13] ? Burial atrocity topos needing Yuan check. Concealment (horses trampling grave; camel-mother locator) better evidenced than wholesale living burial for every funeral.
 
-[14] ✓ Felt circular huts, south door; black-felt waggons; women manage trade; men hunt/war; milk, meat, horse/dog/Pharaoh’s rats; chaste wives. Classic steppe ethnography (Rubruck, Carpini, Pallas). Book I.lii.
+[14] ✓ Felt circular huts, south door; black-felt waggons; women manage trade; men hunt/war; milk, meat, horse/dog/Pharaoh’s rats; chaste wives. Classic steppe ethnography (Rubruck, Carpini, Pallas). [@yc, 1.52].
 
-[15] ✓ Polygamy; first wife senior; levirate / father’s widows (except mother); Most High God + Natigay (*onggod* / Etügen); grease mouths; *Kemiz* (kumis); rich furs. Book I.lii–liii.
+[15] ✓ Polygamy; first wife senior; levirate / father’s widows (except mother); Most High God + Natigay (*onggod* / Etügen); grease mouths; *Kemiz* (kumis); rich furs. [@yc, 1.52–53].
 
-[16] ✓ / ~ Decimal army (*Tuc* / *Toman* / *Guz*); cuirbouly; feigned flight archery; horse-blood / dried milk (*kurút*); degeneration in Cathay and Levant. ✓ Organisation and Parthian tactics. ~ Blood-drinking may be extreme/occasional. Book I.liv.
+[16] ✓ / ~ Decimal army (*Tuc* / *Toman* / *Guz*); cuirbouly; feigned flight archery; horse-blood / dried milk (*kurút*); degeneration in Cathay and Levant. ✓ Organisation and Parthian tactics. ~ Blood-drinking may be extreme/occasional. [@yc, 1.54].
 
-[17] ✓ Stick justice in tens to 107; ninefold horse ransom; cattle brands; marriage of unmarried dead with burnt contract and paper dowry. Parallels in Carpini, Rubruck, Ibn Battuta, Wassāf; Chinese and Caucasian ghost-marriage parallels (de Groot). Book I.lv. ~ As specifically “Tartar” may blend Chinese practice.
+[17] ✓ Stick justice in tens to 107; ninefold horse ransom; cattle brands; marriage of unmarried dead with burnt contract and paper dowry. Parallels in Carpini, Rubruck, Ibn Battuta, Wassāf; Chinese and Caucasian ghost-marriage parallels (de Groot). [@yc, 1.55]. ~ As specifically “Tartar” may blend Chinese practice.
 
-[18] ✓ / ◇ / ? Plain of Bargu (Barguzin/Baikal); Mescript (Merkit?) ride stags; moulting-bird hunt; *Barguerlac* (*Syrrhaptes paradoxus*); northern gerfalcons; North Star left southward. ✓ Barguzin zone and sand-grouse. ◇ Hearsay compression. ? Merkit vs Barhun identity. ✗ / ~ North Star cosmographic exaggeration. Book I.lvi.
+[18] ✓ / ◇ / ? Plain of Bargu (Barguzin/Baikal); Mescript (Merkit?) ride stags; moulting-bird hunt; *Barguerlac* (*Syrrhaptes paradoxus*); northern gerfalcons; North Star left southward. ✓ Barguzin zone and sand-grouse. ◇ Hearsay compression. ? Merkit vs Barhun identity. ✗ / ~ North Star cosmographic exaggeration. [@yc, 1.56].
 
-[19] ✓ / ~ Erguiul five days east of Campichu; Sinju yak and musk; “four tusks” on musk-deer; giant pheasants. ✓ Liangzhou / Sining corridor; yak and musk country. ~ “Four tusks” = canine teeth miscounted. Book I.lvii. Marco claims to have brought wool and musk-deer parts.
+[19] ✓ / ~ Erguiul five days east of Campichu; Sinju yak and musk; “four tusks” on musk-deer; giant pheasants. ✓ Liangzhou / Sining corridor; yak and musk country. ~ “Four tusks” = canine teeth miscounted. [@yc, 1.57]. Marco claims to have brought wool and musk-deer parts.
 
-[20] ✓ / ~ Egrigaia (Ningxia / Irge Khotun); Calachan; white-camel camlets; Nestorians. ~ Calachan site (Alashan Tangut summer residence vs other). Book I.lviii.
+[20] ✓ / ~ Egrigaia (Ningxia / Irge Khotun); Calachan; white-camel camlets; Nestorians. ~ Calachan site (Alashan Tangut summer residence vs other). [@yc, 1.58].
 
-[21] ✓ / ? Tenduc; King George of Prester John’s line under the Kaan; azure stone; *Argons*; Ung and Mungul = Gog and Magog. ✓ George of the Önggüd attested. ? Exact Tenduc site. ◇ Gog/Magog allegory. Book I.lix; gazetteer Tenduc *uncertain*; Prester John *legendary*.
+[21] ✓ / ? Tenduc; King George of Prester John’s line under the Kaan; azure stone; *Argons*; Ung and Mungul = Gog and Magog. ✓ George of the Önggüd attested. ? Exact Tenduc site. ◇ Gog/Magog allegory. [@yc, 1.59]; gazetteer Tenduc *uncertain*; Prester John *legendary*.
 
 [22] ✓ / ~ Monte Corvino 1305 letter: Nestorian prince George converted to Latin rite, built Roman Church, died ~1299; twenty days from Peking. Odoric alludes. ~ “Sixth descent” and always marrying Kaan’s daughters schematic but dynastic pattern plausible. *Argon* = *Arkha’un*.
 
-[23] ✓ / ~ Sindachu troop crafts; Ydifu silver; Chagannor (“White Pool”) palace (built 1280); lakes; hawking; five crane kinds; *cator* mews. ✓ White Lake palace. Crane list partly zoologically sound (*G. monachus*, *leucogeranus*, *cinerea*, Demoiselle, *antigone*); ~ peacock-gold eyes on wings remain desideratum. Book I.lix–lx.
+[23] ✓ / ~ Sindachu troop crafts; Ydifu silver; Chagannor (“White Pool”) palace (built 1280); lakes; hawking; five crane kinds; *cator* mews. ✓ White Lake palace. Crane list partly zoologically sound (*G. monachus*, *leucogeranus*, *cinerea*, Demoiselle, *antigone*); ~ peacock-gold eyes on wings remain desideratum. [@yc, 1.59–60].

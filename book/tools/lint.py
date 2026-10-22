@@ -396,6 +396,13 @@ PROFILES = {
 }
 
 
+# S-24 citation style: checks live in tools/cite_rules.py.
+import cite_rules  # noqa: E402
+for _checks in PROFILES.values():
+    _checks.extend(cite_rules.CHECKS)
+globals().update({"c_" + n: getattr(cite_rules, "c_" + n) for n in cite_rules.CHECKS})
+
+
 def lint(doc, ctx):
     issues = []
     for name in PROFILES[doc.kind]:

@@ -2,7 +2,7 @@
 ## Necuveran, Angamanain, Seilan: Islands of Rumour and the Foot on the Peak
 
 > *“Angamanain is a very large Island… all the men… have heads like dogs… When you leave… you come to the Island of SEILAN, which is in good sooth the best Island of its size in the world… Indeed, an he had but been so, he would have been a great saint of Our Lord Jesus Christ.”*
-> — Book III.xiii–xv (Yule–Cordier)
+> — Marco Polo, Book 3, chs. 13–15 (Yule–Cordier)
 
 **[R/M]**
 

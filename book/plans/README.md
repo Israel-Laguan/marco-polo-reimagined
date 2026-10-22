@@ -56,7 +56,7 @@ plans/
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | open | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | open | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | open | — | `PLT` (PD) |
-| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | open: proposal awaiting approval | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
+| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; pass A applied, pass B after S-12) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
 
 ### Phase R — references and enrichment (deep research)
 
@@ -95,7 +95,7 @@ These are reader-facing errors with concrete fixes already in the critique. Safe
 |---|---|
 | `MED.T1` | Correct the mis-captioned images in I-F2, II-F2, III-F2 ([MED](tasks/cross/MED-existing-media.md)) |
 | `DOC.T1` | Replace `/workspace/...` paths ([DOC](tasks/cross/DOC-status-docs.md)) |
-| `HOT.1` | Replace the invented or misquoted epigraphs. The critique gives verified Yule replacements with line numbers (content plan W1.1). **Check each replacement against the existing chapter epigraphs.** Three of the Vol. II suggestions duplicate the ch-01, ch-10 and ch-13 epigraphs, so pick other verified lines for those. |
+| `HOT.1` | Replace the invented or misquoted epigraphs. The critique gives verified Yule replacements with line numbers (content plan W1.1). **Check each replacement against the existing chapter epigraphs.** Three of the Vol. II suggestions duplicate the ch-01, ch-10 and ch-13 epigraphs, so pick other verified lines for those. After fixing a quotation, run `python3 tools/cite_convert.py --pass A --apply <file>`: the credit is set from where the quotation sits in Yule (S-24). |
 | `HOT.2` | Strip the scaffolding leaks: "Soft …:" labels, instructions to self, pasted outline lists, meta lines (W1.3) |
 | `HOT.3` | Fix "Po-lo" = Bolad in II-5, II-11 and III-12. The correction is in Yule–Cordier's own addenda, so S-06 is not needed (W1.2). |
 
@@ -200,3 +200,4 @@ A manuscript file is **done** when:
 | 2026-10-21 | Voice standard = `VOICE-GUIDE.md` v2 with II-2 as reference; verbatim ≤ 15%; re-voice before cutting length; W4 in batches of 3–4 | S-01 (pilot approved by user) |
 | 2026-10-21 | Definition of done = `tools/lint.py` exits 0 (errors gate; warnings go to the human read); 7-gram verbatim confirmed; baseline 1/49 files pass | S-02 |
 | 2026-10-22 | Phase R: references and enrichment via external deep research (S-12 … S-23); results are leads, verified at intake before use | user |
+| 2026-10-22 | Citation style: Chicago author-date (18th ed.) in the Notes, Pandoc keys, base text cited as YC (1903/1920 print edition; Gutenberg is only the access route); epigraph credit `— Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; Works cited per volume | user (S-24) |

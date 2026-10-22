@@ -2,7 +2,7 @@
 ## Ca’ Polo, *Milione*, and the City That Would Not Believe
 
 > *“And when the story got wind in Venice, straightway the whole city, gentle and simple, flocked to the house to embrace them… And as it happened that in the story… of the magnificence of the Great Can, he would speak of his revenues as amounting to ten or fifteen millions of gold… so they gave him the nickname of MESSER MARCO MILLIONI.”*
-> — Ramusio’s tradition of the homecoming (Yule–Cordier Intro.)
+> — Giovanni Battista Ramusio, preface to *Navigationi et viaggi*, vol. 2 (1559), in Yule–Cordier, Introduction, § 5
 
 ---
 

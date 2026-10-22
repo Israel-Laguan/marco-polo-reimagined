@@ -2,7 +2,7 @@
 ## Cobinan, the Arbre Sec, and the Old Man of the Mountain
 
 > *“It is a tall and thick tree… and there are no other trees near it nor within a hundred miles of it.”*
-> — Book I, Of the Province of Tonocain and the Arbre Sec (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 22 (Yule–Cordier)
 
 ---
 

@@ -2,7 +2,7 @@
 ## Chandu: Bamboo Palace, White Horses, Bacsi and Sensin
 
 > *“Now let us have done with this subject, and let me tell you of the great state and wonderful magnificence of the Great Lord of Lords; I mean that great Prince who is the Sovereign of the Tartars, CUBLAY by name.”*
-> — Book I, close of the chapter Of Chandu (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 61 (Yule–Cordier)
 
 ---
 
@@ -46,36 +46,36 @@ For the great state and wonderful magnificence of the Great Lord of Lords—that
 
 ## Notes
 
-[1] ✓ / ~ Three days from Chagannor NE/N to Chandu (Shangdu / Kaipingfu), built by Kublai. ✓ Corridor and staging attested; firm ID. ~ Exact day-count schematic. Book I.lxi; gazetteer Shangdu *visited*; UNESCO ruins. Same summer orbit as Prologue Kemenfu.
+[1] ✓ / ~ Three days from Chagannor NE/N to Chandu (Shangdu / Kaipingfu), built by Kublai. ✓ Corridor and staging attested; firm ID. ~ Exact day-count schematic. [@yc, 1.61]; gazetteer Shangdu *visited*; UNESCO ruins. Same summer orbit as Prologue Kemenfu.
 
 [2] ✓ Two roads Peking–Shangtu with *nabo* staging (Palladius / Chinese route researches: Tu-shi-k’ow east, Ye-hu ling west). Chagannor palace dated 1280 (*Siu t’ung kien*).
 
-[3] ✓ / ~ Marble Palace with gilt painted chambers; park wall ~16 miles; fountains, meadows, game for hawks; 200+ gerfalcons; leopard on horse’s croup. ✓ Palace area and marble debris (Bushell 1872); trained hunting-leopards attested (Rubruck parallel). ~ Decorative detail and circuit vs surveyed acreage; falcon numbers rhetorical. Book I.lxi.
+[3] ✓ / ~ Marble Palace with gilt painted chambers; park wall ~16 miles; fountains, meadows, game for hawks; 200+ gerfalcons; leopard on horse’s croup. ✓ Palace area and marble debris (Bushell 1872); trained hunting-leopards attested (Rubruck parallel). ~ Decorative detail and circuit vs surveyed acreage; falcon numbers rhetorical. [@yc, 1.61].
 
-[4] ✓ / ~ Cane/bamboo palace: gilt, dragon columns, split-cane roof, silk braces, demountable. ✓ Cane/Palm Hall / tent architecture at Shangtu (Palladius *Tsung tien*; Rashid; *Altan Tobchi*). ~ Ramusian ornamental fullness. Book I.lxi (Ramusio fuller on columns and roofing).
+[4] ✓ / ~ Cane/bamboo palace: gilt, dragon columns, split-cane roof, silk braces, demountable. ✓ Cane/Palm Hall / tent architecture at Shangtu (Palladius *Tsung tien*; Rashid; *Altan Tobchi*). ~ Ramusian ornamental fullness. [@yc, 1.61] (Ramusio fuller on columns and roofing).
 
 [5] ✓★★★ Engineering confirmed in spirit by Shangdu archaeology and Yuan notices—not every gilt detail, but demountable cane ceremonial architecture is no romance invention. Park-size discrepancy noted by Yule (Polo ~16 miles vs Bushell ~5 sq. miles outer enclosure).
 
-[6] ✓ / ~ June–August residence for coolness; departure ~28 Aug. Moon; cane palace struck. ✓ Seasonal Shangdu sojourn (Gaubil: from 1264 Kublai left Yenking 2nd/3rd month, returned 8th; Palladius usually 4th to Shangtu, 9th back). ~ Exact lunar day. Dual capital Shangdu/Dadu is Yuan institutional fact. Book I.lxi.
+[6] ✓ / ~ June–August residence for coolness; departure ~28 Aug. Moon; cane palace struck. ✓ Seasonal Shangdu sojourn (Gaubil: from 1264 Kublai left Yenking 2nd/3rd month, returned 8th; Palladius usually 4th to Shangtu, 9th back). ~ Exact lunar day. Dual capital Shangdu/Dadu is Yuan institutional fact. [@yc, 1.61].
 
-[7] ✓ / ~ 10,000+ pure white mares; milk reserved to imperial house + Horiad (Oirad); must not pass the herd; 28 Aug. milk libation to Earth, Air, gods, spirits. ✓ White-horse prestige and Oirad privilege tradition; mare’s-milk libations (Rubruck, Palladius, Chang Te-hui). ~ Headcount; Polo’s date vs May/7th-moon parallels. Book I.lxi.
+[7] ✓ / ~ 10,000+ pure white mares; milk reserved to imperial house + Horiad (Oirad); must not pass the herd; 28 Aug. milk libation to Earth, Air, gods, spirits. ✓ White-horse prestige and Oirad privilege tradition; mare’s-milk libations (Rubruck, Palladius, Chang Te-hui). ~ Headcount; Polo’s date vs May/7th-moon parallels. [@yc, 1.61].
 
 [8] ✓ Comparative: Odoric; Qing white-horse tributes; Vámbéry “grey horse” folk-etymology of Oirad coloured by Polo; Palladius on Kunkrat matrimonial primacy as comparative puzzle.
 
-[9] ~ / ◇ / ? Weather-conjurers (Tebet/Kesimur) keep storms off the palace; Latin Devil-frame vs their claim of sanctity; dirt and squalor. ~ Weather magic cultural fact (jade *yada*; shamanic rain-making). ◇ This court feat. ? Interpretive frame. Book I.lxi.
+[9] ~ / ◇ / ? Weather-conjurers (Tebet/Kesimur) keep storms off the palace; Latin Devil-frame vs their claim of sanctity; dirt and squalor. ~ Weather magic cultural fact (jade *yada*; shamanic rain-making). ◇ This court feat. ? Interpretive frame. [@yc, 1.61].
 
 [10] Dispute hook: court performance / shamanic craft vs Latin diabolism—narrate the Book’s marvel, weigh the frame (Yule Note 8; Palladius).
 
-[11] ✗ / ◇ Tebet/Kesimur (or Bacsi) eat executed criminals, not natural dead. Prejudice topos; Oriental silence or contradiction (Yule Note 9); stock Frankish fear. Retain as *what the book says*. Book I.lxi.
+[11] ✗ / ◇ Tebet/Kesimur (or Bacsi) eat executed criminals, not natural dead. Prejudice topos; Oriental silence or contradiction (Yule Note 9); stock Frankish fear. Retain as *what the book says*. [@yc, 1.61].
 
-[12] ~ / ◇ Bacsi move cups across hall to the Emperor before thousands. ~ Juggler/illusion parallel (Odoric). ◇ As pure enchantment. *Bakhshi* from Sanskrit *bhikshu* via Uighur/Mongol for lama / clerk / wonder-worker. Book I.lxi.
+[12] ~ / ◇ Bacsi move cups across hall to the Emperor before thousands. ~ Juggler/illusion parallel (Odoric). ◇ As pure enchantment. *Bakhshi* from Sanskrit *bhikshu* via Uighur/Mongol for lama / clerk / wonder-worker. [@yc, 1.61].
 
-[13] ✓ / ~ Bacsi feast requisitions (black-faced sheep, incense, lignaloes) granted by Kaan; meat and broth before idols; named feast-days like Saints’ days. ✓ Imperial patronage of Buddhist rites well attested. ~ Dialogue form. Book I.lxi.
+[13] ✓ / ~ Bacsi feast requisitions (black-faced sheep, incense, lignaloes) granted by Kaan; meat and broth before idols; named feast-days like Saints’ days. ✓ Imperial patronage of Buddhist rites well attested. ~ Dialogue form. [@yc, 1.61].
 
 [14] ✓ / ~ Abbeys with 2,000+ monks; shaved Bacsi; some married. ✓ Great Shangdu monasteries (108-temples name; Yun-Hien stele 1288). ~ Census figures. Cup marvel as stagecraft likelier than diabolism.
 
-[15] ✓ / ~ Sensin = bran-and-water ascetics; no wives; black/blue hemp; mat sleeping; feminine idols; sometimes fire worship; called heretics (*Patarins*) by other Idolaters. ✓ Daoist (*Tao-sze* / *xian-sheng*) identification strong (Palladius; Cordier). ~ “Bran” diet literalism (Rockhill: possible mistranslation). Book I.lxi.
+[15] ✓ / ~ Sensin = bran-and-water ascetics; no wives; black/blue hemp; mat sleeping; feminine idols; sometimes fire worship; called heretics (*Patarins*) by other Idolaters. ✓ Daoist (*Tao-sze* / *xian-sheng*) identification strong (Palladius; Cordier). ~ “Bran” diet literalism (Rockhill: possible mistranslation). [@yc, 1.61].
 
 [16] ✓ / ~ Buddhist–Daoist rivalry colours “heretic” label; *Patarin* = Polo’s Lombard Cathar gloss; Tao-sze monasteries at Shangtu (city and suburb). Ramusian expansions on Sensin secondary to Geographic French.
 
-[17] ✓ Soft hinge to person of Cublay / Vol. II—explicit close of Book I.lxi. ✓ / ~ Young Marco’s arrival at this summer wonder (Prologue Kemenfu/Shangdu landing; Book I geography as later itinerary overlay). Cachar Modun = later hunting horizon only. Coleridge’s “Xanadu” = Vol. III reception history, not developed here. Comparative: Bushell; Shangdu archaeology / UNESCO; Yuan Shi; Gaubil; Rashid; Odoric; Rubruck; Rossabi, *Khubilai Khan*; Steinhardt on Yuan capitals; Haw; Atwood.
+[17] ✓ Soft hinge to person of Cublay / Vol. II—explicit close of YC 1.61. ✓ / ~ Young Marco’s arrival at this summer wonder (Prologue Kemenfu/Shangdu landing; Book I geography as later itinerary overlay). Cachar Modun = later hunting horizon only. Coleridge’s “Xanadu” = Vol. III reception history, not developed here. Comparative: Bushell; Shangdu archaeology / UNESCO; Yuan Shi; Gaubil; Rashid; Odoric; Rubruck; Rossabi, *Khubilai Khan*; Steinhardt on Yuan capitals; Haw; Atwood.

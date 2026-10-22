@@ -2,7 +2,7 @@
 ## Ships of Manzi and the Island of Chipangu
 
 > *“Chipangu is an Island towards the east in the high seas… And I can tell you the quantity of gold they have is endless… he hath a great Palace which is entirely roofed with fine gold, just as our churches are roofed with lead.”*
-> — Book III.ii (Yule–Cordier)
+> — Marco Polo, Book 3, ch. 2 (Yule–Cordier)
 
 **[R]**
 

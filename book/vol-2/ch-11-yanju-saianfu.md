@@ -2,7 +2,7 @@
 ## Yanju and Saianfu: Governorship Claim and the Mangonel Story
 
 > *“And Messer Marco Polo himself, of whom this book speaks, did govern this city for three full years, by the order of the Great Kaan.”*
-> — Book II.lxviii (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 68 (Yule–Cordier)
 
 **[M]**
 

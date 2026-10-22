@@ -2,7 +2,7 @@
 ## Tebet, Caindu, Carajan, Zardandan
 
 > *“After those five days’ march that I spoke of, you enter a province which has been sorely ravaged; and this was done in the wars of Mongu Kaan.”*
-> — Book II.xlv (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 45 (Yule–Cordier)
 
 **[M]**
 

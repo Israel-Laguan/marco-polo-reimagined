@@ -42,7 +42,7 @@ Soft close here: Chamba’s elephants and claimed year; Java’s overstated circ
 
 ## Notes
 
-[1] ✓ / ~ Book III.v–viii as southern Ocean road from Zayton. Gazetteer: Chamba *visited*; Java *reported_only*; Locac *uncertain*; Pentam *likely_visited*; Malaiur *uncertain*. Tag **[R/M]**.
+[1] ✓ / ~ YC 3.5–8 as southern Ocean road from Zayton. Gazetteer: Chamba *visited*; Java *reported_only*; Locac *uncertain*; Pentam *likely_visited*; Malaiur *uncertain*. Tag **[R/M]**.
 
 [2] ✓ Chamba = Champa on Indo-China coast; Idolater kingdom on Zayton–India route. Arab *Ṣanf*; Chinese Chen-ching; Cham polity. ~ Zayton → Chamba ~1,500 miles WSW as schematic run — order and bearing sound; mileage formulaic.
 

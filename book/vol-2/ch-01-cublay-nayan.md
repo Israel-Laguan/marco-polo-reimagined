@@ -2,7 +2,7 @@
 ## Cublay Kaan: Puissance, Nayan, and the Ordo of Victory
 
 > *“Now am I come to that part of our Book in which I shall tell you of the great and wonderful magnificence of the Great Kaan now reigning, by name CUBLAY KAAN.”*
-> — Book II, opening (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 1 (Yule–Cordier)
 
 **[M]**
 
@@ -52,7 +52,7 @@ Thus the Ordo of Victory closes into the machinery of favour. A rebel wrapped wi
 
 ## Notes
 
-[1] ✓ / ~ Cublay as most potent Lord of his age (forces, lands, treasure). ✓ Yuan scale unmatched in Eurasia; ~ Adam-to-now superlative is book rhetoric. Soft landing from Chandu (Vol. I-13) into Book II.i.
+[1] ✓ / ~ Cublay as most potent Lord of his age (forces, lands, treasure). ✓ Yuan scale unmatched in Eurasia; ~ Adam-to-now superlative is book rhetoric. Soft landing from Chandu (Vol. I-13) into YC 2.1.
 
 [2] ✓ / ✗ Right Imperial descent from Chinghis; disputed succession won by ability. ✓ Chinghizide genealogy and Ariq Böke contest historical. ✗ Acceded 1256; sixth Supreme Kaan — ✓ 1260 accession; fifth Kaan (Yule). Age ~85 in 1298 and reign of 42 years are schematic from the 1298 dictation horizon; he died Feb. 1294.
 

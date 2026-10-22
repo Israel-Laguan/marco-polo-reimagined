@@ -2,7 +2,7 @@
 ## Hunt, Hounds, Litter, and the Traffic of a Million
 
 > *“You must know that the city of Cambaluc hath such a multitude of houses, and such a vast population inside the walls and outside, that it seems quite past all possibility.”*
-> — Book II.xxii (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 22 (Yule–Cordier)
 
 **[V]**
 

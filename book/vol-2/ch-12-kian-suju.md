@@ -2,7 +2,7 @@
 ## Kian, Suju, and the Approach to Heaven’s City
 
 > *“And I assure you this river flows so far and traverses so many countries and cities that in good sooth there pass and repass on its waters a great number of vessels, and more wealth and merchandize than on all the rivers and all the seas of Christendom put together!”*
-> — Book II.lxxi (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 71 (Yule–Cordier)
 
 **[V]**
 

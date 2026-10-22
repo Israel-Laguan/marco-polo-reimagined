@@ -2,7 +2,7 @@
 ## Mien and Bangala: Elephants, Battle, Towers of Gold and Silver
 
 > *“But I was forgetting to tell you of a famous battle that was fought in the kingdom of Vochan in the Province of Zardandan, and that ought not to be omitted from our Book.”*
-> — Book II.li (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 51 (Yule–Cordier)
 
 **[R/M]**
 

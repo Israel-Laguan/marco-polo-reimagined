@@ -95,11 +95,30 @@ One system, four parts: **Notes** (numbered, at the chapter's end), **markers** 
 ### Notes
 
 1. **One Note per citation, one citation per anchor.** A Note opens with the verdict on the anchored passage: one marker, or a pair "core / detail" when they differ ("✓ / ~ …"). Clauses after it carry their own markers. More than four marker clauses means the anchor is doing too much: split the sentence and add a citation.
-2. Shape: `[n] ✓ The claim in a few words. Evidence and corroboration. Comparative witnesses.` Cite modern scholars by well-known position only; no invented page numbers.
+2. Shape: `[n] ✓ The claim in a few words. Evidence and corroboration. Comparative witnesses.` Sources are cited as § Citations below says; no invented page numbers.
 3. **No placeholder Notes** ("see [5]", "soft transition", "companion framing only"). A Note that only points to another Note is merged into it and its citation is dropped.
 4. **No duplicate Notes** on one claim: "★ Dispute:" fragments and "Dispute hook / Dispute stance:" labels are merged into the Note they belong to.
 5. **No scaffolding or tooling language** (`/workspace`, gazetteer labels like *visited*, "outline", "drafter"). Facts awaiting verification are marked **To verify (S-06)**.
 6. Every Note opens with a marker. Front and back matter follow the same rule.
+
+### Citations (S-24)
+
+Style: *Chicago Manual of Style*, 18th ed., **author-date**, used inside the Notes only. The narrative body carries nothing but `[n]`.
+
+| What | Write in the Markdown | Prints as |
+|---|---|---|
+| Base text, a chapter | `[@yc, 1.61]` as a citation; `YC 1.61` inside a sentence | (YC 1.61) |
+| Base text, a range / the Prologue / a Yule note | `[@yc, 3.9–11]` · `[@yc, Prol. 17–18]` · `[@yc, 2.23 n. 4]` | (YC 3.9–11) … |
+| Cordier's 1920 addenda | `[@ycadd, on 2.23]` | (YC Add., on 2.23) |
+| A modern work | `Vogel [-@vogel2013marco] shows…` or `…as Larner argues [@larner1999marco].` | Vogel (2013) shows… / (Larner 1999) |
+| A locator in a modern work | `[@haw2006marco, ch. 4]`; a page only if someone has seen it | (Haw 2006, chap. 4) |
+
+1. **Sigla.** `YC` = Yule–Cordier 1903; `YC Add.` = Cordier 1920. Locators are book.chapter in Arabic numerals (Yule's Book I, ch. LXI = 1.61; Prologue = Prol.). Each volume's front matter has a *List of abbreviations*.
+2. **Keys** live in `plans/registry/bibliography.bib`. The lint rejects a key that isn't there. Keys are `authorYEARword` (S-12); the base text uses its siglum (`yc`, `ycadd`).
+3. **No page numbers you haven't seen.** Book/chapter locators for primary texts are always fine.
+4. **Old books are cited by their print edition.** A digitisation (Project Gutenberg, Internet Archive…) goes in the bibliography entry as the access route, never as the work's date.
+5. **Epigraph credit**, one form: `> — Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; ranges `chs. 9–11`; `Prologue, ch. 3` / `Prologue, preamble`; a Ramusio-only epigraph adds the source: `(Ramusio; Yule–Cordier)`. A non-Polo epigraph names its author, work and year. A paraphrase ends in *(adapted)*; a later tradition in *(tradition)*. `tools/cite_convert.py --pass A` sets Polo credits from the quotation itself.
+6. **Works cited** at the end of each volume, generated from the keys that volume cites.
 
 ### Tags (whole-chapter verdict, Vols. II–III)
 
@@ -142,6 +161,7 @@ The Markdown stays plain; the build (S-08) converts mechanically because every e
 | Tag line | a paragraph that is only `**[V]**` etc. | filter sets it as a small-caps line under the title |
 | Ramusio flag | ordinary words | no markup needed |
 | How-to-read box | `::: howto … :::` (Pandoc fenced div) | boxed environment |
+| Source citation | `[@key, locator]` (Pandoc citation) | `biblatex-chicago` (authordate) via `pandoc --biblatex`; one `refsection` per volume; `\printbiblist{shorthand}` for the abbreviations; *Works cited* per volume |
 
 For S-08: confirm a font with ✓ ✗ ◇ coverage and the endnote-vs-footnote choice.
 
@@ -150,7 +170,7 @@ For S-08: confirm a font with ✓ ✗ ◇ coverage and the endnote-vs-footnote c
 - Working base: Yule–Cordier: Yule's translation, 3rd ed. rev. Cordier (London: John Murray, 1903), with Cordier's *Notes and Addenda* (1920); read in the Project Gutenberg digitisation (eBooks 10636 and 12410, 2004). Eclectic toward the Geographic Old French line.
 - Keep factual coverage from the outline beats; don't invent itinerary or quotations. Every quotation must be findable in `refs/`.
 - Flag Ramusio, Pipino, Jacopo d'Acqui and later embroidery honestly; never absorb them silently as primary fact.
-- Cite modern scholars by well-known positions (Yule, Larner, Benedetto, Moule–Pelliot, de Rachewiltz, etc.); no fabricated page numbers.
+- Cite sources as § Citations says (Chicago author-date, keys in `plans/registry/bibliography.bib`); no fabricated page numbers.
 
 ## What to avoid
 

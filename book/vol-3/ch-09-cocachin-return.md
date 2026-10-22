@@ -2,7 +2,7 @@
 ## The Princess Cocachin: Departure, Sea Passage, and the Way Home
 
 > *“Now it came to pass in those days that the Queen BOLGANA, wife of ARGON, Lord of the Levant, departed this life… The Kaan… sent for a lady whose name was COCACHIN… They put forth to sea… nearly all died by the way… And this was in the year 1295 of Christ’s Incarnation.”*
-> — Prologue xvii–xviii (Yule–Cordier)
+> — Marco Polo, Prologue, chs. 17–18 (Yule–Cordier)
 
 ---
 
@@ -46,7 +46,7 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 ## Notes
 
-[1] ✓ / ~ Polos seek leave after long service; Kublai reluctant. Pegolotti later records the same fear for foreign merchants when a sovereign falls. Prologue xvii–xviii spine.
+[1] ✓ / ~ Polos seek leave after long service; Kublai reluctant. Pegolotti later records the same fear for foreign merchants when a sovereign falls. YC Prol. 17–18 spine.
 
 [2] ✓ Bulughan’s death (7 April 1286) on the Kur in Georgia; Bayaut kinship; dying wish for Bayaut successor-bride (Hammer / Ilkhanid chronology). ✓ / ~ Arghun’s embassy of Uladai, Apushka, Koja — ✓ embassy pattern and names plausible in Mongol record (Rashid knows an Apushka of the Urnaut sent envoy to the Great Kaan); ~ all three as a fixed trio only in Polo.
 
@@ -80,4 +80,4 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 [17] ✓ / ~ News of Kublai’s death (18 Feb 1294 Chinese reckoning) heard on the Persian journey (Ramusio) — ✓ death date; ~ Ramusian placement. ✓ / ~ Trebizond → Constantinople → Negropont → Venice, 1295 — ✓ traditional return arc and Black Sea road; ~ exact year (1295 vs 1296 debate; some argue 1296 to fit “twenty-six years” absence from 1271). Haw and Larner keep the Prologue’s 1295 as usable tradition while marking the compressions. Chronology tensions: Ghazan’s throne (Oct 1295) known to the dictating Marco; Book sometimes assigns 1294 to that accession.
 
-**Comparative:** Yule–Cordier Prologue xvii–xviii and Intro. §§21–22; Rashid al-Din (Quatremère; Thackston/Boyle); Hammer *Geschichte der Ilchane*; Wassaf (Elliot); Rossabi on Kublai; Haw chronology; Larner; Sykes on Persian return road.
+**Comparative:** YC Prol. 17–18 and Intro. §§21–22; Rashid al-Din (Quatremère; Thackston/Boyle); Hammer *Geschichte der Ilchane*; Wassaf (Elliot); Rossabi on Kublai; Haw chronology; Larner; Sykes on Persian return road.

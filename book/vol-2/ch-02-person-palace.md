@@ -2,7 +2,7 @@
 ## Person, Wives, Sons, and the Palace Inside the Walls
 
 > *“The personal appearance of the Great Kaan, Lord of Lords, whose name is Cublay, is such as I shall now tell you.”*
-> — Book II.viii (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 8 (Yule–Cordier)
 
 **[M]**
 

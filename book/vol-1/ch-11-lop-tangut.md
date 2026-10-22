@@ -2,7 +2,7 @@
 ## Charchan, Lop, Tangut, Camul: Desert Voices and the Edge of Cathay
 
 > *“Even in the day-time one hears those spirits talking. And sometimes you shall hear the sound of a variety of musical instruments, and still more commonly the sound of drums.”*
-> — Book I, Of the City of Lop and the Great Desert (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 39 (Yule–Cordier)
 
 ---
 
@@ -46,35 +46,35 @@ Thus the Venetian itinerary has brought the reader from jade country across the 
 
 ## Notes
 
-[1] ✓ / ~ Charchan (Cherchen/Qiemo): sandy oasis, jade rivers sold into Cathay, bitter water, flight into sand before armies. ✓ Cherchen/jade/salt-water ethnography (Johnson, Shaw, Grenard). ~ Exact “five days” and army-escape colour. Book I.xxxviii; gazetteer *likely_visited*.
+[1] ✓ / ~ Charchan (Cherchen/Qiemo): sandy oasis, jade rivers sold into Cathay, bitter water, flight into sand before armies. ✓ Cherchen/jade/salt-water ethnography (Johnson, Shaw, Grenard). ~ Exact “five days” and army-escape colour. [@yc, 1.38]; gazetteer *likely_visited*.
 
-[2] ✓ / ? City of Lop as staging post; week’s rest; month’s supplies. ✓ Lob/Charklik (Ruoqiang) tradition firm. ? Exact medieval town site (Charkalyk vs Ouash Shahri). Book I.xxxix; gazetteer *visited*.
+[2] ✓ / ? City of Lop as staging post; week’s rest; month’s supplies. ✓ Lob/Charklik (Ruoqiang) tradition firm. ? Exact medieval town site (Charkalyk vs Ouash Shahri). [@yc, 1.39]; gazetteer *visited*.
 
-[3] ✓ / ~ Desert least breadth ~one month; sparse wells (~28 good, 4 brackish); no forage. ✓ Gobi/Lop hardship. ~ “Year and more” length and well-count schematic. Book I.xxxix.
+[3] ✓ / ~ Desert least breadth ~one month; sparse wells (~28 good, 4 brackish); no forage. ✓ Gobi/Lop hardship. ~ “Year and more” length and well-count schematic. [@yc, 1.39].
 
-[4] ✓ / ◇ Spirit voices calling by name; false cavalcades; day drums and musical sounds. ✓ Motif in Chinese and pilgrim sources for this desert (Fa-hian, Hiuen Tsang, Ma Twan-lin). ◇ As literal demonology. Book I.xxxix.
+[4] ✓ / ◇ Spirit voices calling by name; false cavalcades; day drums and musical sounds. ✓ Motif in Chinese and pilgrim sources for this desert (Fa-hian, Hiuen Tsang, Ma Twan-lin). ◇ As literal demonology. [@yc, 1.39].
 
 [5] ✓ / ~ / ? Singing-sand acoustics attested near Shachau (Ming-sha) and worldwide; Polo attributes them to spirits. ? Thirty-day Lop→Sachiu timing and Lob-nor route geometry long debated (Richthofen–Hedin–Kozlov). Universal desert-goblin folklore (Pliny, Mas’udi, Ibn Battuta, Conti).
 
-[6] ✓ Sachiu (Shachau/Dunhuang) in Tangut (Si Hia / Hexi); Buddhists, Nestorians, Muslims; agriculture; abbeys; sheep dedication and feast. ✓ Kalmak/Shaman–Buddhist “Heaven’s Ram” parallels (Pallas). Book I.xl.
+[6] ✓ Sachiu (Shachau/Dunhuang) in Tangut (Si Hia / Hexi); Buddhists, Nestorians, Muslims; agriculture; abbeys; sheep dedication and feast. ✓ Kalmak/Shaman–Buddhist “Heaven’s Ram” parallels (Pallas). [@yc, 1.40].
 
-[7] ✓ Cremation; paper men/horses/money burnt; astrologer-timed burial; thick painted coffin with camphor; daily food for the soul; sometimes wall-hole instead of door. Classic Chinese/Buddhist funerary complex (De Groot; Doolittle). Book I.xl.
+[7] ✓ Cremation; paper men/horses/money burnt; astrologer-timed burial; thick painted coffin with camphor; daily food for the soul; sometimes wall-hole instead of door. Classic Chinese/Buddhist funerary complex (De Groot; Doolittle). [@yc, 1.40].
 
 [8] ✗ / ✓ “All Idolaters in the world burn their dead” — ✓ customs real; ✗ as universal Buddhist rule. Door/wall exit widely paralleled (Chinese, Tibetan, Umbrian “Door of the Dead,” Samoyedes).
 
-[9] ✓ / ◇ Camul (Hami) between deserts; easy living; oasis produce. ✓ Hami oasis character. ◇ Marco’s personal visit doubtful (digression off main road). Book I.xli; gazetteer *reported_only*.
+[9] ✓ / ◇ Camul (Hami) between deserts; easy living; oasis produce. ✓ Hami oasis character. ◇ Marco’s personal visit doubtful (digression off main road). [@yc, 1.41]; gazetteer *reported_only*.
 
-[10] ✓ / ~ / ◇ Sexual hospitality; husband as willing wittol; Mangu’s failed ban; petition and “keep your shame.” ✓ Custom-type paralleled (Hung Hao on Uighúrs; Ibn Muhalhal; Chukchi/Koryak; Polo’s own E. Tibet notice). ~ Mangu anecdote. ◇ Moralising Latin heat (*bozzi*/wittols). Book I.xli.
+[10] ✓ / ~ / ◇ Sexual hospitality; husband as willing wittol; Mangu’s failed ban; petition and “keep your shame.” ✓ Custom-type paralleled (Hung Hao on Uighúrs; Ibn Muhalhal; Chukchi/Koryak; Polo’s own E. Tibet notice). ~ Mangu anecdote. ◇ Moralising Latin heat (*bozzi*/wittols). [@yc, 1.41].
 
 [11] ◇ / ? Camul as autopsy vs elder Polos or hearsay (Pegolotti, Marignolli, Shah Rukh, Goes routes pass the oasis). Nestorian bishopric attested 1266.
 
-[12] ✓ / ? Chingintalas: steel, ondanique, asbestos “Salamander”; Zurficar’s three-year procurement; fire-bleached napkins; Rome napkin for Sudarium. ✓ Asbestos fabric process sound (Browne; Cardan). ? Province name/location (Chi-kin / Kemkemjút / Kobdo). Book I.xlii. G. Text “*Et je meisme le vi*” = saw the fabric, not necessarily the mine.
+[12] ✓ / ? Chingintalas: steel, ondanique, asbestos “Salamander”; Zurficar’s three-year procurement; fire-bleached napkins; Rome napkin for Sudarium. ✓ Asbestos fabric process sound (Browne; Cardan). ? Province name/location (Chi-kin / Kemkemjút / Kobdo). [@yc, 1.42]. G. Text “*Et je meisme le vi*” = saw the fabric, not necessarily the mine.
 
 [13] ✓ / ◇ / ? Salamander as mineral fibre, not fire-beast — famous demystification. ◇ / ? Kaan’s napkin at Rome unverified (Cordier: Vatican asbestos fragment is pagan Appian-Way find, not Kublai’s gift).
 
-[14] ✓ Sukchur (Suhchau/Jiuquan); Tangut; mountain rhubarb exported worldwide; poisonous pasture; brown complexion; healthy. ✓ Firm ID (Rashīd *Sukchú*); *Rheum palmatum*; toxic pasture parallels (*Stipa inebrians* / Ericaceae). ~ “Lose hoofs” may compress lameness/poisoning. Book I.xliii; gazetteer Succiu *visited*.
+[14] ✓ Sukchur (Suhchau/Jiuquan); Tangut; mountain rhubarb exported worldwide; poisonous pasture; brown complexion; healthy. ✓ Firm ID (Rashīd *Sukchú*); *Rheum palmatum*; toxic pasture parallels (*Stipa inebrians* / Ericaceae). ~ “Lose hoofs” may compress lameness/poisoning. [@yc, 1.43]; gazetteer Succiu *visited*.
 
-[15] ✓ Campichu (Kanchau/Zhangye) capital of Tangut; three Christian churches; vast gilt idols; recumbent great idols (ten paces) with attendants; five monthly fast days; polygamy and cousin/stepmother marriage. ✓ Nirvana Buddha type confirmed by Shah Rukh, Hajji Mahomed, *Wo-fo-sze*. ✓ / ~ Buddhist fast days; Inner Asian matrimonial patterns. Book I.xliv; gazetteer *visited*.
+[15] ✓ Campichu (Kanchau/Zhangye) capital of Tangut; three Christian churches; vast gilt idols; recumbent great idols (ten paces) with attendants; five monthly fast days; polygamy and cousin/stepmother marriage. ✓ Nirvana Buddha type confirmed by Shah Rukh, Hajji Mahomed, *Wo-fo-sze*. ✓ / ~ Buddhist fast days; Inner Asian matrimonial patterns. [@yc, 1.44]; gazetteer *visited*.
 
 [16] ~ / ◇ Maffeo and Marco spent a year at Campichu on a mission. Textual variants (with/without Nicolo; “legation” vs private business); not independently confirmed.
 

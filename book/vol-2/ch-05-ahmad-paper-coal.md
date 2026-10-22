@@ -2,7 +2,7 @@
 ## Ahmad the Bailo, Paper Money, Posts, Coal, and Charity
 
 > *“Now when all this happened Messer Marco was upon the spot.”*
-> — Book II.xxiii (Ramusio / Yule–Cordier)
+> — Marco Polo, Book 2, ch. 23 (Ramusio; Yule–Cordier)
 
 **[M]**
 

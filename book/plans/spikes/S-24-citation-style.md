@@ -1,6 +1,6 @@
 # S-24 — Citation and bibliography style
 
-**Status:** open: proposal below, **awaiting user approval** · **Timebox:** 1 session to decide + a scripted conversion in two passes · **Depends:** S-12 (bibliography keys, for pass B); S-08 (biblatex in the build) · **Gates:** every Note's citations; epigraph attributions; the back-matter bibliography; lint rules for citations
+**Status:** decided 2026-10-22; pass A done; pass B waits on S-12 · **Timebox:** 1 session to decide + a scripted conversion in two passes · **Depends:** S-12 (bibliography keys, for pass B); S-08 (biblatex in the build) · **Gates:** every Note's citations; epigraph attributions; the back-matter bibliography; lint rules for citations
 
 ## Question
 Which modern citation style replaces "cite modern scholars by well-known position"? How do we cite the base text, a 1903/1920 book that we read through a 2004 digitisation? And how do we convert the existing ~700 Notes with as little hand work as possible?
@@ -42,7 +42,7 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 
 1. **Style: *Chicago Manual of Style*, 18th ed. (2024), author-date, used inside the endnotes.** The body keeps only the `[n]` markers, so the storyteller voice is untouched. A Note reads "✓ … Vogel (2013) shows the salt figures match Yuan revenue records." Author-date is chosen over Chicago's notes-bibliography system because our Notes are already endnotes; that system would put footnote-style references inside them.
 2. **The base text is cited by siglum.** `YC` = Yule–Cordier 1903; `YC Add.` = Cordier 1920. Locators are book.chapter in Arabic numerals: Book I, ch. LXI → **YC 1.61**; Prologue → **YC Prol. 17–18**; Yule's own note to a chapter → **YC 2.23 n. 4**. A *List of abbreviations* in the front matter explains the sigla and the Roman-to-Arabic mapping, so a reader can open the Gutenberg text at "CHAPTER LXI".
-3. **Authoring syntax: Pandoc citation keys** in the Markdown: `[@vogel2013marco]`, `Vogel [-@vogel2013marco]`, `[@yule1903marco, 1.61]`. The `.bib` `shorthand` field makes the base text print as "YC 1.61". One source renders through two routes:
+3. **Authoring syntax: Pandoc citation keys** in the Markdown: `[@vogel2013marco]`, `Vogel [-@vogel2013marco]`, `[@yc, 1.61]`. The `.bib` `shorthand` field makes the base text print as "YC 1.61". One source renders through two routes:
    - LaTeX: `biblatex-chicago` (authordate), one `refsection` per volume, and `\printbiblist{shorthand}` for the abbreviations;
    - previews and EPUB: `citeproc` with the Chicago author-date CSL.
 4. **Page numbers:** the voice-guide rule stays. A page or section locator is added only after someone has seen it in the source. Book and chapter locators for primary texts are always fine.
@@ -51,7 +51,7 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 7. **Bibliography placement:** a *Works cited* at the end of each volume, listing only the works cited in that volume. (Alternative: one consolidated list at the end of Vol. III. Decide with the user.)
 
 ## Method (once approved)
-1. **Pass A (now, mechanical):** `tools/cite_convert.py --pass A --dry-run` converts epigraph attributions and `Book N.roman` locators to the new forms. Review the dry-run diff, apply, run the lint.
+1. **Pass A (now, mechanical):** `tools/cite_convert.py --pass A` (dry run; `--apply` to write) converts epigraph attributions and `Book N.roman` locators to the new forms. Review the dry-run diff, apply, run the lint.
 2. **Pass B (after S-12 intake):** the same script, with S-12's name → key map, converts unambiguous scholar mentions in the Notes to keys. It lists every ambiguous mention (Wood, May, Jackson, Morgan) with file and line; those are resolved by hand.
 3. **Remainder:** during each chapter's W4 / `.T4`, any citation still not converted is done by hand. The lint enforces this from then on.
 4. Extend the lint (S-02):
@@ -61,10 +61,10 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
    - a scholar surname from the S-12 map without a key in a Note is a warning, and becomes an error after pass B.
 
 ## Output (definition of done)
-- [ ] Decision approved (style, sigla, epigraph form, bibliography placement)
-- [ ] `VOICE-GUIDE.md`: Notes rule 2 and § Apparatus rewritten for the new style
-- [ ] `tools/cite_convert.py` (passes A and B) and the lint rules
-- [ ] Pass A applied; pass B applied after S-12; ambiguous list resolved
+- [x] Decision approved (style, sigla, epigraph form, bibliography placement)
+- [x] `VOICE-GUIDE.md`: Notes rule 2 and § Apparatus rewritten for the new style
+- [ ] `tools/cite_convert.py` (pass A ✓; pass B after S-12) and the lint rules ✓
+- [ ] Pass A applied ✓; pass B applied after S-12; ambiguous list resolved
 - [ ] Front-matter *List of abbreviations*; back-matter *Works cited* wired into the build (with S-08)
 
 ## Feedback to plan
@@ -75,7 +75,16 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 - `S-02` / `tools/lint.py`: the citation rules above
 
 ## Decision
-_(fill when approved: the answer, in 1–5 lines, plus the date)_
+**2026-10-22, approved by the user:** Chicago author-date in the Notes (proposal items 1–6 as written); epigraph credit `— Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; *Works cited* at the end of each volume. Base-text keys are the sigla themselves (`yc`, `ycadd`).
+
+**Pass A, applied 2026-10-22** (`tools/cite_convert.py --pass A --apply`):
+- 30 epigraph credits converted, each book and chapter taken from where the quotation sits in Yule (not from the old credit). 1 Ramusio epigraph set by hand (III-10).
+- 50 Roman locators in the Notes converted: 43 to `[@yc, …]`, 7 used inside sentences to `YC …`.
+- Lint before and after: no file gained or lost an error; the passing count is unchanged.
+- **Left for others:** 19 epigraphs whose quotation isn't in Yule's text; they are HOT.1's invented or misquoted epigraphs. After HOT.1 fixes a quotation, rerun pass A on the file and the credit sets itself. 7 Roman locators in narrative bodies ("Thus Book II.lx–lxv has done what it promised…") are recap scaffolding for the re-voice to delete.
+- Lint rules added (`tools/cite_rules.py`): `cite_keys`, `roman_locators`, `epigraph_credit` (all errors).
+
+**Changed in plan docs:** `VOICE-GUIDE.md` § Notes rule 2, new § Citations, LaTeX apparatus table, § Base text; `FRONT-BACK-MATTER.md` § Apparatus generated by the build; `S-12` method step 4.
 
 ## Tasks to create on close
 - `BLD.T*`: `cite_convert.py`, lint rules, biblatex wiring

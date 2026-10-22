@@ -2,7 +2,7 @@
 ## Lesser and Greater Hermenia; Turcomania; Georgiania
 
 > *“Whatsoever persons would travel to the interior… they take their way by this city of Layas.”*
-> — Book I, Of the Lesser Hermenia (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 1 (Yule–Cordier)
 
 ---
 
@@ -40,7 +40,7 @@ So ends the Caucasian opening of Book I: from feverish Ayas to carpeted Turcoman
 
 ## Notes
 
-[1] ✓ Two Hermenias (Lesser = Cilician kingdom; Greater = highland Armenia). Standard medieval usage. Book I.i–iv begins the geographic survey proper after the Prologue.
+[1] ✓ Two Hermenias (Lesser = Cilician kingdom; Greater = highland Armenia). Standard medieval usage. YC 1.1–4 begins the geographic survey proper after the Prologue.
 
 [2] ✓ Lesser Hermenia’s king subject to the Tartar (Ilkhan); unhealthy / feverish Cilician coast. Hetumid Mongol submission well attested; Sanuto’s *terra infirma* and later travellers confirm the ecology. Historical skeleton: Mongol submission, Mamluk pressure (cf. I-3 Bundukdar), kingdom ended by Egypt 1375.
 

@@ -2,7 +2,7 @@
 ## The House of Polo and the Elder Voyage
 
 > *“The Great Kaan hath never seen any Latins, and he hath a great desire so to do.”*
-> — The Envoys at Bocara, Prologue (Yule–Cordier)
+> — Marco Polo, Prologue, ch. 3 (Yule–Cordier)
 
 ---
 

@@ -2,7 +2,7 @@
 ## Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys
 
 > *“It is in this province that those fine and valuable gems the Balas Rubies are found… There is also in the same country another mountain, in which azure is found; ’tis the finest in the world.”*
-> — Book I, Of the Province of Badashan (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 29 (Yule–Cordier)
 
 ---
 

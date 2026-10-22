@@ -2,7 +2,7 @@
 ## In a Genoese Prison: How This Book Was Made
 
 > *“Take this Book and cause it to be read to you.”*
-> — Opening address of the Old French tradition (Rustichello’s preamble)
+> — Marco Polo, Prologue, preamble (Yule–Cordier)
 
 ---
 

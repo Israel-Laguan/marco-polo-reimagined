@@ -2,7 +2,7 @@
 ## Tauris, Persia of the Three Kings, and the Eight Kingdoms
 
 > *“In Persia is the city of Saba, from which the Three Magi set out when they went to worship Jesus Christ.”*
-> — Book I, Of the Great Country of Persia (Yule–Cordier)
+> — Marco Polo, Book 1, ch. 13 (Yule–Cordier)
 
 ---
 
@@ -46,7 +46,7 @@ Thus Chapter I-6 holds Tauris as the merchant’s hinge after Baudas; Persia as 
 
 ## Notes
 
-[1] ✓ / ~ Tauris as major silk/gold and gem market drawing Genoese/Latins. ✓ Ilkhanid commercial primacy; Viglioni will 1264; later Genoese/Venetian factories; Ibn Baṭṭūṭa, Odoric, Rashid al-Din. ~ / ✗ Tauris placed in “Yrac” — ~ as Ilkhanid capital metonym (*Malik al-’Irāq*); ✗ if taken as proper geography (Azerbaijan ≠ ’Irāq). Book I.xi. Gazetteer: *visited* (outbound and return).
+[1] ✓ / ~ Tauris as major silk/gold and gem market drawing Genoese/Latins. ✓ Ilkhanid commercial primacy; Viglioni will 1264; later Genoese/Venetian factories; Ibn Baṭṭūṭa, Odoric, Rashid al-Din. ~ / ✗ Tauris placed in “Yrac” — ~ as Ilkhanid capital metonym (*Malik al-’Irāq*); ✗ if taken as proper geography (Azerbaijan ≠ ’Irāq). [@yc, 1.11]. Gazetteer: *visited* (outbound and return).
 
 [2] ✓ Cremesor as source region of goods (Garmsīr / Gulf coast). Standard Persian regional term. Post-1258 caravan spine bent toward Tabriz from ruined Baghdad — merchant truth beneath panegyric.
 
@@ -54,9 +54,9 @@ Thus Chapter I-6 holds Tauris as the merchant’s hinge after Baudas; Persia as 
 
 [4] ~ / ✗ “Yrac” for Tabriz region. Metonym explained above; not a howler if politics kept in view.
 
-[5] ✓ / ~ Monastery of St Barsamo; monks knitting healing girdles. ✓ Barsauma of Samosata (d. 458), Monophysite fame in Jacobite/Armenian churches; chief house near Malatia (*Dīr-Barsūmā*), known to Bākūī. ~ Exact site “on borders of Tauris” if Malatia house intended — report or name-transfer. Vincent of Beauvais’s moving-defence marvel is a Latin aggrandisement Polo does not repeat. Book I.xii.
+[5] ✓ / ~ Monastery of St Barsamo; monks knitting healing girdles. ✓ Barsauma of Samosata (d. 458), Monophysite fame in Jacobite/Armenian churches; chief house near Malatia (*Dīr-Barsūmā*), known to Bākūī. ~ Exact site “on borders of Tauris” if Malatia house intended — report or name-transfer. Vincent of Beauvais’s moving-defence marvel is a Latin aggrandisement Polo does not repeat. [@yc, 1.12].
 
-[6] ✓ / ~ Persia “wasted” by Tartars after former glory. ✓ Mongol devastation real; ~ totalising rhetoric. ◇ / ~ Magi tombs at Saba (Sava); bodies preserved; Jaspar/Melchior/Balthasar — ◇ legend shown as relic tourism; ~ Sava–Avah Magi localisation is a real medieval tradition strand. Book I.xiii–xiv.
+[6] ✓ / ~ Persia “wasted” by Tartars after former glory. ✓ Mongol devastation real; ~ totalising rhetoric. ◇ / ~ Magi tombs at Saba (Sava); bodies preserved; Jaspar/Melchior/Balthasar — ◇ legend shown as relic tourism; ~ Sava–Avah Magi localisation is a real medieval tradition strand. [@yc, 1.13–14].
 
 [7] ~ Locals at Saba knew only “three ancient kings,” not the Gospel Magi story. Polo’s reported inquiry; fits split between tomb-cult and Castle legend. Cala Ataperistan = “Castle of the Fire-worshippers”; site unfixed.
 
@@ -68,7 +68,7 @@ Thus Chapter I-6 holds Tauris as the merchant’s hinge after Baudas; Persia as 
 
 [11] ◇ / ? Magi narrative: local Persian Christian/Islamic/Parsi lore vs Latin Epiphany embroidery. Polo stages both (tombs without story; full legend at Castle). Dispute hook flagged in outline.
 
-[12] ✓ / ~ Eight kingdoms list (Casvin, Curdistan, Lor, Suolstan, Istanit, Serazy, Soncara, Tunocain). ✓ Yule’s identifications largely hold: Qazvin; Kurdistan; Luristān; Shūlistān (Ramusio; G.T. Cielstan); Iṣfahān (Ramusio *Spaan*; *Istanit* via *sf*/*st* MS confusion — conjectural); Shīrāz/Fars; Shabānkāra (Crusca *Soncara*); Tūn-o-Kāin east by Arbre Sol. ~ “Kingdom” rank schematic — administrative snapshot of lingering Atabeg/tribal lordships under Mongol umbrella, or merchant’s eight-fold Persia, or both compressed. Parallel clustering of Lurs, Shūls, Shabānkāras in Shihāb al-Dīn Dimashqī’s *Masālik al-Abṣār*. Book I.xv.
+[12] ✓ / ~ Eight kingdoms list (Casvin, Curdistan, Lor, Suolstan, Istanit, Serazy, Soncara, Tunocain). ✓ Yule’s identifications largely hold: Qazvin; Kurdistan; Luristān; Shūlistān (Ramusio; G.T. Cielstan); Iṣfahān (Ramusio *Spaan*; *Istanit* via *sf*/*st* MS confusion — conjectural); Shīrāz/Fars; Shabānkāra (Crusca *Soncara*); Tūn-o-Kāin east by Arbre Sol. ~ “Kingdom” rank schematic — administrative snapshot of lingering Atabeg/tribal lordships under Mongol umbrella, or merchant’s eight-fold Persia, or both compressed. Parallel clustering of Lurs, Shūls, Shabānkāras in Shihāb al-Dīn Dimashqī’s *Masālik al-Abṣār*. [@yc, 1.15].
 
 [13] ✓ Fine horses exported to India via Kish & Hormuz; high prices (~200 livres tournois). Corroborable Gulf–India horse trade; prices in Frank reckoning (livre tournois ≈ £1 gold-equivalent → horse ~£193 contemporary gold). May preview / double-count later Hormuz material (I.xix). ~ Finest asses worth ~30 marks silver — plausible luxury remount trade; exact tariff unverified.
 

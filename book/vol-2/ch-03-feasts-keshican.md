@@ -2,7 +2,7 @@
 ## Feasts, Robes, and the Twelve Thousand Keshican
 
 > *“You must know that the Great Kaan, to maintain his state, hath a guard of twelve thousand horsemen, who are styled Keshican.”*
-> — Book II.xii (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 12 (Yule–Cordier)
 
 **[V]**
 

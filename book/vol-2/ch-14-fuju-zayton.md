@@ -2,7 +2,7 @@
 ## Fuju, Zayton, and the Haven of the World
 
 > *“And I assure you that for one shipload of pepper that goes to Alexandria or elsewhere, destined for Christendom, there come a hundred such, aye and more too, to this haven of Zayton; for it is one of the two greatest havens in the world for commerce.”*
-> — Book II.lxxxii (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 82 (Yule–Cordier)
 
 **[V/M]**
 

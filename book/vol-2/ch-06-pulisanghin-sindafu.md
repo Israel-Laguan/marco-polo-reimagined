@@ -2,7 +2,7 @@
 ## West and Southwest: Pulisanghin to Sindafu
 
 > *“Now you must know that the Emperor sent the aforesaid Messer Marco Polo… on business of his into the Western Provinces.”*
-> — Book II.xxxv (Yule–Cordier)
+> — Marco Polo, Book 2, ch. 35 (Yule–Cordier)
 
 **[V]**
 
@@ -50,7 +50,7 @@ Here the chapter stops short of those marches. For the present it has done what 
 
 ## Notes
 
-[1] ✓ / ~ Western mission frame; ~four months’ circuit from Cambaluc. ✓ Fits Mangala’s Anxi dates and Book II.xxxv; ~ “four months” as whole-circuit rhetoric.
+[1] ✓ / ~ Western mission frame; ~four months’ circuit from Cambaluc. ✓ Fits Mangala’s Anxi dates and YC 2.35; ~ “four months” as whole-circuit rhetoric.
 
 [2] ✓ / ✗ Pulisanghin = Lugou / Marco Polo Bridge over the Sanggan–Yongding. ✓ Scale, lion parapet, marble balustrade (Magaillans; Lecomte; Bretschneider). ✗ Arch-count: Polo’s 24 vs historical ~11–13; possible confusion with a neighbouring crossing. *Pul-i-Sangīn* = Persian “Stone Bridge”; Rashīd *Sangīn*.
 
