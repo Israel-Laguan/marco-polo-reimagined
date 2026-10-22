@@ -1,0 +1,91 @@
+# Chapter I-2
+## The House of Polo and the Elder Voyage
+
+> *“The Great Kaan hath never seen any Latins, and he hath a great desire so to do.”*
+> — The Envoys at Bocara, Prologue (Yule–Cordier)
+
+---
+
+Marco Polo starts by narrating that his father and uncle were living as merchants with a reach far beyond Venice’s own fleets — long before he himself stood before any khan, and long before the Genoa prison where the book was written down. According to the book, the House of Polo belonged to that class of Venetian citizens whom commerce made substantial without quite making them famous. Tradition reaches back to one Andrea Polo of the parish of San Felice, father of three sons: Marco the Elder, who for a time kept a foothold at Constantinople (Istanbul) and a house of business at Soldaia (Sudak) on the Crimean shore; Niccolò, second of the brothers and father of the traveller; and Maffeo, who shared Niccolò’s ventures and, so far as the book tells, remained a bachelor while his brother’s household waited in Venice. They dealt in jewels, cloth, credit, the judgement of markets — and in the mid-thirteenth century those markets ran east along the Greater Sea. [1]
+
+He says that it came to pass, in the year of Christ that the best reckoning places at 1260, when Baldwin still wore the Latin crown at Constantinople, that Messer Niccolò and Messer Maffeo were in that city with their merchants’ wares. Baldwin’s empire was already a shadow; within a year Michael Palaeologus would take the city. The brothers did not wait upon politics. Men singularly noble, wise, and provident — so the Prologue styles them — took counsel to cross the Greater Sea on a venture of trade. They laid in a store of jewels, embarked, and made Soldaia, the Crimean port Orientals called Súdák: a place of Greek memory, Mongol pressure, and Venetian appetite. [2]
+
+— A quick note on the date: many manuscripts read 1250 for this crossing, which cannot stand beside the return of 1269 and young Marco’s age of fifteen. Yule corrected it to about 1260; that is the working chronology here. [3] Anyway, next he mentions that after staying a while at Soldaia they judged the venture might be extended.
+
+They set forth inland until they came to the court of a Tartar prince, Barca Kaan (Berke Khan), whose residences were at Sara — Sarai on the Volga’s lower courses — and at Bolgara, the Bolghar of the Volga Bulgaria. Barca, third son of Juji and lord of the Kipchak ulus, was already the first Muslim sovereign of his Chinghizide line; the book remembers him as liberal and courteous beyond the common run of Tartar princes. He received the brothers with honour. They presented the jewels they had brought; he accepted them graciously and caused them to receive at least twice the value — an exchange that reads as both gift and purchase. For a twelvemonth they remained. [4]
+
+Then, Polo narrates, war broke the road behind them. Between Barca, Lord of the Tartars of the Ponent, and Aláu (Hulagu), Lord of the Tartars of the Levant, great hosts mustered; in the summer of 1262 the quarrel ran hot, and though slaughter fell on both sides, Barca in the end was worsted. No man could travel the western road without peril of capture. Forward, however, the way still lay open. That war is one of the better-corroborated beats in the Prologue: Rashid al-Din and Polo’s own later war chapters agree that Berke and Hulagu came to blows then. [5]
+
+Quitting Bolgara, the brothers proceeded to Ucaca (Ukek), a town on the Volga that marked the extremity of the Ponent’s kingdom toward the Russian hills; thence, departing again and passing what the book calls the great River Tigris — here the Volga under a classical name gone astray — they travelled across a desert that extended for seventeen days’ journey. They found neither town nor village, only the tents of Tartars at pasture with their cattle. [6]
+
+After the desert, according to the book, they arrived at a very great and noble city called Bocara (Bukhara), whose territory belonged to a king named Barac (Borrak Khan), of the house of Chagatai. The Prologue, with a merchant’s geography rather than a geographer’s map, calls Bocara the best city in all Persia — though this is loose by modern borders; Hayton likewise folds Bukhara into a Persian horizon, and before the Mongol conquest those cities were widely felt to belong to the Persian cultural sphere, so it is merchant geography more than a howler. [7] There the brothers found themselves trapped between wars and suspicions: they could neither proceed farther nor turn back. They abode in Bocara three years. Three years is a long sojourn for men who had left Venice on a trading chance — warehouses, local partnerships, the slow learning of tongues and prices — and the round number is literary duration as well as itinerary claim. [8]
+
+Whilst they sojourned there, he says, there came from Aláu’s Levant envoys on their way to the Court of the Great Kaan, the Lord of all the Tartars in the world. When those envoys beheld the two brothers they were amazed, for they had never before seen Latins in that part of the earth. They said: Gentlemen, if ye will take our counsel, great honour and profit shall come thereof. The Great Kaan hath never seen any Latins, and he hath a great desire so to do. Keep us company to his Court, and ye may depend upon it that he will be right glad to see you, and will treat you with honour and liberality; and in our company ye shall travel with perfect security. The brothers replied that they would be right glad to learn how. Arrangements were made. They set out with the envoys and journeyed a whole year, going northward and north-eastward, before they reached the Prince’s court. [9]
+
+Of the marvels they saw upon that road the Prologue deliberately says nothing: Messer Mark, who later saw them likewise, would give full account in the Book that follows. So the elder voyage is left half in shadow — a corridor of silence through which the reader is hurried toward the audience that remade the family’s fate. The invitation itself is plausible; a possible link to Sartak’s return party around 1265 is conjecture, not proof. [10]
+
+When the two brothers came before the Great Kaan, Polo narrates, he received them with honour and hospitality, and showed much pleasure at their visit. His name, the book now supplies, was Cublay Kaan (Kublai) — Lord, in the Prologue’s ceremonial excess, of the Tartars all over the earth. He had never before fallen in with European gentlemen of their stamp. He asked a great number of questions: first of the emperors, how they maintained their dignity and administered justice, and how they went forth to battle; then the like of kings and princes; and then about the Pope and the Church, and about all that is done at Rome, and all the customs of the Latins. The brothers told him the truth in its particulars, with order and good sense; and this they were able to do, the book asserts, because they knew the Tartar language well — claimed without ceremony, as if fluency were simply another tool in the merchant’s chest, though which Turkic or Mongol idiom is never specified. [11]
+
+Cublay was greatly pleased. Next he mentions that the Great Kaan took it into his head to send them on an embassy to the Pope. He urgently desired them to undertake the mission along with one of his barons; they replied that they would gladly execute his commands. He summoned a baron named Cogatal and bade him make ready. Letters were indited in the Tartar tongue and committed to the two brothers and to that baron. The contents, as the Prologue reports them, were to this purport: that the Pope would send as many as a hundred persons of the Christian faith — intelligent men, acquainted with the Seven Arts, well qualified to enter into controversy, able clearly to prove to idolaters and other kinds of folk that the Law of Christ was best; and that if they would prove this, he and all under him would become Christians and the Church’s liegemen. Finally he charged his envoys to bring back some Oil of the Lamp which burns on the Sepulchre of Our Lord at Jerusalem. [12]
+
+— Here the asides have to be honest. No Mongol original of that letter survives. The request for learned men and for oil of the Sepulchre fits Chinghizide curiosity about skilled foreigners and Latin Holy Land piety attached to an eastern commission; whether Kublai personally framed a promise to baptize the empire if the disputants prevailed, or whether the Polos — or Rustichello — polished the memory for Christian readers, remains open. Yule already doubted purely religious motives; Igor de Rachewiltz’s work on Mongol administration supports reading the embassy as diplomatic and civilizational as much as confessional. The conversion pledge is the weakest clause. [13] Anyway, the commission itself became the hinge on which the next generation of the house would turn.
+
+When the Prince had charged them with all his commission, according to the book, he caused to be given them a Tablet of Gold — the *paiza* of Mongol administration — on which was inscribed that the three ambassadors should be supplied with everything needful in all the countries through which they should pass: horses, escorts, whatever they should require. Such tablets were real instruments of imperial logistics; Yuan archaeology and Persian historians corroborate the *paiza* as safe-conduct and requisition. This is among the more institutionally solid marvels of the opening narrative. [14]
+
+When they had made needful preparations, the three took their leave and set out. After they had travelled I know not how many days, the Tartar baron fell sick and could not ride; he halted at a certain city. The brothers judged it best to leave him and carry out their commission; he was well content that they should do so. Thereafter, whithersoever they went, they were honourably provided with whatever they stood in need of — and this, the book assures the reader, owing to that Tablet of Authority from the Lord. Cogatal’s illness is uncorroborated personal detail; harmless if told as book tradition. [15]
+
+So they travelled on and on until they arrived at Layas — Ayas (Yumurtalık / Laias) — in Hermenia (Cilician Armenia), a journey which occupied them three years. It took so long because they could not always proceed, being stopped sometimes by snow, or by heavy rains, or by great torrents. Ayas, on the Gulf of Scanderoon, was becoming one of the chief hinges between Tabriz’s caravans and the galleys of the Italian republics. From Layas they came to Acre (Akko), arriving in the month of April in the year of Christ 1269. There they learned that the Pope was dead — Clement IV., though the oldest French texts leave the name blank, as if memory had failed the dictation. [16]
+
+They went to a certain wise churchman, legate for the kingdom of Egypt and a man of great authority, Tedaldo (Theobald) of Piacenza — Tedaldo Visconti, Archdeacon of Liège, whom fortune would shortly raise higher still — and told him of the mission on which they were come. He was greatly surprised, and deemed the thing of great honour and advantage for all Christendom. Gentlemen, he said, ye see that the Pope is dead; wherefore ye must needs have patience until a new Pope be made, and then shall ye be able to execute your charge. [17]
+
+Seeing that what the Legate said was just, they answered that while a Pope was a-making they might as well go to Venice and visit their households. So they departed from Acre and went to Negropont (Euboea), and from Negropont continued their voyage to Venice. On their arrival, Marco Polo narrates, Messer Niccolò found that his wife was dead, and that she had left behind her a son of fifteen years of age, whose name was Marco — and ’tis of him that this Book tells. The boy who waited in the parish of San Giovanni Grisostomo had been born, by the received reckoning, in 1254. [18]
+
+— Whether his father had seen him as an infant before departing for the East, or — as Pipino’s Latin later claimed — had left Venice before the child’s birth and now met him for the first time, the oldest French tradition does not insist. Pipino’s version is melodramatic heightening that Yule was inclined to reject; this retelling keeps the early French understatement. [19] What the book does insist upon is simpler and more human: the house had lost a wife and mother; the father had gained a fine lad of fifteen; the two brothers abode at Venice a couple of years, tarrying until a Pope should be made.
+
+Thus the elder voyage closed — not with the jewel-slashed coats and unrecognised kinsmen of later Venetian storytelling, which belong to another homecoming and another embroidery, but with an unfinished embassy, a golden tablet’s authority spent across deserts and Armenian rains, a letter to a vacant Apostolic See, and a youth on the lagoon who had not yet crossed the Greater Sea. Those Ramusio anecdotes of unrecognised kin, Tartar speech and shabby dress, staged banquet of successive crimson robes, and jewels ripped from coats are sixteenth-century colour for the *final* return around 1295, not for 1269; modern criticism generally treats them as later embroidery, and they are not used as fact here. [20]
+
+The Great Kaan still waited for learned men and for oil of the Sepulchre. Christendom still waited for a Pope. Between those two waits stood the House of Polo, its ledgers thickened by Barca’s gifts and Bocara’s three years, its future already leaning toward a second departure that would take the boy Marco into the Book’s own centre. The prison winter of 1298 would remember this first arc as prologue: how chance and war and an envoy’s invitation carried two Venetian merchants from Constantinople’s dwindling Latin court to the presence of Cublay, and how they came home bearing not only wealth and wonder but a commission that Europe proved too slow, and too divided, to fulfil in the measure the Kaan had asked.
+
+---
+
+## Notes
+
+[1] ✓ / ~ Polo family as Venetian merchants with Black Sea / Soldaia interests. ✓ Elder Marco’s Soldaia property in 1280 will; parish of San Giovanni Grisostomo firm for the later famous house (*Corte del Millioni*). ~ Full partnership structure inferred from wills and property notices (Yule Intro. §§15–18).
+
+[2] ~ Niccolò & Maffeo leave Constantinople with jewels for Soldaia c. 1260. Prologue tradition; Baldwin’s reign fits the corrected date.
+
+[3] ✗ / ~ Manuscript “1250” for the crossing cannot stand beside 1269 return and Marco aged fifteen. Yule’s corrected ~1260 is the working chronology; Stephen G. Haw and others press for tighter Ilkhanid/Yuan synchronisms.
+
+[4] ~ / ◇ Sojourn at Barca’s (Berke’s) court at Sarai / Bolghar; honourable exchange of jewels. Court and prince historical; hospitality narrative is book tradition. Barca = Berke of Kipchak.
+
+[5] ✓ War Barca–Hulagu (Aláu) blocks return west, summer 1262. Corroborated in Rashid al-Din and in Polo’s own later war chapters. Aláu = Hulagu of Persia; Levant/Ponent labels are consistent book usage.
+
+[6] ✓ / ~ Desert crossing via Ucaca (Ukek, near modern Saratov); “Tigris” = Volga (parallels in Pascal of Vittoria and other Latin travellers). ✓ Route plausible; ~ “seventeen days” as one stretch.
+
+[7] ~ / ✗ “Bocara the best city in all Persia.” ~ Medieval Persian cultural sphere (Hayton; Vámbéry’s note on pre-Mongol usage). ✗ if read as modern political geography. Barac of Bocara = Borrak of the Chagatai ulus (reigns c. 1264–1270).
+
+[8] ~ Three-year sojourn at Bocara. Duration rounded; Borrak’s dates only partly overlap a strict reading. Prologue’s round years (one, three, three) are literary durations as well as itinerary claims.
+
+[9] ~ Meeting envoys of the Great Kaan; invitation east; one-year journey north/north-east. Plausible; year’s travel is a literary round number. Marvels on the road deferred to Mark’s later Book (Prologue’s deliberate silence).
+
+[10] ~ Possible link of the envoy party to Sartak’s 1265 return from Hulagu’s court (Rashid al-Din) — suggestive conjecture, not airtight identification.
+
+[11] ~ / ◇ Audience: questions on emperors, kings, Pope, Latin customs. Fits Kublai’s known curiosity; wording is Prologue theatre. ~ Brothers already fluent in “the Tartar language” after years on the steppe; idiom unspecified.
+
+[12] ? Letter requesting 100 learned Christians (Seven Arts) + oil of the Sepulchre. No surviving Mongol text. Motive and exact wording contested. Oil-request characteristic of Latin Holy Land piety attached to an eastern commission.
+
+[13] ? / ✗ Promise that Kublai and subjects would convert if disputants prevailed. Conventional conversion-rhetoric; unlikely as literal policy pledge. Yule doubted purely religious motives; de Rachewiltz on Mongol administration supports diplomatic/civilizational reading. Comparable later Mongol letters (e.g. Arghun, Öljeitü to Philip the Fair) illustrate form without proving these clauses.
+
+[14] ✓ Golden tablet (*paiza*) of safe-conduct and supply. Institution archaeologically and textually attested (Yuan *paiza*; Persian historians including Rashid al-Din’s administrative world).
+
+[15] ◇ Baron Cogatal falls ill and is left behind. Uncorroborated; harmless Prologue incident.
+
+[16] ✓ / ~ Three-year return to Ayas; April 1269 at Acre; Pope vacant after Clement IV. ✓ Acre date and papal vacancy; ~ exact three years. Oldest French texts omit the dead Pope’s name; Crusca/Ramusio supply Clement.
+
+[17] ✓ / ~ Consultation with Tedaldo Visconti (later Gregory X.); advice to wait for a new Pope. Meeting widely accepted; precise legatine title varies by MS (legate for Egypt / personage of great authority).
+
+[18] ✓ / ~ Niccolò’s wife dead; Marco aged fifteen at Venice. Core early tradition; age consistent with 1254 birth + 1269 return.
+
+[19] ✗ / ? Pipino’s Latin (and dependents): father had never seen Marco before 1269. Likely later heightening; Yule preferred to reject. Early French understatement retained in this narrative.
+
+[20] ✗ Ramusio: unrecognised kin, banquet, jewels cut from coats — as *1269* fact. Belongs to final-return legend cycle (c. 1295); later embroidery (oral-neighbourhood legend filtered through Gasparo Malipiero). Weighed again when Volume III reaches the homecoming; not used as fact here.

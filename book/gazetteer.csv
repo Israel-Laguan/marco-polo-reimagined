@@ -1,0 +1,113 @@
+book_name,modern_name,latitude,longitude,volume,sequence,leg,reliability,notes
+Venice,"Venice, Italy",45.4408,12.3155,1,1,prologue,visited,Polos' home; prologue start and return end (c. 1295). Also appears on the return journey.
+Constantinople,"Istanbul, Turkey",41.0082,28.9784,1,2,prologue,visited,On brothers' first voyage and on Marco's Black Sea return. Also appears on the return journey.
+Soldaia,"Sudak, Crimea",44.8500,34.9667,1,3,prologue,visited,Soldaya/Sudak; Nicolo and Maffeo's Crimean trading base.
+Sarai,"Sarai (near Selitrennoye), Russia",47.1833,47.4500,1,4,prologue,likely_visited,Court of Berke Khan (Barka); Golden Horde capital region. Exact site debated among Lower Volga mounds.
+Bolghar,"Bolgar, Tatarstan, Russia",54.9833,49.0500,1,5,prologue,likely_visited,Bolghar/Kazan region of Volga Bulgaria; first brothers' journey.
+Bokhara,"Bukhara, Uzbekistan",39.7747,64.4286,1,6,prologue,visited,Where Nicolo and Maffeo met envoys of the Great Khan.
+Acre,"Acre (Akko), Israel",32.9269,35.0818,1,10,outbound,visited,Second departure with young Marco; papal business with Tedaldo/Gregory X.
+Ayas (Lajazzo),"Yumurtalık (Ayas), Turkey",36.7667,35.7833,1,11,outbound,visited,"Laias/Lajazzo, Cilician Armenian port; standard embarkation for Anatolia overland."
+Sivas,"Sivas, Turkey",39.7477,37.0179,1,12,outbound,visited,Sebaste; on the Anatolian route toward Persia.
+Erzincan,"Erzincan, Turkey",39.7500,39.5000,1,13,outbound,likely_visited,Arzinga; Armenian highlands on the Tabriz road.
+Erzurum,"Erzurum, Turkey",39.9043,41.2679,1,14,outbound,likely_visited,Arziron; Yule places on the Anatolia–Persia corridor.
+Mosul,"Mosul, Iraq",36.3400,43.1300,1,15,outbound,reported_only,Mausul; described as Nestorian/Jacobite region and muslin trade; Polo may not have lingered.
+Baudas (Baghdad),"Baghdad, Iraq",33.3152,44.3661,1,16,outbound,reported_only,Baudas; fall of the Caliph (Mostas'im) and marvel stories; itinerary relevance debated (Cordier/Yule notes).
+Tauris (Tabriz),"Tabriz, Iran",38.0962,46.2738,1,17,outbound,visited,Major Ilkhanid hub; outbound and return. Also appears on the return journey.
+Saba (Saveh),"Saveh, Iran",35.0214,50.3566,1,18,outbound,visited,Saba/Saveh; Magi tombs tradition in Polo/Yule.
+Kashan,"Kashan, Iran",33.9850,51.4100,1,19,outbound,likely_visited,On the usual Tabriz–Yazd corridor; Yule itinerary discussion.
+Yazd,"Yazd, Iran",31.8974,54.3569,1,20,outbound,visited,Yesdi; silk and desert-edge city en route to Kerman.
+Kerman,"Kerman, Iran",30.2839,57.0834,1,21,outbound,visited,"Kirman; outbound hub and return overland from Hormuz. Turquoise, steel, desert routes. Also appears on the return journey."
+Hormuz (Hormos),"Old Hormuz (near Minab), Iran",27.1000,56.4500,1,22,outbound,visited,Mainland Old Hormuz near Minab (not later island); outbound abortive sea plan and return landfall from India. Also appears on the return journey.
+Tun-o-Kain,"Qaen / Tun region, South Khorasan, Iran",33.7267,59.1844,1,23,outbound,likely_visited,Tun and Qaen (Kain); Lut desert edge after abortive Hormuz sea plan.
+Cobinan,"Kuhbanan, Iran",31.4100,56.2800,1,24,outbound,likely_visited,Cobinan = Kuh-Banan; tutia (tutty) production in Yule notes.
+Tonocain / Arbre Sec,"Dasht-e Kavir region (Arbre Sec), Iran",34.0000,54.0000,1,25,outbound,uncertain,Lone tree / Arbre Sec (Dry Tree) landmark; geography folkloric and only broadly localized to NE Persia deserts.
+Sapurgan,"Shibarghan, Afghanistan",36.6650,65.7520,1,26,outbound,likely_visited,Shiburghan; on approach to Balkh.
+Balkh,"Balkh, Afghanistan",36.7581,66.8986,1,27,outbound,visited,Balc; ruined ancient capital; firm ID.
+Talikan,"Taloqan, Afghanistan",36.7361,69.5345,1,28,outbound,likely_visited,Taican/Talikan; salt mountains noted by Polo.
+Badakhshan,"Badakhshan (Fayzabad area), Afghanistan",37.1167,70.5800,1,29,outbound,visited,"Balashan; rubies, horses; Marco recovered from illness in the hills."
+Wakhan,"Wakhan Corridor, Afghanistan",37.0000,73.0000,1,30,outbound,visited,Vocan; upper Oxus approach to Pamir.
+Pamir,Pamir Plateau (Tajikistan/Afghanistan),38.5000,73.5000,1,31,outbound,visited,Name first widely heard in Europe via Polo; high plateau crossing. Centroid approximate.
+Kashgar,"Kashgar, Xinjiang, China",39.4704,75.9898,1,32,outbound,visited,Cascar; major Tarim oasis.
+Yarkand,"Yarkand (Yarkant), Xinjiang, China",38.4167,77.2500,1,33,outbound,visited,Yarcan; goitre noted by Polo.
+Khotan,"Hotan, Xinjiang, China",37.1100,79.9300,1,34,outbound,visited,Cotan; jade and cotton.
+Pem,"Keriya / Uzun-Tati area, Xinjiang, China",37.0000,81.6000,1,35,outbound,uncertain,Pein/Pem; often linked to Keriya or nearby ruined sites; ID not fully settled.
+Charchan,"Qiemo (Cherchen), Xinjiang, China",38.1333,85.5333,1,36,outbound,likely_visited,Ciarcian; southern Tarim oasis.
+Lop (City of Lop),"Charklik / Ruoqiang, Xinjiang, China",39.0236,88.1681,1,37,outbound,visited,City of Lop at edge of Desert of Lop; staging for Gobi crossing.
+Desert of Lop,"Taklamakan / Lop Desert, Xinjiang, China",40.0000,90.0000,1,38,outbound,visited,"Great desert with spirit voices; region centroid, not a point city."
+Camul (Hami),"Hami, Xinjiang, China",42.8333,93.5000,1,39,outbound,reported_only,Camul; hospitality customs; on northern desert routes.
+Succiu (Suzhou/Jiuquan),"Jiuquan, Gansu, China",39.7333,98.5000,1,40,outbound,visited,Sukchur/Succiu; Tangut frontier oasis.
+Campichu (Ganzhou),"Zhangye, Gansu, China",38.9333,100.4500,1,41,outbound,visited,Campichu = Ganzhou/Zhangye; Tangut country.
+Etzina,"Khara-Khoto (Ejina), Inner Mongolia, China",41.7667,101.1500,1,42,outbound,likely_visited,Etzina; ruined Tangut city of Khara-Khoto.
+Karakorum,"Karakorum (Kharkhorin), Mongolia",47.1978,102.8208,1,43,outbound,reported_only,Caracoron; old Mongol capital; described in historical digressions.
+Tenduc,"Tumed / Hohhot region, Inner Mongolia, China",40.8414,111.7519,1,44,outbound,uncertain,Tenduc; Prester John/King George legends; location disputed (Ordos–Tumed area).
+Shangdu (Xanadu),"Shangdu (Duolun County), Inner Mongolia, China",42.3581,116.1850,1,45,outbound,visited,Ciandu/Xanadu; Kublai's summer capital; UNESCO site ruins.
+Cambaluc (Khanbaliq),"Beijing, China",39.9042,116.4074,1,46,outbound,visited,Cambaluc/Khanbaliq (Dadu); also first Nicolo/Maffeo audience and later Marco's court city. Alias: Peking/Beijing.
+Pulisanghin,"Lugou Bridge (Marco Polo Bridge), Beijing, China",39.8492,116.2156,2,50,china,visited,Stone bridge over the Sanggan/Yongding; famous Polo description.
+Juju,"Zhuozhou, Hebei, China",39.4850,115.9740,2,51,china,likely_visited,Giogiù/Juju on the south road from Cambaluc.
+Tainfu,"Taiyuan, Shanxi, China",37.8706,112.5489,2,52,china,likely_visited,Taiyuan fu; wine and arms.
+Pianfu,"Linfen / Pingyang area, Shanxi, China",36.0880,111.5190,2,53,china,likely_visited,Pianfu often = Pingyang (Linfen).
+Cachanfu,"Xi'an (Chang'an), Shaanxi, China",34.3416,108.9398,2,54,china,likely_visited,Kenjanfu/Quengianfu = Xi'an; Nestorians noted.
+Sindafu,"Chengdu, Sichuan, China",30.5728,104.0668,2,55,china,visited,Sindafu; great bridge and commerce of Sichuan.
+Tibet,Eastern Tibet / Kham region,30.0000,97.0000,2,56,china,reported_only,Tebet; customs and musk; Polo's Tibet is eastern marches more than Lhasa.
+Carajan (Yunnan),"Dali / Kunming region, Yunnan, China",25.6065,100.2676,2,57,china,visited,Carajan; Dali often preferred for western Yunnan kingdom Polo describes.
+Yachi,"Kunming, Yunnan, China",25.0389,102.7183,2,58,china,likely_visited,Yachi usually identified with Kunming.
+Zardandan,"Western Yunnan (Baoshan/Tengchong area), China",25.1200,99.1600,2,59,china,uncertain,Zardandan ('Gold-Teeth'); ethnonym region rather than single city.
+Mien (Burma),Bagan / Myanmar (Pagan kingdom),21.1717,94.8580,2,60,china,reported_only,Mien; battle of elephants vs Mongols; Polo may report rather than visit deep Burma.
+Caugigu,Northern Vietnam / Tonkin region,21.0285,105.8542,2,61,china,uncertain,Caugigu often linked to Jiaozhi/Tonkin; ID debated.
+Anin,SW China / N. Vietnam borderlands,23.0000,105.0000,2,62,china,uncertain,Anin; poorly fixed tribal region in Yule notes.
+Coloman,"Guizhou / Guangxi border region, China",26.0000,107.0000,2,63,china,uncertain,Coloman; ethnonym geography.
+Cuiju,"Guizhou region, China",26.6470,106.6302,2,64,china,uncertain,Cuiju; sometimes Guiyang area; soft ID.
+Acbalec Manzi,"Hanzhong area, Shaanxi, China",33.0700,107.0200,2,65,china,uncertain,Border of Manzi; identification varies among Yule commentators.
+Pazanjin / Hezhong,"Hezhong / Yongji area, Shanxi, China",34.8700,110.4500,2,66,china,likely_visited,On Yellow River corridor toward Kaifeng/Hangzhou routes.
+Cacanfu,"Puyang / Heze region, Henan-Shandong, China",35.7600,115.0300,2,67,china,uncertain,Cacanfu; several Henan candidates in literature.
+Ciangu,"Changlu / Cangzhou area, Hebei, China",38.3000,116.8500,2,68,china,likely_visited,Salt-working towns on the Grand Canal corridor.
+Yangiu (Yangzhou),"Yangzhou, Jiangsu, China",32.3942,119.4120,2,69,china,visited,Yangiu; Polo claims governorship — contested historically but city firmly ID'd.
+Nanghin,"Nanjing, Jiangsu, China",32.0603,118.7969,2,70,china,likely_visited,Nanghin = Nanjing.
+Saianfu,"Xiangyang, Hubei, China",32.0100,112.1400,2,71,china,reported_only,Saianfu siege; mangonels of Polos' engineers — famous but visit vs report debated.
+Suju (Suzhou),"Suzhou, Jiangsu, China",31.2989,120.5853,2,72,china,visited,Suju; 'Venice of China' silk city.
+Vuju,"Huzhou, Zhejiang, China",30.8700,120.1000,2,73,china,likely_visited,Vuju often = Huzhou.
+Quinsay (Kinsay),"Hangzhou, Zhejiang, China",30.2741,120.1551,2,74,china,visited,Quinsay/Kinsay = Hangzhou; former Song capital; most elaborate city description in the book.
+Ganpu,"Ganpu (Haiyan), Zhejiang, China",30.4000,120.9000,2,75,china,likely_visited,Port of Quinsay estuary.
+Fuju (Fuzhou),"Fuzhou, Fujian, China",26.0745,119.2965,2,76,china,visited,Fugiu; Fujian circuit.
+Zayton (Quanzhou),"Quanzhou, Fujian, China",24.9139,118.5858,2,77,china,visited,Zayton/Zaitun; great haven; embarkation for the return fleet. Alias: Chinchew.
+Chamba (Champa),Central Vietnam (Champa coast),13.5000,109.2000,3,80,maritime,visited,Chamba; Cham kingdom; Polo's fleet touched here. Centroid near Qui Nhon/Nha Trang coast.
+Java,"Java, Indonesia",-7.5000,110.0000,3,81,maritime,reported_only,Great Java; Polo did not claim personal visit to interior; hearsay wealth.
+Locac,Malay Peninsula (southern Thailand/Malaysia),7.0000,100.0000,3,82,maritime,uncertain,Locac; often linked to Ligor/Nakhon Si Thammarat or broader Malay coast.
+Pentam,"Bintan / Riau Islands, Indonesia",1.1500,104.5000,3,83,maritime,likely_visited,Pentam; near Singapore Strait approaches.
+Malaiur,Melaka / Sumatra Malay coast,2.2000,102.2500,3,84,maritime,uncertain,Malaiur; Malay toponym; exact port debated.
+Java the Less (Sumatra),"Sumatra, Indonesia",0.5000,101.5000,3,85,maritime,visited,Java Minor = Sumatra; Polos wintered five months waiting monsoon.
+Ferlec,"Perlak, Aceh, Sumatra, Indonesia",4.8000,97.6000,3,86,maritime,likely_visited,Ferlec; Muslim conversion noted.
+Basman,"Pasai / NE Sumatra coast, Indonesia",5.1000,97.2000,3,87,maritime,uncertain,Basman; unicorns (rhinos) and island marvels.
+Samara,"Samudera Pasai, Sumatra, Indonesia",5.1667,97.1667,3,88,maritime,visited,Samara/Samudra; likely wintering locale.
+Dagroian,NE Sumatra coastal polity,4.5000,98.0000,3,89,maritime,uncertain,Dagroian; cannibal customs reported; soft ID.
+Lambri,"Lamuri (Aceh headland), Sumatra, Indonesia",5.5500,95.3000,3,90,maritime,likely_visited,Lambri/Lamuri near Banda Aceh.
+Fansur,"Barus, NW Sumatra, Indonesia",2.0000,98.4000,3,91,maritime,reported_only,Fansur; camphor coast (Barus).
+Necuveran,"Nicobar Islands, India",7.5000,93.7000,3,92,maritime,likely_visited,Necuveran = Nicobars; naked islanders motif.
+Angamanain,"Andaman Islands, India",12.5000,92.8000,3,93,maritime,reported_only,Angamanain; dog-headed men — legendary ethnography.
+Seilan (Ceylon),Sri Lanka,7.8731,80.7718,3,94,maritime,visited,"Seilan; Adam's Peak, rubies; firm island ID."
+Maabar,"Coromandel Coast (Tamil Nadu), India",10.8000,79.8000,3,95,maritime,visited,Maabar; pearl fishery coast of SE India.
+Cail (Kayal),"Kayalpatnam / Old Kayal, Tamil Nadu, India",8.6667,78.0667,3,96,maritime,visited,Cail; great port of the Pandya realm (Yule map).
+Coilum (Quilon),"Kollam, Kerala, India",8.8932,76.6141,3,97,maritime,visited,Coilum; pepper port of Malabar.
+Comari,"Kanyakumari (Cape Comorin), India",8.0883,77.5385,3,98,maritime,likely_visited,Comari; cape and goddess shrine.
+Eli,"Mount Eli / Ezhimala, Kerala, India",12.0000,75.2000,3,99,maritime,likely_visited,Eli/Mount Deli; landmark of Malabar.
+Melibar,"Malabar Coast, Kerala, India",11.2500,75.7800,3,100,maritime,visited,Melibar; regional name for SW Indian coast.
+Gozurat,"Gujarat, India",22.2587,71.1924,3,101,maritime,reported_only,Gozurat; pirates and trade; likely reported.
+Tana,"Thane, Maharashtra, India",19.2183,72.9781,3,102,maritime,reported_only,Tana near Mumbai.
+Cambaet,"Khambhat (Cambay), Gujarat, India",22.3000,72.6200,3,103,maritime,reported_only,Cambaet; Gulf of Cambay port.
+Sememant,"Somnath area, Gujarat, India",20.8880,70.4010,3,104,maritime,uncertain,Sememant/Somnath; ID tentative in Yule tradition.
+Kesmacoran,"Makran coast (Gwadar/Pasni area), Pakistan",25.1500,62.3500,3,105,maritime,reported_only,Kesmacoran = Kij-Makran.
+Male / Maldives,Maldives,3.2028,73.2207,3,106,maritime,reported_only,Islands of Male; ambergris and cowries.
+Scotra,"Socotra, Yemen",12.5000,53.8000,3,107,maritime,reported_only,Scotra; Christians and ambergris.
+Madeigascar,Madagascar,-18.7669,46.8691,3,108,maritime,reported_only,Madeigascar; name first in Polo; mixed with African coast hearsay; roc bird marvels.
+Zanghibar,"Zanzibar / Swahili coast, Tanzania",-6.1659,39.2026,3,109,maritime,reported_only,Zanghibar; East African coast ethnonym/region.
+Abyssinia,Ethiopia (highland),9.1450,40.4897,3,110,maritime,reported_only,Abasce; Christian kingdom reported.
+Aden,"Aden, Yemen",12.7855,45.0187,3,111,maritime,reported_only,Aden; Red Sea trade gate.
+Esher,"Ash-Shihr, Yemen",14.7600,49.6000,3,112,maritime,reported_only,Escier/Esher; incense coast.
+Dufar,"Dhofar (Salalah area), Oman",17.0151,54.0924,3,113,maritime,reported_only,Dufar; frankincense.
+Kalhat,"Qalhat, Oman",22.7000,59.3700,3,114,maritime,reported_only,Calatu; Omani coast port.
+Trebizond,"Trabzon, Turkey",41.0027,39.7168,3,123,return,visited,Empire of Trebizond; Black Sea embarkation.
+Island of Women / Men,(legendary; Indian Ocean),,,3,130,other,legendary,Separate islands of men and women; no geographic fix; left blank by design.
+Kingdom of Prester John,(legendary; Inner Asia),,,1,131,other,legendary,Linked to Tenduc/King George narratives; not a fixed polity—coords omitted.
+Old Man of the Mountain (Alamut),"Alamut, Iran",36.4447,50.5864,1,132,other,reported_only,Assassin legend (Hashishin); Alamut is the classic scholarly locus though Polo's telling is folkloric.
+Chipangu,Japan,35.0000,136.0000,3,133,other,reported_only,Cipangu/Japan; gold-roof hearsay; Polo did not visit. Centroid of main islands.
+Desert of Lop spirits,Lop Desert (marvel locale),40.2000,90.5000,1,134,other,legendary,Spirit voices and false camps in the Lop crossing; same desert as City of Lop but flagged as marvel motif.
