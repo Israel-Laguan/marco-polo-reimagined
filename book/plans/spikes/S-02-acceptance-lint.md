@@ -11,7 +11,8 @@ Without a gate, "complete" means whatever the last pass claimed (see SERIES-STAT
 ## Inputs
 - `tools/seed/overlap.py`, `stats.py`, `brackets.txt`
 - `content-revision-plan.md` § W0 (proposed checks)
-- Thresholds from S-01 (voice) and S-03 (markers, tags)
+- Thresholds from S-01 (voice): handed over in S-01 § Decision and content plan W0 (verbatim ≤ 15%, hinge/aside/quote/recap budgets)
+- Thresholds from S-03 (markers, tags)
 
 ## Method
 1. Build `tools/lint.py` with the W0 checks: verbatim %, Book first person, archaisms outside quotes, hinge budgets, scaffolding strings, citation integrity, epigraph/quotation found in `refs/`, marker set, length, gazetteer names, Ramusio bracket matches without a flag.

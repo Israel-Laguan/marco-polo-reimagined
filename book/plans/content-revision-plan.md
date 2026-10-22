@@ -21,10 +21,13 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 
 | Check | Pass threshold |
 |---|---|
-| Verbatim Yule share (7-gram, narrative only, quotations excluded) | **≤ 25%** |
+| Verbatim Yule share (7-gram, narrative only, epigraph and marked quotations included) | **≤ 15%** (S-01; pilot II-2 = 3%) |
 | Book-voice first person outside quotation marks ("I tell you", "I will", "we will quit") | 0 |
 | Archaisms outside quotation marks (hath, 'tis, wot, natheless, trowed, gat, fain, wist, existeth…) | 0 |
-| "Anyway" / "Marco Polo (starts by) narrat…" / "Here the asides have to be honest" | ≤ 1 / ≤ 1 / 0 |
+| "Anyway" / formula hinges in total / "You must know" outside quotes / "Here the asides have to be honest" | ≤ 1 / ≤ 3 / 0 / 0 (S-01) |
+| Asides | ≤ 80 words each, ≤ 4 per chapter (S-01) |
+| Marked quotations | ≤ 2 per scene, ≤ 8 per chapter, ≤ 25 words each (S-01) |
+| Opening recap / closing recap | 0 / ≤ 1 sentence (S-01) |
 | Scaffolding: `Soft \w+:`, `/workspace`, `outline`, `drafter`, `SERIES-STATUS`, `placeholder`, `dispute hook`, gazetteer reliability labels in Notes (any case; *visited* / *likely_visited* / *uncertain* / *reported_only*) | 0 |
 | Citation integrity (body ↔ Notes 1:1, sequential) | pass |
 | Epigraph and quotation verification (string found in `refs/`) | pass, or marked *(adapted)* |
@@ -94,7 +97,7 @@ Yule brackets everything peculiar to Ramusio. About 60 bracketed passages are na
 
 ### W4 — Re-voicing pass (the big one; chapter by chapter)
 
-This is the work SERIES-STATUS claims is done. **Model: I-1.** Per chapter:
+This is the work SERIES-STATUS claims is done. **Model: II-2** (S-01 pilot; rules in `VOICE-GUIDE.md` v2). Per chapter:
 
 1. Retell in the storyteller's own words. Keep **1–2 short marked quotations per scene** as flavour (e.g. "Sire! Look out for Cranes!").
 2. Convert every Book first-person line to reported speech or to a marked quotation.
@@ -104,7 +107,7 @@ This is the work SERIES-STATUS claims is done. **Model: I-1.** Per chapter:
 6. Apply that chapter's W2 and W3 findings in the same pass, so each chapter is touched once.
 7. The chapter passes lint; then commit.
 
-**Order: worst first, in batches by volume.** Pilot one chapter for your sign-off on voice before batching:
+**Order: worst first, in batches of 3–4 chapters per human-read session.** Pilot one chapter for your sign-off on voice before batching (S-01: II-2 written, sign-off pending):
 - **Pilot:** II-2 *Person & Palace* (80% verbatim, Ramusio-heavy, at the length ceiling).
 - Then by verbatim share:
   - Vol. II: II-3 (80%) → II-8 → II-4 → II-14 → II-10 → II-6 → II-12 → II-1 → II-11 → II-9 → II-15 → II-7 → II-13 → II-5.
@@ -120,6 +123,8 @@ This is the work SERIES-STATUS claims is done. **Model: I-1.** Per chapter:
 - II-2 and II-5 sit at the ceiling.
 
 The critique gives a cut plan for each. Most of the cuts come out of the recaps.
+
+**S-01 finding:** a full re-voice shrank II-2 by 40% (3,167 → 1,894) with no fact lost. Re-voice first, then re-measure; apply a cut plan only if a chapter is still over 3,200. Watch the 1,800 floor instead. I-1 (two "Anyway" exits, two-paragraph closing recap) and I-2 (28% verbatim) also get a T3.
 
 ### W5 — Apparatus normalisation
 

@@ -1,7 +1,9 @@
 # II-02 — Person, Wives, Sons, and the Palace Inside the Walls
 
-**File:** `vol-2/ch-02-person-palace.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-02-person-palace.md` · **Status:** pilot re-voice done, awaiting sign-off (S-01) · **Kind:** narrative
 
+> **S-01 pilot re-voice written (2026-10-21).** The rewrite applied every backlog item below (voice, Chingkim date, six Ramusio flags plus four more, silences aside, recaps, stub Notes, [V/M] → [M]); measurements are in the spike. Remaining: human read, then S-03/S-06 confirmation of the conventions and facts it assumed.
+>
 > **S-01 voice pilot chapter.** Content plan W4 picks II-2 as the single pilot re-voice (80% verbatim, Ramusio-heavy, at the length ceiling). Its approved rewrite becomes the reference for every other W4 chapter, so this file's T3 runs first and gates all other T3 tasks.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |

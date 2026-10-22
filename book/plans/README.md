@@ -42,7 +42,7 @@ plans/
 
 | ID | Spike | Status | Depends on | Gates |
 |---|---|---|---|---|
-| [S-01](spikes/S-01-voice-standard.md) | Voice standard (pilot re-voice of II-2) | open | S-03, S-06 (for II-2's facts), S-08 conventions | `.T3` in every narrative chapter |
+| [S-01](spikes/S-01-voice-standard.md) | Voice standard (pilot re-voice of II-2) | in review: II-2 rewritten, VOICE-GUIDE v2; awaiting human read | S-03, S-06 (for II-2's facts), S-08 conventions | `.T3` in every narrative chapter |
 | [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | open | — (thresholds finalised with S-01, S-03) | `.T6` everywhere; the definition of done |
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | open | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | open | — | `GAZ`, `MAP`, naming items |
