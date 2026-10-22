@@ -56,8 +56,6 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `I-03.T1` Critical and factual fixes
-- `I-03.T2` Ramusio flags and dispute asides
-- `I-03.T4` Notes and apparatus normalisation
 - `I-03.T5` Media placement (figures, tables, captions)
 - `I-03.T6` Lint pass and human voice read
 
@@ -75,8 +73,24 @@ _Created after the gating spikes close. Expected shapes:_
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
+### I-03.T2 — Ramusio flags and labels to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `I-03.T3` (the flags are written during the re-voice pass)
+- **Now:** 1 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
+- **Do:**
+  - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
+  - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.
+- **Done when:** `python3 tools/lint.py -v vol-1/ch-03-second-setting-forth.md` shows no `ramusio` errors, and the flag count matches the passages found.
+
+### I-03.T4 — Notes and apparatus to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-03.T3` (re-voice renumbers Notes)
+- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
+- **Do:**
+  - Run `python3 tools/lint.py -v vol-1/ch-03-second-setting-forth.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
 ### I-03.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 17 errors · 1 warning — failing: archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim; warnings: sentence
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 17 errors · 1 warnings — failing: archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim; warnings: sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-03-second-setting-forth.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

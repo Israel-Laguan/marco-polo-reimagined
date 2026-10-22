@@ -60,7 +60,7 @@ Inside these walls the court now comes to life: the feasts, the robes of gold, a
 
 [3] ✓ Kungurat (Ungrat) tribe noted for beauty; gave more wives to the Chinggisids than any other tribe (Yule; De Mailla). ~ / ? Yearly levy of about 100 maidens and the six-by-six, three-day roster: the custom is real, the scale and roster detail are contested. ◇ Ramusio-only: "and do not snore".
 
-[4] ? / ◇ Ramusio-only. Carat appraisal of beauty. Yule reads "carats" as marks out of 24, a competitive scale; Marsden's reading as a gold value is wrong. Institutional parallels in Ming and Manchu selection exist; the exact procedure is contested.
+[4] ? Ramusio-only. Carat appraisal of beauty. Yule reads "carats" as marks out of 24, a competitive scale; Marsden's reading as a gold value is wrong. Institutional parallels in Ming and Manchu selection exist; the exact procedure is contested.
 
 [5] ✗ / ~ 22 sons by the four wives and 25 by concubines. Probably xxii for xii; Chinese and Hammer's lists give about 10–12 lawful sons. ✓ Seven lawful sons held provinces as princes (*wang*) (Chinese annals). ✓ / ~ Chingkim the intended heir who died before Kublai; ✓ grandson Temür recognised as successor (Wassáf; acceded 1294 with Bayan's backing).
 

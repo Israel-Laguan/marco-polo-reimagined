@@ -28,7 +28,7 @@
 
 ## Front / end matter (all volumes)
 
-- **Front:** series or volume preface; name/date conventions (book-name + modern); reliability legend (★★★/★★/★/◇); map list.  
+- **Front:** series or volume preface; name/date conventions (book-name + modern); reliability legend (✓ ~ ✗ ◇ ?); map list.  
 - **End:** gazetteer pointer; bibliography skeleton (texts; Yuan/Mongol; travellers; Wood–Haw–Vogel–Larner debate; regional; reception); index categories incl. dedicated **Disputes & corrigenda**.
 
 ---

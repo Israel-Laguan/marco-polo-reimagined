@@ -10,10 +10,13 @@
 **Reliability legend (used in front matter of each volume):**
 | Mark | Meaning |
 |------|---------|
-| ★★★ | Corroborated by Yuan/Persian/other contemporary sources or archaeology |
-| ★★ | Plausible; minor chronological or toponymic stress |
-| ★ | Contested, compressed, or romance-coloured |
-| ◇ | Wonder-tale / legendary accretion (retain as *what the book says*) |
+| ✓ | Corroborated by Yuan/Persian/other contemporary sources or archaeology |
+| ~ | Plausible; minor chronological or toponymic stress |
+| ✗ | Probably wrong or exaggerated |
+| ◇ | Marvel or hearsay (retain as *what the book says*) |
+| ? | Contested; the evidence does not settle it |
+
+*(Replaces the ★ legend, 2026-10-22, S-03. The ★ marks in the chapter beats below are working notes: ★★★ ≈ ✓, ★★ ≈ ~, ★ ≈ ?. See `VOICE-GUIDE.md` § Apparatus conventions.)*
 
 ---
 

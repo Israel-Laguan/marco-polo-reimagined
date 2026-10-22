@@ -57,14 +57,21 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `I-F2.T1` Critical and factual fixes
-- `I-F2.T2` Ramusio flags and dispute asides
 - `I-F2.T3` Re-voice to the S-01 standard (incl. length cuts)
-- `I-F2.T4` Notes and apparatus normalisation
 - `I-F2.T5` Media placement (figures, tables, captions)
 - `I-F2.T6` Lint pass and human voice read
 
+### I-F2.T4 — Notes and apparatus to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Now:** 5 Notes · 0 ★ · 1 without a lead marker
+- **Do:**
+  - Notes with no lead marker: [1] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Run `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
 ### I-F2.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 8 errors · 0 warnings — failing: quote_verify, scaffolding
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 9 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

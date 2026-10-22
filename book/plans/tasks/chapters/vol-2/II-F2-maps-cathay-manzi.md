@@ -57,12 +57,20 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `II-F2.T1` Critical and factual fixes (epigraph, Cachanfu/Kenjanfu rows)
 - `II-F2.T3` Prose clean-up (placeholders, tic)
-- `II-F2.T4` Notes and apparatus normalisation; regenerate place tables from gazetteer
 - `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map")
 - `II-F2.T6` Lint pass and human read
 
+### II-F2.T4 — Notes and apparatus to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Now:** 3 Notes · 0 ★ · 1 without a lead marker
+- **Do:**
+  - Notes with no lead marker: [1] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Run `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
 ### II-F2.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 6 errors · 0 warnings — failing: quote_verify, scaffolding
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 7 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

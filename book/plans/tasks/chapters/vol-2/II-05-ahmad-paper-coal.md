@@ -64,8 +64,6 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `II-05.T1` Critical and factual fixes (**C1 Bolad first; III-12 and II-11 wait on it**)
-- `II-05.T2` Ramusio flags (Ahmad via Ramusio + Z; three unflagged passages)
-- `II-05.T4` Notes and apparatus normalisation
 - `II-05.T5` Media placement (hero + PD note, yam secondary, C1, C2, Ahmad table)
 - `II-05.T6` Lint pass and human voice read
 
@@ -82,8 +80,26 @@ _Created after the gating spikes close. Expected shapes:_
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
+### II-05.T2 — Ramusio flags and labels to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `II-05.T3` (the flags are written during the re-voice pass)
+- **Now:** 3 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
+- **Do:**
+  - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
+  - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.
+- **Done when:** `python3 tools/lint.py -v vol-2/ch-05-ahmad-paper-coal.md` shows no `ramusio` errors, and the flag count matches the passages found.
+
+### II-05.T4 — Notes and apparatus to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-05.T3` (re-voice renumbers Notes)
+- **Now:** 24 Notes · 0 ★ · 3 without a lead marker · tag [M]
+- **Do:**
+  - Tag line `**[M]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
+  - Notes with no lead marker: [3], [18], [24] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Run `python3 tools/lint.py -v vol-2/ch-05-ahmad-paper-coal.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
 ### II-05.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 19 errors · 0 warnings — failing: archaism, asides, budgets, length, ramusio, recaps, verbatim
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 24 errors · 0 warnings — failing: archaism, asides, budgets, length, markers, ramusio, recaps, verbatim
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-05-ahmad-paper-coal.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

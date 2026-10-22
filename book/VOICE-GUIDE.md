@@ -47,15 +47,14 @@ No two consecutive paragraphs open with the same two words or the same opener ty
 
 ## Ramusio and later layers
 
-Anything Yule brackets as Ramusio-only gets a short inline tag (3–6 words) plus "◇ Ramusio-only: …" in the matching Note. Rotate the tag:
+Anything Yule brackets as Ramusio-only gets two things: **a few words in the narrative** and **a label in the Note** (see *Apparatus conventions* below for the full rules). Inline, rotate:
 
-- "Ramusio's text adds…"
-- "Ramusio's version fills in…"
+- "Ramusio's text adds…" / "Ramusio's version fills in…"
 - "In Ramusio's version…"
 - "(…, Ramusio adds)"
-- "in another Ramusian passage"
+- "in another Ramusian passage" (continuation only, after an earlier flag in the same chapter)
 
-A wholly Ramusian paragraph opens by saying so (model: II-13 at "So far the older texts…"). The same applies to Pipino, Jacopo d'Acqui and Z-only material, each named. Final wording belongs to S-03; these are the pilot's working variants.
+A wholly Ramusian paragraph opens by saying so (model: II-13 at "So far the older texts…"). The same applies to Pipino, Jacopo d'Acqui and Zelada-Latin-only material, each named.
 
 ## Naming
 
@@ -66,19 +65,85 @@ A wholly Ramusian paragraph opens by saying so (model: II-13 at "So far the olde
 
 When something is contested, inaccurate, second-hand, or exaggerated, either correct it in one clause inside the narrative ("Chinese sources count eleven gates") or interrupt with a short aside (≤ 80 words), then simply resume. Don't dump all disputes into a separate "Reliability" table.
 
-## Citations and Notes
+## Apparatus conventions (S-03, closed 2026-10-22)
 
-1. **Numbered citations** inline: [1], [2], [3]… in order, each used once.
-2. After the narrative, a single **## Notes** section listing [1], [2]… with source, why disputed, and comparative witness.
-3. Markers inside Notes: ✓ corroborated · ~ plausible · ✗ likely wrong/exaggerated · ◇ second-hand or Ramusio-only · ? contested.
-4. No placeholder Notes ("see [5]", "soft transition"), no tooling language. Facts awaiting verification are marked **To verify (S-06)**.
+One system, four parts: **Notes** (numbered, at the chapter's end), **markers** (a verdict on each claim), **tags** (a verdict on the whole chapter) and **Ramusio labels** (where the text comes from). Each answers a different question, and none of them stands in for another.
 
-## Chapter shape
+### Chapter shape
 
-1. Title (+ optional short epigraph, verified in Yule)
-2. Head tag [V] / [R] / [M]
-3. Continuous storyteller narrative
-4. **## Notes** with numbered entries
+1. Title (+ optional short epigraph: exact Yule wording, or marked *(adapted)*)
+2. Tag line: `**[V]**`, `**[R]**`, `**[M]**` or `**[reception]**` on its own line (Vols. II–III narrative chapters only)
+3. `---`, then continuous storyteller narrative with inline citations [1], [2]…
+4. `## Notes`
+
+### Reliability markers (Notes only)
+
+| Marker | Meaning |
+|---|---|
+| ✓ | corroborated: an independent source (Yuan, Persian, Arab, archaeology) confirms it |
+| ~ | plausible: it fits, but a detail, date, scale or name is under strain |
+| ✗ | probably wrong or exaggerated: contradicted, or a copyist's or later error |
+| ◇ | marvel or hearsay: wonder-tale, legend or second-hand report, kept as what the Book says |
+| ? | contested: scholars disagree and the evidence does not settle it |
+
+- Markers appear **only in Notes, only at the start of a clause**, never in the narrative.
+- The **★ system is retired** (★★★ → ✓, ★★ → ~, ★ → ?; see the sweep rules below). The old "★ Dispute:" label is retired with it. A contested point takes `?` and a sentence saying what is contested.
+- `~` is a marker only when a space follows it. Write approximations as "about" or "c." ("about 60 miles", never "~60 miles").
+- ◇ means *marvel or hearsay* and nothing else. It does **not** mean Ramusio (see below).
+- Use the plain characters ✓ ✗ ◇ (U+2713, U+2717, U+25C7), never emoji forms, so the print build can map them to one symbol font.
+
+### Notes
+
+1. **One Note per citation, one citation per anchor.** A Note opens with the verdict on the anchored passage: one marker, or a pair "core / detail" when they differ ("✓ / ~ …"). Clauses after it carry their own markers. More than four marker clauses means the anchor is doing too much: split the sentence and add a citation.
+2. Shape: `[n] ✓ The claim in a few words. Evidence and corroboration. Comparative witnesses.` Cite modern scholars by well-known position only; no invented page numbers.
+3. **No placeholder Notes** ("see [5]", "soft transition", "companion framing only"). A Note that only points to another Note is merged into it and its citation is dropped.
+4. **No duplicate Notes** on one claim: "★ Dispute:" fragments and "Dispute hook / Dispute stance:" labels are merged into the Note they belong to.
+5. **No scaffolding or tooling language** (`/workspace`, gazetteer labels like *visited*, "outline", "drafter"). Facts awaiting verification are marked **To verify (S-06)**.
+6. Every Note opens with a marker. Front and back matter follow the same rule.
+
+### Tags (whole-chapter verdict, Vols. II–III)
+
+| Tag | Meaning |
+|---|---|
+| **[V]** | most of the chapter rests on what Polo says he saw or did |
+| **[R]** | most of it rests on what he heard: reports, hearsay, court intelligence |
+| **[M]** | both, in comparable measure |
+| **[reception]** | the chapter is about the Book's afterlife, not about travel (III-10 to III-12) |
+
+- **Compound tags are retired.** `[V/M]` and `[R/M]` fold into `[M]`. If the lean matters, say it in one clause of Note [1].
+- Vol. I chapters, front matter and back matter carry no tag. The outline reserves tags for the realm and sea volumes, and Vol. I is one outward journey framed by its own front matter.
+- Assigned tags (from the outline; each chapter's `.T4` confirms): II-8, II-14, III-2, III-3, III-4, III-5 → **[M]** (all were compounds); III-7 **[R]**; III-8 **[M]**; III-9 **[V]**; III-10, III-11, III-12 **[reception]**. All other tags stay as they are.
+
+### Ramusio and later layers
+
+A passage Yule brackets as Ramusio-only (or Pipino-only, Jacopo-only, Zelada-Latin-only) is flagged in **two places**:
+
+1. **In the narrative**, a flag of 3–6 words naming the source (variants under *Ramusio and later layers* above). The flag stands at the start of the passage and covers **one contiguous passage**; a second, separate Ramusian detail in the same paragraph needs its own flag. A wholly Ramusian paragraph opens by saying so. Pipino's Latin, Jacopo d'Acqui and the Zelada Latin are named in full; the sigla Z, P and R never appear in prose.
+2. **In the Note**, the label **"Ramusio-only."** (or "Pipino-only.", "Jacopo-only.", "Zelada-only.") directly after the lead marker, followed by the content: `[4] ? Ramusio-only. Carat appraisal of beauty. …`
+
+The label is **provenance**, not reliability. It sits beside a reliability marker and never replaces one: Ramusian detail can be ✓ (Kinsay's markets) or ◇ (a marvel). Do not label material Ramusio shares with the older texts; Yule's brackets decide.
+
+### ★ → marker sweep rules (for `APP.T2`)
+
+- ★★★ → ✓ · ★★ → ~ · ★ → ?
+- **A ★ on a clause that already has ✓ ~ ✗ ◇ ?** is deleted (e.g. "✓ Salt cakes… ★★★ Vogel" → "✓ Salt cakes… Vogel").
+- A bare ★ is **✗** when the same clause calls the claim wrong, scrambled or exaggerated; **◇** when it calls it myth, topos or legend.
+- "Dispute:" is dropped wherever it appears. A Note that is only "★ Dispute: …" is merged into the Note of its anchor, or given a lead marker by hand if it stands alone.
+- The sweep is run as a script that **proposes** each change; a person confirms each of the ~81 ★ (the meaning is per clause).
+
+### How the apparatus survives into LaTeX
+
+The Markdown stays plain; the build (S-08) converts mechanically because every element has one fixed shape.
+
+| Element | Markdown | LaTeX build |
+|---|---|---|
+| Citation | `[n]` plain text, sequential | filter turns `[n]` + the `## Notes` list into per-chapter endnotes (S-08 may choose footnotes; nothing here changes) |
+| Marker | literal ✓ ~ ✗ ◇ ? at clause start | filter wraps the five glyphs in one macro that sets them in a symbol font (or `pifont`) |
+| Tag line | a paragraph that is only `**[V]**` etc. | filter sets it as a small-caps line under the title |
+| Ramusio flag | ordinary words | no markup needed |
+| How-to-read box | `::: howto … :::` (Pandoc fenced div) | boxed environment |
+
+For S-08: confirm a font with ✓ ✗ ◇ coverage and the endnote-vs-footnote choice.
 
 ## Base text and honesty
 
@@ -100,7 +165,7 @@ When something is contested, inaccurate, second-hand, or exaggerated, either cor
 
 1. Read the backlog file in `plans/tasks/chapters/` and the Yule chapters it covers.
 2. Retell scene by scene; pick at most two quotations per scene.
-3. Apply the chapter's W2 facts and W3 Ramusio flags in the same pass.
+3. Apply the chapter's W2 facts and W3 Ramusio flags in the same pass (*Apparatus conventions*).
 4. Cut recaps; merge stub Notes; renumber.
 5. Measure (lint, S-02) against the table above.
 6. Human read: does it sound like II-2? Is any fact, flavour or citation lost?

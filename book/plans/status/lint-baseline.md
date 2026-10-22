@@ -1,8 +1,6 @@
 # Lint baseline
 
-_Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; every other file is still the first draft). Regenerate with `python3 tools/lint.py --md > plans/status/lint-baseline.md` from `book/`._
-
-`python3 tools/lint.py --md` · 1/49 files pass. Errors decide pass/fail; warnings are prompts for the human read.
+_Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "Dispute:" and "Ramusio-only." checks (II-2 is the only re-voiced file; every other file is still the first draft). Regenerate with `python3 tools/lint.py --md > plans/status/lint-baseline.md` from `book/`._
 
 ## Summary by check
 
@@ -22,63 +20,64 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 | sentence | 0 | 30 |
 | scaffolding | 40 | 0 |
 | citations | 2 | 0 |
-| markers | 19 | 0 |
-| ramusio | 27 | 20 |
+| markers | 33 | 0 |
+| tags | 12 | 0 |
+| ramusio | 28 | 20 |
 | names | 0 | 14 |
 
 ## Per file
 
 | File | Kind | Errors | Warnings | Words | Verbatim | Quotes | Asides | Ramusio flagged/expected | Failing checks |
 |---|---|---|---|---|---|---|---|---|---|
-| vol-1/back-01-trivia-and-disputes.md | frontback | 2 | 0 |  | 0% |  |  |  | quote_verify, scaffolding |
+| vol-1/back-01-trivia-and-disputes.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
 | vol-1/ch-01-genoa-prison.md | narrative | 6 | 3 | 1967 | 7% | 1 | 2 | 3/0 | asides, budgets, quotes |
 | vol-1/ch-02-house-of-polo.md | narrative | 13 | 3 | 2326 | 28% | 0 | 3 | 1/0 | archaism, asides, budgets, scaffolding, verbatim |
 | vol-1/ch-03-second-setting-forth.md | narrative | 17 | 1 | 2572 | 34% | 0 | 4 | 2/1 | archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim |
-| vol-1/ch-04-hermenia-georgiania.md | narrative | 15 | 4 | 2316 | 50% | 0 | 3 | 1/2 | archaism, asides, budgets, citations, ramusio, verbatim, you_must_know |
-| vol-1/ch-05-mausul-baudas.md | narrative | 15 | 2 | 2933 | 62% | 0 | 3 | 2/1 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/ch-06-tauris-persia.md | narrative | 17 | 4 | 2686 | 58% | 0 | 2 | 2/2 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/ch-07-kerman-hormos.md | narrative | 17 | 4 | 2960 | 70% | 0 | 2 | 0/3 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-1/ch-08-arbre-sec-old-man.md | narrative | 12 | 3 | 2389 | 62% | 0 | 2 | 0/2 | archaism, asides, ramusio, scaffolding, verbatim |
-| vol-1/ch-09-balc-badashan.md | narrative | 18 | 7 | 3134 | 65% | 0 | 3 | 1/2 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/ch-10-pamier-cotan.md | narrative | 25 | 8 | 2766 | 51% | 0 | 2 | 1/5 | archaism, asides, budgets, ramusio, scaffolding, verbatim |
-| vol-1/ch-11-lop-tangut.md | narrative | 28 | 2 | 2756 | 47% | 0 | 4 | 0/4 | archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-1/ch-04-hermenia-georgiania.md | narrative | 16 | 4 | 2316 | 50% | 0 | 3 | 1/2 | archaism, asides, budgets, citations, ramusio, verbatim, you_must_know |
+| vol-1/ch-05-mausul-baudas.md | narrative | 16 | 2 | 2933 | 62% | 0 | 3 | 2/1 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-06-tauris-persia.md | narrative | 18 | 4 | 2686 | 58% | 0 | 2 | 2/2 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-07-kerman-hormos.md | narrative | 18 | 4 | 2960 | 70% | 0 | 2 | 0/3 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-1/ch-08-arbre-sec-old-man.md | narrative | 13 | 3 | 2389 | 62% | 0 | 2 | 0/2 | archaism, asides, ramusio, scaffolding, verbatim |
+| vol-1/ch-09-balc-badashan.md | narrative | 21 | 7 | 3134 | 65% | 0 | 3 | 1/2 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-10-pamier-cotan.md | narrative | 27 | 8 | 2766 | 51% | 0 | 2 | 1/5 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim |
+| vol-1/ch-11-lop-tangut.md | narrative | 30 | 2 | 2756 | 47% | 0 | 4 | 0/4 | archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know |
 | vol-1/ch-12-caracoron-tenduc.md | narrative | 22 | 1 | 3091 | 17% | 0 | 5 | 0/1 | archaism, asides, budgets, first_person, markers, quote_verify, ramusio, scaffolding, verbatim |
-| vol-1/ch-13-chandu.md | narrative | 18 | 2 | 2600 | 58% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/front-01-world-before-the-road.md | frontback | 3 | 1 |  | 1% |  |  |  | citations, quote_verify, scaffolding |
-| vol-1/front-02-maps-outbound.md | frontback | 8 | 0 |  | 0% |  |  |  | quote_verify, scaffolding |
-| vol-2/back-01-trivia-and-disputes.md | frontback | 1 | 0 |  | 0% |  |  |  | quote_verify |
+| vol-1/ch-13-chandu.md | narrative | 21 | 2 | 2600 | 58% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/front-01-world-before-the-road.md | frontback | 5 | 1 |  | 1% |  |  |  | citations, markers, quote_verify, scaffolding |
+| vol-1/front-02-maps-outbound.md | frontback | 9 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
+| vol-2/back-01-trivia-and-disputes.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify |
 | vol-2/ch-01-cublay-nayan.md | narrative | 22 | 4 | 3082 | 61% | 0 | 3 | 3/0 | archaism, asides, budgets, recaps, scaffolding, verbatim, you_must_know |
 | vol-2/ch-02-person-palace.md | narrative | 0 | 0 | 1871 | 3% | 6 | 2 | 11/9 | — |
-| vol-2/ch-03-feasts-keshican.md | narrative | 35 | 3 | 3086 | 80% | 0 | 2 | 1/6 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-04-hunt-traffic.md | narrative | 36 | 4 | 3120 | 72% | 0 | 3 | 1/5 | archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-05-ahmad-paper-coal.md | narrative | 19 | 0 | 3211 | 31% | 0 | 3 | 4/3 | archaism, asides, budgets, length, ramusio, recaps, verbatim |
-| vol-2/ch-06-pulisanghin-sindafu.md | narrative | 21 | 3 | 3008 | 64% | 0 | 2 | 2/4 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim |
+| vol-2/ch-03-feasts-keshican.md | narrative | 36 | 3 | 3086 | 80% | 0 | 2 | 1/6 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-04-hunt-traffic.md | narrative | 40 | 4 | 3120 | 72% | 0 | 3 | 1/5 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-05-ahmad-paper-coal.md | narrative | 24 | 0 | 3211 | 31% | 0 | 3 | 4/3 | archaism, asides, budgets, length, markers, ramusio, recaps, verbatim |
+| vol-2/ch-06-pulisanghin-sindafu.md | narrative | 22 | 3 | 3008 | 64% | 0 | 2 | 2/4 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim |
 | vol-2/ch-07-tebet-carajan.md | narrative | 18 | 1 | 3067 | 46% | 0 | 0 | 2/2 | archaism, budgets, markers, ramusio, recaps, scaffolding, verbatim |
-| vol-2/ch-08-mien-bangala.md | narrative | 19 | 5 | 2876 | 77% | 0 | 1 | 0/1 | archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-08-mien-bangala.md | narrative | 20 | 5 | 2876 | 77% | 0 | 1 | 0/1 | archaism, asides, budgets, ramusio, recaps, scaffolding, tags, verbatim, you_must_know |
 | vol-2/ch-09-caugigu-cuiju.md | narrative | 13 | 4 | 2030 | 55% | 0 | 1 | 1/0 | archaism, asides, budgets, markers, quote_verify, scaffolding, verbatim, you_must_know |
-| vol-2/ch-10-manzi-sung.md | narrative | 24 | 7 | 3055 | 69% | 0 | 2 | 1/2 | archaism, asides, budgets, first_person, markers, quote_verify, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-10-manzi-sung.md | narrative | 25 | 7 | 3055 | 69% | 0 | 2 | 1/2 | archaism, asides, budgets, first_person, markers, quote_verify, ramusio, recaps, scaffolding, verbatim, you_must_know |
 | vol-2/ch-11-yanju-saianfu.md | narrative | 17 | 7 | 2518 | 58% | 0 | 3 | 1/0 | archaism, asides, budgets, markers, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-12-kian-suju.md | narrative | 24 | 7 | 2513 | 63% | 0 | 4 | 1/2 | archaism, asides, budgets, first_person, ramusio, verbatim, you_must_know |
+| vol-2/ch-12-kian-suju.md | narrative | 25 | 7 | 2513 | 63% | 0 | 4 | 1/2 | archaism, asides, budgets, first_person, ramusio, verbatim, you_must_know |
 | vol-2/ch-13-kinsay.md | narrative | 22 | 5 | 3375 | 44% | 0 | 3 | 7/4 | archaism, asides, budgets, first_person, length, ramusio, scaffolding, verbatim, you_must_know |
-| vol-2/ch-14-fuju-zayton.md | narrative | 28 | 6 | 2628 | 72% | 0 | 4 | 1/6 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-14-fuju-zayton.md | narrative | 29 | 6 | 2628 | 72% | 0 | 4 | 1/6 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, tags, verbatim, you_must_know |
 | vol-2/ch-15-great-turkey-ponent.md | narrative | 11 | 3 | 3089 | 52% | 0 | 3 | 0/0 | archaism, asides, budgets, quote_verify, verbatim, you_must_know |
-| vol-2/front-01-yuan-china-context.md | frontback | 1 | 0 |  | 1% |  |  |  | quote_verify |
-| vol-2/front-02-maps-cathay-manzi.md | frontback | 6 | 0 |  | 2% |  |  |  | quote_verify, scaffolding |
-| vol-3/back-01-trivia-and-afterlives.md | frontback | 1 | 0 |  | 0% |  |  |  | quote_verify |
-| vol-3/ch-01-ships-chipangu.md | narrative | 25 | 4 | 2246 | 49% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-02-chamba-java.md | narrative | 20 | 4 | 1779 | 47% | 0 | 3 | 0/1 | asides, budgets, length, markers, quote_verify, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-03-java-less-sumatra.md | narrative | 29 | 6 | 2171 | 64% | 0 | 2 | 0/5 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-04-necuveran-seilan.md | narrative | 32 | 3 | 2582 | 77% | 0 | 3 | 0/0 | archaism, asides, budgets, first_person, markers, scaffolding, verbatim, you_must_know |
-| vol-3/ch-05-maabar-st-thomas.md | narrative | 27 | 3 | 2747 | 39% | 0 | 3 | 1/1 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-06-mutfili-kesmacoran.md | narrative | 32 | 2 | 3609 | 64% | 0 | 5 | 0/4 | archaism, asides, budgets, first_person, length, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-07-male-abash.md | narrative | 17 | 2 | 2671 | 46% | 0 | 3 | 0/2 | archaism, asides, budgets, markers, quote_verify, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-08-aden-hormos.md | narrative | 19 | 0 | 2034 | 64% | 0 | 6 | 1/0 | archaism, asides, budgets, first_person, markers, quote_verify, scaffolding, verbatim |
-| vol-3/ch-09-cocachin-return.md | narrative | 11 | 2 | 2709 | 39% | 0 | 1 | 4/1 | archaism, first_person, markers, ramusio, scaffolding, verbatim |
-| vol-3/ch-10-ca-polo-milione.md | narrative | 34 | 1 | 3321 | 37% | 0 | 1 | 8/0 | archaism, asides, length, markers, scaffolding, verbatim |
-| vol-3/ch-11-afterlives.md | narrative | 51 | 3 | 2634 | 0% | 0 | 2 | 4/0 | asides, markers, quote_verify, scaffolding |
-| vol-3/ch-12-reliability-essay.md | essay | 79 | 1 | 3753 | 0% |  |  |  | length, quote_verify, scaffolding |
-| vol-3/front-01-indian-ocean-world.md | frontback | 2 | 0 |  | 0% |  |  |  | quote_verify, scaffolding |
-| vol-3/front-02-maps-seas-and-return.md | frontback | 3 | 0 |  | 0% |  |  |  | quote_verify, scaffolding |
+| vol-2/front-01-yuan-china-context.md | frontback | 3 | 0 |  | 1% |  |  |  | markers, quote_verify |
+| vol-2/front-02-maps-cathay-manzi.md | frontback | 7 | 0 |  | 2% |  |  |  | markers, quote_verify, scaffolding |
+| vol-3/back-01-trivia-and-afterlives.md | frontback | 3 | 0 |  | 0% |  |  |  | markers, quote_verify |
+| vol-3/ch-01-ships-chipangu.md | narrative | 30 | 4 | 2246 | 49% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-3/ch-02-chamba-java.md | narrative | 27 | 4 | 1779 | 47% | 0 | 3 | 0/1 | asides, budgets, length, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-03-java-less-sumatra.md | narrative | 37 | 6 | 2171 | 64% | 0 | 2 | 0/5 | archaism, asides, budgets, markers, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-04-necuveran-seilan.md | narrative | 39 | 3 | 2582 | 77% | 0 | 3 | 0/0 | archaism, asides, budgets, first_person, markers, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-05-maabar-st-thomas.md | narrative | 35 | 3 | 2747 | 39% | 0 | 3 | 1/1 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-06-mutfili-kesmacoran.md | narrative | 42 | 2 | 3609 | 64% | 0 | 5 | 0/4 | archaism, asides, budgets, first_person, length, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-3/ch-07-male-abash.md | narrative | 20 | 2 | 2671 | 46% | 0 | 3 | 0/2 | archaism, asides, budgets, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-08-aden-hormos.md | narrative | 21 | 0 | 2034 | 64% | 0 | 6 | 1/0 | archaism, asides, budgets, first_person, markers, quote_verify, scaffolding, tags, verbatim |
+| vol-3/ch-09-cocachin-return.md | narrative | 13 | 2 | 2709 | 39% | 0 | 1 | 4/1 | archaism, first_person, markers, ramusio, scaffolding, tags, verbatim |
+| vol-3/ch-10-ca-polo-milione.md | narrative | 35 | 1 | 3321 | 37% | 0 | 1 | 8/0 | archaism, asides, length, markers, scaffolding, tags, verbatim |
+| vol-3/ch-11-afterlives.md | narrative | 52 | 3 | 2634 | 0% | 0 | 2 | 4/0 | asides, markers, quote_verify, scaffolding, tags |
+| vol-3/ch-12-reliability-essay.md | essay | 81 | 1 | 3753 | 0% |  |  |  | length, markers, quote_verify, scaffolding, tags |
+| vol-3/front-01-indian-ocean-world.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
+| vol-3/front-02-maps-seas-and-return.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
 
 ## Issues
 
@@ -86,6 +85,8 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 
 - **error** L4 `quote_verify` epigraph not found in refs/ (invented?, 0% of 5-grams match): “i did not tell half of what i saw for i knew i wou”
 - **error** L83 `scaffolding` scaffolding: “/workspace”
+- **error** L63 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L83 `markers` Note [11] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-1/ch-01-genoa-prison.md
 
@@ -137,7 +138,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** — `sentence` average sentence 28.4 words (> 25)
 - **error** L21 `scaffolding` scaffolding: “aside has to be honest”
 - **error** L39 `ramusio` Ramusio-only passage without an inline flag
-- **error** L39 `ramusio` Ramusio-only passage: no ◇ in Notes [16]
+- **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [16]
 
 ### vol-1/ch-04-hermenia-georgiania.md
 
@@ -155,8 +156,9 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** — `sentence` average sentence 29.5 words (> 25)
 - **error** L71 `citations` Note [15] is never cited
 - **error** L21 `ramusio` Ramusio-only passage without an inline flag
+- **error** L21 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [7]
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
-- **error** L33 `ramusio` Ramusio-only passage: no ◇ in Notes [13]
+- **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [13]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: on the summit of which snow is; The said sea produces quantiti…)
 - **warning** L13 `names` “Erzingan” is close to gazetteer name “Erzincan” (variant spelling?)
 - **warning** L13 `names` “Erzrum” is close to gazetteer name “Erzurum” (variant spelling?)
@@ -180,6 +182,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** — `sentence` average sentence 27.3 words (> 25)
 - **error** L87 `scaffolding` scaffolding: “reported_only”
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 
 ### vol-1/ch-06-tauris-persia.md
 
@@ -202,7 +205,8 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L49 `scaffolding` scaffolding: “Gazetteer: *visited*”
 - **error** L69 `scaffolding` scaffolding: “Dispute hook”
 - **error** L79 `scaffolding` scaffolding: “Gazetteer: *visited*”
-- **error** L39 `ramusio` Ramusio-only passage: no ◇ in Notes [15]
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
+- **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **warning** L33 `names` “Tunocain” is close to gazetteer name “Tonocain” (variant spelling?)
 
 ### vol-1/ch-07-kerman-hormos.md
@@ -221,10 +225,11 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** — `sentence` average sentence 27.6 words (> 25)
 - **error** L49 `scaffolding` scaffolding: “Gazetteer: *visited*”
 - **error** L15 `ramusio` Ramusio-only passage without an inline flag
-- **error** L15 `ramusio` Ramusio-only passage: no ◇ in Notes [4]
+- **error** L15 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **error** L35 `ramusio` Ramusio-only passage without an inline flag
+- **error** L35 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [13]
 - **error** L39 `ramusio` Ramusio-only passage without an inline flag
-- **error** L39 `ramusio` Ramusio-only passage: no ◇ in Notes [14]
+- **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [14]
 - **warning** — `ramusio` first draft carried 3 Ramusio passages; 0 paragraphs flag Ramusio (check: There are vast numbers of turt; And to prove the great heat of; And they have women who are mo…)
 - **warning** L23 `names` “Badashan” is close to gazetteer name “Badakhshan” (variant spelling?)
 - **warning** L23 `names` “Pashai” is close to gazetteer name “Pasai” (variant spelling?)
@@ -243,8 +248,9 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L53 `scaffolding` scaffolding: “Gazetteer: Tonocain / Arbre Sec *uncerta”
 - **error** L57 `scaffolding` scaffolding: “reported_only”
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 - **error** L35 `ramusio` Ramusio-only passage without an inline flag
-- **error** L35 `ramusio` Ramusio-only passage: no ◇ in Notes [12]
+- **error** L35 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [12]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 0 paragraphs flag Ramusio (check: you arrive at a stream of fres; and the Castle with its Garden…)
 
 ### vol-1/ch-09-balc-badashan.md
@@ -266,9 +272,12 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L55 `scaffolding` scaffolding: “likely_visited”
 - **error** L57 `scaffolding` scaffolding: “Gazetteer: Balkh *visited*”
 - **error** L61 `scaffolding` scaffolding: “likely_visited”
+- **error** L83 `markers` Note [16] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L83 `markers` Note [16] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L31 `ramusio` Ramusio-only passage without an inline flag
-- **error** L31 `ramusio` Ramusio-only passage: no ◇ in Notes [10]
+- **error** L31 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **error** L43 `ramusio` Ramusio-only passage without an inline flag
+- **error** L43 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: They go at a great pace even d; The people of the province do …)
 - **warning** L23 `names` “Badashan” is close to gazetteer name “Badakhshan” (variant spelling?)
 - **warning** L33 `names` “Faizabad” is close to gazetteer name “Fayzabad” (variant spelling?)
@@ -298,11 +307,13 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L73 `scaffolding` scaffolding: “Gazetteer: Yarkand *visited*”
 - **error** L75 `scaffolding` scaffolding: “Gazetteer: Khotan *visited*”
 - **error** L81 `scaffolding` scaffolding: “Gazetteer: Pem *uncertain*”
+- **error** L71 `markers` Note [12] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
-- **error** L13 `ramusio` Ramusio-only passage: no ◇ in Notes [3]
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
+- **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [13]
 - **error** L35 `ramusio` Ramusio-only passage without an inline flag
-- **error** L35 `ramusio` Ramusio-only passage: no ◇ in Notes [14]
+- **error** L35 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [14]
 - **error** L41 `ramusio` Ramusio-only passage without an inline flag
 - **warning** — `ramusio` first draft carried 5 Ramusio passages; 1 paragraphs flag Ramusio (check: a great lake between two mount; Messer Marco was told also tha; particularly of cotton. The in…)
 - **warning** L9 `names` “Badashan” is close to gazetteer name “Badakhshan” (variant spelling?)
@@ -338,10 +349,12 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L75 `scaffolding` scaffolding: “gazetteer Succiu *visited*”
 - **error** L77 `scaffolding` scaffolding: “gazetteer *visited*”
 - **error** L15 `ramusio` Ramusio-only passage without an inline flag
+- **error** L15 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **error** L19 `ramusio` Ramusio-only passage without an inline flag
 - **error** L29 `ramusio` Ramusio-only passage without an inline flag
+- **error** L29 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **error** L37 `ramusio` Ramusio-only passage without an inline flag
-- **error** L37 `ramusio` Ramusio-only passage: no ◇ in Notes [14]
+- **error** L37 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [14]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 0 paragraphs flag Ramusio (check: Sometimes the stray travellers; Hence in making this journey ’; but to provide public hostelri…)
 
 ### vol-1/ch-12-caracoron-tenduc.md
@@ -367,7 +380,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L103 `scaffolding` scaffolding: “gazetteer Tenduc *uncertain*”
 - **error** L79 `markers` Note [9] uses retired marker ★
 - **error** L39 `ramusio` Ramusio-only passage without an inline flag
-- **error** L39 `ramusio` Ramusio-only passage: no ◇ in Notes [15]
+- **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **warning** — `ramusio` first draft carried 1 Ramusio passages; 0 paragraphs flag Ramusio (check: They say there is a Most High …)
 
 ### vol-1/ch-13-chandu.md
@@ -389,8 +402,11 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L49 `scaffolding` scaffolding: “gazetteer Shangdu *visited*”
 - **error** L67 `scaffolding` scaffolding: “Dispute hook”
 - **error** L57 `markers` Note [5] uses retired marker ★
+- **error** L57 `markers` Note [5] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L67 `markers` Note [10] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L67 `markers` Note [10] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L15 `ramusio` Ramusio-only passage without an inline flag
-- **error** L15 `ramusio` Ramusio-only passage: no ◇ in Notes [4]
+- **error** L15 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 2 paragraphs flag Ramusio (check: at a spot in the Park where th; It is stayed on gilt and lacke; They are cut across at each kn…)
 
 ### vol-1/front-01-world-before-the-road.md
@@ -398,6 +414,8 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L4 `quote_verify` epigraph not found in refs/ (misquoted, 50% of 5-grams match): “ye must know that in the year of christ”
 - **error** L82 `scaffolding` scaffolding: “/workspace”
 - **error** — `citations` body citations not sequential 1..n: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 10]
+- **error** L64 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L82 `markers` Note [10] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **warning** L21 `names` “Mongolica” is close to gazetteer name “Mongolia” (variant spelling?)
 
 ### vol-1/front-02-maps-outbound.md
@@ -410,10 +428,14 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L108 `scaffolding` scaffolding: “Soft IDs:”
 - **error** L108 `scaffolding` scaffolding: “likely_visited”
 - **error** L108 `scaffolding` scaffolding: “reported_only”
+- **error** L100 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-2/back-01-trivia-and-disputes.md
 
 - **error** L4 `quote_verify` epigraph not found in refs/ (invented?, 0% of 5-grams match): “all these cities are so great that”
+- **error** L57 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L67 `markers` Note [6] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L69 `markers` Note [7] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-2/ch-01-cublay-nayan.md
 
@@ -475,14 +497,15 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L31 `scaffolding` scaffolding: “asides have to be honest”
 - **error** L75 `scaffolding` scaffolding: “Soft landing to II-4:”
 - **error** L77 `markers` Note [15] uses retired marker ★
+- **error** L77 `markers` Note [15] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L17 `ramusio` Ramusio-only passage without an inline flag
-- **error** L17 `ramusio` Ramusio-only passage: no ◇ in Notes [3]
+- **error** L17 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 - **error** L19 `ramusio` Ramusio-only passage without an inline flag
-- **error** L19 `ramusio` Ramusio-only passage: no ◇ in Notes [4]
+- **error** L19 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **error** L21 `ramusio` Ramusio-only passage without an inline flag
-- **error** L21 `ramusio` Ramusio-only passage: no ◇ in Notes [5]
+- **error** L21 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [5]
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
-- **error** L33 `ramusio` Ramusio-only passage: no ◇ in Notes [10]
+- **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **warning** — `ramusio` first draft carried 6 Ramusio passages; 1 paragraphs flag Ramusio (check: Further, you are not to suppos; is set a large and very beauti; of the capacity of a firkin…)
 
 ### vol-2/ch-04-hunt-traffic.md
@@ -518,14 +541,18 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L17 `scaffolding` scaffolding: “. Narrate”
 - **error** L17 `scaffolding` scaffolding: “aside has to be honest”
 - **error** L101 `scaffolding` scaffolding: “Soft landing to II-5:”
+- **error** L73 `markers` Note [7] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L79 `markers` Note [10] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L87 `markers` Note [14] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L101 `markers` Note [21] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L15 `ramusio` Ramusio-only passage without an inline flag
-- **error** L15 `ramusio` Ramusio-only passage: no ◇ in Notes [2]
+- **error** L15 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
 - **error** L23 `ramusio` Ramusio-only passage without an inline flag
-- **error** L23 `ramusio` Ramusio-only passage: no ◇ in Notes [6]
+- **error** L23 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [6]
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
-- **error** L33 `ramusio` Ramusio-only passage: no ◇ in Notes [11]
+- **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [11]
 - **error** L47 `ramusio` Ramusio-only passage without an inline flag
-- **error** L47 `ramusio` Ramusio-only passage: no ◇ in Notes [17]
+- **error** L47 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [17]
 - **warning** — `ramusio` first draft carried 5 Ramusio passages; 1 paragraphs flag Ramusio (check: They are obliged to approach t; The Two Brothers I have mentio; for he always travels in this …)
 
 ### vol-2/ch-05-ahmad-paper-coal.md
@@ -546,9 +573,14 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L11 `recaps` opening recap
 - **error** L59 `recaps` closing recap (88 words)
 - **error** — `length` narrative 3211 words (outside 1800–3200)
+- **error** L69 `markers` Note [3] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L99 `markers` Note [18] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L111 `markers` Note [24] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L41 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **error** L45 `ramusio` Ramusio-only passage without an inline flag
-- **error** L45 `ramusio` Ramusio-only passage: no ◇ in Notes [17]
+- **error** L45 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [17]
 - **error** L51 `ramusio` Ramusio-only passage without an inline flag
+- **error** L51 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [20]
 
 ### vol-2/ch-06-pulisanghin-sindafu.md
 
@@ -570,10 +602,11 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L75 `scaffolding` scaffolding: “Gazetteer: *uncertain*”
 - **error** L79 `scaffolding` scaffolding: “Gazetteer: Sindafu *visited*”
 - **error** L79 `markers` Note [14] uses retired marker ★
+- **error** L17 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **error** L27 `ramusio` Ramusio-only passage without an inline flag
-- **error** L27 `ramusio` Ramusio-only passage: no ◇ in Notes [8]
+- **error** L27 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [8]
 - **error** L37 `ramusio` Ramusio-only passage without an inline flag
-- **error** L37 `ramusio` Ramusio-only passage: no ◇ in Notes [12]
+- **error** L37 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [12]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 2 paragraphs flag Ramusio (check: But at the end of five days’ j; This Golden King was a great a; On the lands adjoining this ri…)
 - **warning** L15 `names` “Taianfu” is close to gazetteer name “Tainfu” (variant spelling?)
 
@@ -596,8 +629,8 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L75 `scaffolding` scaffolding: “Gazetteer: Carajan *visited*”
 - **error** L83 `scaffolding` scaffolding: “Gazetteer: Zardandan *uncertain*”
 - **error** L71 `markers` Note [7] uses retired marker ★
-- **error** L23 `ramusio` Ramusio-only passage: no ◇ in Notes [5]
-- **error** L27 `ramusio` Ramusio-only passage: no ◇ in Notes [7]
+- **error** L23 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [5]
+- **error** L27 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [7]
 
 ### vol-2/ch-08-mien-bangala.md
 
@@ -622,8 +655,9 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** L33 `recaps` “So/Thus …” restatement paragraph?
 - **warning** — `sentence` average sentence 28.9 words (> 25)
 - **error** L57 `scaffolding` scaffolding: “reported_only”
+- **error** L7 `tags` tag line **[R/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 - **error** L41 `ramusio` Ramusio-only passage without an inline flag
-- **error** L41 `ramusio` Ramusio-only passage: no ◇ in Notes [9]
+- **error** L41 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [9]
 - **warning** — `ramusio` first draft carried 1 Ramusio passages; 0 paragraphs flag Ramusio (check: The tomb likewise was plated p…)
 
 ### vol-2/ch-09-caugigu-cuiju.md
@@ -676,6 +710,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L79 `scaffolding` scaffolding: “likely_visited”
 - **error** L93 `scaffolding` scaffolding: “soft ID”
 - **error** L89 `markers` Note [6] uses retired marker ★
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: There are also certain Christi; A great river passes through i…)
 - **warning** L19 `names` “Tadinfu” is close to gazetteer name “Tainfu” (variant spelling?)
 - **warning** L21 `names` “Yanzhou” is close to gazetteer name “Yangzhou” (variant spelling?)
@@ -735,8 +770,9 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** L35 `recaps` “So/Thus …” restatement paragraph?
 - **warning** — `sentence` average sentence 25.2 words (> 25)
 - **error** L19 `ramusio` Ramusio-only passage without an inline flag
-- **error** L19 `ramusio` Ramusio-only passage: no ◇ in Notes [2]
+- **error** L19 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
 - **error** L25 `ramusio` Ramusio-only passage without an inline flag
+- **error** L25 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: Indeed as it has a course of s; There are at many places on th…)
 - **warning** L37 `names` “Zhenjiang” is close to gazetteer name “Zhejiang” (variant spelling?)
 - **warning** L43 `names` “Changzhou” is close to gazetteer name “Cangzhou” (variant spelling?)
@@ -801,6 +837,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** — `sentence` average sentence 25.6 words (> 25)
 - **error** L15 `scaffolding` scaffolding: “honesty restores”
 - **error** L85 `scaffolding` scaffolding: “gazetteer *visited*”
+- **error** L7 `tags` tag line **[V/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 - **error** L31 `ramusio` Ramusio-only passage without an inline flag
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
 - **error** L53 `ramusio` Ramusio-only passage without an inline flag
@@ -828,6 +865,8 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 ### vol-2/front-01-yuan-china-context.md
 
 - **error** L4 `quote_verify` epigraph not found in refs/ (misquoted, 50% of 5-grams match): “now i have told you of the splendour of cublay”
+- **error** L60 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L76 `markers` Note [9] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-2/front-02-maps-cathay-manzi.md
 
@@ -837,10 +876,13 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L79 `scaffolding` scaffolding: “/workspace”
 - **error** L79 `scaffolding` scaffolding: “placeholder”
 - **error** L81 `scaffolding` scaffolding: “outline-volumes”
+- **error** L79 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-3/back-01-trivia-and-afterlives.md
 
 - **error** L4 `quote_verify` epigraph not found in refs/ (invented?, 0% of 5-grams match): “because of this book many set forth”
+- **error** L55 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L61 `markers` Note [4] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-3/ch-01-ships-chipangu.md
 
@@ -865,13 +907,18 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** — `sentence` average sentence 26.6 words (> 25)
 - **error** L27 `scaffolding` scaffolding: “asides have to be honest”
 - **error** L65 `markers` Note [7] uses retired marker ★
+- **error** L65 `markers` Note [7] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L65 `markers` Note [7] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L73 `markers` Note [11] uses retired marker ★
+- **error** L73 `markers` Note [11] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
-- **error** L13 `ramusio` Ramusio-only passage: no ◇ in Notes [2]
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
 - **error** L23 `ramusio` Ramusio-only passage without an inline flag
-- **error** L23 `ramusio` Ramusio-only passage: no ◇ in Notes [5]
+- **error** L23 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [5]
 - **error** L25 `ramusio` Ramusio-only passage without an inline flag
+- **error** L25 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [6]
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
+- **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 2 paragraphs flag Ramusio (check: Moreover the larger of their v; and the King does not allow it; In this Island some of the dea…)
 
 ### vol-3/ch-02-chamba-java.md
@@ -895,10 +942,17 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L45 `scaffolding` scaffolding: “reported_only”
 - **error** L45 `scaffolding` scaffolding: “likely_visited”
 - **error** L45 `scaffolding` scaffolding: “Gazetteer: Chamba *visited*”
+- **error** L51 `markers` Note [4] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L55 `markers` Note [6] uses retired marker ★
+- **error** L55 `markers` Note [6] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L55 `markers` Note [6] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L65 `markers` Note [11] uses retired marker ★
+- **error** L65 `markers` Note [11] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L65 `markers` Note [11] uses a retired “Dispute:” label (use ? and say what is contested)
+- **error** L69 `markers` Note [13] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L7 `tags` tag line **[R/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 - **error** L29 `ramusio` Ramusio-only passage without an inline flag
-- **error** L29 `ramusio` Ramusio-only passage: no ◇ in Notes [9]
+- **error** L29 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [9]
 - **warning** — `ramusio` first draft carried 1 Ramusio passages; 0 paragraphs flag Ramusio (check: it is on the mainland…)
 
 ### vol-3/ch-03-java-less-sumatra.md
@@ -926,15 +980,23 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L79 `scaffolding` scaffolding: “Soft ID”
 - **error** L85 `scaffolding` scaffolding: “likely_visited”
 - **error** L89 `scaffolding` scaffolding: “reported_only”
+- **error** L63 `markers` Note [4] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L69 `markers` Note [7] uses retired marker ★
+- **error** L69 `markers` Note [7] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L69 `markers` Note [7] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L77 `markers` Note [11] uses retired marker ★
+- **error** L77 `markers` Note [11] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L83 `markers` Note [14] uses retired marker ★
+- **error** L83 `markers` Note [14] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L83 `markers` Note [14] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L87 `markers` Note [16] uses retired marker ★
+- **error** L87 `markers` Note [16] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L89 `markers` Note [17] uses retired marker ★
+- **error** L7 `tags` tag line **[V/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 - **error** L23 `ramusio` Ramusio-only passage without an inline flag
-- **error** L23 `ramusio` Ramusio-only passage: no ◇ in Notes [6]
+- **error** L23 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [6]
 - **error** L31 `ramusio` Ramusio-only passage without an inline flag
-- **error** L31 `ramusio` Ramusio-only passage: no ◇ in Notes [10]
+- **error** L31 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **warning** — `ramusio` first draft carried 5 Ramusio passages; 0 paragraphs flag Ramusio (check: and when savage with any one t; he landed with about 2000 men ; for there is great store of wo…)
 - **warning** L19 `names` “Samudra” is close to gazetteer name “Samudera” (variant spelling?)
 - **warning** L21 `names` “Islanders” is close to gazetteer name “Islands” (variant spelling?)
@@ -973,9 +1035,16 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L51 `scaffolding` scaffolding: “likely_visited”
 - **error** L51 `scaffolding` scaffolding: “reported_only”
 - **error** L59 `markers` Note [5] uses retired marker ★
+- **error** L59 `markers` Note [5] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L59 `markers` Note [5] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L63 `markers` Note [7] uses retired marker ★
+- **error** L63 `markers` Note [7] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L63 `markers` Note [7] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L73 `markers` Note [12] uses retired marker ★
 - **error** L77 `markers` Note [14] uses retired marker ★
+- **error** L77 `markers` Note [14] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L77 `markers` Note [14] uses a retired “Dispute:” label (use ? and say what is contested)
+- **error** L7 `tags` tag line **[R/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 
 ### vol-3/ch-05-maabar-st-thomas.md
 
@@ -1001,12 +1070,20 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L51 `scaffolding` scaffolding: “Soft close here:”
 - **error** L57 `scaffolding` scaffolding: “Gazetteer: *visited*”
 - **error** L57 `markers` Note [1] uses retired marker ★
+- **error** L63 `markers` Note [4] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L67 `markers` Note [6] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L69 `markers` Note [7] uses retired marker ★
+- **error** L69 `markers` Note [7] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L71 `markers` Note [8] uses retired marker ★
 - **error** L75 `markers` Note [10] uses retired marker ★
+- **error** L75 `markers` Note [10] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L75 `markers` Note [10] uses a retired “Dispute:” label (use ? and say what is contested)
+- **error** L85 `markers` Note [15] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L89 `markers` Note [17] uses retired marker ★
+- **error** L89 `markers` Note [17] uses a retired “Dispute:” label (use ? and say what is contested)
+- **error** L7 `tags` tag line **[R/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
-- **error** L13 `ramusio` Ramusio-only passage: no ◇ in Notes [2]
+- **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
 - **warning** L25 `names` “Dofar” is close to gazetteer name “Dhofar” (variant spelling?)
 - **warning** L25 `names` “Dhufar” is close to gazetteer name “Dufar” (variant spelling?)
 
@@ -1034,17 +1111,27 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L85 `scaffolding` scaffolding: “Gazetteer: *visited*”
 - **error** L97 `scaffolding` scaffolding: “likely_visited”
 - **error** L73 `markers` Note [4] uses retired marker ★
+- **error** L73 `markers` Note [4] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L73 `markers` Note [4] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L81 `markers` Note [8] uses retired marker ★
+- **error** L81 `markers` Note [8] uses a retired “Dispute:” label (use ? and say what is contested)
+- **error** L83 `markers` Note [9] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L91 `markers` Note [13] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L95 `markers` Note [15] uses retired marker ★
+- **error** L95 `markers` Note [15] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L95 `markers` Note [15] uses a retired “Dispute:” label (use ? and say what is contested)
+- **error** L105 `markers` Note [20] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L113 `markers` Note [24] uses retired marker ★
+- **error** L113 `markers` Note [24] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L113 `markers` Note [24] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L19 `ramusio` Ramusio-only passage without an inline flag
-- **error** L19 `ramusio` Ramusio-only passage: no ◇ in Notes [5]
+- **error** L19 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [5]
 - **error** L23 `ramusio` Ramusio-only passage without an inline flag
-- **error** L23 `ramusio` Ramusio-only passage: no ◇ in Notes [7]
+- **error** L23 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [7]
 - **error** L31 `ramusio` Ramusio-only passage without an inline flag
-- **error** L31 `ramusio` Ramusio-only passage: no ◇ in Notes [11]
+- **error** L31 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [11]
 - **error** L59 `ramusio` Ramusio-only passage without an inline flag
-- **error** L59 `ramusio` Ramusio-only passage: no ◇ in Notes [25]
+- **error** L59 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [25]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 0 paragraphs flag Ramusio (check: If a foreign merchant who does; Also if they meet any one who ; All the people of this city, a…)
 
 ### vol-3/ch-07-male-abash.md
@@ -1064,9 +1151,12 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **warning** L21 `recaps` “So/Thus …” restatement paragraph?
 - **error** L25 `scaffolding` scaffolding: “aside has to be honest”
 - **error** L71 `markers` Note [8] uses retired marker ★
+- **error** L71 `markers` Note [8] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 - **error** L15 `ramusio` Ramusio-only passage without an inline flag
-- **error** L15 `ramusio` Ramusio-only passage: no ◇ in Notes [4]
+- **error** L15 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **error** L29 `ramusio` Ramusio-only passage without an inline flag
+- **error** L29 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [11]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 0 paragraphs flag Ramusio (check: The ambergris comes from the s; They brought (as I heard) to t…)
 
 ### vol-3/ch-08-aden-hormos.md
@@ -1089,7 +1179,9 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L27 `scaffolding` scaffolding: “Soft rise now:”
 - **error** L57 `scaffolding` scaffolding: “reported_only”
 - **error** L75 `markers` Note [10] uses retired marker ★
+- **error** L75 `markers` Note [10] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L97 `markers` Note [21] uses retired marker ★
+- **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 
 ### vol-3/ch-09-cocachin-return.md
 
@@ -1103,8 +1195,10 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L29 `scaffolding` scaffolding: “Soft blow:”
 - **error** L53 `markers` Note [3] uses retired marker ★
 - **error** L71 `markers` Note [12] uses retired marker ★
+- **error** L71 `markers` Note [12] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 - **error** L19 `ramusio` Ramusio-only passage without an inline flag
-- **error** L19 `ramusio` Ramusio-only passage: no ◇ in Notes [6]
+- **error** L19 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [6]
 - **warning** L25 `names` “Samudra” is close to gazetteer name “Samudera” (variant spelling?)
 
 ### vol-3/ch-10-ca-polo-milione.md
@@ -1144,6 +1238,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L59 `scaffolding` scaffolding: “Soft merchant breath:”
 - **error** L57 `markers` Note [6] uses retired marker ★
 - **error** L63 `markers` Note [9] uses retired marker ★
+- **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 
 ### vol-3/ch-11-afterlives.md
 
@@ -1200,6 +1295,7 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L62 `scaffolding` scaffolding: “Soft series purpose:”
 - **error** L64 `scaffolding` scaffolding: “outline III-11”
 - **error** L46 `markers` Note [4] uses retired marker ★
+- **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 - **warning** L20 `names` “Cipangu” is close to gazetteer name “Chipangu” (variant spelling?)
 
 ### vol-3/ch-12-reliability-essay.md
@@ -1284,15 +1380,20 @@ _Taken 2026-10-21 on `refine-edition`, after the S-01 pilot (II-2 re-voiced; eve
 - **error** L160 `scaffolding` scaffolding: “Soft close:”
 - **error** L160 `scaffolding` scaffolding: “SERIES-STATUS”
 - **error** L160 `scaffolding` scaffolding: “first-draft”
+- **error** L160 `markers` Note [13] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 
 ### vol-3/front-01-indian-ocean-world.md
 
 - **error** L4 `quote_verify` epigraph not found in refs/ (misquoted, 50% of 5-grams match): “and when the ships had been made ready”
 - **error** L55 `scaffolding` scaffolding: “reported_only”
+- **error** L51 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
+- **error** L55 `markers` Note [3] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 
 ### vol-3/front-02-maps-seas-and-return.md
 
 - **error** L4 `quote_verify` epigraph not found in refs/ (invented?, 0% of 5-grams match): “and from zayton they sailed”
 - **error** L9 `scaffolding` scaffolding: “placeholder”
 - **error** L86 `scaffolding` scaffolding: “placeholder”
+- **error** L86 `markers` Note [1] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 

@@ -30,9 +30,10 @@ T = {
     "quote_words": 25, "quotes_chapter": 8, "quotes_paragraph": 2,
     "length": {"narrative": (1800, 3200), "essay": (0, 3500)},
     "avg_sentence": 25,
-    "stub_note_words": 6,           # PROVISIONAL (S-03)
-    "forbidden_markers": "★☆",      # PROVISIONAL (S-03): allowed set is ✓ ~ ✗ ◇ ?
-    "ramusio_note_marker": "◇",     # PROVISIONAL (S-03)
+    "stub_note_words": 6,
+    "forbidden_markers": "★☆",      # S-03: allowed set is ✓ ~ ✗ ◇ ?
+    "ramusio_note_label": r"(?:Ramusio|Pipino|Jacopo|Zelada)-only",   # S-03: provenance label, not a marker
+    "tags": {"V", "R", "M", "reception"},   # S-03: Vols. II-III narrative/essay files only
 }
 
 ARCH = r"\b(hath|doth|foison|certes|sundry|whilst|thereof|insomuch|wherein|to wit|existeth|natheless|fain|wot|wist|trowed|gat)\b|[’']tis\b"
@@ -321,12 +322,37 @@ def c_citations(doc, ctx):
             yield "warning", entries[0][0], f"stub Note [{n}] ({nwords(text)} words)"
 
 
+LEAD = re.compile(r"[✓~✗◇?](\s*/\s*[✓~✗◇?])?\s")
+
+
 def c_markers(doc, ctx):
     for n, entries in doc.notes.items():
         for ln, t in entries:
             bad = [ch for ch in T["forbidden_markers"] if ch in t]
             if bad:
                 yield "error", ln, f"Note [{n}] uses retired marker {''.join(bad)}"
+            if not LEAD.match(t):
+                yield "error", ln, f"Note [{n}] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)"
+            if re.search(r"\bDispute( hook| stance)?:", t):
+                yield "error", ln, f"Note [{n}] uses a retired “Dispute:” label (use ? and say what is contested)"
+
+
+def c_tags(doc, ctx):
+    """S-03: Vols. II-III narrative/essay files carry exactly one tag line; nothing else carries one."""
+    head = next((i for i, l in enumerate(doc.lines) if l.startswith("---")), len(doc.lines))
+    tags = [(i + 1, l.strip()) for i, l in enumerate(doc.lines[:head]) if l.startswith("**[")]
+    needs = doc.kind in ("narrative", "essay") and doc.rel.startswith(("vol-2/", "vol-3/"))
+    if not needs:
+        for ln, l in tags:
+            yield "error", ln, f"tag line {l} not allowed here (Vols. II-III chapters only)"
+        return
+    if len(tags) != 1:
+        yield "error", None, f"expected exactly one tag line ([V] [R] [M] [reception]), found {len(tags)}"
+        return
+    ln, l = tags[0]
+    m = re.fullmatch(r"\*\*\[(\w+)\]\*\*", l)
+    if not m or m.group(1) not in T["tags"]:
+        yield "error", ln, f"tag line {l} is not one of **[V]** **[R]** **[M]** **[reception]**"
 
 
 def c_ramusio(doc, ctx):
@@ -339,8 +365,8 @@ def c_ramusio(doc, ctx):
         if not has_flag:
             yield "error", ln, "Ramusio-only passage without an inline flag"
         cites = [int(x) for x in re.findall(r"\[(\d+)\]", p)]
-        if cites and not any(T["ramusio_note_marker"] in t for c in cites for _, t in doc.notes.get(c, [])):
-            yield "error", ln, f"Ramusio-only passage: no {T['ramusio_note_marker']} in Notes {cites}"
+        if cites and not any(re.search(T["ramusio_note_label"], t) for c in cites for _, t in doc.notes.get(c, [])):
+            yield "error", ln, f"Ramusio-only passage: no “Ramusio-only.” label in Notes {cites}"
     expected = ctx["manifest"].get(doc.rel, [])
     ctx["ramusio"] = f"{flagged}/{len(expected)}"
     if flagged < len(expected):
@@ -362,11 +388,11 @@ def c_names(doc, ctx):
 
 
 ALL = ("verbatim first_person archaism you_must_know budgets asides quotes quote_verify recaps openers "
-       "length sentence scaffolding citations markers ramusio names").split()
+       "length sentence scaffolding citations markers tags ramusio names").split()
 PROFILES = {
     "narrative": ALL,
-    "essay": "verbatim first_person archaism you_must_know quote_verify length sentence scaffolding citations markers names".split(),
-    "frontback": "verbatim first_person archaism you_must_know quote_verify scaffolding citations markers names".split(),
+    "essay": "verbatim first_person archaism you_must_know quote_verify length sentence scaffolding citations markers tags names".split(),
+    "frontback": "verbatim first_person archaism you_must_know quote_verify scaffolding citations markers tags names".split(),
 }
 
 

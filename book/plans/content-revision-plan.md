@@ -40,7 +40,8 @@ Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 | Scaffolding: `Soft \w+:`, `/workspace`, `outline`, `drafter`, `SERIES-STATUS`, `placeholder`, `dispute hook`, gazetteer reliability labels in Notes (any case; *visited* / *likely_visited* / *uncertain* / *reported_only*) | 0 |
 | Citation integrity (body ↔ Notes 1:1, sequential) | pass |
 | Epigraph and quotation verification (string found in `refs/`) | pass, or marked *(adapted)* |
-| Markers in Notes limited to ✓ ~ ✗ ◇ ? (no ★) | pass |
+| Markers in Notes limited to ✓ ~ ✗ ◇ ? (no ★); every Note opens with one; no "Dispute:" label (S-03) | pass |
+| Tag line `**[V]**` / `**[R]**` / `**[M]**` / `**[reception]**` on Vol. II–III narrative/essay files, none elsewhere (S-03) | pass |
 | Narrative length | 1,800–3,200 words (essay ≤ 3,500) |
 | Place names match a gazetteer `book_name` or alias | pass |
 
@@ -100,7 +101,7 @@ Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 ### W3 — Ramusio flagging (systemic)
 
 Yule brackets everything peculiar to Ramusio. About 60 bracketed passages are narrated as plain Book fact. The full list is in each critique's Ramusio section (I-M5, II-M1, III-M7).
-- **Rule:** a 3–6-word inline tag ("Ramusio's text adds…") plus "◇ Ramusio-only" in the Note.
+- **Rule (S-03):** a 3–6-word inline flag ("Ramusio's text adds…") plus the label "Ramusio-only." in the Note. The label is provenance and sits beside a reliability marker; ◇ now means only *marvel or hearsay*.
 - **Model:** II-13:53, which opens a wholly Ramusian paragraph honestly.
 - `critique/brackets.txt` in the scratchpad holds the extracted bracket list. Port it into the lint as a check.
 
@@ -137,8 +138,8 @@ The critique gives a cut plan for each. Most of the cuts come out of the recaps.
 
 ### W5 — Apparatus normalisation
 
-- **Markers:** convert the ~80 ★ ratings to ✓ ~ ✗ ◇ ? and merge the duplicate "★ Dispute:" Notes into their neighbours.
-- **Tags:** define [V]/[R]/[M] (and decide on the compound [V/M] and [R/M]) in a 150-word "How to read this book" box in Vol. I front matter, repeated briefly in Vols. II–III. Restore tag lines on III-7 to III-9. Use *[reception]* for III-10 to III-12.
+- **Markers (S-03 decided):** ★★★ → ✓, ★★ → ~, ★ → ? (✗ or ◇ when the clause itself says wrong or myth; a ★ beside an existing marker is deleted); drop "Dispute:" labels and merge those Notes into their anchors. A script proposes, a person confirms each of the ~81 (`APP.T2`).
+- **Tags (S-03 decided):** [V]/[R]/[M] are defined in a 150-word "How to read this book" box in Vol. I front matter (short forms in II-F1 and III-F1). Compounds [V/M] and [R/M] fold into [M]. Tag lines restored on III-7 [R], III-8 [M], III-9 [V]; **[reception]** on III-10 to III-12. Vol. I and front/back matter carry no tag.
 - **Notes hygiene:**
   - Fix the I-4 orphan [15].
   - Fix the I-5 [16] mismatch.

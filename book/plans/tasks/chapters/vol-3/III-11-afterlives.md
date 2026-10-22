@@ -53,8 +53,6 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `III-11.T1` Critical and factual fixes (epigraphs, Soft, Columbus, Atlas)
-- `III-11.T2` Dispute asides (Yang Zhijiu, Wood)
-- `III-11.T4` Notes and apparatus normalisation
 - `III-11.T5` Media placement (B5, plates)
 - `III-11.T6` Lint pass and human voice read
 
@@ -70,8 +68,27 @@ _Created after the gating spikes close. Expected shapes:_
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
+### III-11.T2 — Ramusio flags and labels to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `III-11.T3` (the flags are written during the re-voice pass)
+- **Now:** 0 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
+- **Do:**
+  - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
+  - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.
+- **Done when:** `python3 tools/lint.py -v vol-3/ch-11-afterlives.md` shows no `ramusio` errors, and the flag count matches the passages found.
+
+### III-11.T4 — Notes and apparatus to the S-03 convention
+- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-11.T3` (re-voice renumbers Notes)
+- **Now:** 12 Notes · 2 ★ · 0 without a lead marker · tag none
+- **Do:**
+  - Add the missing tag line `**[reception]**` under the epigraph (assigned in S-03; confirm against the chapter).
+  - 2 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
+  - "Dispute" label in Note(s) [3]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - Run `python3 tools/lint.py -v vol-3/ch-11-afterlives.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
 ### III-11.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 51 errors · 3 warnings — failing: asides, markers, quote_verify, scaffolding; warnings: names, openers, sentence
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 52 errors · 3 warnings — failing: asides, markers, quote_verify, scaffolding, tags; warnings: names, openers, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-11-afterlives.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
