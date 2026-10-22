@@ -20,4 +20,9 @@ S-02 (lint) · S-08 (LaTeX) · S-09 (media scripts)
 - **Do:** add a pre-commit script that runs `python3 book/tools/lint.py` on the staged `book/vol-*/*.md` files. While W4 is under way, don't block commits on files whose errors are only baseline debt: block only on regressions, meaning an error count above the file's baseline in `plans/status/lint-baseline.md`, or any new scaffolding, citation or quotation error. Rebuild `tools/ramusio-manifest.json` only on purpose, never inside the hook.
 - **Done when:** a commit that adds an "Anyway" tic or a "Soft …:" label to a green file is rejected, and a commit to a still-red chapter that doesn't make it worse goes through.
 
+### BLD.T5 — Update `tools/cite_audit.py` for the S-24 forms
+- **Status:** ready · **Depends:** S-24 ✓
+- **Do:** classify epigraph credits in the new form (`Marco Polo, Book 2, ch. 12 (Yule–Cordier)`, `Prologue, preamble`, dated non-Polo credits) as converted, not "free text"; count `[@key]` citations, "As cited in Yule" sentences and Notes with no source, so the audit reports what is still left to do.
+- **Done when:** a run on the current manuscript reports 0 unconverted epigraph credits and gives the counts from the 2026-10-22 sweep (398 Notes with no citation key, 427 without a YC locator).
+
 _After the spikes:_ `BLD.T2` full-book build · `BLD.T3` media regeneration (one command) · `BLD.T4` front/back matter, index, glossary layout

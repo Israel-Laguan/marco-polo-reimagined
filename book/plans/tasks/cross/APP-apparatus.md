@@ -46,3 +46,14 @@ S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs
 - **Status:** partly done · **Depends:** S-02 ✓
 - **Done (S-02/S-03):** the lint matches reproduced Ramusio passages, requires an inline flag and a "Ramusio-only." (or Pipino-/Jacopo-/Zelada-only) label in the cited Note.
 - **Left:** the lint only sees near-verbatim passages, so paraphrased Ramusio detail escapes it. After the re-voices, compare flag counts with the manifest (already a warning) and spot-check against Yule's brackets (`tools/seed/ramusio-brackets.txt`, rebuilt without `Sidenote:` lines).
+
+### APP.T5 — A Yule chapter locator on every Note
+- **Status:** ready · **Depends:** S-24 ✓ · **Origin:** citation sweep, 2026-10-22
+- **Do:** for each Note with no `[@yc, …]`, find the body paragraph that carries its `[n]` and match it against Yule's chapters by 5-gram overlap (as in `tools/cite_locate.py`). Where one Yule chapter wins clearly (≥ 8 shared 5-grams and at least twice the runner-up) and lies inside the range the chapter covers, put `[@yc, b.c]` after the Note's opening marker. Weak and no-match cases go to a worklist, not into the text. A trial run on 2026-10-22: 252 clear in-range matches, 52 weak, 59 no match (mostly re-voiced passages), 1 clear match out of range.
+- **Done when:** every clear match is placed; the worklist lists the rest; lint unchanged apart from fewer Notes without a source.
+
+### APP.T6 — Per-work keys for the "As cited in Yule" names
+- **Status:** ready · **Depends:** S-24 pass C ✓ (APP.T5 optional)
+- **Do:** for each name in an "As cited in Yule" sentence, read Yule's own reference at the located spot (the *Yule's reference* column of `plans/status/pass-b-worklist.md`). Add the key (`Name [-@key]`) only where that reference names the same work as the bibliography entry: a matching title word, or a work Yule cites only once. Leave the name bare where the surname is shared, e.g. Baber (the emperor Babur in Vol. I, E. C. Baber in Vol. II) or Major (two different books). Log each attachment and each refusal.
+- **Done when:** the log covers every name; the 68 uncited bibliography entries shrink to those with no safe match.
+

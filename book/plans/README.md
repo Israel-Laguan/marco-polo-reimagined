@@ -57,6 +57,8 @@ plans/
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | open | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | open | — | `PLT` (PD) |
 | [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; pass A applied, pass B after S-12) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
+| [S-25](spikes/S-25-confirm-cited-works.md) | Confirm the four unconfirmed works already cited (de Rachewiltz 1997, Dutschke, Atwood, Nancun chuogeng lu) | open (prompt ready) | — | 11 citations; bib status |
+| [S-26](spikes/S-26-modern-locators.md) | Chapter locators in the five most-cited modern books (human reading) | open | S-24 pass B ✓ | locators and misattributions in the Notes |
 
 ### Phase R — references and enrichment (deep research)
 

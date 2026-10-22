@@ -1,6 +1,6 @@
 # S-13 — State of the field, 2013–2026
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** III-12 `.T1`/`.T4` (reliability essay), III-11, III-B1, I-01 Notes on composition; `registry/scholarship.md`
+**Status:** open (next Phase R run for the references, per the 2026-10-22 citation sweep) · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** III-12 `.T1`/`.T4` (reliability essay), III-11, III-B1, I-01 Notes on composition; `registry/scholarship.md`
 
 ## Question
 What has changed in Marco Polo studies since Vogel's *Marco Polo Was in China* (2013)? That covers new arguments, documents, archaeology, editions, and anything that came out of the 700th anniversary of his death (2024). Which of the book's "open questions" (III-12 Note [13]) have moved?
