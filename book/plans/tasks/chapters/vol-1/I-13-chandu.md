@@ -17,7 +17,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Book-voice first person left in narration: "Now let us have done with this subject." Fix: reported speech or marked quotation (W0 lint: 0). — vol-1 C3 · ch-13:41
 
 ### Factual / fidelity
-— none found
+- Cane Palace Note: the "Palm Hall, *Tsung tien*" that Palladius (via Cordier, YC 1.61) placed in Shangdu is in the **Dadu** palace description (Longfu Palace west garden, *Nancun chuogeng lu* juan 21), attested 1311 and rebuilt 1324–25, so it cannot be Polo's Shangdu Cane Palace. Keep the cane palace ✓ on other grounds (Sa Dula's palm-fibre tower at Shangdu; Altan Tobchi's cane tent, via Palladius). Fix: rewrite the Note's identification clause. — `registry/enrichment.md` E1, E2, E7
 
 ### Dispute handling and Ramusio flags
 — none found

@@ -41,6 +41,9 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** At the length ceiling (3,167 narrative; 3,211 with title/epigraph/tag). Cut plan: delete :51's recap (113 words); compress the palace inventory :27–39 (about 200 words, mostly the unflagged Ramusio detail from M1); spend about 60 words on a real silence aside (M12). Net: cut about 300, add about 60. — vol-2 M10 · ch-02:27–39, :51; content plan W4 "Over length"
 - W4 re-voice order: **pilot** (first; gates the rest). — content plan W4
 
+### Enrichment candidates
+- `registry/enrichment.md` E1, E2 (Palm Hall in the Longfu Palace west garden, 1311 / 1324–25), E6 (palm fibre instead of roof tiles), E13–E14 (Chen Gaohua; Steinhardt on Dadu). Pick at most 2–3 at the re-voice.
+
 ## Media hooks
 - **Hero plate:** Elephants carry trees up the Green Mount — GEN, *jiehua* ruled-line architecture, handscroll 3:1; must get right: Qionghua island, Taiye lake, green-tiled hall, **no Qing White Dagoba**; caption: Polo's vignette — see `illustration-plan.md`. Anchor ch-02:37.
 - **Secondary plates:** none in the plan's secondary list. Critique §4 candidates: "The Kaan's portrait" (:13; model on the Yuan court portrait in NPM Taipei, white fur-trimmed robe, Mongol cap; note the PD original is the II-F1 frontispiece); "Chess-board city at curfew" (:47; Dadu earth walls, bell tower 1272; pair with map-cambaluc).

@@ -38,6 +38,9 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** Over target: 3,432 narrative words (3,484 with title/epigraph/tag). Cut about 350: delete recaps :41 (70 words), :73 (62 words; move the Moule pepper point to Note [7]) and :87 (44 words); reduce :53 to one sentence (about 30 words); merge the Geographic palace (:47) with Ramusio's Facfur palace (:69–71), near-duplicates (about 80 words); trim the pears and peaches list at :57 (about 60 words). — vol-2 M10 · ch-13:41, :47, :53, :57, :69–71, :73, :87; content plan W4 "Over length"
 - W4 re-voice order: Vol. II batch position 13 of 14 after the II-2 pilot. — content plan W4
 
+### Enrichment candidates
+- `registry/enrichment.md` E12 (Moule's *Quinsai* translates the Chinese Hangzhou descriptions, *Mengliang lu* among them: cite `moule1957quinsai`), E17 (*Mengliang lu* editions). Pick at most 2–3 at the re-voice.
+
 ## Media hooks
 - **Hero plate:** Pleasure barges on the West Lake — GEN, Song–Yuan city-genre scroll, handscroll 3:1; must get right: Leifeng Pagoda, **no Qing pavilions**; caption: Ramusio's description — see `illustration-plan.md`. This is **Pilot 2** of the illustration plan's three-plate generator pilot (prompt written there). Anchor ch-13:67.
 - **Secondary plates:** GEN Fire alarm in Kinsay (plan; anchor :29, bridge-watchmen, goods carried to stone store-towers). Critique §4 candidate: household registers (:51; a street of doors with name boards). Existing `drawing-kinsay-west-lake.png` named by critique §4/§5 for ch-13; the multimedia plan retires all `drawing-*.png`, and its twin `map-hangzhou-kinsay.*` is mis-captioned in front-02 (see II-F2).
