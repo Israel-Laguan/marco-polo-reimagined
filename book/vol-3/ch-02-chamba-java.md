@@ -48,13 +48,13 @@ Soft close here: Chamba’s elephants and claimed year; Java’s overstated circ
 
 [3] ✓ / ~ Yuan pressure / Sagatu (Sotu) campaign and Champa submission motif. ✓ Sotu and Chen-ching in Chinese record; ~ Polo’s 1278 pity-tale compresses harder wars. ✓ / ~ annual tribute of elephants (twenty finest) — elephant wealth real; neat figure soft.
 
-[4] Comparative: Yuan–Champa war records; Gaubil; Wolters [-@wolters1967early]; Hall [-@hall1985maritime]; Aymonier on Chams. Polo’s neat vassalage vs bruising frontier (prince’s resistance 1282; branding of officials; Tughan’s Tong-king advance).
+[4] Comparative: Yuan–Champa war records; Gaubil; Wolters [-@wolters1967early]; Hall [-@hall1985maritime]; Aymonier on Chams. Polo’s neat vassalage vs bruising frontier (prince’s resistance 1282; branding of officials; Tughan’s Tong-king advance). As cited in Yule: Gaubil, Aymonier [@yc, 3.5].
 
-[5] ~ / ? Marco personally in Champa in 1285 (MSS also 1280 / 1288). Book asserts presence; return or Indian-seas mission plausible. ◇ / ~ 326 royal children (150+ warriors) — stock marvel; Odoric’s “good two hundred” same type. ✓ lignaloes abundant in Champa (classic eagle-wood seat). ✓ / ~ *bonus* = ebony (Pers. *abnūs*); chessmen and pen-cases (~ *ḳalamdān*).
+[5] ~ / ? Marco personally in Champa in 1285 (MSS also 1280 / 1288). Book asserts presence; return or Indian-seas mission plausible. ◇ / ~ 326 royal children (150+ warriors) — stock marvel; Odoric’s “good two hundred” same type. ✓ lignaloes abundant in Champa (classic eagle-wood seat). ✓ / ~ *bonus* = ebony (Pers. *abnūs*); chessmen and pen-cases (~ *ḳalamdān*). As cited in Yule: Odoric [@yc, 3.5].
 
 [6] ★ Dispute: personal presence in Champa possible on return voyage or ~1290 Indian-seas mission. ★ Persian vocabulary for SE Asian goods — linguistic stratum of Ocean-road lexicon filtered through Persianate merchant speech at Zayton.
 
-[7] ✓ Java the Great = Java; independent; major spice mart; Zayton trade. ✗ circumference >3,000 (or 5,000) miles — roughly double; Arab/pilot tradition; Odoric–Conti same figure. ✗ / ~ nutmegs and cloves as *produced* on Java — ✗ native; ~ re-export mart. ~ / ◇ endless treasure / gold rhetoric (Barbosa echo).
+[7] ✓ Java the Great = Java; independent; major spice mart; Zayton trade. ✗ circumference >3,000 (or 5,000) miles — roughly double; Arab/pilot tradition; Odoric–Conti same figure. ✗ / ~ nutmegs and cloves as *produced* on Java — ✗ native; ~ re-export mart. ~ / ◇ endless treasure / gold rhetoric (Barbosa echo). As cited in Yule: Barbosa [@yc, 3.6].
 
 [8] ✓ / ~ Great Kaan never could possess Java (distance/cost). ✓ 1293 expedition failed after Polo left; ~ Book phrases as standing impossibility. Historical sequel: Meng-K’i branded; Fo-kien armament (Shih-pi, Ike-Mese, Kau-Hsing); temporary success, loss ~3,000, re-embarkation; Kublai’s death ends renewal.
 
@@ -62,8 +62,8 @@ Soft close here: Chamba’s elephants and claimed year; Java’s overstated circ
 
 [10] ✓ / ~ / ? Locac on mainland; rich; brazil, gold, elephants, cowries; closed to strangers. ✓ products and mainland; ? exact = Lo-hoh / Ligor / east-peninsula still contested. ~ Locac independent of the Kaan — plausible for the moment; regional politics fluid.
 
-[11] ★ Dispute: Locac = southern Siam / Lo-hoh / peninsula east coast — still discussed. Rāma Khamhaeng inscription ~1292–93 almost coeval. Phantom Australia from misread “Java” departure (Major).
+[11] ★ Dispute: Locac = southern Siam / Lo-hoh / peninsula east coast — still discussed. Rāma Khamhaeng inscription ~1292–93 almost coeval. Phantom Australia from misread “Java” departure (Major). As cited in Yule: Major [@yc, 3.7].
 
 [12] ✓ Pentam = Bintan at eastern Malacca Strait approaches. ✓ Shallow ~60-mile channel; junks lift rudders — Singapore Strait depths and Chinese rudder practice. ~ / ? Malaiur a fine spice-trading kingdom/city near the strait — Malay trade centre real; ? Palembang vs Singapore-orbit vs other. ✗ Malacca as Malaiur — city not yet founded in Polo’s years.
 
-[13] Soft close toward Java the Less (Sumatra); monsoon delay as return logic for III-9. Comparative: Yule–Cordier III.v–viii; Groeneveldt; Odoric; Conti; Ma Huan / *Daooyi zhilue*; Ibn Battuta (later Samudra); Wolters [-@wolters1967early]; Hall [-@hall1985maritime]; Moule–Pelliot [-@moule1938description].
+[13] Soft close toward Java the Less (Sumatra); monsoon delay as return logic for III-9. Comparative: Yule–Cordier III.v–viii; Groeneveldt; Odoric; Conti; Ma Huan / *Daooyi zhilue*; Ibn Battuta (later Samudra); Wolters [-@wolters1967early]; Hall [-@hall1985maritime]; Moule–Pelliot [-@moule1938description]. As cited in Yule: Groeneveldt, Odoric [@yc, 3.5]; Conti [@yc, 3.6]; Ma Huan [@yc, 3.7].

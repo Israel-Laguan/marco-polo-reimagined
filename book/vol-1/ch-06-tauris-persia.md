@@ -46,7 +46,7 @@ Thus Chapter I-6 holds Tauris as the merchant’s hinge after Baudas; Persia as 
 
 ## Notes
 
-[1] ✓ / ~ Tauris as major silk/gold and gem market drawing Genoese/Latins. ✓ Ilkhanid commercial primacy; Viglioni will 1264; later Genoese/Venetian factories; Ibn Baṭṭūṭa, Odoric, Rashid al-Din. ~ / ✗ Tauris placed in “Yrac” — ~ as Ilkhanid capital metonym (*Malik al-’Irāq*); ✗ if taken as proper geography (Azerbaijan ≠ ’Irāq). [@yc, 1.11]. Gazetteer: *visited* (outbound and return).
+[1] ✓ / ~ Tauris as major silk/gold and gem market drawing Genoese/Latins. ✓ Ilkhanid commercial primacy; Viglioni will 1264; later Genoese/Venetian factories; Ibn Baṭṭūṭa, Odoric, Rashid al-Din. ~ / ✗ Tauris placed in “Yrac” — ~ as Ilkhanid capital metonym (*Malik al-’Irāq*); ✗ if taken as proper geography (Azerbaijan ≠ ’Irāq). [@yc, 1.11]. Gazetteer: *visited* (outbound and return). As cited in Yule: Ibn Baṭṭūṭa, Odoric [@yc, 1.11].
 
 [2] ✓ Cremesor as source region of goods (Garmsīr / Gulf coast). Standard Persian regional term. Post-1258 caravan spine bent toward Tabriz from ruined Baghdad — merchant truth beneath panegyric.
 
@@ -64,7 +64,7 @@ Thus Chapter I-6 holds Tauris as the merchant’s hinge after Baudas; Persia as 
 
 [9] ◇ Stone in box; cast into well; heavenly fire; perpetual fire-worship and ten-day journeys for flame. Local fire-cult aetiology + Latin embroidery. Mas‘udi Well of Fire parallel; Arabic Infancy Gospel swaddling-band analogue.
 
-[10] ◇ One king of Saba, one of Ava (Āvah/Ābah), one of the Castle. Medieval tradition strand; Yule: Sávah ~50 mi SW of Tehran; Ávah ~16 mi SSE (Abbott). Odoric places Magi at Kashan (some MSS Saba).
+[10] ◇ One king of Saba, one of Ava (Āvah/Ābah), one of the Castle. Medieval tradition strand; Yule: Sávah ~50 mi SW of Tehran; Ávah ~16 mi SSE (Abbott). Odoric places Magi at Kashan (some MSS Saba). As cited in Yule: Abbott [@yc, 1.14]; Odoric [@yc, 1.11].
 
 [11] ◇ / ? Magi narrative: local Persian Christian/Islamic/Parsi lore vs Latin Epiphany embroidery. Polo stages both (tombs without story; full legend at Castle). Dispute hook flagged in outline.
 
@@ -74,6 +74,6 @@ Thus Chapter I-6 holds Tauris as the merchant’s hinge after Baudas; Persia as 
 
 [14] ✓ / ~ Chronic brigandage despite Tartar government. ✓ highland tribal raiding well attested (Kurds, Lurs, Shūls; later Caraunas); ~ daily homicide as hyperbole. City crafts, cotton, grains, wine — standard Persian plateau notice.
 
-[15] ✓ / ~ Boiled wine loophole allowing “Saracen” drinking. ✓ Persian wine culture and *dūshāb*/must practices (Tavernier, Della Valle, classical lore); ~ as universal legal gloss. Ramusian aside.
+[15] ✓ / ~ Boiled wine loophole allowing “Saracen” drinking. ✓ Persian wine culture and *dūshāb*/must practices (Tavernier, Della Valle, classical lore); ~ as universal legal gloss. Ramusian aside. As cited in Yule: Tavernier, Della Valle [@yc, 1.15].
 
 [16] ✓ Yasdi silk tissue widely traded; city on seven-day plains road to Kerman. Yazd silk fame; Atabegs endured under Mongols until Ghazan’s reorganisation; edge of the Kerman road — narrative hinge into I-7. Gazetteer: *visited*. ? Whole Magi–eight-kingdoms block personally verified stop by stop — Tauris and Yasdi likely visited; Magi tale and full kingdom survey largely report; Magi block may be homeward (Yule).

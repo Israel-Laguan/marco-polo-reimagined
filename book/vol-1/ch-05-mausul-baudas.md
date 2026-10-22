@@ -60,21 +60,21 @@ Thus Chapter I-5 holds two registers in one hand: the merchant’s Mausul and Ba
 
 [3] ✓ / ~ *Mosolins*: rich silk-and-gold cloths made at Mosul. ✓ Mosul textile fame; ~ exact medieval referent of *mosolin* debated (silk vs later cotton). ? / ◇ *Mosolins* as a class of great spice/pearl merchants — sparse parallels (Innocent IV’s 1244 *Mosolini*); unclear. ✓ / ~ Mus & Merdin (Mush, Mardin): cotton, buckram; Tartar subjects.
 
-[4] ✓ / ~ Kurds: mixed Christian/Saracen; plunder merchants. ✓ highland pastoral control and mixed confession notices (Mas‘udi); ~ “evil generation” stereotype (Ricold).
+[4] ✓ / ~ Kurds: mixed Christian/Saracen; plunder merchants. ✓ highland pastoral control and mixed confession notices (Mas‘udi); ~ “evil generation” stereotype (Ricold). As cited in Yule: Ricold [@yc, 1.5].
 
 [5] ✓ Baudas = Calif’s seat, analogised to Rome. Abbasid Baghdad until 1258. ✓ / ✗ River route ~18 days toward Kisi; Bastra date woods. ✓ Basra dates and Gulf trade spine; ✗ implication that Tigris runs to Kish (Gulf elided). ✓ Kisi as Indian-Sea entrepôt (Kish/Kais) — major 12th–14th-c. Gulf port; Polo likely unvisited.
 
 [6] ✗ Hydrography compressed: Gulf gap between Tigris mouth and Kish elided. Merchant sketch, not survey.
 
-[7] ✓ *Nasich*, *nac*, cramoisy; animal-figure gold brocades; baldachin etymology. Pegolotti, Ibn Baṭṭūṭa, Rubruck, Yuan *nakh/nasīj*; *baldachino* from Baldac. Animal-pattern gold brocade is a long Near Eastern technical tradition (Makrizi’s *ṭard waḥsh*).
+[7] ✓ *Nasich*, *nac*, cramoisy; animal-figure gold brocades; baldachin etymology. Pegolotti, Ibn Baṭṭūṭa, Rubruck, Yuan *nakh/nasīj*; *baldachino* from Baldac. Animal-pattern gold brocade is a long Near Eastern technical tradition (Makrizi’s *ṭard waḥsh*). As cited in Yule: Pegolotti, Ibn Baṭṭūṭa [@yc, 1.6].
 
 [8] ✓ / ~ Alaü (Hulagu) storms Baudas; vast garrison & treasure. ✓ historical sack 5–10 Feb. 1258 and huge booty; ~ “100,000 horse” as epic round number; text date 1255 early. Hulagu brother to the Great Kaan then reigning — Frank understanding of Levantine Tartar lordship.
 
-[9] ◇ / ~ Calif starved in treasure tower / forced to “eat” gold. Widely circulated Christian exemplum (Hayton, Ricold, Pachymeres; Sanuto’s molten-gold variant is Crassus-transfer). Muslim sources share the taunt, differ on killing method: Rashid al-Din — death at Wakf, 14 Ṣafar 656 / 20 Feb. 1258; later writers — carpet and trampling (Mongol taboo on shedding royal blood); Ibn al-Furāt — hunger, dishes of gold, then sacks and trampling. ✗ / ~ “Never another Calif” after Baudas — ✗ Cairo Abbasid shadow-caliphate; ~ true of Baghdad’s line.
+[9] ◇ / ~ Calif starved in treasure tower / forced to “eat” gold. Widely circulated Christian exemplum (Hayton, Ricold, Pachymeres; Sanuto’s molten-gold variant is Crassus-transfer). Muslim sources share the taunt, differ on killing method: Rashid al-Din — death at Wakf, 14 Ṣafar 656 / 20 Feb. 1258; later writers — carpet and trampling (Mongol taboo on shedding royal blood); Ibn al-Furāt — hunger, dishes of gold, then sacks and trampling. ✗ / ~ “Never another Calif” after Baudas — ✗ Cairo Abbasid shadow-caliphate; ~ true of Baghdad’s line. As cited in Yule: Hayton, Pachymeres [@yc, 1.6]; Ricold [@yc, 1.5].
 
 [10] ✓ Treasure real (part to Möngke; part stored toward Urmia per Chinese and Persian notices). Polo moralises a taunt already circulating; he does not invent it from nothing.
 
-[11] ◇ Mountain-miracle frame: Calif’s hatred; MS dates 1275 (G.T./Pauthier) or 1225 (Ramusio) — impossible or arbitrary for an Abbasid-era ordeal after 1258. Closing claim that “all Saracens” hate Christians is polemical commonplace.
+[11] ◇ Mountain-miracle frame: Calif’s hatred; MS dates 1275 (G.T./Pauthier) or 1225 (Ramusio) — impossible or arbitrary for an Abbasid-era ordeal after 1258. Closing claim that “all Saracens” hate Christians is polemical commonplace. As cited in Yule: Pauthier [@yc, 1.7].
 
 [12] ◇ Mustard-seed Gospel challenge; ten-day respite; force conversion or death. Legend setup; Book voice affirms the Gospel text as truth without irony.
 

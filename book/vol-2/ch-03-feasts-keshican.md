@@ -46,32 +46,32 @@ Here the chapter stops short of the hunt and the litter and the traffic of a mil
 
 ## Notes
 
-[1] ✓ Imperial life-guard called Keshican / Keshikten; rotating duty. Firm Mongol institution (Rashīd; Wassáf; Palladius; Timurid survival). *Kishīkān* plural in Rashīd; Wassáf’s Amírs of the four *Keshik*; Timurid *Kishik* / Persian *Keshikchi*; Odoric’s *Cuthé* ≈ Chinese *Kiesie*.
+[1] ✓ Imperial life-guard called Keshican / Keshikten; rotating duty. Firm Mongol institution (Rashīd; Wassáf; Palladius; Timurid survival). *Kishīkān* plural in Rashīd; Wassáf’s Amírs of the four *Keshik*; Timurid *Kishik* / Persian *Keshikchi*; Odoric’s *Cuthé* ≈ Chinese *Kiesie*. As cited in Yule: Odoric [@yc, 2.12].
 
 [2] ✗ / ~ Exactly 12,000 horsemen in four brigades of 3,000. ~ Four-corps structure traditional; ✗ 12,000 formulaic vs Yuan watch of hundreds. ✓ / ~ Three-day (and night) relief; always ~3,000 on palace duty: ✓ three-day change attested (Palladius); ~ 3,000 vs ~400 active watch. Guard kept for dignity, not fear: ~ Book’s honour-rationale.
 
-[3] ✓ Emperor north-facing, elevated; Blood Imperial lower; rank tables. Rubruck; Odoric; Chinese/Mongol court seating. Outside concourse of 40,000+ is impress rhetoric.
+[3] ✓ Emperor north-facing, elevated; Blood Imperial lower; rank tables. Rubruck; Odoric; Chinese/Mongol court seating. Outside concourse of 40,000+ is impress rhetoric. As cited in Yule: Rubruck [@yc, 2.13]; Odoric [@yc, 2.12].
 
-[4] ✓ / ~ Square gilt buffet; great gold vessel; verniques between pairs. ✓ Asiatic banquet buffet tradition (Justin’s Turks; Rubruck; Oljeitu; Odoric’s later jade jar); ~ vessel sizes and *vernique* etymology (Persian *bārnīya* / Venetian *vernegal* / Bretschneider varnished jar).
+[4] ✓ / ~ Square gilt buffet; great gold vessel; verniques between pairs. ✓ Asiatic banquet buffet tradition (Justin’s Turks; Rubruck; Oljeitu; Odoric’s later jade jar); ~ vessel sizes and *vernique* etymology (Persian *bārnīya* / Venetian *vernegal* / Bretschneider varnished jar). As cited in Yule: Rubruck, Bretschneider [@yc, 2.13]; Odoric [@yc, 2.12].
 
-[5] ✓ Threshold taboo: strip/forfeit or blows; exit relaxed. Multiply attested (Carpini; Rubruck; Odoric; Makrizi; Mongol proverb; Michie *yourt* ropes). ✓ / ~ Ushers for foreigners; giant door-wardens with staves: ✓ *Ch’ue keng lu* athletes with clubs and jade axes (Palladius); ~ “giants” colour.
+[5] ✓ Threshold taboo: strip/forfeit or blows; exit relaxed. Multiply attested (Carpini; Rubruck; Odoric; Makrizi; Mongol proverb; Michie *yourt* ropes). ✓ / ~ Ushers for foreigners; giant door-wardens with staves: ✓ *Ch’ue keng lu* athletes with clubs and jade axes (Palladius); ~ “giants” colour. As cited in Yule: Carpini, Rubruck, Makrizi, Michie [@yc, 2.13]; Odoric [@yc, 2.12].
 
-[6] ✓ Great Barons serve muffled; music and kneel at each drink. Ming/Shah Rukh and Yuan ceremonial parallels. ✓ Post-dinner jugglers and players. Court *jongleurs* / Chinese feast entertainers widely noted (Chaucer; Odoric; Ysbrandt Ides).
+[6] ✓ Great Barons serve muffled; music and kneel at each drink. Ming/Shah Rukh and Yuan ceremonial parallels. ✓ Post-dinner jugglers and players. Court *jongleurs* / Chinese feast entertainers widely noted (Chaucer; Odoric; Ysbrandt Ides). As cited in Yule: Shah Rukh, Chaucer, Ysbrandt Ides [@yc, 2.13]; Odoric [@yc, 2.12].
 
 [7] ✓ / ~ Birthday on 28th of September moon; major court feast. ✓ Birthday as state feast (Palladius); ~ exact lunar day. ✓ / ~ 12,000 in matching gold-silk robes and gold girdles from Kaan: ✓ festival *chisun* / *khilat* custom; ~ full 12,000 and 10,000-bezant suits.
 
 [8] ✓ Multi-faith prayers for Emperor’s health on Birthday. Yuan provincial *Wan-sui* and confession order (1304 edict). Twelve Barons answering employment-seekers: administrative colour.
 
-[9] ? / ✗ Thirteen yearly colour distributions (156,000 suits). Texts insist on 13; Yuan notices favour ~3; sacred count vs payroll. Rubruck/Carpini colour-day solidarity confirms the custom’s spirit. Odd repetition of robe theme in French MSS only (ch. xvi)—cannot reject.
+[9] ? / ✗ Thirteen yearly colour distributions (156,000 suits). Texts insist on 13; Yuan notices favour ~3; sacred count vs payroll. Rubruck/Carpini colour-day solidarity confirms the custom’s spirit. Odd repetition of robe theme in French MSS only (ch. xvi)—cannot reject. As cited in Yule: Rubruck, Carpini [@yc, 2.13].
 
-[10] ✓ New Year in February; all wear white for luck (White Feast). Mongol *Chaghan Sara* / *Chaghan*—white festive colour purely Mongol; Ming New Year 1421 forbade white as mourning (Shah Rukh embassy). ✗ / ~ >100,000 white horses as New Year presents: white-horse prestige real; headcount rhetorical. ✓ Tribute in mystic nines (9×9): well-attested Mongol/Turkic ritual arithmetic (Hammer; Hayton; Vámbéry).
+[10] ✓ New Year in February; all wear white for luck (White Feast). Mongol *Chaghan Sara* / *Chaghan*—white festive colour purely Mongol; Ming New Year 1421 forbade white as mourning (Shah Rukh embassy). ✗ / ~ >100,000 white horses as New Year presents: white-horse prestige real; headcount rhetorical. ✓ Tribute in mystic nines (9×9): well-attested Mongol/Turkic ritual arithmetic (Hammer; Hayton; Vámbéry). As cited in Yule: Shah Rukh [@yc, 2.13]; Hammer [@yc, 2.14]; Hayton [@yc, Intro. § 10]; Vámbéry [@yc, 2.12].
 
 [11] ? / ✗ 5,000 elephants paraded with coffers at Dadu. Elephants at capital possible (tribute/show; Yunnan/Burma route); 5,000 scale contested; later dwindled to show animals.
 
 [12] ✓ Fourfold prostration; incense to vermilion tablet of Kaan’s name. Yuan/Ming tablet adoration and *k’o-tow* ceremonial. 1263 Kublai adopts Chinese ancestor-tablet worship—likely horizon for subject adoration of his own tablet. Ramusio amplifies prelate’s fourfold prayer.
 
-[13] ✓ / ~ Camut / Borgal boots with silver thread. ✓ Russia-leather / shagreen boot culture (*kāmū* / *kimukht*; Bolghar Russia-leather; Ibn Baṭṭūṭa; Kazan trade); ~ every-man issue. ✓ / ~ Emperor and Keshican share feast colour as “comrades”: matches Rubruck/Carpini colour-day solidarity. Calling all 12,000 “Barons” is status inflation.
+[13] ✓ / ~ Camut / Borgal boots with silver thread. ✓ Russia-leather / shagreen boot culture (*kāmū* / *kimukht*; Bolghar Russia-leather; Ibn Baṭṭūṭa; Kazan trade); ~ every-man issue. ✓ / ~ Emperor and Keshican share feast colour as “comrades”: matches Rubruck/Carpini colour-day solidarity. Calling all 12,000 “Barons” is status inflation. As cited in Yule: Ibn Baṭṭūṭa [@yc, 2.16]; Rubruck, Carpini [@yc, 2.13].
 
 [14] ? / ~ Unchained “lion” venerates Emperor at feast. Trained big-cat display plausible; “lion” often = tiger in Latin travellers’ usage (Book’s hunt chapters; Allsen [-@allsen2006royal]). Soft landing to II-4: hunt, litter, suburbs, fondaco.
 
-[15] ★★★ Etiquette details among Polo’s best “I was there” textures—independently multiply attested. Comparative: Rubruck; Plano Carpini; Odoric; Rashīd al-Dīn; Wassáf; Yuan ceremonial codes / *Yuan shi*; Palladius; Gaubil; De Mailla; Elverskog on Mongol ritual; Allsen; Rossabi [-@rossabi1988khubilai]; Yule on *vernique* / *camut*; Shah Rukh embassy (Ming contrast on white).
+[15] ★★★ Etiquette details among Polo’s best “I was there” textures—independently multiply attested. Comparative: Rubruck; Plano Carpini; Odoric; Rashīd al-Dīn; Wassáf; Yuan ceremonial codes / *Yuan shi*; Palladius; Gaubil; De Mailla; Elverskog on Mongol ritual; Allsen; Rossabi [-@rossabi1988khubilai]; Yule on *vernique* / *camut*; Shah Rukh embassy (Ming contrast on white). As cited in Yule: Rubruck, Carpini, Shah Rukh [@yc, 2.13]; Odoric, Gaubil, De Mailla [@yc, 2.12].

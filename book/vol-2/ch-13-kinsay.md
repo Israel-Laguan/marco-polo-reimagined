@@ -90,7 +90,7 @@ Now we will quit this city and speak of others. [9]
 
 [1] ✓ Kinsay = Hangzhou (*King-sze* / Lin-ngan). Firm; gazetteer *visited*. ✗ / ~ “City of Heaven” as Chinese name-meaning — ✗ etymology; ~ foreign echo of Su–Hang paradise proverb. ◇ / ~ Queen’s memorial to Bayan — ◇ as documentary source; ~ plausible Sung surrender culture. ✓ / ~ Marco frequently there (Ramusio) — presence highly probable.
 
-[2] ✗ / ~ Circuit 100 miles — ✗ as English miles; ~ if *li* / popular Western figure (Odoric, Wassáf scale); enceinte greatness real. ✗ / ~ 12,000 stone bridges — count formulaic (Odoric shared); lofty canal bridges real. ✗ / ~ 12 guilds × 12,000 workshops — arithmetic marvel; craft concentration sound. ✗ / ~ hereditary trade ordinance absolute — ✗ as rigid law; ~ family trades persist.
+[2] ✗ / ~ Circuit 100 miles — ✗ as English miles; ~ if *li* / popular Western figure (Odoric, Wassáf scale); enceinte greatness real. ✗ / ~ 12,000 stone bridges — count formulaic (Odoric shared); lofty canal bridges real. ✗ / ~ 12 guilds × 12,000 workshops — arithmetic marvel; craft concentration sound. ✗ / ~ hereditary trade ordinance absolute — ✗ as rigid law; ~ family trades persist. As cited in Yule: Odoric [@yc, 2.76].
 
 [3] ✓ Si-hu lake; palaces/abbeys; island banquet halls — classic; later travellers confirm kind. ✗ / ~ lake circuit 30 miles — ✗ miles; ~ ~30 *li*. ✓ stone fire store-towers; timber city; frequent fires.
 
@@ -100,8 +100,8 @@ Now we will quit this city and speak of others. [9]
 
 [6] ✓ nativity astrology before journeys. ✓ cremation; hemp mourning; paper/parchment offerings. ✓ / ✗ Sung palace 10-mi demesne; 20 gold halls; 1,000 chambers — palace on Phoenix Hill real (Moule [-@moule1957quinsai]); dimensions/marvel counts exaggerated. ✗ 1,600,000 houses (160 tomans) — formulaic. ~ one Nestorian church. ✓ door name-tickets; hostel registers (*pao-chia*-type).
 
-[7] ◇ / ✓ Ramusio markets, barges, carriages — ◇ as Ramusio-only block; ✓ lake parties and soft Sung court in Chinese sources (*Mengliang lu*; Gernet [-@gernet1962daily]). ✗ / ? pork omitted from market meats — silence vs Odoric swine and Chinese staple. ✗ / ? pepper 43 loads × 223 lb / day — ✗ as precise daily consumption; ? customs gossip / wonder arithmetic.
+[7] ◇ / ✓ Ramusio markets, barges, carriages — ◇ as Ramusio-only block; ✓ lake parties and soft Sung court in Chinese sources (*Mengliang lu*; Gernet [-@gernet1962daily]). ✗ / ? pork omitted from market meats — silence vs Odoric swine and Chinese staple. ✗ / ? pepper 43 loads × 223 lb / day — ✗ as precise daily consumption; ? customs gossip / wonder arithmetic. As cited in Yule: Odoric [@yc, 2.76].
 
 [8] ◇ Facfur palace tour via rich old merchant — Ramusio guide’s romance; outer pavilions kept for Kaan’s king, ladies’ courts ruined — plausible decay colour over soft Sung court kernel.
 
-[9] ✗ / ~ salt revenue 80 tomans; non-salt 210 tomans gold — ✗ as gold; ~ fiscal enormity of Kiang-Ché salt/silk if paper/*ting* (Vogel [-@vogel2013marco]). ? / ◇ Marco officially sent to inspect — Pauthier yes; G.T. only “heard the count.” Comparative: Odoric Cansay; Ibn Baṭṭūṭa Khansá; Wassáf Khanzai; Marignolli Campsay; Martini; *Mengliang lu*.
+[9] ✗ / ~ salt revenue 80 tomans; non-salt 210 tomans gold — ✗ as gold; ~ fiscal enormity of Kiang-Ché salt/silk if paper/*ting* (Vogel [-@vogel2013marco]). ? / ◇ Marco officially sent to inspect — Pauthier yes; G.T. only “heard the count.” Comparative: Odoric Cansay; Ibn Baṭṭūṭa Khansá; Wassáf Khanzai; Marignolli Campsay; Martini; *Mengliang lu*. As cited in Yule: Pauthier, Odoric, Ibn Baṭṭūṭa, Marignolli, Martini [@yc, 2.76].

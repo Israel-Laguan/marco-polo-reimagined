@@ -69,9 +69,9 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 [4] ✓ / ~ “Pax Mongolica” as modern historians’ label for relative security of long-distance travel under Mongol oversight in favourable decades. Not a contemporary slogan; useful shorthand if not romanticised.
 
-[5] ✓ Ulus wars (Berke–Hulagu 1262; later Kaidu–Kublai) as corridor blockers — Persian and Chinese historiography; Polo Prologue’s war beat. Carpini and Rubruck as prior Latin corridor tests.
+[5] ✓ Ulus wars (Berke–Hulagu 1262; later Kaidu–Kublai) as corridor blockers — Persian and Chinese historiography; Polo Prologue’s war beat. Carpini and Rubruck as prior Latin corridor tests. As cited in Yule: Carpini [@yc, Intro. § 16].
 
-[6] ✓ Venice–Genoa commercial wars; Curzola 1298 as traditional occasion of Marco’s captivity (Jacopo d’Acqui and later tradition — timing and capture details remain discussed).
+[6] ✓ Venice–Genoa commercial wars; Curzola 1298 as traditional occasion of Marco’s captivity (Jacopo d’Acqui and later tradition — timing and capture details remain discussed). As cited in Yule: Jacopo [@yc, Intro. § 37].
 
 [7] ✓ Mongol courts’ recruitment of foreign specialists — Yuan administration; Ilkhanid parallels; de Rachewiltz on multilingual personnel.
 

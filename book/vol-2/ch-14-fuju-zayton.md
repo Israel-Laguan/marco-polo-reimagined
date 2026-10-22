@@ -74,13 +74,13 @@ And now you have heard all the truth about Cathay and Manzi and many other count
 
 [1] ✓ / ~ South road Kinsay → Fo-kien via Ts’ien-t’ang / Chang-shan portage — corridor and watershed sound; individual stage IDs contested. ? / ~ Tanpiju = Shao-hing or Fu-yang. ✓ / ✗ Ghiuju giant bamboos — Che-kiang bamboo greatness; upper dimensions exaggerated. ✓ Changshan hill “divides the River” — Fortune/Yule watershed paraphrase exact in kind. ~ / ✗ no sheep in Manzi — relative scarcity vs absolute claim.
 
-[2] ✓ / ~ mountain peoples: blue forehead paint; spears — tattoo/paint hill ethnography plausible. ✗ / ◇ cannibalism of executed bodies; blood-drinking — stock accusation; uncorroborated as custom. ~ saffron-fruit → *Gardenia* crocine or *Carthamus* (Bretschneider/Hanbury).
+[2] ✓ / ~ mountain peoples: blue forehead paint; spears — tattoo/paint hill ethnography plausible. ✗ / ◇ cannibalism of executed bodies; blood-drinking — stock accusation; uncorroborated as custom. ~ saffron-fruit → *Gardenia* crocine or *Carthamus* (Bretschneider/Hanbury). As cited in Yule: Bretschneider, Hanbury [@yc, 2.80].
 
-[3] ✓ Kelinfu = Kien-ning fu; fine bridges — name and Min-river city firm; bridge marvel counts inflated. ✓ hairy “cat-fur” fowls (*Gallus lanatus*); Odoric. ✓ / ~ Unken sugar for Court; Babylonian refining lesson — Mongol-period refining taught from West; exact town (Yung-chun vs Min-ts’ing) soft. *Babylonia* = Cairo / Egyptian sugar fame (Pegolotti).
+[3] ✓ Kelinfu = Kien-ning fu; fine bridges — name and Min-river city firm; bridge marvel counts inflated. ✓ hairy “cat-fur” fowls (*Gallus lanatus*); Odoric. ✓ / ~ Unken sugar for Court; Babylonian refining lesson — Mongol-period refining taught from West; exact town (Yung-chun vs Min-ts’ing) soft. *Babylonia* = Cairo / Egyptian sugar fame (Pegolotti). As cited in Yule: Odoric, Pegolotti [@yc, 2.80].
 
 [4] ✓ / ? Fuju = Fu-chau; key of Fo-kien “Chonka” — city ID firm; *Chonka* etymology unsettled. ~ / ✗ river ~1 mi through middle — Min width at places; “through middle” of walls soft. ✓ Indian goods reach Fuju via Zayton / Min — Geographic text sound without requiring foreign factor at Fu-chau.
 
-[5] ✓ Zayton = Quanzhou (T’swan-chau) — largely settled; gazetteer *visited*. Older Phillips Chang-chau fight superseded by Yule–Cordier, Bretschneider, Yuan *shi-po*, Rashīd, archaeology (Schottenhammer; Chen Dasheng). ✓ / ✗ one of two / the greatest world havens; 100× Alexandria pepper — order-of-magnitude greatness (Ibn Baṭṭūṭa); precise 100∶1 exaggerated.
+[5] ✓ Zayton = Quanzhou (T’swan-chau) — largely settled; gazetteer *visited*. Older Phillips Chang-chau fight superseded by Yule–Cordier, Bretschneider, Yuan *shi-po*, Rashīd, archaeology (Schottenhammer; Chen Dasheng). ✓ / ✗ one of two / the greatest world havens; 100× Alexandria pepper — order-of-magnitude greatness (Ibn Baṭṭūṭa); precise 100∶1 exaggerated. As cited in Yule: Phillips [@yc, 2.79]; Bretschneider [@yc, 2.80]; Ibn Baṭṭūṭa [@yc, 2.82].
 
 [6] ✓ / ~ import tithe 10%; freight 30–44% — high medieval freight/customs plausible. ✓ / ~ tattoo artists for Upper India visitors. ✗ / ~ Tyunju sole world porcelain source — exclusive locale wrong (Ching-tê-chên); cheap Fo-kien / re-export ware real.
 

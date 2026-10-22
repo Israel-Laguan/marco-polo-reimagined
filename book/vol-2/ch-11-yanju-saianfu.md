@@ -60,18 +60,18 @@ Thus the twin cities at the Han’s hinge fall in the Book’s telling as an epi
 
 [3] ✓ / ~ Tiju ≈ Tai-chau (~25 mi east of canal). ~ / ? Tinju salt city — Tung-chau or I-chin candidates; ID soft. Ocean Sea three days east of Tiju fits the coastal salt belt.
 
-[4] ✓ Yanju = Yang-chau (Yangzhou); commercial/military importance; harness; garrison. ~ “27” cities formulaic. ~ brief early *Sing* / later *Lu*; ✗ if read as lasting provincial *Sing* under a Polo baron. Odoric later: Franciscan house + 3 Nestorian churches; Catalan Map *Iangio*.
+[4] ✓ Yanju = Yang-chau (Yangzhou); commercial/military importance; harness; garrison. ~ “27” cities formulaic. ~ brief early *Sing* / later *Lu*; ✗ if read as lasting provincial *Sing* under a Polo baron. Odoric later: Franciscan house + 3 Nestorian churches; Catalan Map *Iangio*. As cited in Yule: Odoric [@yc, 2.68].
 
 [5] ? Marco Polo governed Yanju three full years. ★★★ contested. MS variants: G.T. *seingneurie… trois anz*; MS C / Bern *séjourna… iii ans*; Ramusio *governo… in luogo di un dei detti Baroni* (likely gloss). No Chinese confirmation. Narrower senses possible (*Lu* circuit head, salt/tax commission, temporary residency); Yule conjectured ~1282–1287/88. Central Wood [-@wood1995did] debate target; de Rachewiltz [-@derachewiltz1997marco] / Haw [-@haw2006marco] / Vogel [-@vogel2013marco] stress foreign service possible without Chinese biography. Not used here as proven office.
 
-[6] ✓ / ? Nanghin = Ngan-king (Anqing) on Yule/Pauthier reading; gazetteer Nanjing anachronistic for period name (then Jiankang). ✗ / ~ “lions” = tigers / fauna looseness. Silk province and duties plausible.
+[6] ✓ / ? Nanghin = Ngan-king (Anqing) on Yule/Pauthier reading; gazetteer Nanjing anachronistic for period name (then Jiankang). ✗ / ~ “lions” = tigers / fauna looseness. Silk province and duties plausible. As cited in Yule: Pauthier [@yc, 2.68].
 
 [7] ✓ Saianfu = Siang-yang (+ Fan-ch’eng complex); Rashīd name match; twin cities at Han confluence. ✓ siege ~3 years; waters; approach chiefly north (1268–73).
 
 [8] ✗ Held out 3 years *after rest of Manzi fell*. Prologue not epilogue; Wassáf shares the misplacement. Standard Polo court arrival ~end-1274, after the fall.
 
-[9] ✗ / ◇ Polos advise mangonels; German + Nestorian build them. ✗ vs Ismail (Ysemain of Herat) and Alauddin (Alawating of Mufali) in Chinese records (*Yuan Shi*; Gaubil; De Mailla); ◇ family/romance appropriation of Western-engineer kernel. Some MSS omit Marco from the agents.
+[9] ✗ / ◇ Polos advise mangonels; German + Nestorian build them. ✗ vs Ismail (Ysemain of Herat) and Alauddin (Alawating of Mufali) in Chinese records (*Yuan Shi*; Gaubil; De Mailla); ◇ family/romance appropriation of Western-engineer kernel. Some MSS omit Marco from the agents. As cited in Yule: Gaubil [@yc, 2.70].
 
-[10] ✓ / ~ Heavy shot and psychological shock real (Chinese ~166 lb class); ~ weight ≥300 lb and “instant surrender” rounded. ✗ claim that Mongols/Chinese knew no mangonels before this — prior Mongol/Kin/Chinese stone engines well attested. ~ Western counterpoise as the real technical novelty (Favé/Yule inference). ✗ Polo presence at siege climax 1272–73 under standard chronology.
+[10] ✓ / ~ Heavy shot and psychological shock real (Chinese ~166 lb class); ~ weight ≥300 lb and “instant surrender” rounded. ✗ claim that Mongols/Chinese knew no mangonels before this — prior Mongol/Kin/Chinese stone engines well attested. ~ Western counterpoise as the real technical novelty (Favé/Yule inference). ✗ Polo presence at siege climax 1272–73 under standard chronology. As cited in Yule: Favé [@yc, 2.70].
 
 [11] ✓ / ~ City/province among Kaan’s best revenues after fall — strategic Han–Yangzi hinge; revenue claim plausible. Surrender on terms matching other cities: book tradition of the crash-and-yield scene.

@@ -58,7 +58,7 @@ Thus the House of Polo completed what the elder voyage had left unfinished — n
 
 [6] ? / ~ Friars turn back at Ayas from fear of Bundukdar; hand over papers; leave with Temple Master. Desertion is book tradition; motive and timing debated. Thomas Bérard was Master of the Temple until 1273.
 
-[7] ✗ / ~ Bundukdar devastating Armenia *as they arrive* (implied 1271). ✗ if equated with 1275 burning of Ayas/Sis; ~ if read as autumn 1271 Syrian–frontier alarm (Makrizi). Baybars Bundukdari r. 1259/60–1277; “Babylon” = Cairo in Latin usage.
+[7] ✗ / ~ Bundukdar devastating Armenia *as they arrive* (implied 1271). ✗ if equated with 1275 burning of Ayas/Sis; ~ if read as autumn 1271 Syrian–frontier alarm (Makrizi). Baybars Bundukdari r. 1259/60–1277; “Babylon” = Cairo in Latin usage. As cited in Yule: Makrizi [@yc, Prol. 12].
 
 [8] ? / ~ Outbound “three years and a half.” Unanimous textual claim; strained vs some seasonal/itinerary models. ~ Reconstructed route via Hormuz abort, Pamir, Tarim, Gobi to Tangut = Yule’s reading of Book I geography, not Prologue itinerary.
 
@@ -70,10 +70,10 @@ Thus the House of Polo completed what the elder voyage had left unfinished — n
 
 [12] ? Learns “several languages” and “four written characters.” Claim firm in text; inventory contested.
 
-[13] ? Four-scripts inventory. Pauthier: Bashpah, Arabic, Uighur, Chinese. Yule doubted Chinese literacy; Cordier noted Yang-chou problem. Multilingual Yuan administration real; Marco’s exact four unproven.
+[13] ? Four-scripts inventory. Pauthier: Bashpah, Arabic, Uighur, Chinese. Yule doubted Chinese literacy; Cordier noted Yang-chou problem. Multilingual Yuan administration real; Marco’s exact four unproven. As cited in Yule: Pauthier [@yc, Prol. 15].
 
 [14] ~ / ◇ First embassy ~six months distant; stores marvels for the Kaan. Method plausible and characteristically Polo; Ramusian Carazan/Yunnan ~ well-founded gloss. Early French says only a land six months distant.
 
-[15] ~ / ? Styled “Messer Marco Polo” after first storytelling return; ~17 years’ service; rising favour; baronial envy. Early French vs Ramusio differ in fullness; envy is romance colour; offices partly corroborated, partly contested. ? Chinese annal “POLO” commissioner 1277 = Marco — attractive, not proven (Pauthier; Yule “happy to believe”).
+[15] ~ / ? Styled “Messer Marco Polo” after first storytelling return; ~17 years’ service; rising favour; baronial envy. Early French vs Ramusio differ in fullness; envy is romance colour; offices partly corroborated, partly contested. ? Chinese annal “POLO” commissioner 1277 = Marco — attractive, not proven (Pauthier; Yule “happy to believe”). As cited in Yule: Pauthier [@yc, Prol. 15].
 
-[16] ✓ / ~ Repeated requests for leave refused; departure deferred until later chance. ✓ as Prologue setup for Cocachin voyage; ~ psychological motives (Kaan’s age, wealth, peril — Pegolotti later notes foreigners’ danger at a sovereign’s demise). Prologue XV–XVI’s neat arc is narrative compression.
+[16] ✓ / ~ Repeated requests for leave refused; departure deferred until later chance. ✓ as Prologue setup for Cocachin voyage; ~ psychological motives (Kaan’s age, wealth, peril — Pegolotti later notes foreigners’ danger at a sovereign’s demise). Prologue XV–XVI’s neat arc is narrative compression. As cited in Yule: Pegolotti [@yc, Prol. 17].

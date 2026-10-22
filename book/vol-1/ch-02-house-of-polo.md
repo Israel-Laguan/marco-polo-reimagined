@@ -62,7 +62,7 @@ The Great Kaan still waited for learned men and for oil of the Sepulchre. Christ
 
 [6] ✓ / ~ Desert crossing via Ucaca (Ukek, near modern Saratov); “Tigris” = Volga (parallels in Pascal of Vittoria and other Latin travellers). ✓ Route plausible; ~ “seventeen days” as one stretch.
 
-[7] ~ / ✗ “Bocara the best city in all Persia.” ~ Medieval Persian cultural sphere (Hayton; Vámbéry’s note on pre-Mongol usage). ✗ if read as modern political geography. Barac of Bocara = Borrak of the Chagatai ulus (reigns c. 1264–1270).
+[7] ~ / ✗ “Bocara the best city in all Persia.” ~ Medieval Persian cultural sphere (Hayton; Vámbéry’s note on pre-Mongol usage). ✗ if read as modern political geography. Barac of Bocara = Borrak of the Chagatai ulus (reigns c. 1264–1270). As cited in Yule: Hayton [@yc, Prol. 2]; Vámbéry [@yc, Prol. 3].
 
 [8] ~ Three-year sojourn at Bocara. Duration rounded; Borrak’s dates only partly overlap a strict reading. Prologue’s round years (one, three, three) are literary durations as well as itinerary claims.
 
@@ -86,6 +86,6 @@ The Great Kaan still waited for learned men and for oil of the Sepulchre. Christ
 
 [18] ✓ / ~ Niccolò’s wife dead; Marco aged fifteen at Venice. Core early tradition; age consistent with 1254 birth + 1269 return.
 
-[19] ✗ / ? Pipino’s Latin (and dependents): father had never seen Marco before 1269. Likely later heightening; Yule preferred to reject. Early French understatement retained in this narrative.
+[19] ✗ / ? Pipino’s Latin (and dependents): father had never seen Marco before 1269. Likely later heightening; Yule preferred to reject. Early French understatement retained in this narrative. As cited in Yule: Pipino [@yc, Prol. 9].
 
 [20] ✗ Ramusio: unrecognised kin, banquet, jewels cut from coats — as *1269* fact. Belongs to final-return legend cycle (c. 1295); later embroidery (oral-neighbourhood legend filtered through Gasparo Malipiero). Weighed again when Volume III reaches the homecoming; not used as fact here.

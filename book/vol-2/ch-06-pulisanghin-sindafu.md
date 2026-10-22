@@ -52,7 +52,7 @@ Here the chapter stops short of those marches. For the present it has done what 
 
 [1] ✓ / ~ Western mission frame; ~four months’ circuit from Cambaluc. ✓ Fits Mangala’s Anxi dates and YC 2.35; ~ “four months” as whole-circuit rhetoric.
 
-[2] ✓ / ✗ Pulisanghin = Lugou / Marco Polo Bridge over the Sanggan–Yongding. ✓ Scale, lion parapet, marble balustrade (Magaillans; Lecomte; Bretschneider). ✗ Arch-count: Polo’s 24 vs historical ~11–13; possible confusion with a neighbouring crossing. *Pul-i-Sangīn* = Persian “Stone Bridge”; Rashīd *Sangīn*.
+[2] ✓ / ✗ Pulisanghin = Lugou / Marco Polo Bridge over the Sanggan–Yongding. ✓ Scale, lion parapet, marble balustrade (Magaillans; Lecomte; Bretschneider). ✗ Arch-count: Polo’s 24 vs historical ~11–13; possible confusion with a neighbouring crossing. *Pul-i-Sangīn* = Persian “Stone Bridge”; Rashīd *Sangīn*. As cited in Yule: Magaillans, Lecomte, Bretschneider [@yc, 2.35].
 
 [3] ✓ Juju (Zhuozhou) ~30 miles west; silk/sendals; hostelries; road-fork west = Cathay, SE = Manzi. Rashīd *Jújú*; persistent highway bifurcation; structural hinge of Book II. Gazetteer: *likely_visited*.
 
@@ -60,17 +60,17 @@ Here the chapter stops short of those marches. For the present it has done what 
 
 [5] ✓ / ~ Taianfu = Taiyuan; army stores; vines/wine; silk; Pianfu = Pingyang (Linfen). ✓ Taiyuan and Pingyang; wine fame Tang–Yuan. ~ “Only wine in Cathay” as absolute; ~ India-trade claim as merchant horizon.
 
-[6] ? / ~ Castle Caichu of the Golden King; portrait hall; girls’ carriage (Ramusio). ? Site (Kiai-chau / Ki-chau / Taiching-kwan). ~ Jin (*Altun Khan*, Golden Dynasty) memory behind *Roi d’Or* (Marsden).
+[6] ? / ~ Castle Caichu of the Golden King; portrait hall; girls’ carriage (Ramusio). ? Site (Kiai-chau / Ki-chau / Taiching-kwan). ~ Jin (*Altun Khan*, Golden Dynasty) memory behind *Roi d’Or* (Marsden). As cited in Yule: Marsden [@yc, 2.35].
 
 [7] ◇ / ✗ Golden King romance with Prester John (capture; cattle; restoration). Romance; no Jin-history match; possible Kushlug / Qara-Khitai echo. Prester John again as portable antagonist.
 
-[8] ✓ / ~ Caramoran = *Qara Mören* / Yellow River; unbridgeable; to Ocean; cheap pheasants; great canes. ✓ Name (Odoric; Marignolli; Rashīd). ~ “No bridge” and ocean rhetoric. Cachanfu ≈ Hezhong / Puchau at the great elbow — bank/side geography tangled.
+[8] ✓ / ~ Caramoran = *Qara Mören* / Yellow River; unbridgeable; to Ocean; cheap pheasants; great canes. ✓ Name (Odoric; Marignolli; Rashīd). ~ “No bridge” and ocean rhetoric. Cachanfu ≈ Hezhong / Puchau at the great elbow — bank/side geography tangled. As cited in Yule: Odoric, Marignolli [@yc, 2.40].
 
-[9] ✓ Kenjanfu = Xi’an (Chang’an / Jingzhao / Quenzanfu); silk; army stores; cheap living; Prince Mangalai (Mangala d. 1280) as King of Anxi. Rashīd one of twelve *Sings*; Odoric *Kansan*. Palace wall ~5 miles and gold halls: ✓ Anxi palace tradition; ~ encomium.
+[9] ✓ Kenjanfu = Xi’an (Chang’an / Jingzhao / Quenzanfu); silk; army stores; cheap living; Prince Mangalai (Mangala d. 1280) as King of Anxi. Rashīd one of twelve *Sings*; Odoric *Kansan*. Palace wall ~5 miles and gold halls: ✓ Anxi palace tradition; ~ encomium. As cited in Yule: Odoric [@yc, 2.40].
 
-[10] ? (omission) Silence on Nestorian stele of 781 at Xi’an. Famous silence hook; stele may have been buried; Nestorians thin; Rockhill notes Mar Yahballaha and Rabban Sauma (c. 1276) also omit Chang’an while noticing Ningxia Nestorians. Not proof of absence from China.
+[10] ? (omission) Silence on Nestorian stele of 781 at Xi’an. Famous silence hook; stele may have been buried; Nestorians thin; Rockhill notes Mar Yahballaha and Rabban Sauma (c. 1276) also omit Chang’an while noticing Ningxia Nestorians. Not proof of absence from China. As cited in Yule: Rockhill [@yc, 2.35].
 
-[11] ✓ / ✗ Cuncun mountains: forests, game, hostelries, wearisome road = Hanzhong / Pillar Road (*Chien-tao*). ✓ Richthofen; used by Tolui, Köten, Möngke. ✗ / ~ Majority MSS ~20 days inflated; MS C’s 8 nearer truth. Name *Cuncun* imperfect for Hanzhong.
+[11] ✓ / ✗ Cuncun mountains: forests, game, hostelries, wearisome road = Hanzhong / Pillar Road (*Chien-tao*). ✓ Richthofen; used by Tolui, Köten, Möngke. ✗ / ~ Majority MSS ~20 days inflated; MS C’s 8 nearer truth. Name *Cuncun* imperfect for Hanzhong. As cited in Yule: Richthofen [@yc, 2.37].
 
 [12] ✓ / ? Acbalec Manzi = “White City of the Manzi Frontier”; ginger plain; then mountains with musk to Sindafu. ✓ Sense of name and Han-plain ginger (Ramusio preserves sense). ? Exact town (Hanzhong itself as Tartar “White City,” or other — unsettled). Gazetteer: *uncertain*.
 

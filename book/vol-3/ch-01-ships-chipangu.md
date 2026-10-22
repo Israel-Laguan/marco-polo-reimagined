@@ -52,15 +52,15 @@ Thus Book III opens Volume III’s arc. The junks of Manzi — watertight rooms,
 
 [1] ✓ / ~ Opening of Book III from Zayton after Cathay/Manzi. ✓ Junks known at Chinese ports; ~ Chipangu and farther eastern isles are report. Book’s own confession: Marco never visited those farther isles.
 
-[2] ✓ Manzi sea-junks of fir; multi-mast; single rudder; iron-nailed double planking; merchant cabins. Chinese junk construction broadly attested (Ibn Battuta; Jordanus; Conti).
+[2] ✓ Manzi sea-junks of fir; multi-mast; single rudder; iron-nailed double planking; merchant cabins. Chinese junk construction broadly attested (Ibn Battuta; Jordanus; Conti). As cited in Yule: Conti [@yc, 3.3].
 
-[3] ✓ Watertight interior compartments isolating a leak. Major technical hit; Ramusio detail; Conti parallel; Needham naval China. ◇ / ✗ Whale deliberately staving ships for foam-food — folk embroidery on real bulkhead tech.
+[3] ✓ Watertight interior compartments isolating a leak. Major technical hit; Ramusio detail; Conti parallel; Needham naval China. ◇ / ✗ Whale deliberately staving ships for foam-food — folk embroidery on real bulkhead tech. As cited in Yule: Conti [@yc, 3.3].
 
 [4] ✓ / ~ Lime–hemp–wood-oil caulking (*tong* oil tradition); crews 200–300; huge sweeps; tenders; layered repair to six planks. ✓ practice; ~ maxima and “six planks” as formula.
 
 [5] ✓ Chipangu = Japan; independent; east of continent. Name from Chinese/Japanese “sun-origin”; also Rashid; Malay *Japún* → Europe’s Japan. ✓ / ~ relative gold abundance and isolation; ~ “endless” rhetoric.
 
-[6] ✗ / ◇ Palace roofed, floored, and windowed in gold slabs. Old yarn (Amyot; Kaempfer parallels); feeds later Columbus expectancy. ~ / ◇ Rose pearls; pearl in mouth of cremated dead — pearls exist; funerary detail as report.
+[6] ✗ / ◇ Palace roofed, floored, and windowed in gold slabs. Old yarn (Amyot; Kaempfer parallels); feeds later Columbus expectancy. ~ / ◇ Rose pearls; pearl in mouth of cremated dead — pearls exist; funerary detail as report. As cited in Yule: Amyot [@yc, 3.2].
 
 [7] ★ Dispute: gold of Japan exaggerated as architectural fantasy. Yule: abundance/low price real until modern opening; palace description = “old yarn.” Columbus postils amplify (see Vol. III-11).
 
@@ -70,9 +70,9 @@ Thus Book III opens Volume III’s arc. The junks of Manzi — watertight rooms,
 
 [10] ✗ / ? Survivors seize Japanese ships and take the capital by false banners; hold seven months; year 1279; both generals executed. Yule rejects capital occupation; Japanese sources: slaughter/enslavement. Date compresses (historical climax 1281; earlier probe 1274). ~ / ◇ court-punishment motifs for the generals.
 
-[11] ★★ Polo vs Japanese/Chinese sources: storm = *kamikaze* typhoon tradition; capital ruse and 1279 dating contested. Comparative: Titsingh; Gaubil; De Mailla; *Yuan shi*; Rossabi [-@rossabi1988khubilai] on Kublai.
+[11] ★★ Polo vs Japanese/Chinese sources: storm = *kamikaze* typhoon tradition; capital ruse and 1279 dating contested. Comparative: Titsingh; Gaubil; De Mailla; *Yuan shi*; Rossabi [-@rossabi1988khubilai] on Kublai. As cited in Yule: Titsingh, Gaubil, De Mailla [@yc, 3.3].
 
-[12] ◇ Charm-stones under skin make wearers proof against steel. Widespread amulet practice (Odoric, Conti, Burma gold pellets); wonder framing.
+[12] ◇ Charm-stones under skin make wearers proof against steel. Widespread amulet practice (Odoric, Conti, Burma gold pellets); wonder framing. As cited in Yule: Odoric [@yc, 3.1]; Conti [@yc, 3.3].
 
 [13] ✓ / ~ Multi-headed / thousand-handed idols shared across Cathay, Manzi, Chipangu — Mahayana/Tibetan-Chinese iconography; “same class” for Japan overstated. ~ / ◇ Animal-headed idols as catalogue exaggeration. ✗ / ◇ Cannibalism of unransomed enemies on Chipangu — stock island charge.
 

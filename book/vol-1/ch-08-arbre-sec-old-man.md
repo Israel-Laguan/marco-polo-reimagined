@@ -42,28 +42,28 @@ Now, says the book, let us go back to our journey. Beyond Tonocain the road will
 
 ## Notes
 
-[1] ✓ / ~ Seven-day wearisome desert from Kerman with bitter undrinkable water. ✓ Lūt / salt-desert conditions match travellers (Khanikoff on *Shor-Rūd*); ~ exact staging and “seven days” schematic. Route likely circuitous rather than the short modern Kermān–Kuhbenān line (Houtum-Schindler; Sykes).
+[1] ✓ / ~ Seven-day wearisome desert from Kerman with bitter undrinkable water. ✓ Lūt / salt-desert conditions match travellers (Khanikoff on *Shor-Rūd*); ~ exact staging and “seven days” schematic. Route likely circuitous rather than the short modern Kermān–Kuhbenān line (Houtum-Schindler; Sykes). As cited in Yule: Khanikoff, Sykes [@yc, 1.20]; Houtum-Schindler [@yc, 1.21].
 
 [2] ✓ / ~ Cattle scouring / dying from bad desert water. Plausible; intensity may be heightened. No habitations, no beasts for lack of food: ✓ desert description.
 
 [3] ✓ / ◇ Underground fresh stream with openings for access (*qanāt*-type). ✓ Persian *qanāt*/*kārēz* real (Polybius already on Persian subterranean conduits); ◇ Ramusian passage (Yule defends necessity). Then four days of similar desert with wild asses; end of Kerman kingdom at Cobinan. Gazetteer: Cobinan *likely_visited* outbound.
 
-[4] ✓ / ~ Cobinan = Kuh-Banan; iron, steel, *ondanique*, steel mirrors. ✓ Place and metalworking district attested (Moḳaddasi; Yāḳūt; Abbott); ~ “large town” and mirror superlatives inflated. ✓ *Tutia* / *spodium* furnace process with iron grating: strong technical notice; zinc-oxide / collyrium tradition well paralleled (Galen on *pompholyx*; Teixeira; Gulf trade of Kermān tutia). One of Polo’s stronger technological passages.
+[4] ✓ / ~ Cobinan = Kuh-Banan; iron, steel, *ondanique*, steel mirrors. ✓ Place and metalworking district attested (Moḳaddasi; Yāḳūt; Abbott); ~ “large town” and mirror superlatives inflated. ✓ *Tutia* / *spodium* furnace process with iron grating: strong technical notice; zinc-oxide / collyrium tradition well paralleled (Galen on *pompholyx*; Teixeira; Gulf trade of Kermān tutia). One of Polo’s stronger technological passages. As cited in Yule: Moḳaddasi, Abbott, Galen, Teixeira [@yc, 1.21].
 
 [5] ✓ / ~ Eight-day arid desert Cobinan → Tonocain. ✓ Desert corridor real; ~ duration and exact line (Tabbas vs more easterly) debated. ✓ / ~ Tonocain as Tun-o-Kain / northern extremity of Persia: Tun-o-Kain identification sound; “extremity of Persia” and inclusion of wider Khorasan loose. ~ / ◇ Temperate climate; fine people; “surpassingly beautiful” women: conventional ethnographic praise. Gazetteer: Tonocain / Arbre Sec *uncertain*.
 
-[6] ~ / ? Solitary Arbre Sol / Arbre Sec as described (plane-like fruit/wood). ~ *Chīnār* botany plausible (Marsden; Olearius parallels); ? individual tree and “100 miles” isolation. ◇ / ✗ Locals’ claim: Alexander–Darius battle at the tree—folklore; ✗ as historical battlefield marker. ✓ Arbre Sec names drawn from Alexander romance / Christian Dry Tree lore (*Pseudo-Callisthenes*; *Chanson d’Alixandre*; Maundevile): romance topography pasted onto eastern Iran.
+[6] ~ / ? Solitary Arbre Sol / Arbre Sec as described (plane-like fruit/wood). ~ *Chīnār* botany plausible (Marsden; Olearius parallels); ? individual tree and “100 miles” isolation. ◇ / ✗ Locals’ claim: Alexander–Darius battle at the tree—folklore; ✗ as historical battlefield marker. ✓ Arbre Sec names drawn from Alexander romance / Christian Dry Tree lore (*Pseudo-Callisthenes*; *Chanson d’Alixandre*; Maundevile): romance topography pasted onto eastern Iran. As cited in Yule: Marsden, Pseudo-Callisthenes, Maundevile [@yc, 1.22].
 
 [7] ✓ Mulehet = country of the *Mulāḥidah* (Ismā‘īlī “heretics”). Standard medieval Muslim epithet (Yule); not a corruption of Alamūt as toponym. Book explicitly frames as hearsay (“heard from several natives”). Gazetteer: Old Man / Alamūt *reported_only*.
 
-[8] ◇ / ~ / ✗ Old Man Aloadin; paradise garden fashioned after Mahommet’s Paradise. ◇ Widespread legend (Latin, Chinese, Arabic parallels; Odoric echo); ~ real fortress culture of the Nizārīs; ✗ if garden-as-erotic-paradise taken as institutional fact. Crusader stereotype vs Ismā‘īlī history (Juvainī; Rashīd al-Dīn; Farhad Daftary [-@daftary1990ismailis]).
+[8] ◇ / ~ / ✗ Old Man Aloadin; paradise garden fashioned after Mahommet’s Paradise. ◇ Widespread legend (Latin, Chinese, Arabic parallels; Odoric echo); ~ real fortress culture of the Nizārīs; ✗ if garden-as-erotic-paradise taken as institutional fact. Crusader stereotype vs Ismā‘īlī history (Juvainī; Rashīd al-Dīn; Farhad Daftary [-@daftary1990ismailis]). As cited in Yule: Odoric [@yc, 1.22]; Juvainī [@yc, 1.24].
 
-[9] ◇ / ~ Ashishin (*ḥashīshīn*) admitted only; fortress entrance; youths 12–20; potion-sleep; awakening in Garden. ~ Real *fidā’ī* devotion; ◇ hashish etymology (de Sacy) behind Assassin; Crusader title Old Man of the Mountain = *Shaikh al-Jibāl*.
+[9] ◇ / ~ Ashishin (*ḥashīshīn*) admitted only; fortress entrance; youths 12–20; potion-sleep; awakening in Garden. ~ Real *fidā’ī* devotion; ◇ hashish etymology (de Sacy) behind Assassin; Crusader title Old Man of the Mountain = *Shaikh al-Jibāl*. As cited in Yule: de Sacy [@yc, 1.22].
 
-[10] ◇ Return to castle; mission framing; desire for Paradise as motive for obedience. Legend cycle; parallel paradise-training tales in Odoric, Chinese notice of Mulahi, Arabic romance materials (Hammer).
+[10] ◇ Return to castle; mission framing; desire for Paradise as motive for obedience. Legend cycle; parallel paradise-training tales in Odoric, Chinese notice of Mulahi, Arabic romance materials (Hammer). As cited in Yule: Odoric [@yc, 1.22]; Hammer [@yc, 1.23].
 
 [11] ✓ / ~ Deputies in Damascus and Curdistan. ✓ Syrian branch well known to Crusaders; ~ Kurdistan placement softer. Dread and tribute: ~ / ◇ as legend of power.
 
 [12] ✓ / ~ / ✗ Alau (Hulagu) destroys Old Man; three-year siege; garden levelled; no successor. ✓ Mongol destruction of Nizārī power mid-1250s (Kitbuqa; Rukn al-Dīn’s surrender 1256; Alamūt taken; Girdkūh prolonged); ~ siege length compressed; ✗ Polo’s year-dates (1252/1262); ✗ absolute extinction (“no successor”)—sect survived obscurely.
 
-[13] ✗ Marco personally visited Alamūt / the Garden. Book presents hearsay; Alamūt far from likely Cobinan–Tonocain road. ~ / ? Report gathered while travelling that corridor: plausible regional hearsay; exact informants unknown. Comparative: Juvainī; Rashīd al-Dīn; Daftary [-@daftary1990ismailis] on Nizārīs; Yule’s long Assassin and Arbre Sec notes; Sykes / Curzon / Houtum-Schindler on Lūt and Tun-o-Kain.
+[13] ✗ Marco personally visited Alamūt / the Garden. Book presents hearsay; Alamūt far from likely Cobinan–Tonocain road. ~ / ? Report gathered while travelling that corridor: plausible regional hearsay; exact informants unknown. Comparative: Juvainī; Rashīd al-Dīn; Daftary [-@daftary1990ismailis] on Nizārīs; Yule’s long Assassin and Arbre Sec notes; Sykes / Curzon / Houtum-Schindler on Lūt and Tun-o-Kain. As cited in Yule: Juvainī [@yc, 1.24]; Sykes [@yc, 1.20]; Curzon [@yc, 1.22]; Houtum-Schindler [@yc, 1.21].

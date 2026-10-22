@@ -48,34 +48,34 @@ The Jasper and Chalcedony are jade—*yü* to the Chinese, *kāsh* to the Easter
 
 [1] ✓ / ~ Twelve-day ascent along brother’s Oxus/Panja fief from Badashan. ✓ Feudal Oxus pattern and Panja approach; ~ “twelve” and condensation via Ishkāshm (Vardoj–Ishkāshm).
 
-[2] ✓ Vocan = Wakhan; small vassal province; peculiar language. Firm ID; Iranian Pamir dialect; Wood/Trotter. ✓ / ? Chief titled None (= Count), liege to Badashan: ✓ vassal count accurate; ? etymology of None (Tibetan *Nono* vs other). Gazetteer: Wakhan *visited*.
+[2] ✓ Vocan = Wakhan; small vassal province; peculiar language. Firm ID; Iranian Pamir dialect; Wood/Trotter. ✓ / ? Chief titled None (= Count), liege to Badashan: ✓ vassal count accurate; ? etymology of None (Tibetan *Nono* vs other). Gazetteer: Wakhan *visited*. As cited in Yule: Wood, Trotter [@yc, 1.32].
 
-[3] ✓ / ~ Pamier “highest place in the world”; lake; finest pasture. ✓ Roof of World / lakes / rich summer pasture; ~ absolute “highest” hyperbole. ✓ Great wild sheep, horns ~six palms; horn heaps as snow guides: *Ovis Poli* (Blyth); Wood, Gordon, Severtsof, Younghusband. Wolves and bone-heaps: Ramusio/G tradition.
+[3] ✓ / ~ Pamier “highest place in the world”; lake; finest pasture. ✓ Roof of World / lakes / rich summer pasture; ~ absolute “highest” hyperbole. ✓ Great wild sheep, horns ~six palms; horn heaps as snow guides: *Ovis Poli* (Blyth); Wood, Gordon, Severtsof, Younghusband. Wolves and bone-heaps: Ramusio/G tradition. As cited in Yule: Blyth, Wood, Gordon, Severtsof, Younghusband [@yc, 1.32].
 
 [4] ✓ / ~ Twelve-day Pamier crossing; desolate; carry supplies; no birds. ✓ Cold desolation; ~ season-dependent bird absence; duration debated among Pamirs. Gazetteer: Pamir *visited*.
 
-[5] ✓ Extreme cold makes fire burn/cook poorly. Altitude boiling-point / poor fuel (Montgomerie; Huc–Gabet); traveller truth under romance sky. Humboldt’s doubt rested on Ramusian “miracolo” not in old texts. Chinese pilgrims (Hwui Seng, Sung Yun, Hiuen Tsang *Pomilo*) on altitude and lake; *Bām-i-Duniah*.
+[5] ✓ Extreme cold makes fire burn/cook poorly. Altitude boiling-point / poor fuel (Montgomerie; Huc–Gabet); traveller truth under romance sky. Humboldt’s doubt rested on Ramusian “miracolo” not in old texts. Chinese pilgrims (Hwui Seng, Sung Yun, Hiuen Tsang *Pomilo*) on altitude and lake; *Bām-i-Duniah*. As cited in Yule: Montgomerie, Hwui Seng, Sung Yun, Hiuen Tsang [@yc, 1.32].
 
-[6] ~ / ✗ Forty-day Bolor wilderness of savage skin-clad Idolaters. ~ Bolor as areal high-country name real (Hiuen Tsang; Cunningham Balti; Shaw Chitrál; Mirza Haidar’s four-month circuit)—not the Jesuit misplaced “town”; ✗ forty days vs later timings (~34 Faizabad–Kashgar); “evil race” moralizing.
+[6] ~ / ✗ Forty-day Bolor wilderness of savage skin-clad Idolaters. ~ Bolor as areal high-country name real (Hiuen Tsang; Cunningham Balti; Shaw Chitrál; Mirza Haidar’s four-month circuit)—not the Jesuit misplaced “town”; ✗ forty days vs later timings (~34 Faizabad–Kashgar); “evil race” moralizing. As cited in Yule: Hiuen Tsang, Cunningham, Shaw [@yc, 1.32].
 
 [7] ✓ Cascar gardens, cotton, trade, Nestorians, peculiar language. Classic oasis inventory; Nestorian metropolitan see attested. Gazetteer: Kashgar *visited*.
 
-[8] ~ / ? Cascar “subject to the Great Kaan.” Homage sense possible; effective Kaidu frontier lay east (Yule/Bretschneider; Rashīd). Route via Tāshkurgān / Gez or Chichiklik makes Cascar-before-Yarkand sensible (Montgomerie).
+[8] ~ / ? Cascar “subject to the Great Kaan.” Homage sense possible; effective Kaidu frontier lay east (Yule/Bretschneider; Rashīd). Route via Tāshkurgān / Gez or Chichiklik makes Cascar-before-Yarkand sensible (Montgomerie). As cited in Yule: Bretschneider [@yc, 1.33]; Montgomerie [@yc, 1.32].
 
 [9] ✓ / ◇ Samarcan great city of Christians and Saracens under Kaidu. ✓ City and mixed communities; ◇ Marco did not visit on this journey (elder Polos at Bocara). Nestorians from 8th c.; Sempad 1246/7 on Christian status.
 
 [10] ✗ / ◇ Sigatay “own brother” to the Great Kaan; converted; built Baptist church. ✗ Chagatai was Kublai’s uncle, not brother (Yule flag); ◇ conversion/church tale unverified.
 
-[11] ◇ / ✗ Miracle of the hanging/unsupported column after stone removed. ◇ Pious tale / wonder-type (cf. Palladius 14th-c. Chinese notice of hanging pillar in Samarkand temple); ✗ as literal history. Allegory of a church built upon another’s stone.
+[11] ◇ / ✗ Miracle of the hanging/unsupported column after stone removed. ◇ Pious tale / wonder-type (cf. Palladius 14th-c. Chinese notice of hanging pillar in Samarkand temple); ✗ as literal history. Allegory of a church built upon another’s stone. As cited in Yule: Palladius [@yc, 1.34].
 
 [12] ✗ Kaidu as Great Kaan’s nephew. Kinship mis-stated (Yule flag). Dispute hook: pious tale + kinship error.
 
-[13] ✓ Yarcan cotton, crafts; goitre and swollen necks from water. Goitre at Yarkand repeatedly confirmed (’Izzat Ullah; Shaw; Hedin ~¾ population; Roborovsky; Mirza)—water-quality theory matches Polo. ~ / ◇ Nestorian and Jacobite Christians: plausible Eastern Christian scatter; thin local detail. Gazetteer: Yarkand *visited*.
+[13] ✓ Yarcan cotton, crafts; goitre and swollen necks from water. Goitre at Yarkand repeatedly confirmed (’Izzat Ullah; Shaw; Hedin ~¾ population; Roborovsky; Mirza)—water-quality theory matches Polo. ~ / ◇ Nestorian and Jacobite Christians: plausible Eastern Christian scatter; thin local detail. Gazetteer: Yarkand *visited*. As cited in Yule: ’Izzat Ullah, Hedin, Roborovsky [@yc, 1.35]; Shaw [@yc, 1.32].
 
-[14] ✓ Cotan fertile, cotton/wine/gardens, commercial, unwarlike, Muslim. Fertility and Islamization well paralleled (Boghra Khān ~980–990; Hiuen Tsang jade/textiles; 10th-c. grapes/wine; Johnson 1865; Grenard). Gazetteer: Khotan *visited*.
+[14] ✓ Cotan fertile, cotton/wine/gardens, commercial, unwarlike, Muslim. Fertility and Islamization well paralleled (Boghra Khān ~980–990; Hiuen Tsang jade/textiles; 10th-c. grapes/wine; Johnson 1865; Grenard). Gazetteer: Khotan *visited*. As cited in Yule: Hiuen Tsang [@yc, 1.32]; Johnson [@yc, 1.36]; Grenard [@yc, 1.33].
 
 [15] ✓ *Aourent Mahommet* = usual Muslim formula, not literal idol-worship (folk *Mawmet*/*mummery* digression). Jade deferred to Pein’s rivers.
 
 [16] ✓ Pein rivers yield Jasper/Chalcedony (= jade). Khotan–Keriya jade ethnography sound (*yü* / *kāsh* / *yashm*; Karákásh mines). ✓ / ~ Temporary remarriage after >20 days’ absence: ✓ caravan-town temporary marriage paralleled (Meshid *mut‘a*; Kashgar *chaukan*); ~ exact twenty-day rule may be compressed.
 
-[17] ? Pein = Pima / Kiria (Keriya) area. Location debated (App. L-type; Forsyth; Grenard); route toward Lop accepted. ✓ / ~ Provinces Cascar→Lop belong to “Great Turkey”: Tarim / Eastern Turkestan areal label; Book’s extent schematic. Gazetteer: Pem *uncertain*. Comparative: Mirza Haidar; Tang–Yuan itineraries; Stein (Khotan archaeology); Syriac/Nestorian Central Asia; Wood; Forsyth Mission. Stop at Great Turkey’s naming; Charchan and Lop wait for I-11.
+[17] ? Pein = Pima / Kiria (Keriya) area. Location debated (App. L-type; Forsyth; Grenard); route toward Lop accepted. ✓ / ~ Provinces Cascar→Lop belong to “Great Turkey”: Tarim / Eastern Turkestan areal label; Book’s extent schematic. Gazetteer: Pem *uncertain*. Comparative: Mirza Haidar; Tang–Yuan itineraries; Stein (Khotan archaeology); Syriac/Nestorian Central Asia; Wood; Forsyth Mission. Stop at Great Turkey’s naming; Charchan and Lop wait for I-11. As cited in Yule: Forsyth, Wood [@yc, 1.32]; Grenard [@yc, 1.33]; Stein [@yc, 1.36].

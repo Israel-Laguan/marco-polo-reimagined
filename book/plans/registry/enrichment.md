@@ -4,6 +4,8 @@ Candidate material for asides, Notes, trivia, captions and back matter, each wit
 
 **Status:** **verified** = the intake opened the source itself (text, catalogue, CrossRef/DOI, Internet Archive record) · **claimed** = stated by a research tool, not opened here · **discarded** = checked and not supported. Only verified items go into the manuscript; claimed items are leads.
 
+**Applied so far:** E1, E2, E7 in I-13 (Note [4] and its aside), 2026-10-22.
+
 **Use rule:** at most 2–3 items per chapter during its re-voice (W4); the rest go to Notes or back matter, or stay here.
 
 ---

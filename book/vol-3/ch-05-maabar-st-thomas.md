@@ -54,27 +54,27 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 ## Notes
 
-[1] ✓ Maabar = Coromandel / Maʿbar coast; India the Greater. Standard Arabic geography (Abulfeda; Wassaf: “key of Hind”). ~ ~60 miles west from Seilan — orientation compressed; ferry distance order-of-magnitude. ✓ / ~ Five royal brothers — plural Pāṇḍya/coast powers; exact “five brothers” neatness. ✓ / ? Sonder Bandi Davar = a Sundara Pāṇḍya — name match; which Sundara contested. ★ Topographic order of Indian chapters partly dislocated (Yule). Gazetteer: *visited*.
+[1] ✓ Maabar = Coromandel / Maʿbar coast; India the Greater. Standard Arabic geography (Abulfeda; Wassaf: “key of Hind”). ~ ~60 miles west from Seilan — orientation compressed; ferry distance order-of-magnitude. ✓ / ~ Five royal brothers — plural Pāṇḍya/coast powers; exact “five brothers” neatness. ✓ / ? Sonder Bandi Davar = a Sundara Pāṇḍya — name match; which Sundara contested. ★ Topographic order of Indian chapters partly dislocated (Yule). Gazetteer: *visited*. As cited in Yule: Abulfeda, Wassaf [@yc, 3.16].
 
-[2] ✓ Pearl fishery in Manar gulf; April–mid-May; 4–12 fathoms. Enduring fishery; depth correct. ✓ / ~ Bettelar as fishery rendezvous (Patlam type). ✓ / ~ Tenth to king; Abraiaman shark-charmers; day-only charm — royalty + charm office; Brahman label and night-dissolution colour. Tamul *Kaḍal-Kaṭṭi*; Tennent; still paid into British period.
+[2] ✓ Pearl fishery in Manar gulf; April–mid-May; 4–12 fathoms. Enduring fishery; depth correct. ✓ / ~ Bettelar as fishery rendezvous (Patlam type). ✓ / ~ Tenth to king; Abraiaman shark-charmers; day-only charm — royalty + charm office; Brahman label and night-dissolution colour. Tamul *Kaḍal-Kaṭṭi*; Tennent; still paid into British period. As cited in Yule: Tennent [@yc, 3.16].
 
 [3] ~ / ✗ World’s pearls largely from this fishery — major source; exclusivity overstated. ~ / ◇ Second fishery ~300 miles in Sept–Oct — plausible sheltered site; not firmly fixed.
 
-[4] Comparative: Wassaf; Rashid; Ibn Battuta; Tennent; pearl-fishery histories (Stewart; Pridham). Yule: fishery account “still substantially correct.”
+[4] Comparative: Wassaf; Rashid; Ibn Battuta; Tennent; pearl-fishery histories (Stewart; Pridham). Yule: fishery account “still substantially correct.”. As cited in Yule: Wassaf, Tennent [@yc, 3.16].
 
 [5] ✓ / ~ Near-nakedness; no tailor craft stressed — light dress; absolute “never a tailor” soft. ✓ / ~ Royal gem collar; 104-bead prayer cord; *Pacauta* — gem display and *japā*; 104 for 108; *Bagavā* reading strong. ~ Pearl export ban; royal double-price monopoly — plausible fiscal policy.
 
-[6] Caldwell on *Bagavā*; Vaishnava rosary of 108 — Book’s near-miss.
+[6] Caldwell on *Bagavā*; Vaishnava rosary of 108 — Book’s near-miss. As cited in Yule: Caldwell [@yc, 3.16].
 
-[7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ★ Dispute: suttee / companions-in-death — corroborable, rhetorical heat.
+[7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ★ Dispute: suttee / companions-in-death — corroborable, rhetorical heat. As cited in Yule: Abu Zaid, Masʿūdī, Barbosa, Firishta [@yc, 3.17]; Wassaf [@yc, 3.16].
 
-[8] ✓ No horse breeding; massive Gulf imports; high mortality. Wassaf/Rashid corroboration ★★★. ~ Merchants bar farriers to protect sales — sharp Polo observation; economically plausible cartel.
+[8] ✓ No horse breeding; massive Gulf imports; high mortality. Wassaf/Rashid corroboration ★★★. ~ Merchants bar farriers to protect sales — sharp Polo observation; economically plausible cartel. As cited in Yule: Wassaf [@yc, 3.16].
 
 [9] ✓ / ~ Boiled rice/meat feeding kills horses; blood stock produces only “weeds” in Maabar — mismanagement theme; climate/management breeding failure observed.
 
 [10] ★★★ Dispute: horse-breeding failure in S. India — sharp economic observation, independently corroborated.
 
-[11] ✓ / ~ Criminal self-sacrifice with knives for an idol — vow-suicide type (Jordanus; Ibn Battuta); exact twelve-knife parade soft.
+[11] ✓ / ~ Criminal self-sacrifice with knives for an idol — vow-suicide type (Jordanus; Ibn Battuta); exact twelve-knife parade soft. As cited in Yule: Jordanus [@yc, 3.17].
 
 [12] ✓ Ox worship; Govy eat dead cattle — enduring practice / caste foodways (Yule → Paraiyar). ◇ Govis physically unable to enter St Thomas shrine — cult taboo told as marvel.
 
@@ -90,4 +90,4 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 [18] ◇ 1288 fork-miracle vs rice-hoarding Baron — local miracle story of the keepers. Coconut rents six groats/tree/month to a brother-king — book detail.
 
-[19] ◇ / ? Peacock-arrow martyrdom by a Govi — local Christian legend; not apostolic proof. ? Apostolic preaching/death in S. India as historical fact — ancient tradition (Jerome; Acts of Thomas / Gondophares echo); not settled by Polo. ✓ / ~ Wild-ox hair as battle amulet. Soft close toward Mutfili. Comparative: Montecorvino; Marignolli; Odoric; Conti; Barbosa; Assemani; Caldwell; Nelson; Subrahmanyam; Syrian Christian / Thomacide traditions.
+[19] ◇ / ? Peacock-arrow martyrdom by a Govi — local Christian legend; not apostolic proof. ? Apostolic preaching/death in S. India as historical fact — ancient tradition (Jerome; Acts of Thomas / Gondophares echo); not settled by Polo. ✓ / ~ Wild-ox hair as battle amulet. Soft close toward Mutfili. Comparative: Montecorvino; Marignolli; Odoric; Conti; Barbosa; Assemani; Caldwell; Nelson; Subrahmanyam; Syrian Christian / Thomacide traditions. As cited in Yule: Jerome, Marignolli, Odoric, Conti, Assemani [@yc, 3.18]; Barbosa [@yc, 3.17]; Caldwell, Nelson [@yc, 3.16].

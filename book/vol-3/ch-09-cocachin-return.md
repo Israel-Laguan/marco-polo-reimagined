@@ -46,11 +46,11 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 ## Notes
 
-[1] ✓ / ~ Polos seek leave after long service; Kublai reluctant. Pegolotti later records the same fear for foreign merchants when a sovereign falls. YC Prol. 17–18 spine.
+[1] ✓ / ~ Polos seek leave after long service; Kublai reluctant. Pegolotti later records the same fear for foreign merchants when a sovereign falls. YC Prol. 17–18 spine. As cited in Yule: Pegolotti [@yc, Prol. 17].
 
-[2] ✓ Bulughan’s death (7 April 1286) on the Kur in Georgia; Bayaut kinship; dying wish for Bayaut successor-bride (Hammer / Ilkhanid chronology). ✓ / ~ Arghun’s embassy of Uladai, Apushka, Koja — ✓ embassy pattern and names plausible in Mongol record (Rashid knows an Apushka of the Urnaut sent envoy to the Great Kaan); ~ all three as a fixed trio only in Polo.
+[2] ✓ Bulughan’s death (7 April 1286) on the Kur in Georgia; Bayaut kinship; dying wish for Bayaut successor-bride (Hammer / Ilkhanid chronology). ✓ / ~ Arghun’s embassy of Uladai, Apushka, Koja — ✓ embassy pattern and names plausible in Mongol record (Rashid knows an Apushka of the Urnaut sent envoy to the Great Kaan); ~ all three as a fixed trio only in Polo. As cited in Yule: Hammer [@yc, Prol. 18].
 
-[3] ✓ Cocachin (Kukachin) chosen from Cathay, kin of Bulughan — ★★★ Rashid al-Din; Hammer. ~ / ◇ Maiden about seventeen; *moult bele dame et avenant* — age and beauty-formula are Book colour; not independently fixed.
+[3] ✓ Cocachin (Kukachin) chosen from Cathay, kin of Bulughan — ★★★ Rashid al-Din; Hammer. ~ / ◇ Maiden about seventeen; *moult bele dame et avenant* — age and beauty-formula are Book colour; not independently fixed. As cited in Yule: Hammer [@yc, Prol. 18].
 
 [4] ✓ / ~ Ramusian land-abort after ~eight months; wars among Tartar princes closed the roads — ✓ steppe wars endemic; ~ eight-month abort as exact. Yule treats as authentic expansion; not in all French lines.
 
@@ -58,7 +58,7 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 [6] ✓ / ~ Kublai loath; finally permits departure with the Lady. Narrative hinge of seventeen years’ favour unlocked by bride’s necessity.
 
-[7] ✓ / ~ Two golden *paiza* from Kublai — ✓ *paiza* institution; ~ specific addressee list (France, England, Spain — Pauthier/Ramusio colour; MS-variable). Parallel to attested Ilkhanid embassies to England (Abaqa 1277; Arghun 1289, 1291; Ghazan 1302). ✓ / ~ Thirteen great junks; four masts; up to twelve sails; crews 250–260 — ✓ junk scale matches Book III / Ibn Baṭṭūṭa / Jordanus; ~ exact thirteen and crew counts.
+[7] ✓ / ~ Two golden *paiza* from Kublai — ✓ *paiza* institution; ~ specific addressee list (France, England, Spain — Pauthier/Ramusio colour; MS-variable). Parallel to attested Ilkhanid embassies to England (Abaqa 1277; Arghun 1289, 1291; Ghazan 1302). ✓ / ~ Thirteen great junks; four masts; up to twelve sails; crews 250–260 — ✓ junk scale matches Book III / Ibn Baṭṭūṭa / Jordanus; ~ exact thirteen and crew counts. As cited in Yule: Pauthier, Ibn Baṭṭūṭa, Jordanus [@yc, Prol. 18].
 
 [8] ✓ / ~ Departure from Zayton (Quanzhou) — ✓ Zayton the great Fo-kien haven; ~ Prologue does not name the port; Yule and China geography fix it. Necessaries for two years.
 
@@ -66,13 +66,13 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 [10] ~ ~Eighteen further months on the Indian Ocean route — schematic total; call-sequence not logged day-by-day. ✓ / ~ Hormuz as Persian landfall — ✓ standard Gulf gate; ~ not explicit in every line of Prologue. Yule’s working chronology: Jan 1292 sailing → winter 1293/94 landfall.
 
-[11] ✓ Arghun already dead (10 Mar 1291) when fleet arrived — firm Ilkhanid date; dead before sailing. ✓ Delivery under Geikhatu (succeeded 23 Jul 1291); bride given to Ghazan. ✓ Cocachin’s marriage ~winter 1293–94 near Abhar (west of Qazvin) — Rashid / Hammer; Mongol marriage custom.
+[11] ✓ Arghun already dead (10 Mar 1291) when fleet arrived — firm Ilkhanid date; dead before sailing. ✓ Delivery under Geikhatu (succeeded 23 Jul 1291); bride given to Ghazan. ✓ Cocachin’s marriage ~winter 1293–94 near Abhar (west of Qazvin) — Rashid / Hammer; Mongol marriage custom. As cited in Yule: Hammer [@yc, Prol. 18].
 
-[12] ★★★ Cocachin in Persian history (Rashid al-Din’s Kukachin = Polo’s Cocachin) — flagship corroboration of the return embassy itself. Wassaf and Ilkhanid narrative tradition support the same transfer.
+[12] ★★★ Cocachin in Persian history (Rashid al-Din’s Kukachin = Polo’s Cocachin) — flagship corroboration of the return embassy itself. Wassaf and Ilkhanid narrative tradition support the same transfer. As cited in Yule: Wassaf [@yc, Prol. 18].
 
 [13] ✓ Cocachin’s death June 1296 (Shaʿban 695 AH) — Persian chronology; brief queenship. Rashid: *ordu* of Tukiti Khatun given to Kukachi Khatun brought from the Kaan’s court.
 
-[14] ~ / ✗ ~600 passengers (ex. mariners); only 8 (or 18) survived — ~ catastrophic loss plausible; ✗ as precise census — rhetorical extremity. “One in ten” popular paraphrase softens the Book’s near-total loss and is not the primary-text fraction. ~ / ◇ Only Coja of three ambassadors survived (Ramusio) — possible; single-text colour. Parallel: Ghazan’s later embassy to Cathay lost chief envoys on same return route (Wassaf).
+[14] ~ / ✗ ~600 passengers (ex. mariners); only 8 (or 18) survived — ~ catastrophic loss plausible; ✗ as precise census — rhetorical extremity. “One in ten” popular paraphrase softens the Book’s near-total loss and is not the primary-text fraction. ~ / ◇ Only Coja of three ambassadors survived (Ramusio) — possible; single-text colour. Parallel: Ghazan’s later embassy to Cathay lost chief envoys on same return route (Wassaf). As cited in Yule: Wassaf [@yc, Prol. 18].
 
 [15] ? / ◇ Manzi (Sung) princess as fellow charge — G.T. / Crusca only; no clear Persian match among Ghazan’s wives; likely a Sung captive raised at Khanbaliq (cf. 1276 princesses treated by Queen Jamui). ~ / ◇ Cocachin wept at parting; filial regard for the Polos — narrative pathos; consistent with long shared voyage.
 

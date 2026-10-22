@@ -58,13 +58,13 @@ Here the chapter stops short of the Bailo Achmath and the mulberry-bark money, t
 
 ## Notes
 
-[1] ✓ / ~ Winter game-levy to Court from within ~20–30 days’ journey. ✓ Imperial hunt-supply attested (Palladius; Magaillans on winter piles of frozen game at Peking); ~ cart-volume rhetoric. ✓ / ~ Remoter districts send tanned skins for army gear: plausible logistics.
+[1] ✓ / ~ Winter game-levy to Court from within ~20–30 days’ journey. ✓ Imperial hunt-supply attested (Palladius; Magaillans on winter piles of frozen game at Peking); ~ cart-volume rhetoric. ✓ / ~ Remoter districts send tanned skins for army gear: plausible logistics. As cited in Yule: Palladius [@yc, 2.19]; Magaillans [@yc, 2.17].
 
 [2] ✓ Trained hunting-leopards (cheetas) and lynxes at Court. Widely attested (Rubruck; Akbar’s 1,000; Frederick II; horse-croup carriage cf. I.lxi Chandu). Lynx = *loup-cervier* / Geog. Latin *linceos*.
 
 [3] ✓ / ? Striped “Lions” = tigers trained for chase; carted with a dog. ✓ Stripe-portrait is tiger (semantic *lion*); ? trained tiger for battue rarer. ✓ / ~ Approach big cats against the wind: sound hunting practice.
 
-[4] ✓ Eagles (Golden Eagle / *Búrgút*) flown at wolves and foxes. Strong Inner Asian ethnographic confirmation (Kirghiz; Atkinson; Forsyth; Baber; Timkowski).
+[4] ✓ Eagles (Golden Eagle / *Búrgút*) flown at wolves and foxes. Strong Inner Asian ethnographic confirmation (Kirghiz; Atkinson; Forsyth; Baber; Timkowski). As cited in Yule: Atkinson, Forsyth, Baber [@yc, 2.18].
 
 [5] ✓ / ~ Two brother Masters of Hounds (*Chinuchi*); red/blue corps. ✓ Hound-master office type; ~ exact title etymology and brother-pair. ✗ / ~ 10,000 men per brother; ~5,000 dogs; battue a day’s journey wide: ~ battue tactics real; ✗ headcounts impress vs Yuan payroll.
 
@@ -76,9 +76,9 @@ Here the chapter stops short of the Bailo Achmath and the mulberry-bark money, t
 
 [9] ✓ Hawk leg-labels; *Bularguchi* lost-property officer with banner. Mongol camp office independently described (*Golden Horde*; 1320 Venetian grant).
 
-[10] Linguistic hits and distance problem: see [8]–[9]. Cachar Modun = Mongol *gajar/katzar* + *modun* “land/wood”—site ID still open (Jesuit *Modun Khotan* near E. Great Wall preferred; Marsden/Pauthier’s far Manchuria impossible).
+[10] Linguistic hits and distance problem: see [8]–[9]. Cachar Modun = Mongol *gajar/katzar* + *modun* “land/wood”—site ID still open (Jesuit *Modun Khotan* near E. Great Wall preferred; Marsden/Pauthier’s far Manchuria impossible). As cited in Yule: Marsden, Pauthier [@yc, 2.18].
 
-[11] ✓ / ~ Elephant timber chamber lined with gold / tiger-skins; gout. ✓ Gout in Corean annals (Palladius); ~ gold plating splendour; elephant howdah travel attested later (Odoric). ✓ / ~ Cast gerfalcon at cranes from open litter roof: high “I was there” texture; court hawking confirmed.
+[11] ✓ / ~ Elephant timber chamber lined with gold / tiger-skins; gout. ✓ Gout in Corean annals (Palladius); ~ gold plating splendour; elephant howdah travel attested later (Odoric). ✓ / ~ Cast gerfalcon at cranes from open litter roof: high “I was there” texture; court hawking confirmed. As cited in Yule: Palladius [@yc, 2.19]; Odoric [@yc, 2.18].
 
 [12] ? / ✗ Standing camp at Cachar Modun; 10,000 tents. ? Site identification open; ✗ tent census rhetorical. Audience tent for 1,000; door to south.
 
@@ -88,9 +88,9 @@ Here the chapter stops short of the Bailo Achmath and the mulberry-bark money, t
 
 [15] ✓ / ~ 20-day hawking reserve; Mar–Oct closed season on four animals. ✓ Imperial game law type (*Yasa* / Yuan); ~ exact months vs other notices (Pétis de la Croix may reverse Polo).
 
-[16] ✓ / ~ Three-day return entertainments; year split 6 / 3 / 3. ✓ Dual capital seasonality (Bushell Chinese document on Shangdu migration via Nankau / Chaghan-nor); ~ neat calendar and Cepoy-only rehearsal of II.xxi.
+[16] ✓ / ~ Three-day return entertainments; year split 6 / 3 / 3. ✓ Dual capital seasonality (Bushell Chinese document on Shangdu migration via Nankau / Chaghan-nor); ~ neat calendar and Cepoy-only rehearsal of II.xxi. As cited in Yule: Bushell [@yc, 2.21].
 
-[17] ✓ / ~ Suburbs outside twelve gates larger than the city. ✓ Great extramural settlement; ~ “more people than the city” and 12-gate count (already flagged in II-2 vs Chinese eleven). ✓ Nation-sorted foreign hostelries (*fondaco* analogy): Ibn Baṭṭūṭa *fandūḳ*; Mediterranean lens, Chinese practice of grouped lodgings. *Fondaco* ← Greek πανδοκεῖον via Arabic *fandūḳ*.
+[17] ✓ / ~ Suburbs outside twelve gates larger than the city. ✓ Great extramural settlement; ~ “more people than the city” and 12-gate count (already flagged in II-2 vs Chinese eleven). ✓ Nation-sorted foreign hostelries (*fondaco* analogy): Ibn Baṭṭūṭa *fandūḳ*; Mediterranean lens, Chinese practice of grouped lodgings. *Fondaco* ← Greek πανδοκεῖον via Arabic *fandūḳ*. As cited in Yule: Ibn Baṭṭūṭa [@yc, 2.20].
 
 [18] ✓ Burial/cremation forbidden inside walls. Standard East Asian urban hygiene / ritual zoning. ✗ / ~ >20,000 public women in suburbs: suburban sex trade real; census figure rhetorical population-proof.
 
@@ -98,4 +98,4 @@ Here the chapter stops short of the Bailo Achmath and the mulberry-bark money, t
 
 [20] ✗ / ~ 1,000 cart-loads of silk enter daily. Silk-mart greatness sound; daily thousand is marvel arithmetic. ~ ~200 surrounding cities feed the mart: regional market hierarchy plausible; round number. Population rhetoric (“million”) and sobriquet *Milione*—the Book’s urban hyperbole is one root of the nickname’s double life (wealth vs “million lies”).
 
-[21] Soft landing to II-5: Ahmad, paper money, posts, coal. Comparative: Allsen [-@allsen2006royal] on the royal hunt; Yuan hunting regulations / *Yuan shi*; Palladius; Odoric; Magaillans; Rashīd al-Dīn; Hammer *Golden Horde*; Ibn Baṭṭūṭa; Benn and metropolitan population debates; Rossabi [-@rossabi1988khubilai]; Yule zoological and Turki notes; Cordier addenda on Cachar Modun and *Chinuchi*.
+[21] Soft landing to II-5: Ahmad, paper money, posts, coal. Comparative: Allsen [-@allsen2006royal] on the royal hunt; Yuan hunting regulations / *Yuan shi*; Palladius; Odoric; Magaillans; Rashīd al-Dīn; Hammer *Golden Horde*; Ibn Baṭṭūṭa; Benn and metropolitan population debates; Rossabi [-@rossabi1988khubilai]; Yule zoological and Turki notes; Cordier addenda on Cachar Modun and *Chinuchi*. As cited in Yule: Palladius [@yc, 2.19]; Odoric [@yc, 2.18]; Magaillans [@yc, 2.17]; Hammer, Ibn Baṭṭūṭa [@yc, 2.20].

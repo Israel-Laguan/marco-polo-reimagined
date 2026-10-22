@@ -58,9 +58,9 @@ Thus the western wonder-run from Male and Female stands in this chapter as the b
 
 [2] ◇ Seasonal March–May congress; boys sent at fourteen; bishop under Scotra’s archbishop; ambergris, fish, rice/flesh/milk. Bishopric detail suggests once-associated real sees; locality unstable. Do not collapse into Maldives without note (gazetteer lists Male / Maldives separately for ambergris–cowrie complex).
 
-[3] ◇ Amazon-legend parallels: Palladius Brahmans; Mahābhārata Amazons; Hiuen Tsang Kingdom of Western Women; Conti near Socotra; Fra Mauro *Mangla*/*Nebila*; Portuguese still attached the tale to Socotra. Kuria Muria / Abdul Kuri floated as candidates.
+[3] ◇ Amazon-legend parallels: Palladius Brahmans; Mahābhārata Amazons; Hiuen Tsang Kingdom of Western Women; Conti near Socotra; Fra Mauro *Mangla*/*Nebila*; Portuguese still attached the tale to Socotra. Kuria Muria / Abdul Kuri floated as candidates. As cited in Yule: Palladius, Hiuen Tsang, Conti, Fra Mauro [@yc, 3.31].
 
-[4] ✓ / ~ Scotra = Socotra; Christian community (Cosmas; Arab geographers; long Christian survival). ✓ / ~ Ramusian whale-hunt with barbed dart, buoy, ambergris from stomach, oil from head (sperm whale); Scotra as sole locus ~.
+[4] ✓ / ~ Scotra = Socotra; Christian community (Cosmas; Arab geographers; long Christian survival). ✓ / ~ Ramusian whale-hunt with barbed dart, buoy, ambergris from stomach, oil from head (sperm whale); Scotra as sole locus ~. As cited in Yule: Cosmas [@yc, 3.32].
 
 [5] ✓ / ~ Archbishop subject to Baudas (Nestorian Catholicos) — East-Syrian link historically sound; Polo’s exact hierarchy ~. ~ Corsairs sell plunder to Scotra Christians — pirate markets endemic; colour plausible. Aden-bound ships touch; gold purchase.
 
@@ -68,9 +68,9 @@ Thus the western wonder-run from Male and Female stands in this chapter as the b
 
 [7] ✓ / ✗ Madeigascar named as great southern island — first clear European naming of Madagascar ✓; four sheikhs, camel flesh daily, elephants/ivory, lions/leopards/bears ✗ for Madagascar fauna/diet, ✓ for Magadoxo / Somali / Zanj complex.
 
-[8] ★ Madagascar vs Magadoxo (Mogadishu) confusion. Ibn Baṭṭūṭa: hundreds of camels slaughtered daily at Makdashau; Brava twelve-shaikh oligarchy; ivory staple. Arab colonisation traces on Madagascar real but incomplete fit.
+[8] ★ Madagascar vs Magadoxo (Mogadishu) confusion. Ibn Baṭṭūṭa: hundreds of camels slaughtered daily at Makdashau; Brava twelve-shaikh oligarchy; ivory staple. Arab colonisation traces on Madagascar real but incomplete fit. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.32].
 
-[9] ✓ / ~ Strong southward current; Maabar ships 20 days out / >3 months return. ✓ Mozambique Channel / Cape Corrientes tradition (Kazwini; De Barros); ~ all-season permanence needs monsoon correction.
+[9] ✓ / ~ Strong southward current; Maabar ships 20 days out / >3 months return. ✓ Mozambique Channel / Cape Corrientes tradition (Kazwini; De Barros); ~ all-season permanence needs monsoon correction. As cited in Yule: Kazwini [@yc, 3.31]; De Barros [@yc, 3.32].
 
 [10] ◇ Ruc / Gryphon as eagle-form (not half-lion); wings 30 paces; quills 12 paces; lifts elephant. Persian/Arab wonder (*ʿAnqā*, *Sīmurgh*, Garuda, Sindbad); Aepyornis eggs and Malagasy rumour as localising circumstance.
 
@@ -80,11 +80,11 @@ Thus the western wonder-run from Male and Female stands in this chapter as the b
 
 [13] ✓ Black-headed white-bodied sheep (Aden–African type). ✓ Giraffe description (long neck/forelegs, spotted) — accurate enough for second-hand or menagerie sight. ✓ Ivory as staple trade of Zanj. ~ Ambergris.
 
-[14] ✗ War-elephants with castles; wine to madden them — wrong for African elephant (Masʿūdī: wild plenty, no tame use); Indian/Abyssinian jumble. ~ / ✗ Camel cavalry — ~ Beja Red Sea; ✗ as Zanzibar norm. ~ / ◇ Black lions.
+[14] ✗ War-elephants with castles; wine to madden them — wrong for African elephant (Masʿūdī: wild plenty, no tame use); Indian/Abyssinian jumble. ~ / ✗ Camel cavalry — ~ Beja Red Sea; ✗ as Zanzibar norm. ~ / ◇ Black lions. As cited in Yule: Masʿūdī [@yc, 3.32].
 
 [15] ~ 12,700 Indian Ocean islands — proverbial mariners’ round (Maldives 12,000 topos). ✓ Book’s own scheme: Greater India = Maabar–Kesmacoran (13 kingdoms, 10 described); Lesser = Champa–Mutfili (8).
 
-[16] ✓ / ~ Abash = Ḥabash / Abyssinia; “Middle India” = European/Oriental-Christian confusion of Ethiopia with India (Benjamin of Tudela; Cosmas’ “interior Indians”), not standard Arabic usage. ~ Six kings, three Christian / three Saracen — plural highland and lowland powers; neat triad. ? / ~ Hot-iron face-marks as baptism — persistent Latin allegation; Ludolf/Abba Gregory deny as sacrament; cautery vs branding debate. ◇ St Thomas preached in Abash before Maabar — apocryphal itinerary extension.
+[16] ✓ / ~ Abash = Ḥabash / Abyssinia; “Middle India” = European/Oriental-Christian confusion of Ethiopia with India (Benjamin of Tudela; Cosmas’ “interior Indians”), not standard Arabic usage. ~ Six kings, three Christian / three Saracen — plural highland and lowland powers; neat triad. ? / ~ Hot-iron face-marks as baptism — persistent Latin allegation; Ludolf/Abba Gregory deny as sacrament; cautery vs branding debate. ◇ St Thomas preached in Abash before Maabar — apocryphal itinerary extension. As cited in Yule: Benjamin of Tudela [@yc, 3.33]; Cosmas [@yc, 3.32].
 
 [17] ✓ / ~ Horses and daily war with Muslim lowland / Nubians — ✓ highland–Adel/Ifat pattern; ~ “Aden” naming.
 
@@ -92,7 +92,7 @@ Thus the western wonder-run from Male and Female stands in this chapter as the b
 
 [19] ? / ◇ Invasion with horse, foot, elephant-castles; victory in passes; month’s ravaging; retirement before stronger defiles. Narrative pathos and crusading moral; not independent chronicle of Aden 1288.
 
-[20] ? Abyssinian chronology strained; Aden confounded with Adel (Danākil / Zailaʿ). Resemblance to Amda Seyon’s wars (Bruce ~1312–16) too late for ~1298 dictation if Bruce holds; Salt/Pauthier shove dates back; Yule treats as type. ✗ / ~ Elephant-castles in Abyssinia — ✗ tamed native use late; ~ import claim in text (Ludolf: not tamed).
+[20] ? Abyssinian chronology strained; Aden confounded with Adel (Danākil / Zailaʿ). Resemblance to Amda Seyon’s wars (Bruce ~1312–16) too late for ~1298 dictation if Bruce holds; Salt/Pauthier shove dates back; Yule treats as type. ✗ / ~ Elephant-castles in Abyssinia — ✗ tamed native use late; ~ import claim in text (Ludolf: not tamed). As cited in Yule: Bruce, Salt [@yc, 3.35]; Pauthier [@yc, 3.31].
 
 [21] ✓ / ~ Giraffes, ostriches, fine cotton buckrams in Abash — ✓ fauna and cloth fame; ~ detail level. Victual: flesh, rice, milk, sesame.
 

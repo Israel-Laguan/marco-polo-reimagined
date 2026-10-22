@@ -44,17 +44,17 @@ So ends the Caucasian opening of Book I: from feverish Ayas to carpeted Turcoman
 
 [2] ✓ Lesser Hermenia’s king subject to the Tartar (Ilkhan); unhealthy / feverish Cilician coast. Hetumid Mongol submission well attested; Sanuto’s *terra infirma* and later travellers confirm the ecology. Historical skeleton: Mongol submission, Mamluk pressure (cf. I-3 Bundukdar), kingdom ended by Egypt 1375.
 
-[3] ✓ Ayas as major Venetian–Genoese hinge for inland spicery/silk. Pegolotti; tariffs; Prologue itinerary. ◇ / ~ Nobles once valiant, now given to drink — book colour (Geographic text); unverifiable sociology, likely Rustichello’s moralising. *Fra terre* as Italianism, not Euphrates.
+[3] ✓ Ayas as major Venetian–Genoese hinge for inland spicery/silk. Pegolotti; tariffs; Prologue itinerary. ◇ / ~ Nobles once valiant, now given to drink — book colour (Geographic text); unverifiable sociology, likely Rustichello’s moralising. *Fra terre* as Italianism, not Euphrates. As cited in Yule: Pegolotti [@yc, 1.1].
 
-[4] ✓ / ~ Turcomania: pastoral Turcomans + Armenian/Greek towns; carpets; *Turquan* horses; cities Conia, Savast, Casaria = Konya, Sivas, Kayseri. ✓ social pattern (Hayton/Ricold); ~ “finest carpets in the world” as trade hyperbole. ✓ Subject to Tartar of the Levant (Ilkhan over Seljuk Rûm). Genoese–Armenian tariff of 1288 mentions horses/mules at Ayas.
+[4] ✓ / ~ Turcomania: pastoral Turcomans + Armenian/Greek towns; carpets; *Turquan* horses; cities Conia, Savast, Casaria = Konya, Sivas, Kayseri. ✓ social pattern (Hayton/Ricold); ~ “finest carpets in the world” as trade hyperbole. ✓ Subject to Tartar of the Levant (Ilkhan over Seljuk Rûm). Genoese–Armenian tariff of 1288 mentions horses/mules at Ayas. As cited in Yule: Hayton [@yc, 1.1]; Ricold [@yc, 1.2].
 
-[5] ◇ / ? Turcomans “rude” / uncouth. Stereotype shared with Ricold (*homines bestiales*); motive disputed (Rustichello moralising vs Venetian/Genoese trade rivalry with Turkmen pastoral control of routes).
+[5] ◇ / ? Turcomans “rude” / uncouth. Stereotype shared with Ricold (*homines bestiales*); motive disputed (Rustichello moralising vs Venetian/Genoese trade rivalry with Turkmen pastoral control of routes). As cited in Yule: Ricold [@yc, 1.2].
 
-[6] ✓ / ~ Erzingan: buckrams, hot springs, archbishopric; Erzrum and Arjish as leading cities; summer Tartar pasture / extreme winter cold; Baiburt castle and silver on Trebizond–Tauris road. ✓ buckrams in Pegolotti/Uzzano (*bouqueran* = priced cotton stuff, not modern stiffening); ✓ fortress on that road; ~ exact mine locus (regional lead-silver, Gümüşhane orbit; *Masālik al-abṣār*); ~ springs less often confirmed on modern itineraries. Baiburt note smells of Black Sea mercantile axis more than single outbound footprints.
+[6] ✓ / ~ Erzingan: buckrams, hot springs, archbishopric; Erzrum and Arjish as leading cities; summer Tartar pasture / extreme winter cold; Baiburt castle and silver on Trebizond–Tauris road. ✓ buckrams in Pegolotti/Uzzano (*bouqueran* = priced cotton stuff, not modern stiffening); ✓ fortress on that road; ~ exact mine locus (regional lead-silver, Gümüşhane orbit; *Masālik al-abṣār*); ~ springs less often confirmed on modern itineraries. Baiburt note smells of Black Sea mercantile axis more than single outbound footprints. As cited in Yule: Pegolotti [@yc, 1.1].
 
 [7] ◇ Noah’s Ark on snow-capped Ararat; unclimbable summit. Traditional belief (Josephus onward); not observation of a relic. Pastoral snowmelt/grass below is observation folded into sacred geography.
 
-[8] ✓ Oil fountain: abundant naphtha for fuel and camel mange. Baku wells; Ricold, Barbaro, later production figures.
+[8] ✓ Oil fountain: abundant naphtha for fuel and camel mange. Baku wells; Ricold, Barbaro, later production figures. As cited in Yule: Ricold [@yc, 1.2].
 
 [9] ✗ Oil spring located on Armenia–Georgia confines. Accurate product, wrong placement — classic Book I pattern of merchant intelligence slotted into a schematic border.
 

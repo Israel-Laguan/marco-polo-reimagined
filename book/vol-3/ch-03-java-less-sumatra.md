@@ -54,15 +54,15 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 ## Notes
 
-[1] ✓ Java the Less = Sumatra; northern kingdoms chain after Pentam. Arab *Jawa* for Sumatra (Abū’l-Fidā; Ibn Battuta’s *Jáwah*). ✓ / ~ circuit ≥2,000 miles — order of magnitude; round figure. ✗ / ~ North Star invisible from northern Sumatra — absolute invisibility overstated for ~5°N; low altitude / “not used” pilot speech plausible.
+[1] ✓ Java the Less = Sumatra; northern kingdoms chain after Pentam. Arab *Jawa* for Sumatra (Abū’l-Fidā; Ibn Battuta’s *Jáwah*). ✓ / ~ circuit ≥2,000 miles — order of magnitude; round figure. ✗ / ~ North Star invisible from northern Sumatra — absolute invisibility overstated for ~5°N; low altitude / “not used” pilot speech plausible. As cited in Yule: Abū’l-Fidā [@yc, 3.9].
 
-[2] ~ Eight kingdoms / eight kings; many languages. Coast polities numerous (De Barros 29); “eight” schematic. ✓ Book’s own limit: six “at this side”; two farther-side omitted because Marco “never was there.”
+[2] ~ Eight kingdoms / eight kings; many languages. Coast polities numerous (De Barros 29); “eight” schematic. ✓ Book’s own limit: six “at this side”; two farther-side omitted because Marco “never was there.”. As cited in Yule: De Barros [@yc, 3.9].
 
-[3] ✓ Ferlec = Perlak; coastal Islam from Saracen merchants. Strong toponym and conversion timing (Malay Chronicle; Rashid *Barlak*; Diamond Point). ✓ / ~ Hill-people cannibalism inland — Batta ritual anthropophagy long attested; Book’s “beasts” framing. ◇ Morning-object worship — wide ethnographic topos.
+[3] ✓ Ferlec = Perlak; coastal Islam from Saracen merchants. Strong toponym and conversion timing (Malay Chronicle; Rashid *Barlak*; Diamond Point). ✓ / ~ Hill-people cannibalism inland — Batta ritual anthropophagy long attested; Book’s “beasts” framing. ◇ Morning-object worship — wide ethnographic topos. As cited in Yule: Malay Chronicle [@yc, 3.9].
 
-[4] Gazetteer: Ferlec *likely_visited*. Comparative: Junghuhn; Anderson; Conti *Batech*; Barbosa; De Barros; Arab *Relations* (Al-Ramni).
+[4] Gazetteer: Ferlec *likely_visited*. Comparative: Junghuhn; Anderson; Conti *Batech*; Barbosa; De Barros; Arab *Relations* (Al-Ramni). As cited in Yule: Junghuhn, Conti, Barbosa, De Barros [@yc, 3.9].
 
-[5] ✓ / ? Basma = Pasai / Pacem. Usual ID; Schlegel Pasěman alternative noted. ✓ / ~ Nominal Kaan subjecthood without tribute — Chinese tribute lists 1286; polite fiction of distance. ✓ Wild elephants in northern Sumatra.
+[5] ✓ / ? Basma = Pasai / Pacem. Usual ID; Schlegel Pasěman alternative noted. ✓ / ~ Nominal Kaan subjecthood without tribute — Chinese tribute lists 1286; polite fiction of distance. ✓ Wild elephants in northern Sumatra. As cited in Yule: Schlegel [@yc, 3.9].
 
 [6] ✓ “Unicorn” = rhinoceros seen from life — mud, hair, boar-head, horn as field sketch. ~ / ✗ Exactly one horn; tongue as chief weapon — one-horn rhetoric; Sumatran rhino typically two-horned; tongue-prickle folklore. ✓ Rejection of virgin-captured unicorn legend — Marco vs Physiologus, notable.
 
@@ -74,18 +74,18 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 [10] ~ Stockades / ditches against man-eaters; locals supply food — plausible castaway practice; timber coast real. ✓ Palm toddy (gomuti) and coconuts as described.
 
-[11] ★★★ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering; will recur for Cocachin fleet (Vol. III-9). Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment.
+[11] ★★★ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering; will recur for Cocachin fleet (Vol. III-9). Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment. As cited in Yule: Odoric [@yc, 3.9].
 
 [12] ◇ / ? Dagroian funerary cannibal complex. Report-type; site and literal accuracy vs ritual/topos mix. Soft ID near Pedir / Chinese tattooed-face kingdom.
 
 [13] ◇ / ~ Ransomless foreigners eaten — stock Ocean-island charge; Batta parallels exist. Worms-and-soul rationale may preserve ritual logic under atrocity framing.
 
-[14] ★ Dispute: cannibal customs — topos vs ritual misreading (Dagroian; Ferlec hills; Batta). Parallels: Herodotus Paddaei; Odoric Dondin; Conti; Raffles.
+[14] ★ Dispute: cannibal customs — topos vs ritual misreading (Dagroian; Ferlec hills; Batta). Parallels: Herodotus Paddaei; Odoric Dondin; Conti; Raffles. As cited in Yule: Herodotus [@yc, 3.10]; Odoric, Conti [@yc, 3.9].
 
-[15] ✓ Lambri = Lamuri near Aceh headland. Chinese *Nanwuli* 1286 tribute; Malay Chronicle; Odoric Lamori; De Barros Lambrij. ✓ / ~ Brazil cultivated and transplanted as told. ~ Brazil seed sown at Venice failed — personal anecdote; climate reason plausible. Gazetteer: *likely_visited*.
+[15] ✓ Lambri = Lamuri near Aceh headland. Chinese *Nanwuli* 1286 tribute; Malay Chronicle; Odoric Lamori; De Barros Lambrij. ✓ / ~ Brazil cultivated and transplanted as told. ~ Brazil seed sown at Venice failed — personal anecdote; climate reason plausible. Gazetteer: *likely_visited*. As cited in Yule: Malay Chronicle, Odoric, De Barros [@yc, 3.9].
 
-[16] ✗ / ◇ Tailed men in Lambri mountains. Marvel; Archipelago commonplace (Kazwini; Marsden *Orang Gugu*; Ctesias; Ptolemy Satyrs); soft ethnographic core (interior peoples; costume) under wonder-label. ★ Dispute: tailed / hairy men — marvel ◇.
+[16] ✗ / ◇ Tailed men in Lambri mountains. Marvel; Archipelago commonplace (Kazwini; Marsden *Orang Gugu*; Ctesias; Ptolemy Satyrs); soft ethnographic core (interior peoples; costume) under wonder-label. ★ Dispute: tailed / hairy men — marvel ◇. As cited in Yule: Kazwini, Marsden, Ptolemy [@yc, 3.9]; Ctesias [@yc, 3.11].
 
-[17] ✓ Fansur = Barus; *Canfora Fansuri* best, gold-weight price. Arab *Fansūrī* camphor from 9th c. (*Relations*; Masʿūdī; Avicenna) — ★★★ trade-fact. Gazetteer: *reported_only*.
+[17] ✓ Fansur = Barus; *Canfora Fansuri* best, gold-weight price. Arab *Fansūrī* camphor from 9th c. (*Relations*; Masʿūdī; Avicenna) — ★★★ trade-fact. Gazetteer: *reported_only*. As cited in Yule: Masʿūdī, Avicenna [@yc, 3.11].
 
 [18] ✓ / ~ Sago “flour trees”; party ate bread. ✓ sago technology (*Metroxylon* / palm pith starch); ~ whether tasted at Fansur or during Samara wait. Soft close toward Gauenispola and Nicobar–Andaman–Seilan arc.

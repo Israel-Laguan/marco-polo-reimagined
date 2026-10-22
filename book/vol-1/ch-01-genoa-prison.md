@@ -58,11 +58,11 @@ When Marco Polo walked free again, the Republic’s pride was bruised but its po
 
 [4] ✓ Battle of Curzola, 7 Sept. 1298; heavy Venetian defeat; large prisoner haul. Well documented as an event. Polo’s inclusion among the prisoners: see [3] and [5].
 
-[5] ? / ✗ Capture traditions. Jacopo d’Acqui (*Imago Mundi*) reports Marco taken in a Genoese sea-fight and making a book in Genoa, but assigns the capture to Ayas (Layaz) dated impossibly (his 1296 / battle of May 1294, before Polo’s c. 1295 return). Yule rejected Jacopo’s *place* while treating the notice as independent evidence of *a* Genoese capture; Curzola is the engagement that fits the preamble’s year. Paulin Paris preferred cooler agnosticism as to motive of detention.
+[5] ? / ✗ Capture traditions. Jacopo d’Acqui (*Imago Mundi*) reports Marco taken in a Genoese sea-fight and making a book in Genoa, but assigns the capture to Ayas (Layaz) dated impossibly (his 1296 / battle of May 1294, before Polo’s c. 1295 return). Yule rejected Jacopo’s *place* while treating the notice as independent evidence of *a* Genoese capture; Curzola is the engagement that fits the preamble’s year. Paulin Paris preferred cooler agnosticism as to motive of detention. As cited in Yule: Jacopo, Paulin Paris [@yc, Intro. § 37].
 
 [6] ✓ Arrival of the Genoese fleet in Genoa, 16 Oct. 1298; public celebration. Prisoners’ treatment disputed between Genoese and Venetian tellings — not central to the book’s origin claim.
 
-[7] ✓ / ~ Rustichello = Arthurian compiler “Maistre Rusticien de Pise.” Shared unusual preamble formula (*Seigneurs Empereurs et Princes…*); consensus of Paulin Paris, Yule, Benedetto [-@benedetto1928milione], later editors. Meloria captivity since 1284: ~ fair conjecture only, not proven.
+[7] ✓ / ~ Rustichello = Arthurian compiler “Maistre Rusticien de Pise.” Shared unusual preamble formula (*Seigneurs Empereurs et Princes…*); consensus of Paulin Paris, Yule, Benedetto [-@benedetto1928milione], later editors. Meloria captivity since 1284: ~ fair conjecture only, not proven. As cited in Yule: Paulin Paris [@yc, Intro. § 37].
 
 [8] ✓ Dictation language: court French / Franco-Italian romance register of the early tradition. Not Venetian dialect.
 
@@ -76,6 +76,6 @@ When Marco Polo walked free again, the Republic’s pride was bruised but its po
 
 [13] ✓ Peace of May–July 1299; mutual release of prisoners (diplomatic record). ~ Polo free by end of August 1299, back at S. Giovanni Grisostomo — reasonable inference from ratification dates; exact day unknown. Rustichello among Pisan releases after 31 July 1299 truce: inference.
 
-[14] ✗ Ramusio’s kindly Genoese gentleman as historical helper — likely patriotic distortion of the Pisan scribe. ✓ Early circulation in Polo’s lifetime: MS tradition, Pipino’s Latin, notices such as Jacopo’s (including the deathbed anecdote that he had not told half of what he had seen — reception history, not stenography).
+[14] ✗ Ramusio’s kindly Genoese gentleman as historical helper — likely patriotic distortion of the Pisan scribe. ✓ Early circulation in Polo’s lifetime: MS tradition, Pipino’s Latin, notices such as Jacopo’s (including the deathbed anecdote that he had not told half of what he had seen — reception history, not stenography). As cited in Yule: Pipino [@yc, Intro. § 18]; Jacopo [@yc, Intro. § 37].
 
 [15] ? Recoverability of a pure 1298–99 French original. Early French recoverable in types (Benedetto [-@benedetto1928milione]; Moule–Pelliot [-@moule1938description]; Dutschke [-@dutschke1993francesco] on MS tradition); “the” autograph dictation not extant. This retelling follows Yule–Cordier English as working base, eclectic toward the Geographic Old French line; Ramusian expansions secondary unless noted.

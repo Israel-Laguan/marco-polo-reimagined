@@ -68,29 +68,29 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [2] ✓ Diamonds washed in torrent beds after rains — Golconda / Kistna alluvium practice.
 
-[3] ◇ Flesh–eagle–serpent valley gathering — ancient migratory legend, not mining fact (Epiphanius; Edrisi; Kazwini; Sindbad; Conti). ✗ / ~ Diamonds unique to Mutfili; flower to Great Kaan — exclusivity false; elite gem drain eastward plausible. ✓ Spider-web buckrams of Mutfili — long muslin fame (Masulipatam / Masalia Periplus).
+[3] ◇ Flesh–eagle–serpent valley gathering — ancient migratory legend, not mining fact (Epiphanius; Edrisi; Kazwini; Sindbad; Conti). ✗ / ~ Diamonds unique to Mutfili; flower to Great Kaan — exclusivity false; elite gem drain eastward plausible. ✓ Spider-web buckrams of Mutfili — long muslin fame (Masulipatam / Masalia Periplus). As cited in Yule: Epiphanius, Edrisi, Kazwini, Conti, Periplus [@yc, 3.19].
 
 [4] ★ Dispute: diamond-gathering legend ◇ over mining fact ★★.
 
 [5] ? / ~ Lar as Brahman homeland west of St Thomas — Lāṭ geography real; fit to Madras “west” poor. ~ Abraiaman as world’s most truthful merchants — ideal + Banyan conflation; medieval chorus of praise. ✓ Sacred thread; vegetarian chastity — standard Brahman marks.
 
-[6] ✓ / ~ Shadow / *Choiach* / sneeze / swallow omens — astrological culture; exact weekday shadow table soft. *Choiach* = Tamil *tiyācham* / *Tyājya* unlucky hour (Caldwell). Soli = Chola; double-price pearl purchase.
+[6] ✓ / ~ Shadow / *Choiach* / sneeze / swallow omens — astrological culture; exact weekday shadow table soft. *Choiach* = Tamil *tiyācham* / *Tyājya* unlucky hour (Caldwell). Soli = Chola; double-price pearl purchase. As cited in Yule: Caldwell [@yc, 3.20].
 
 [7] ✓ / ~ Chughi mercury–sulphur longevity drink — rasāyana tradition; 150–200 years soft. ✓ / ~ Naked ox-ascetics; cow-dung ash; dry leaves only — jogi / Digambara-adjacent report.
 
 [8] ◇ / ~ Novice chastity-test with temple girls — traveller topos; possible. ★ Dispute: Brahman portrait — admiration (truth, chastity, longevity) mixed with Latin puzzlement and “devilry” close; merchant-Brahman conflation.
 
-[9] Soft bridge to Cail. Comparative for Lar/Chughi: Yule–Cordier III.xx; Caldwell; al-Bīrūnī background.
+[9] Soft bridge to Cail. Comparative for Lar/Chughi: Yule–Cordier III.xx; Caldwell; al-Bīrūnī background. As cited in Yule: Caldwell [@yc, 3.20]; al-Bīrūnī [@yc, Intro. § 82].
 
-[10] ✓ Cail as Arabian horse-port of Maabar — Caldwell Old Kāyal on Tāmraparṇī; Conti *Cahila*; Barbosa. ✓ / ~ Five brother kings; mother stops wars — plural Pandya powers; mother melodrama soft. Gazetteer: *visited*.
+[10] ✓ Cail as Arabian horse-port of Maabar — Caldwell Old Kāyal on Tāmraparṇī; Conti *Cahila*; Barbosa. ✓ / ~ Five brother kings; mother stops wars — plural Pandya powers; mother melodrama soft. Gazetteer: *visited*. As cited in Yule: Caldwell [@yc, 3.20]; Conti [@yc, 3.19]; Barbosa [@yc, 3.21].
 
 [11] ✓ / ~ Betel chewing with lime; spit-insult duel — *tembul*; duel protocol Ramusian.
 
-[12] ✓ Coilum = Quilon pepper/brazil/indigo port — major medieval pepper mart. ✗ Egg boiled in river by sun heat — hyperbole. ✗ Coilum before Comari in itinerary — geographic dislocation. Nestorians; Ibn Battuta; Jordanus bishopric *Columbum*; Kublai missions (*Kiulan*).
+[12] ✓ Coilum = Quilon pepper/brazil/indigo port — major medieval pepper mart. ✗ Egg boiled in river by sun heat — hyperbole. ✗ Coilum before Comari in itinerary — geographic dislocation. Nestorians; Ibn Battuta; Jordanus bishopric *Columbum*; Kublai missions (*Kiulan*). As cited in Yule: Jordanus [@yc, 3.20].
 
 [13] Soft colour on Coilum fauna, palm-sugar wine, cousin and levirate marriage — Book ethnography of the pepper coast.
 
-[14] ✓ / ~ Comari: Pole Star ~1 cubit offshore — latitude sense; cubit measure soft. Cape Comorin / Kumārī; Abulfeda limit Malabar–Maʿbar.
+[14] ✓ / ~ Comari: Pole Star ~1 cubit offshore — latitude sense; cubit measure soft. Cape Comorin / Kumārī; Abulfeda limit Malabar–Maʿbar. As cited in Yule: Abulfeda [@yc, 3.20].
 
 [15] ★ Dispute: geographic dislocations (Coilum before Comari; Melibar/Gozurat order). Key for Cocachin-fleet landfall argument (Vol. III-9).
 
@@ -112,4 +112,4 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [24] ★ Dispute: Somnath “gates” — later communal mythography (Ellenborough); keep medieval port scale. Outside Polo’s narrative; Notes only.
 
-[25] ✓ Kesmacoran = Kij-Makran; last of India west/northwest. Mixed Idolater/Saracen traders; rice, corn, flesh, milk. ✓ Greater India = Maabar–Kesmacoran seaboard (Book’s own definition). ✓ Interior kingdoms omitted deliberately. Soft close toward Male/Female Isles (III-7). Comparative: Yule–Cordier III.xix–xxx; Rashid; Wassaf; Ibn Battuta; Abulfeda; Barbosa; Conti; Caldwell on Kāyal; al-Bīrūnī; Ma Huan (later Ming); Vogel [-@vogel2013marco] trade notes.
+[25] ✓ Kesmacoran = Kij-Makran; last of India west/northwest. Mixed Idolater/Saracen traders; rice, corn, flesh, milk. ✓ Greater India = Maabar–Kesmacoran seaboard (Book’s own definition). ✓ Interior kingdoms omitted deliberately. Soft close toward Male/Female Isles (III-7). Comparative: Yule–Cordier III.xix–xxx; Rashid; Wassaf; Ibn Battuta; Abulfeda; Barbosa; Conti; Caldwell on Kāyal; al-Bīrūnī; Ma Huan (later Ming); Vogel [-@vogel2013marco] trade notes. As cited in Yule: Wassaf [@yc, 3.26]; Abulfeda, Caldwell, Ma Huan [@yc, 3.20]; Barbosa [@yc, 3.21]; Conti [@yc, 3.19]; al-Bīrūnī [@yc, Intro. § 82].

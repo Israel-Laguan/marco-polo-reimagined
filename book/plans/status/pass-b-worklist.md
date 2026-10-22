@@ -6,7 +6,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-01-genoa-prison.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 61 | via-yc | Jacopo | no edition chosen; cite as reported in YC | YC Intro. § 37 | intro | dence, though it is curiously indirect. The Dominican Friar Jacopo of Acqui was a contemporary of Polo’s, and was the author of a somewhat obscure Chronicle called _Imago |
 | 61 | via-yc | Jacopo | no edition chosen; cite as reported in YC | YC Intro. § 37 | intro | dence, though it is curiously indirect. The Dominican Friar Jacopo of Acqui was a contemporary of Polo’s, and was the author of a somewhat obscure Chronicle called _Imago |
@@ -17,7 +17,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-02-house-of-polo.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 65 | via-yc | Hayton | no edition chosen; cite as reported in YC | YC Prol. 2 | in range | an, _Olao_, by Pachymeres and Gregoras Χαλαὺ and Χαλαοῦ, by Hayton _Haolon_, by Ibn Batuta _Huláún_, as well as in a letter of Hulaku’s own, as given by Makrizi. The war |
 | 65 | via-yc | Vámbéry | vambery1864travels | YC Prol. 3 | in range | TE 1.—Hayton also calls Bokhara a city of Persia, and I see Vámbéry says that, up till the conquest by Chinghiz, Bokhara, Samarkand, Balkh, etc., were considered to belon |
@@ -26,7 +26,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-03-second-setting-forth.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 61 | via-yc | Makrizi | no edition chosen; cite as reported in YC | YC Prol. 12 | in range | ation that I can find lies in the following facts stated by Makrizi:— On the 13th Safar, A.H. 670 (20th September 1271), Bundúḳdár arrived unexpectedly at Damascus, and a |
 | 73 | via-yc | Pauthier | pauthier1865livre | YC Prol. 15 | in range | hell, _China Review_, xxiv. II. pp. 65–68.)—H. Y. and H. C. Pauthier supposes Mark’s four acquisitions to have been _Báshpah-Mongol, Arabic, Uighúr_, and _Chinese_. I ent |
@@ -35,7 +35,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-04-hermenia-georgiania.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 47 | via-yc | Pegolotti | evans1936pratica | YC 1.1 | in range | ith Tabriz, _viâ_ Sivas, Erzingan, and Erzrum, as we see in Pegolotti. Elsewhere, too, in Polo we find the phrase _fra terre_ used, where Euphrates could possibly have no |
 | 49 | via-yc | Hayton | no edition chosen; cite as reported in YC | YC 1.1 | in range | mpire in 1198. The kingdom was at its zenith under Hetum or Hayton I., husband of Leon’s daughter Isabel (1224–1269); he was, however, prudent enough to make an early sub |
@@ -46,7 +46,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-05-mausul-baudas.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 63 | via-yc | Ricold | no edition chosen; cite as reported in YC | YC 1.5 | in range | ten in our text (from G. T.) _Jatolic_, by Fr. Burchard and Ricold _Jaselic_, stands for Καθολικóς. No doubt it was originally _Gáthalík_, but altered in pronunciation by |
 | 69 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 1.6 | in range | ity on the mainland, and identical from Síráf. He refers to Ibn Batuta (II. 244), who certainly does speak of visiting “the city of Kais, called also Síráf.” And Polo, ne |
@@ -60,7 +60,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-06-tauris-persia.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 49 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 1.11 | in range | ch never was included in ’IRÁK. But it may be observed that Ibn Batuta generally calls the Mongol Ilkhan of Persia _Sáhib_ or _Malik ul-’Irák_, and as Tabriz was the capi |
 | 49 | via-yc | Odoric | yule1913cathay | YC 1.11 | in range | s for sale to the Tartar ladies, who bought great numbers. [Odoric (ed. Cordier) speaks also of the great trade of Tabriz.] Tabriz maintained a large population and prosp |
@@ -73,7 +73,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-07-kerman-hormos.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 51 | via-yc | Edrisi | no edition chosen; cite as reported in YC | YC 1.17 | in range | that Polo does not mention indigo at Kermán.—H. C.] NOTE 3.—Edrisi says that excellent iron was produced in the “cold mountains” N.W. of Jiruft, _i.e._ somewhere south of |
 | 55 | via-yc | Houtum-Schindler | no edition chosen; cite as reported in YC | YC 1.16 | in range | office_.) [The difficulty has now been explained by General Houtum-Schindler in a valuable paper published in the _Jour. Roy. As. Soc._ N.S. XIII., October, 1881, p. 490. |
@@ -82,7 +82,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-08-arbre-sec-old-man.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 45 | via-yc | Houtum-Schindler | no edition chosen; cite as reported in YC | YC 1.21 | in range | _Garcia_, f. 21 v.; _Eng. Cyc._, art. _Zinc_.) [General A. Houtum-Schindler (_Jour. R. As. Soc._ N.S. XIII. October, 1881, p. 497) says: “The name Tútíá for collyrium is |
 | 45 | via-yc | Khanikoff | no edition chosen; cite as reported in YC | YC 1.20 | in range | NOTE 2.—This description of the Desert of Kermán, says Mr. Khanikoff, “is very correct. As the only place in the Desert of Lút where water is found is the dirty, salt, b |
@@ -107,7 +107,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-09-balc-badashan.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 53 | via-yc | Pauthier | pauthier1865livre | YC 1.26 | in range | l che je vos ai contés, adunc treuve l’en une cité_,” etc., Pauthier’s text has “_Et quant l’en a chevauchié_ les vi cités, _si treuve l’en une cité qui a nom Sapurgan_,” |
 | 55 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 1.26 | in range | tory of Herat, which speaks of them almost in Polo’s words. Ibn Batuta gives a like account of the melons of Khárizm: “The surprising thing about these melons is the way |
@@ -134,7 +134,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-10-pamier-cotan.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 51 | via-yc | Trotter | no edition chosen; cite as reported in YC | YC 1.32 | in range | race.{3} NOTE 1.—[“The length of Little Pamir, according to Trotter, is 68 miles.... To find the twelve days’ ride in the plain of Marco Polo, it must be admitted, says S |
 | 51 | via-yc | Wood | wood1841personal | YC 1.32 | in range | stream of the Oxus, known locally as the Panja, along which Wood also travelled, followed of late by the Mirza and Faiz Bakhsh. It is true that the river is reached from |
@@ -168,7 +168,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-11-lop-tangut.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 49 | via-yc | Grenard | dutreuil1897mission | YC 1.38 | in range | t at the time of Hiuen Tsang. (Cf. _Grenard_, III. p. 146.) Grenard says (pp. 183–184) that he examined the remains of what is called the old town of Charchan, traces of |
 | 49 | via-yc | Johnson | no edition chosen; cite as reported in YC | YC 1.38 | in range | Lopp is remarkable for a salt-water lake in its vicinity.” Johnson, speaking of a road from Tibet into Khotan, says: “This route ... leads not only to Ilchi and Yarkand, |
@@ -191,13 +191,12 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-12-caracoron-tenduc.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 63 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC 1.45 | in range | ch probably represents Etzina. Yetsina is also mentioned in Gaubil’s History of Chinghiz as taken by that conqueror in 1226, on his last campaign against Tangut. This cap |
 | 65 | via-yc | Rubruck | jackson1990mission | YC 1.46 | in range | same as the _Kao-ch’ê_, from whom descended the _Cangle_ of Rubruck. (_T’ang shu_, Bk. 217, i.; _Ma Tuan-lin_, Bk. 344, 9, Bk. 347, 4.) As to the Merkits, or Merkites, th |
 | 67 | via-yc | Carpini | no edition chosen; cite as reported in YC | YC 1.46 | in range | , Kúblái transferred his capital to _Ta-Tu_ (Peking). Plano Carpini (1246) is the first Western traveller to mention it by name which he writes _Caracoron_; he visited th |
 | 67 | via-yc | Rubruck | jackson1990mission | YC 1.46 | in range | same as the _Kao-ch’ê_, from whom descended the _Cangle_ of Rubruck. (_T’ang shu_, Bk. 217, i.; _Ma Tuan-lin_, Bk. 344, 9, Bk. 347, 4.) As to the Merkits, or Merkites, th |
-| 73 | via-yc | Secret History | derachewiltz2004secret |  | not found |  |
 | 77 | via-yc | Rubruck | jackson1990mission | YC 1.46 | in range | same as the _Kao-ch’ê_, from whom descended the _Cangle_ of Rubruck. (_T’ang shu_, Bk. 217, i.; _Ma Tuan-lin_, Bk. 344, 9, Bk. 347, 4.) As to the Merkits, or Merkites, th |
 | 79 | via-yc | Sanang Sechen | no edition chosen; cite as reported in YC | YC 1.46 | in range | _ or _Niuché_, and by the Mongols _Churché_, or as it is in Sanang Setzen, _Jurchid_. The country in question is several times mentioned by Rashiduddin as Churché. The fo |
 | 85 | via-yc | Palladius | palladius1876elucidations | YC 1.46 | in range | 45–6; 334). Where was Karákorum situated? The Archimandrite Palladius is very prudent (_l.c._ p. 11): “Everything that the studious Chinese authors could gather and say o |
@@ -211,14 +210,13 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/ch-13-chandu.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 51 | via-yc | Palladius | palladius1876elucidations | YC 1.61 | in range | king_, _i.e._ “the capital on the Loan River,” according to Palladius, p. 26.—H. C.]. The ruins still exist, in about lat. 40° 22′, and a little west of the longitude of |
 | 53 | via-yc | Bushell | paper on Shangdu (1872/1875), not identified | YC 1.61 | in range | and since then by no European traveller till 1872, when Dr. Bushell of the British Legation at Peking, and the Hon. T. G. Grosvenor, made a journey thither from the capit |
 | 53 | via-yc | Rubruck | jackson1990mission | YC 1.61 | in range | t took a thousand forms.” (_Vie et Voyages_, 157.) NOTE 3.—[Rubruck says (_Rockhill_, p. 248): “I saw also the envoy of a certain Soldan of India, who had brought eight l |
 | 55 | via-yc | Altan Tobchi | no edition chosen; cite as reported in YC | YC 1.51 | elsewhere | an ancient custom), in order to adore Chingiz Khan’s tomb. Altan tobchi (translated into Russian by Galsan Gomboeff), in relating the history of the Mongols after their |
 | 55 | via-yc | Palladius | palladius1876elucidations | YC 1.61 | in range | king_, _i.e._ “the capital on the Loan River,” according to Palladius, p. 26.—H. C.]. The ruins still exist, in about lat. 40° 22′, and a little west of the longitude of |
-| 55 | via-yc | Tsung tien | no edition chosen; cite as reported in YC |  | not found |  |
 | 57 | via-yc | Bushell | paper on Shangdu (1872/1875), not identified | YC 1.61 | in range | and since then by no European traveller till 1872, when Dr. Bushell of the British Legation at Peking, and the Hon. T. G. Grosvenor, made a journey thither from the capit |
 | 59 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC Prol. 15 | elsewhere | iscussion. The Chronicle of the Mongol Emperors rendered by Gaubil mentions, as characters used in their Empire, the Uíghúr, the Persian and Arabic, that of the Lamas (Ti |
 | 59 | via-yc | Palladius | palladius1876elucidations | YC 1.61 | in range | king_, _i.e._ “the capital on the Loan River,” according to Palladius, p. 26.—H. C.]. The ruins still exist, in about lat. 40° 22′, and a little west of the longitude of |
@@ -240,7 +238,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-1/front-01-world-before-the-road.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 64 | by hand | Allsen | Allsen: context not matched (allsen1997commodity;allsen2006royal) |  | — |  |
 | 72 | via-yc | Carpini | no edition chosen; cite as reported in YC | YC Intro. § 16 | intro | sia had already been reported in Europe by the Friars Plano Carpini (1246) and William Rubruquis (1253), who had not indeed reached its frontiers, but had met with its pe |
@@ -250,7 +248,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-01-cublay-nayan.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 59 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC 2.4 | in range | 2.—This circumstance is mentioned in the extract below from Gaubil. He _may_ have taken it from Polo, as it is not in Pauthier’s Chinese extracts; but Gaubil has other fa |
 | 59 | via-yc | Yuan Shi | no edition chosen; cite as reported in YC | YC 2.34 | elsewhere | kingdom of Tangut, i. 282n Yuen ming-yuen, palace, i. 307n Yuen shi, History of Mongol Dynasty in China, i. 115n, 248n, 295n, ii. 95n Yugria, or Yughra, in the Far North |
@@ -270,7 +268,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-02-person-palace.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 59 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC 2.8 | in range | g to Hammer’s authority (Rashid?) Kúblái had _seven_ wives; Gaubil’s Chinese sources assign him _five_, with the title of empress (_Hwang-heu_). Of these the best beloved |
 | 59 | via-yc | Hammer | hammer1842geschichte | YC 2.8 | in range | _D’Ohsson_, II. 475; _Erdmann_, 252.) NOTE 2.—According to Hammer’s authority (Rashid?) Kúblái had _seven_ wives; Gaubil’s Chinese sources assign him _five_, with the ti |
@@ -295,7 +293,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-03-feasts-keshican.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 49 | via-yc | Odoric | yule1913cathay | YC 2.12 | in range | ransl. by F. Gladwin_, Calcutta, 1788, pp. 166–167).] Friar Odoric speaks of the four barons who kept watch by the Great Kaan’s side as the _Cuthé_, which probably repres |
 | 49 | via-yc | Palladius | palladius1876elucidations | YC 1.34 | elsewhere | ravers l’Asie centrale_, 114–115.—H. C.] [The Archimandrite Palladius (_Chinese Recorder_, VI. p. 108) quotes from the _Chi shun Chin-kiang chi_ (Description of Chin-Kian |
@@ -306,7 +304,6 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 | 55 | via-yc | Odoric | yule1913cathay | YC 2.12 | in range | ransl. by F. Gladwin_, Calcutta, 1788, pp. 166–167).] Friar Odoric speaks of the four barons who kept watch by the Great Kaan’s side as the _Cuthé_, which probably repres |
 | 55 | via-yc | Rubruck | jackson1990mission | YC 2.13 | in range | dividual. (_Athenaeus_, IV. 39, _Yonge’s Transl._) [Compare Rubruck’s account, Rockhill’s ed., p. 210: “The Chan sits in a high place to the north, so that he can be seen |
 | 57 | via-yc | Carpini | no edition chosen; cite as reported in YC | YC 2.13 | in range | y Odoric, as well as by Makrizi, by Rubruquis, and by Plano Carpini. According to the latter the breach of it was liable to be punished with death. The prohibition to tre |
-| 57 | via-yc | Ch’ue keng lu | no edition chosen; cite as reported in YC |  | not found |  |
 | 57 | via-yc | Makrizi | no edition chosen; cite as reported in YC | YC 2.13 | in range | tiquette is specially noticed also by Odoric, as well as by Makrizi, by Rubruquis, and by Plano Carpini. According to the latter the breach of it was liable to be punishe |
 | 57 | via-yc | Michie | michie1864siberian | YC 2.13 | in range | ore than this survives, as is evident from a passage in Mr. Michie’s narrative: “There is a right and a wrong way of approaching a _yourt_ also. Outside the door there ar |
 | 57 | via-yc | Odoric | yule1913cathay | YC 2.12 | in range | ransl. by F. Gladwin_, Calcutta, 1788, pp. 166–167).] Friar Odoric speaks of the four barons who kept watch by the Great Kaan’s side as the _Cuthé_, which probably repres |
@@ -339,7 +336,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-04-hunt-traffic.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 61 | via-yc | Magaillans | no edition chosen; cite as reported in YC | YC 2.17 | in range | making of equipments for the Emperor’s army.{1} NOTE 1.—So Magaillans: “Game is so abundant, especially at the capital, that every year during the three winter months yo |
 | 61 | via-yc | Palladius | palladius1876elucidations | YC 2.19 | in range | d brought a name with them, like _Boule-dogues_ in France. [Palladius (p. 46) says that _Chinuchi_ or _Cunici_ “have no resemblance with any of the names found in the _Yu |
@@ -363,7 +360,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-05-ahmad-paper-coal.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 65 | via-yc | De Mailla | no edition chosen; cite as reported in YC | YC 2.23 | in range | the orders of Kúblái. The Chinese authorities in Gaubil and De Mailla speak strongly of his oppressions, but only in general terms, and without affording such particulars |
 | 65 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC 2.23 | in range | ting under the orders of Kúblái. The Chinese authorities in Gaubil and De Mailla speak strongly of his oppressions, but only in general terms, and without affording such |
@@ -402,7 +399,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-06-pulisanghin-sindafu.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 55 | via-yc | Bretschneider | bretschneider1888mediaeval | YC 2.35 | in range | and the remainder soon fell. [Father Intorcetta, quoted by Bretschneider (_Peking_, p. 53), gives the 25th of July, 1668, as the date of the destruction of the bridge, w |
 | 55 | via-yc | Lecomte | no edition chosen; cite as reported in YC | YC 2.35 | in range | ing_, p. 50.)—H. C.] It is described both by Magaillans and Lecomte, with some curious discrepancies, whilst each affords particulars corroborative of Polo’s account of t |
@@ -416,7 +413,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-07-tebet-carajan.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 61 | via-yc | Bretschneider | bretschneider1888mediaeval | YC 2.45 | in range | oud as a musket.” (_Lives of the Lindsays_, III. 191.) [Dr. Bretschneider (_Hist. of Bot. Disc._ I. p. 3) says: “In corroboration of Polo’s statement regarding the explos |
 | 61 | via-yc | Hooker | hooker1854himalayan | YC 2.45 | in range | ions produced when burning bamboos, I may adduce Sir Joseph Hooker’s Himalayan Journals (edition of 1891, p. 100), where in speaking of the fires in the jungles, he says: |
@@ -436,7 +433,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-08-mien-bangala.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 63 | via-yc | Yuan shi | no edition chosen; cite as reported in YC | YC 2.34 | elsewhere | kingdom of Tangut, i. 282n Yuen ming-yuen, palace, i. 307n Yuen shi, History of Mongol Dynasty in China, i. 115n, 248n, 295n, ii. 95n Yugria, or Yughra, in the Far North |
 | 65 | via-yc | Baber | baber1882travels | YC 2.52 | in range | ly full detail of the relations between the two countries. [Baber writes (p. 173): “Biot has it that Yung-ch’ang was first established by the Mings, long subsequent to th |
@@ -449,7 +446,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-09-caugigu-cuiju.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 59 | via-yc | Devéria | no edition chosen; cite as reported in YC | YC 2.58 | in range | rians of the Mongol Annals. (_Yuen-shi lei-pien_, quoted by Devéria, p. 115.)—H. C.] NOTE 2.—Magaillans, speaking of the semi-independent tribes of Kwei-chau and Kwang-si |
 | 59 | via-yc | Pauthier | pauthier1865livre | YC 2.56 | in range | s than this, _Cangigu_ as it has been generally printed. M. Pauthier, who sees in it Laos, or rather one of the states of Laos called in the Chinese histories _Papesifu_, |
@@ -463,7 +460,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-10-manzi-sung.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 79 | via-yc | Pauthier | pauthier1865livre | YC 2.60 | in range | rt of the journey which occupies the remainder of Book II., Pauthier is a chief authority, owing to his industrious Chinese reading and citation. Most of his identificati |
 | 81 | via-yc | Duhalde | duhalde1735description | YC 2.60 | in range | in the text, is substantially the same as one described by Duhalde, and by one of the missionaries, as being employed near the mouth of the Yang-tzŭ kiang. There is a to |
@@ -483,7 +480,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-11-yanju-saianfu.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 63 | via-yc | Odoric | yule1913cathay | YC 2.68 | in range | e-and-thirty years after Polo’s departure from China, Friar Odoric found at this city a House of his own Order (Franciscans), and three Nestorian churches. The city also |
 | 67 | via-yc | Pauthier | pauthier1865livre | YC 2.68 | in range | hau, and like them on the canal bank (indeed one MS., C. of Pauthier, specifies its standing on the same river as the cities already passed, _i.e._ on the canal), we seem |
@@ -494,22 +491,20 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-13-kinsay.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 93 | via-yc | Odoric | yule1913cathay | YC 2.76 | in range | les of circuit to Kinsay had become popular among Westerns. Odoric makes the same statement. Wassáf calls it 24 parasangs, which will not be far short of the same amount. |
 | 93 | via-yc | Odoric | yule1913cathay | YC 2.76 | in range | les of circuit to Kinsay had become popular among Westerns. Odoric makes the same statement. Wassáf calls it 24 parasangs, which will not be far short of the same amount. |
-| 103 | via-yc | Mengliang lu | no edition chosen; cite as reported in YC |  | not found |  |
 | 103 | via-yc | Odoric | yule1913cathay | YC 2.76 | in range | les of circuit to Kinsay had become popular among Westerns. Odoric makes the same statement. Wassáf calls it 24 parasangs, which will not be far short of the same amount. |
 | 107 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 2.76 | in range | parasangs, which will not be far short of the same amount. Ibn Batuta calls the _length_ of the city three days’ journey. Rashiduddin says the enceinte had a _diameter_ |
 | 107 | via-yc | Marignolli | yule1913cathay | YC 2.76 | in range | y Carletti as _Camse_; very near the form _Campsay_ used by Marignolli in the 14th century. [Illustration: The ancient Lun-ho-ta Pagoda at Hang-chau.] NOTE 2.—✛The Ramusi |
 | 107 | via-yc | Martini | no edition chosen; cite as reported in YC | YC 2.76 | in range | nd half a day’s journey in breadth. The enthusiastic Jesuit Martini tries hard to justify Polo in this as in other points of his description. We shall quote the whole of |
-| 107 | via-yc | Mengliang lu | no edition chosen; cite as reported in YC |  | not found |  |
 | 107 | via-yc | Odoric | yule1913cathay | YC 2.76 | in range | les of circuit to Kinsay had become popular among Westerns. Odoric makes the same statement. Wassáf calls it 24 parasangs, which will not be far short of the same amount. |
 | 107 | via-yc | Pauthier | pauthier1865livre | YC 2.76 | in range | ere is a curious discrepancy in the account of these baths. Pauthier’s text does not say whether they are hot baths or cold. The latter sentence, beginning, “They are hot |
 
 ## vol-2/ch-14-fuju-zayton.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 77 | via-yc | Bretschneider | bretschneider1888mediaeval | YC 2.80 | in range | s; _candy_, 53,504 _piculs_, 304,970 Hk. taels.—H. C.] [Dr. Bretschneider (_Hist. of Bot. Disc._ I. p. 2) remarks that “the sugar cane although not indigenous in China, w |
 | 77 | via-yc | Hanbury | flueckiger1874pharmacographia | YC 2.80 | in range | _Kholinján_, and these from the Sanskrit _Kulanjana_. (_Mr. Hanbury; China Comm.-Guide_, 120; _Eng. Cycl.; Garcia_, f. 63; _Wright_, p. 352.) NOTE 6.—The cat in question |
@@ -523,7 +518,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-2/ch-15-great-turkey-ponent.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 61 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC Prol. 15 | elsewhere | iscussion. The Chronicle of the Mongol Emperors rendered by Gaubil mentions, as characters used in their Empire, the Uíghúr, the Persian and Arabic, that of the Lamas (Ti |
 | 61 | via-yc | Yuan Shi | no edition chosen; cite as reported in YC | YC 2.34 | elsewhere | kingdom of Tangut, i. 282n Yuen ming-yuen, palace, i. 307n Yuen shi, History of Mongol Dynasty in China, i. 115n, 248n, 295n, ii. 95n Yugria, or Yughra, in the Far North |
@@ -533,7 +528,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-01-ships-chipangu.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 55 | via-yc | Conti | no edition chosen; cite as reported in YC | YC 3.3 | in range | oo, presumably the siliceous concretions called _Tabashir_. Conti also describes the practice in Java of inserting such amulets under the skin. The Malays of Sumatra, too |
 | 55 | via-yc | Jordanus | no edition chosen; cite as reported in YC | YC Prol. 18 | elsewhere | at impression on Western foreigners, is irresistible. Friar Jordanus, who saw them in Malabar, says: “With a fair wind they carry ten sails;” Ibn Batuta: “One of these gr |
@@ -549,7 +544,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-02-chamba-java.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 51 | via-yc | Aymonier | work not identified (Le Cambodge or Les Tchames) | YC 3.5 | in range | e all Chams.... In Cambodia all Chams are Mussulmans.” (_E. Aymonier, Les Tchames_, p. 26.) The religion of the pagan Chams of Binh-Thuan is degenerate Brahmanism with th |
 | 51 | via-yc | Gaubil | no edition chosen; cite as reported in YC | YC 3.5 | in range | re are notices of the events in De Mailla (IX. 420–422) and Gaubil (194), but Pauthier’s extracts which we have made use of are much fuller. Elephants have generally form |
@@ -563,7 +558,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-03-java-less-sumatra.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 57 | via-yc | Abū’l-Fidā | no edition chosen; cite as reported in YC | YC 3.9 | in range | pecifically to Sumatra. Thus Sumatra is the _Jáwah_ both of Abulfeda and of Ibn Batuta, the latter of whom spent some time on the island, both in going to China and on hi |
 | 59 | via-yc | De Barros | no edition chosen; cite as reported in YC | YC 3.9 | in range | her is _Jáwí Păkăn_, “a Jawi (_i.e._ Malay) of the market.” De Barros says that all the people of Sumatra called themselves by the common name of _Jauijs_. (Dec. III. liv |
@@ -591,7 +586,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-04-necuveran-seilan.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 55 | via-yc | Odoric | yule1913cathay | YC 3.12 | in range | the name of _Lákváram_, but read NÁKAVÁRAM opposite LAMURI. Odoric also has a chapter on the island of _Nicoveran_, but it is one full of fable. (_H. Tsang_, III. 114 and |
 | 55 | via-yc | Relations | no edition chosen; cite as reported in YC | YC Intro. § 37 | intro | Héthum has put it under 1293. (See _Langlois, Mém. sur les Relations de Gênes avec la Petite-Arménie_.) VII. RUSTICIANO OR RUSTICHELLO OF PISA, MARCO POLO’S FELLOW-PRISO |
@@ -612,12 +607,11 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-05-maabar-st-thomas.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 57 | via-yc | Abulfeda | no edition chosen; cite as reported in YC | YC 3.16 | in range | tten about 1203–1204. (_De Sacy, Rel. de l’Egypte_, p. 31.) Abulfeda distinctly names Cape Comorin as the point where Malabar ended and Ma’bar began, and other authority |
 | 57 | via-yc | Wassaf | no edition chosen; cite as reported in YC | YC 3.16 | in range | entioned by more than one foreign writer besides Polo. Thus Wassáf: “Ma’bar extends in length from Kaulam to Niláwar, nearly 300 parasangs along the sea-coast; and in the |
 | 59 | via-yc | Tennent | tennent1859ceylon | YC 3.16 | in range | ábham_, which means “the Diving,” _i.e._ the Pearl-fishery. Tennent gives the meaning erroneously as “the Sea of Gain.” I owe the correction to Dr. Caldwell. (_Ceylon_, I |
-| 63 | via-yc | Pridham | pridham1849historical |  | not found |  |
 | 63 | via-yc | Stewart | work not identified | YC 1.27 | elsewhere | Timur in _The Mulfuzat Timūry_, translated by Major Charles Stewart, 1830 (p. 69): “During the march ‘(near Balkh)’ two lions made their appearance, one of them a male, t |
 | 63 | via-yc | Tennent | tennent1859ceylon | YC 3.16 | in range | ábham_, which means “the Diving,” _i.e._ the Pearl-fishery. Tennent gives the meaning erroneously as “the Sea of Gain.” I owe the correction to Dr. Caldwell. (_Ceylon_, I |
 | 63 | via-yc | Wassaf | no edition chosen; cite as reported in YC | YC 3.16 | in range | entioned by more than one foreign writer besides Polo. Thus Wassáf: “Ma’bar extends in length from Kaulam to Niláwar, nearly 300 parasangs along the sea-coast; and in the |
@@ -643,7 +637,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-06-mutfili-kesmacoran.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 71 | via-yc | Conti | no edition chosen; cite as reported in YC | YC 3.19 | in range | ne of the many stories in the scrap-book of Tzetzes. Nicolo Conti relates it of a mountain called Albenigaras, fifteen days’ journey in a northerly direction from Vijayan |
 | 71 | via-yc | Edrisi | no edition chosen; cite as reported in YC | YC 3.19 | in range | e is told of the _Jacinth_. It is distinctly referred to by Edrisi, who assigns its locality to the land of the _Kirkhîr_ (probably Khirghiz) in Upper Asia. It appears in |
@@ -668,7 +662,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-07-male-abash.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 61 | via-yc | Conti | no edition chosen; cite as reported in YC | YC 3.31 | in range | Greater and India Tertia (_i.e._ with him Eastern Africa). Conti locates them not more than 5 miles from Socotra, and yet 100 mile distant from one another. “Sometimes t |
 | 61 | via-yc | Fra Mauro | no edition chosen; cite as reported in YC | YC 3.31 | in range | e others beyond this fatal period die immediately” (p. 21). Fra Mauro places the islands to the south of Zanzibar, and gives them the names of _Mangla_ and _Nebila_. One |
@@ -688,7 +682,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-08-aden-hormos.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 57 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 3.36 | in range | of direct trade with China in the early centuries of Islam. Ibn Batuta speaks of it thus correctly: “It is enclosed by mountains, and you can enter by one side only. It i |
 | 57 | via-yc | Makrizi | no edition chosen; cite as reported in YC | YC 3.36 | in range | les between Babylon and Alexandria.” (Bk. I. pt. i. ch. i.) Makrizi relates that up to A.H. 725 (1325), from time immemorial the Indian ships had discharged at Aden, but |
@@ -696,12 +690,10 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 | 61 | via-yc | Makrizi | no edition chosen; cite as reported in YC | YC 3.36 | in range | les between Babylon and Alexandria.” (Bk. I. pt. i. ch. i.) Makrizi relates that up to A.H. 725 (1325), from time immemorial the Indian ships had discharged at Aden, but |
 | 67 | via-yc | Joinville | no edition chosen; cite as reported in YC | YC 3.36 | in range | chaud, Bibl. des Croisades_, 1829, IV. 569.) “I once” (says Joinville) “rehearsed to the Legate two cases of sin that a priest of mine had been telling me of, and he answ |
 | 69 | via-yc | Barbosa | no edition chosen; cite as reported in YC | YC 3.37 | in range | tribe.” (_J. R. G. S._ IX. 151–152.) Sheḥr is spoken of by Barbosa (_Xaer_ in Lisbon ed.; _Pecher_ in Ramusio; _Xeher_ in Stanley; in the two last misplaced to the east |
-| 71 | via-yc | Marāṣid | no edition chosen; cite as reported in YC |  | not found |  |
 | 73 | via-yc | Edrisi | no edition chosen; cite as reported in YC | YC 3.37 | in range | o the Persian Gulf, and on the coast east of the Gulf also. Edrisi mentions it at Sheḥr (printed _Shajr_, I. 152), and the Admiral Sidi ’Ali says: “On the coast of Shehr, |
 | 73 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 3.36 | in range | of direct trade with China in the early centuries of Islam. Ibn Batuta speaks of it thus correctly: “It is enclosed by mountains, and you can enter by one side only. It i |
 | 79 | via-yc | Birdwood | paper not identified | YC 3.38 | in range | n their manuals the old story about Indian olibanum. Dr. G. Birdwood however, at Bombay, in the years following 1859, took up the subject with great zeal and intelligence |
 | 81 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 3.36 | in range | of direct trade with China in the early centuries of Islam. Ibn Batuta speaks of it thus correctly: “It is enclosed by mountains, and you can enter by one side only. It i |
-| 81 | via-yc | Marāṣid | no edition chosen; cite as reported in YC |  | not found |  |
 | 83 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 3.36 | in range | of direct trade with China in the early centuries of Islam. Ibn Batuta speaks of it thus correctly: “It is enclosed by mountains, and you can enter by one side only. It i |
 | 83 | via-yc | Teixeira | no edition chosen; cite as reported in YC | YC 3.39 | in range | imes of trouble is quite in accordance with what we read in Teixeira’s abstract of the Hormuz history. When expelled by revolution at Hormuz or the like, we find the prin |
 | 87 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC 3.36 | in range | of direct trade with China in the early centuries of Islam. Ibn Batuta speaks of it thus correctly: “It is enclosed by mountains, and you can enter by one side only. It i |
@@ -711,7 +703,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-09-cocachin-return.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 49 | via-yc | Pegolotti | evans1936pratica | YC Prol. 17 | in range | ng them to accompany the three Barons and the Lady. NOTE 1.—Pegolotti, in his chapters on mercantile ventures to Cathay, refers to the dangers to which foreigners were al |
 | 51 | via-yc | Hammer | hammer1842geschichte | YC Prol. 18 | in range | Polo), who was put to death 24th March, 1295. We learn from Hammer’s History of the Ilkhans that when Gházán, the son of Arghún (_Casan_ of Polo), who had the government |
@@ -725,7 +717,7 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-10-ca-polo-milione.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 55 | via-yc | Jacopo | no edition chosen; cite as reported in YC | YC Intro. § 37 | intro | dence, though it is curiously indirect. The Dominican Friar Jacopo of Acqui was a contemporary of Polo’s, and was the author of a somewhat obscure Chronicle called _Imago |
 | 57 | via-yc | Jacopo | no edition chosen; cite as reported in YC | YC Intro. § 37 | intro | dence, though it is curiously indirect. The Dominican Friar Jacopo of Acqui was a contemporary of Polo’s, and was the author of a somewhat obscure Chronicle called _Imago |
@@ -741,17 +733,16 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 
 ## vol-3/ch-11-afterlives.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 46 | via-yc | Fra Mauro | no edition chosen; cite as reported in YC | YC Intro. § 85 | intro | dinate, and the consequence is that the magnificent Work of Fra Mauro (1459), though the result of immense labour in the collection of facts and the endeavour to combine |
-| 50 | via-yc | Book of Prophecies | no edition chosen; cite as reported in YC |  | not found |  |
 | 50 | via-yc | Pipino | no edition chosen; cite as reported in YC | YC Intro. § 18 | intro | tin version made by our Traveller’s contemporary, Francesco Pipino, and of the numerous editions based indirectly upon it, represents that Nicolo had left Venice when Mar |
 | 54 | via-yc | Pipino | no edition chosen; cite as reported in YC | YC Intro. § 18 | intro | tin version made by our Traveller’s contemporary, Francesco Pipino, and of the numerous editions based indirectly upon it, represents that Nicolo had left Venice when Mar |
 | 56 | via-yc | Ricci | no edition chosen; cite as reported in YC | YC 2.5 | elsewhere | at the beginning of the 17th century; the celebrated Matteo Ricci having received the visit of a young Jew, the Jesuits Aleni (1613), Gozani (1704), Gaubil and Domenge wh |
 
 ## vol-3/ch-12-reliability-essay.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 139 | via-yc | Jacopo | no edition chosen; cite as reported in YC | YC Intro. § 37 | intro | dence, though it is curiously indirect. The Dominican Friar Jacopo of Acqui was a contemporary of Polo’s, and was the author of a somewhat obscure Chronicle called _Imago |
 | 139 | via-yc | Pipino | no edition chosen; cite as reported in YC | YC Intro. § 18 | intro | tin version made by our Traveller’s contemporary, Francesco Pipino, and of the numerous editions based indirectly upon it, represents that Nicolo had left Venice when Mar |
@@ -759,19 +750,16 @@ find the YC chapter by searching `refs/`. **needs-edition** / **by hand**: choos
 | 141 | needs-edition | Schottenhammer | work not identified |  | — |  |
 | 141 | via-yc | Bushell | paper on Shangdu (1872/1875), not identified | YC Prol. 13 | elsewhere | n D’Anville’s map under the name of _Djao-Naiman Sumé_. Dr. Bushell, who visited Shangtu in 1872, makes it 1103 _li_ (367 miles) by road distance _viâ_ Kalgan from Peking |
 | 151 | by hand | Allsen | Allsen: context not matched (allsen1997commodity;allsen2006royal) |  | — |  |
-| 153 | via-yc | Boyle | boyle1958history |  | not found |  |
-| 153 | via-yc | Gibb | gibb1958travels |  | not found |  |
+| 151 | by hand | Jackson | Jackson: context not matched (jackson2005mongols;jackson1990mission) |  | — |  |
 | 153 | via-yc | Ibn Baṭṭūṭa | gibb1958travels | YC Intro. § 54 | intro | 2nd Mem. pp. 30–32.) [21] Polo, Friar Odoric, Nicolo Conti, Ibn Batuta. X. VARIOUS TYPES OF TEXT OF MARCO POLO’S BOOK. [Sidenote: Four Principal Types of Text. First, tha |
 | 153 | via-yc | Juvaini | boyle1958history | YC 1.24 | elsewhere | murder the great Saladin. 1271. Attempt to murder Ala’uddin Juwaini, Governor of Baghdad, and historian of the Mongols. 1272. The attempt to murder Prince Edward of Engla |
 | 153 | via-yc | Odoric | yule1913cathay | YC Intro. § 54 | intro | etc. (See _Bianconi_, 2nd Mem. pp. 30–32.) [21] Polo, Friar Odoric, Nicolo Conti, Ibn Batuta. X. VARIOUS TYPES OF TEXT OF MARCO POLO’S BOOK. [Sidenote: Four Principal Typ |
 | 153 | via-yc | Odoric | yule1913cathay | YC Intro. § 54 | intro | etc. (See _Bianconi_, 2nd Mem. pp. 30–32.) [21] Polo, Friar Odoric, Nicolo Conti, Ibn Batuta. X. VARIOUS TYPES OF TEXT OF MARCO POLO’S BOOK. [Sidenote: Four Principal Typ |
 | 153 | via-yc | Rubruck | jackson1990mission | YC 1.44 | elsewhere | the ground on this very spot.” (_Palladius_, _l.c._ p. 10.) Rubruck (p. 144) says: “A Nestorian, who had come from Cathay told me that in that country there is an idol so |
 | 153 | via-yc | Rubruck | jackson1990mission | YC 1.44 | elsewhere | the ground on this very spot.” (_Palladius_, _l.c._ p. 10.) Rubruck (p. 144) says: “A Nestorian, who had come from Cathay told me that in that country there is an idol so |
-| 153 | via-yc | Secret History | derachewiltz2004secret |  | not found |  |
-| 153 | via-yc | Thackston | thackston1998rashiduddin |  | not found |  |
 
 ## vol-3/front-02-maps-seas-and-return.md
 
-| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference | Where in YC | Scope | Yule's reference |
+| Line | Kind | Name | Key or note | Where in YC | Scope | Yule's reference |
 |---|---|---|---|---|---|---|
 | 88 | via-yc | Periplus | no edition chosen; cite as reported in YC | YC 1.4 | elsewhere | lars on this interesting subject, extracted from _Eichwald, Periplus des Kasp. M._ I. 128. “‘At the point on the mountain, at the extremity of the fortress (of Derbend), |

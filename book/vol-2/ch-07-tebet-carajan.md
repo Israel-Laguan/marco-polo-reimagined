@@ -58,19 +58,19 @@ Now that the Book has told of the customs and naughty ways of that people, it wi
 
 [1] ✓ / ~ Five days Sindafu → Tebet marches; desolation after Möngke-era wars. ✓ Ya’an mountain entry; Polo’s Tebet = eastern marches, not Lhasa. ~ “Wars of Mongu” compressed to Uriangqadai / frontier campaigns (1254). Gazetteer: Tibet *reported_only*.
 
-[2] ✓ / ✗ Giant bamboo fires explode; frighten beasts; wrap ears/horses. ✓ Explosions (Hooker; Lindsay; Bretschneider). ✗ Girth and “ten miles” theatre.
+[2] ✓ / ✗ Giant bamboo fires explode; frighten beasts; wrap ears/horses. ✓ Explosions (Hooker; Lindsay; Bretschneider). ✗ Girth and “ten miles” theatre. As cited in Yule: Hooker, Lindsay, Bretschneider [@yc, 2.45].
 
-[3] ◇ / ~ Premarital hospitality + lover’s tokens (≥20). Wide parallels (Herodotus; Martini; Garnier; Westermarck); local attribution may blend tribes; Book’s jest tone.
+[3] ◇ / ~ Premarital hospitality + lover’s tokens (≥20). Wide parallels (Herodotus; Martini; Garnier; Westermarck); local attribution may blend tribes; Book’s jest tone. As cited in Yule: Herodotus, Martini, Garnier [@yc, 2.45]; Westermarck [@yc, 2.50].
 
 [4] ✓ / ~ / ◇ Musk animals *Gudderi* (Mongol, not Tibetan); salt for money; poor clothing; eight kingdoms; gold-dust; coral rage; mastiffs; *Beyamini*; enchanters declined. ✓ Musk trade; salt currency; extent beyond autopsy. ◇ Formula of pious omission for marvels.
 
-[5] ✓ / ? Caindu = Kien-ch’ang (Ningyuan) valley; lake pearls under monopoly; turquoise ban. ✓ Valley and itinerary (Richthofen; Baber). ? Pearl fishery detail.
+[5] ✓ / ? Caindu = Kien-ch’ang (Ningyuan) valley; lake pearls under monopoly; turquoise ban. ✓ Valley and itinerary (Richthofen; Baber). ? Pearl fishery detail. As cited in Yule: Richthofen [@yc, 2.45]; Baber [@yc, 2.46].
 
 [6] ◇ / ~ Door-token hospitality custom in Caindu. Parallel to Camul (Bk I); ascribed widely.
 
-[7] ✓ Salt cakes (~½ lb moulds); 80 = 1 *saggio* gold; stamped; hill arbitrage. ★★★ Vogel [-@vogel2013marco]; Garnier; Hosie at Pai-yen-ching; Ramusian colour fits practice. Central presence argument.
+[7] ✓ Salt cakes (~½ lb moulds); 80 = 1 *saggio* gold; stamped; hill arbitrage. ★★★ Vogel [-@vogel2013marco]; Garnier; Hosie at Pai-yen-ching; Ramusian colour fits practice. Central presence argument. As cited in Yule: Garnier [@yc, 2.45]; Hosie [@yc, 2.47].
 
-[8] ✓ / ~ Spiced wine; “clove”/cassia; ginger; cinnamon; musk; River Brius = Jinsha (Kin-sha Kiang / “Golden Sands”). ✓ Cassia of Kien-ch’ang (Richthofen; Gill); Brius ID firm. ~ “Clove” name.
+[8] ✓ / ~ Spiced wine; “clove”/cassia; ginger; cinnamon; musk; River Brius = Jinsha (Kin-sha Kiang / “Golden Sands”). ✓ Cassia of Kien-ch’ang (Richthofen; Gill); Brius ID firm. ~ “Clove” name. As cited in Yule: Richthofen, Gill [@yc, 2.45].
 
 [9] ✓ / ~ Carajan = Yunnan (*Qarajang*); Essentimur at Yachi (Kunming); Cogachin at Tali (Dali). ✓ Kings match Hügechi (1267) / Isentimur (often dated 1280). ~ “Son” vs grandson slip for Essentimur. Visit to Yunnan thus often dated before ~1280. Gazetteer: Carajan *visited*; Yachi *likely_visited*.
 
@@ -80,7 +80,7 @@ Now that the Book has told of the customs and naughty ways of that people, it wi
 
 [12] ✓ / ~ / ✗ / ◇ Horses to India; docked tails; long seat; leather armour; poisoned quarrels; pre-conquest murder of distinguished guests. ✓ Yunnan ponies and crossbows. ~ Docked/looped tails. ✗ “Large” horses. ◇ / ? Virtue-murder — folk analogue scarce as exact match; conquest “~35 years” rough.
 
-[13] ✓ / ~ Zardandan = Persian *zar-dandān* “Gold-Teeth” = Chinese *Jinchi*; Vochan ≈ Yongchang / Baoshan–Tengchong. ✓ Rashīd uses the same name; Baber stages Tali to Yung-ch’ang match. ~ Betel-with-lime reddening sometimes offered beside real gold plating. Gazetteer: Zardandan *uncertain* (ethnonym region).
+[13] ✓ / ~ Zardandan = Persian *zar-dandān* “Gold-Teeth” = Chinese *Jinchi*; Vochan ≈ Yongchang / Baoshan–Tengchong. ✓ Rashīd uses the same name; Baber stages Tali to Yung-ch’ang match. ~ Betel-with-lime reddening sometimes offered beside real gold plating. Gazetteer: Zardandan *uncertain* (ethnonym region). As cited in Yule: Baber [@yc, 2.46].
 
 [14] ✓ / ~ Couvade: husband lies in 40 days. Globally paralleled custom; SW attestation debated in detail — frame comparatively, do not exoticise alone.
 

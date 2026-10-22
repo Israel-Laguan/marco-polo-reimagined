@@ -76,25 +76,25 @@ You must know that the Queen was conducted to the Great Kaan, who gave her an ho
 
 [1] ✓ / ~ Southward canal itinerary from Juju opens Book II Part III toward Manzi. ✓ Corridor among Polo’s firmest Cathay routes. Gazetteer: Changlu *likely_visited*; Cacanfu *uncertain*; Coiganju held for II-11.
 
-[2] ✓ / ~ / ◇ Cacanfu ≈ Ho-kien fu (Hejian); silk and gold stuffs; Christians with a church (Ramusio only). ✓ Pauthier/Yule ID strong. ~ Gazetteer also lists Henan candidates. ◇ Nestorians plausible in North China.
+[2] ✓ / ~ / ◇ Cacanfu ≈ Ho-kien fu (Hejian); silk and gold stuffs; Christians with a church (Ramusio only). ✓ Pauthier/Yule ID strong. ~ Gazetteer also lists Henan candidates. ◇ Nestorians plausible in North China. As cited in Yule: Pauthier [@yc, 2.60].
 
-[3] ✓ Changlu / Ch’ang-lu salt by leaching salt earth; boiled in iron cauldrons to fine white grain. Cangzhou–Yen-shan salt district; process paralleled near Yangzi mouth (Duhalde; *Lettres Édifiantes*).
+[3] ✓ Changlu / Ch’ang-lu salt by leaching salt earth; boiled in iron cauldrons to fine white grain. Cangzhou–Yen-shan salt district; process paralleled near Yangzi mouth (Duhalde; *Lettres Édifiantes*). As cited in Yule: Duhalde [@yc, 2.60].
 
-[4] ✗ / ~ Burning the dead “Chinese.” Formula overgeneralises Buddhist/clerical and Jiangnan practice as national custom. Cremation common enough (Ku Yen-wu; de Groot; Mayers); burial also attested (Arab *Relations*; Conti).
+[4] ✗ / ~ Burning the dead “Chinese.” Formula overgeneralises Buddhist/clerical and Jiangnan practice as national custom. Cremation common enough (Ku Yen-wu; de Groot; Mayers); burial also attested (Arab *Relations*; Conti). As cited in Yule: Ku Yen-wu, de Groot, Mayers, Conti [@yc, 2.60].
 
 [5] ✓ / ~ / ? Chinangli = T’si-nan fu (Jinan); Tadinfu = Yen-chau (Kin Tai-ting). ✓ Name and position; Shandong silk ancient. ~ “Noblest” + 11 cities better suit Jinan — conflation. Sangon = Chinese *Tsiang-kiun*.
 
-[6] ✓ / ✗ Litan (Li Tan) revolt vs Kublai. ★★★ Chinese annals 1262; T’si-nan siege (Gaubil; De Mailla; D’Ohsson; Pauthier). ✗ Year corrupt (1273 for 1262); captains Aguil & Mongotay exist (Agul distant cousin of Kublai; Mangkutai under Bayan) but annals name Apiché & Ssetienché. ✓ Amnesty for lower ranks, chiefs executed.
+[6] ✓ / ✗ Litan (Li Tan) revolt vs Kublai. ★★★ Chinese annals 1262; T’si-nan siege (Gaubil; De Mailla; D’Ohsson; Pauthier). ✗ Year corrupt (1273 for 1262); captains Aguil & Mongotay exist (Agul distant cousin of Kublai; Mangkutai under Bayan) but annals name Apiché & Ssetienché. ✓ Amnesty for lower ranks, chiefs executed. As cited in Yule: Gaubil, De Mailla, D’Ohsson [@yc, 2.65]; Pauthier [@yc, 2.60].
 
-[7] ✓ / ~ Sinjumatu = T’si-ning (Jining); river split to Cathay and Manzi; immense vessel traffic. ✓ Canal summit logic; Odoric’s Sunzumatu; *ma-t’ou* = jetty. ~ Lin-t’sing alternative for “from the south” (Cordier/Gandar). Wen and Sse diverted NW/SE; confluence at Nan-wang as summit.
+[7] ✓ / ~ Sinjumatu = T’si-ning (Jining); river split to Cathay and Manzi; immense vessel traffic. ✓ Canal summit logic; Odoric’s Sunzumatu; *ma-t’ou* = jetty. ~ Lin-t’sing alternative for “from the south” (Cordier/Gandar). Wen and Sse diverted NW/SE; confluence at Nan-wang as summit. As cited in Yule: Odoric [@yc, 2.61]; Gandar [@yc, 2.62].
 
-[8] ✓ / ~ / ? Linju soft ID (Lingiu / Lin-ch’ing / Odoric’s Lenzin). ✓ Piju = Pei-chau at Manzi entrance — secure. ✓ / ~ Siju = Su-t’sien; wheat plains; old name *Si-chau*.
+[8] ✓ / ~ / ? Linju soft ID (Lingiu / Lin-ch’ing / Odoric’s Lenzin). ✓ Piju = Pei-chau at Manzi entrance — secure. ✓ / ~ Siju = Su-t’sien; wheat plains; old name *Si-chau*. As cited in Yule: Odoric [@yc, 2.61].
 
 [9] ~ / ✗ / ✓ Caramoran here >1 mile wide, navigable for sea craft; sea 1 day off; ~15,000 Kaan vessels × 15 horses. ~ Polo-period southern mouth snapshot. ✗ Vs later/modern regimen; vessel census payroll/rhetoric. ✓ Coiganju = Hwai-ngan; ? Caiju lost to river change. Manzi = Sung South / *Man-tzŭ*; Rashīd: Cathay / Máchín divided by Karamoran. Deep-time shifts: Shang dual outlets; Mongol-age swing to Huai mouth (Polo’s crossing); 1851–53 return north.
 
 [10] ✓ / ✗ / ~ Faghfur = Sung emperor (*Baghbūr* / *Tianzi*). ✓ Title correctly applied. ✗ Blanket “unwarlike / no horses / lost for want of soldiers.” ~ Court decadence topos; fortress courage well attested.
 
-[11] ✓ / ✗ / ◇ Bayan Chincsan conquers Manzi. ✓ Bayan of Barin; Hangzhou 1276; *Chengxiang* title. ✗ “Hundred Eyes” as translation of Chincsan — pun on *Pe-yen* (Bayan). ◇ / ~ Horoscope / hundred-eyes prophecy — folklore; Chinese *pê-yen* goose prophecy analogue (Mayers).
+[11] ✓ / ✗ / ◇ Bayan Chincsan conquers Manzi. ✓ Bayan of Barin; Hangzhou 1276; *Chengxiang* title. ✗ “Hundred Eyes” as translation of Chincsan — pun on *Pe-yen* (Bayan). ◇ / ~ Horoscope / hundred-eyes prophecy — folklore; Chinese *pê-yen* goose prophecy analogue (Mayers). As cited in Yule: Mayers [@yc, 2.60].
 
 [12] ✗ / ~ Bayan’s campaign compressed and heroised. ✗ His axis was Han–Yangzi, not Coiganju-first; ~ another column toward Huai. ~ / ✗ King flees by sea; Queen surrenders — child emperor / regent / sea remnants 1276–79; adult “Facfur” flight as told is compression. ✓ Queen honourably received at Kaan’s court (regent and Sung princes sent to Dadu; Jamui Khatun’s courtesy).
 

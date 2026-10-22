@@ -48,11 +48,11 @@ Thus the Gulf chapter closes not with embarkation but with refusal. The ships ar
 
 [1] ✓ / ~ Kerman as Ilkhanid province under Tartar-appointed (non-hereditary) rule after local dynasts. ✓ Kutlugh-Khanids under Mongol suzerainty; ~ “whatever lord” as simplification. Gazetteer: *visited* (outbound hub; also return overland from Hormuz).
 
-[2] ✓ Turquoise and steel/*ondanique* (*hundwānī*) production; war-harness and women’s silk embroidery; falcons prized in the mountains. Mines and steel workings attested (Shahr-i-Bābak / Pārīz; Nīrīz / Parpa); *ondanique* well argued (Ramusio; Edrisi). ~ “Best falcons in the world” as absolute superlative unverified; regional *lanner*/saker class long prized.
+[2] ✓ Turquoise and steel/*ondanique* (*hundwānī*) production; war-harness and women’s silk embroidery; falcons prized in the mountains. Mines and steel workings attested (Shahr-i-Bābak / Pārīz; Nīrīz / Parpa); *ondanique* well argued (Ramusio; Edrisi). ~ “Best falcons in the world” as absolute superlative unverified; regional *lanner*/saker class long prized. As cited in Yule: Edrisi [@yc, 1.17].
 
 [3] ✓ / ~ Seven days’ settled road, then two-day descent into hot plain. ✓ Matches Kermān–Jīruft climatic/route hinge; ~ exact staging schematic. Emptied villages preface Camadi’s ruin.
 
-[4] ✓ / ~ Camadi formerly great, Tartar-ravaged; Reobarles = Rūdbār hot country; dates, pistachios, francolin, turtledoves. ✓ Jīruft-plain ruin tradition (Shehr-i-Daqīānūs); climate and fauna match. ~ Name-form Camadi conjectural; turtledove taboo ~ local report. Apples of Paradise: citrus or *konār* (Houtum-Schindler), not plantain.
+[4] ✓ / ~ Camadi formerly great, Tartar-ravaged; Reobarles = Rūdbār hot country; dates, pistachios, francolin, turtledoves. ✓ Jīruft-plain ruin tradition (Shehr-i-Daqīānūs); climate and fauna match. ~ Name-form Camadi conjectural; turtledove taboo ~ local report. Apples of Paradise: citrus or *konār* (Houtum-Schindler), not plantain. As cited in Yule: Houtum-Schindler [@yc, 1.16].
 
 [5] ✓ White humped oxen that kneel to receive loads (zebu behaviour noted by Mas‘udi and modern observers). ✓ / ~ Fat-tailed sheep with tails ~30 lb: breed real; extreme weights occasional/hyperbolic.
 
@@ -60,7 +60,7 @@ Thus the Gulf chapter closes not with embarkation but with refusal. The ships ar
 
 [7] ✓ / ~ Nogodar’s raid-path into India vs Asedin Soldan. ✓ Nigūdarī/Negüderi tradition historically attested; ~ geography and name-spellings compressed.
 
-[8] ? / ~ Marco’s near-capture; escape to Canosalmi with seven survivors. Personal claim; site of Canosalmi disputed (Qanāt-ul-Shām or Kahn-i-asal); “seven” text-specific (Pauthier). May belong to outbound, return, or a local circuit.
+[8] ? / ~ Marco’s near-capture; escape to Canosalmi with seven survivors. Personal claim; site of Canosalmi disputed (Qanāt-ul-Shām or Kahn-i-asal); “seven” text-specific (Pauthier). May belong to outbound, return, or a local circuit. As cited in Yule: Pauthier [@yc, 1.17].
 
 [9] ✓ Old Hormuz as mainland harbour (Mināb vicinity) of immense Indian trade; island transfer postdates or post-dates his notice. ✗ if Polo’s Hormos is identified with the later island. Plain of Formosa: Romance naming in the dictation.
 
@@ -76,4 +76,4 @@ Thus the Gulf chapter closes not with embarkation but with refusal. The ships ar
 
 [15] ✓ Explicit refusal of sea route; return inland via Kerman toward Cobinan (Book’s own narrative hinge, I.xix→xx). Hot baths, bitter bread, cheap victual on the return road.
 
-[16] ? Marco personally at Hormuz on the *outbound* journey. Classic route problem: outbound, return, or both—Book sequence ≠ settled biography. Gazetteer records both outbound abortive sea plan and return landfall from India. Comparative: Ibn Baṭṭūṭa and later Gulf visitors confirm heat, date culture, and sewn shipping; Yule’s Kerman–Hormuz itinerary maps; Haw [-@haw2006marco] on Persian segments; Vogel [-@vogel2013marco] on trade metrology.
+[16] ? Marco personally at Hormuz on the *outbound* journey. Classic route problem: outbound, return, or both—Book sequence ≠ settled biography. Gazetteer records both outbound abortive sea plan and return landfall from India. Comparative: Ibn Baṭṭūṭa and later Gulf visitors confirm heat, date culture, and sewn shipping; Yule’s Kerman–Hormuz itinerary maps; Haw [-@haw2006marco] on Persian segments; Vogel [-@vogel2013marco] on trade metrology. As cited in Yule: Ibn Baṭṭūṭa [@yc, 1.18].

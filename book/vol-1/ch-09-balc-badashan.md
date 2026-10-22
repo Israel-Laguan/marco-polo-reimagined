@@ -50,34 +50,34 @@ Now we will quit this country, and not go any further in the same direction; for
 
 ## Notes
 
-[1] ✓ / ~ Six-day approach of fine plains, valleys, pasture, fruits, towns (Muslims), intermittent waterless desert tracts. ✗ / ~ Timing from prior stage to Sapurgan: ✗ as continuous stage from Tonocain; ~ if applied to fertile approach belt with lacuna in dictation (Yule; Pauthier’s “six cities” likely *journées* misread).
+[1] ✓ / ~ Six-day approach of fine plains, valleys, pasture, fruits, towns (Muslims), intermittent waterless desert tracts. ✗ / ~ Timing from prior stage to Sapurgan: ✗ as continuous stage from Tonocain; ~ if applied to fertile approach belt with lacuna in dictation (Yule; Pauthier’s “six cities” likely *journées* misread). As cited in Yule: Pauthier [@yc, 1.26].
 
-[2] ✓ Sapurgan = Shibarghan; famous dried melons. Place and melon-drying tradition well paralleled (Herat history; Ibn Baṭṭūṭa on Khwārazm melons). Gazetteer: Sapurgan *likely_visited* outbound.
+[2] ✓ Sapurgan = Shibarghan; famous dried melons. Place and melon-drying tradition well paralleled (Herat history; Ibn Baṭṭūṭa on Khwārazm melons). Gazetteer: Sapurgan *likely_visited* outbound. As cited in Yule: Ibn Baṭṭūṭa [@yc, 1.26].
 
-[3] ✓ Balc (Balkh) noble but Tartar-wasted; marble ruins. Chinggisian destruction and long ruin amply attested (Ibn Baṭṭūṭa still ruined ~1330s; Clavijo; Burnes/Ferrier). ◇ / ✗ Alexander married Darius’s daughter at Balkh: ◇ local/romance claim (*Livre d’Alexandre*); ✗ historically (Roxana not Darius’s daughter). ~ Balc as limit of Hülegü’s Levant empire / Persia ENE: schematic but directionally intelligible. Gazetteer: Balkh *visited*; firm ID.
+[3] ✓ Balc (Balkh) noble but Tartar-wasted; marble ruins. Chinggisian destruction and long ruin amply attested (Ibn Baṭṭūṭa still ruined ~1330s; Clavijo; Burnes/Ferrier). ◇ / ✗ Alexander married Darius’s daughter at Balkh: ◇ local/romance claim (*Livre d’Alexandre*); ✗ historically (Roxana not Darius’s daughter). ~ Balc as limit of Hülegü’s Levant empire / Persia ENE: schematic but directionally intelligible. Gazetteer: Balkh *visited*; firm ID. As cited in Yule: Ibn Baṭṭūṭa, Ferrier [@yc, 1.26]; Clavijo, Burnes [@yc, 1.27].
 
-[4] ? Dogana as named country east of Balkh. Identification still unsettled (Juzgāna? Dehgān/Tajik peasantry? Baber’s Dehānah?). ✓ / ~ Twelve-day empty inhabited corridor; carry food: ✓ depopulation and ruin real; ~ “twelve” may be long. ? / ~ Lions on the Oxus / Kunduz approaches: ? zoological stretch for true lion; ~ recurrent medieval and early-modern testimony (Rashīd al-Dīn; Sidi Ali; Moorcroft; Wood).
+[4] ? Dogana as named country east of Balkh. Identification still unsettled (Juzgāna? Dehgān/Tajik peasantry? Baber’s Dehānah?). ✓ / ~ Twelve-day empty inhabited corridor; carry food: ✓ depopulation and ruin real; ~ “twelve” may be long. ? / ~ Lions on the Oxus / Kunduz approaches: ? zoological stretch for true lion; ~ recurrent medieval and early-modern testimony (Rashīd al-Dīn; Sidi Ali; Moorcroft; Wood). As cited in Yule: Baber, Moorcroft, Wood [@yc, 1.27]; Sidi Ali [@yc, 1.28].
 
-[5] ✓ Taican = Talikan; great corn / market town. Firm ID; market-day culture confirmed (Wood). ✓ Southern mountains of hard rock-salt; regional trade (Ak Bulāk, Darūnā, Chāl). ✗ Salt “would supply the whole world”: rhetorical hyperbole. Gazetteer: Talikan *likely_visited*.
+[5] ✓ Taican = Talikan; great corn / market town. Firm ID; market-day culture confirmed (Wood). ✓ Southern mountains of hard rock-salt; regional trade (Ak Bulāk, Darūnā, Chāl). ✗ Salt “would supply the whole world”: rhetorical hyperbole. Gazetteer: Talikan *likely_visited*. As cited in Yule: Wood [@yc, 1.27].
 
-[6] ✓ / ~ Boiled wine; cord head-dress; skin coats/shoes. ✓ Parallels in hill cultures (Baber; Elphinstone; Wood); ~ “evil murderous” moralizing.
+[6] ✓ / ~ Boiled wine; cord head-dress; skin coats/shoes. ✓ Parallels in hill cultures (Baber; Elphinstone; Wood); ~ “evil murderous” moralizing. As cited in Yule: Baber, Elphinstone, Wood [@yc, 1.27].
 
-[7] ✓ / ~ Casem = Kishm; river; count; cave dwellings in earth hills. ✓ Kishm ID and caves paralleled (Bamian, Heibak; Burnes; Moorcroft); ~ “very great province” inflated. ✗ / ~ Porcupines project quills at dogs: ✗ projection myth (Pliny); ~ huddling defensive behaviour real.
+[7] ✓ / ~ Casem = Kishm; river; count; cave dwellings in earth hills. ✓ Kishm ID and caves paralleled (Bamian, Heibak; Burnes; Moorcroft); ~ “very great province” inflated. ✗ / ~ Porcupines project quills at dogs: ✗ projection myth (Pliny); ~ huddling defensive behaviour real. As cited in Yule: Burnes, Moorcroft [@yc, 1.27]; Pliny [@yc, 1.28].
 
 [8] ◇ / ✗ Badashan royal house descends from Alexander (Zulcarnain). ◇ Prestige genealogy widely claimed on Oxus and Hindu Kush; ✗ as biological descent (Tocharian/Hephthalite reality more likely).
 
 [9] ✓ Balas rubies from Syghinan; royal monopoly. Mines and monopoly historically accurate; name origin sound (*balakhsh* → *balas*).
 
-[10] ✓ Finest azure (lapis) in vein like silver. Kokcha / Yamgān *lājward* classic (Wood 1838). ✓ / ~ Excellent unshod mountain horses; Kataghan type: ✓ breed reputation; ~ Bucephalid marked strain = local legend (Ramusio).
+[10] ✓ Finest azure (lapis) in vein like silver. Kokcha / Yamgān *lājward* classic (Wood 1838). ✓ / ~ Excellent unshod mountain horses; Kataghan type: ✓ breed reputation; ~ Bucephalid marked strain = local legend (Ramusio). As cited in Yule: Wood [@yc, 1.27].
 
 [11] ✓ / ~ Vast wild sheep flocks in the mountains. ✓ *Ovis vignei*-type herds; ~ numbers colourful. Greater *Ovis Poli* reserved for Pamir chapter. ✓ / ◇ Marco cured of long illness by Badakhshan mountain air: ✓ personal claim in Ramusio; ◇ only in that tradition (Yule accepts). Huskless barley, sesame and walnut oil, falcons: ✓ / ~.
 
 [12] ✗ / ~ People fear no invasion (strong passes). ~ Passes real; ✗ as historical security—country repeatedly devastated. ~ / ◇ Ladies’ drawers of 60–100 ells for large hips: ethnographic fashion notice; amplitude paralleled elsewhere later.
 
-[13] ◇ / ? Pashai ten days south: Idolaters, sorcerers, crafty, hot. ◇ Hearsay (Mongol/Nigūdar material + Northern Buddhist lore of Udyāna); ? identification (living Pashai tribe SW vs Chitrāl/Udyāna complex; Rawlinson on older Aprasin/Paresīn). ✗ Marco personally visited Pashai and Keshimur: internal thinness and context point to report, not autopsy.
+[13] ◇ / ? Pashai ten days south: Idolaters, sorcerers, crafty, hot. ◇ Hearsay (Mongol/Nigūdar material + Northern Buddhist lore of Udyāna); ? identification (living Pashai tribe SW vs Chitrāl/Udyāna complex; Rawlinson on older Aprasin/Paresīn). ✗ Marco personally visited Pashai and Keshimur: internal thinness and context point to report, not autopsy. As cited in Yule: Rawlinson [@yc, 1.26].
 
 [14] ◇ / ~ Keshimur: extreme enchantment; “source” of Idolatry. ◇ Mongol-Tibetan Buddhist lore (Kanishka council; Kashmiri missionaries to Tibet); ~ Kashmir’s real historic role in Northern Buddhism. ✓ / ~ Independent king; temperate land; beautiful women: geography and beauty tropes enduring; political independence schematic for the date.
 
 [15] ~ / ◇ Eremites, abbeys; bloodless diet with Saracen butchers. ~ Buddhist/ascetic residue and Muslim neighbours plausible; ◇ vitality overstated for late 1200s. ✓ / ~ Coral from “our parts” sells best in Kashmir: long-distance coral demand in Inner Asia / India well known.
 
-[16] Dispute stance: autopsy vs circulating lore for Kashmir; Pashai ID still argued; Alexandrian prestige genealogy and Oxus lions as visible hooks. Comparative: Wood; Mirza Haidar; Buddhist histories of Kashmir; Rockhill; Xuanzang sparingly; Yule on dialects; Stephen Haw [-@haw2006marco]. Stop at return to Badashan; Pamier waits for I-10.
+[16] Dispute stance: autopsy vs circulating lore for Kashmir; Pashai ID still argued; Alexandrian prestige genealogy and Oxus lions as visible hooks. Comparative: Wood; Mirza Haidar; Buddhist histories of Kashmir; Rockhill; Xuanzang sparingly; Yule on dialects; Stephen Haw [-@haw2006marco]. Stop at return to Badashan; Pamier waits for I-10. As cited in Yule: Wood [@yc, 1.27]; Rockhill [@yc, Intro. § 12].

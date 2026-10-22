@@ -60,13 +60,13 @@ Thus Book IV, compressed, closes Volume II’s horizon: Caidu’s war; Aijaruc t
 
 [3] ◇ / ✗ pitched battles with equal 60,000-horse tomans, formula detail — wars real; Rustichello battle template. ? / ~ 1266 dating; Nomogan + Prester John’s grandson at Caracoron — Chinese 1275–77 Numughan/Antung/Shireghi better fit (Gaubil; *Yuan Shi*).
 
-[4] ~ / ◇ daughter Aijaruc = Bright Moon (Turki *Ai-yárúq*); unbeatable wrestler; 10,000+ horses — ~ Kutulun warlike princess in Rashīd; ◇ wrestling-wager folklore (cf. Ibn Baṭṭūṭa Urdūja). ✓ / ~ she campaigns and snatches captives like a hawk — fits Rashīd’s field companion.
+[4] ~ / ◇ daughter Aijaruc = Bright Moon (Turki *Ai-yárúq*); unbeatable wrestler; 10,000+ horses — ~ Kutulun warlike princess in Rashīd; ◇ wrestling-wager folklore (cf. Ibn Baṭṭūṭa Urdūja). ✓ / ~ she campaigns and snatches captives like a hawk — fits Rashīd’s field companion. As cited in Yule: Ibn Baṭṭūṭa [@yc, 4.4].
 
 [5] ✓ Arghon posts on Oxus/Arbre Sec frontier vs Kaidu/Baraq. ✗ Barac = Caidu’s brother — Baraq of Chaghatai, ally not brother. ✓ Acomat (Ahmad Tegüder) seizes throne as Muslim; Arghon defeated then restored; Acomat killed (1282–84; Wassāf, Rashīd). ✓ / ~ named barons (Boga/Buqa et al.) free Arghon — Buqa Jelair conspiracy real; Polo name-list partly paralleled. ~ Arghon reign starts 1286; lasts six years; poison rumour — throne 1284; death 1291; poison gossip common.
 
-[6] ✗ / ~ Kiacatu uncle of Arghon; reigns two years; poisoned — ✗ brother not uncle; ~ dissolute character; reign ~4 years, killed 1295. ~ / ✓ Baidu Christian; seized 1294; slain by Casan — Christian favour overstated (Hayton); Gházán’s victory 1295 sound. ✓ line Hulagu–Abaqa–Arghun–Ghazan.
+[6] ✗ / ~ Kiacatu uncle of Arghon; reigns two years; poisoned — ✗ brother not uncle; ~ dissolute character; reign ~4 years, killed 1295. ~ / ✓ Baidu Christian; seized 1294; slain by Casan — Christian favour overstated (Hayton); Gházán’s victory 1295 sound. ✓ line Hulagu–Abaqa–Arghun–Ghazan. As cited in Yule: Hayton [@yc, 4.17].
 
-[7] ✓ / ◇ Conchi independent Jochid in far north; Natigai cult — northern Jochid princes; which Kaunchi soft. ✓ / ~ white bears, sables, dog-sledge posts, underground houses — Siberia fur/sledge world (Ibn Baṭṭūṭa parallel from Bolghar); donkey-sized dogs and strictly subterranean dwellings rounded.
+[7] ✓ / ◇ Conchi independent Jochid in far north; Natigai cult — northern Jochid princes; which Kaunchi soft. ✓ / ~ white bears, sables, dog-sledge posts, underground houses — Siberia fur/sledge world (Ibn Baṭṭūṭa parallel from Bolghar); donkey-sized dogs and strictly subterranean dwellings rounded. As cited in Yule: Ibn Baṭṭūṭa [@yc, 4.4].
 
 [8] ◇ / ~ Land of Darkness perpetual; mare-and-foal guidance; fur to Light — arctic night misunderstood in G.T. (Ramusio improves to winter dark / summer light); raid/trade motifs ancient. ✓ / ~ Rosia Greek Christian; tribute to Toctai; furs; silver; extreme cold — Rus’ under Golden Horde; silver-mines debated.
 

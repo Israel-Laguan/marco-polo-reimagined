@@ -62,16 +62,16 @@ There is nothing more to mention about this country, so the Book will quit it, a
 
 [4] ✓ / ? Nescradin = Nasruddin (*Na-su-la-ding*), son of Sayyid Ajall of Bukhara, Yunnan commander (*Yuan shi*; Rashīd; d. 1292). ✓ Person and career. ? Whether *this* battle’s captain — Chinese name Huthukh (Kutuka?) of Tali-fu with ~700 men for the 1277 action.
 
-[5] ✓ / ~ Plain of Vochan beside wood; pony-panic at elephants; elephants panicked by arrow rain; smash castles in trees. ✓ Yung-ch’ang plain (Baber); Chinese also: elephants turn under shafts into bamboo stakes. ~ Wood detail and exact tactics. Mechanism is *not* Herodotus’s camel dread — Polo’s own hinge is pony-panic then shaft-panic.
+[5] ✓ / ~ Plain of Vochan beside wood; pony-panic at elephants; elephants panicked by arrow rain; smash castles in trees. ✓ Yung-ch’ang plain (Baber); Chinese also: elephants turn under shafts into bamboo stakes. ~ Wood detail and exact tactics. Mechanism is *not* Herodotus’s camel dread — Polo’s own hinge is pony-panic then shaft-panic. As cited in Yule: Baber [@yc, 2.52]; Herodotus [@yc, 2.53].
 
-[6] ✓ / ~ / ◇ Battle core vs set-piece. ✓ Chinese–Polo concurrence on 1277 Yung-ch’ang action outweighs Burmese silence (Yule; Baber). ~ >200 elephants captured; causal “first elephants” compressed. Burmese Annals omit this first clash; Phayre inclined to reject; later 1283–84 synchronisms strong.
+[6] ✓ / ~ / ◇ Battle core vs set-piece. ✓ Chinese–Polo concurrence on 1277 Yung-ch’ang action outweighs Burmese silence (Yule; Baber). ~ >200 elephants captured; causal “first elephants” compressed. Burmese Annals omit this first clash; Phayre inclined to reject; later 1283–84 synchronisms strong. As cited in Yule: Baber [@yc, 2.52].
 
-[7] ✓ / ~ 2½-day downhill; gold:silver market 1:5; thrice-weekly fair. ✓ Ratio cluster with Zardandan. ~ Market rhythm (5-day Shan cycle also attested; Sladen). Kakhyen gold still reported north of Bhamo.
+[7] ✓ / ~ 2½-day downhill; gold:silver market 1:5; thrice-weekly fair. ✓ Ratio cluster with Zardandan. ~ Market rhythm (5-day Shan cycle also attested; Sladen). Kakhyen gold still reported north of Bhamo. As cited in Yule: Sladen [@yc, 2.53].
 
-[8] ◇ / ? Fifteen days wild woods to capital Amien / Mien. Route and terminus disputed (Pagán vs Tagaung; Nan-tien hypothesis — Baber; Gill). Continuity from Vochan argued against Anderson’s “indefinite start near Bhamo.”
+[8] ◇ / ? Fifteen days wild woods to capital Amien / Mien. Route and terminus disputed (Pagán vs Tagaung; Nan-tien hypothesis — Baber; Gill). Continuity from Vochan argued against Anderson’s “indefinite start near Bhamo.”. As cited in Yule: Baber [@yc, 2.52]; Gill [@yc, 2.53].
 
 [9] ✓ / ✗ Capital towers plated gold and silver with wind-bells. ✓ Pagán *hti* gilding and bells (visual). ✗ Finger-thick solid plating / twin funerary towers as told. Possible confusion with Mangala Chaitya (finished 1274) and golden images/relics.
 
 [10] ✗ / ✓ Gleemen and jugglers conquer Mien. ✗ Court jest / hearsay; Chinese give Singtur 1282–83 regular invasion. ✓ 1283–84 fall / flight from Pagán (*Tarok-pyé-Meng*); Chinese and Burmese chronology align. ◇ / ~ Kaan forbids stripping towers (Tartar funerary taboo colour). Wild oxen = gaur / *Bos sondaicus*.
 
-[11] ✗ / ◇ / ✓ Bangala = Bengal as Indo-Chinese neighbour of Mien. ✗ Misplaced; Polo did not enter from Yunnan. ✗ / ? “Not conquered as of 1290; armies gone thither” — no confirmed Yuan conquest of Bengal. ✓ / ~ Eunuch and slave export; cotton and spice trade (Āʾīn-i Akbarī; Barbosa). ✗ / ~ Oxen “tall as elephants” — simile; very tall Indian cattle / Arna height tradition.
+[11] ✗ / ◇ / ✓ Bangala = Bengal as Indo-Chinese neighbour of Mien. ✗ Misplaced; Polo did not enter from Yunnan. ✗ / ? “Not conquered as of 1290; armies gone thither” — no confirmed Yuan conquest of Bengal. ✓ / ~ Eunuch and slave export; cotton and spice trade (Āʾīn-i Akbarī; Barbosa). ✗ / ~ Oxen “tall as elephants” — simile; very tall Indian cattle / Arna height tradition. As cited in Yule: Barbosa [@yc, Intro. § 60].

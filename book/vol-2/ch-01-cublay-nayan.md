@@ -56,21 +56,21 @@ Thus the Ordo of Victory closes into the machinery of favour. A rebel wrapped wi
 
 [2] ✓ / ✗ Right Imperial descent from Chinghis; disputed succession won by ability. ✓ Chinghizide genealogy and Ariq Böke contest historical. ✗ Acceded 1256; sixth Supreme Kaan — ✓ 1260 accession; fifth Kaan (Yule). Age ~85 in 1298 and reign of 42 years are schematic from the 1298 dictation horizon; he died Feb. 1294.
 
-[3] ✗ / ~ “Never went to war save once” after accession. Ariq Böke 1261 and a possible 1289 sortie contradict the absolute claim; the Book emphasises Nayan’s gravity. Campaign year given as 1286; *Yuan Shi* / Gaubil: main action summer 1287.
+[3] ✗ / ~ “Never went to war save once” after accession. Ariq Böke 1261 and a possible 1289 sortie contradict the absolute claim; the Book emphasises Nayan’s gravity. Campaign year given as 1286; *Yuan Shi* / Gaubil: main action summer 1287. As cited in Yule: Gaubil [@yc, 2.4].
 
 [4] ✓ / ~ Nayan–Caidu coordinated rising. ✓ Kaidu pressure and Nayan league real; ~ envoys’ dialogue form. Nayan’s 300,000 and Caidu’s 100,000 are round numbers.
 
 [5] ✗ / ? Nayan “uncle” of Cublay; young man of ~30. Junior-generation cousin (Belgutai / Uchegin line in Chinese notices); age unverified. Appanage in eastern Tartary toward Korea and Manchu country (Onon–Kerulen / Argun–Shilka debates).
 
-[6] ✗ / ~ Secret 10–12 day levy of 360,000 horse + 100,000 foot (“falconers”). ~ Rapid imperial response plausible; ✗ round mega-numbers. Ramusio adds a garrison system (*Aolu* in Mongol-Chinese documents per Palladius) explaining why full levy was not summoned.
+[6] ✗ / ~ Secret 10–12 day levy of 360,000 horse + 100,000 foot (“falconers”). ~ Rapid imperial response plausible; ✗ round mega-numbers. Ramusio adds a garrison system (*Aolu* in Mongol-Chinese documents per Palladius) explaining why full levy was not summoned. As cited in Yule: Palladius [@yc, 2.3].
 
-[7] ~ / ◇ Twenty-day forced march; Nayan surprised asleep with wife. ~ Surprise theme in Chinese strands (Gaubil / Pauthier); ◇ bedchamber detail. Place more than thirty marches from court; Kaan made it in twenty.
+[7] ~ / ◇ Twenty-day forced march; Nayan surprised asleep with wife. ~ Surprise theme in Chinese strands (Gaubil / Pauthier); ◇ bedchamber detail. Place more than thirty marches from court; Kaan made it in twenty. As cited in Yule: Gaubil, Pauthier [@yc, 2.4].
 
-[8] ✓ / ~ Elephant-borne bartizan; foot on horsemen’s cruppers; pre-battle singing; fight only after Prince’s *nakkara*. ✓ Crupper transport in Gaubil; *naqqāra* as pan-Asiatic signal-drum (Joinville; Della Valle; Ain-i-Akbari). ~ Four-elephant tower as Polo spectacle; mass chorus unique to Polo among Yule’s parallels. Nestorian Christianity among eastern Mongol princes historically real; banner-cross as Polo paints it is emblematic.
+[8] ✓ / ~ Elephant-borne bartizan; foot on horsemen’s cruppers; pre-battle singing; fight only after Prince’s *nakkara*. ✓ Crupper transport in Gaubil; *naqqāra* as pan-Asiatic signal-drum (Joinville; Della Valle; Ain-i-Akbari). ~ Four-elephant tower as Polo spectacle; mass chorus unique to Polo among Yule’s parallels. Nestorian Christianity among eastern Mongol princes historically real; banner-cross as Polo paints it is emblematic. As cited in Yule: Gaubil, Joinville [@yc, 2.4].
 
 [9] ✗ Host totals ~760,000 horse in the field. Rhetorical inflation. Battle endured morning to noon; Nayan captured with his barons.
 
-[10] ✓ / ~ Carpet execution to avoid shedding Imperial blood. ✓ Blood-avoidance maxim (Ricold; SE Asian parallels for bloodless royal death); ~ exact method. Nayan as baptized Christian with Cross on banner: ~ / ? Nestorian princes attested; this banner scene emblematic.
+[10] ✓ / ~ Carpet execution to avoid shedding Imperial blood. ✓ Blood-avoidance maxim (Ricold; SE Asian parallels for bloodless royal death); ~ exact method. Nayan as baptized Christian with Cross on banner: ~ / ? Nestorian princes attested; this banner scene emblematic. As cited in Yule: Ricold [@yc, 2.5].
 
 [11] ✓ / ~ Four provinces: Chorcha, Cauly, Barscol, Sikintinju under Nayan. ✓ NE appanage (Manchuria / Korea frontier / Kien-chow); ~ Barscol ID (Barkul west vs Manchu-frontier Abalahu / Bars Koto). Rebellion not ended with Nayan—Hatan (Hachiun line) continued 1287–91.
 
@@ -80,12 +80,12 @@ Thus the Ordo of Victory closes into the machinery of favour. A rebel wrapped wi
 
 [14] ? / ◇ Ramusio: Easter Gospels incense; “I honour all four prophets.” Ramusio layer vs Geographic text. Spirit of multi-faith patronage ✓ in Rubruck–Möngke parallel; wording contested. Do not merge as unmarked Geographic fact.
 
-[15] ? / ✗ Conversion wish and need for 100 learned Latins (echoing Prologue embassy). Conventional conversion-rhetoric; unlikely as literal policy pledge. Simultaneous patronage as Chinghizide political practice (Yule; Koeppen), not private wistfulness à la Akbar.
+[15] ? / ✗ Conversion wish and need for 100 learned Latins (echoing Prologue embassy). Conventional conversion-rhetoric; unlikely as literal policy pledge. Simultaneous patronage as Chinghizide political practice (Yule; Koeppen), not private wistfulness à la Akbar. As cited in Yule: Koeppen [@yc, 2.6].
 
 [16] ✓ / ~ Graded promotions and rich presents after victory. ✓ Reward culture; ~ amounts “astonishing” as rhetoric. Sanang Setzen on Chinghiz rewarding *Orlok* as comparative type.
 
 [17] ✓ / ~ Graded *paiza* (silver / gilt / lion-head); weights in *saggi*; inscribed obedience formula; written warrants (*yarligh*). ✓ *Paiza* / *yarligh* institution firm (Persian historians; Rubruck’s golden plate); ~ exact weights and inscription wording are Book formulation.
 
-[18] ✓ / ~ Sun-and-moon tablet; golden umbrella; silver chair; gerfalcon tablet conferring full requisition. ✓ High *paiza* powers and umbrella honour pan-Asiatic (Carpini; Chinese *Wan min sàn*; Burma etiquette); ~ absolute phrasing (“even a king’s horses”).
+[18] ✓ / ~ Sun-and-moon tablet; golden umbrella; silver chair; gerfalcon tablet conferring full requisition. ✓ High *paiza* powers and umbrella honour pan-Asiatic (Carpini; Chinese *Wan min sàn*; Burma etiquette); ~ absolute phrasing (“even a king’s horses”). As cited in Yule: Carpini [@yc, 2.7].
 
 [19] ~ / ? Polo’s battle narrative vs Chinese campaign records. Shared: personal command, Nayan’s defeat, NE theatre. Diverge on scale, date, religious drama, sequel (Hatan). Comparative: *Yuan Shi*; Rashīd al-Dīn on Kaidu front; Rossabi [-@rossabi1988khubilai]; Hsiao Ch’i-ch’ing on Yuan military institutions; Yule App. on Nayan; Larner [-@larner1999marco] on romance battle diction.

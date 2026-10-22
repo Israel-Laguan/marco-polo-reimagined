@@ -165,5 +165,61 @@ def main():
     print(counts)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__" and "--apply-via-yc" not in sys.argv:
     main()
+
+
+# ---------------------------------------------------------------- pass C: add "As cited in Yule" sentences
+
+# Locator hits checked by hand and found to be ordinary words or other people.
+FALSE_HITS = {("vol-2/ch-07-tebet-carajan.md", "Salt"), ("vol-3/ch-01-ships-chipangu.md", "Major")}
+NO_HIT_NAMES = {"Relations"}          # the Arab Relations: Yule's hits are a French book title
+# Primary sources whose key is a modern translation the Notes do not rely on.
+PRIMARY = {"Rubruck", "Ibn Baṭṭūṭa", "Ibn Battuta", "Pegolotti", "Juvaini", "Juvainī", "Ma Huan",
+           "Hiuen Tsang", "Odoric", "Marignolli", "Montecorvino", "Duhalde"}
+
+
+def yc_cite(loc):
+    return "[@yc, " + loc[len("YC "):] + "]"
+
+
+def apply_via_yc(worklist, write):
+    import csv
+    keys = {r["name_as_cited"]: r["keys"] for r in csv.DictReader((BOOK / "plans/registry/name-keys.csv").open(encoding="utf-8"))}
+    todo, path = {}, None
+    for line in Path(worklist).read_text(encoding="utf-8").split("\n"):
+        if line.startswith("## "):
+            path = line[3:].strip()
+        m = re.match(r"^\| (\d+) \| via-yc \| ([^|]+) \| [^|]* \| ([^|]+) \| (in range|intro) \|", line)
+        if m and (path, m.group(2).strip()) not in FALSE_HITS and m.group(2).strip() not in NO_HIT_NAMES:
+            todo.setdefault(path, {}).setdefault(int(m.group(1)), []).append((m.group(2).strip(), m.group(3).strip()))
+    changed = 0
+    for rel, by_line in sorted(todo.items()):
+        f = BOOK / rel
+        lines = f.read_text(encoding="utf-8").split("\n")
+        for ln, items in by_line.items():
+            text = lines[ln - 1]
+            if not re.match(r"^\[\d+\]", text) or "As cited in Yule:" in text:
+                continue
+            seen, groups = set(), {}
+            for name, loc in sorted(items, key=lambda x: text.find(x[0])):
+                if name in seen:
+                    continue
+                seen.add(name)
+                # Names only: one surname can be two people (Baber = the emperor Babur in Vol. I,
+                # E. C. Baber in Vol. II), so per-work keys are added at each chapter's .T4.
+                groups.setdefault(loc, []).append(name)
+            parts = [", ".join(names) + " " + yc_cite(loc) for loc, names in groups.items()]
+            new = text.rstrip() + (" " if text.rstrip().endswith((".", ")", "]")) else ". ") + "As cited in Yule: " + "; ".join(parts) + "."
+            if write:
+                lines[ln - 1] = new
+            else:
+                print(f"{rel}:{ln}\n   + As cited in Yule: {'; '.join(parts)}.")
+            changed += 1
+        if write:
+            f.write_text("\n".join(lines), encoding="utf-8")
+    print(f"{changed} Note lines {'changed' if write else 'to change'}")
+
+
+if __name__ == "__main__" and "--apply-via-yc" in sys.argv:
+    apply_via_yc(BOOK / "plans/status/pass-b-worklist.md", "--write" in sys.argv)

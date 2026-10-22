@@ -54,41 +54,41 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 ## Notes
 
-[1] ✓ Aden as major Indian Ocean–Red Sea entrepôt (Ibn Baṭṭūṭa; Makrizi; long Islamic–China and India trade). Saracen; hatred of Christians; many towns. Gazetteer: *reported_only*.
+[1] ✓ Aden as major Indian Ocean–Red Sea entrepôt (Ibn Baṭṭūṭa; Makrizi; long Islamic–China and India trade). Saracen; hatred of Christians; many towns. Gazetteer: *reported_only*. As cited in Yule: Ibn Baṭṭūṭa, Makrizi [@yc, 3.36].
 
 [2] ✓ / ~ Spice path Aden → small craft → camel → Nile → Alexandria. ✓ overall corridor; ~ exact 7-day / 30-day stages and landing (Suakin / ʿAidhāb / Kosseir variants). Marino Sanudo’s Aden–Nile transit useful comparison.
 
-[3] ✓ Soldan of Aden = Rasulid Yemen (Taʿizz seat; Aden chief port). Ramusio expands Red Sea gulf (~20 days), *zerms* to Cairo, *Calizene* canal — looks edited; Polo never says “Cairo.” Ibn Baṭṭūṭa: mountain-locked, rain-tanks, Indian and Egyptian merchants. Makrizi: Indian ships at Aden until exactions (~1325) push trade toward Jidda.
+[3] ✓ Soldan of Aden = Rasulid Yemen (Taʿizz seat; Aden chief port). Ramusio expands Red Sea gulf (~20 days), *zerms* to Cairo, *Calizene* canal — looks edited; Polo never says “Cairo.” Ibn Baṭṭūṭa: mountain-locked, rain-tanks, Indian and Egyptian merchants. Makrizi: Indian ships at Aden until exactions (~1325) push trade toward Jidda. As cited in Yule: Ibn Baṭṭūṭa, Makrizi [@yc, 3.36].
 
 [4] ✓ / ~ Horse exports (Arab chargers, palfreys, stout nags); India pays high (100+ marks silver per charger) — ✓ high Indian remount prices (Maabar notices); ~ exact figure. Soldan among the world’s richest from duties — ✓ pattern.
 
 [5] ~ / ◇ Acre 1291: Soldan of Babylon takes Acre; Soldan of Aden sends 30k horse / 40k camels — more from hate of Christians than love of Egypt; mutual hatred of the two Soldans. Acre fall ✓ 1291; Arabia summoned ✓; contingent numbers ◇ / inflated. Motive speech Venetian colour.
 
-[6] ✓ Acre 1291 as chronological anchor from outside the Asia years; Venetian bitterness living at dictation. Joinville’s legate had once foretold Acre washed in Christian blood — tonal parallel, not source of Polo’s numbers.
+[6] ✓ Acre 1291 as chronological anchor from outside the Asia years; Venetian bitterness living at dictation. Joinville’s legate had once foretold Acre washed in Christian blood — tonal parallel, not source of Polo’s numbers. As cited in Yule: Joinville [@yc, 3.36].
 
-[7] ✓ Esher = ash-Shiḥr; subject to Aden; Indian haven; surviving town/district; Barbosa traffic. ~ 400 miles NW of Aden as survey.
+[7] ✓ Esher = ash-Shiḥr; subject to Aden; Indian haven; surviving town/district; Barbosa traffic. ~ 400 miles NW of Aden as survey. As cited in Yule: Barbosa [@yc, 3.37].
 
 [8] ✓ / ~ Frankincense monopoly (buy 10 / sell 60 livres gold per cwt) — ✓ Sheḥr–Dhafār monopoly pattern (Marāṣid); ~ exact ratio. Dates; little rice (imported); tunny cheap; sugar/rice/date wine.
 
-[9] ✓ Fish-fed cattle (horses, oxen, camels) on arid coast — Edrisi; Ibn Baṭṭūṭa; continuous Ichthyophagi report from Mekran to Gulf. ✓ / ~ Earless / horn-eared sheep — ✓ small-eared / multi-horn breeds exist; ~ “no ears” wording. Dried fish stored like biscuit.
+[9] ✓ Fish-fed cattle (horses, oxen, camels) on arid coast — Edrisi; Ibn Baṭṭūṭa; continuous Ichthyophagi report from Mekran to Gulf. ✓ / ~ Earless / horn-eared sheep — ✓ small-eared / multi-horn breeds exist; ~ “no ears” wording. Dried fish stored like biscuit. As cited in Yule: Edrisi [@yc, 3.37]; Ibn Baṭṭūṭa [@yc, 3.36].
 
 [10] ★★★ Frankincense economy strong — monopoly pricing, notch-harvest, white *lubān*, Sheḥr–Dhafār hills as true ancient source (with Somali *peratic* supply). Fish-cattle ★★★ ethnographic hit.
 
 [11] ✓ Dufar = Dhofar frankincense plain; Saracen; Count under Soldan of Aden; good haven; India traffic; Arab horses. Classical and modern olibanum country. Site debate: Haffer ruins vs eastern plain / Merbāṭ. Ming *Tsafarh*; Camoens’ fragrant Dofar.
 
-[12] ✓ Notch harvest of white incense; trees like small firs (~ simile only; actual *Boswellia* not fir); sometimes sun-flow without notch. Birdwood on *Boswellia*; Arabian incense-route archaeology.
+[12] ✓ Notch harvest of white incense; trees like small firs (~ simile only; actual *Boswellia* not fir); sometimes sun-flow without notch. Birdwood on *Boswellia*; Arabian incense-route archaeology. As cited in Yule: Birdwood [@yc, 3.38].
 
-[13] ✓ / ~ Ibn Baṭṭūṭa at Dhafār: horse-trade, dirt, flies; sultan kin to Yemen. Marāṣid: death for diversion of incense.
+[13] ✓ / ~ Ibn Baṭṭūṭa at Dhafār: horse-trade, dirt, flies; sultan kin to Yemen. Marāṣid: death for diversion of incense. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36].
 
-[14] ✓ Calatu = Qalhāt; Hormuzi stronghold and refuge (Ibn Baṭṭūṭa; Teixeira; Portuguese *Calaiate*). Melic of Hormos flees hither in war — strong site and walls. Earthquake ruin later.
+[14] ✓ Calatu = Qalhāt; Hormuzi stronghold and refuge (Ibn Baṭṭūṭa; Teixeira; Portuguese *Calaiate*). Melic of Hormos flees hither in war — strong site and walls. Earthquake ruin later. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36]; Teixeira [@yc, 3.39].
 
 [15] ✓ Massive annual horse export Calatu / Aden coast to India — enduring Gulf–India remount trade. ✓ / ~ Indian mismanagement kills imported horses — ✓ Book’s Maabar theme; ~ as universal cause. No corn (imported); large haven; spices distributed inland.
 
-[16] ✓ / ~ Melic can blockade Gulf vs Kerman overlord — ✓ Hormuz–Kerman tension and Kalhāt refuge; ~ as routine fiscal lever. ~ Stronger castle commanding Gulf entry = Muscat (Yule’s identification; not named in text). Diet: dates and salt fish; nobles better. Ibn Baṭṭūṭa: bazaars, Kāshān-tiled mosque, Indian merchants, Hormuzi overlordship.
+[16] ✓ / ~ Melic can blockade Gulf vs Kerman overlord — ✓ Hormuz–Kerman tension and Kalhāt refuge; ~ as routine fiscal lever. ~ Stronger castle commanding Gulf entry = Muscat (Yule’s identification; not named in text). Diet: dates and salt fish; nobles better. Ibn Baṭṭūṭa: bazaars, Kāshān-tiled mosque, Indian merchants, Hormuzi overlordship. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36].
 
 [17] ✓ Hormos heat; *bād-gīr* wind-catcher houses — classic Gulf / Iranian / Sind architecture. Melic under Kerman; Saracen towns. Leave Calatu ~300 miles NW–N → Hormos.
 
-[18] ✓ Wind-catchers corroborated (Della Valle / Figueroa / Fryer; Oman, Kerman, Baghdad, Mekran, Sind; Cairo analogue). Neat ethnographic hit of III.xl.
+[18] ✓ Wind-catchers corroborated (Della Valle / Figueroa / Fryer; Oman, Kerman, Baghdad, Mekran, Sind; Cairo analogue). Neat ethnographic hit of III.xl. As cited in Yule: Figueroa, Fryer [@yc, 3.40].
 
 [19] ✓ / ? Second mention because outbound ≠ return itinerary — ✓ Book’s own logic; ? biographical which visit when (classic Hormuz route problem: outbound abort / return landfall / both). Cross-ref Book I Hormos and Kerman (stitched ships, dates-and-fish, simoom).
 

@@ -43,15 +43,15 @@ Why, then, a formal retelling now — after Catalan gold leaf, Fra Mauro’s dis
 
 [3] ✓ Portolans and merchant/Arabic knowledge precede and outweigh Polo for many coasts. Dispute hook against overstated “influence”: Polo is *a* source, not *the* source. Book thickened Europe’s inland Asia; did not invent the merchant’s need to know.
 
-[4] ✓ Fra Mauro (c. mid-15th c.): Venetian Camaldolese workshop world map; Signory interest; Portuguese commission tradition. Dense Asia inscriptions; distances and marvels often qualified; Polo among authorities for inland and maritime Asia beyond Red Sea and Levantine knowledge. ★★ Important reception geography; not a pure Polo transcription.
+[4] ✓ Fra Mauro (c. mid-15th c.): Venetian Camaldolese workshop world map; Signory interest; Portuguese commission tradition. Dense Asia inscriptions; distances and marvels often qualified; Polo among authorities for inland and maritime Asia beyond Red Sea and Levantine knowledge. ★★ Important reception geography; not a pure Polo transcription. As cited in Yule: Fra Mauro [@yc, Intro. § 85].
 
 [5] ✓ / ~ Toponyms wander between Book and maps — Chipangu / Cipangu / Zipangu; Cathay; Mangi / Manzi; Quinsay / Kinsay / Hangzhou; Cambaluc / Khanbaliq / Beijing; Zaiton / Zayton / Quanzhou; Lop; Hormos; Maabar; Scotra. ✓ circulation real; ~ any single label’s stem may be mixed. Soft method: treat cartographic Polo as reception evidence, not as proof of the Traveller’s boots.
 
-[6] ✓ Columbus annotated Latin Polo (Pipino tradition) — extant postils / ownership tradition in scholarship. Margins and related notes feed western-Ocean expectancy and the *Book of Prophecies* orbit. Selective amplification: gold of Chipangu, Cathay, Great Kaan, spices, habitability and conversion cues.
+[6] ✓ Columbus annotated Latin Polo (Pipino tradition) — extant postils / ownership tradition in scholarship. Margins and related notes feed western-Ocean expectancy and the *Book of Prophecies* orbit. Selective amplification: gold of Chipangu, Cathay, Great Kaan, spices, habitability and conversion cues. As cited in Yule: Pipino [@yc, Intro. § 18].
 
 [7] ✓ Columbus selectively amplified Chipangu gold and Cathay expectancy — reading pattern clear in margins and voyage ideology. ✗ Polo “caused” the discovery of America — overstated causation; seamanship and Atlantic context primary (Portuguese African probes; Lisbon–Seville capital; portolan mind). Cross-ref III-1: Chipangu gold exaggeration as Columbus expectancy seed.
 
-[8] ✓ Print editions and Ramusio elevated Polo’s fame — 16th-c. reception. ✓ / ◇ Ramusio preserves tradition and some expansions beyond Geographic text — ✓ editorial elevation; ◇ homecoming novella as literal fact (see III-10). Soft print paradox: “the Book” becomes a family of books wearing one name (Pipino Latin; Tuscan; Venetian dialect; Ramusio Italian).
+[8] ✓ Print editions and Ramusio elevated Polo’s fame — 16th-c. reception. ✓ / ◇ Ramusio preserves tradition and some expansions beyond Geographic text — ✓ editorial elevation; ◇ homecoming novella as literal fact (see III-10). Soft print paradox: “the Book” becomes a family of books wearing one name (Pipino Latin; Tuscan; Venetian dialect; Ramusio Italian). As cited in Yule: Pipino [@yc, Intro. § 18].
 
 [9] ✓ Jesuits reread Polo against Ming China (Matteo Ricci orbit). Recognitions and corrections against lived China; silences (tea, foot-binding, Wall-as-modern-icon, sparse Chinese onomastics) noted in mission and later sceptical literature. Soft conscription: mission strategy and European “we knew already” claims use the Book; experience also chastens it.
 

@@ -52,9 +52,9 @@ Thus reception closes the travellers’ lives without closing the Traveller’s 
 
 [4] ◇ / ✗ as fact Crimson satin–damask–velvet changes divided among servants; jewels ripped from travel clothes (wealth converted from the Kaan’s gold for the long road); city flocking. Arabian-Nights flourish; not archival fact. Belongs to final-return legend cycle (c. 1295); weighed already against 1269 embroidery in I-2.
 
-[5] ✓ Nickname *Milione* / *Marchus Paulo Milioni* — Great Council 10 Apr 1305; Jacopo; house-name Corte del Milione. Ramusio: from Marco’s habitual “millions” of Kaan’s wealth — Yule’s preferred natural explanation.
+[5] ✓ Nickname *Milione* / *Marchus Paulo Milioni* — Great Council 10 Apr 1305; Jacopo; house-name Corte del Milione. Ramusio: from Marco’s habitual “millions” of Kaan’s wealth — Yule’s preferred natural explanation. As cited in Yule: Jacopo [@yc, Intro. § 37].
 
-[6] ✓ / ~ Etymology: habitual “millions” of Kaan’s wealth (Yule/Ramusio preferred); ~ not exclusive of wealth-fortune folk etymology (Jacopo d’Acqui: *Milono* ≈ “a thousand thousand pounds”). ? / ◇ *Milione* as “million lies” insult — popular later reading; not the archival sense. ◇ / ? Carnival Munchausen “Marco Milioni” — anecdotal; colour of disbelief. ★★ Nickname real in archives; etymology debated; insult reading not primary medieval sense.
+[6] ✓ / ~ Etymology: habitual “millions” of Kaan’s wealth (Yule/Ramusio preferred); ~ not exclusive of wealth-fortune folk etymology (Jacopo d’Acqui: *Milono* ≈ “a thousand thousand pounds”). ? / ◇ *Milione* as “million lies” insult — popular later reading; not the archival sense. ◇ / ? Carnival Munchausen “Marco Milioni” — anecdotal; colour of disbelief. ★★ Nickname real in archives; etymology debated; insult reading not primary medieval sense. As cited in Yule: Jacopo [@yc, Intro. § 37].
 
 [7] ✓ Marriage to Donata; daughters Fantina, Bellela, Moreta — will and later papers. ✓ Musk lawsuit 1311 (1½ lb musk; half sold; 1 *saggio* short; judgment for plaintiff with costs); stairs/porticoes suit May 1323. Donata family ?Loredano suspected, not proved. Soft merchant breath: millions of the Kaan / sixth of an ounce of musk.
 
@@ -62,7 +62,7 @@ Thus reception closes the travellers’ lives without closing the Traveller’s 
 
 [9] ✓ Cepoy gift of a Book-copy, Aug 1307 — MS colophon note on Paris Fr. 5649 and Bern; treaty context 14 Dec 1306 (Thibault de Cepoy + Pierre le Riche, Valois envoys). ★★★ Rare documentary stem of early French transmission: Venice → Cepoy → son Jean → Valois → friends.
 
-[10] ✓ / ~ Pipino Latin version in Marco’s later lifetime (~1315–20 in Ramusio’s assignment) — ✓ translation and clerical spread; ~ exact year. Preface affirms faith and utility vs incredulous; Chronicle uses Polo; Modena extract names Marcus Paulus ~27 years among Tartars. ✓ Villani cites *Milione* beside Hayton. ✓ Medieval readership wide but not ubiquitous (Larner [-@larner1999marco] caution) — named 14th-c. refs finite (Cepoy, Pipino, Jacopo, Villani, d’Abano, John of Ypres); MS geography real; print-age inflation to be resisted.
+[10] ✓ / ~ Pipino Latin version in Marco’s later lifetime (~1315–20 in Ramusio’s assignment) — ✓ translation and clerical spread; ~ exact year. Preface affirms faith and utility vs incredulous; Chronicle uses Polo; Modena extract names Marcus Paulus ~27 years among Tartars. ✓ Villani cites *Milione* beside Hayton. ✓ Medieval readership wide but not ubiquitous (Larner [-@larner1999marco] caution) — named 14th-c. refs finite (Cepoy, Pipino, Jacopo, Villani, d’Abano, John of Ypres); MS geography real; print-age inflation to be resisted. As cited in Yule: Pipino [@yc, Intro. § 18]; Villani, Jacopo [@yc, Intro. § 37]; Hayton [@yc, Intro. § 10].
 
 [11] ✓ / ~ Pietro d’Abano personally knew Marco; Antarctic “star as big as a sack” / tailed figure sketched; pole altitude; camphor, aloes, brazil; intense heat — spoken of an island reached by sea (cross-ref Vol. III southern ocean). ✓ passage genuine; ~ astronomical identification of the “star” (Canopus / Magellanic wonder).
 
@@ -74,6 +74,6 @@ Thus reception closes the travellers’ lives without closing the Traveller’s 
 
 [15] ✓ No authentic contemporary portrait — Yule’s conclusion still stands. Early print woodcut; Badia “Titian” ~1600; Griselini medallion 1761; later statues/medals/mosaics (incl. Genoa Municipio). False relics / pious attributions flagged.
 
-[16] ◇ / ~ Jacopo d’Acqui deathbed “not one-half of what he had seen” — near-contemporary chronicle colour; precious, not sworn fact. Capture garbled (Ayas 1294 impossible) but dictum kept. Distrust and delight as paired reception.
+[16] ◇ / ~ Jacopo d’Acqui deathbed “not one-half of what he had seen” — near-contemporary chronicle colour; precious, not sworn fact. Capture garbled (Ayas 1294 impossible) but dictum kept. Distrust and delight as paired reception. As cited in Yule: Jacopo [@yc, Intro. § 37].
 
 **Comparative:** Ramusio preface (Yule Intro. §§2–7); Yule Intro. §§22, 44–49 (Milione, Cepoy, marriage, will, burial, family), §§76–78 (contemporary refs; d’Abano; Bauduin); Jacopo d’Acqui; Pipino prologue/Chronicle; Villani; Polo will text; Moule–Pelliot / Benedetto MS typology; Larner on medieval readership; Critchley.

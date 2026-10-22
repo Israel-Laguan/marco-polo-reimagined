@@ -62,45 +62,45 @@ Here the chapter stops short of the bridge of Pulisanghin (Lugou / Marco Polo Br
 
 ## Notes
 
-[1] ✓ Ahmad (Achmath) as oppressive finance minister under Kublai. *Yuan shi* Ahama; Gaubil; De Mailla; Persian notices. Entire narrative from Ramusio—flag as Ramusio layer. Name printed *Achmach* in Ramusio; Yule restores *Achmath*.
+[1] ✓ Ahmad (Achmath) as oppressive finance minister under Kublai. *Yuan shi* Ahama; Gaubil; De Mailla; Persian notices. Entire narrative from Ramusio—flag as Ramusio layer. Name printed *Achmach* in Ramusio; Yule restores *Achmath*. As cited in Yule: Yuan shi [@yc, 2.34]; Gaubil, De Mailla [@yc, 2.23].
 
 [2] ✓ / ~ ~22 years’ dominance; office-selling; forced marriages. ✓ Career span and methods broadly; ~ novelistic detail density. Five-and-twenty sons in office: round number.
 
-[3] *Bailo* = Venetian projection onto Yuan office. Ahmad of Fenāket (later Shāh-Rūkhia) near the Jaxartes; Empress Jamui Khatun; finance from 1264; *Yuan shi* ch. 205 “Villanous Ministers.”
+[3] *Bailo* = Venetian projection onto Yuan office. Ahmad of Fenāket (later Shāh-Rūkhia) near the Jaxartes; Empress Jamui Khatun; finance from 1264; *Yuan shi* ch. 205 “Villanous Ministers.”. As cited in Yule: Yuan shi [@yc, 2.34].
 
-[4] ✓ Plot by Wangchu / Vanchu & Chang-y / Chenchu in Kaan’s absence (spring 1282; Gaubil 1281). Chinese and Polo narratives agree on core. ~ / ? Beacon-signal massacre of bearded men (foreigners): plausible anti-*semuren* design; scale and coordination rhetorical. Foreign-governor grievance historically real.
+[4] ✓ Plot by Wangchu / Vanchu & Chang-y / Chenchu in Kaan’s absence (spring 1282; Gaubil 1281). Chinese and Polo narratives agree on core. ~ / ? Beacon-signal massacre of bearded men (foreigners): plausible anti-*semuren* design; scale and coordination rhetorical. Foreign-governor grievance historically real. As cited in Yule: Gaubil [@yc, 2.23].
 
 [5] ✓ Core assassination sequence. Weapon differs: Chinese telling has Wangchu strike with a copper mace; Polo has sword by Chenchu. Cogatai garrison captain; Old City / New City geography.
 
 [6] ✓ / ~ Body dug up, cast to dogs; sons flayed; treasure seized. ✓ Desecration and confiscation in Chinese notices; ~ flaying colour. ✓ / ~ Post-Ahmad restrictions on Muslim marriage and *ḥalāl* slaughter: Rashīd al-Dīn parallels on throat-cutting bans and court friction.
 
-[7] ✓ / ? Polo “upon the spot”; Chinese annals name Polo explaining Ahmad’s crimes. ✓ De Mailla/Gaubil notice is a presence pillar [@vogel2013marco; @haw2006marco; @rossabi1988khubilai]; ? Wood-sceptic challenges to name/office transmission. Soft transition to Mint.
+[7] ✓ / ? Polo “upon the spot”; Chinese annals name Polo explaining Ahmad’s crimes. ✓ De Mailla/Gaubil notice is a presence pillar [@vogel2013marco; @haw2006marco; @rossabi1988khubilai]; ? Wood-sceptic challenges to name/office transmission. Soft transition to Mint. As cited in Yule: De Mailla, Gaubil [@yc, 2.23].
 
 [8] ✓ Paper money from tree bast; vermilion seal; death for forgery. Yuan *chao*; surviving Ming analogues; mulberry vs *Broussonetia* botanical nicety. Chinese paper currency from 9th c.; Kin notes; Mongol issues from 1236; Kublai 1260 series.
 
 [9] ✓ / ~ Compulsory empire-wide acceptance; Mint bullion monopoly. ✓ Fiat system; ~ “all valuables” absolutism. ✓ / ~ 3% replacement of worn notes; merchant preference for paper lightness: replacement fees attested; merchant logic sound.
 
-[10] ✗ (omission) Silence on inflation / 1287 5:1 revaluation. System described accurately as working alchemy; failures omitted. Western travellers corroborate (Rubruck; Odoric; Hayton; Ibn Baṭṭūṭa; Pegolotti).
+[10] ✗ (omission) Silence on inflation / 1287 5:1 revaluation. System described accurately as working alchemy; failures omitted. Western travellers corroborate (Rubruck; Odoric; Hayton; Ibn Baṭṭūṭa; Pegolotti). As cited in Yule: Odoric, Hayton, Ibn Baṭṭūṭa, Pegolotti [@yc, 2.24].
 
-[11] ✓ / ~ Twelve Barons of the *Shieng* / *Sing*. ✓ *Sheng* council and twelve provincial *sings* (Rashīd; Odoric *Singo*); ~ exact “twelve Barons” cabinet. Confusion of Chinese *Siang* 相 and *Sheng* 省 among Persian-speaking courtiers. ? / ~ Thirty-four provinces: not the twelve *sheng*; may be *fu* or itinerary count.
+[11] ✓ / ~ Twelve Barons of the *Shieng* / *Sing*. ✓ *Sheng* council and twelve provincial *sings* (Rashīd; Odoric *Singo*); ~ exact “twelve Barons” cabinet. Confusion of Chinese *Siang* 相 and *Sheng* 省 among Persian-speaking courtiers. ? / ~ Thirty-four provinces: not the twelve *sheng*; may be *fu* or itinerary count. As cited in Yule: Odoric [@yc, 2.24].
 
-[12] ✓ *Yamb* (*yam*) post-houses every ~25–30 miles. Mongol *yam*; Ögödei network from 1234; Shah Rukh embassy *Yám-Khána*; Odoric; Rubruck; Chinese *zhàn* 站. ✗ / ~ >300,000 post-horses; >10,000 station buildings: ~ institution real; ✗ empire census rhetoric.
+[12] ✓ *Yamb* (*yam*) post-houses every ~25–30 miles. Mongol *yam*; Ögödei network from 1234; Shah Rukh embassy *Yám-Khána*; Odoric; Rubruck; Chinese *zhàn* 站. ✗ / ~ >300,000 post-horses; >10,000 station buildings: ~ institution real; ✗ empire census rhetoric. As cited in Yule: Shah Rukh [@yc, 2.26]; Odoric [@yc, 2.24].
 
 [13] ✓ / ~ Bell-belt foot-runners every 3 miles; clerks time-log. ✓ Runner/post practice; ~ exact 3-mile lattice. ~ Fruit Cambaluc→Chandu in ~1½ days: dual-capital speed anecdote; distance compressed.
 
 [14] ✓ / ~ Express 200–250 miles/day; gerfalcon tablet commandeers horses. ✓ Urgent *paiza* courier type; ~ nightly equal mileage. Local levy of horses; monthly rotation at grass; boats at crossings.
 
-[15] ✓ Tax remission and grain seed after dearth; cattle after murrain. Chinese character notices; *Yuan shi* dearth regs; Wassāf justice anecdote. ◇ / ~ Arrow-struck flock/boat exempt from tithe: Ramusio omen-logic; steppe unluck plausible.
+[15] ✓ Tax remission and grain seed after dearth; cattle after murrain. Chinese character notices; *Yuan shi* dearth regs; Wassāf justice anecdote. ◇ / ~ Arrow-struck flock/boat exempt from tithe: Ramusio omen-logic; steppe unluck plausible. As cited in Yule: Yuan shi [@yc, 2.34].
 
-[16] ✓ Highway tree avenues; desert stone markers. Asoka parallel; Williamson on surviving northern avenues. ✓ Spiced rice-wine, strong and clear. Chinese *mi jiu* / *shao jiu* culture (Amyot; Rubruck Auxerre comparison; Odoric *bigni*).
+[16] ✓ Highway tree avenues; desert stone markers. Asoka parallel; Williamson on surviving northern avenues. ✓ Spiced rice-wine, strong and clear. Chinese *mi jiu* / *shao jiu* culture (Amyot; Rubruck Auxerre comparison; Odoric *bigni*). As cited in Yule: Amyot [@yc, 2.26]; Odoric [@yc, 2.24].
 
-[17] ✓ Black stones dug and burnt for fuel (coal). Famous ethnographic hit; Ibn Baṭṭūṭa; Rashīd; Richthofen on Shanxi fields. ~ Bathing frequency requiring coal over wood: bath culture real; universal thrice-weekly claim rhetorical.
+[17] ✓ Black stones dug and burnt for fuel (coal). Famous ethnographic hit; Ibn Baṭṭūṭa; Rashīd; Richthofen on Shanxi fields. ~ Bathing frequency requiring coal over wood: bath culture real; universal thrice-weekly claim rhetorical. As cited in Yule: Ibn Baṭṭūṭa [@yc, 2.24]; Richthofen [@yc, 2.30].
 
 [18] Coal as hit against silence arguments (Wood [-@wood1995did] debate). Soft transition to granaries.
 
-[19] ✓ / ~ State granaries buying cheap, issuing ~¼ price. ✓ Ever-normal granary type (*Yuan shi*; Bretschneider; Archbishop of Soltania); ~ exact ratio.
+[19] ✓ / ~ State granaries buying cheap, issuing ~¼ price. ✓ Ever-normal granary type (*Yuan shi*; Bretschneider; Archbishop of Soltania); ~ exact ratio. As cited in Yule: Yuan shi [@yc, 2.34]; Bretschneider [@yc, 2.24].
 
-[20] ✓ / ✗ Annual family doles; ~30,000 daily hot loaves. ✓ Charity institutions; ✗ daily thirty-thousand. ~ / ◇ Tithe-cloth and artisans’ weekly day for poor clothing: Ramusio; Buddhist alms-turn plausible (Yule: Asoka; Fahian; Hiuen Tsang).
+[20] ✓ / ✗ Annual family doles; ~30,000 daily hot loaves. ✓ Charity institutions; ✗ daily thirty-thousand. ~ / ◇ Tithe-cloth and artisans’ weekly day for poor clothing: Ramusio; Buddhist alms-turn plausible (Yule: Asoka; Fahian; Hiuen Tsang). As cited in Yule: Hiuen Tsang [@yc, 2.32].
 
 [21] ✓ / ✗ ~5,000 astrologers; *Tacuin* almanacs. ✓ Multi-faith calendar culture and Persianate *taqwīm*; ✗ headcount. Yuan government almanacs in huge print runs (1328 figures); silence on printing itself remains a famous omission. ✓ / ~ Twelve-animal birth-year cycle: ✓ Mongol–Chinese cycle; ~ Book’s animal list imperfect vs standard rat–pig. Observatory instruments of Guo Shoujing era—Chinese and Islamic astronomers under Yuan often conflated in Western notice. *Tacuin* word as evidence of Polo’s Persian court speech more than Chinese literacy.
 
@@ -108,4 +108,4 @@ Here the chapter stops short of the bridge of Pulisanghin (Lugou / Marco Polo Br
 
 [23] ~ / ◇ Ornate polite speech; filial-punishment office; triennial branded release; gambling ban; quiet approach; spittoons; white leather buskins. Ramusio manners ethnography; mixed Chinese–court observation. *Sbattendo i denti* almost certainly scribal error for brow-striking (Yule).
 
-[24] Soft landing only to Pulisanghin and the west–southwest circuit (II-6). Comparative: *Yuan shi* (Ahmad; granaries; calendar); Gaubil; De Mailla; Franke [-@franke1994china]; Vogel [-@vogel2013marco] on money and salt; Needham (coal; astronomy—selective); Haw [-@haw2006marco]; Wood [-@wood1995did] vs critics; Rashīd al-Dīn (*Sing*; coal); Pegolotti; Odoric; Ibn Baṭṭūṭa; Palladius; Bretschneider; Richthofen; Rossabi [-@rossabi1988khubilai]; Yule–Cordier notes passim.
+[24] Soft landing only to Pulisanghin and the west–southwest circuit (II-6). Comparative: *Yuan shi* (Ahmad; granaries; calendar); Gaubil; De Mailla; Franke [-@franke1994china]; Vogel [-@vogel2013marco] on money and salt; Needham (coal; astronomy—selective); Haw [-@haw2006marco]; Wood [-@wood1995did] vs critics; Rashīd al-Dīn (*Sing*; coal); Pegolotti; Odoric; Ibn Baṭṭūṭa; Palladius; Bretschneider; Richthofen; Rossabi [-@rossabi1988khubilai]; Yule–Cordier notes passim. As cited in Yule: Yuan shi [@yc, 2.34]; Gaubil, De Mailla [@yc, 2.23]; Pegolotti, Odoric, Ibn Baṭṭūṭa, Palladius, Bretschneider [@yc, 2.24]; Richthofen [@yc, 2.30].
