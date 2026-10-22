@@ -35,6 +35,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Gazetteer `Abyssinia` vs the book's `Abash`. — vol-3 m4 · ch-07
 - (Context only: :13 and Note [2] rightly refuse Male = Maldives; the fix sits in III-F2 and the gazetteer.)
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-07.T3`.
+- **Pelliot contradicts the chapter (2026-10-22):** Polo's Madeigascar is **Mogadishu** in both name and description, not Madagascar mixed with Mogadishu. Pelliot, *Notes* II pp. 779–781, after Grandidier 1892; the modern name 'Madagascar' comes from Polo's misread form via Behaim's globe. Revise the narrative gloss and the Notes; the gazetteer row now points to Mogadishu. Source register: `research/results/GAZ-citable-findings.md`.
 
 ### Length and structure
 — none found (2,742 words; scorecard: "Good disputes")

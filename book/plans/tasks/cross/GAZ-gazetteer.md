@@ -27,6 +27,7 @@
 - **Lint rule** (`tools/lint.py` `name_policy`, warning): a non-canonical form used bare in a narrative chapter; the first mention of a book form without a gloss. Promote to error after the last chapter naming pass (`.T3`/`.T1` of every file).
 
 ## Backlog
+- **After S-04 (2026-10-22), Pelliot's full entries changed three rows:** Nanghin → Kaifeng; Madeigascar → Mogadishu (Magadoxo merged; 194 rows); Locac → Lopburi. See `research/results/GAZ-citable-findings.md` § 6 and `GAZ-pelliot-locators.csv` (Pelliot locators for 156 rows).
 - Coordinates are county-seat precision for the 58 `probable` rows and absent for the 14 rows without a point (12 `unfixed`, plus the `disputed` Bangala and Cuju); none has been checked against a second source beyond Yule/Cordier notes and general reference.
 - front-02 place tables (3 volumes) still follow the old gazetteer and must be regenerated.
 - The chapters themselves are inconsistent (*Tauris/Tabriz*, *Hormos/Hormuz*, *Kisi/Kish/Kis*, *Chandu/Shangdu*): 86 places, 245 bare variants in `plans/status/gazetteer-name-diff.md`. They are fixed in each chapter's naming pass.

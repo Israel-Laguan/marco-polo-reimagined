@@ -2,7 +2,7 @@
 
 `python3 tools/gazetteer.py report --md` · prose only (Notes, quotations, tables excluded). A *bare variant* is a non-canonical form used outside a gloss beside the book form.
 
-**86 places** have bare variants in the chapters (**244** occurrences). 99 chapter-first-mentions of a book form have no gloss at all.
+**86 places** have bare variants in the chapters (**247** occurrences). 99 chapter-first-mentions of a book form have no gloss at all.
 
 ## Bare variants by place
 
@@ -62,7 +62,7 @@
 | Cayu | Gaoyou, Jiangsu, China | **Kao-yu** — II-11 ×1 |
 | Tinju | Nantong (Tung-chau), Jiangsu, China | **I-chin** — II-11 ×1; **Tung-chau** — II-11 ×1 |
 | Yanju | Yangzhou, Jiangsu, China | **Yangzhou** — II-10 ×1, II-11 ×3, II-12 ×1 |
-| Nanghin | Anqing (Ngan-king), Anhui, China | **Nanjing** — II-11 ×1; **Ngan-king** — II-11 ×1 |
+| Nanghin | Kaifeng (Yuan Nan-ching / Bianliang Lu), Henan, China | **Kaifeng** — II-01 ×1; **Nanjing** — II-11 ×1; **Ngan-king** — II-11 ×1 |
 | Saianfu | Xiangyang, Hubei, China | **Xiangyang** — II-10 ×1 |
 | Sinju | Yizheng, Jiangsu, China | **I-ching** — II-12 ×1 |
 | Caiju | Guazhou, Jiangsu, China | **Kwa-chau** — II-12 ×1 |
@@ -90,7 +90,7 @@
 | Seilan | Sri Lanka | **Ceylon** — III-04 ×2, III-05 ×1; **Sri Lanka** — III-09 ×1 |
 | Maabar | Coromandel Coast (Tamil Nadu), India | **Coromandel** — III-05 ×1, III-07 ×1 |
 | Scotra | Socotra, Yemen | **Socotra** — III-07 ×2 |
-| Madeigascar | Madagascar | **Madagascar** — III-07 ×3 |
+| Madeigascar | Mogadishu, Somalia (Polo's 'Madeigascar'; not Madagascar) | **Madagascar** — III-07 ×3; **Magadoxo** — III-07 ×2 |
 | Zanghibar | Zanzibar / Swahili coast, Tanzania | **Zanj** — III-07 ×2 |
 | Abash | Ethiopian highlands | **Abyssinia** — III-07 ×1 |
 | Dufar | Dhofar (Salalah area), Oman | **Dhafār** — III-08 ×3; **Dofar** — III-05 ×1 |

@@ -36,6 +36,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** Gazetteer `book_name` "Yangiu" differs from the chapter's "Yanju" (front-02 follows the gazetteer). — vol-2 M11
 - **[M]** No gazetteer rows for Paukin, Cayu, Tiju, Tinju (blocks map A12). — vol-2 M11
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-11.T3`.
+- **Pelliot contradicts the chapter (2026-10-22):** Nanghin is Nan-ching = **Kaifeng**, not Anqing. Pelliot, *Notes* II pp. 789–791: 'I have no doubt'. The chapter's :31 follows Yule's Anqing. Revise the identification and the Note; the gazetteer row now points to Kaifeng. Also: Polo's office at Yanju was 'very likely an office of salt administration' (Pelliot, s.v. YANGIU, pp. 875–876). Source register: `research/results/GAZ-citable-findings.md`.
 
 ### Length and structure
 - W4 re-voice order: Vol. II batch position 9 of 14 after the II-2 pilot. — content plan W4
