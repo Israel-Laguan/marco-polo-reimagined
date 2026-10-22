@@ -52,7 +52,7 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 
 ## Method (once approved)
 1. **Pass A (now, mechanical):** `tools/cite_convert.py --pass A` (dry run; `--apply` to write) converts epigraph attributions and `Book N.roman` locators to the new forms. Review the dry-run diff, apply, run the lint.
-2. **Pass B (after S-12 intake):** the same script, with S-12's name → key map, converts unambiguous scholar mentions in the Notes to keys. It lists every ambiguous mention (Wood, May, Jackson, Morgan) with file and line; those are resolved by hand.
+2. **Pass B (after the CIT research comes back):** the input is the four prompts in [`research/prompts/CIT-sources-and-epigraphs.md`](../research/prompts/CIT-sources-and-epigraphs.md). CIT-A to CIT-C list all 211 authorities named in the Notes, each with a context snippet. CIT-D sources the non-Polo epigraphs for HOT.1. Then the same script, using the resulting name → key map, converts unambiguous scholar mentions in the Notes to keys. It lists every ambiguous mention (Wood, May, Jackson, Morgan) with file and line; those are resolved by hand.
 3. **Remainder:** during each chapter's W4 / `.T4`, any citation still not converted is done by hand. The lint enforces this from then on.
 4. Extend the lint (S-02):
    - every `@key` exists in `registry/bibliography.bib`;
