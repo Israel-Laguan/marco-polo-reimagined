@@ -12,7 +12,7 @@ This phase sends ten questions to an external deep-research tool, brings the ans
 
 ```mermaid
 flowchart LR
-  P[Spike S-12…S-21<br/>paste-ready prompt] -->|you run it externally| X[Deep research tool]
+  P[Spike S-12…S-22<br/>paste-ready prompt] -->|you run it externally| X[Deep research tool]
   X -->|paste raw output| R[results/S-NN-raw.md]
   R --> C[Intake session:<br/>spot-check sources]
   C --> G[registry/<br/>bibliography · facts · enrichment]
@@ -56,7 +56,7 @@ The registry files are created by the first spike that needs them.
 
 ## The output contract
 
-Every prompt ends with the same contract, so results come back in a shape the intake can process mechanically. If you edit it, edit all ten prompts.
+Every prompt ends with the same contract, so results come back in a shape the intake can process mechanically. If you edit it, edit all the prompts. S-22 (media references) uses a variant contract with columns for works and visual problems; keep its rules clause in step.
 
 > **OUTPUT FORMAT (required).** (1) A findings table with columns: `#` · claim or topic · finding · verdict (confirmed / corrected / disputed / not found) · sources (author, title, year, and DOI or stable URL) · confidence (high / medium / low) · book sections affected (use the IDs I give). (2) Under each table, short prose only where a disagreement needs explaining: name who holds which position. (3) A bibliography of every source you used, each with a BibTeX entry and a note on whether it is open access. (4) A list of questions you could not resolve. **Rules:** do not invent page numbers, quotations, DOIs or URLs; if you did not see a passage, paraphrase and say so. Prefer peer-reviewed scholarship, critical editions and museum or archive records over popular sites. Say "not found" rather than guess. Flag anything published after 2013 as **NEW**.
 
@@ -80,3 +80,4 @@ The prompts are independent, so you can run them in any order or all at once. In
 | [S-19](../spikes/S-19-primary-comparanda.md) | Comparative primary sources: best translations and citable passages | every Comparative clause; III-12 |
 | [S-20](../spikes/S-20-reception-afterlives.md) | Manuscripts, print history, cartography, myths, modern afterlives | III-11, III-B1, I-B1, II-B1 |
 | [S-21](../spikes/S-21-natural-history-marvels.md) | Natural history, commodities and marvels | trivia back matter; asides; `PLT` captions |
+| [S-22](../spikes/S-22-media-visual-references.md) | Modern media as visual references: manga, anime, film, games, reconstruction art; and the sources behind them | `registry/visual-references.md`; plate `[PERIOD]` cues; S-05 costume; S-10 checklist |

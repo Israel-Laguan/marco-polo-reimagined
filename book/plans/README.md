@@ -59,7 +59,7 @@ plans/
 
 ### Phase R — references and enrichment (deep research)
 
-Ten spikes whose research step runs **outside** this repo. Each holds a paste-ready prompt: run it in a deep-research tool, paste the raw output into `research/results/`, then run an intake session here. Workflow, trust rules and output contract: [research/README.md](research/README.md).
+Eleven spikes whose research step runs **outside** this repo. Each holds a paste-ready prompt: run it in a deep-research tool, paste the raw output into `research/results/`, then run an intake session here. Workflow, trust rules and output contract: [research/README.md](research/README.md).
 
 | ID | Spike | Status | Feeds | Gates |
 |---|---|---|---|---|
@@ -73,8 +73,9 @@ Ten spikes whose research step runs **outside** this repo. Each holds a paste-re
 | [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | open | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
 | [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 (PD candidates) | III-11, all trivia files; `DIA` B5 |
 | [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
+| [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | open | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
 
-All ten prompts can be run at once. Intake S-12 first (bibliography keys), then S-14 (it closes S-06). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
+All eleven prompts can be run at once. Intake S-12 first (bibliography keys), then S-14 (it closes S-06). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
 
 **Suggested waves**
 
@@ -196,4 +197,4 @@ A manuscript file is **done** when:
 | 2026-10-21 | Scoped workflow: plan → spikes → feedback → tasks per chapter + cross-cutting areas | user |
 | 2026-10-21 | Voice standard = `VOICE-GUIDE.md` v2 with II-2 as reference; verbatim ≤ 15%; re-voice before cutting length; W4 in batches of 3–4 | S-01 (pilot approved by user) |
 | 2026-10-21 | Definition of done = `tools/lint.py` exits 0 (errors gate; warnings go to the human read); 7-gram verbatim confirmed; baseline 1/49 files pass | S-02 |
-| 2026-10-22 | Phase R: references and enrichment via external deep research (S-12 … S-21); results are leads, verified at intake before use | user |
+| 2026-10-22 | Phase R: references and enrichment via external deep research (S-12 … S-22); results are leads, verified at intake before use | user |
