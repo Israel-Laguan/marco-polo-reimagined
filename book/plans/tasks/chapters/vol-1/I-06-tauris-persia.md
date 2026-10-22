@@ -36,6 +36,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 - Chapter form **Yasdi** vs gazetteer **Yazd**. — vol-1 M8 · ch-06
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `I-06.T3`.
 
 ### Length and structure
 - Chapter-closing recap. Fix: one forward-looking sentence, cut the inventory. — vol-1 m9 · ch-06:43
@@ -75,6 +76,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Tabriz → Tauris ×5, Hormuz → Hormos ×2, Laias → Ayas ×1, Baghdad → Baudas ×1, Kish → Kisi ×1, Sava → Saba ×1, Yazd → Yasdi ×1, Dry Tree → Arbre Sec ×1 (+2 more); unglossed first mentions: Baudas, Kisi. `python3 tools/lint.py -v vol-1/ch-06-tauris-persia.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-06.T2 — Ramusio flags and labels to the S-03 convention

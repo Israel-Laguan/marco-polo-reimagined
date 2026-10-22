@@ -35,6 +35,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 — none found
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-12.T1`.
 
 ### Length and structure
 - Over length: 3,784 words by the critique's count (3,826 here; essay limit 3,500). Cut to about 2,900: remove the "Soft" labels (~72 words, plus following labelling clauses ~250); delete :130 (~150); delete :72 (~110); fold the "court and canal texture" paragraph :38 into :36 (~80); cut open questions 13–14 and merge 4 into 7 with stress-points (~80); trim the "Principles" bullets that restate the README, :96-100 (~100). W4 target: cut about 900. — vol-3 M11 · ch-12:36-38, :72, :96-100, :106-123, :130
@@ -56,6 +57,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-12.T3` Prose pass to the S-01 standard, incl. length cuts
 - `III-12.T5` Media placement (ledger and Cocachin tables, hero)
 - `III-12.T6` Lint pass and human voice read
+
+### III-12.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓
+- **Now:** n/a — the lint `name_policy` check skips the reception chapters
+- **Do:**
+  - Modern forms are fine where this chapter discusses modern scholarship. Where it names Polo's own places (Zayton, Kinsay, Chipangu, …) it uses the book form from `gazetteer.csv`, glossed once on first mention.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** a person has read the chapter's Polo place names against `gazetteer.csv`.
 
 ### III-12.T2 — Ramusio flags and labels to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `III-12.T3` (the flags are written during the re-voice pass)

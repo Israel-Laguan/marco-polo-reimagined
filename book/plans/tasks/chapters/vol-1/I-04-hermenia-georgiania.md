@@ -32,6 +32,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - "Mosul (Mausul)" reverses the book-form-first rule. — vol-1 nit 2 · ch-04:21
 - Chapter forms **Savast**, **Arzinga / Arziron** vs gazetteer Sivas, Erzincan / Erzurum. Fix: gazetteer book_name to Yule forms. — vol-1 M8 · ch-04
 - Missing gazetteer rows: **Derbend**, **Ararat**, **Conia**, **Casaria**. — vol-1 M8 · gazetteer.csv
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `I-04.T3`.
 
 ### Length and structure
 - Chapter-closing recap lists what was just read. Fix: keep one forward-looking sentence, cut the inventory. — vol-1 m9 · ch-04:37
@@ -70,6 +71,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Layas → Ayas ×2, Erzingan → Arzinga ×2, Iron Gate → Derbend ×2, Mosul → Mausul ×2, Iconium → Conia ×1, Sivas → Savast ×1, Erzrum → Arziron ×1, Georgia → Georgiania ×1 (+2 more); unglossed first mentions: Ayas, Baudas. `python3 tools/lint.py -v vol-1/ch-04-hermenia-georgiania.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-04.T2 — Ramusio flags and labels to the S-03 convention

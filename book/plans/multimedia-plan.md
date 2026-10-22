@@ -32,7 +32,7 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 
 ## A. Maps (17) — Python + Natural Earth (public domain) → PDF/SVG
 
-**Prerequisite:** the gazetteer fix (content plan W5): Yule-form names and about 70 missing rows.
+**Prerequisite:** the gazetteer fix (content plan W5) — **satisfied by S-04 (2026-10-22)**: Yule-form names and the missing rows are in `gazetteer.csv`. Plot only rows with coordinates (`id_confidence` ≠ `unfixed`); style disputed and approximate rows distinctly (S-09).
 
 | # | Map | Placement | Content |
 |---|---|---|---|

@@ -32,6 +32,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ### Naming and gazetteer
 - Necuveran is never glossed in the narrative ("Nicobar" never appears, :11-15). — vol-3 m5 · ch-04:11-15
 - Gazetteer lacks a row for Gauenispola. — vol-3 m4 · ch-04
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-04.T3`.
 
 ### Length and structure
 — none found (2,614 words). Scorecard: "Best material (the Buddha passage) but near-verbatim Yule with first-person 'I'. Re-voice."
@@ -63,6 +64,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Ceylon → Seilan ×2, Sumatra → Java the Less ×1, Lamuri → Lambri ×1, Andaman → Angamanain ×1; unglossed first mentions: Java the Less, Necuveran, Angamanain, Maabar. `python3 tools/lint.py -v vol-3/ch-04-necuveran-seilan.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### III-04.T2 — Ramusio flags and labels to the S-03 convention

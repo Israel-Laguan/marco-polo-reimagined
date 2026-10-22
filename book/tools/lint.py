@@ -16,6 +16,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import gazetteer  # noqa: E402
 import yule  # noqa: E402
 
 BOOK = yule.BOOK
@@ -387,8 +388,35 @@ def c_names(doc, ctx):
                 yield "warning", ln, f"“{w}” is close to gazetteer name “{close[0]}” (variant spelling?)"
 
 
+def c_name_policy(doc, ctx):
+    """S-04 naming policy: book form throughout; a modern/alternate form only as a gloss beside it, and the
+    first mention of each book form per chapter carries a gloss. Warnings until the chapter naming tasks land."""
+    if doc.kind != "narrative" or not gazetteer.in_rule_scope(doc.rel):
+        return
+    reported = set()
+    for ln, p in doc.paras:
+        t = strip_quotes(p)
+        for alias, book in gazetteer.bare_variants(t, doc.rel):
+            if (alias, ln) not in reported:
+                reported.add((alias, ln))
+                yield "warning", ln, f"“{alias}” used bare; the book form is “{book}” (gloss it beside the book form, once)"
+    for r in ctx["gaz_rows"]:
+        if not gazetteer.needs_gloss(r):
+            continue
+        rx = gazetteer.form_re(r["book_name"])
+        for ln, p in doc.paras:
+            m = rx.search(strip_quotes(p))
+            if not m:
+                continue
+            t = strip_quotes(p)
+            after = t[m.end():m.end() + 6]
+            if not re.match(r"\s*[(—–]", after) and not gazetteer.is_gloss(t, m.start(), [r["book_name"]] + gazetteer.aliases(r)):
+                yield "warning", ln, f"first mention of “{r['book_name']}” has no modern gloss ({r['modern_name'].split(',')[0]})"
+            break
+
+
 ALL = ("verbatim first_person archaism you_must_know budgets asides quotes quote_verify recaps openers "
-       "length sentence scaffolding citations markers tags ramusio names").split()
+       "length sentence scaffolding citations markers tags ramusio names name_policy").split()
 PROFILES = {
     "narrative": ALL,
     "essay": "verbatim first_person archaism you_must_know quote_verify length sentence scaffolding citations markers tags names".split(),
@@ -416,7 +444,7 @@ def lint(doc, ctx):
 def load_gazetteer():
     with open(BOOK / "gazetteer.csv", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
-    return sorted({w for r in rows for col in ("book_name", "modern_name") for w in re.findall(r"[A-Z][a-z]{4,}", r[col])})
+    return sorted({w for r in rows for col in ("book_name", "aliases", "modern_name") for w in re.findall(r"[A-Z][a-z]{4,}", r[col])})
 
 
 def default_files():
@@ -426,14 +454,15 @@ def default_files():
 def run(paths):
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8")) if MANIFEST.exists() else {}
     gaz = load_gazetteer()
+    gaz_rows = gazetteer.load()
     results = []
     for path in paths:
         doc = Doc(path)
         if not doc.kind:
             continue
-        ctx = {"manifest": manifest, "gazetteer": gaz}
+        ctx = {"manifest": manifest, "gazetteer": gaz, "gaz_rows": gaz_rows}
         issues = lint(doc, ctx)
-        metrics = {k: v for k, v in ctx.items() if k not in ("manifest", "gazetteer")}
+        metrics = {k: v for k, v in ctx.items() if k not in ("manifest", "gazetteer", "gaz_rows")}
         results.append({"file": doc.rel, "kind": doc.kind, "metrics": metrics, "issues": issues,
                         "errors": sum(i["severity"] == "error" for i in issues),
                         "warnings": sum(i["severity"] == "warning" for i in issues)})

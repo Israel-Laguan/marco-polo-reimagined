@@ -32,6 +32,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 - **[M]** Gazetteer `book_name` forms differ from the chapter: "Quinsay (Kinsay)" vs "Kinsay"; "Ganpu" vs "Ganfu" (front-02 follows the gazetteer). — vol-2 M11
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-13.T3`.
 
 ### Length and structure
 - **[M]** Over target: 3,432 narrative words (3,484 with title/epigraph/tag). Cut about 350: delete recaps :41 (70 words), :73 (62 words; move the Moule pepper point to Note [7]) and :87 (44 words); reduce :53 to one sentence (about 30 words); merge the Geographic palace (:47) with Ramusio's Facfur palace (:69–71), near-duplicates (about 80 words); trim the pears and peaches list at :57 (about 60 words). — vol-2 M10 · ch-13:41, :47, :53, :57, :69–71, :73, :87; content plan W4 "Over length"
@@ -71,6 +72,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Hangzhou → Kinsay ×1; unglossed first mentions: Suju, Fuju, Zayton. `python3 tools/lint.py -v vol-2/ch-13-kinsay.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-13.T2 — Ramusio flags and labels to the S-03 convention

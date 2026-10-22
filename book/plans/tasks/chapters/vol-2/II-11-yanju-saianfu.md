@@ -35,6 +35,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** Conflicting identification: ch-11:31 prefers Nanghin = Anqing (Yule); gazetteer and front-02 say Nanjing. — vol-2 M11 · ch-11:31
 - **[M]** Gazetteer `book_name` "Yangiu" differs from the chapter's "Yanju" (front-02 follows the gazetteer). — vol-2 M11
 - **[M]** No gazetteer rows for Paukin, Cayu, Tiju, Tinju (blocks map A12). — vol-2 M11
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-11.T3`.
 
 ### Length and structure
 - W4 re-voice order: Vol. II batch position 9 of 14 after the II-2 pilot. — content plan W4
@@ -74,6 +75,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Yangzhou → Yanju ×3, Dadu → Cambaluc ×1, Kao-yu → Cayu ×1, Tung-chau → Tinju ×1, I-chin → Tinju ×1, Ngan-king → Nanghin ×1, Nanjing → Nanghin ×1; unglossed first mentions: Tinju, Nanghin. `python3 tools/lint.py -v vol-2/ch-11-yanju-saianfu.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-11.T2 — Ramusio flags and labels to the S-03 convention

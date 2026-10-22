@@ -33,6 +33,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 ### Naming and gazetteer
 - Place tables follow `gazetteer.csv`, whose book_name column uses modern forms (Bokhara, Mosul, Sivas, Erzincan/Erzurum, Yazd, Balkh, Talikan, Badakhshan, Wakhan, Pamir, Kashgar/Yarkand/Khotan, Pem, Karakorum, Shangdu, Succiu), so front-02 disagrees with every chapter (Bocara, Mausul, Savast, Arzinga/Arziron, Yasdi, Balc, Taican, Badashan, Vocan, Pamier, Cascar/Yarcan/Cotan, Pein, Caracoron, Chandu, Sukchur). Fix: change gazetteer book_name to Yule forms (modern form in modern_name), add the ~25–27 missing Vol. I rows, **regenerate the front-02 tables**. Content plan W5 gazetteer. — vol-1 M8 · front-02 place tables
 - Gazetteer error surfaced here: the Badakhshan alias "Balashan" is wrong; Yule's form is Badashan. — vol-1 M8 · gazetteer.csv
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `I-F2.T1`.
 
 ### Length and structure
 - Outline coverage only partly met: map list has no Venice–Genoa map and no first-journey map (scorecard). — vol-1 §3 scorecard · front-02
@@ -60,6 +61,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-F2.T3` Re-voice to the S-01 standard (incl. length cuts)
 - `I-F2.T5` Media placement (figures, tables, captions)
 - `I-F2.T6` Lint pass and human voice read
+
+### I-F2.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+- **Now:** bare variants: Hormuz → Hormos ×3, Iran → Persia ×1, Old Hormuz → Hormos ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1, Wakhan → Vocan ×1, Pamir → Pamier ×1, Kashgar → Cascar ×1 (+4 more)
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
 
 ### I-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

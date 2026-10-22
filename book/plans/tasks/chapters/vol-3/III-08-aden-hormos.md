@@ -34,6 +34,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Redundant glosses: "Aden (ʿAdan / Aden)" (:9); "Acre (Acre / ʿAkkā)" (:17). — vol-3 n1 · ch-08:9, :17
 - Gazetteer and III-F2 `Kalhat` vs chapter and Yule `Calatu`. — vol-3 m4 · ch-08
 - Gazetteer lacks a row for Kis (Qais). — vol-3 m4 · ch-08
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-08.T3`.
 
 ### Length and structure
 — none found (2,080 words; scorecard: "Accurate")
@@ -66,6 +67,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Dhafār → Dufar ×3, Kis → Kisi ×2, Baghdad → Baudas ×1, Hormuz → Hormos ×1; unglossed first mentions: Dufar, Calatu. `python3 tools/lint.py -v vol-3/ch-08-aden-hormos.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### III-08.T2 — Ramusio flags and labels to the S-03 convention

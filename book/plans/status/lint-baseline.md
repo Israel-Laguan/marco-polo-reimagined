@@ -1,6 +1,6 @@
 # Lint baseline
 
-_Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "Dispute:" and "Ramusio-only." checks (II-2 is the only re-voiced file; every other file is still the first draft). Regenerate with `python3 tools/lint.py --md > plans/status/lint-baseline.md` from `book/`._
+`python3 tools/lint.py --md` · 1/49 files pass. Errors decide pass/fail; warnings are prompts for the human read.
 
 ## Summary by check
 
@@ -24,58 +24,59 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 | tags | 12 | 0 |
 | ramusio | 28 | 20 |
 | names | 0 | 14 |
+| name_policy | 0 | 37 |
 
 ## Per file
 
 | File | Kind | Errors | Warnings | Words | Verbatim | Quotes | Asides | Ramusio flagged/expected | Failing checks |
 |---|---|---|---|---|---|---|---|---|---|
 | vol-1/back-01-trivia-and-disputes.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
-| vol-1/ch-01-genoa-prison.md | narrative | 6 | 3 | 1967 | 7% | 1 | 2 | 3/0 | asides, budgets, quotes |
-| vol-1/ch-02-house-of-polo.md | narrative | 13 | 3 | 2326 | 28% | 0 | 3 | 1/0 | archaism, asides, budgets, scaffolding, verbatim |
-| vol-1/ch-03-second-setting-forth.md | narrative | 17 | 1 | 2572 | 34% | 0 | 4 | 2/1 | archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim |
-| vol-1/ch-04-hermenia-georgiania.md | narrative | 16 | 4 | 2316 | 50% | 0 | 3 | 1/2 | archaism, asides, budgets, citations, ramusio, verbatim, you_must_know |
-| vol-1/ch-05-mausul-baudas.md | narrative | 16 | 2 | 2933 | 62% | 0 | 3 | 2/1 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/ch-06-tauris-persia.md | narrative | 18 | 4 | 2686 | 58% | 0 | 2 | 2/2 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/ch-07-kerman-hormos.md | narrative | 18 | 4 | 2960 | 70% | 0 | 2 | 0/3 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-1/ch-08-arbre-sec-old-man.md | narrative | 13 | 3 | 2389 | 62% | 0 | 2 | 0/2 | archaism, asides, ramusio, scaffolding, verbatim |
-| vol-1/ch-09-balc-badashan.md | narrative | 21 | 7 | 3134 | 65% | 0 | 3 | 1/2 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-1/ch-10-pamier-cotan.md | narrative | 27 | 8 | 2766 | 51% | 0 | 2 | 1/5 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim |
-| vol-1/ch-11-lop-tangut.md | narrative | 30 | 2 | 2756 | 47% | 0 | 4 | 0/4 | archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-1/ch-12-caracoron-tenduc.md | narrative | 22 | 1 | 3091 | 17% | 0 | 5 | 0/1 | archaism, asides, budgets, first_person, markers, quote_verify, ramusio, scaffolding, verbatim |
-| vol-1/ch-13-chandu.md | narrative | 21 | 2 | 2600 | 58% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-01-genoa-prison.md | narrative | 6 | 6 | 1967 | 7% | 1 | 2 | 3/0 | asides, budgets, quotes |
+| vol-1/ch-02-house-of-polo.md | narrative | 13 | 8 | 2326 | 28% | 0 | 3 | 1/0 | archaism, asides, budgets, scaffolding, verbatim |
+| vol-1/ch-03-second-setting-forth.md | narrative | 17 | 25 | 2572 | 34% | 0 | 4 | 2/1 | archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim |
+| vol-1/ch-04-hermenia-georgiania.md | narrative | 16 | 18 | 2316 | 50% | 0 | 3 | 1/2 | archaism, asides, budgets, citations, ramusio, verbatim, you_must_know |
+| vol-1/ch-05-mausul-baudas.md | narrative | 16 | 15 | 2933 | 62% | 0 | 3 | 2/1 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-06-tauris-persia.md | narrative | 18 | 18 | 2686 | 58% | 0 | 2 | 2/2 | archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-07-kerman-hormos.md | narrative | 18 | 9 | 2960 | 70% | 0 | 2 | 0/3 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-1/ch-08-arbre-sec-old-man.md | narrative | 13 | 12 | 2389 | 62% | 0 | 2 | 0/2 | archaism, asides, ramusio, scaffolding, verbatim |
+| vol-1/ch-09-balc-badashan.md | narrative | 21 | 19 | 3134 | 65% | 0 | 3 | 1/2 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-1/ch-10-pamier-cotan.md | narrative | 27 | 21 | 2766 | 51% | 0 | 2 | 1/5 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim |
+| vol-1/ch-11-lop-tangut.md | narrative | 30 | 11 | 2756 | 47% | 0 | 4 | 0/4 | archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-1/ch-12-caracoron-tenduc.md | narrative | 22 | 3 | 3091 | 17% | 0 | 5 | 0/1 | archaism, asides, budgets, first_person, markers, quote_verify, ramusio, scaffolding, verbatim |
+| vol-1/ch-13-chandu.md | narrative | 21 | 15 | 2600 | 58% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
 | vol-1/front-01-world-before-the-road.md | frontback | 5 | 1 |  | 1% |  |  |  | citations, markers, quote_verify, scaffolding |
 | vol-1/front-02-maps-outbound.md | frontback | 9 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
 | vol-2/back-01-trivia-and-disputes.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify |
-| vol-2/ch-01-cublay-nayan.md | narrative | 22 | 4 | 3082 | 61% | 0 | 3 | 3/0 | archaism, asides, budgets, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-02-person-palace.md | narrative | 0 | 0 | 1871 | 3% | 6 | 2 | 11/9 | — |
-| vol-2/ch-03-feasts-keshican.md | narrative | 36 | 3 | 3086 | 80% | 0 | 2 | 1/6 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-04-hunt-traffic.md | narrative | 40 | 4 | 3120 | 72% | 0 | 3 | 1/5 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-05-ahmad-paper-coal.md | narrative | 24 | 0 | 3211 | 31% | 0 | 3 | 4/3 | archaism, asides, budgets, length, markers, ramusio, recaps, verbatim |
-| vol-2/ch-06-pulisanghin-sindafu.md | narrative | 22 | 3 | 3008 | 64% | 0 | 2 | 2/4 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim |
-| vol-2/ch-07-tebet-carajan.md | narrative | 18 | 1 | 3067 | 46% | 0 | 0 | 2/2 | archaism, budgets, markers, ramusio, recaps, scaffolding, verbatim |
-| vol-2/ch-08-mien-bangala.md | narrative | 20 | 5 | 2876 | 77% | 0 | 1 | 0/1 | archaism, asides, budgets, ramusio, recaps, scaffolding, tags, verbatim, you_must_know |
-| vol-2/ch-09-caugigu-cuiju.md | narrative | 13 | 4 | 2030 | 55% | 0 | 1 | 1/0 | archaism, asides, budgets, markers, quote_verify, scaffolding, verbatim, you_must_know |
-| vol-2/ch-10-manzi-sung.md | narrative | 25 | 7 | 3055 | 69% | 0 | 2 | 1/2 | archaism, asides, budgets, first_person, markers, quote_verify, ramusio, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-11-yanju-saianfu.md | narrative | 17 | 7 | 2518 | 58% | 0 | 3 | 1/0 | archaism, asides, budgets, markers, recaps, scaffolding, verbatim, you_must_know |
-| vol-2/ch-12-kian-suju.md | narrative | 25 | 7 | 2513 | 63% | 0 | 4 | 1/2 | archaism, asides, budgets, first_person, ramusio, verbatim, you_must_know |
-| vol-2/ch-13-kinsay.md | narrative | 22 | 5 | 3375 | 44% | 0 | 3 | 7/4 | archaism, asides, budgets, first_person, length, ramusio, scaffolding, verbatim, you_must_know |
-| vol-2/ch-14-fuju-zayton.md | narrative | 29 | 6 | 2628 | 72% | 0 | 4 | 1/6 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, tags, verbatim, you_must_know |
-| vol-2/ch-15-great-turkey-ponent.md | narrative | 11 | 3 | 3089 | 52% | 0 | 3 | 0/0 | archaism, asides, budgets, quote_verify, verbatim, you_must_know |
+| vol-2/ch-01-cublay-nayan.md | narrative | 22 | 6 | 3082 | 61% | 0 | 3 | 3/0 | archaism, asides, budgets, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-02-person-palace.md | narrative | 0 | 4 | 1871 | 3% | 6 | 2 | 11/9 | — |
+| vol-2/ch-03-feasts-keshican.md | narrative | 36 | 4 | 3086 | 80% | 0 | 2 | 1/6 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-04-hunt-traffic.md | narrative | 40 | 5 | 3120 | 72% | 0 | 3 | 1/5 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-05-ahmad-paper-coal.md | narrative | 24 | 2 | 3211 | 31% | 0 | 3 | 4/3 | archaism, asides, budgets, length, markers, ramusio, recaps, verbatim |
+| vol-2/ch-06-pulisanghin-sindafu.md | narrative | 22 | 11 | 3008 | 64% | 0 | 2 | 2/4 | archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim |
+| vol-2/ch-07-tebet-carajan.md | narrative | 18 | 11 | 3067 | 46% | 0 | 0 | 2/2 | archaism, budgets, markers, ramusio, recaps, scaffolding, verbatim |
+| vol-2/ch-08-mien-bangala.md | narrative | 20 | 17 | 2876 | 77% | 0 | 1 | 0/1 | archaism, asides, budgets, ramusio, recaps, scaffolding, tags, verbatim, you_must_know |
+| vol-2/ch-09-caugigu-cuiju.md | narrative | 13 | 31 | 2030 | 55% | 0 | 1 | 1/0 | archaism, asides, budgets, markers, quote_verify, scaffolding, verbatim, you_must_know |
+| vol-2/ch-10-manzi-sung.md | narrative | 25 | 20 | 3055 | 69% | 0 | 2 | 1/2 | archaism, asides, budgets, first_person, markers, quote_verify, ramusio, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-11-yanju-saianfu.md | narrative | 17 | 17 | 2518 | 58% | 0 | 3 | 1/0 | archaism, asides, budgets, markers, recaps, scaffolding, verbatim, you_must_know |
+| vol-2/ch-12-kian-suju.md | narrative | 25 | 27 | 2513 | 63% | 0 | 4 | 1/2 | archaism, asides, budgets, first_person, ramusio, verbatim, you_must_know |
+| vol-2/ch-13-kinsay.md | narrative | 22 | 9 | 3375 | 44% | 0 | 3 | 7/4 | archaism, asides, budgets, first_person, length, ramusio, scaffolding, verbatim, you_must_know |
+| vol-2/ch-14-fuju-zayton.md | narrative | 29 | 21 | 2628 | 72% | 0 | 4 | 1/6 | archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, tags, verbatim, you_must_know |
+| vol-2/ch-15-great-turkey-ponent.md | narrative | 11 | 9 | 3089 | 52% | 0 | 3 | 0/0 | archaism, asides, budgets, quote_verify, verbatim, you_must_know |
 | vol-2/front-01-yuan-china-context.md | frontback | 3 | 0 |  | 1% |  |  |  | markers, quote_verify |
 | vol-2/front-02-maps-cathay-manzi.md | frontback | 7 | 0 |  | 2% |  |  |  | markers, quote_verify, scaffolding |
 | vol-3/back-01-trivia-and-afterlives.md | frontback | 3 | 0 |  | 0% |  |  |  | markers, quote_verify |
-| vol-3/ch-01-ships-chipangu.md | narrative | 30 | 4 | 2246 | 49% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-02-chamba-java.md | narrative | 27 | 4 | 1779 | 47% | 0 | 3 | 0/1 | asides, budgets, length, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know |
-| vol-3/ch-03-java-less-sumatra.md | narrative | 37 | 6 | 2171 | 64% | 0 | 2 | 0/5 | archaism, asides, budgets, markers, ramusio, scaffolding, tags, verbatim, you_must_know |
-| vol-3/ch-04-necuveran-seilan.md | narrative | 39 | 3 | 2582 | 77% | 0 | 3 | 0/0 | archaism, asides, budgets, first_person, markers, scaffolding, tags, verbatim, you_must_know |
-| vol-3/ch-05-maabar-st-thomas.md | narrative | 35 | 3 | 2747 | 39% | 0 | 3 | 1/1 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, tags, verbatim, you_must_know |
-| vol-3/ch-06-mutfili-kesmacoran.md | narrative | 42 | 2 | 3609 | 64% | 0 | 5 | 0/4 | archaism, asides, budgets, first_person, length, markers, ramusio, scaffolding, verbatim, you_must_know |
-| vol-3/ch-07-male-abash.md | narrative | 20 | 2 | 2671 | 46% | 0 | 3 | 0/2 | archaism, asides, budgets, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know |
-| vol-3/ch-08-aden-hormos.md | narrative | 21 | 0 | 2034 | 64% | 0 | 6 | 1/0 | archaism, asides, budgets, first_person, markers, quote_verify, scaffolding, tags, verbatim |
-| vol-3/ch-09-cocachin-return.md | narrative | 13 | 2 | 2709 | 39% | 0 | 1 | 4/1 | archaism, first_person, markers, ramusio, scaffolding, tags, verbatim |
+| vol-3/ch-01-ships-chipangu.md | narrative | 30 | 12 | 2246 | 49% | 0 | 3 | 2/4 | archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-3/ch-02-chamba-java.md | narrative | 27 | 11 | 1779 | 47% | 0 | 3 | 0/1 | asides, budgets, length, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-03-java-less-sumatra.md | narrative | 37 | 23 | 2171 | 64% | 0 | 2 | 0/5 | archaism, asides, budgets, markers, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-04-necuveran-seilan.md | narrative | 39 | 12 | 2582 | 77% | 0 | 3 | 0/0 | archaism, asides, budgets, first_person, markers, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-05-maabar-st-thomas.md | narrative | 35 | 13 | 2747 | 39% | 0 | 3 | 1/1 | archaism, asides, budgets, first_person, markers, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-06-mutfili-kesmacoran.md | narrative | 42 | 9 | 3609 | 64% | 0 | 5 | 0/4 | archaism, asides, budgets, first_person, length, markers, ramusio, scaffolding, verbatim, you_must_know |
+| vol-3/ch-07-male-abash.md | narrative | 20 | 19 | 2671 | 46% | 0 | 3 | 0/2 | archaism, asides, budgets, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know |
+| vol-3/ch-08-aden-hormos.md | narrative | 21 | 6 | 2034 | 64% | 0 | 6 | 1/0 | archaism, asides, budgets, first_person, markers, quote_verify, scaffolding, tags, verbatim |
+| vol-3/ch-09-cocachin-return.md | narrative | 13 | 14 | 2709 | 39% | 0 | 1 | 4/1 | archaism, first_person, markers, ramusio, scaffolding, tags, verbatim |
 | vol-3/ch-10-ca-polo-milione.md | narrative | 35 | 1 | 3321 | 37% | 0 | 1 | 8/0 | archaism, asides, length, markers, scaffolding, tags, verbatim |
-| vol-3/ch-11-afterlives.md | narrative | 52 | 3 | 2634 | 0% | 0 | 2 | 4/0 | asides, markers, quote_verify, scaffolding, tags |
-| vol-3/ch-12-reliability-essay.md | essay | 81 | 1 | 3753 | 0% |  |  |  | length, markers, quote_verify, scaffolding, tags |
+| vol-3/ch-11-afterlives.md | narrative | 52 | 2 | 2634 | 0% | 0 | 2 | 4/0 | asides, markers, quote_verify, scaffolding, tags |
+| vol-3/ch-12-reliability-essay.md | essay | 81 | 2 | 3753 | 0% |  |  |  | length, markers, quote_verify, scaffolding, tags |
 | vol-3/front-01-indian-ocean-world.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
 | vol-3/front-02-maps-seas-and-return.md | frontback | 4 | 0 |  | 0% |  |  |  | markers, quote_verify, scaffolding |
 
@@ -99,6 +100,9 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **warning** L11 `recaps` “So/Thus …” restatement paragraph?
 - **warning** L27 `recaps` “So/Thus …” restatement paragraph?
 - **warning** L45 `recaps` “So/Thus …” restatement paragraph?
+- **warning** L35 `name_policy` “Pagan” used bare; the book form is “Mien” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` first mention of “Tana” has no modern gloss (Thane)
+- **warning** L13 `name_policy` first mention of “Trebizond” has no modern gloss (Trabzon)
 
 ### vol-1/ch-02-house-of-polo.md
 
@@ -118,6 +122,11 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **warning** L45 `recaps` “So/Thus …” restatement paragraph?
 - **warning** — `sentence` average sentence 28.3 words (> 25)
 - **error** L31 `scaffolding` scaffolding: “asides have to be honest”
+- **warning** L21 `name_policy` “Bukhara” used bare; the book form is “Bocara” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Layas” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Cilician Armenia” used bare; the book form is “Lesser Hermenia” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` first mention of “Bolghar” has no modern gloss (Bolgar)
 
 ### vol-1/ch-03-second-setting-forth.md
 
@@ -139,6 +148,30 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L21 `scaffolding` scaffolding: “aside has to be honest”
 - **error** L39 `ramusio` Ramusio-only passage without an inline flag
 - **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [16]
+- **warning** L13 `name_policy` “Layas” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Layas” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Cilician Armenia” used bare; the book form is “Lesser Hermenia” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` “Layas” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Layas” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Cilician Armenia” used bare; the book form is “Lesser Hermenia” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Sivas” used bare; the book form is “Savast” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Mosul” used bare; the book form is “Mausul” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Hormuz” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Balkh” used bare; the book form is “Balc” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Badakhshan” used bare; the book form is “Badashan” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Pamir” used bare; the book form is “Pamier” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Kashgar” used bare; the book form is “Cascar” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Yarkand” used bare; the book form is “Yarcan” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Khotan” used bare; the book form is “Cotan” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Hormuz” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Pamir” used bare; the book form is “Pamier” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Kemenfu” used bare; the book form is “Chandu” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Jurchen” used bare; the book form is “Chorcha” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Karajang” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Kemenfu” used bare; the book form is “Chandu” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` first mention of “Suju” has no modern gloss (Suzhou)
 
 ### vol-1/ch-04-hermenia-georgiania.md
 
@@ -160,8 +193,22 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
 - **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [13]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: on the summit of which snow is; The said sea produces quantiti…)
-- **warning** L13 `names` “Erzingan” is close to gazetteer name “Erzincan” (variant spelling?)
-- **warning** L13 `names` “Erzrum” is close to gazetteer name “Erzurum” (variant spelling?)
+- **warning** L11 `names` “Hermenie” is close to gazetteer name “Hermenia” (variant spelling?)
+- **warning** L13 `name_policy` “Layas” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` “Sivas” used bare; the book form is “Savast” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` “Erzingan” used bare; the book form is “Arzinga” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` “Erzrum” used bare; the book form is “Arziron” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` “Iconium” used bare; the book form is “Conia” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Mosul” used bare; the book form is “Mausul” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Georgia” used bare; the book form is “Georgiania” (gloss it beside the book form, once)
+- **warning** L29 `name_policy` “Iron Gate” used bare; the book form is “Derbend” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Erzingan” used bare; the book form is “Arzinga” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Iron Gate” used bare; the book form is “Derbend” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Mosul” used bare; the book form is “Mausul” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L9 `name_policy` first mention of “Ayas” has no modern gloss (Yumurtalık (Ayas))
+- **warning** L37 `name_policy` first mention of “Baudas” has no modern gloss (Baghdad)
 
 ### vol-1/ch-05-mausul-baudas.md
 
@@ -183,6 +230,19 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L87 `scaffolding` scaffolding: “reported_only”
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
 - **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
+- **warning** L11 `name_policy` “Mosul” used bare; the book form is “Mausul” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Peking” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Kish” used bare; the book form is “Kisi” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Basra” used bare; the book form is “Bastra” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Mosul” used bare; the book form is “Mausul” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Kish” used bare; the book form is “Kisi” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` first mention of “Baudas” has no modern gloss (Baghdad)
+- **warning** L47 `name_policy` first mention of “Tauris” has no modern gloss (Tabriz)
 
 ### vol-1/ch-06-tauris-persia.md
 
@@ -208,6 +268,20 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 - **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **warning** L33 `names` “Tunocain” is close to gazetteer name “Tonocain” (variant spelling?)
+- **warning** L11 `name_policy` “Laias” used bare; the book form is “Ayas” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Yazd” used bare; the book form is “Yasdi” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Tibet” used bare; the book form is “Tebet” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Dry Tree” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Kish” used bare; the book form is “Kisi” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Hormuz” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Sava” used bare; the book form is “Saba” (gloss it beside the book form, once)
+- **warning** L9 `name_policy` first mention of “Baudas” has no modern gloss (Baghdad)
+- **warning** L35 `name_policy` first mention of “Kisi” has no modern gloss (Kish (Qays) Island)
 
 ### vol-1/ch-07-kerman-hormos.md
 
@@ -231,8 +305,13 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L39 `ramusio` Ramusio-only passage without an inline flag
 - **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [14]
 - **warning** — `ramusio` first draft carried 3 Ramusio passages; 0 paragraphs flag Ramusio (check: There are vast numbers of turt; And to prove the great heat of; And they have women who are mo…)
-- **warning** L23 `names` “Badashan” is close to gazetteer name “Badakhshan” (variant spelling?)
-- **warning** L23 `names` “Pashai” is close to gazetteer name “Pasai” (variant spelling?)
+- **warning** L23 `names` “Keshemur” is close to gazetteer name “Keshimur” (variant spelling?)
+- **warning** L25 `names` “Conosalmi” is close to gazetteer name “Canosalmi” (variant spelling?)
+- **warning** L23 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Hormuz” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Kish” used bare; the book form is “Kisi” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` first mention of “Camadi” has no modern gloss (Kamadin (ruins)
+- **warning** L43 `name_policy` first mention of “Cobinan” has no modern gloss (Kuhbanan)
 
 ### vol-1/ch-08-arbre-sec-old-man.md
 
@@ -252,6 +331,15 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L35 `ramusio` Ramusio-only passage without an inline flag
 - **error** L35 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [12]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 0 paragraphs flag Ramusio (check: you arrive at a stream of fres; and the Castle with its Garden…)
+- **warning** L21 `name_policy` “Dry Tree” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Tree of the Sun” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Dry Tree” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Tree of the Sun” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Mulehet” used bare; the book form is “Old Man of the Mountain” (gloss it beside the book form, once)
+- **warning** L9 `name_policy` first mention of “Reobarles” has no modern gloss (Rudbar (Rudbari))
+- **warning** L9 `name_policy` first mention of “Hormos” has no modern gloss (Old Hormuz (near Minab))
+- **warning** L25 `name_policy` first mention of “Old Man of the Mountain” has no modern gloss (Alamut)
+- **warning** L39 `name_policy` first mention of “Sapurgan” has no modern gloss (Shibarghan)
 
 ### vol-1/ch-09-balc-badashan.md
 
@@ -279,10 +367,22 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L43 `ramusio` Ramusio-only passage without an inline flag
 - **error** L43 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: They go at a great pace even d; The people of the province do …)
-- **warning** L23 `names` “Badashan” is close to gazetteer name “Badakhshan” (variant spelling?)
 - **warning** L33 `names` “Faizabad” is close to gazetteer name “Fayzabad” (variant spelling?)
-- **warning** L37 `names` “Pashai” is close to gazetteer name “Pasai” (variant spelling?)
-- **warning** L47 `names` “Pamier” is close to gazetteer name “Pamir” (variant spelling?)
+- **warning** L11 `name_policy` “Dry Tree” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Balkh” used bare; the book form is “Balc” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Talikan” used bare; the book form is “Taican” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Badakhshan” used bare; the book form is “Badashan” (gloss it beside the book form, once)
+- **warning** L31 `name_policy` “Badakhshan” used bare; the book form is “Badashan” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Pamir” used bare; the book form is “Pamier” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Badakhshan” used bare; the book form is “Badashan” (gloss it beside the book form, once)
+- **warning** L39 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L45 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L45 `name_policy` “Tibet” used bare; the book form is “Tebet” (gloss it beside the book form, once)
+- **warning** L47 `name_policy` “Badakhshan” used bare; the book form is “Badashan” (gloss it beside the book form, once)
+- **warning** L47 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` first mention of “Taican” has no modern gloss (Taloqan)
+- **warning** L37 `name_policy` first mention of “Pashai” has no modern gloss (Pashai country (Laghman–Kunar))
+- **warning** L47 `name_policy` first mention of “Pamier” has no modern gloss (Pamir Plateau (Tajikistan/Afghanistan))
 
 ### vol-1/ch-10-pamier-cotan.md
 
@@ -316,11 +416,24 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L35 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [14]
 - **error** L41 `ramusio` Ramusio-only passage without an inline flag
 - **warning** — `ramusio` first draft carried 5 Ramusio passages; 1 paragraphs flag Ramusio (check: a great lake between two mount; Messer Marco was told also tha; particularly of cotton. The in…)
-- **warning** L9 `names` “Badashan” is close to gazetteer name “Badakhshan” (variant spelling?)
-- **warning** L15 `names` “Pamier” is close to gazetteer name “Pamir” (variant spelling?)
 - **warning** L19 `names` “Faizabad” is close to gazetteer name “Fayzabad” (variant spelling?)
 - **warning** L37 `names` “Country” is close to gazetteer name “County” (variant spelling?)
 - **warning** L43 `names` “Keria” is close to gazetteer name “Keriya” (variant spelling?)
+- **warning** L9 `name_policy` “Kishm” used bare; the book form is “Casem” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Pamir” used bare; the book form is “Pamier” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Badakhshan” used bare; the book form is “Badashan” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Kashgar” used bare; the book form is “Cascar” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Yarkand” used bare; the book form is “Yarcan” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Yarkand” used bare; the book form is “Yarcan” (gloss it beside the book form, once)
+- **warning** L31 `name_policy` “Samarkand” used bare; the book form is “Samarcan” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Yarkand” used bare; the book form is “Yarcan” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Kashgar” used bare; the book form is “Cascar” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Khotan” used bare; the book form is “Cotan” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` first mention of “Bocara” has no modern gloss (Bukhara)
+- **warning** L23 `name_policy` first mention of “Yarcan” has no modern gloss (Yarkand (Yarkant))
+- **warning** L43 `name_policy` first mention of “Charchan” has no modern gloss (Qiemo (Cherchen))
+- **warning** L41 `name_policy` first mention of “Lop” has no modern gloss (Charklik / Ruoqiang)
 
 ### vol-1/ch-11-lop-tangut.md
 
@@ -356,6 +469,15 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L37 `ramusio` Ramusio-only passage without an inline flag
 - **error** L37 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [14]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 0 paragraphs flag Ramusio (check: Sometimes the stray travellers; Hence in making this journey ’; but to provide public hostelri…)
+- **warning** L11 `name_policy` “Charklik” used bare; the book form is “Lop” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` “Shachau” used bare; the book form is “Sachiu” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Jiuquan” used bare; the book form is “Sukchur” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` first mention of “Samarcan” has no modern gloss (Samarkand)
+- **warning** L9 `name_policy` first mention of “Cotan” has no modern gloss (Hotan)
+- **warning** L9 `name_policy` first mention of “Pein” has no modern gloss (Keriya / Uzun-Tati area)
+- **warning** L27 `name_policy` first mention of “Desert of Lop” has no modern gloss (Lop Desert)
+- **warning** L41 `name_policy` first mention of “Etzina” has no modern gloss (Khara-Khoto (Ejina))
+- **warning** L41 `name_policy` first mention of “Caracoron” has no modern gloss (Karakorum (Kharkhorin))
 
 ### vol-1/ch-12-caracoron-tenduc.md
 
@@ -382,6 +504,8 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L39 `ramusio` Ramusio-only passage without an inline flag
 - **error** L39 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [15]
 - **warning** — `ramusio` first draft carried 1 Ramusio passages; 0 paragraphs flag Ramusio (check: They say there is a Most High …)
+- **warning** L49 `name_policy` “Calachan” used bare; the book form is “Egrigaia” (gloss it beside the book form, once)
+- **warning** L53 `name_policy` “Peking” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
 
 ### vol-1/ch-13-chandu.md
 
@@ -408,6 +532,19 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L15 `ramusio` Ramusio-only passage without an inline flag
 - **error** L15 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [4]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 2 paragraphs flag Ramusio (check: at a spot in the Park where th; It is stayed on gilt and lacke; They are cut across at each kn…)
+- **warning** L25 `names` “Kesimur” is close to gazetteer name “Keshimur” (variant spelling?)
+- **warning** L11 `name_policy` “Kemenfu” used bare; the book form is “Chandu” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Peking” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` “Shangdu” used bare; the book form is “Chandu” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Kashmir” used bare; the book form is “Keshimur” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Tibet” used bare; the book form is “Tebet” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Shangdu” used bare; the book form is “Chandu” (gloss it beside the book form, once)
+- **warning** L39 `name_policy` “Shangdu” used bare; the book form is “Chandu” (gloss it beside the book form, once)
+- **warning** L9 `name_policy` first mention of “Lop” has no modern gloss (Charklik / Ruoqiang)
+- **warning** L41 `name_policy` first mention of “Etzina” has no modern gloss (Khara-Khoto (Ejina))
+- **warning** L9 `name_policy` first mention of “Caracoron” has no modern gloss (Karakorum (Kharkhorin))
+- **warning** L9 `name_policy` first mention of “Tenduc” has no modern gloss (Tumed / Hohhot region)
+- **warning** L25 `name_policy` first mention of “Tebet” has no modern gloss (Eastern Tibet / Kham region)
 
 ### vol-1/front-01-world-before-the-road.md
 
@@ -465,6 +602,15 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **warning** L41 `recaps` “So/Thus …” restatement paragraph?
 - **warning** — `sentence` average sentence 29.5 words (> 25)
 - **error** L19 `scaffolding` scaffolding: “asides have to be honest”
+- **warning** L17 `names` “Caidu” is close to gazetteer name “Caindu” (variant spelling?)
+- **warning** L19 `name_policy` “Korea” used bare; the book form is “Cauly” (gloss it beside the book form, once)
+
+### vol-2/ch-02-person-palace.md
+
+- **warning** L23 `name_policy` “Dadu” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Beijing” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Taidu” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Taidu” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
 
 ### vol-2/ch-03-feasts-keshican.md
 
@@ -507,6 +653,7 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
 - **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **warning** — `ramusio` first draft carried 6 Ramusio passages; 1 paragraphs flag Ramusio (check: Further, you are not to suppos; is set a large and very beauti; of the capacity of a firkin…)
+- **warning** L11 `name_policy` “Taidu” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
 
 ### vol-2/ch-04-hunt-traffic.md
 
@@ -554,6 +701,7 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L47 `ramusio` Ramusio-only passage without an inline flag
 - **error** L47 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [17]
 - **warning** — `ramusio` first draft carried 5 Ramusio passages; 1 paragraphs flag Ramusio (check: They are obliged to approach t; The Two Brothers I have mentio; for he always travels in this …)
+- **warning** L31 `name_policy` “Peking” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
 
 ### vol-2/ch-05-ahmad-paper-coal.md
 
@@ -581,6 +729,8 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L45 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [17]
 - **error** L51 `ramusio` Ramusio-only passage without an inline flag
 - **error** L51 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [20]
+- **warning** L19 `names` “Zhenjin” is close to gazetteer name “Zhenjiang” (variant spelling?)
+- **warning** L19 `name_policy` first mention of “Chandu” has no modern gloss (Shangdu (Duolun County))
 
 ### vol-2/ch-06-pulisanghin-sindafu.md
 
@@ -608,7 +758,15 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L37 `ramusio` Ramusio-only passage without an inline flag
 - **error** L37 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [12]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 2 paragraphs flag Ramusio (check: But at the end of five days’ j; This Golden King was a great a; On the lands adjoining this ri…)
-- **warning** L15 `names` “Taianfu” is close to gazetteer name “Tainfu” (variant spelling?)
+- **warning** L13 `name_policy` “Lugou Bridge” used bare; the book form is “Pulisanghin” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Qara Mören” used bare; the book form is “Caramoran” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Hwang Ho” used bare; the book form is “Caramoran” (gloss it beside the book form, once)
+- **warning** L47 `name_policy` “Chengdu” used bare; the book form is “Sindafu” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` first mention of “Cuncun” has no modern gloss (Qinling–Hanzhong mountains)
+- **warning** L37 `name_policy` first mention of “Acbalec Manzi” has no modern gloss (Hanzhong area)
+- **warning** L45 `name_policy` first mention of “Tebet” has no modern gloss (Eastern Tibet / Kham region)
+- **warning** L47 `name_policy` first mention of “Caindu” has no modern gloss (Xichang (Jianchang valley))
+- **warning** L47 `name_policy` first mention of “Carajan” has no modern gloss (Yunnan (Dali / Kunming region))
 
 ### vol-2/ch-07-tebet-carajan.md
 
@@ -631,6 +789,16 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L71 `markers` Note [7] uses retired marker ★
 - **error** L23 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [5]
 - **error** L27 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [7]
+- **warning** L11 `name_policy` “Chengdu” used bare; the book form is “Sindafu” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Tibet” used bare; the book form is “Tebet” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L47 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` first mention of “Camul” has no modern gloss (Hami)
+- **warning** L23 `name_policy` first mention of “Caindu” has no modern gloss (Xichang (Jianchang valley))
+- **warning** L31 `name_policy` first mention of “Brius” has no modern gloss (Jinsha River crossing)
+- **warning** L31 `name_policy` first mention of “Carajan” has no modern gloss (Yunnan (Dali / Kunming region))
+- **warning** L45 `name_policy` first mention of “Zardandan” has no modern gloss (Western Yunnan (Baoshan–Tengchong))
+- **warning** L53 `name_policy` first mention of “Mien” has no modern gloss (Bagan / Myanmar (Pagan kingdom))
 
 ### vol-2/ch-08-mien-bangala.md
 
@@ -659,6 +827,18 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L41 `ramusio` Ramusio-only passage without an inline flag
 - **error** L41 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [9]
 - **warning** — `ramusio` first draft carried 1 Ramusio passages; 0 paragraphs flag Ramusio (check: The tomb likewise was plated p…)
+- **warning** L13 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` “Bengal” used bare; the book form is “Bangala” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` “Pegu” used bare; the book form is “Bangala” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` first mention of “Carajan” has no modern gloss (Yunnan (Dali / Kunming region))
+- **warning** L11 `name_policy` first mention of “Vochan” has no modern gloss (Baoshan (Yongchang))
+- **warning** L17 `name_policy` first mention of “Zardandan” has no modern gloss (Western Yunnan (Baoshan–Tengchong))
+- **warning** L13 `name_policy` first mention of “Mien” has no modern gloss (Bagan / Myanmar (Pagan kingdom))
+- **warning** L51 `name_policy` first mention of “Caugigu” has no modern gloss (Kiang Hung (Jinghong))
+- **warning** L51 `name_policy` first mention of “Anin” has no modern gloss (Jianshui (Lin-ngan))
+- **warning** L51 `name_policy` first mention of “Coloman” has no modern gloss (Guizhou / Guangxi border region)
+- **warning** L51 `name_policy` first mention of “Cuiju” has no modern gloss (Guiyang area)
 
 ### vol-2/ch-09-caugigu-cuiju.md
 
@@ -678,7 +858,34 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **warning** — `sentence` average sentence 27.6 words (> 25)
 - **error** L55 `scaffolding` scaffolding: “Gazetteer: Caugigu, Anin, Coloman, Cuiju”
 - **error** L55 `markers` Note [1] uses retired marker ★
-- **warning** L49 `names` “Taianfu” is close to gazetteer name “Tainfu” (variant spelling?)
+- **warning** L11 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` “Guizhou” used bare; the book form is “Cuiju” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Burma” used bare; the book form is “Mien” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Kiang Hung” used bare; the book form is “Caugigu” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Tonkin” used bare; the book form is “Caugigu” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “Jiaozhi” used bare; the book form is “Caugigu” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Lin-ngan” used bare; the book form is “Anin” (gloss it beside the book form, once)
+- **warning** L29 `name_policy` “Yunnan” used bare; the book form is “Carajan” (gloss it beside the book form, once)
+- **warning** L29 `name_policy` “Toloman” used bare; the book form is “Coloman” (gloss it beside the book form, once)
+- **warning** L29 `name_policy` “Guizhou” used bare; the book form is “Cuiju” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Chengdu” used bare; the book form is “Sindafu” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Phungan-lu” used bare; the book form is “Fungul” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Siu-chau” used bare; the book form is “Fungul” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` “Guizhou” used bare; the book form is “Cuiju” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` first mention of “Cambaluc” has no modern gloss (Beijing)
+- **warning** L49 `name_policy` first mention of “Taianfu” has no modern gloss (Taiyuan)
+- **warning** L49 `name_policy` first mention of “Kenjanfu” has no modern gloss (Xi'an)
+- **warning** L49 `name_policy` first mention of “Cuncun” has no modern gloss (Qinling–Hanzhong mountains)
+- **warning** L49 `name_policy` first mention of “Tebet” has no modern gloss (Eastern Tibet / Kham region)
+- **warning** L29 `name_policy` first mention of “Caindu” has no modern gloss (Xichang (Jianchang valley))
+- **warning** L29 `name_policy` first mention of “Carajan” has no modern gloss (Yunnan (Dali / Kunming region))
+- **warning** L49 `name_policy` first mention of “Zardandan” has no modern gloss (Western Yunnan (Baoshan–Tengchong))
+- **warning** L15 `name_policy` first mention of “Mien” has no modern gloss (Bagan / Myanmar (Pagan kingdom))
+- **warning** L11 `name_policy` first mention of “Caugigu” has no modern gloss (Kiang Hung (Jinghong))
+- **warning** L17 `name_policy` first mention of “Anin” has no modern gloss (Jianshui (Lin-ngan))
+- **warning** L31 `name_policy` first mention of “Cuiju” has no modern gloss (Guiyang area)
+- **warning** L31 `name_policy` first mention of “Fungul” has no modern gloss (Yibin (Suifu))
+- **warning** L47 `name_policy` first mention of “Cacanfu” has no modern gloss (Hejian)
 
 ### vol-2/ch-10-manzi-sung.md
 
@@ -712,8 +919,21 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L89 `markers` Note [6] uses retired marker ★
 - **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: There are also certain Christi; A great river passes through i…)
-- **warning** L19 `names` “Tadinfu” is close to gazetteer name “Tainfu” (variant spelling?)
-- **warning** L21 `names` “Yanzhou” is close to gazetteer name “Yangzhou” (variant spelling?)
+- **warning** L13 `name_policy` “Hejian” used bare; the book form is “Cacanfu” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Jinan” used bare; the book form is “Chinangli” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Yen-chau” used bare; the book form is “Tadinfu” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Jinan” used bare; the book form is “Chinangli” (gloss it beside the book form, once)
+- **warning** L55 `name_policy` “Xiangyang” used bare; the book form is “Saianfu” (gloss it beside the book form, once)
+- **warning** L55 `name_policy` “Hangzhou” used bare; the book form is “Kinsay” (gloss it beside the book form, once)
+- **warning** L61 `name_policy` “Hwai-ngan” used bare; the book form is “Coiganju” (gloss it beside the book form, once)
+- **warning** L61 `name_policy` “Yangzhou” used bare; the book form is “Yanju” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` first mention of “Caramoran” has no modern gloss (Yellow River at Puzhou crossing)
+- **warning** L11 `name_policy` first mention of “Cacanfu” has no modern gloss (Hejian)
+- **warning** L17 `name_policy` first mention of “Chinangli” has no modern gloss (Jinan)
+- **warning** L19 `name_policy` first mention of “Tadinfu” has no modern gloss (Yanzhou)
+- **warning** L37 `name_policy` first mention of “Linju” has no modern gloss (Linqing)
+- **warning** L45 `name_policy` first mention of “Coiganju” has no modern gloss (Huai'an)
+- **warning** L45 `name_policy` first mention of “Caiju” has no modern gloss (Guazhou)
 
 ### vol-2/ch-11-yanju-saianfu.md
 
@@ -741,6 +961,16 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L31 `scaffolding` scaffolding: “project gazetteer”
 - **error** L31 `scaffolding` scaffolding: “soft ID”
 - **error** L67 `markers` Note [5] uses retired marker ★
+- **warning** L19 `name_policy` “Kao-yu” used bare; the book form is “Cayu” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Tung-chau” used bare; the book form is “Tinju” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “I-chin” used bare; the book form is “Tinju” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Yangzhou” used bare; the book form is “Yanju” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Yangzhou” used bare; the book form is “Yanju” (gloss it beside the book form, once)
+- **warning** L31 `name_policy` “Ngan-king” used bare; the book form is “Nanghin” (gloss it beside the book form, once)
+- **warning** L31 `name_policy` “Nanjing” used bare; the book form is “Nanghin” (gloss it beside the book form, once)
+- **warning** L45 `name_policy` “Dadu” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` first mention of “Tinju” has no modern gloss (Nantong (Tung-chau))
+- **warning** L27 `name_policy` first mention of “Nanghin” has no modern gloss (Anqing (Ngan-king))
 
 ### vol-2/ch-12-kian-suju.md
 
@@ -774,8 +1004,28 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L25 `ramusio` Ramusio-only passage without an inline flag
 - **error** L25 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [3]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 1 paragraphs flag Ramusio (check: Indeed as it has a course of s; There are at many places on th…)
-- **warning** L37 `names` “Zhenjiang” is close to gazetteer name “Zhejiang” (variant spelling?)
-- **warning** L43 `names` “Changzhou” is close to gazetteer name “Cangzhou” (variant spelling?)
+- **warning** L15 `name_policy` “Yangzhou” used bare; the book form is “Yanju” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` “I-ching” used bare; the book form is “Sinju” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Kwa-chau” used bare; the book form is “Caiju” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Samarcand” used bare; the book form is “Samarcan” (gloss it beside the book form, once)
+- **warning** L53 `name_policy` “Chang-chau” used bare; the book form is “Chinginju” (gloss it beside the book form, once)
+- **warning** L63 `name_policy` “Hangzhou” used bare; the book form is “Kinsay” (gloss it beside the book form, once)
+- **warning** L67 `name_policy` “Hu-chau” used bare; the book form is “Vuju” (gloss it beside the book form, once)
+- **warning** L67 `name_policy` “Kiahing” used bare; the book form is “Changan” (gloss it beside the book form, once)
+- **warning** L15 `name_policy` first mention of “Sindafu” has no modern gloss (Chengdu)
+- **warning** L27 `name_policy` first mention of “Tebet” has no modern gloss (Eastern Tibet / Kham region)
+- **warning** L27 `name_policy` first mention of “Caindu” has no modern gloss (Xichang (Jianchang valley))
+- **warning** L11 `name_policy` first mention of “Nanghin” has no modern gloss (Anqing (Ngan-king))
+- **warning** L11 `name_policy` first mention of “Saianfu” has no modern gloss (Xiangyang)
+- **warning** L23 `name_policy` first mention of “Caiju” has no modern gloss (Guazhou)
+- **warning** L33 `name_policy` first mention of “Chinghianfu” has no modern gloss (Zhenjiang)
+- **warning** L41 `name_policy` first mention of “Chinginju” has no modern gloss (Changzhou)
+- **warning** L51 `name_policy` first mention of “Suju” has no modern gloss (Suzhou)
+- **warning** L65 `name_policy` first mention of “Vuju” has no modern gloss (Huzhou)
+- **warning** L65 `name_policy` first mention of “Vughin” has no modern gloss (Wujiang)
+- **warning** L65 `name_policy` first mention of “Changan” has no modern gloss (Jiaxing)
+- **warning** L61 `name_policy` first mention of “Kinsay” has no modern gloss (Hangzhou)
+- **warning** L65 `name_policy` first mention of “Vuju” has no modern gloss (Jinhua (Wuzhou))
 
 ### vol-2/ch-13-kinsay.md
 
@@ -806,6 +1056,10 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L21 `ramusio` Ramusio-only passage without an inline flag
 - **error** L25 `ramusio` Ramusio-only passage without an inline flag
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
+- **warning** L19 `name_policy` “Hangzhou” used bare; the book form is “Kinsay” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` first mention of “Suju” has no modern gloss (Suzhou)
+- **warning** L87 `name_policy` first mention of “Fuju” has no modern gloss (Fuzhou)
+- **warning** L73 `name_policy` first mention of “Zayton” has no modern gloss (Quanzhou)
 
 ### vol-2/ch-14-fuju-zayton.md
 
@@ -844,6 +1098,21 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L55 `ramusio` Ramusio-only passage without an inline flag
 - **error** L61 `ramusio` Ramusio-only passage without an inline flag
 - **warning** — `ramusio` first draft carried 6 Ramusio passages; 1 paragraphs flag Ramusio (check: which they weave into various ; They also make much cotton clo; And before this city came unde…)
+- **warning** L19 `name_policy` “Hangzhou” used bare; the book form is “Kinsay” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Fu-yang” used bare; the book form is “Tanpiju” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Kin-hwa” used bare; the book form is “Vuju” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Chang-chau” used bare; the book form is “Chinginju” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Quanzhou” used bare; the book form is “Zayton” (gloss it beside the book form, once)
+- **warning** L65 `name_policy` first mention of “Yanju” has no modern gloss (Yangzhou)
+- **warning** L13 `name_policy` first mention of “Vuju” has no modern gloss (Huzhou)
+- **warning** L11 `name_policy` first mention of “Tanpiju” has no modern gloss (Shaoxing)
+- **warning** L13 `name_policy` first mention of “Vuju” has no modern gloss (Jinhua (Wuzhou))
+- **warning** L13 `name_policy` first mention of “Ghiuju” has no modern gloss (Quzhou)
+- **warning** L27 `name_policy` first mention of “Kelinfu” has no modern gloss (Jian'ou (Kien-ning))
+- **warning** L33 `name_policy` first mention of “Unken” has no modern gloss (Minhou (Hu-kwan))
+- **warning** L17 `name_policy` first mention of “Fuju” has no modern gloss (Fuzhou)
+- **warning** L41 `name_policy` first mention of “Zayton” has no modern gloss (Quanzhou)
+- **warning** L57 `name_policy` first mention of “Tyunju” has no modern gloss (Dehua)
 
 ### vol-2/ch-15-great-turkey-ponent.md
 
@@ -861,6 +1130,12 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **warning** L25 `recaps` “So/Thus …” restatement paragraph?
 - **warning** L35 `recaps` “So/Thus …” restatement paragraph?
 - **warning** — `sentence` average sentence 26.9 words (> 25)
+- **warning** L13 `names` “Caidu” is close to gazetteer name “Caindu” (variant spelling?)
+- **warning** L17 `name_policy` “Samarcand” used bare; the book form is “Samarcan” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Dry Tree” used bare; the book form is “Arbre Sec” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Russia” used bare; the book form is “Rosia” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` first mention of “Cambaluc” has no modern gloss (Beijing)
+- **warning** L51 `name_policy` first mention of “Chipangu” has no modern gloss (Japan)
 
 ### vol-2/front-01-yuan-china-context.md
 
@@ -920,6 +1195,14 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L33 `ramusio` Ramusio-only passage without an inline flag
 - **error** L33 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 2 paragraphs flag Ramusio (check: Moreover the larger of their v; and the King does not allow it; In this Island some of the dea…)
+- **warning** L11 `name_policy` “Cheinan” used bare; the book form is “Gulf of Cheinan” (gloss it beside the book form, once)
+- **warning** L39 `name_policy` “Japan” used bare; the book form is “Chipangu” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Cheinan” used bare; the book form is “Gulf of Cheinan” (gloss it beside the book form, once)
+- **warning** L47 `name_policy` “Cheinan” used bare; the book form is “Gulf of Cheinan” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` first mention of “Anin” has no modern gloss (Jianshui (Lin-ngan))
+- **warning** L43 `name_policy` first mention of “Coloman” has no modern gloss (Guizhou / Guangxi border region)
+- **warning** L11 `name_policy` first mention of “Gulf of Cheinan” has no modern gloss (Gulf of Tonkin)
+- **warning** L47 `name_policy` first mention of “Chamba” has no modern gloss (Central Vietnam (Champa coast))
 
 ### vol-3/ch-02-chamba-java.md
 
@@ -954,6 +1237,13 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L29 `ramusio` Ramusio-only passage without an inline flag
 - **error** L29 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [9]
 - **warning** — `ramusio` first draft carried 1 Ramusio passages; 0 paragraphs flag Ramusio (check: it is on the mainland…)
+- **warning** L37 `name_policy` “Bintan” used bare; the book form is “Pentam” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L39 `name_policy` “Champa” used bare; the book form is “Chamba” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` first mention of “Condur” has no modern gloss (Pulo Condore (Côn Đảo))
+- **warning** L11 `name_policy` first mention of “Locac” has no modern gloss (Malay Peninsula (southern Thailand/Malaysia))
+- **warning** L11 `name_policy` first mention of “Pentam” has no modern gloss (Bintan / Riau Islands)
+- **warning** L11 `name_policy` first mention of “Malaiur” has no modern gloss (Melaka / Sumatra Malay coast)
 
 ### vol-3/ch-03-java-less-sumatra.md
 
@@ -998,8 +1288,25 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L31 `ramusio` Ramusio-only passage without an inline flag
 - **error** L31 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [10]
 - **warning** — `ramusio` first draft carried 5 Ramusio passages; 0 paragraphs flag Ramusio (check: and when savage with any one t; he landed with about 2000 men ; for there is great store of wo…)
-- **warning** L19 `names` “Samudra” is close to gazetteer name “Samudera” (variant spelling?)
 - **warning** L21 `names` “Islanders” is close to gazetteer name “Islands” (variant spelling?)
+- **warning** L11 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Perlak” used bare; the book form is “Ferlec” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Samudra” used bare; the book form is “Samara” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Pasai” used bare; the book form is “Basma” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Samudra” used bare; the book form is “Samara” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` “Nicobar” used bare; the book form is “Necuveran” (gloss it beside the book form, once)
+- **warning** L49 `name_policy` “Andaman” used bare; the book form is “Angamanain” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` first mention of “Chipangu” has no modern gloss (Japan)
+- **warning** L11 `name_policy` first mention of “Pentam” has no modern gloss (Bintan / Riau Islands)
+- **warning** L11 `name_policy` first mention of “Malaiur” has no modern gloss (Melaka / Sumatra Malay coast)
+- **warning** L13 `name_policy` first mention of “Ferlec” has no modern gloss (Perlak)
+- **warning** L21 `name_policy` first mention of “Basma” has no modern gloss (Pasai / NE Sumatra coast)
+- **warning** L29 `name_policy` first mention of “Samara” has no modern gloss (Samudera Pasai)
+- **warning** L35 `name_policy` first mention of “Dagroian” has no modern gloss (NE Sumatra coastal polity)
+- **warning** L33 `name_policy` first mention of “Lambri” has no modern gloss (Lamuri (Aceh headland))
+- **warning** L39 `name_policy` first mention of “Fansur” has no modern gloss (Barus)
 
 ### vol-3/ch-04-necuveran-seilan.md
 
@@ -1045,6 +1352,15 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L77 `markers` Note [14] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L77 `markers` Note [14] uses a retired “Dispute:” label (use ? and say what is contested)
 - **error** L7 `tags` tag line **[R/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
+- **warning** L15 `name_policy` “Lamuri” used bare; the book form is “Lambri” (gloss it beside the book form, once)
+- **warning** L19 `name_policy` “Andaman” used bare; the book form is “Angamanain” (gloss it beside the book form, once)
+- **warning** L23 `name_policy` “Ceylon” used bare; the book form is “Seilan” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Ceylon” used bare; the book form is “Seilan” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` first mention of “Java the Less” has no modern gloss (Sumatra)
+- **warning** L11 `name_policy` first mention of “Necuveran” has no modern gloss (Nicobar Islands)
+- **warning** L11 `name_policy` first mention of “Angamanain” has no modern gloss (Andaman Islands)
+- **warning** L45 `name_policy` first mention of “Maabar” has no modern gloss (Coromandel Coast (Tamil Nadu))
 
 ### vol-3/ch-05-maabar-st-thomas.md
 
@@ -1084,8 +1400,18 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L7 `tags` tag line **[R/M]** is not one of **[V]** **[R]** **[M]** **[reception]**
 - **error** L13 `ramusio` Ramusio-only passage without an inline flag
 - **error** L13 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [2]
-- **warning** L25 `names` “Dofar” is close to gazetteer name “Dhofar” (variant spelling?)
 - **warning** L25 `names` “Dhufar” is close to gazetteer name “Dufar” (variant spelling?)
+- **warning** L13 `name_policy` “Ceylon” used bare; the book form is “Seilan” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Hormes” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Dofar” used bare; the book form is “Dufar” (gloss it beside the book form, once)
+- **warning** L45 `name_policy` “Coromandel” used bare; the book form is “Maabar” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` “Hormes” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L11 `name_policy` first mention of “Seilan” has no modern gloss (Sri Lanka)
+- **warning** L11 `name_policy` first mention of “Maabar” has no modern gloss (Coromandel Coast (Tamil Nadu))
+- **warning** L45 `name_policy` first mention of “Mailapur” has no modern gloss (Mylapore (Chennai))
+- **warning** L51 `name_policy` first mention of “Mutfili” has no modern gloss (Motupalli)
+- **warning** L51 `name_policy` first mention of “Cail” has no modern gloss (Kayalpatnam / Old Kayal)
+- **warning** L51 `name_policy` first mention of “Kesmacoran” has no modern gloss (Makran coast (Gwadar/Pasni area))
 
 ### vol-3/ch-06-mutfili-kesmacoran.md
 
@@ -1133,6 +1459,13 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L59 `ramusio` Ramusio-only passage without an inline flag
 - **error** L59 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [25]
 - **warning** — `ramusio` first draft carried 4 Ramusio passages; 0 paragraphs flag Ramusio (check: If a foreign merchant who does; Also if they meet any one who ; All the people of this city, a…)
+- **warning** L27 `names` “Banyan” is close to gazetteer name “Banan” (variant spelling?)
+- **warning** L11 `name_policy` first mention of “Maabar” has no modern gloss (Coromandel Coast (Tamil Nadu))
+- **warning** L39 `name_policy` first mention of “Eli” has no modern gloss (Mount Eli / Ezhimala)
+- **warning** L49 `name_policy` first mention of “Tana” has no modern gloss (Thane)
+- **warning** L49 `name_policy` first mention of “Cambaet” has no modern gloss (Khambhat (Cambay))
+- **warning** L49 `name_policy` first mention of “Semenat” has no modern gloss (Somnath area)
+- **warning** L49 `name_policy` first mention of “Kesmacoran” has no modern gloss (Makran coast (Gwadar/Pasni area))
 
 ### vol-3/ch-07-male-abash.md
 
@@ -1158,6 +1491,23 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L29 `ramusio` Ramusio-only passage without an inline flag
 - **error** L29 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [11]
 - **warning** — `ramusio` first draft carried 2 Ramusio passages; 0 paragraphs flag Ramusio (check: The ambergris comes from the s; They brought (as I heard) to t…)
+- **warning** L13 `name_policy` “Maldives” used bare; the book form is “Male and Female” (gloss it beside the book form, once)
+- **warning** L13 `name_policy` “Socotra” used bare; the book form is “Scotra” (gloss it beside the book form, once)
+- **warning** L17 `name_policy` “Pagan” used bare; the book form is “Mien” (gloss it beside the book form, once)
+- **warning** L21 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Coromandel” used bare; the book form is “Maabar” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Madagascar” used bare; the book form is “Madeigascar” (gloss it beside the book form, once)
+- **warning** L29 `name_policy` “Madagascar” used bare; the book form is “Madeigascar” (gloss it beside the book form, once)
+- **warning** L31 `name_policy` “Zanj” used bare; the book form is “Zanghibar” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Zanj” used bare; the book form is “Zanghibar” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Champa” used bare; the book form is “Chamba” (gloss it beside the book form, once)
+- **warning** L47 `name_policy` “Abyssinia” used bare; the book form is “Abash” (gloss it beside the book form, once)
+- **warning** L51 `name_policy` first mention of “Hormos” has no modern gloss (Old Hormuz (near Minab))
+- **warning** L51 `name_policy` first mention of “Cambaluc” has no modern gloss (Beijing)
+- **warning** L11 `name_policy` first mention of “Scotra” has no modern gloss (Socotra)
+- **warning** L37 `name_policy` first mention of “Abash” has no modern gloss (Ethiopian highlands)
+- **warning** L51 `name_policy` first mention of “Esher” has no modern gloss (Ash-Shihr)
+- **warning** L51 `name_policy` first mention of “Dufar” has no modern gloss (Dhofar (Salalah area))
 
 ### vol-3/ch-08-aden-hormos.md
 
@@ -1182,6 +1532,12 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L75 `markers` Note [10] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** L97 `markers` Note [21] uses retired marker ★
 - **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
+- **warning** L27 `name_policy` “Dhafār” used bare; the book form is “Dufar” (gloss it beside the book form, once)
+- **warning** L33 `name_policy` “Dhafār” used bare; the book form is “Dufar” (gloss it beside the book form, once)
+- **warning** L35 `name_policy` “Hormuz” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Baghdad” used bare; the book form is “Baudas” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` first mention of “Dufar” has no modern gloss (Dhofar (Salalah area))
+- **warning** L33 `name_policy` first mention of “Calatu” has no modern gloss (Qalhat)
 
 ### vol-3/ch-09-cocachin-return.md
 
@@ -1199,7 +1555,19 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
 - **error** L19 `ramusio` Ramusio-only passage without an inline flag
 - **error** L19 `ramusio` Ramusio-only passage: no “Ramusio-only.” label in Notes [6]
-- **warning** L25 `names` “Samudra” is close to gazetteer name “Samudera” (variant spelling?)
+- **warning** L11 `name_policy` “Georgia” used bare; the book form is “Georgiania” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Bengal” used bare; the book form is “Bangala” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Hormuz” used bare; the book form is “Hormos” (gloss it beside the book form, once)
+- **warning** L27 `name_policy` “Sri Lanka” used bare; the book form is “Seilan” (gloss it beside the book form, once)
+- **warning** L37 `name_policy` “Khanbaliq” used bare; the book form is “Cambaluc” (gloss it beside the book form, once)
+- **warning** L41 `name_policy` “Tabriz” used bare; the book form is “Tauris” (gloss it beside the book form, once)
+- **warning** L43 `name_policy` “Sumatra” used bare; the book form is “Java the Less” (gloss it beside the book form, once)
+- **warning** L25 `name_policy` first mention of “Java the Less” has no modern gloss (Sumatra)
+- **warning** L27 `name_policy` first mention of “Seilan” has no modern gloss (Sri Lanka)
+- **warning** L27 `name_policy` first mention of “Maabar” has no modern gloss (Coromandel Coast (Tamil Nadu))
+- **warning** L27 `name_policy` first mention of “Mutfili” has no modern gloss (Motupalli)
+- **warning** L27 `name_policy` first mention of “Kesmacoran” has no modern gloss (Makran coast (Gwadar/Pasni area))
 
 ### vol-3/ch-10-ca-polo-milione.md
 
@@ -1296,7 +1664,6 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L64 `scaffolding` scaffolding: “outline III-11”
 - **error** L46 `markers` Note [4] uses retired marker ★
 - **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
-- **warning** L20 `names` “Cipangu” is close to gazetteer name “Chipangu” (variant spelling?)
 
 ### vol-3/ch-12-reliability-essay.md
 
@@ -1382,6 +1749,7 @@ _Taken 2026-10-22 on `refine-edition`, after S-03 added the tag, lead-marker, "D
 - **error** L160 `scaffolding` scaffolding: “first-draft”
 - **error** L160 `markers` Note [13] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)
 - **error** — `tags` expected exactly one tag line ([V] [R] [M] [reception]), found 0
+- **warning** L62 `names` “Caidu” is close to gazetteer name “Caindu” (variant spelling?)
 
 ### vol-3/front-01-indian-ocean-world.md
 

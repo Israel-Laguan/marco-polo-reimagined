@@ -24,7 +24,7 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 - quotation verification splits at "…" and reports invented vs misquoted;
 - "≤ 2 per scene" is checked per paragraph, because the chapters have no scene breaks;
 - unflagged Ramusio passages are detected by n-gram only while text is near-verbatim. After a re-voice, a warning compares the flag count with the first draft's passages (`tools/ramusio-manifest.json`);
-- place names are checked as warnings only, until S-04 supplies aliases.
+- place names are checked as warnings only (S-04 closed: aliases exist, so `name_policy` flags bare non-canonical forms and unglossed first mentions; it becomes an error when the last chapter has had its naming pass).
 
 Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 
@@ -147,11 +147,11 @@ The critique gives a cut plan for each. Most of the cuts come out of the recaps.
   - Renumber I-front-01 (out of order).
   - Fix the II-7 [10] drift.
   - Fill or remove placeholder Notes (II-2 [6], [15]; II-4 [7], [21]; II-5 [18], [24]; III-6 [9], [13], [20]; III-2 [13] …).
-- **Gazetteer** (this also unblocks the maps):
-  - switch `book_name` to the Yule forms the chapters use, keeping modern and other forms as aliases;
-  - add about 70 missing rows (Vol. I ~27, Vol. II ~32, Vol. III ~8);
-  - resolve conflicting identifications (Caugigu, Cacanfu, Nanghin, the two Vujus, Male ≠ Maldives);
-  - regenerate the front-02 place tables from it.
+- **Gazetteer** (S-04 decided; rows and policy done 2026-10-22, front-02 tables still to regenerate):
+  - ✓ `book_name` is the Yule form the chapters use, with modern and other forms as aliases;
+  - ✓ 86 rows added (Vol. I 34, Vol. II 41, Vol. III 11, including five region labels), 112 → 195, three old rows merged away;
+  - ✓ conflicts resolved (see `GAZ-gazetteer.md`): Cachanfu = Puzhou, Cacanfu = Hejian, Caugigu = Kiang Hung, Nanghin = Anqing, two Vujus, two Sinjus, Male and Female unplotted;
+  - regenerate the front-02 place tables from it (`GAZ.T5`).
 - **Front and back matter de-duplication:** front matter frames, chapters narrate, back matter gives a dispute shortlist plus trivia. Remove the triple explanations (paper money, coal, conversion pledge).
 
 ### W6 — Status truthfulness

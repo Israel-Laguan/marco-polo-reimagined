@@ -28,6 +28,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 — none found
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-F1.T1`.
 
 ### Length and structure
 - Outline coverage: map list only partial (Preface ✓; legend ✗; map list partial). — vol-3 §3 scorecard · front-01
@@ -48,6 +49,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-F1.T1` Critical and factual fixes
 - `III-F1.T5` Media placement (C11)
 - `III-F1.T6` Lint pass and human voice read
+
+### III-F1.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+- **Now:** bare variants: Hormuz → Hormos ×2, South China → Manzi ×1, Japan → Chipangu ×1, Champa → Chamba ×1, Sumatra → Java the Less ×1, Coromandel → Maabar ×1, Malabar → Melibar ×1, Gujarat → Gozurat ×1 (+1 more)
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
 
 ### III-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

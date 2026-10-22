@@ -35,6 +35,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 - — none found
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-02.T3`.
 
 ### Length and structure
 - **[M]** At the length ceiling (3,167 narrative; 3,211 with title/epigraph/tag). Cut plan: delete :51's recap (113 words); compress the palace inventory :27–39 (about 200 words, mostly the unflagged Ramusio detail from M1); spend about 60 words on a real silence aside (M12). Net: cut about 300, add about 60. — vol-2 M10 · ch-02:27–39, :51; content plan W4 "Over length"
@@ -76,6 +77,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
   - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Taidu → Cambaluc ×2, Dadu → Cambaluc ×1, Beijing → Cambaluc ×1; unglossed first mentions: none. `python3 tools/lint.py -v vol-2/ch-02-person-palace.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** `python3 tools/lint.py -v vol-2/ch-02-person-palace.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### II-02.T4 — Notes and apparatus to the S-03 convention

@@ -31,6 +31,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 - Gazetteer forms instead of the book's Yule forms: `Sememant` (ch-06 and Yule: *Semenat*, :23) and `Kalhat` (ch-08 and Yule: *Calatu*, :68). Scorecard also flags "non-gazetteer names". Fix: W5 switches gazetteer `book_name` to the Yule forms and regenerates the front-02 place tables from it. — vol-3 m4 · front-02:23, :68
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-F2.T1`.
 
 ### Length and structure
 - Front/back de-duplication per W5 (front matter frames; chapters narrate). — content-revision-plan W5 · front-02
@@ -51,6 +52,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-F2.T1` Critical and factual fixes (epigraph, captions now)
 - `III-F2.T5` Media placement (A1, A16)
 - `III-F2.T6` Lint pass and human voice read
+
+### III-F2.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+- **Now:** bare variants: Sumatra → Java the Less ×2, Hormuz → Hormos ×1, Nicobars → Necuveran ×1, Malabar → Melibar ×1, Sememant → Semenat ×1, Islands of Men and Women → Male and Female ×1
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
 
 ### III-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

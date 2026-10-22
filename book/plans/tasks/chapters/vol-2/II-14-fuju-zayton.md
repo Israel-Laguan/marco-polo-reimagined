@@ -33,6 +33,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** No modern gloss on first mention for Tanpiju, Vuju, Ghiuju, Changshan, Cuju, Unken, Tyunju. Fix example: "Vuju (Wuzhou, today's Jinhua) — not the Vuju (Huzhou) of the last chapter". — vol-2 M11 · ch-14:13 and first mentions
 - **[M]** Vuju is used for two different cities: ch-12:65 (Huzhou) and ch-14:13 (Wuzhou/Jinhua, per Yule); front-02 lists only Huzhou. — vol-2 M11 · ch-14:13
 - **[M]** No gazetteer rows for Tanpiju, Ghiuju, Changshan, Cuju, Kelinfu, Unken, Tyunju (blocks map A13). — vol-2 M11
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-14.T3`.
 
 ### Length and structure
 - W4 re-voice order: Vol. II batch position 4 of 14 after the II-2 pilot. — content plan W4
@@ -72,6 +73,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Chang-chau → Chinginju ×1, Hangzhou → Kinsay ×1, Fu-yang → Tanpiju ×1, Kin-hwa → Vuju ×1, Quanzhou → Zayton ×1; unglossed first mentions: Yanju, Vuju, Tanpiju, Vuju, Ghiuju, Kelinfu, Unken, Fuju, Zayton, Tyunju. `python3 tools/lint.py -v vol-2/ch-14-fuju-zayton.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-14.T2 — Ramusio flags and labels to the S-03 convention

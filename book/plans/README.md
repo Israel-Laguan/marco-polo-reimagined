@@ -48,7 +48,7 @@ plans/
 | [S-01](spikes/S-01-voice-standard.md) | Voice standard (pilot re-voice of II-2) | **closed** 2026-10-21 | S-03, S-06 (for II-2's facts), S-08 conventions | `.T3` in every narrative chapter |
 | [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | **closed** 2026-10-21 (`tools/lint.py`; S-03/S-04 rules provisional) | — | `.T6` everywhere; the definition of done |
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | **closed** 2026-10-22 (`VOICE-GUIDE.md` § Apparatus conventions) | — | `.T2`, `.T4`; `APP` |
-| [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | open | — | `GAZ`, `MAP`, naming items |
+| [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | **closed** 2026-10-22 (`gazetteer.csv` v2, `tools/gazetteer.py`) | — | `GAZ.T5`–`T6`, `MAP`, naming items |
 | [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | open | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
 | [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | open | — | factual `.T1` items; `DIA` timelines |
 | [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | open | S-01 | the affected files |
@@ -182,8 +182,9 @@ A manuscript file is **done** when:
   | Retired marker ★ in Notes; every Note opens with a marker; no "Dispute:" label *(S-03)* | 0 | 0 | 0 |
   | Tag line: exactly one of `**[V]**` `**[R]**` `**[M]**` `**[reception]**` in Vol. II–III narrative/essay files; none elsewhere *(S-03)* | yes | yes | none |
   | Ramusio passage reproduced in a paragraph → inline "Ramus…" flag + "Ramusio-only." label in a cited Note *(S-03)* | yes | — | — |
+  | Place names: book form from `gazetteer.csv`, modern/alternate form only as a first-mention gloss (`name_policy`, warning until every chapter has had its pass) *(S-04)* | warning | — | — |
 
-- **every lint warning has been looked at during the human read.** Warnings are heuristics: "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), and name spellings close to a gazetteer name (provisional until S-04 adds aliases). Marked quotations in the essay and front/back may cite non-Yule sources, so for those files a missing match is a warning, not an error;
+- **every lint warning has been looked at during the human read.** Warnings are heuristics: "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), name spellings close to a gazetteer name, bare non-canonical place names and unglossed first mentions (S-04, `name_policy`). Marked quotations in the essay and front/back may cite non-Yule sources, so for those files a missing match is a warning, not an error;
 - every backlog item is resolved or explicitly deferred with a reason;
 - its media hooks are placed or deferred;
 - a human has read it for voice.

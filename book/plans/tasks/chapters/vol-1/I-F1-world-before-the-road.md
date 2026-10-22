@@ -29,6 +29,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 — none found
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `I-F1.T1`.
 
 ### Length and structure
 - Front matter duplicates ch-02: "Second, necessity… Third, papal…" re-argues ch-02's war and letter beats; the phrase "the conversion pledge… is the weakest clause" appears verbatim here and at ch-02:31 (and as "weak joint" at back-01:37). Fix: front-01 should point forward to ch-02, not pre-empt it. Content plan W5 de-duplication (front frames, chapters narrate). — vol-1 m10 · front-01:39–41
@@ -55,6 +56,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-F1.T3` Re-voice to the S-01 standard (incl. length cuts)
 - `I-F1.T5` Media placement (figures, tables, captions)
 - `I-F1.T6` Lint pass and human voice read
+
+### I-F1.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+- **Now:** bare variants: Cilician Armenia → Lesser Hermenia ×1, Hormuz → Hormos ×1, Badakhshan → Badashan ×1, Pamir → Pamier ×1
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

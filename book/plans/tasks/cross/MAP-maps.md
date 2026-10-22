@@ -27,7 +27,7 @@ All geographic maps, generated as vectors from `gazetteer.csv`. City plans count
 | A17 | Polo's order vs the coast's order | III-5, III-6 | Strip map |
 
 - **Candidates without an ID yet** (proposed in the critique, not in the multimedia plan): I-1 Adriatic inset (Venice, Genoa, Curzola; Doria's raid); I-3 Acre ↔ Jerusalem ↔ Ayas, then a reconstructed route to Kemenfu. II-1 Nayan theatre (Cambaluc → Liao/Nonni plain). Decide in S-09 whether to add them or fold them into existing maps.
-- About 70 gazetteer rows are missing (S-04). Most maps are blocked until they exist.
+- **Gazetteer (S-04 ✓, 2026-10-22):** the missing rows exist (Ucaca, Negropont, Sachiu, Chingintalas, Erguiul, Sinju, Egrigaia, Chagannor, Bargu, Abhar, …), so the gazetteer no longer blocks maps; S-09 and S-08 still do. Rules for plotting: skip rows with blank coordinates (14: 12 `unfixed`, plus the `disputed` Bangala and Cuju; e.g. Arbre Sec, Dogana, Male and Female); draw `disputed` rows with a distinct marker and a caption naming the alternative (Caugigu, Nanghin, Anin, Tinju); region rows (Persia, Cathay, Manzi, …) are labels. Coordinates marked `probable` are county-seat precision, fine at book scale.
 
 ## Gated by spikes
 S-04 (rows, names) · S-09 (pipeline, visual system) · S-08 (sizes, fonts)

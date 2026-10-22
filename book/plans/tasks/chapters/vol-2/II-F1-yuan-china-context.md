@@ -29,6 +29,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 - **[M]** Same Cachanfu/Kenjanfu correction must land in the gazetteer (row seq 54) so front-01 and front-02 match II-06. — vol-2 M2 · gazetteer.csv seq 54
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-F1.T1`.
 
 ### Length and structure
 - **[m]** Front/back role split (frame here, narrate in chapters, shortlist plus trivia in back-01) per m12 and content plan W5; S-07 decides the final division. — vol-2 m12
@@ -57,6 +58,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-F1.T3` De-duplicate against back-01 and ch-05; trim tics
 - `II-F1.T5` Media placement (frontispiece, B3)
 - `II-F1.T6` Lint pass and human voice read
+
+### II-F1.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+- **Now:** bare variants: Shangdu → Chandu ×2, Dadu → Cambaluc ×2, Xanadu → Chandu ×1, Khanbaliq → Cambaluc ×1, Beijing → Cambaluc ×1, Marco Polo Bridge → Pulisanghin ×1, Xiangyang → Saianfu ×1, Hangzhou → Kinsay ×1
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
 
 ### II-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

@@ -35,6 +35,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ### Naming and gazetteer
 - Gazetteer (and III-F2) `Sememant` vs chapter and Yule `Semenat`. — vol-3 m4 · ch-06:51-55
 - Gazetteer lacks rows for Mutfili and Lar. — vol-3 m4 · ch-06
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-06.T3`.
 
 ### Length and structure
 - Over length: 3,637 words by the critique's count (3,675 here). Cut to about 3,150: closing recap :61 (~150); Lar wrap-up aside :27 → one sentence (~90); the "Idolaters with a language and a king of their own, tributary to nobody" formula in Tana/Cambaet/Semenat :51-55 → once, then "likewise" (~70); Chughi :23-25 compressed (~100); duplicated "interior omitted" sentences :45 and :59 (~40). W4 target: cut about 500. — vol-3 M11 · ch-06:23-25, :27, :45, :51-55, :59, :61
@@ -68,6 +69,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Kis → Kisi ×1; unglossed first mentions: Maabar, Eli, Tana, Cambaet, Semenat, Kesmacoran. `python3 tools/lint.py -v vol-3/ch-06-mutfili-kesmacoran.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### III-06.T2 — Ramusio flags and labels to the S-03 convention

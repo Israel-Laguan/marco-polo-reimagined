@@ -32,6 +32,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** Conflicting IDs carried in the tables: Caugigu = "Northern Vietnam / Tonkin" (ch-09:15 and `map-caugigu.jpg` put it at Kiang Hung, Lao side); Nanghin = Nanjing (ch-11:31 prefers Anqing, Yule); Vuju = Huzhou only (ch-14:13 uses Vuju for Wuzhou/Jinhua). — vol-2 M11 · front-02:48, :58, :61
 - **[M]** Acbalec Manzi row sits in the "Manzi corridor to the haven" table but belongs to the west circuit. — vol-2 M11 · front-02:55
 - **[M]** Gazetteer "Pazanjin / Hezhong" row (seq 66) appears in no chapter and duplicates the Hezhong ID; reconcile it with the Cachanfu fix. — vol-2 M2 · gazetteer.csv seq 66
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-F2.T1`.
 
 ### Length and structure
 - **[M]** Map list covers only half the outline's four (Cambaluc and Shangdu; SW circuit; Grand Canal/Manzi spine; Zayton). `map-cambaluc.jpg` (Dadu plan) and `map-caugigu.jpg` (Yule Itinerary No. V) exist but are unused. Fix: add map-cambaluc and map-caugigu (SW circuit section). — vol-2 M8 · front-02 (whole)
@@ -59,6 +60,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-F2.T3` Prose clean-up (placeholders, tic)
 - `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map")
 - `II-F2.T6` Lint pass and human read
+
+### II-F2.T1 — Names to the S-04 policy
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+- **Now:** bare variants: Beijing → Cambaluc ×1, Tibet → Tebet ×1, Yunnan → Carajan ×1, Burma → Mien ×1, Yangzhou → Yanju ×1, Xiangyang → Saianfu ×1, Suzhou → Suju ×1, Hangzhou → Kinsay ×1 (+2 more)
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+- **Done when:** `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
 
 ### II-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

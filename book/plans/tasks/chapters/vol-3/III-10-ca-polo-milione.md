@@ -31,6 +31,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Naming and gazetteer
 — none found
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-10.T3`.
 
 ### Length and structure
 - Over length: 3,339 words by the critique's count (3,373 here). Cut to about 2,800: the will paragraph :33 (~420 words of itemised legacies) → ~150, keeping the trustees, San Lorenzo, Peter the Tartar's manumission, Donata and the daughters (saves ~270); the Cepoy paragraph :25 → ~200 (saves ~130); the closing recap :41 (~130); plus the "Soft" labels. W4 target: cut about 500. — vol-3 M11 · ch-10:25, :33, :41
@@ -63,6 +64,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+  - **Naming (S-04 ✓):** Modern forms are fine where this chapter discusses modern scholarship. Where it names Polo's own places (Zayton, Kinsay, Chipangu, …) it uses the book form from `gazetteer.csv`, glossed once on first mention. The lint `name_policy` check skips this chapter, so a person checks it in the read.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### III-10.T2 — Ramusio flags and labels to the S-03 convention
