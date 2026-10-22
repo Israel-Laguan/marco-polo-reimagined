@@ -1,6 +1,6 @@
 # S-01 — Voice standard (pilot re-voice)
 
-**Status:** in review (pilot written; awaiting human read) · **Owner:** — · **Timebox:** 1–2 sessions · **Gates:** `.T3` re-voice tasks in every narrative chapter file
+**Status:** closed (2026-10-21) · **Owner:** — · **Timebox:** 1–2 sessions · **Gates:** `.T3` re-voice tasks in every narrative chapter file
 
 ## Question
 What exactly does a "retelling" look like, measured and by example? This spike is done when one fully re-voiced chapter is approved and the rules are written down.
@@ -20,7 +20,7 @@ What exactly does a "retelling" look like, measured and by example? This spike i
 4. Iterate once if needed, then extract the rules.
 
 ## Output (definition of done)
-- [~] II-2 rewritten (`vol-2/ch-02-person-palace.md`); **human read pending**
+- [x] II-2 rewritten (`vol-2/ch-02-person-palace.md`) and approved by a human read (2026-10-21)
 - [x] `VOICE-GUIDE.md` v2: quote budget, opener rotation list, aside cap, recap rule, first-person rule, banned phrases, Ramusio tag variants, re-voice checklist
 - [x] Numeric thresholds handed to S-02 (see Decision)
 - [x] Before/after excerpt kept below as the reference for chapter agents
@@ -83,7 +83,7 @@ Before (closing recap, 113 words) → after (one forward sentence):
 > Inside these walls the court now comes to life: the feasts, the robes of gold, and the twelve thousand Keshican.
 
 ## Decision
-_Draft; becomes final on human sign-off of II-2._
+_Closed 2026-10-21 on human sign-off of II-2._
 
 - **Standard:** `VOICE-GUIDE.md` v2, with II-2 as the reference chapter.
 - **Thresholds for S-02 lint** (narrative = text above `## Notes`, minus title lines):
@@ -98,5 +98,5 @@ _Draft; becomes final on human sign-off of II-2._
 - **W4 adjustments:** threshold 15% (not 25–30%); order unchanged; batches of 3–4 chapters per human-read session; the length cut plans are superseded by the re-voice itself (re-check length after, don't cut before); add a light T3 for I-1 and I-2.
 
 ## Tasks to create on close
-- `<ID>.T3` in every narrative chapter file, with the chapter's specific re-voice targets (worst blocks, recaps to cut, Ramusio flags) — **not yet created; waits for the II-2 sign-off.**
-- `II-02.T3` itself is the pilot: on sign-off it is done, and II-02's remaining tasks shrink to T4 (S-03 convention check), T5 (media) and T6 (lint).
+- [x] `<ID>.T3` written into all 39 narrative chapter files (incl. reception chapters III-10, III-11), with measured targets: verbatim %, worst blocks by line, unflagged Ramusio passages (matched against the 211 bracketed passages in `refs/`, saved as `tools/seed/ramusio-brackets.txt`), long asides, recaps, restatements, tic counts, and a W4 order/batch number. Generator: `tools/seed/revoice_targets.py` (seed for S-02's lint). The essay III-12 and front/back files are outside this gate.
+- `II-02.T3` itself is the pilot and is done, and II-02's remaining tasks shrink to T4 (S-03 convention check), T5 (media) and T6 (lint).

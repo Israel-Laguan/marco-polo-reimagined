@@ -56,7 +56,18 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `II-15.T1` Factual fixes (Kiacatu, Baidu, Ghazan, Baraq/Abaqa clause, N7)
-- `II-15.T3` Re-voice to the S-01 standard (incl. recap cut, Lac gloss)
 - `II-15.T4` Notes and apparatus normalisation (Note [6])
 - `II-15.T5` Media placement (hero, secondary, A14, C8)
 - `II-15.T6` Lint pass and human voice read
+
+### II-15.T3 — Re-voice to the S-01 standard
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #11 (batch 3)
+- **Now:** 3,099 words · 52% verbatim · "You must know" 2 · "Anyway" 3 · formula hinges 2 · archaisms 3 · Book first person 0 · asides 3
+- **Do:**
+  - Retell to ≤ 15% verbatim. Worst blocks: :13 (83%), :21 (97%), :23 (84%), :37 (90%), :41 (94%), :43 (73%).
+  - Cut any closing recap to ≤ 1 forward sentence.
+  - Remove "So/Thus …" restatement paragraphs :25, :35, :51; merge any identification content into Notes.
+  - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
+  - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
+  - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+- **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)

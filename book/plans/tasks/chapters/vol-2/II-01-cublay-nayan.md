@@ -54,7 +54,19 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `II-01.T1` Critical and factual fixes (Otchigin)
 - `II-01.T2` Dispute asides (Jews/Kaifeng)
-- `II-01.T3` Re-voice to the S-01 standard (incl. recap cut, hinge tics, N9)
 - `II-01.T4` Notes and apparatus normalisation
 - `II-01.T5` Media placement (hero, C5, Nayan table)
 - `II-01.T6` Lint pass and human voice read
+
+### II-01.T3 — Re-voice to the S-01 standard
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #8 (batch 2)
+- **Now:** 3,101 words · 61% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 7 · archaisms 13 · Book first person 0 · asides 3
+- **Do:**
+  - Retell to ≤ 15% verbatim. Worst blocks: :17 (82%), :25 (89%), :29 (96%), :43 (81%), :45 (80%), :47 (97%).
+  - Asides over 80 words: :15 (110), :35 (183). Trim; move traveller/scholar lists to Notes.
+  - Cut the closing recap :49 (174 words) to ≤ 1 forward sentence.
+  - Remove "So/Thus …" restatement paragraphs :23, :27, :41, :49; merge any identification content into Notes.
+  - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
+  - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
+  - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+- **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)

@@ -107,7 +107,7 @@ This is the work SERIES-STATUS claims is done. **Model: II-2** (S-01 pilot; rule
 6. Apply that chapter's W2 and W3 findings in the same pass, so each chapter is touched once.
 7. The chapter passes lint; then commit.
 
-**Order: worst first, in batches of 3–4 chapters per human-read session.** Pilot one chapter for your sign-off on voice before batching (S-01: II-2 written, sign-off pending):
+**Order: worst first, in batches of 3–4 chapters per human-read session.** Pilot one chapter for your sign-off on voice before batching (S-01: II-2 approved 2026-10-21; `.T3` tasks written in every narrative chapter file with order and batch):
 - **Pilot:** II-2 *Person & Palace* (80% verbatim, Ramusio-heavy, at the length ceiling).
 - Then by verbatim share:
   - Vol. II: II-3 (80%) → II-8 → II-4 → II-14 → II-10 → II-6 → II-12 → II-1 → II-11 → II-9 → II-15 → II-7 → II-13 → II-5.

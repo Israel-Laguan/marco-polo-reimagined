@@ -42,7 +42,7 @@ plans/
 
 | ID | Spike | Status | Depends on | Gates |
 |---|---|---|---|---|
-| [S-01](spikes/S-01-voice-standard.md) | Voice standard (pilot re-voice of II-2) | in review: II-2 rewritten, VOICE-GUIDE v2; awaiting human read | S-03, S-06 (for II-2's facts), S-08 conventions | `.T3` in every narrative chapter |
+| [S-01](spikes/S-01-voice-standard.md) | Voice standard (pilot re-voice of II-2) | **closed** 2026-10-21 | S-03, S-06 (for II-2's facts), S-08 conventions | `.T3` in every narrative chapter |
 | [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | open | — (thresholds finalised with S-01, S-03) | `.T6` everywhere; the definition of done |
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | open | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | open | — | `GAZ`, `MAP`, naming items |
@@ -139,7 +139,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 ## Definition of done (provisional; finalised by S-02)
 
 A manuscript file is **done** when:
-- the lint is green: verbatim Yule ≤ 25%; no Book first person or archaisms outside quotes; hinge budgets met; no scaffolding; citations 1:1; quotations verified; markers in the ✓~✗◇? set; length in range; names canonical;
+- the lint is green: verbatim Yule ≤ 15% (S-01); no Book first person or archaisms outside quotes; hinge budgets met; no scaffolding; citations 1:1; quotations verified; markers in the ✓~✗◇? set; length in range; names canonical;
 - every backlog item is resolved or explicitly deferred with a reason;
 - its media hooks are placed or deferred;
 - a human has read it for voice.
@@ -153,3 +153,4 @@ A manuscript file is **done** when:
 | 2026-10-21 | Edition lives in tracked `book/`; `input/` stays the pristine original; branch `refine-edition` | user |
 | 2026-10-21 | No nybo for this repo; plan in Markdown | user |
 | 2026-10-21 | Scoped workflow: plan → spikes → feedback → tasks per chapter + cross-cutting areas | user |
+| 2026-10-21 | Voice standard = `VOICE-GUIDE.md` v2 with II-2 as reference; verbatim ≤ 15%; re-voice before cutting length; W4 in batches of 3–4 | S-01 (pilot approved by user) |

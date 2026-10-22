@@ -54,7 +54,18 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `III-11.T1` Critical and factual fixes (epigraphs, Soft, Columbus, Atlas)
 - `III-11.T2` Dispute asides (Yang Zhijiu, Wood)
-- `III-11.T3` Re-voice to the S-01 standard (paragraph splits)
 - `III-11.T4` Notes and apparatus normalisation
 - `III-11.T5` Media placement (B5, plates)
 - `III-11.T6` Lint pass and human voice read
+
+### III-11.T3 — Re-voice to the S-01 standard
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #37 (batch 10)
+- **Now:** 2,646 words · 0% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 0 · Book first person 0 · asides 2
+- **Do:**
+  - Verbatim already within limit; voice and structure pass only.
+  - Asides over 80 words: :16 (168), :24 (227). Trim; move traveller/scholar lists to Notes.
+  - Cut any closing recap to ≤ 1 forward sentence.
+  - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
+  - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
+  - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+- **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)

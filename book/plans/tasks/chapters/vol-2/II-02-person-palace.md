@@ -1,8 +1,8 @@
 # II-02 — Person, Wives, Sons, and the Palace Inside the Walls
 
-**File:** `vol-2/ch-02-person-palace.md` · **Status:** pilot re-voice done, awaiting sign-off (S-01) · **Kind:** narrative
+**File:** `vol-2/ch-02-person-palace.md` · **Status:** pilot re-voice approved (S-01 closed); T4–T6 backlog · **Kind:** narrative
 
-> **S-01 pilot re-voice written (2026-10-21).** The rewrite applied every backlog item below (voice, Chingkim date, six Ramusio flags plus four more, silences aside, recaps, stub Notes, [V/M] → [M]); measurements are in the spike. Remaining: human read, then S-03/S-06 confirmation of the conventions and facts it assumed.
+> **S-01 pilot re-voice written (2026-10-21).** The rewrite applied every backlog item below (voice, Chingkim date, six Ramusio flags plus four more, silences aside, recaps, stub Notes, [V/M] → [M]); measurements are in the spike. Human read approved 2026-10-21. Remaining: S-03/S-06 confirmation of the conventions and facts it assumed.
 >
 > **S-01 voice pilot chapter.** Content plan W4 picks II-2 as the single pilot re-voice (80% verbatim, Ramusio-heavy, at the length ceiling). Its approved rewrite becomes the reference for every other W4 chapter, so this file's T3 runs first and gates all other T3 tasks.
 
@@ -61,9 +61,13 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-02.T1` Critical and factual fixes (Chingkim date)
-- `II-02.T2` Ramusio flags (six passages) and the silences aside
-- `II-02.T3` **S-01 pilot re-voice** (incl. length cuts and recap removal)
+- `II-02.T1` Critical and factual fixes: applied in T3; only the S-06 check of Notes [6] and [20] remains
+- `II-02.T2` Ramusio flags and the silences aside: applied in T3 (10 flags)
 - `II-02.T4` Notes and apparatus normalisation
 - `II-02.T5` Media placement (hero, A9)
 - `II-02.T6` Lint pass and human voice read (sign-off sets the voice standard)
+
+### II-02.T3 — S-01 pilot re-voice
+- **Status:** done (2026-10-21; human read approved) · **Depends:** —
+- **Result:** 1,893 words · 2% verbatim · 0 "You must know" / "Anyway" / formula hinges / archaisms · 10/10 Ramusio passages flagged. Measurements and before/after in `spikes/S-01-voice-standard.md`.
+- **Left for other tasks:** S-03 confirmation of the ◇ / [M] conventions it assumed (T4); S-06 check of Notes [6] and [20] (T1).

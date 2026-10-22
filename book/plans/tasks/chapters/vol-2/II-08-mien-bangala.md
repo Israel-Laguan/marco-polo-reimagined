@@ -55,7 +55,19 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `II-08.T1` Factual fix (unicorn gloss)
-- `II-08.T3` Re-voice to the S-01 standard (battle set-piece to summary; m6; beat-list removal; body glosses)
 - `II-08.T4` Notes and apparatus normalisation (tag)
 - `II-08.T5` Media placement (hero, A11, C9, Mien table)
 - `II-08.T6` Lint pass and human voice read
+
+### II-08.T3 — Re-voice to the S-01 standard
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #2 (batch 1)
+- **Now:** 2,887 words · 77% verbatim · "You must know" 3 · "Anyway" 1 · formula hinges 5 · archaisms 9 · Book first person 0 · asides 1
+- **Do:**
+  - Retell to ≤ 15% verbatim. Worst blocks: :21 (99%), :29 (100%), :31 (97%), :35 (87%), :41 (87%), :43 (93%).
+  - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :41, plus any listed under *Dispute handling* above.
+  - Cut the closing recap :51 (124 words) to ≤ 1 forward sentence.
+  - Remove "So/Thus …" restatement paragraphs :17, :29, :33; merge any identification content into Notes.
+  - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
+  - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
+  - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
+- **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)

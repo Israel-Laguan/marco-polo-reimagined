@@ -17,7 +17,7 @@ Without a gate, "complete" means whatever the last pass claimed (see SERIES-STAT
 ## Method
 1. Build `tools/lint.py` with the W0 checks: verbatim %, Book first person, archaisms outside quotes, hinge budgets, scaffolding strings, citation integrity, epigraph/quotation found in `refs/`, marker set, length, gazetteer names, Ramusio bracket matches without a flag.
 2. Run it on all 49 files; save the baseline report to `plans/status/lint-baseline.md`.
-3. Calibrate. Check false positives: quotations, proper names, legitimate short shared phrases. Is 7-gram right? Is 25% reachable, given that I-1 = 7% and I-12 = 16%?
+3. Calibrate. Check false positives: quotations, proper names, legitimate short shared phrases. Is 7-gram right? S-01 set ≤ 15% (pilot II-2 = 3%, I-1 = 7%); confirm it holds on quotation-heavy chapters.
 4. Make it fast enough to run on every commit.
 
 ## Output (definition of done)
