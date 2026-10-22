@@ -1,8 +1,8 @@
 # Back Matter I-1
 ## Trivia and Disputes — Volume I
 
-> *“I did not tell half of what I saw, for I knew I would not be believed.”*
-> — Attributed to Polo on his deathbed (late tradition; treat as colour, not affidavit)
+> *“…he had not told one-half of what he had really seen!”*
+> — Jacopo d’Acqui, *Imago mundi* (c. 1330), in Yule–Cordier, Introduction, § 37
 
 ---
 

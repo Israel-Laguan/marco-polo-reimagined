@@ -1,7 +1,4 @@
-<!-- CIT-C raw output · deep-research tool (not recorded) · pasted by the user 2026-10-22 · not edited.
-     INCOMPLETE: the chat message hit its 50,000-character limit; the paste stops inside row 50 (Atkinson).
-     Rows 50–79, the BibTeX block and the unresolved list are missing. CIT-D was not received. -->
-
+<!-- CIT-C raw output · deep-research tool (not recorded) · pasted by the user 2026-10-22 (rows 1–49 first paste; full output re-pasted the same day) · not edited -->
 **Table of identified authorities (Group C)**
 
 | # | Name as cited | Who | Work meant (and which context) | First edition | English translation (if any) | Free copy URL | Confidence | Flag |
@@ -55,4 +52,144 @@
 | 47 | Koeppen | Carl Friedrich Koeppen (1808–1863) or related | Notes on Mongol religious policy / Buddhism | German works on Buddhism, mid-19th c. | Partial | none found | medium | |
 | 48 | Michie | Alexander Michie (1833–1902), British merchant-traveller | *The Siberian Overland Route* or China notes (yurt ropes, ushers) | London: John Murray, 1864 | N/A | Partial IA | medium | |
 | 49 | Vámbéry | Ármin Vámbéry (1832–1913), Hungarian orientalist | *Travels in Central Asia* or Turkic ritual notes (nines) | London: John Murray, 1864 | N/A | IA | high | |
-| 50 | Atkinson | Thomas Witlam Atkinson (1799–1861), British traveller-artis
+| 50 | Atkinson | Thomas Witlam Atkinson (1799–1861), British traveller-artist | *Oriental and Western Siberia* (Kirghiz, hunting) | London: Hurst & Blackett, 1858 | N/A | IA | high | |
+| 51 | Timkowski | Egor Fedorovich Timkovsky (1790–1875), Russian envoy | *Travels of the Russian Mission through Mongolia to China* | London: Longman, 1827 (2 vols.) | English | IA | high | |
+| 52 | Hooker | Sir Joseph Dalton Hooker (1817–1911), British botanist | *Himalayan Journals* (bamboo explosions) | London: John Murray, 1854 (2 vols.) | N/A | IA | high | |
+| 53 | Lindsay | (likely) a 19th-c. traveller or naturalist cited for bamboo; exact identity less firm | Notes on bamboo fires/explosions | Unconfirmed specific title | — | none found | low | |
+| 54 | Westermarck | Edvard Alexander Westermarck (1862–1939), Finnish sociologist | *The History of Human Marriage* (premarital hospitality) | London: Macmillan, 1891 | N/A | Partial | high | |
+| 55 | Sladen | Sir Edward Bosc Sladen (1827–1890), British officer | Report of the expedition to the Chinese frontier (Shan markets, Kakhyen) | Official report, 1860s–70s | N/A | Partial | high | |
+| 56 | Bridgman | Elijah Coleman Bridgman (1801–1861), American missionary | *Chinese Repository* articles (hill tribes, cowries) | Canton, 1832–51 | N/A | Partial IA | medium | |
+| 57 | Perny | Paul Hubert Perny (1818–1907), French missionary | Notes on Guizhou/Yunnan (hemp cloth, tigers) | French missionary reports / *Annales* | Partial | none found | medium | |
+| 58 | Hosie | Sir Alexander Hosie (1853–1925), British consular officer | *Three Years in Western China* (salt wells, Pai-yen-ching) | London: George Philip, 1890 | N/A | IA | high | |
+| 59 | Gandar | (likely) a French or missionary source on canal/jetty terms; exact work unconfirmed in standard lists | Notes on Lin-t’sing / ma-t’ou | Unconfirmed | — | none found | low | |
+| 60 | Favé | Ildephonse Favé (1812–1894), French artillery officer | Works on artillery/history of engines (counterpoise) | French technical histories, mid-19th c. | Partial | none found | medium | |
+| 61 | Hanbury | Daniel Hanbury (1825–1875), British pharmacologist | *Pharmacographia* (with Flückiger; saffron-fruit / Gardenia) | London: Macmillan, 1874 | N/A | Partial | high | |
+| 62 | Titsingh | Isaac Titsingh (1745–1812), Dutch VOC official | *Illustrations of Japan* or related (kamikaze tradition notes via later citations) | Paris/London, early 19th c. posthumous | Partial | Partial IA | medium | |
+| 63 | Aymonier | Étienne Aymonier (1844–1929), French administrator-orientalist | *Le Cambodge* or Cham studies (Yuan–Champa) | Paris: Leroux, 1900–04 | Partial | none found | high | |
+| 64 | Major | Richard Henry Major (1818–1891), British geographer | *India in the Fifteenth Century* (Hakluyt; Conti etc.; Java misreadings) | London: Hakluyt Society, 1857 | N/A | IA | high | |
+| 65 | Groeneveldt | Willem Pieter Groeneveldt (1841–1915), Dutch sinologist | *Notes on the Malay Archipelago and Malacca* (Chinese sources) | Batavia, 1876 / 1880 | N/A | Partial | high | |
+| 66 | Junghuhn | Franz Wilhelm Junghuhn (1809–1864), German-Dutch naturalist | *Java* or Sumatra ethnography (Batta/Ferlec) | Dutch/German, 1850s | Partial | none found | high | |
+| 67 | Schlegel | Gustaaf Schlegel (1840–1903), Dutch sinologist | Papers on Andaman etymology / Chinese geography | *T’oung Pao* / related | N/A | Partial | high | |
+| 68 | Hardy | Robert Spence Hardy (1803–1868), British missionary | *Eastern Monachism* or Ceylon Buddhist notes | London: Partridge & Oakey, 1850 | N/A | Partial IA | medium | |
+| 69 | Stewart | (likely) a pearl-fishery historian; exact match unconfirmed | Pearl-fishery accounts | Unconfirmed | — | none found | low | |
+| 70 | Pridham | Charles Pridham (fl. mid-19th c.) | *An Historical… Account of Ceylon* (pearl fishery) | London: T. & W. Boone, 1849 (2 vols.) | N/A | Partial | medium | |
+| 71 | Nelson | (likely) a South-Indian Christian / Thomas tradition writer; exact match unconfirmed | Notes on Syrian Christians | Unconfirmed | — | none found | low | |
+| 72 | Birdwood | Sir George Christopher Molesworth Birdwood (1832–1917), British official | Papers on incense / Boswellia | *JRAS* / India Office notes | N/A | Partial | medium | |
+| 73 | Elliot | Sir Henry Miers Elliot (1808–1853) & John Dowson | *The History of India as Told by Its Own Historians* (Wassaf extracts) | London: Trübner, 1867–77 (8 vols.) | N/A (English) | IA | high | |
+| 74 | Salt | Henry Salt (1780–1827), British traveller-diplomat | *A Voyage to Abyssinia* (Amda Seyon / chronology discussion) | London: F. C. & J. Rivington, 1814 | N/A | https://archive.org/details/voyageAbyssinia00Salt | high | |
+| 75 | Bushell | Stephen Wootton Bushell (1844–1908), British physician-sinologist | Papers on Shangdu / Yuan archaeology & art | *JRAS* / related, 1870s–90s | N/A | Partial | high | |
+| 76 | de Sacy | Antoine Isaac Silvestre de Sacy (1758–1838), French orientalist | Memoir on the Assassins / hashish etymology | *Mémoires de l’Institut*, early 19th c. | French | Gallica | high | |
+| 77 | John Wood | John Wood (1811–1871), British naval officer-explorer | *A Personal Narrative of a Journey to the Source of the River Oxus* (lapis, horses, Pamir; 1872 ed. with Yule essay) | London: John Murray, 1841 (2nd ed. 1872) | N/A | https://archive.org/details/personalnarrativ00wood | high | |
+| 78 | Severtsof | Nikolai Alekseevich Severtsov (1827–1885), Russian naturalist | Pamir / Tian-Shan expedition reports (Ovis Poli) | Russian, 1870s | Partial | none found | medium | |
+| 79 | Younghusband | Sir Francis Edward Younghusband (1863–1942), British officer-explorer | *The Heart of a Continent* (Pamir, Ovis Poli) | London: John Murray, 1896 | N/A | IA | high | |
+
+**BibTeX block (core entries)**
+
+```bibtex
+@article{palladius1876elucidations,
+  author  = {Palladius (Kafarov, Pyotr Ivanovich)},
+  title   = {Elucidations of Marco Polo's Travels in North-China},
+  journal = {Journal of the North-China Branch of the Royal Asiatic Society},
+  volume  = {10},
+  year    = {1876}
+}
+
+@book{pauthier1865livre,
+  author    = {Polo, Marco},
+  editor    = {Pauthier, Guillaume},
+  title     = {Le Livre de Marco Polo, citoyen de Venise},
+  publisher = {Firmin-Didot Frères},
+  address   = {Paris},
+  year      = {1865},
+  volumes   = {2},
+  addendum  = {Digitised copies available via Internet Archive / Wikisource}
+}
+
+@book{bretschneider1888mediaeval,
+  author    = {Bretschneider, Emil},
+  title     = {Mediaeval Researches from Eastern Asiatic Sources},
+  publisher = {Kegan Paul, Trench, Trübner \& Co.},
+  address   = {London},
+  year      = {1888},
+  volumes   = {2},
+  addendum  = {Digitised by Internet Archive}
+}
+
+@book{hammer1842geschichte,
+  author    = {Hammer-Purgstall, Joseph von},
+  title     = {Geschichte der Ilchane, das ist der Mongolen in Persien},
+  publisher = {Leske},
+  address   = {Darmstadt},
+  year      = {1842--1843},
+  volumes   = {2},
+  addendum  = {Digitised by Internet Archive, https://archive.org/details/geschichtederilc01hamm}
+}
+
+@book{wood1841personal,
+  author    = {Wood, John},
+  title     = {A Personal Narrative of a Journey to the Source of the River Oxus},
+  publisher = {John Murray},
+  address   = {London},
+  year      = {1841},
+  note      = {2nd edition 1872 with essay by Henry Yule},
+  addendum  = {Digitised by Internet Archive, https://archive.org/details/personalnarrativ00wood}
+}
+
+@book{elliot1867history,
+  editor    = {Elliot, H. M. and Dowson, John},
+  title     = {The History of India as Told by Its Own Historians},
+  publisher = {Trübner \& Co.},
+  address   = {London},
+  year      = {1867--1877},
+  volumes   = {8},
+  addendum  = {Digitised by Internet Archive}
+}
+
+@book{salt1814voyage,
+  author    = {Salt, Henry},
+  title     = {A Voyage to Abyssinia},
+  publisher = {F. C. and J. Rivington},
+  address   = {London},
+  year      = {1814},
+  addendum  = {Digitised by Internet Archive, https://archive.org/details/voyageAbyssinia00Salt}
+}
+
+@book{tennent1859ceylon,
+  author    = {Tennent, James Emerson},
+  title     = {Ceylon: An Account of the Island, Physical, Historical, and Topographical},
+  publisher = {Longman},
+  address   = {London},
+  year      = {1859},
+  volumes   = {2},
+  addendum  = {Digitised by Internet Archive}
+}
+
+@book{dohsson1834histoire,
+  author    = {d'Ohsson, C. Mouradgea},
+  title     = {Histoire des Mongols, depuis Tchinguiz-Khan jusqu'à Timour Bey ou Tamerlan},
+  publisher = {Les frères Van Cleef},
+  address   = {The Hague},
+  year      = {1834--1835},
+  volumes   = {4}
+}
+
+@book{quatremere1836histoire,
+  author    = {Rashīd al-Dīn},
+  editor    = {Quatremère, Étienne},
+  title     = {Histoire des Mongols de la Perse},
+  publisher = {Imprimerie Royale},
+  address   = {Paris},
+  year      = {1836}
+}
+```
+
+(Additional entries for Baber, Shaw, Hedin, Curzon, Burnes, Elphinstone, Moorcroft, Gill, Hosie, Major, Groeneveldt, Younghusband, etc., follow the same pattern of author + year + short title key.)
+
+**Names that could not be fully resolved / residual issues**
+
+- **Anderson**: Clearly two contexts. II-08 (Burma/Yunnan) = John Anderson’s official reports on the Western Yunnan expedition. III-03 (Sumatra/Ferlec/Batta) is less securely pinned; Yule often pairs it with Junghuhn, so a secondary or different Anderson may be intended → flagged AMBIGUOUS.
+- **Lindsay**, **Gandar**, **Stewart**, **Nelson**: Cited in Yule–Cordier but specific monograph or article titles are not uniquely recoverable from the snippets and standard bibliographies without the exact page reference in Yule; confidence low.
+- **Abbott**, **Koeppen**, **Michie**, **Perny**, **Bridgman**, **Favé**, **Birdwood**, **Titsingh**, **Hardy**, **’Izzat Ullah**, **Roborovsky**, **Severtsof**: Correct scholars/travellers, but the precise paper or report Yule extracted is sometimes an official blue-book, *JRGS* article, or missionary note rather than a single well-known book; medium confidence where only the surname appears.
+- **Paulin Paris**: Identified as the medievalist who worked on early French manuscripts of Polo; exact title of the note on the preamble formula is not a standalone monograph.
+
+All other entries resolve to the works customarily cited by Yule–Cordier for the topics indicated in the snippets. No titles, dates, or URLs have been invented.

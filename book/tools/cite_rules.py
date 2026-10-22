@@ -13,7 +13,7 @@ CHECKS = ["cite_keys", "roman_locators", "epigraph_credit"]
 KEY = re.compile(r"(?<![\w.])-?@([A-Za-z][\w:.#$%&+?<>~/-]*\w)")
 ROMAN_LOC = re.compile(r"\bBook (?:I{1,3}|IV)\.[ivxlc]+\b|\bPrologue [ivxlc]+\b")
 POLO_CREDIT = re.compile(r"^Marco Polo, (Book [1-4], chs?\. \d+(–\d+)?|Prologue, (chs?\. \d+(–\d+)?|preamble)) \([^)]*\)$")
-OTHER_CREDIT = re.compile(r"\(\d{4}\)|\*\((adapted|tradition)\)\*\s*$")
+OTHER_CREDIT = re.compile(r"\((?:c\. )?\d{4}\)|\*\((adapted|tradition)\)\*\s*$")
 
 
 @lru_cache(maxsize=None)

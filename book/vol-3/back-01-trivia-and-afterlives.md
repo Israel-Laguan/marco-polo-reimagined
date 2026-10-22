@@ -1,8 +1,8 @@
 # Back Matter III-1
 ## Trivia, Disputes, and Afterlives — Volume III
 
-> *“Because of this book many set forth…”*
-> — Reception commonplace (paraphrase of a long European habit)
+> *“…the information given by one Marco Polo, a Florentine Physician!”*
+> — Juan de Mariana, *Historia general de España* (1601), on Columbus’s sources, in Yule–Cordier, Introduction, § 74 n. 3
 
 ---
 

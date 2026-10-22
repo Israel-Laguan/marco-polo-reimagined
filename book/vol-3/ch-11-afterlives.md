@@ -1,11 +1,11 @@
 # Chapter III-11
 ## Afterlives: Maps, Columbus, and the Making of a Witness
 
-> *“He who made this work… put in writing all that he saw and heard, so that other people might know of it.”*
-> — Prologue tradition, as the Book itself claimed its purpose
+> *“…he bethought himself that it would be a very great pity did he not cause to be put in writing all the great marvels that he had seen, or on sure information heard of, so that other people who had not these advantages might, by his Book, get such knowledge.”*
+> — Marco Polo, Prologue, preamble (Yule–Cordier)
 >
-> *“And this island [Chipangu] is so rich in gold that no man can tell it…”*
-> — echoed in Columbus’s expectancy (Pipino Latin; postils)
+> *“And I can tell you the quantity of gold they have is endless…”*
+> — Marco Polo, Book 3, ch. 2 (Yule–Cordier)
 
 ---
 
@@ -19,7 +19,7 @@ Anyway, next tradition mentions a Venetian friar’s disk. A century later, in V
 
 Between atlas and friar’s disk, and long after both, lesser charts and mappaemundi borrowed the same counters. Chipangu becomes Cipangu, Zipangu, the island of gold; Cathay hardens into a northern empire of expectation; Mangi keeps the south; Cambaluc (Khanbaliq / Beijing) and Quinsay become destinations for men who would never open the Prologue. Soft dispute restated: Polo’s cartographic “influence” is real and routinely overstated. Portolans ruled the sailed coasts; the *Milione* ruled imaginations of what lay behind them. Soft join: the afterlife of the Book on maps is an afterlife of names, not a surveying career. [5]
 
-Then came a reader who underlined for a voyage. Soft turn to Genoa’s most famous son after — and beside — the Venetian: Christopher Columbus (Cristoforo Colombo), who owned and annotated a Latin Polo, almost certainly in the Pipino tradition that Dominicans had made portable among clergy and courts. Soft postil breath: in the margins of that Book, and in related notes that fed his *Book of Prophecies* and his Atlantic expectancy, Columbus marked what served a western Ocean project and passed lightly over what did not. Chipangu’s gold — the palace roofed as our churches are with lead; the floors of gold plates two fingers thick; an island so rich that no man can tell it — rose from the Traveller’s report into the Admiral’s programme. Cathay and the Great Kaan became destinations that might be reached by sailing west if the Ocean were narrower than the ancients feared, if Antillia and other mid-sea islands stepped the way, and if Scripture and pagan geographers could be yoked to a narrower globe. [6]
+Then came a reader who underlined for a voyage. Soft turn to Genoa’s most famous son after — and beside — the Venetian: Christopher Columbus (Cristoforo Colombo), who owned and annotated a Latin Polo, almost certainly in the Pipino tradition that Dominicans had made portable among clergy and courts. Soft postil breath: in the margins of that Book, and in related notes that fed his *Book of Prophecies* and his Atlantic expectancy, Columbus marked what served a western Ocean project and passed lightly over what did not. Chipangu’s gold — the palace roofed as our churches are with lead; the floors of gold plates two fingers thick; gold the Book calls endless — rose from the Traveller’s report into the Admiral’s programme. Cathay and the Great Kaan became destinations that might be reached by sailing west if the Ocean were narrower than the ancients feared, if Antillia and other mid-sea islands stepped the way, and if Scripture and pagan geographers could be yoked to a narrower globe. [6]
 
 — Soft selective amplification named: Columbus read for gold, spices, conversion, and the habitability of far latitudes; he did not read as a philologist of Yuan administration or as a sceptic of Ramusian glitter. Soft dispute of influence, stated without piety: Columbus did not “discover America” because Marco Polo told him to. The practical arts of his voyage — tonnage and hull, trade winds guessed and learned, dead reckoning, the portolan mind, the financing of a crown and of Genoese skill — came from the Atlantic and Mediterranean schools of seamanship, from Portuguese African probes past Bojador and to the gold of Guinea, and from a Lisbon–Seville world of capital that owed more to sugar, slaves, and African gold than to any single Venetian text. Soft honest hinge: Polo’s Chipangu helped shape *what* Columbus hoped to find when land rose; merchants, charts, and crowns shaped *how* he could try. The postils remain precious less as a certificate that the *Milione* discovered the New World than as evidence of how a late-medieval Book of Asia could be mined for expectancy — and how gold and marvels, once underlined, travel farther than salt administrations and yam stations. Soft cross-echo to III-1: the exaggeration of Japan’s gold, already a romance colour in the Book, became in Columbus’s margins a fuel; reception inherited the wonder and forgot the dispute. [7]
 
