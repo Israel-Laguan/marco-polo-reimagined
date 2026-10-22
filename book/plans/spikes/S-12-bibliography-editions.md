@@ -19,7 +19,7 @@ What is the complete, correct citation for every work the manuscript names? Whic
 1. Run the prompt below and save the output to `research/results/S-12-raw.md`.
 2. Intake: run the trust checks (`research/README.md`), then write `registry/bibliography.bib` and `registry/sources.md`.
 3. Map every name used in `vol-*/` to a key. List the names that have no work behind them; they must get one or be dropped.
-4. Draft the citation-policy decision for the user: keep "by position" or move to short form (e.g. "Vogel 2013") with a back-matter bibliography. The draft weighs the voice (Notes stay light) against checkability.
+4. The citation policy itself is decided in **S-24** (proposed: Chicago author-date in the Notes, Pandoc citation keys, base text by siglum). This spike supplies the name → key map that S-24's pass B consumes.
 
 ## Deep research prompt
 
@@ -44,7 +44,7 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 - [ ] `research/results/S-12-raw.md` saved
 - [ ] `registry/bibliography.bib` and `registry/sources.md`, with spot-check hit rate recorded
 - [ ] Name → key map for every scholar named in `vol-*/`; orphan names listed
-- [ ] Citation-policy proposal decided by the user
+- [ ] Name → key map handed to S-24
 
 ## Feedback to plan
 - `VOICE-GUIDE.md` § Notes rule 2, if the citation policy changes

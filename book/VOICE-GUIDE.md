@@ -147,7 +147,7 @@ For S-08: confirm a font with ✓ ✗ ◇ coverage and the endnote-vs-footnote c
 
 ## Base text and honesty
 
-- Working base: Yule–Cordier (PG / 1903–1920 tradition), eclectic toward the Geographic Old French line.
+- Working base: Yule–Cordier: Yule's translation, 3rd ed. rev. Cordier (London: John Murray, 1903), with Cordier's *Notes and Addenda* (1920); read in the Project Gutenberg digitisation (eBooks 10636 and 12410, 2004). Eclectic toward the Geographic Old French line.
 - Keep factual coverage from the outline beats; don't invent itinerary or quotations. Every quotation must be findable in `refs/`.
 - Flag Ramusio, Pipino, Jacopo d'Acqui and later embroidery honestly; never absorb them silently as primary fact.
 - Cite modern scholars by well-known positions (Yule, Larner, Benedetto, Moule–Pelliot, de Rachewiltz, etc.); no fabricated page numbers.

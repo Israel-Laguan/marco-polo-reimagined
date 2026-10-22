@@ -16,7 +16,7 @@ This directory holds drafted chapters of Volume I (prologue through arrival at C
 - **Naming:** Medieval / book form first; modern equivalent in parentheses on first mention in a chapter (e.g. Curzola (Korčula)). Prefer gazetteer book names thereafter.
 - **Chapter shape (rewritten):** (1) title + optional short epigraph; (2) continuous storyteller narrative (~1,800–3,200 words); (3) **## Notes** with numbered entries.
 - **Reliability markers (inside Notes):** ✓ corroborated · ~ plausible · ✗ likely wrong/exaggerated · ◇ second-hand · ? contested
-- **Base text:** Yule–Cordier (Project Gutenberg / 1903–1920 tradition), eclectic toward the “Geographic” Old French line; Ramusian colour flagged in asides/Notes, not silently absorbed as fact.
+- **Base text:** Yule–Cordier: Yule's translation, 3rd ed. rev. Cordier (London: John Murray, 1903), with Cordier's *Notes and Addenda* (1920); read in the Project Gutenberg digitisation (eBooks 10636 and 12410, 2004). Eclectic toward the “Geographic” Old French line; Ramusian colour flagged in asides/Notes, not silently absorbed as fact.
 - **Dispute hooks:** Treated honestly inline and in Notes without killing the narrative; no fabricated page citations. Modern scholars cited by well-known positions (Larner; Yule introductions; Moule–Pelliot typology; Benedetto; Jacopo d’Acqui; Pipino; de Rachewiltz) without inventing page numbers.
 - **Scope of this folder:** Volume I chapters only. Do not draft later volumes here.
 

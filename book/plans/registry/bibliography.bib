@@ -1,0 +1,40 @@
+% Master bibliography for The Book of the Million (biblatex; style per S-24).
+% Keys: authorYEARword, lower case (S-12). Status of each entry lives in
+% registry/sources.md once S-12 creates it; entries here without a
+% "confirmed" comment are not yet checked.
+%
+% Rule (S-24): cite an old book by its print edition. A digitisation
+% (Project Gutenberg, Internet Archive, HathiTrust...) is the access route,
+% given in url/addendum, never the date of the work.
+
+% --- Base text -------------------------------------------------------------
+% confirmed 2026-10-22: title pages in refs/yule-vol1.txt and refs/yule-vol2.txt;
+% PG catalogue records for eBooks 10636 (released 2004-01-01) and 12410
+% (released 2004-05-01; holds 1903 vol. 2 plus the 1920 Addenda).
+
+@book{yule1903marco,
+  author     = {Polo, Marco},
+  title      = {The Book of Ser Marco Polo, the Venetian, Concerning the Kingdoms and Marvels of the East},
+  translator = {Yule, Henry},
+  editor     = {Cordier, Henri},
+  editortype = {reviser},
+  edition    = {3},
+  volumes    = {2},
+  publisher  = {John Murray},
+  location   = {London},
+  date       = {1903},
+  shorthand  = {YC},
+  addendum   = {Consulted in the Project Gutenberg digitisation, eBooks 10636 and 12410 (2004)},
+  url        = {https://www.gutenberg.org/ebooks/10636},
+}
+
+@book{cordier1920ser,
+  author     = {Cordier, Henri},
+  title      = {Ser Marco Polo: Notes and Addenda to Sir Henry Yule's Edition, Containing the Results of Recent Research and Discovery},
+  publisher  = {John Murray},
+  location   = {London},
+  date       = {1920},
+  shorthand  = {YC Add.},
+  addendum   = {Consulted in the Project Gutenberg digitisation, eBook 12410 (2004)},
+  url        = {https://www.gutenberg.org/ebooks/12410},
+}

@@ -56,6 +56,7 @@ plans/
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | open | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | open | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | open | — | `PLT` (PD) |
+| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | open: proposal awaiting approval | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
 
 ### Phase R — references and enrichment (deep research)
 
