@@ -16,6 +16,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import characters  # noqa: E402
 import gazetteer  # noqa: E402
 import yule  # noqa: E402
 
@@ -389,8 +390,9 @@ def c_names(doc, ctx):
 
 
 def c_name_policy(doc, ctx):
-    """S-04 naming policy: book form throughout; a modern/alternate form only as a gloss beside it, and the
-    first mention of each book form per chapter carries a gloss. Warnings until the chapter naming tasks land."""
+    """S-04 naming policy (places) and S-05 (people): book form throughout; a modern/alternate form only as a gloss
+    beside it, and the first mention of each book form per chapter carries a gloss. Warnings until the chapter
+    naming tasks land."""
     if doc.kind != "narrative" or not gazetteer.in_rule_scope(doc.rel):
         return
     reported = set()
@@ -412,6 +414,22 @@ def c_name_policy(doc, ctx):
             after = t[m.end():m.end() + 6]
             if not re.match(r"\s*[(—–]", after) and not gazetteer.is_gloss(t, m.start(), [r["book_name"]] + gazetteer.aliases(r)):
                 yield "warning", ln, f"first mention of “{r['book_name']}” has no modern gloss ({r['modern_name'].split(',')[0]})"
+            break
+    # S-05: the same policy for people (plans/registry/characters.yaml).
+    for ln, p in doc.paras:
+        for alias, book in characters.bare_variants(strip_quotes(p), doc.rel):
+            if (alias, ln) not in reported:
+                reported.add((alias, ln))
+                yield "warning", ln, f"“{alias}” used bare; the book form for this person is “{book}” (S-05)"
+    for person in characters.needs_gloss(doc.rel):
+        rx = gazetteer.form_re(person["book_name"])
+        for ln, p in doc.paras:
+            t = strip_quotes(p)
+            m = rx.search(t)
+            if not m:
+                continue
+            if not characters.glossed_at(t, m, person):
+                yield "warning", ln, f"first mention of “{person['book_name']}” has no gloss ({person['gloss']}) (S-05)"
             break
 
 

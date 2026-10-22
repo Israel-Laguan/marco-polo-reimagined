@@ -1,0 +1,790 @@
+# Character registry (S-05): the naming and date authority for the recurring people of the book.
+# Visual cards, plate scenes and the Polo itinerary: character-cards.yaml. Method note: characters.md.
+# Tooling: python3 tools/characters.py check | ages | chapters | report [--md]
+#
+# Fields
+#   book_name  the form the prose uses. Polo names the person -> Yule's form of Polo's text (Cublay, Alaü, Argon);
+#              Polo does not -> the standard modern English form (Chabi, Bolad). Europeans keep their modern form.
+#   gloss      modern form given once, in brackets, at the first mention per chapter ("" = no gloss needed)
+#   aliases    variant spellings: never bare in narrative prose (lint name_policy, warning)
+#   also       other legitimate names or titles, not variants (Tedaldo becomes Gregory X in 1271)
+#   born/died  year (int) or null; `dates` says how firm. Where only a bound is known, died holds the latest possible
+#              year ("dead by 1300" -> 1300) and born stays null. Ages in tools/characters.py are year - born (±1)
+#   book_says  what the Book or the current chapters say that the record contradicts -> chapter backlogs
+#   verify     the spike that must confirm a fact before a chapter states it as settled
+#   chapters   generated: python3 tools/characters.py chapters
+# Out of scope: scholars, editors and witnesses cited as sources (Ramusio, Pipino, Jacopo d'Acqui, Yule, Wood):
+# bibliography. Saints and legend (St Thomas, Adam, Alexander) are not characters. Prester John is a legendary row in
+# gazetteer.csv (S-04), which owns that form; Polo pins the name on Unc Can and King George, who are here.
+
+people:
+
+# ---- the Polo party and Venice
+- id: marco
+  book_name: Marco
+  aliases: []
+  also: [Marco Polo, Messer Marco, Messer Marco Polo]
+  gloss: ""
+  born: 1254
+  died: 1324
+  dates: "born 1254 by the received count (Venice; the Curzola/Korčula birth is modern legend); will dated 9 Jan 1324 (Venetian 1323 more veneto), dead by June 1325"
+  group: polo
+  role: "the traveller; in the Kaan's service 1275–91; dictated the Book in a Genoese prison, 1298–99"
+  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta"
+  book_says: []
+  verify: [S-15]
+  chapters: "I-F1;I-F2;I-01;I-02;I-03;I-04;I-05;I-06;I-07;I-08;I-09;I-10;I-11;I-12;I-13;I-B1;II-F1;II-F2;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-08;II-09;II-10;II-11;II-12;II-13;II-14;II-15;II-B1;III-F2;III-01;III-02;III-03;III-04;III-05;III-06;III-07;III-08;III-09;III-10;III-11;III-12;III-B1"
+- id: niccolo
+  book_name: Niccolò
+  aliases: [Nicolo, Nicolas, Nicolò, Niccolo]
+  also: [Messer Niccolò, Niccolò Polo]
+  gloss: ""
+  born: null
+  died: 1300
+  dates: "birth unknown (an adult merchant in 1260, so before c. 1235); dead by 1300, the date not fixed"
+  group: polo
+  role: "Marco's father; with Maffeo on both journeys (1260–69, 1271–95)"
+  relations: "son of Andrea; father of Marco; his first wife (Marco's mother) died before 1269; remarried after 1269"
+  book_says: []
+  verify: [S-15]
+  chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
+- id: maffeo
+  book_name: Maffeo
+  aliases: []
+  also: [Messer Maffeo, Maffeo Polo]
+  gloss: ""
+  born: null
+  died: 1318
+  dates: "birth unknown; will of 1309/1310; dead between 1309 and 1318 (III-10)"
+  group: polo
+  role: "Niccolò's brother and partner on both journeys"
+  relations: "son of Andrea; uncle of Marco"
+  book_says: ["I-02:9 'so far as the book tells, remained a bachelor': the Book says nothing of it; marital status unverified"]
+  verify: [S-15, S-14]
+  chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
+- id: andrea
+  book_name: Andrea Polo
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "known from Venetian documents only; of San Felice"
+  group: polo
+  role: "Marco's grandfather; father of Marco the elder, Niccolò and Maffeo"
+  relations: "grandfather of Marco"
+  book_says: []
+  verify: [S-15]
+  chapters: "I-02"
+- id: rustichello
+  book_name: Rustichello
+  aliases: [Rusticiano, Rustician, Rusticien]
+  also: [Rustichello of Pisa, Rustichello da Pisa]
+  gloss: ""
+  born: null
+  died: null
+  dates: "fl. c. 1270–1298; compiled an Arthurian romance from a book of the future Edward I (c. 1270–73); a prisoner in Genoa, perhaps since Meloria (1284)"
+  group: venice
+  role: "Pisan romance-writer who wrote the Book down from Marco's dictation, Genoa 1298–99"
+  relations: "Marco's fellow prisoner and scribe"
+  book_says: ["legacy plate drawing-genoa-dictation shows him as a monk in chains: he was a layman"]
+  verify: [S-15]
+  chapters: "I-F1;I-01;I-02;I-04;I-05;I-B1;II-09;II-10;II-11;II-15;III-02;III-11;III-12"
+- id: donata
+  book_name: Donata
+  aliases: []
+  also: [Donata Badoer]
+  gloss: ""
+  born: null
+  died: null
+  dates: "married Marco c. 1300, after his release; outlived him (named in the 1324 will)"
+  group: polo
+  role: "Marco's wife"
+  relations: "daughter of Vitale Badoer (modern identification); wife of Marco; mother of Fantina, Bellela, Moreta"
+  book_says: ["III-10:21 'her family is not assured, though a Loredano connexion has been suspected' (Yule, before the documents): Badoer"]
+  verify: [S-15, S-14]
+  chapters: "III-10"
+- id: fantina
+  book_name: Fantina
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "born after c. 1300; married by 1324"
+  group: polo
+  role: "Marco's eldest daughter; principal heir"
+  relations: "daughter of Marco and Donata"
+  book_says: []
+  verify: [S-15]
+  chapters: "III-10"
+- id: bellela
+  book_name: Bellela
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "born after c. 1300; married by 1324"
+  group: polo
+  role: "Marco's second daughter"
+  relations: "daughter of Marco and Donata"
+  book_says: []
+  verify: [S-15]
+  chapters: "III-10"
+- id: moreta
+  book_name: Moreta
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "born after c. 1300; unmarried at the 1324 will, which leaves her a dowry"
+  group: polo
+  role: "Marco's youngest daughter"
+  relations: "daughter of Marco and Donata"
+  book_says: []
+  verify: [S-15]
+  chapters: "III-10"
+- id: peter-the-tartar
+  book_name: Peter the Tartar
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "freed by the will of January 1324; when he came to Venice is not known"
+  group: polo
+  role: "Marco's Tatar servant, freed and given a legacy in the will"
+  relations: "household of Marco"
+  book_says: []
+  verify: [S-15]
+  chapters: "III-10"
+- id: cepoy
+  book_name: Thibault de Cepoy
+  aliases: []
+  also: [Cepoy, the Lord of Cepoy]
+  gloss: ""
+  born: null
+  died: null
+  dates: "in Venice 1307 for Charles of Valois"
+  group: reception
+  role: "French knight who received a copy of the Book from Marco, August 1307"
+  relations: "agent of Charles of Valois"
+  book_says: []
+  verify: []
+  chapters: "III-10"
+
+# ---- the Church and the Levant
+- id: tedaldo
+  book_name: Tedaldo
+  aliases: [Teobaldo, Tebaldo]
+  also: [Tedaldo Visconti, Gregory X, Pope Gregory, Gregory]
+  gloss: ""
+  born: 1210
+  died: 1276
+  dates: "c. 1210 – 10 Jan 1276; legate at Acre 1269–71; elected pope 1 Sep 1271"
+  group: church
+  role: "the legate who sent the Polos east in 1271, recalled them from Layas as Pope Gregory X"
+  relations: "Visconti of Piacenza"
+  book_says: []
+  verify: []
+  chapters: "I-F2;I-02;I-03;I-05"
+- id: clement-iv
+  book_name: Clement IV
+  aliases: []
+  also: [Pope Clement]
+  gloss: ""
+  born: null
+  died: 1268
+  dates: "d. 29 Nov 1268; the vacancy lasted until Sept 1271"
+  group: church
+  role: "the pope whose death kept the Polos waiting in Venice"
+  relations: ""
+  book_says: []
+  verify: []
+  chapters: "I-02;III-10"
+- id: baibars
+  book_name: Bundukdar
+  aliases: [Bendocquedar]
+  also: [the Soldan of Babylon]
+  gloss: Baibars
+  born: 1223
+  died: 1277
+  dates: "c. 1223 – 1 July 1277; Mamluk sultan 1260–77"
+  group: levant
+  role: "Mamluk sultan whose raid into Armenia (1271) turned back the two friars"
+  relations: ""
+  book_says: []
+  verify: []
+  chapters: "I-03;I-04;III-08"
+
+# ---- the Mongol house and Yuan court
+- id: chinghis
+  book_name: Chinghis
+  aliases: [Chinggis, Chinghiz, Genghis, Jenghiz, Chingiz]
+  also: [Chinghis Kaan]
+  gloss: Chinggis Khan
+  born: 1162
+  died: 1227
+  dates: "born 1155, 1162 or 1167 (1162 the usual choice); d. Aug 1227"
+  group: mongol
+  role: "founder; Kublai's grandfather"
+  relations: "father of Jochi, Chagatai, Ögedei, Tolui; grandfather of Kublai, Hulagu, Möngke, Berke"
+  book_says: ["I-12 Book: killed by an arrow in the knee at Caaju soon after defeating Unc Can; he died in 1227 on the Tangut campaign"]
+  verify: []
+  chapters: "I-09;I-10;I-12;I-13;II-F1;II-01;II-02;II-15;III-12"
+- id: mongke
+  book_name: Mongou
+  aliases: [Möngke, Mangu, Mongu]
+  also: [Mongou Kaan]
+  gloss: Möngke
+  born: 1209
+  died: 1259
+  dates: "1209 – Aug 1259; Great Kaan 1251–59"
+  group: mongol
+  role: "Kublai's elder brother and predecessor"
+  relations: "son of Tolui; brother of Kublai, Hulagu, Ariq Böke"
+  book_says: []
+  verify: []
+  chapters: "I-05;I-11;I-12;II-01;II-03;II-07;III-12"
+- id: chagatai
+  book_name: Sigatay
+  aliases: [Chagatai, Chaghatai, Jagatai]
+  also: []
+  gloss: Chagatai
+  born: 1183
+  died: 1242
+  dates: "c. 1183 – 1242"
+  group: mongol
+  role: "second son of Chinggis; lord of the Central Asian ulus"
+  relations: "Kublai's uncle"
+  book_says: ["I-07:23 and I-10:27 'own brother to the Great Kaan': he was Kublai's uncle and died in 1242 (Yule's own note)"]
+  verify: []
+  chapters: "I-F1;I-02;I-07;I-10;II-15"
+- id: toghrul
+  book_name: Unc Can
+  aliases: [Aung Khan, Ong Khan, Wang Khan, Toghrul]
+  also: []
+  gloss: Toghrul, the Ong Khan of the Kereit
+  born: null
+  died: 1203
+  dates: "d. 1203, after defeat by Chinggis"
+  group: mongol
+  role: "Kereit ruler whom Polo makes 'Prester John'"
+  relations: "Chinggis's former overlord and sworn father"
+  book_says: ["I-12 Book's battle site and date for his fall are theatre (S-14 #3)"]
+  verify: [S-14]
+  chapters: "I-12"
+- id: king-george
+  book_name: King George
+  aliases: [Körgüz, Georges]
+  also: []
+  gloss: Körgüz of the Önggüd
+  born: null
+  died: 1298
+  dates: "d. 1298 (captured fighting Kaidu's forces)"
+  group: mongol
+  role: "Önggüd prince of Tenduc, Nestorian convert to Rome under Montecorvino; Polo's 'descendant of Prester John'"
+  relations: "son-in-law of the Kaan's house"
+  book_says: []
+  verify: []
+  chapters: "I-12;I-B1"
+- id: kublai
+  book_name: Cublay
+  aliases: [Kublai, Khubilai, Qubilai, Kubla, Kúblái]
+  also: [Cublay Kaan, Setsen Khan]
+  gloss: Kublai
+  born: 1215
+  died: 1294
+  dates: "23 Sep 1215 – 18 Feb 1294; Great Kaan 1260; dynastic name Yuan 1271"
+  group: yuan
+  role: "the Great Kaan; Polo's master 1275–91"
+  relations: "son of Tolui; brother of Möngke and Hulagu; husband of Chabi; father of Dorji, Chingkim, Mangala, Nomukhan; grandfather of Temür"
+  book_says: ["II-01:15 the chapter's own dispute aside: Möngke died 1259 not 1256; fifth, not sixth, Great Kaan"]
+  verify: []
+  chapters: "I-F1;I-02;I-03;I-05;I-10;I-11;I-12;I-13;II-F1;II-01;II-02;II-06;II-07;II-08;II-15;III-01;III-02;III-09;III-12"
+- id: chabi
+  book_name: Chabi
+  aliases: [Jamui, Jamui Khatun, Chabui]
+  also: []
+  gloss: ""
+  born: 1227
+  died: 1281
+  dates: "c. 1227 – 1281 (Polo does not name her; Jamui Khatun is Rashid al-Din's form)"
+  group: yuan
+  role: "Kublai's chief wife; patron of Ahmad and of 'Phags-pa"
+  relations: "Qonggirat; mother of Chingkim; succeeded as chief wife by her kinswoman Nambui"
+  book_says: []
+  verify: []
+  chapters: "II-05"
+- id: dorji
+  book_name: Dorjé
+  aliases: [Dorji, Dorje]
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "died young, before Chingkim was named heir"
+  group: yuan
+  role: "Kublai's eldest son"
+  relations: "son of Kublai and Chabi"
+  book_says: []
+  verify: [S-14]
+  chapters: "II-02"
+- id: chingkim
+  book_name: Chinkin
+  aliases: [Chingkim, Zhenjin, Jingim]
+  also: []
+  gloss: Chingkim
+  born: 1243
+  died: 1286
+  dates: "1243 – 12th month of Zhiyuan 22 (Jan 1286, Yuan shi); Yule gives '12th moon of 1284–85, aged 43'"
+  group: yuan
+  role: "Kublai's heir; died before him"
+  relations: "son of Kublai and Chabi; father of Temür"
+  book_says: ["II-02 file: 'Chingkim' used bare beside the book form 'Chinkin'"]
+  verify: [S-14]
+  chapters: "II-02;II-05"
+- id: temur
+  book_name: Temur
+  aliases: [Temür]
+  also: []
+  gloss: ""
+  born: 1265
+  died: 1307
+  dates: "1265 – Feb 1307; succeeded Kublai 1294 (Chengzong)"
+  group: yuan
+  role: "Kublai's grandson and successor"
+  relations: "son of Chingkim"
+  book_says: []
+  verify: []
+  chapters: "II-02;II-07"
+- id: mangala
+  book_name: Mangalai
+  aliases: [Mangala, Manggala]
+  also: [Prince Mangalai]
+  gloss: Mangala
+  born: null
+  died: 1280
+  dates: "d. 1280 (Wang of Anxi, at Kenjanfu / Xi'an)"
+  group: yuan
+  role: "Kublai's third son, prince at Kenjanfu"
+  relations: "son of Kublai and Chabi"
+  book_says: []
+  verify: []
+  chapters: "II-06"
+- id: esen-temur
+  book_name: Sentemur
+  aliases: [Essentimur, Esen-Temür, Isentemur, Essentemur]
+  also: []
+  gloss: Esen-Temür
+  born: null
+  died: null
+  dates: "prince in Yunnan in the 1280s"
+  group: yuan
+  role: "Kublai's grandson, king of Carajan"
+  relations: "son of Hügechi; grandson of Kublai"
+  book_says: []
+  verify: []
+  chapters: "II-07;II-08"
+- id: ahmad
+  book_name: Achmath
+  aliases: [Ahmad, Ahmad Fanakati, Ahama, Achmach]
+  also: [the Bailo]
+  gloss: Ahmad Fanakati
+  born: null
+  died: 1282
+  dates: "finance minister from 1264; murdered 10 April 1282 at Cambaluc"
+  group: yuan
+  role: "Kublai's hated finance minister"
+  relations: "from Fanakat on the Jaxartes; protégé of Chabi"
+  book_says: []
+  verify: [S-14]
+  chapters: "II-F1;II-04;II-05;II-06;II-B1;III-11;III-12"
+- id: bolad
+  book_name: Bolad
+  aliases: [Pulad, Boluo]
+  also: [Bolad Chingsang, Bolad Aqa]
+  gloss: ""
+  born: null
+  died: 1313
+  dates: "d. 1313 in Persia"
+  group: yuan
+  role: "Mongol official who investigated Ahmad's crimes: the 'Po-lo' of the Chinese annals, once read as Marco"
+  relations: "later Kublai's envoy to the Ilkhans, Rashid al-Din's informant"
+  book_says: ["II-05:25 'the Emperor desired Polo, Assessor of the Privy Council' read as Marco: it is Bolad (HOT.3; also II-11 Note, III-12)"]
+  verify: []
+  chapters: ""
+- id: bayan
+  book_name: Bayan
+  aliases: []
+  also: [Bayan Chincsan, Bayan Hundred-Eyes]
+  gloss: ""
+  born: 1236
+  died: 1295
+  dates: "1236 – Jan 1295"
+  group: yuan
+  role: "Baarin general who conquered the Song (Lin'an surrendered 1276)"
+  relations: "not the huntsman Baian of II-04 (see baian)"
+  book_says: ["II-10 'Hundred-Eyes' prophecy is legend; caption must not present it"]
+  verify: []
+  chapters: "II-10;II-12;II-13"
+- id: baian
+  book_name: Baian
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "Polo's figure; unidentified"
+  group: yuan
+  role: "with his brother Mingan, Master of the Kaan's hounds (Cunichi)"
+  relations: "a different man from the general Bayan: keep the spellings apart"
+  book_says: []
+  verify: []
+  chapters: "II-04"
+- id: nayan
+  book_name: Nayan
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: 1287
+  dates: "executed 1287 (Polo: a young man of about thirty)"
+  group: yuan
+  role: "prince of the eastern appanage; rebel crushed by Kublai in person, 1287"
+  relations: "descendant of Temüge Otchigin, Chinggis's youngest brother; the Book calls him Kublai's uncle"
+  book_says: ["II-01:19 'great-great-grandson of Chinghiz's brother Belgutai': Otchigin line (Yule's Uchegin), S-14 #4", "II-01 year 1286 vs 1287"]
+  verify: [S-14]
+  chapters: "II-01;III-12"
+- id: kaidu
+  book_name: Caidu
+  aliases: [Kaidu, Qaidu, Caidou, Kaydu]
+  also: [King Caidu]
+  gloss: Kaidu
+  born: 1235
+  died: 1301
+  dates: "c. 1235 – 1301"
+  group: mongol
+  role: "Ögedeid prince of Central Asia, Kublai's lifelong enemy"
+  relations: "grandson of Ögedei, so a first cousin once removed of Kublai (the Book's 'nephew'); father of Aijaruc"
+  book_says: []
+  verify: []
+  chapters: "I-F1;I-10;II-01;II-15;III-12"
+- id: aijaruc
+  book_name: Aijaruc
+  aliases: [Khutulun, Qutulun, Aigiarne]
+  also: []
+  gloss: Khutulun
+  born: 1260
+  died: 1306
+  dates: "c. 1260 – c. 1306"
+  group: mongol
+  role: "Kaidu's daughter, the wrestling princess"
+  relations: "daughter of Kaidu"
+  book_says: []
+  verify: []
+  chapters: "II-15"
+- id: li-tan
+  book_name: Litan
+  aliases: [Li Tan, Litan Sangon]
+  also: []
+  gloss: Li Tan
+  born: null
+  died: 1262
+  dates: "rebelled and executed 1262"
+  group: yuan
+  role: "Han warlord of Shandong whose revolt the Book tells"
+  relations: ""
+  book_says: []
+  verify: []
+  chapters: "II-10;III-12"
+- id: mar-sarghis
+  book_name: Mar Sarghis
+  aliases: [Mar Sargis, Ma Xuelijisi, Marsarchis]
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "governor at Zhenjiang from c. 1277"
+  group: yuan
+  role: "Nestorian official who founded churches at Caiju/Chinghianfu"
+  relations: ""
+  book_says: []
+  verify: [S-14]
+  chapters: "II-11;II-12"
+
+# ---- the Song
+- id: facfur
+  book_name: Facfur
+  aliases: [Faghfur]
+  also: []
+  gloss: ""
+  born: 1240
+  died: 1274
+  dates: "Polo's title for the last adult Song emperor, Duzong (1240–74)"
+  group: song
+  role: "the Song emperor of the Book's Manzi chapters"
+  relations: "father of the child emperor Gong; husband's family of the dowager Xie"
+  book_says: ["II-10 Book has Facfur flee before Bayan; Duzong died 1274, before Bayan reached Lin'an"]
+  verify: []
+  chapters: "II-10;II-13"
+- id: empress-xie
+  book_name: Empress Dowager Xie
+  aliases: [Siechi, Xie Daoqing]
+  also: []
+  gloss: ""
+  born: 1210
+  died: 1283
+  dates: "1210 – 1283; regent 1274–76; surrendered Lin'an 1276"
+  group: song
+  role: "Song regent who sent the seal to Bayan"
+  relations: "grandmother of the child emperor Gong"
+  book_says: []
+  verify: []
+  chapters: "II-10"
+
+# ---- the Ilkhans, the Golden Horde and the Chagatai khans
+- id: hulagu
+  book_name: Alaü
+  aliases: [Hulagu, Hülegü, Hulaku, Alau, Hulegu]
+  also: []
+  gloss: Hulagu
+  born: 1217
+  died: 1265
+  dates: "c. 1217 – 8 Feb 1265; took Baghdad Feb 1258"
+  group: ilkhanate
+  role: "founder of the Ilkhanate; conqueror of Baudac"
+  relations: "brother of Kublai; father of Abaqa and Tegüder"
+  book_says: ["I-02:17 the Book's outcome of the 1262 war with Barca is backwards: Hulagu was routed on the Terek, 1263 (S-14 #1)"]
+  verify: [S-14]
+  chapters: "I-F1;I-02;I-05;I-06;I-08;I-09;I-12;II-10;II-15"
+- id: berke
+  book_name: Barca
+  aliases: [Berke, Barka, Bereke]
+  also: []
+  gloss: Berke
+  born: 1209
+  died: 1266
+  dates: "c. 1209 – 1266; khan of the Golden Horde 1257–66"
+  group: golden-horde
+  role: "the western khan who hosted the elder Polos (1260–61)"
+  relations: "grandson of Chinggis; Hulagu's cousin and enemy"
+  book_says: ["I-02 see Alaü"]
+  verify: [S-14]
+  chapters: "I-F1;I-02;I-B1;II-15"
+- id: barac
+  book_name: Barac
+  aliases: [Baraq, Borrak, Borak]
+  also: []
+  gloss: Baraq
+  born: null
+  died: 1271
+  dates: "khan of the Chagatai ulus 1266–71"
+  group: mongol
+  role: "the lord at Bocara when the elder Polos waited there; beaten by Abaqa 1270"
+  relations: ""
+  book_says: []
+  verify: []
+  chapters: "I-02;II-15"
+- id: abaqa
+  book_name: Abaga
+  aliases: [Abaqa, Abaka]
+  also: []
+  gloss: Abaqa
+  born: 1234
+  died: 1282
+  dates: "1234 – 1 Apr 1282; Ilkhan 1265–82"
+  group: ilkhanate
+  role: "Ilkhan; sent the engineers to Xiangyang (per the Yuan shi)"
+  relations: "son of Hulagu; father of Arghun and Gaykhatu"
+  book_says: []
+  verify: [S-14]
+  chapters: "II-11;II-15;III-09"
+- id: teguder
+  book_name: Acomat
+  aliases: [Tegüder, Tekuder, Ahmad Tegüder]
+  also: [Acomat Soldan]
+  gloss: Tegüder Ahmad
+  born: null
+  died: 1284
+  dates: "Ilkhan 1282–84; executed Aug 1284"
+  group: ilkhanate
+  role: "Arghun's uncle and rival"
+  relations: "son of Hulagu"
+  book_says: []
+  verify: []
+  chapters: "II-15"
+- id: arghun
+  book_name: Argon
+  aliases: [Arghun, Argun]
+  also: []
+  gloss: Arghun
+  born: 1258
+  died: 1291
+  dates: "c. 1258 – 7 or 10 March 1291; Ilkhan 1284–91"
+  group: ilkhanate
+  role: "the Ilkhan who asked Kublai for a bride; dead before she sailed"
+  relations: "son of Abaqa; husband of Bolgana; father of Ghazan"
+  book_says: []
+  verify: [S-14]
+  chapters: "II-15;III-F1;III-09;III-12"
+- id: bolgana
+  book_name: Bolgana
+  aliases: [Bulughan, Balgana]
+  also: [Queen Bolgana]
+  gloss: Bulughan
+  born: null
+  died: 1286
+  dates: "d. April 1286"
+  group: ilkhanate
+  role: "Arghun's wife, whose dying wish sent for a bride of her own Bayaut line"
+  relations: "wife of Arghun"
+  book_says: []
+  verify: []
+  chapters: "I-03;III-09"
+- id: cocachin
+  book_name: Cocachin
+  aliases: [Kököchin, Kokachin, Kukachi, Cogatin]
+  also: [the Lady Cocachin]
+  gloss: Kököchin
+  born: 1273
+  died: 1296
+  dates: "about seventeen when chosen (Book), so born c. 1273; married Ghazan 1293/94; d. June 1296 (Rashid)"
+  group: ilkhanate
+  role: "Bayaut bride sent from Cathay for Arghun, escorted by the Polos"
+  relations: "kinswoman of Bolgana; wife of Ghazan"
+  book_says: []
+  verify: [S-14]
+  chapters: "I-03;I-B1;II-15;II-B1;III-F1;III-03;III-09;III-11;III-12;III-B1"
+- id: oulatay
+  book_name: Oulatay
+  aliases: [Uladai, Ulatai, Oulatai]
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "named in the Yongle dadian document of 1290"
+  group: ilkhanate
+  role: "first of Arghun's three envoys"
+  relations: "with Apusca and Coja"
+  book_says: []
+  verify: [S-14]
+  chapters: "II-15;III-09"
+- id: apusca
+  book_name: Apusca
+  aliases: [Abishqa, Apushka]
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "named in the 1290 document; died on the voyage?"
+  group: ilkhanate
+  role: "Arghun's envoy"
+  relations: ""
+  book_says: []
+  verify: [S-14]
+  chapters: "III-09"
+- id: coja
+  book_name: Coja
+  aliases: [Khoja, Khwaja]
+  also: []
+  gloss: ""
+  born: null
+  died: null
+  dates: "named in the 1290 document; the only envoy to survive the voyage (Book)"
+  group: ilkhanate
+  role: "Arghun's envoy"
+  relations: ""
+  book_says: []
+  verify: [S-14]
+  chapters: "III-09"
+- id: gaykhatu
+  book_name: Kiacatu
+  aliases: [Geikhatu, Gaykhatu, Gaikhatu]
+  also: []
+  gloss: Geikhatu
+  born: null
+  died: 1295
+  dates: "Ilkhan 1291–95; killed March 1295"
+  group: ilkhanate
+  role: "the Ilkhan who received the Polos at Tauris and gave them four golden tablets"
+  relations: "Arghun's brother (the Book: his uncle)"
+  book_says: ["II-15:33 body makes 'the better texts' call him Abaga's brother: he was Arghun's brother (vol-2 m1)"]
+  verify: [S-14]
+  chapters: "II-15;III-09;III-12"
+- id: baidu
+  book_name: Baidu
+  aliases: []
+  also: []
+  gloss: ""
+  born: null
+  died: 1295
+  dates: "Ilkhan Apr–Oct 1295; killed Oct 1295"
+  group: ilkhanate
+  role: "usurper after Kiacatu"
+  relations: "grandson of Hulagu through Taraqai: Arghun's cousin (the Book: Kiacatu's uncle)"
+  book_says: ["II-15:33 'whom the Book calls his uncle' left uncorrected: cousin", "II-15:33 'seized the throne in the year 1294': 1295"]
+  verify: [S-14]
+  chapters: "II-15"
+- id: ghazan
+  book_name: Casan
+  aliases: [Ghazan, Gazan, Ghâzân]
+  also: []
+  gloss: Ghazan
+  born: 1271
+  died: 1304
+  dates: "5 Nov 1271 – May 1304; Ilkhan 1295–1304"
+  group: ilkhanate
+  role: "Arghun's son, who married Cocachin; patron of Rashid al-Din"
+  relations: "son of Arghun; husband of Cocachin"
+  book_says: ["II-15:33 'Casan began to reign in the year 1294': 1295 (Note [6] already says 1295)"]
+  verify: [S-14]
+  chapters: "II-15;III-09;III-12"
+
+# ---- Baudac, the Assassins and the steppe west
+- id: mustasim
+  book_name: the Caliph
+  aliases: []
+  also: [the Caliph of Baudac, al-Musta'sim, Mostas'im, Musta'sim]
+  gloss: ""
+  born: 1213
+  died: 1258
+  dates: "1213 – Feb 1258; last Abbasid caliph of Baghdad"
+  group: levant
+  role: "the caliph Alaü shut in his treasure tower (Polo's exemplum)"
+  relations: ""
+  book_says: ["I-05 the starving-in-the-tower death is the Western/Polo version; Muslim sources say trampled in a carpet"]
+  verify: []
+  chapters: "I-B1"
+- id: old-man
+  book_name: the Old Man of the Mountain
+  aliases: []
+  also: [the Old Man, Aloadin]
+  gloss: ""
+  born: null
+  died: 1255
+  dates: "Polo's Aloadin = 'Ala' al-Din Muhammad III (d. 1255); Alamut fell to Hulagu 1256 under his son Rukn al-Din"
+  group: levant
+  role: "head of the Nizari Ismailis (the Assassins) in Polo's legend"
+  relations: ""
+  book_says: ["I-08 the Book has Alaü destroy Aloadin himself: his son surrendered in 1256"]
+  verify: []
+  chapters: "I-08;I-09;I-B1;III-10;III-12"
+
+# ---- reception
+- id: columbus
+  book_name: Columbus
+  aliases: []
+  also: [Christopher Columbus]
+  gloss: ""
+  born: 1451
+  died: 1506
+  dates: "1451 – 1506; his annotated Latin Polo is in the Biblioteca Colombina"
+  group: reception
+  role: "the most famous reader of the Book"
+  relations: ""
+  book_says: []
+  verify: [S-14]
+  chapters: "I-B1;III-F1;III-01;III-10;III-11;III-12;III-B1"

@@ -1,6 +1,6 @@
 # Illustration Plan — Event Plates
 
-**Status:** draft v1 (2026-10-21) · **Rules:** `illustration-style-guide.md` · **Scene research:** `critique/vol-*.md` §4 (anchors, period notes and cautions for about 120 candidate scenes)
+**Status:** draft v1 (2026-10-21) · **Rules:** `illustration-style-guide.md` · **Scene research:** `critique/vol-*.md` §4 (anchors, period notes and cautions for about 120 candidate scenes) · **Recurring figures:** `registry/character-cards.yaml` (S-05)
 
 ## Sourcing: real first, generated second
 
@@ -14,6 +14,8 @@ For several events, **a genuine public-domain artwork of that very subject exist
 **Count:** 41 hero slots (40 chapters + the Vol. II frontispiece): **34 GEN + 7 PD**, plus about 25 optional secondaries. That is roughly 34–59 plates to commission, plus 5 cutaway bases for the multimedia plan (C12–C16).
 
 ## Hero plates
+
+**Recurring figures (S-05).** Every plate showing a recurring person takes that person's card from `registry/character-cards.yaml`: `tools/characters.py cue <id> <year>` gives the `[PERIOD]` and `[AVOID]` lines. The ages in the "must get right" column come from `tools/characters.py ages` (table in `registry/characters.md` § Plate ages); scenes with figures are listed in the cards file, so the co-presence check covers them.
 
 Abbreviations:
 - **JT** = *Jami' al-Tawarikh* (Ilkhanid);
@@ -72,7 +74,7 @@ Abbreviations:
 | III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Smoke-signal relay; families aboard | — |
 | III-7 | The rukh carrying off an elephant | **PD** | al-Qazwini, *'Aja'ib al-makhluqat* | P | — | Legend; Aepyornis in caption |
 | III-8 | The wind-catchers of Hormos at noon | GEN | Baghdad school (al-Wasiti) | L | Old mainland Hormuz; *bād-gīr* towers as a type | — |
-| III-9 | Kublai gives the Polos golden tablets; Cocachin and the fleet | GEN | YC | H | 'Phags-pa paiza; Cocachin in a *boqta*; 13 junks | Port and year (1291 vs 1292) debated |
+| III-9 | Kublai gives the Polos golden tablets; Cocachin and the fleet | GEN | YC | H | 'Phags-pa paiza; Cocachin **unmarried: braids, no *boqta*** (S-05); Cublay c. 75; 13 junks | Port and year (1291 vs 1292) debated |
 | III-10 | Jewels ripped from the seams of the Tartar coats | GEN | Venetian Gothic | P | 1295 Veneto-Byzantine interior; **no Salute domes** | Ramusio's legend |
 | III-11 | Columbus's annotated copy | **PD** | Postils, Biblioteca Colombina (or the 1477 Creussner woodcut) | P | — | Annotation date debated |
 | III-12 | Caravan of the Catalan Atlas (1375) | **PD** | Cresques workshop | H | — | Often read as the Polos; that is uncertain |
@@ -113,6 +115,7 @@ Abbreviations:
 ```mermaid
 flowchart LR
   S[Scene entry<br/>this file] --> P[Prompt<br/>style-guide template]
+  C[Character card<br/>cue id year] --> P
   P --> G[Generate 4 candidates]
   G --> R{Review:<br/>period check +<br/>style check +<br/>no text/glyphs}
   R -->|fail| P
@@ -143,9 +146,15 @@ Three plates across very different traditions test whether the chosen generator 
         figures with Mongol-type faces, minimal ground line, red and ochre accents.
 [PERIOD] Mongol-era riders in lamellar coats and fur-trim hats; Venetians in
         travel tunics and hooded cloaks; Kerman date palms; sun-dried brick walls.
+        The young rider is Marco, about 18: slim, dark-haired, at most a first
+        beard, a merchant's belt-purse, no paiza; the two older Venetians are
+        bearded, one heavy-set and greying (Niccolò), one lean with a long dark
+        beard (Maffeo). Franks as the JT shows them: bareheaded or soft caps.
+        (S-05 cards: tools/characters.py cue marco 1272)
 [FORMAT] Landscape 4:3, paper ground, light even aging, framed rule border.
 [AVOID] legible text or inscriptions, signatures, seals, modern objects,
-        photographic realism, magical effects (it is a dust storm).
+        photographic realism, magical effects (it is a dust storm), a paiza
+        or knightly arms on the Venetians.
 ```
 
 **Pilot 2 — II-13, Song–Yuan city-genre scroll**

@@ -36,7 +36,7 @@ plans/
   research/results/          ← raw deep-research output, pasted untouched
   tasks/chapters/vol-N/*.md  ← one file per manuscript file (49)
   tasks/cross/*.md           ← cross-cutting areas (11)
-  registry/                  ← spike outputs: characters, facts, PD sources, conventions,
+  registry/                  ← spike outputs: characters (+ cards), facts, PD sources, conventions,
                                bibliography, scholarship, enrichment, comparanda
   templates/                 ← spike, chapter, cross
 ```
@@ -49,7 +49,7 @@ plans/
 | [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | **closed** 2026-10-21 (`tools/lint.py`; S-03/S-04 rules provisional) | — | `.T6` everywhere; the definition of done |
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | **closed** 2026-10-22 (`VOICE-GUIDE.md` § Apparatus conventions) | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | **closed** 2026-10-22 (`gazetteer.csv` v2, `tools/gazetteer.py`) | — | `GAZ.T5`–`T6`, `MAP`, naming items |
-| [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | open | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
+| [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | **closed** 2026-10-22 (`registry/characters.yaml`, cards, `tools/characters.py`; facts pending S-06) | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
 | [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | open | — | factual `.T1` items; `DIA` timelines |
 | [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | open | S-01 | the affected files |
 | [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | open | toolchain install (needs approval) | `BLD`; `.T5` |
@@ -118,7 +118,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 | Code | Area | Main gate |
 |---|---|---|
 | [MAP](tasks/cross/MAP-maps.md) | Maps A1–A17 | S-04, S-09 |
-| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 |
+| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; S-06 (facts) |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 34 GEN + 7 PD heroes, secondaries, legacy retirement | S-10, S-11 |
 | [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C16 | S-09 |
 | [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 |
@@ -183,8 +183,9 @@ A manuscript file is **done** when:
   | Tag line: exactly one of `**[V]**` `**[R]**` `**[M]**` `**[reception]**` in Vol. II–III narrative/essay files; none elsewhere *(S-03)* | yes | yes | none |
   | Ramusio passage reproduced in a paragraph → inline "Ramus…" flag + "Ramusio-only." label in a cited Note *(S-03)* | yes | — | — |
   | Place names: book form from `gazetteer.csv`, modern/alternate form only as a first-mention gloss (`name_policy`, warning until every chapter has had its pass) *(S-04)* | warning | — | — |
+  | People's names: the same rule against `registry/characters.yaml` (`name_policy`, tagged *(S-05)*) | warning | — | — |
 
-- **every lint warning has been looked at during the human read.** Warnings are heuristics: "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), name spellings close to a gazetteer name, bare non-canonical place names and unglossed first mentions (S-04, `name_policy`). Marked quotations in the essay and front/back may cite non-Yule sources, so for those files a missing match is a warning, not an error;
+- **every lint warning has been looked at during the human read.** Warnings are heuristics: "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), name spellings close to a gazetteer name, bare non-canonical place and person names and unglossed first mentions (S-04, S-05, `name_policy`). Marked quotations in the essay and front/back may cite non-Yule sources, so for those files a missing match is a warning, not an error;
 - every backlog item is resolved or explicitly deferred with a reason;
 - its media hooks are placed or deferred;
 - a human has read it for voice.
@@ -202,3 +203,4 @@ A manuscript file is **done** when:
 | 2026-10-21 | Definition of done = `tools/lint.py` exits 0 (errors gate; warnings go to the human read); 7-gram verbatim confirmed; baseline 1/49 files pass | S-02 |
 | 2026-10-22 | Phase R: references and enrichment via external deep research (S-12 … S-23); results are leads, verified at intake before use | user |
 | 2026-10-22 | Citation style: Chicago author-date (18th ed.) in the Notes, Pandoc keys, base text cited as YC (1903/1920 print edition; Gutenberg is only the access route); epigraph credit `— Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; Works cited per volume | user (S-24) |
+| 2026-10-22 | People follow the S-04 naming rule: Yule's form where Polo names the person (*Cublay*, *Alaü*, *Argon*), else the modern form; gloss once per chapter; registry `registry/characters.yaml` + visual cards; plate prompts take figure lines from `tools/characters.py cue`; co-presence checked by `tools/characters.py ages` | S-05 |

@@ -42,6 +42,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Maps:** critique §5 proposes a ch-01 map (Venice, Genoa, Curzola; Adriatic inset; Doria's raid path). No A-ID in `multimedia-plan.md`.
 - **Timelines / diagrams / tables:** D (I-1) Who captured Marco, and where? (preamble vs Jacopo d'Acqui vs Ramusio) + text witnesses F / Pipino / Z / Ramusio / Yule–Cordier. E: Prologue in the original — Rustichello's Franco-Italian opening ("Seignors emperaor et rois…") beside Yule's English, parallel-text box.
 - **Characters appearing:** Marco Polo, Rustichello of Pisa, Lamba Doria, Andrea Dandolo, Jacopo d'Acqui, Prince Edward of England; Niccolò and Maffeo Polo (passing)
+- **Character check (S-05):** Marco c. 44 (1298); Rustichello older, a **layman** (no habit, no chains). Cards: `plans/registry/character-cards.yaml`.
 
 ## Gated by spikes
 - S-01 Voice standard (this chapter is the reference)
@@ -70,6 +71,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
   - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Pagan → Mien ×1; unglossed first mentions: Tana, Trebizond. `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
+  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Now: bare variants: Rusticiano → Rustichello ×2, Rusticien → Rustichello ×1; unglossed first mentions: none. The lint lists them as `name_policy` warnings marked (S-05).
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-01.T2 — Ramusio flags and labels to the S-03 convention

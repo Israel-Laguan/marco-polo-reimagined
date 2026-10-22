@@ -47,6 +47,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Maps:** A12 The canal spine (Saianfu and Nanghin as dashed side branches, "reported/digression").
 - **Timelines / diagrams / tables:** B4 The Song endgame, 1268–1279 (II-10 / II-11); C14 Traction vs counterweight trebuchet cutaway (critique: with shot weight, Polo's 300 lb vs the annals' 125 catties, about 166 lb); D table II-11 Saianfu (Polos, a German and a Nestorian vs Alawading/Isma'il; 1273 surrender vs Polo's post-conquest framing) and the Yanju manuscript variants (F *seingneurie*, Bern *séjourna*, Ramusio *governo… in luogo di un dei Baroni*).
 - **Characters appearing:** Marco Polo, Niccolò Polo, Maffeo Polo, Kublai (the Kaan), Alawating / Alawading and Ysemain / Isma'il (the Muslim engineers), the Ilkhan Abaqa, Mar Sarghis (mentioned), Rustichello; an unnamed German and a Nestorian (Ramusio's engine-builders); traveller discussed: Odoric
+- **Character check (S-05):** the siege ended in 1273, two years before the Polos reached the court; `tools/characters.py ages` proves their absence from this plate. No Venetians in the scene.
 
 ## Gated by spikes
 - S-01 Voice standard
@@ -77,6 +78,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
   - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Yangzhou → Yanju ×3, Dadu → Cambaluc ×1, Kao-yu → Cayu ×1, Tung-chau → Tinju ×1, I-chin → Tinju ×1, Ngan-king → Nanghin ×1, Nanjing → Nanghin ×1; unglossed first mentions: Tinju, Nanghin. `python3 tools/lint.py -v vol-2/ch-11-yanju-saianfu.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
+  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Now: bare variants: Abaqa → Abaga ×1, Nicolo → Niccolò ×3; unglossed first mentions: none. The lint lists them as `name_policy` warnings marked (S-05).
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-11.T2 — Ramusio flags and labels to the S-03 convention

@@ -67,6 +67,19 @@ Front matter (`front-*`) and back matter (`back-*`) use maps and diagrams (see t
 - Fixed aspect ratios by format: **portrait miniature 3:4 · landscape miniature 4:3 · handscroll 3:1 (spread across two pages, or cropped to 2:1) · palm-leaf strip 4:1**.
 - Background: each tradition's own ground (paper, silk, plaster), aged lightly and *the same amount* across the series. No heavy grunge on some plates and pristine finish on others.
 
+## Recurring figures
+
+*Added by S-05 (2026-10-22).* About twenty people appear in more than one plate, often in very different traditions. Marco is painted in Gothic, Ilkhanid, Yuan and Venetian idioms; Cublay ages from about 50 (I-2) to about 76 (III-9). Without fixed anchors each tradition invents a new man. The anchors live in `plans/registry/character-cards.yaml`, one card per figure:
+
+- **likeness:** the period image to follow for face and dress, if one exists (the NPM Yuan portraits of Cublay, Chabi and Chinghis; Liu Guandao's hunt; the *Jami' al-Tawarikh* Ilkhans). Never copy its composition (rule 5). **No authentic likeness of any Polo exists**: the Doria Pamphilj portrait and the 1477 woodcut are inventions and are not used.
+- **house:** our fixed conventions for build, hair and beard, so a figure stays recognisable. They are not facts and are never captioned.
+- **attributes:** what identifies the figure in every idiom. Marco: the youngest of the three Latins before 1291, a merchant's belt-purse, a gold paiza only from 1275. Niccolò: the heavy-set elder who speaks. Rustichello: a layman with quires and an ink-horn. Cublay: carried in a chamber or litter after c. 1280. Cocachin: unmarried, so no *boqta*, until her marriage to Casan.
+- **dress by period:** what the figure wears in each year and place. Marco in Cathay wears a Mongol-style robe; he is not a Venetian in silk at the Yuan court.
+- **traditions:** how each idiom draws that person. In Ilkhanid painting the Polos are Franks, bareheaded or in soft caps. In Yuan painting they are western foreigners by Chinese convention (high nose, full beard) in Mongol robes. In the *Livre des merveilles* lens they are French gentlemen, and Cublay wears a crown.
+- **ages and co-presence:** `python3 tools/characters.py ages` gives every figure's age in every plate scene, and fails if a scene puts someone where the dates forbid (no Polos at Xiangyang; no Chabi after 1281; no Argon at the bride's arrival).
+
+Every prompt with a recurring figure takes its `[PERIOD]` and `[AVOID]` lines from `python3 tools/characters.py cue <id> <year>`. Review checks the card's attributes along with the scene's "must get right" column.
+
 ## Technical spec for LaTeX
 
 - **Resolution:** 300 dpi at final printed size. For a 6×9 in book with a ~4.5×7.2 in text block: full page **1350×2160 px**; half page **1350×1000 px**; handscroll spread **2700×900 px**.
@@ -82,7 +95,8 @@ Front matter (`front-*`) and back matter (`back-*`) use maps and diagrams (see t
 [STYLE] Painted in the manner of <tradition> (<reference work, date>):
         <3–5 idiom cues, e.g. "flat mineral pigments, gold ground,
         stacked perspective, figures in three-quarter view, scalloped clouds">
-[PERIOD] <dress / architecture / ships / animals cues from the scene entry>
+[PERIOD] <dress / architecture / ships / animals cues from the scene entry;
+         recurring figures: the lines from `tools/characters.py cue <id> <year>`>
 [FORMAT] <aspect ratio>, <ground: paper/silk/plaster>, light even aging
 [AVOID] legible text or inscriptions, signatures, seals, modern objects,
         photographic realism, <scene-specific anachronisms>

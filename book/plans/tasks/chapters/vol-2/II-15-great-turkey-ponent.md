@@ -18,6 +18,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[m]** Baidu "his uncle" left uncorrected (he was a cousin, grandson of Hülegü through Taraqai). — vol-2 m1 · ch-15 (Baidu passage); content plan W2 (II-15)
 - **[m]** :27 compresses Arghun's victory over Baraq (Baraq d. 1271) and Abaqa's death (1282) into "no long time passed". Fix: add a clause. — vol-2 m1 · ch-15:27
 - **[N]** "Pharaoh's rat" has no gloss (Yule: a marmot or jerboa type). — vol-2 N7 · ch-15:37
+- **[m]** (S-05) Baidu "seized the throne in the year 1294": he took it in spring 1295, after Kiacatu's murder (March 1295), and held it until October; the 1294 date is the same slip as Casan's. Kinship: the body's "his uncle the Great Kaan" (Caidu of Cublay, :13) is the Book's loose usage: Caidu was a grandson of Ögedei, so Cublay was his father's cousin. Gloss once or let stand as the Book's word. — registry `baidu`, `kaidu` · ch-15:13, :33
 
 ### Dispute handling and Ramusio flags
 - **[M]** Marker mismatch: body says "Casan began to reign in the year 1294", but Note [6] gives "✓ Gházán's victory 1295 sound"; the 1294 figure is never marked ✗ (Ghazan acceded in 1295). — vol-2 M7 · ch-15:33, Note [6] ch-15:67; content plan W2 (II-15)
@@ -42,6 +43,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Maps:** A14 The Mongol horizon (Ilkhanate, Chagatai and Kaidu, Golden Horde, "Land of Darkness" dotted). Existing `map-asia-mongol-empire.jpg` / `map-mongol-empire.gif` suggested by critique §5; the multimedia plan **replaces** them (too small; date range unverified).
 - **Timelines / diagrams / tables:** C8 Ilkhan succession: the Book vs the record (critique timeline: Abaqa d. 1282; Tegüder 1282–84; Arghun 1284–91; Geikhatu 1291–95; Baidu 1295; Ghazan 1295). Critique §5 also lists a "Golden Horde khan list (Book vs actual)" table; it has no D-row in `multimedia-plan.md`.
 - **Characters appearing:** Caidu (Kaidu), Aijaruc (Khutulun), Kublai (Cublay), Chinghis Khan, Argon (Arghun), Abaga (Abaqa), Acomat (Tegüder Ahmad), Kiacatu (Geikhatu), Baidu, Casan (Ghazan), Barac (Baraq), Alau (Hülegü), Barca (Berke), Batu, Toctai (Tokhta), Nogai, Conchi, Nomogan (Nomukhan), Cocachin (mentioned), Marco Polo, Rustichello
+- **Character check (S-05):** Aijaruc c. 20–30, very tall, unmarried in the scene (braids, no *boqta*); Caidu c. 45–55. Cards: `plans/registry/character-cards.yaml`.
 
 ## Gated by spikes
 - S-01 Voice standard
@@ -71,6 +73,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
   - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Dry Tree → Arbre Sec ×1, Samarcand → Samarcan ×1, Russia → Rosia ×1; unglossed first mentions: Cambaluc, Chipangu. `python3 tools/lint.py -v vol-2/ch-15-great-turkey-ponent.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
+  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Now: bare variants: Alau → Alaü ×3, Arghun → Argon ×2, Chagatai → Sigatay ×1, Chaghatai → Sigatay ×2, Geikhatu → Kiacatu ×1, Kaidu → Caidu ×1, Kublai → Cublay ×3, Ulatai → Oulatay ×2; unglossed first mentions: Aijaruc (Khutulun), Barca (Berke), Cocachin (Kököchin). The lint lists them as `name_policy` warnings marked (S-05).
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-15.T2 — Ramusio flags and labels to the S-03 convention

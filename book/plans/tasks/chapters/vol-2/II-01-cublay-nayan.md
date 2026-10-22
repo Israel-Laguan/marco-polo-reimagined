@@ -40,6 +40,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Maps:** no A-ID assigned. Critique §5 map 5 "Nayan theatre" (Cambaluc → Liao/Nonni plain; Chorcha, Cauly, Barscol, soft) has no entry in `multimedia-plan.md`.
 - **Timelines / diagrams / tables:** C5 Paiza hierarchy (silver → gerfalcon, script change 1269; II-1 / I-2); D table II-1 Nayan (kinship, year 1286 vs 1287, host size, sequel Qadaan). Pronunciation glossary entry for naccara/naqqāra (§E substitute for the critique's fiddle-and-kettledrum audio idea).
 - **Characters appearing:** Kublai (Cublay Kaan), Nayan, Caidu (Kaidu), Chinghis Khan, Möngke, Belgutai / Temüge Otchigin (ancestry), Niccolò and Maffeo Polo (mentioned), Marco Polo, Rustichello ("a Pisan scribe"); travellers discussed: Rubruck, Monte Corvino, Marignolli, Ibn Battuta
+- **Character check (S-05):** Cublay c. 72 (1287), carried, not mounted; Nayan c. 30, at a distance under a cross banner (the Book makes him a Christian). **No Polos on the field**: the text does not place them there. Cards: `plans/registry/character-cards.yaml`.
 
 ## Gated by spikes
 - S-01 Voice standard
@@ -69,6 +70,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
   - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Korea → Cauly ×1; unglossed first mentions: none. `python3 tools/lint.py -v vol-2/ch-01-cublay-nayan.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
+  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Now: bare variants: Chinghiz → Chinghis ×1, Kublai → Cublay ×2, Möngke → Mongou ×2, Nicolo → Niccolò ×1; unglossed first mentions: none. The lint lists them as `name_policy` warnings marked (S-05).
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-01.T2 — Ramusio flags and labels to the S-03 convention

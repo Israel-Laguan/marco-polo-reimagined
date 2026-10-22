@@ -17,7 +17,7 @@ Event illustrations: 34 generated (GEN) hero plates, 7 public-domain (PD) heroes
 - Each plate: sidecar `.yaml` (prompt, model, seed, date, tradition, caption) → an `ATTRIBUTIONS.md` row.
 
 ## Gated by spikes
-S-10 (generator, pilot) · S-11 (PD licences) · S-05 (character cards) · S-08 (pixel sizes from trim)
+S-10 (generator, pilot) · S-11 (PD licences) · S-05 ✓ (character cards: `registry/character-cards.yaml`; each plate with a recurring person takes its `[PERIOD]`/`[AVOID]` lines from `tools/characters.py cue`, and its scene row must pass `tools/characters.py ages`) · S-08 (pixel sizes from trim)
 
 ## Tasks
 _After S-10 and S-11: one task per plate, in volume order:_ `PLT.I-01` … `PLT.III-12`, plus `PLT.S*` for secondaries and `PLT.LEGACY` (retire and re-caption).

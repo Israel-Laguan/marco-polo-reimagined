@@ -60,6 +60,7 @@ A wholly Ramusian paragraph opens by saying so (model: II-13 at "So far the olde
 
 - Book / medieval form first; modern equivalent in parentheses on first mention in a chapter, e.g. Bocara (Bukhara).
 - Book names thereafter, per `gazetteer.csv`.
+- **People** follow the same rule, per `plans/registry/characters.yaml` (S-05): Yule's form where Polo names the person, glossed once (*Cublay (Kublai)*, *Argon (Arghun)*, *Casan (Ghazan)*); the modern form where he does not (*Chabi*, *Bolad*); Europeans in their modern form (*Niccolò*, *Rustichello*). An aside that corrects the Book still uses the book form: "Argon's brother Kiacatu", not "Arghun's brother Geikhatu".
 
 ## Inline dispute notes
 

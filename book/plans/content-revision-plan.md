@@ -24,7 +24,8 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 - quotation verification splits at "…" and reports invented vs misquoted;
 - "≤ 2 per scene" is checked per paragraph, because the chapters have no scene breaks;
 - unflagged Ramusio passages are detected by n-gram only while text is near-verbatim. After a re-voice, a warning compares the flag count with the first draft's passages (`tools/ramusio-manifest.json`);
-- place names are checked as warnings only (S-04 closed: aliases exist, so `name_policy` flags bare non-canonical forms and unglossed first mentions; it becomes an error when the last chapter has had its naming pass).
+- place names are checked as warnings only (S-04 closed: aliases exist, so `name_policy` flags bare non-canonical forms and unglossed first mentions; it becomes an error when the last chapter has had its naming pass);
+- people's names follow the same rule and the same check (S-05 closed: `plans/registry/characters.yaml`; warnings tagged *(S-05)*, 120 bare variants in 26 people at close).
 
 Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 
@@ -152,6 +153,7 @@ The critique gives a cut plan for each. Most of the cuts come out of the recaps.
   - ✓ 86 rows added (Vol. I 34, Vol. II 41, Vol. III 11, including five region labels), 112 → 195, three old rows merged away;
   - ✓ conflicts resolved (see `GAZ-gazetteer.md`): Cachanfu = Puzhou, Cacanfu = Hejian, Caugigu = Kiang Hung, Nanghin = Anqing, two Vujus, two Sinjus, Male and Female unplotted;
   - regenerate the front-02 place tables from it (`GAZ.T5`).
+- **People** (S-05 decided 2026-10-22): `plans/registry/characters.yaml` is the authority for names and dates (Yule's form where Polo names the person: *Cublay*, *Alaü*, *Argon*, *Casan*; the modern form where he does not), with the gloss rule of the gazetteer. The naming pass runs inside each chapter's `.T3` (**People (S-05 ✓)** step); the factual items about people sit in the chapter backlogs for `.T1`.
 - **Front and back matter de-duplication:** front matter frames, chapters narrate, back matter gives a dispute shortlist plus trivia. Remove the triple explanations (paper money, coal, conversion pledge).
 
 ### W6 — Status truthfulness

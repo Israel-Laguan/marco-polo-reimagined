@@ -17,6 +17,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ### Factual / fidelity
 - Polo's wife given with Yule's 1903 uncertainty: "her family is not assured, though a Loredano connexion has been suspected" is verbatim Yule (`yule-vol1.txt:8331`). Modern scholarship identifies her as **Donata Badoer** (daughter of Vitale Badoer), married c. 1300. Fix: "His wife was Donata Badoer, married about 1300 (Yule, before the documents surfaced, guessed a Loredano link)." — vol-3 M6 · ch-10:21
 - Pipino's date "Ramusio thought about 1315–1320": modern estimates are earlier, c. 1310–1314 **(unverified)**. Fix: "in Marco's lifetime, probably the 1310s". — vol-3 M6 · ch-10:27
+- **[m]** (S-05) Family list at :23 ("Nicolo's illegitimate sons Stefano and Zannino, and an uncle Maffeo whose own death fell between 1309 and 1318") comes from Yule's Introduction; check the half-brothers' status and Maffeo's dates against S-15 before the will paragraph is cut. Keep Donata off any 1295 homecoming image (married c. 1300). — registry `niccolo`, `maffeo`, `donata` · ch-10:23
 
 ### Dispute handling and Ramusio flags
 — none found (the Ramusio homecoming is already framed as tradition, Note [2])
@@ -65,6 +66,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
   - **Naming (S-04 ✓):** Modern forms are fine where this chapter discusses modern scholarship. Where it names Polo's own places (Zayton, Kinsay, Chipangu, …) it uses the book form from `gazetteer.csv`, glossed once on first mention. The lint `name_policy` check skips this chapter, so a person checks it in the read.
+  - **People (S-05 ✓):** Reception chapter: as for places, modern forms of people's names are allowed in prose; Polo's own people take the book form (`plans/registry/characters.yaml`) where the chapter retells the Book. Not linted. Keep family names and dates to the registry (Donata Badoer; the daughters; Peter the Tartar).
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### III-10.T2 — Ramusio flags and labels to the S-03 convention
