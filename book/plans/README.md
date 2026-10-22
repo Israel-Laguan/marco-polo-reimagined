@@ -32,9 +32,12 @@ plans/
   illustration-plan.md       ← strategy: hero/secondary plates, pilot prompts
   critique/vol-{1,2,3}.md    ← evidence: the critique pass (source of backlogs)
   spikes/S-NN-*.md           ← open questions
+  research/README.md         ← phase R: deep-research workflow, trust rules
+  research/results/          ← raw deep-research output, pasted untouched
   tasks/chapters/vol-N/*.md  ← one file per manuscript file (49)
   tasks/cross/*.md           ← cross-cutting areas (11)
-  registry/                  ← spike outputs: characters, facts, PD sources, conventions
+  registry/                  ← spike outputs: characters, facts, PD sources, conventions,
+                               bibliography, scholarship, enrichment, comparanda
   templates/                 ← spike, chapter, cross
 ```
 
@@ -53,6 +56,25 @@ plans/
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | open | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | open | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | open | — | `PLT` (PD) |
+
+### Phase R — references and enrichment (deep research)
+
+Ten spikes whose research step runs **outside** this repo. Each holds a paste-ready prompt: run it in a deep-research tool, paste the raw output into `research/results/`, then run an intake session here. Workflow, trust rules and output contract: [research/README.md](research/README.md).
+
+| ID | Spike | Status | Feeds | Gates |
+|---|---|---|---|---|
+| [S-12](spikes/S-12-bibliography-editions.md) | Master bibliography, editions, translations | open | all R spikes (bib keys) | `registry/bibliography.bib`; citation policy; `BLD` biblatex |
+| [S-13](spikes/S-13-scholarship-update.md) | State of the field 2013–2026 (incl. 2024 anniversary) | open | — | III-12, III-11, III-B1, I-01 |
+| [S-14](spikes/S-14-fact-verification-sweep.md) | Fact verification sweep (25 claims) | open | **S-06** | factual `.T1` in 17 files |
+| [S-15](spikes/S-15-venice-genoa-family.md) | Venice, Genoa and the Polo family record | open | S-05 | I-01, I-02, III-10; `CHR` |
+| [S-16](spikes/S-16-overland-route.md) | Overland route: archaeology, identifications (Vol. I) | open | S-04 | Vol. I enrichment; `MAP` A3–A6 |
+| [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | open | S-04 | Vol. II enrichment; `DIA`, `TBL` |
+| [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | open | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
+| [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | open | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
+| [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 (PD candidates) | III-11, all trivia files; `DIA` B5 |
+| [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
+
+All ten prompts can be run at once. Intake S-12 first (bibliography keys), then S-14 (it closes S-06). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
 
 **Suggested waves**
 
@@ -174,3 +196,4 @@ A manuscript file is **done** when:
 | 2026-10-21 | Scoped workflow: plan → spikes → feedback → tasks per chapter + cross-cutting areas | user |
 | 2026-10-21 | Voice standard = `VOICE-GUIDE.md` v2 with II-2 as reference; verbatim ≤ 15%; re-voice before cutting length; W4 in batches of 3–4 | S-01 (pilot approved by user) |
 | 2026-10-21 | Definition of done = `tools/lint.py` exits 0 (errors gate; warnings go to the human read); 7-gram verbatim confirmed; baseline 1/49 files pass | S-02 |
+| 2026-10-22 | Phase R: references and enrichment via external deep research (S-12 … S-21); results are leads, verified at intake before use | user |

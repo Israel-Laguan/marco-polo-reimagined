@@ -11,6 +11,7 @@ For every factual correction the critique proposes from general knowledge rather
 - The voice guide forbids fabricated page numbers, so each claim needs a named, checkable source.
 
 ## Inputs
+- **S-14** (deep-research sweep of the same claims): its `registry/facts.md` is this spike's first draft
 - Every "(unverified)" item in the chapter backlogs
 - `content-revision-plan.md` § W2 table and its unverified list (Mosul 1262, Maffeo, Chingkim, Ahmad in Z, Mar Sargis at Zhenjiang, 1291 departure, Pipino date, Quanzhou 13 compartments, Mongol map dates)
 - `refs/` (Yule–Cordier) first; then standard modern works by name (Pelliot *Notes*, Moule–Pelliot, Larner, Haw, Vogel, Rossabi, Allsen, de Rachewiltz)

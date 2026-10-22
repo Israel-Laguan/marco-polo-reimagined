@@ -158,6 +158,13 @@ The critique gives a cut plan for each. Most of the cuts come out of the recaps.
 
 Rewrite `SERIES-STATUS.md` and the volume READMEs to match reality. Retire the `/workspace` paths.
 
+### W7 — References and enrichment (phase R)
+
+Upgrade the scholarship from Yule–Cordier plus names to a verified bibliography, post-2013 scholarship, checked facts and sourced enrichment. Ten external deep-research runs (S-12 … S-21), each brought back through an intake session that checks the sources before anything reaches the text. Workflow: `research/README.md`.
+- S-12 → bibliography and citation policy; S-14 → closes S-06 (W2); S-13 → III-12 debate update.
+- S-16/17/18 → per-volume enrichment: at most 2–3 items per chapter go into the re-voice, the rest to Notes or back matter.
+- S-19 → Comparative clauses; S-20 → reception and myth-check; S-21 → natural history.
+
 ## Sequencing
 
 ```mermaid
@@ -170,6 +177,9 @@ flowchart LR
   B --> W5[W5 apparatus]
   W5 --> W6[W6 status]
   W5g -.unblocks.-> M[multimedia maps]
+  W7[W7 deep research<br/>S-12…S-21] -->|facts| W2[W2 via S-06]
+  W7 -->|enrichment per volume| B
+  W7 -.identifications.-> W5g
 ```
 
 ## Scale estimate

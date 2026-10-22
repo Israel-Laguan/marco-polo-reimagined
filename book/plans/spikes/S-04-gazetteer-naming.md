@@ -11,6 +11,7 @@ What is the naming authority? What schema does the gazetteer need to drive both 
 - Several identifications conflict with the chapters: Cachanfu, Caugigu, Cacanfu, Nanghin, the two Vujus, Male.
 
 ## Inputs
+- **S-16, S-17, S-18** (deep research): current identifications for the uncertain rows, with sources
 - `gazetteer.csv`, `gazetteer-readme.md`
 - Critique: I-M8, II-M2, II-M11, III-m3, III-m4
 - Chapter backlogs § Naming
