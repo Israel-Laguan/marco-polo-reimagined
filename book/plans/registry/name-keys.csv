@@ -85,9 +85,9 @@ Sanang Sechen,B,I-12,,via-yc,no edition chosen; cite as reported in YC
 Secret History,B,"I-12, III-12",derachewiltz2004secret,key,de Rachewiltz's translation
 Yuan Shi,B,"I-13, II-01, II-11, II-15",,via-yc,no edition chosen; cite as reported in YC
 Yuan shi,B,"II-02, II-03, II-04, II-05, II-08, II-09 …",,via-yc,no edition chosen; cite as reported in YC
-Ch’ue keng lu,B,II-03,,research,batch A
-Mengliang lu,B,II-13,,research,batch A
-Tsung tien,B,I-13,,research,batch B
+Ch’ue keng lu,B,II-03,tao1366chuogeng,key,unconfirmed edition
+Mengliang lu,B,II-13,wu1274mengliang,key,unconfirmed edition
+Tsung tien,B,I-13,,research,"still unidentified after batch B: no Yule passage located; flagged, not converted"
 Ku Yen-wu,B,II-10,,via-yc,no edition chosen; cite as reported in YC
 Ain-i-Akbari,B,II-01,,via-yc,no edition chosen; cite as reported in YC
 Firishta,B,III-05,,via-yc,no edition chosen; cite as reported in YC
@@ -113,7 +113,7 @@ Jerome,B,III-05,,via-yc,no edition chosen; cite as reported in YC
 Benjamin of Tudela,B,III-07,,via-yc,no edition chosen; cite as reported in YC
 Ptolemy,B,III-03,,via-yc,no edition chosen; cite as reported in YC
 Periplus,B,"III-06, III-F2",,via-yc,no edition chosen; cite as reported in YC
-Marāṣid,B,III-08,,research,batch B
+Marāṣid,B,III-08,marasid1850lexicon,key,"unconfirmed edition: Juynboll, Leiden"
 Martini,B,"II-07, II-13",,via-yc,no edition chosen; cite as reported in YC
 Magaillans,B,"II-02, II-04, II-06, II-09",,via-yc,no edition chosen; cite as reported in YC
 Duhalde,B,II-10,duhalde1735description,via-yc,
@@ -127,7 +127,7 @@ Assemani,B,III-05,,via-yc,no edition chosen; cite as reported in YC
 Ysbrandt Ides,B,II-03,,via-yc,no edition chosen; cite as reported in YC
 Cardan,B,I-11,,via-yc,no edition chosen; cite as reported in YC
 Chaucer,B,II-03,,via-yc,no edition chosen; cite as reported in YC
-Book of Prophecies,B,III-11,,research,"batch B: Libro de las Profecías, Columbus"
+Book of Prophecies,B,III-11,columbus1990libro,key,scholarly English edition (West–Kling 1990); Rusconi 1994 unconfirmed
 Ricci,B,III-11,,via-yc,no edition chosen; cite as reported in YC
 Fra Mauro,B,"III-07, III-11",,via-yc,no edition chosen; cite as reported in YC
 Bruce,B,III-07,,via-yc,no edition chosen; cite as reported in YC
