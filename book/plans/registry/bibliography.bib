@@ -936,9 +936,10 @@
   date      = {1993},
 }
 
-% claimed: DeepSeek cites HathiTrust record 008887209 (1852–1864, 6 vols. in 5); the record returned 403 here; Qwen says 3 vols. Volume count unresolved.
+% confirmed 2026-10-22: Open Library OL44206919M: "an abridgment of the Muʿjam al-buldān of Yāqūt, by ʿAbd al-Muʾmin ibn ʿAbd al-Ḥaqq"; Juynboll ed., 6 tomes (iv–v introduction and annotation; vi Fleischer's annotation). Years 1852–1864 per DeepSeek (HathiTrust 008887209, not opened).
 @book{marasid1852,
-  author    = {Ṣafī al-Dīn al-Baghdādī},
+  author    = {ʿAbd al-Muʾmin ibn ʿAbd al-Ḥaqq al-Baghdādī},
+  volumes   = {6},
   editor    = {Juynboll, T. W. J.},
   title     = {Marāṣid al-iṭṭilāʿ ʿalā asmāʾ al-amkina wa-al-biqāʿ},
   publisher = {E. J. Brill},
@@ -974,22 +975,88 @@
   author    = {Sa Dula},
   title     = {Shangjing jishi [上京即事]},
   booktitle = {Sa Tianxi shiji [薩天錫詩集]},
+  addendum  = {Modern edition: Yanmen ji [雁門集], ed. Yin Menglun and Zhu Guangqi (Shanghai: Shanghai guji chubanshe, 1982); imprint in Open Library, editors per the research; juan of this poem not yet checked},
   url       = {https://zh.wikisource.org/zh-hant/上京即事},
   note      = {Poem sequence on Shangdu; print edition not yet chosen},
 }
 
 % verified text: 隆福宮西棕毛殿 in an entry of 至大四年 (1311), juan 5 (Siku quanshu text on Wikisource). Compilers not yet checked.
 @book{mishujianzhi,
-  title = {Mishujian zhi [秘書監志]},
+  author   = {Wang, Shidian and Shang, Qiweng},
+  title    = {Mishujian zhi [秘書監志]},
+  addendum = {Claimed modern edition: ed. Gao Rongsheng (Hangzhou: Zhejiang guji chubanshe, 1992); not in Open Library, not verified here},
   url   = {https://zh.wikisource.org/zh-hant/秘書監志_(四庫全書本)/卷05},
   note  = {Records of the Yuan Palace Library; print edition not yet chosen},
 }
 
 % verified text: juan 29 (Taiding annals): 新作棕殿成 … 作棕毛殿; dated 1324–25 by Rixia jiuwen kao juan 32. Edition not yet chosen (Zhonghua shuju is the usual one; unchecked).
 @book{yuanshi1370,
-  author = {Song, Lian and others},
-  title  = {Yuan shi [元史]},
-  date   = {1370},
+  author    = {Song, Lian and others},
+  title     = {Yuan shi [元史]},
+  date      = {1370},
+  addendum  = {Cited by juan. Modern edition: Beijing: Zhonghua shuju, 1976, 15 vols. (punctuated; Open Library lists a Zhonghua 1976 printing; volume count per the research)},
   url    = {https://zh.wikisource.org/zh-hant/元史/卷029},
   note   = {Official history of the Yuan dynasty, compiled under the Ming},
+}
+
+% --- Leads round (2026-10-22): Leeu edition, postils, Marāṣid, Chinese editions, Chen Gaohua
+
+% confirmed: University of Glasgow incunabula record and BnF ark:/12148/cb31131556j: "[Gouda: Gerard Leeu, between 1483 and 11 June 1484]",
+% dated from Hellinga's HPT; Goff dated 1483-85. ISTC ip00902000; GW M34796. Columbus's copy: Seville, Biblioteca Capitular y Colombina.
+@book{polo1484consuetudinibus,
+  author     = {Polo, Marco},
+  translator = {Pipino, Francesco},
+  title      = {De consuetudinibus et condicionibus orientalium regionum},
+  publisher  = {Gerard Leeu},
+  location   = {Gouda},
+  date       = {1483/1484},
+  note       = {ISTC ip00902000; GW M34796. Printed between 1483 and 11 June 1484},
+}
+
+% confirmed: Open Library record (ISBN 8420625000).
+@book{gil1987libro,
+  editor    = {Gil, Juan},
+  title     = {El libro de Marco Polo anotado por Cristóbal Colón; El libro de Marco Polo versión de Rodrigo de Santaella},
+  publisher = {Alianza Editorial},
+  location  = {Madrid},
+  date      = {1987},
+  isbn      = {8420625000},
+}
+
+% confirmed: CrossRef record and abstract ("notes and drawings attributable to Columbus himself and other members of his immediate circle";
+% "almost exclusively concerned with material things"). The count of c. 366 postils and Hernando's hand are claimed by the research
+% (citing the article's text), not read here.
+@article{shawcross2023materiality,
+  author       = {Shawcross, Teresa},
+  title        = {Materiality and Marginalia across the World: The Role of Things in Christopher Columbus's Annotations on Marco Polo},
+  journaltitle = {The Medieval History Journal},
+  volume       = {26},
+  number       = {2},
+  pages        = {376--424},
+  date         = {2023},
+  doi          = {10.1177/09719458231213480},
+}
+
+% confirmed: Journal of East Asian Libraries review by Xian Wu (no. 159, 2014) gives the imprint and ISBN; also reviewed by Steinhardt.
+@book{chen2015capital,
+  author     = {Chen, Gaohua},
+  translator = {Poon, Phoebe},
+  editor     = {Griffith, Glenn and Poon, Phoebe},
+  title      = {The Capital of the Yuan Dynasty},
+  publisher  = {Silkroad Press},
+  location   = {Honolulu},
+  date       = {2015},
+  isbn       = {978-981-4332-44-6},
+  note       = {Translation of \emph{Yuan Dadu} (Beijing chubanshe, 1982), per Steinhardt's review},
+}
+
+% confirmed: CrossRef record (Journal of Song-Yuan Studies 45, 2015).
+@article{steinhardt2015capital,
+  author       = {Steinhardt, Nancy Shatzman},
+  title        = {Review of \emph{The Capital of the Yuan Dynasty}, by Chen Gaohua},
+  journaltitle = {Journal of Song-Yuan Studies},
+  volume       = {45},
+  pages        = {387--391},
+  date         = {2015},
+  doi          = {10.1353/sys.2015.0011},
 }

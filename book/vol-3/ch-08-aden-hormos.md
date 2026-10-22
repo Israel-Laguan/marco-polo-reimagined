@@ -68,7 +68,7 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [7] ✓ Esher = ash-Shiḥr; subject to Aden; Indian haven; surviving town/district; Barbosa traffic. ~ 400 miles NW of Aden as survey. As cited in Yule: Barbosa [@yc, 3.37].
 
-[8] ✓ / ~ Frankincense monopoly (buy 10 / sell 60 livres gold per cwt) — ✓ Sheḥr–Dhafār monopoly pattern (Marāṣid); ~ exact ratio. Dates; little rice (imported); tunny cheap; sugar/rice/date wine.
+[8] ✓ / ~ Frankincense monopoly (buy 10 / sell 60 livres gold per cwt) — ✓ Sheḥr–Dhafār monopoly pattern (Marāṣid [-@marasid1852], an abridgment of Yāqūt, so not a second witness beside him); ~ exact ratio. Dates; little rice (imported); tunny cheap; sugar/rice/date wine.
 
 [9] ✓ Fish-fed cattle (horses, oxen, camels) on arid coast — Edrisi; Ibn Baṭṭūṭa; continuous Ichthyophagi report from Mekran to Gulf. ✓ / ~ Earless / horn-eared sheep — ✓ small-eared / multi-horn breeds exist; ~ “no ears” wording. Dried fish stored like biscuit. As cited in Yule: Edrisi [@yc, 3.37]; Ibn Baṭṭūṭa [@yc, 3.36].
 
