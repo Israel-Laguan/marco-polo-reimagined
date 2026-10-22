@@ -84,8 +84,6 @@ Now we will quit this city and speak of others. [9]
 
 — The revenue figures are a metrological nightmare — *toman*, *saggio*, tael, *ting*, paper discounted as gold — and Vogel is useful here. Absolute gold equivalents will not stand; the fiscal enormity of Kiang-Ché salt and silk is the sound kernel. Whether Marco was sent to inspect (Pauthier) or only heard the count (Geographic) remains open. Enough that the arithmetic helped make a Venetian nickname. Anyway, the Book of Heaven’s city closes.
 
-Thus Book II.lxxvi–lxxviii closes Heaven’s city: Queen’s memorial and circuit; Si-hu and watches; baths and Ganfu; garrisons and revenue; Ramusio’s markets, pepper, lake parties, and ruined Facfur halls — the salt-and-silk arithmetic that made *Milioni*. The next chapter turns south toward Fuju and Zayton.
-
 ---
 
 ## Notes

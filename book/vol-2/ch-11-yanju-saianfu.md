@@ -50,8 +50,6 @@ So the men of the city surrendered, and were received to terms; and this all cam
 
 Thus the twin cities at the Han’s hinge fall in the Book’s telling as an epilogue to Manzi, broken by Venetian counsel and Western timber. Chinese and Persian memory keep another cast of names and another order of years. The narrative has told what Rustichello set down.
 
-So Book II.lxvi–lxx has done what the return to Coiganju required: the salt-and-causeway corridor of northern Manzi — Coiganju’s forty cities of salt; Paukin and Cayu on the stone road between waters; Tiju and the ocean three days east; Tinju’s provincial salt revenue; Yanju with twenty-seven cities, a *Sing*, a harness trade, a garrison, and three years of Marco’s claimed rule — and then the western digression to Nanghin’s silk and duties, and Saianfu’s long water-siege broken, as the Book tells it, by three Western mangonels raised at Polo advice. The next chapter resumes at Yanju for the road to the Kian (Yangzi).
-
 ---
 
 ## Notes

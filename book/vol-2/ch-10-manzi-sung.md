@@ -70,8 +70,6 @@ This King used to be waited on by more than a thousand young gentlemen and ladie
 
 You must know that the Queen was conducted to the Great Kaan, who gave her an honourable reception, and caused her to be served with all state, like a great lady as she was. But as for the King her husband, he never more did quit the isles of the sea to which he had fled, but died there. So leave we him and his wife and all their concerns, and let us return to our story, and go on regularly with our account of the great province of Manzi. And, to begin at the beginning, we must go back to the city of Coiganju, from which we digressed to tell you about the conquest of Manzi.
 
-Thus Book II.lx–lxv has done what it promised after the return to Juju: the canal cities of eastern Cathay — Cacanfu’s silk and Christians; Changlu’s salt-earth boiled white; Chinangli’s river traffic; Tadinfu’s silk gardens and the checkable revolt of Litan; Sinjumatu’s divided waters feeding Manzi and Cathay; Linju and Piju on the threshold; Siju’s wheat plains; Caramoran again with its fifteen thousand horse-boats and the twin towns of Coiganju and Caiju — and then the digression that makes the crossing intelligible: Faghfur’s unwarlike wealth; Bayan Hundred-Eyes and the juggling prophecy; twelve cities and a queen’s surrender; foundlings numbered by the stars; and Kinsay’s unlocked doors — before the Book resumes at Coiganju and the Manzi road proper opens in the next chapter.
-
 ---
 
 ## Notes

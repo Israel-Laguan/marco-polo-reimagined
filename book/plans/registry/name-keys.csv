@@ -1,0 +1,212 @@
+name_as_cited,group,sections,keys,rule,note
+Larner,A,"I-01, I-11, I-B1, I-F1, II-01, II-02 …",larner1999marco,key,
+Vogel,A,"I-07, I-11, II-02, II-05, II-07, II-11 …",vogel2013marco,key,
+Haw,A,"I-02, I-03, I-07, I-09, I-11, I-13 …",haw2006marco,key,
+Rossabi,A,"I-13, I-F1, II-01, II-02, II-03, II-04 …",rossabi1988khubilai,key,
+Moule,A,"I-01, I-B1, II-13, II-B1, III-02, III-10 …",moule1938description;moule1957quinsai;moule1930christians,context,Hangzhou/palace -> quinsai; Christians/Mar Sargis -> christians; text -> description
+Moule–Pelliot,A,"I-01, I-B1, II-B1, III-02, III-10, III-11 …",moule1938description,key,
+Pelliot,A,"I-01, I-B1, II-B1, III-02, III-10, III-11 …",pelliot1959notes,key,
+Benedetto,A,"I-01, I-B1, III-10, III-11, III-12",benedetto1928milione,key,
+Allsen,A,"I-F1, II-03, II-04, II-F1, III-12",allsen1997commodity;allsen2006royal,context,hunt -> royal; textiles/commodities -> commodity; other -> check
+Critchley,A,"III-10, III-11, III-12",critchley1992marco,key,
+Needham,A,"II-05, III-01, III-12",needham1954science,context,name the volume in each Note
+Steinhardt,A,"I-13, II-02, III-12",steinhardt1990chinese,key,
+Frances Wood,A,"I-03, I-10, I-11, I-B1, II-02, II-05 …",wood1995did,context,only the 'did he go' debate; the Oxus/Badakhshan/Pamir Wood is wood1841personal
+de Rachewiltz,A,"I-02, I-11, I-B1, I-F1, II-02, II-11 …",derachewiltz1997marco;derachewiltz2004secret,context,presence debate -> 1997 (unconfirmed); Secret History -> 2004
+Olschki,A,III-12,olschki1960marco,key,
+Franke,A,II-05,franke1994china,key,
+Dutschke,A,"I-01, III-12",dutschke1993francesco,key,unconfirmed title
+Morgan,A,"I-F1, III-12",morgan1986mongols;jackson1990mission,context,'Rubruck (Jackson/Morgan edition)' -> jackson1990mission
+Jackson,A,III-12,jackson2005mongols;jackson1990mission,context,as above
+Atwood,A,I-13,atwood2004encyclopedia,key,
+Chaudhuri,A,III-F1,chaudhuri1985trade,key,
+Hall,A,"III-02, III-F1",hall1985maritime,key,identification medium
+Wolters,A,III-02,wolters1967early,key,identification medium
+Schottenhammer,A,"II-14, III-12",,needs-edition,work not identified
+Chen Dasheng,A,"II-14, III-12",,needs-edition,work not identified
+Daftary,A,I-08,daftary1990ismailis,key,
+Hsiao Ch’i-ch’ing,A,II-01,,needs-edition,work not identified
+Elverskog,A,II-03,,needs-edition,work not identified
+Gernet,A,II-13,gernet1962daily,key,
+Huntingford,A,III-07,,needs-edition,work not identified
+Subrahmanyam,A,III-05,,needs-edition,work not identified
+Thackston,A,"III-09, III-12",thackston1998rashiduddin,key,
+Boyle,A,"III-09, III-12",boyle1958history,key,
+Gibb,A,III-12,gibb1958travels,key,
+Odoric,B,"I-06, I-08, I-12, I-13, II-02, II-03 …",yule1913cathay,via-yc,Yule's own translation in Cathay; cite [@yule1913cathay] when quoting Odoric
+Rashid,B,"I-02, I-03, I-05, I-06, I-12, I-13 …",thackston1998rashiduddin,context,most Notes report Rashid via Yule -> via-yc unless Thackston is named
+Ibn Baṭṭūṭa,B,"I-05, I-06, I-07, I-09, II-02, II-03 …",gibb1958travels,key,locator: Defrémery–Sanguinetti vol.page
+Rubruck,B,"I-05, I-12, I-13, I-F1, II-01, II-03 …",jackson1990mission,key,locator: chapter
+Carpini,B,"I-12, I-F1, II-01, II-03",,via-yc,no edition chosen; cite as reported in YC
+Hayton,B,"I-02, I-04, I-05, II-03, II-05, II-15 …",,via-yc,no edition chosen; cite as reported in YC
+Jordanus,B,"III-01, III-04, III-05, III-06, III-09",,via-yc,no edition chosen; cite as reported in YC
+Ricold,B,"I-04, I-05, II-01",,via-yc,no edition chosen; cite as reported in YC
+Pegolotti,B,"I-03, I-04, I-05, I-11, II-05, II-14 …",evans1936pratica,key,
+Marignolli,B,"I-11, II-06, II-13, III-04, III-05",yule1913cathay,via-yc,
+Wassaf,B,"III-05, III-06, III-09",,via-yc,no edition chosen; cite as reported in YC
+Makrizi,B,"I-03, I-05, II-03, III-08",,via-yc,no edition chosen; cite as reported in YC
+Edrisi,B,"I-07, III-06, III-08",,via-yc,no edition chosen; cite as reported in YC
+Idrīsī,B,III-07,,via-yc,no edition chosen; cite as reported in YC
+Kazwini,B,"III-03, III-06, III-07",,via-yc,no edition chosen; cite as reported in YC
+Masʿūdī,B,"III-03, III-05, III-07",,via-yc,no edition chosen; cite as reported in YC
+Mas’udi,B,I-11,,via-yc,no edition chosen; cite as reported in YC
+al-Bīrūnī,B,III-06,,via-yc,no edition chosen; cite as reported in YC
+Abulfeda,B,"III-05, III-06",,via-yc,no edition chosen; cite as reported in YC
+Abū’l-Fidā,B,III-03,,via-yc,no edition chosen; cite as reported in YC
+Moḳaddasi,B,I-08,,via-yc,no edition chosen; cite as reported in YC
+Yāḳūt,B,I-08,,via-yc,no edition chosen; cite as reported in YC
+Mustawfi,B,I-06,,via-yc,no edition chosen; cite as reported in YC
+Juvaini,B,III-12,boyle1958history,key,
+Juvainī,B,I-08,boyle1958history,key,
+Ibn Muhalhal,B,I-11,,via-yc,no edition chosen; cite as reported in YC
+Abu Zaid,B,III-05,,via-yc,no edition chosen; cite as reported in YC
+Al-Ramni,B,III-03,,not-a-source,place (Lambri/Lamuri); keep as a place name
+Relations,B,"II-10, III-03, III-04",,via-yc,no edition chosen; cite as reported in YC
+Conti,B,"I-11, II-10, III-01, III-02, III-03, III-04 …",,via-yc,no edition chosen; cite as reported in YC
+Barbosa,B,"II-08, III-02, III-03, III-05, III-06, III-07 …",,via-yc,no edition chosen; cite as reported in YC
+De Barros,B,"III-03, III-07",,via-yc,no edition chosen; cite as reported in YC
+Della Valle,B,"I-06, II-01, III-08",,via-yc,no edition chosen; cite as reported in YC
+Teixeira,B,"I-08, III-08",,via-yc,no edition chosen; cite as reported in YC
+Tavernier,B,I-06,,via-yc,no edition chosen; cite as reported in YC
+Figueroa,B,III-08,,via-yc,no edition chosen; cite as reported in YC
+Fryer,B,III-08,,via-yc,no edition chosen; cite as reported in YC
+Clavijo,B,I-09,,via-yc,no edition chosen; cite as reported in YC
+Sidi Ali,B,I-09,,via-yc,no edition chosen; cite as reported in YC
+Shah Rukh,B,"I-11, II-03, II-05",,via-yc,no edition chosen; cite as reported in YC
+Hiuen Tsang,B,"I-10, I-11, II-05, III-04, III-07",beal1884siyuki,via-yc,
+Fa-hian,B,I-11,,via-yc,no edition chosen; cite as reported in YC
+Hwui Seng,B,I-10,,via-yc,no edition chosen; cite as reported in YC
+Sung Yun,B,I-10,,via-yc,no edition chosen; cite as reported in YC
+Ma Huan,B,"III-02, III-06",mills1970yingyai,key,
+Ma Twan-lin,B,I-11,,via-yc,no edition chosen; cite as reported in YC
+Chang Te-hui,B,I-13,,via-yc,no edition chosen; cite as reported in YC
+Altan Tobchi,B,I-13,,via-yc,no edition chosen; cite as reported in YC
+Sanang Sechen,B,I-12,,via-yc,no edition chosen; cite as reported in YC
+Secret History,B,"I-12, III-12",derachewiltz2004secret,key,locator: § number
+Yuan Shi,B,"I-13, II-01, II-11, II-15",,via-yc,no edition chosen; cite as reported in YC
+Yuan shi,B,"II-02, II-03, II-04, II-05, II-08, II-09 …",,via-yc,no edition chosen; cite as reported in YC
+Ch’ue keng lu,B,II-03,,via-yc,no edition chosen; cite as reported in YC
+Mengliang lu,B,II-13,,via-yc,no edition chosen; cite as reported in YC
+Tsung tien,B,I-13,,via-yc,no edition chosen; cite as reported in YC
+Ku Yen-wu,B,II-10,,via-yc,no edition chosen; cite as reported in YC
+Ain-i-Akbari,B,II-01,,via-yc,no edition chosen; cite as reported in YC
+Firishta,B,III-05,,via-yc,no edition chosen; cite as reported in YC
+Malay Chronicle,B,III-03,,via-yc,no edition chosen; cite as reported in YC
+Jacopo,B,"I-01, I-F1, III-10, III-12",,via-yc,no edition chosen; cite as reported in YC
+Pipino,B,"I-01, I-02, III-10, III-11, III-12",,via-yc,no edition chosen; cite as reported in YC
+d’Abano,B,III-10,,via-yc,no edition chosen; cite as reported in YC
+Villani,B,III-10,,via-yc,no edition chosen; cite as reported in YC
+Joinville,B,"II-01, III-08",,via-yc,no edition chosen; cite as reported in YC
+Pachymeres,B,I-05,,via-yc,no edition chosen; cite as reported in YC
+Montecorvino,B,III-05,yule1913cathay,via-yc,
+Epiphanius,B,III-06,,via-yc,no edition chosen; cite as reported in YC
+Cosmas,B,"III-04, III-07",,via-yc,no edition chosen; cite as reported in YC
+Herodotus,B,"II-07, II-08, III-03",,via-yc,no edition chosen; cite as reported in YC
+Ctesias,B,"III-03, III-04",,via-yc,no edition chosen; cite as reported in YC
+Pliny,B,"I-09, I-11",,via-yc,no edition chosen; cite as reported in YC
+Galen,B,I-08,,via-yc,no edition chosen; cite as reported in YC
+Avicenna,B,III-03,,via-yc,no edition chosen; cite as reported in YC
+Pseudo-Callisthenes,B,I-08,,via-yc,no edition chosen; cite as reported in YC
+Maundevile,B,I-08,,via-yc,no edition chosen; cite as reported in YC
+Golden Legend,B,III-04,,via-yc,no edition chosen; cite as reported in YC
+Jerome,B,III-05,,via-yc,no edition chosen; cite as reported in YC
+Benjamin of Tudela,B,III-07,,via-yc,no edition chosen; cite as reported in YC
+Ptolemy,B,III-03,,via-yc,no edition chosen; cite as reported in YC
+Periplus,B,"III-06, III-F2",,via-yc,no edition chosen; cite as reported in YC
+Marāṣid,B,III-08,,via-yc,no edition chosen; cite as reported in YC
+Martini,B,"II-07, II-13",,via-yc,no edition chosen; cite as reported in YC
+Magaillans,B,"II-02, II-04, II-06, II-09",,via-yc,no edition chosen; cite as reported in YC
+Duhalde,B,II-10,duhalde1735description,via-yc,
+Amyot,B,"II-05, III-01",,via-yc,no edition chosen; cite as reported in YC
+Lecomte,B,II-06,,via-yc,no edition chosen; cite as reported in YC
+Gaubil,B,"I-12, I-13, II-01, II-02, II-03, II-05 …",,via-yc,no edition chosen; cite as reported in YC
+De Mailla,B,"II-02, II-03, II-05, II-10, II-11, III-01",,via-yc,no edition chosen; cite as reported in YC
+Pallas,B,"I-11, I-12",,via-yc,no edition chosen; cite as reported in YC
+Valentyn,B,III-04,,via-yc,no edition chosen; cite as reported in YC
+Assemani,B,III-05,,via-yc,no edition chosen; cite as reported in YC
+Ysbrandt Ides,B,II-03,,via-yc,no edition chosen; cite as reported in YC
+Cardan,B,I-11,,via-yc,no edition chosen; cite as reported in YC
+Chaucer,B,II-03,,via-yc,no edition chosen; cite as reported in YC
+Book of Prophecies,B,III-11,,via-yc,no edition chosen; cite as reported in YC
+Ricci,B,III-11,,via-yc,no edition chosen; cite as reported in YC
+Fra Mauro,B,"III-07, III-11",,via-yc,no edition chosen; cite as reported in YC
+Bruce,B,III-07,,via-yc,no edition chosen; cite as reported in YC
+Palladius,C,"I-10, I-12, I-13, II-01, II-02, II-03 …",palladius1876elucidations,via-yc,unconfirmed article details
+Pauthier,C,"I-03, I-05, I-07, I-09, II-01, II-02 …",pauthier1865livre,via-yc,
+Bretschneider,C,"I-10, II-02, II-03, II-05, II-06, II-07 …",bretschneider1888mediaeval,via-yc,
+Hammer,C,"I-08, II-02, II-03, II-04, III-09",hammer1842geschichte,via-yc,also Geschichte der Goldenen Horde (1840) in II-04 context: check
+Baber,C,"I-09, II-04, II-07, II-08",baber1882travels,via-yc,
+Richthofen,C,"I-11, II-05, II-06, II-07, II-09",richthofen1877china,via-yc,
+Caldwell,C,"III-05, III-06",,via-yc,no edition chosen; cite as reported in YC
+Marsden,C,"I-08, II-02, II-04, II-06, III-03",marsden1818travels,via-yc,
+Tennent,C,"III-04, III-05",tennent1859ceylon,via-yc,
+Houtum-Schindler,C,"I-07, I-08",,via-yc,no edition chosen; cite as reported in YC
+Sykes,C,"I-08, III-09",sykes1902ten,via-yc,
+Rockhill,C,"I-09, I-13, II-06",rockhill1891land,via-yc,or his 1900 Rubruck: check context
+Shaw,C,"I-10, I-11",shaw1871visits,via-yc,
+Grenard,C,"I-10, I-11",dutreuil1897mission,via-yc,
+Forsyth,C,"I-10, II-04",forsyth1875report,via-yc,
+Garnier,C,"II-07, II-09",garnier1873voyage,via-yc,
+Doolittle,C,I-11,doolittle1865social,via-yc,
+de Groot,C,"I-12, II-10",degroot1892religious,via-yc,
+Mayers,C,II-10,mayers1874chinese,via-yc,
+Paulin Paris,C,I-01,,via-yc,no edition chosen; cite as reported in YC
+Stein,C,I-10,stein1907ancient,via-yc,
+Hedin,C,"I-10, I-11",hedin1898through,via-yc,
+Kozlov,C,I-11,,via-yc,no edition chosen; cite as reported in YC
+D’Ohsson,C,II-10,dohsson1834histoire,via-yc,
+Quatremère,C,III-09,quatremere1836histoire,via-yc,
+Devéria,C,II-09,,via-yc,no edition chosen; cite as reported in YC
+Phillips,C,II-14,,via-yc,no edition chosen; cite as reported in YC
+Gill,C,"II-07, II-08",gill1880river,via-yc,
+Anderson,C,"II-08, III-03",anderson1876mandalay,context,II-08 only; III-03 Anderson (Sumatra) unresolved
+Abbott,C,"I-06, I-08",,via-yc,no edition chosen; cite as reported in YC
+Gordon,C,I-10,gordon1876roof,via-yc,
+Trotter,C,I-10,,via-yc,no edition chosen; cite as reported in YC
+Burnes,C,I-09,burnes1834travels,via-yc,
+Elphinstone,C,I-09,elphinstone1815account,via-yc,
+Moorcroft,C,I-09,moorcroft1841travels,via-yc,
+Montgomerie,C,I-10,,via-yc,no edition chosen; cite as reported in YC
+Khanikoff,C,I-08,,via-yc,no edition chosen; cite as reported in YC
+Curzon,C,I-08,curzon1892persia,via-yc,
+Ferrier,C,I-09,ferrier1856caravan,via-yc,
+Rawlinson,C,I-09,,via-yc,no edition chosen; cite as reported in YC
+Blyth,C,I-10,,via-yc,no edition chosen; cite as reported in YC
+Cunningham,C,I-10,cunningham1854ladak,via-yc,
+’Izzat Ullah,C,I-10,,via-yc,no edition chosen; cite as reported in YC
+Roborovsky,C,I-10,,via-yc,no edition chosen; cite as reported in YC
+Johnson,C,"I-10, I-11",,via-yc,no edition chosen; cite as reported in YC
+Browne,C,I-11,,via-yc,no edition chosen; cite as reported in YC
+Koeppen,C,II-01,,via-yc,no edition chosen; cite as reported in YC
+Michie,C,II-03,michie1864siberian,via-yc,
+Vámbéry,C,"I-02, I-13, II-03",vambery1864travels,via-yc,
+Atkinson,C,II-04,,pending,CIT-C row lost in transfer (rows 50–79)
+Timkowski,C,II-04,,pending,CIT-C row lost in transfer (rows 50–79)
+Hooker,C,II-07,,pending,CIT-C row lost in transfer (rows 50–79)
+Lindsay,C,II-07,,pending,CIT-C row lost in transfer (rows 50–79)
+Westermarck,C,II-07,,pending,CIT-C row lost in transfer (rows 50–79)
+Sladen,C,II-08,,pending,CIT-C row lost in transfer (rows 50–79)
+Bridgman,C,II-09,,pending,CIT-C row lost in transfer (rows 50–79)
+Perny,C,II-09,,pending,CIT-C row lost in transfer (rows 50–79)
+Hosie,C,"II-07, II-09",,pending,CIT-C row lost in transfer (rows 50–79)
+Gandar,C,II-10,,pending,CIT-C row lost in transfer (rows 50–79)
+Favé,C,II-11,,pending,CIT-C row lost in transfer (rows 50–79)
+Hanbury,C,II-14,,pending,CIT-C row lost in transfer (rows 50–79)
+Titsingh,C,III-01,,pending,CIT-C row lost in transfer (rows 50–79)
+Aymonier,C,III-02,,pending,CIT-C row lost in transfer (rows 50–79)
+Major,C,"III-01, III-02",,pending,CIT-C row lost in transfer (rows 50–79)
+Groeneveldt,C,III-02,,pending,CIT-C row lost in transfer (rows 50–79)
+Junghuhn,C,III-03,,pending,CIT-C row lost in transfer (rows 50–79)
+Schlegel,C,"III-03, III-04",,pending,CIT-C row lost in transfer (rows 50–79)
+Hardy,C,III-04,,pending,CIT-C row lost in transfer (rows 50–79)
+Stewart,C,III-05,,pending,CIT-C row lost in transfer (rows 50–79)
+Pridham,C,III-05,,pending,CIT-C row lost in transfer (rows 50–79)
+Nelson,C,III-05,,pending,CIT-C row lost in transfer (rows 50–79)
+Birdwood,C,III-08,,pending,CIT-C row lost in transfer (rows 50–79)
+Elliot,C,III-09,,pending,CIT-C row lost in transfer (rows 50–79)
+Salt,C,III-07,,pending,CIT-C row lost in transfer (rows 50–79)
+Bushell,C,"I-13, II-04, III-12",,pending,CIT-C row lost in transfer (rows 50–79)
+de Sacy,C,I-08,,pending,CIT-C row lost in transfer (rows 50–79)
+John Wood,C,"I-09, I-10",wood1841personal,via-yc,
+Severtsof,C,I-10,,pending,CIT-C row lost in transfer (rows 50–79)
+Younghusband,C,I-10,,pending,CIT-C row lost in transfer (rows 50–79)

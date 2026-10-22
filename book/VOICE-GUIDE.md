@@ -111,6 +111,7 @@ Style: *Chicago Manual of Style*, 18th ed., **author-date**, used inside the Not
 | Base text, a range / the Prologue / a Yule note | `[@yc, 3.9–11]` · `[@yc, Prol. 17–18]` · `[@yc, 2.23 n. 4]` | (YC 3.9–11) … |
 | Cordier's 1920 addenda | `[@ycadd, on 2.23]` | (YC Add., on 2.23) |
 | A modern work | `Vogel [-@vogel2013marco] shows…` or `…as Larner argues [@larner1999marco].` | Vogel (2013) shows… / (Larner 1999) |
+| A writer we know only through Yule's notes | `John Wood [-@wood1841personal], in [@yc, 1.32]`; no key yet → `Wassaf, in [@yc, 3.17]` | John Wood (1841), in (YC 1.32) |
 | A locator in a modern work | `[@haw2006marco, ch. 4]`; a page only if someone has seen it | (Haw 2006, chap. 4) |
 
 1. **Sigla.** `YC` = Yule–Cordier 1903; `YC Add.` = Cordier 1920. Locators are book.chapter in Arabic numerals (Yule's Book I, ch. LXI = 1.61; Prologue = Prol.). Each volume's front matter has a *List of abbreviations*.

@@ -68,8 +68,6 @@ And now you have heard all the truth about Cathay and Manzi and many other count
 
 — The Genoa-to-Naples lesson in Chinese speech is one of Polo’s most acute observations: unity of writing, diversity of spoken dialects, Fo-kien especially sharp within the Sinitic continuum. The promise of India and the “never man before” hyperbole are book rhetoric as well as programme. Cathay and Manzi close here; the ships of Book III wait — but first, in this Volume’s order, the outer noise of the Mongol world.
 
-Thus Book II.lxxix–lxxxii has done what the departure from Heaven’s city required: Tanpiju and the continuous towns; Ghiuju’s giant canes; Changshan’s divided waters; mountain ginger and the painted cannibal charge; Kelinfu’s bridges and hairy fowls; Unken’s Babylonian sugar; Fuju the key of Chonka on the Min; five days of camphor forests to Zayton; pepper a hundredfold Alexandria’s; tithe and freight; Indian tattooers; Tyunju’s porcelain; the dialect analogy; three kingdoms named of nine; and the Book’s own promise that Cathay and Manzi are told, and India waits.
-
 ---
 
 ## Notes
