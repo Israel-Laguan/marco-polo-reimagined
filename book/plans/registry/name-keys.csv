@@ -30,9 +30,9 @@ Elverskog,A,II-03,,needs-edition,work not identified
 Gernet,A,II-13,gernet1962daily,key,
 Huntingford,A,III-07,,needs-edition,work not identified
 Subrahmanyam,A,III-05,,needs-edition,work not identified
-Thackston,A,"III-09, III-12",thackston1998rashiduddin,via-yc,"key = the modern translation, use only if the Note relies on it"
-Boyle,A,"III-09, III-12",boyle1958history,via-yc,"key = the modern translation, use only if the Note relies on it"
-Gibb,A,III-12,gibb1958travels,via-yc,"key = the modern translation, use only if the Note relies on it"
+Thackston,A,"III-09, III-12",thackston1998rashiduddin,key,the Notes name the translator: cite the translation
+Boyle,A,"III-09, III-12",boyle1958history,key,the Notes name the translator: cite the translation
+Gibb,A,III-12,gibb1958travels,key,the Notes name the translator: cite the translation
 Odoric,B,"I-06, I-08, I-12, I-13, II-02, II-03 …",yule1913cathay,via-yc,Yule's own translation in Cathay; cite [@yule1913cathay] when quoting Odoric
 Rashid,B,"I-02, I-03, I-05, I-06, I-12, I-13 …",thackston1998rashiduddin,context,most Notes report Rashid via Yule -> via-yc unless Thackston is named
 Ibn Baṭṭūṭa,B,"I-05, I-06, I-07, I-09, II-02, II-03 …",gibb1958travels,via-yc,"locator: Defrémery–Sanguinetti vol.page; key = the modern translation, use only if the Note relies on it"
@@ -82,12 +82,12 @@ Ma Twan-lin,B,I-11,,via-yc,no edition chosen; cite as reported in YC
 Chang Te-hui,B,I-13,,via-yc,no edition chosen; cite as reported in YC
 Altan Tobchi,B,I-13,,via-yc,no edition chosen; cite as reported in YC
 Sanang Sechen,B,I-12,,via-yc,no edition chosen; cite as reported in YC
-Secret History,B,"I-12, III-12",derachewiltz2004secret,via-yc,"locator: § number; key = the modern translation, use only if the Note relies on it"
+Secret History,B,"I-12, III-12",derachewiltz2004secret,key,de Rachewiltz's translation
 Yuan Shi,B,"I-13, II-01, II-11, II-15",,via-yc,no edition chosen; cite as reported in YC
 Yuan shi,B,"II-02, II-03, II-04, II-05, II-08, II-09 …",,via-yc,no edition chosen; cite as reported in YC
-Ch’ue keng lu,B,II-03,,via-yc,no edition chosen; cite as reported in YC
-Mengliang lu,B,II-13,,via-yc,no edition chosen; cite as reported in YC
-Tsung tien,B,I-13,,via-yc,no edition chosen; cite as reported in YC
+Ch’ue keng lu,B,II-03,,research,batch A
+Mengliang lu,B,II-13,,research,batch A
+Tsung tien,B,I-13,,research,batch B
 Ku Yen-wu,B,II-10,,via-yc,no edition chosen; cite as reported in YC
 Ain-i-Akbari,B,II-01,,via-yc,no edition chosen; cite as reported in YC
 Firishta,B,III-05,,via-yc,no edition chosen; cite as reported in YC
@@ -113,7 +113,7 @@ Jerome,B,III-05,,via-yc,no edition chosen; cite as reported in YC
 Benjamin of Tudela,B,III-07,,via-yc,no edition chosen; cite as reported in YC
 Ptolemy,B,III-03,,via-yc,no edition chosen; cite as reported in YC
 Periplus,B,"III-06, III-F2",,via-yc,no edition chosen; cite as reported in YC
-Marāṣid,B,III-08,,via-yc,no edition chosen; cite as reported in YC
+Marāṣid,B,III-08,,research,batch B
 Martini,B,"II-07, II-13",,via-yc,no edition chosen; cite as reported in YC
 Magaillans,B,"II-02, II-04, II-06, II-09",,via-yc,no edition chosen; cite as reported in YC
 Duhalde,B,II-10,duhalde1735description,via-yc,
@@ -127,7 +127,7 @@ Assemani,B,III-05,,via-yc,no edition chosen; cite as reported in YC
 Ysbrandt Ides,B,II-03,,via-yc,no edition chosen; cite as reported in YC
 Cardan,B,I-11,,via-yc,no edition chosen; cite as reported in YC
 Chaucer,B,II-03,,via-yc,no edition chosen; cite as reported in YC
-Book of Prophecies,B,III-11,,via-yc,no edition chosen; cite as reported in YC
+Book of Prophecies,B,III-11,,research,"batch B: Libro de las Profecías, Columbus"
 Ricci,B,III-11,,via-yc,no edition chosen; cite as reported in YC
 Fra Mauro,B,"III-07, III-11",,via-yc,no edition chosen; cite as reported in YC
 Bruce,B,III-07,,via-yc,no edition chosen; cite as reported in YC
@@ -200,7 +200,7 @@ Junghuhn,C,III-03,,via-yc,work not identified
 Schlegel,C,"III-03, III-04",,via-yc,article not identified
 Hardy,C,III-04,hardy1850eastern,via-yc,identification medium
 Stewart,C,III-05,,via-yc,work not identified
-Pridham,C,III-05,pridham1849historical,via-yc,
+Pridham,C,III-05,pridham1849historical,key,"in Notes as Pridham, Ceylon I, pp. 409, 440 (Yule's own refs); the Notes cite the book"
 Nelson,C,III-05,,via-yc,"work not identified (J. H. Nelson, The Madura Country?)"
 Birdwood,C,III-08,,via-yc,paper not identified
 Elliot,C,III-09,elliot1867history,via-yc,Wassaf extracts

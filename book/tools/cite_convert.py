@@ -346,3 +346,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def locator_text_for(book, chapter):
+    """'YC 2.35' / 'YC Prol. 3' / 'YC Prol., preamble' for a Yule book and chapter."""
+    if book == 0:
+        return "YC Prol., preamble" if chapter == 0 else f"YC Prol. {chapter}"
+    return f"YC {book}.{chapter}"
