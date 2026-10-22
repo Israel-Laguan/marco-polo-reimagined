@@ -59,3 +59,9 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-F1.T4` Tags-and-markers box and legend reprint
 - `II-F1.T5` Media placement (frontispiece, B3)
 - `II-F1.T6` Lint pass and human voice read
+
+### II-F1.T6 — Lint green and human read
+- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 1 error · 0 warnings — failing: quote_verify
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md`; fix every error; take the warnings into the human read.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

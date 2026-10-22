@@ -71,3 +71,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** done (2026-10-21; human read approved) · **Depends:** —
 - **Result:** 1,893 words · 2% verbatim · 0 "You must know" / "Anyway" / formula hinges / archaisms · 10/10 Ramusio passages flagged. Measurements and before/after in `spikes/S-01-voice-standard.md`.
 - **Left for other tasks:** S-03 confirmation of the ◇ / [M] conventions it assumed (T4); S-06 check of Notes [6] and [20] (T1).
+
+### II-02.T6 — Lint green and human read
+- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 0 errors · 0 warnings
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-02-person-palace.md`; fix every error; take the warnings into the human read.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

@@ -79,3 +79,9 @@ _Created after the gating spikes close. Expected shapes:_
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
+
+### I-09.T6 — Lint green and human read
+- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 18 errors · 7 warnings — failing: archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know; warnings: names, openers, ramusio, recaps
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-09-balc-badashan.md`; fix every error; take the warnings into the human read.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

@@ -52,3 +52,9 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-F2.T4` Notes and apparatus normalisation; place tables from gazetteer
 - `III-F2.T5` Media placement (A1, A16)
 - `III-F2.T6` Lint pass and human voice read
+
+### III-F2.T6 — Lint green and human read
+- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 3 errors · 0 warnings — failing: quote_verify, scaffolding
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md`; fix every error; take the warnings into the human read.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

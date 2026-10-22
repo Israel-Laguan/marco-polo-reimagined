@@ -43,7 +43,7 @@ plans/
 | ID | Spike | Status | Depends on | Gates |
 |---|---|---|---|---|
 | [S-01](spikes/S-01-voice-standard.md) | Voice standard (pilot re-voice of II-2) | **closed** 2026-10-21 | S-03, S-06 (for II-2's facts), S-08 conventions | `.T3` in every narrative chapter |
-| [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | open | — (thresholds finalised with S-01, S-03) | `.T6` everywhere; the definition of done |
+| [S-02](spikes/S-02-acceptance-lint.md) | Acceptance lint and thresholds | **closed** 2026-10-21 (`tools/lint.py`; S-03/S-04 rules provisional) | — | `.T6` everywhere; the definition of done |
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | open | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | open | — | `GAZ`, `MAP`, naming items |
 | [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | open | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
@@ -136,10 +136,28 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 3. Write the tasks into every gated file and set those files to `ready`.
 4. Update the spike board above and the decision log below.
 
-## Definition of done (provisional; finalised by S-02)
+## Definition of done (S-02)
 
 A manuscript file is **done** when:
-- the lint is green: verbatim Yule ≤ 15% (S-01); no Book first person or archaisms outside quotes; hinge budgets met; no scaffolding; citations 1:1; quotations verified; markers in the ✓~✗◇? set; length in range; names canonical;
+- **the lint is green:** `python3 tools/lint.py <file>` (run from `book/`) exits 0, with no errors. The thresholds below are the values in `tools/lint.py`:
+
+  | Check | Narrative | Essay (III-12) | Front/back |
+  |---|---|---|---|
+  | Verbatim Yule, 7-gram, incl. epigraph and marked quotes | ≤ 15% | ≤ 15% | ≤ 15% |
+  | Book first person / archaisms / "You must know", outside quotes | 0 / 0 / 0 | 0 / 0 / 0 | 0 / 0 / 0 |
+  | "Anyway" / formula hinges / any single attribution verb | ≤ 1 / ≤ 3 / ≤ 4 | — | — |
+  | Asides: words each / per chapter; no exit formula, no announced return | ≤ 80 / ≤ 4 | — | — |
+  | Marked quotations: words each / per paragraph / per chapter | ≤ 25 / ≤ 2 / ≤ 8 | — | — |
+  | Epigraph found in `refs/` (segments split at "…"), or marked *(adapted)* | yes | yes | yes |
+  | Marked quotations found in `refs/` | error | warning | warning |
+  | Opening recap / closing-recap phrases | 0 / 0 | — | — |
+  | Narrative words | 1,800–3,200 | ≤ 3,500 | — |
+  | Scaffolding strings (Soft labels, `/workspace`, outline/drafter/SERIES-STATUS refs, placeholders, gazetteer labels, drafting notes) | 0 | 0 | 0 |
+  | Citations: body sequential 1..n, Notes 1:1, no duplicates | yes | yes | yes |
+  | Retired marker ★ in Notes *(provisional, S-03)* | 0 | 0 | 0 |
+  | Ramusio passage reproduced in a paragraph → inline "Ramus…" flag + ◇ in a cited Note *(◇ provisional, S-03)* | yes | — | — |
+
+- **every lint warning has been looked at during the human read.** Warnings are heuristics: "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), and name spellings close to a gazetteer name (provisional until S-04 adds aliases). Marked quotations in the essay and front/back may cite non-Yule sources, so for those files a missing match is a warning, not an error;
 - every backlog item is resolved or explicitly deferred with a reason;
 - its media hooks are placed or deferred;
 - a human has read it for voice.
@@ -154,3 +172,4 @@ A manuscript file is **done** when:
 | 2026-10-21 | No nybo for this repo; plan in Markdown | user |
 | 2026-10-21 | Scoped workflow: plan → spikes → feedback → tasks per chapter + cross-cutting areas | user |
 | 2026-10-21 | Voice standard = `VOICE-GUIDE.md` v2 with II-2 as reference; verbatim ≤ 15%; re-voice before cutting length; W4 in batches of 3–4 | S-01 (pilot approved by user) |
+| 2026-10-21 | Definition of done = `tools/lint.py` exits 0 (errors gate; warnings go to the human read); 7-gram verbatim confirmed; baseline 1/49 files pass | S-02 |

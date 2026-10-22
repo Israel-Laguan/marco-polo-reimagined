@@ -60,3 +60,9 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-F2.T4` Notes and apparatus normalisation; regenerate place tables from gazetteer
 - `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map")
 - `II-F2.T6` Lint pass and human read
+
+### II-F2.T6 — Lint green and human read
+- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-21, `plans/status/lint-baseline.md`):** 6 errors · 0 warnings — failing: quote_verify, scaffolding
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md`; fix every error; take the warnings into the human read.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

@@ -17,7 +17,16 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 
 ### W0 — Lint tool (do first; it defines "done")
 
-`book/tools/lint.py` is a port of the critique scripts. It reports per file:
+**Built (S-02, 2026-10-21).** `book/tools/lint.py` implements the checks below, with these final adjustments:
+- three profiles: narrative / essay / front-back (see README § Definition of done);
+- the Soft-label pattern is `\bSoft\b[^.:\n]{0,40}:` (`Soft \w+:` found 36 labels; the new pattern finds 153, in line with W1's ~155);
+- gazetteer labels match only in label form (`Gazetteer: *visited*`);
+- quotation verification splits at "…" and reports invented vs misquoted;
+- "≤ 2 per scene" is checked per paragraph, because the chapters have no scene breaks;
+- unflagged Ramusio passages are detected by n-gram only while text is near-verbatim. After a re-voice, a warning compares the flag count with the first draft's passages (`tools/ramusio-manifest.json`);
+- place names are checked as warnings only, until S-04 supplies aliases.
+
+Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 
 | Check | Pass threshold |
 |---|---|
