@@ -1,0 +1,61 @@
+# I-01 — In a Genoese Prison: How This Book Was Made
+
+**File:** `vol-1/ch-01-genoa-prison.md` · **Status:** backlog · **Kind:** narrative
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 2,011 | 7% | — (n/a in Vol. I) | ok [1–15] | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+
+**Status note:** the critique calls ch-01 "the model the other chapters should follow": a real retelling at 7% verbatim, capture dispute "handled exactly right" (ch-01:21, Note [5]). It is the W4 voice model. Keep its strengths when touching it.
+
+### Critical
+— none found (C3: 7% verbatim, under the ≤25% target; this chapter is the model)
+
+### Factual / fidelity
+— none found
+
+### Dispute handling and Ramusio flags
+— none found
+
+### Voice and prose
+- Hinge budget: "Anyway" ×2 (0 of them "Anyway, next he…"), over the M6 lint budget of ≤1 per chapter. Fix: at most one "Anyway"; close asides with a plain return. — vol-1 M6 · ch-01:21, :37
+- Long academic dash-aside: 157 words. Fix: cap at ~60–80 words, keep one key fact plus a cross-reference to the Note, move lists of names to Notes. — vol-1 M11 · ch-01:21
+
+### Notes and apparatus
+— none found
+
+### Naming and gazetteer
+- "Venice (Venezia) and Genoa (Genova)": when the book form is the English form, the gloss is noise. — vol-1 nit 1 · ch-01:13
+- Gazetteer lacks rows for **Genoa** and **Curzola** (both needed for the ch-01 map). Fix: add rows (M8 gazetteer fix). — vol-1 M8 · gazetteer.csv
+
+### Length and structure
+— none found
+
+## Media hooks
+- **Hero plate:** I-1 Marco dictating to Rustichello — GEN, Italian Gothic illumination, P. Must get right: Rustichello a **layman** (not a monk), loose quires, quill, ink-horn, a civic room not a dungeon, *gonella* and mantle; Marco about 44. Caption: setting is tradition (Palazzo di San Giorgio is tradition only); do not label any figure as Ramusio's "Genoese gentleman". Anchor ch-01:27. Existing `drawing-genoa-dictation.png` has a monk's habit, chains and an anachronistic skyline (critique §4/§5); multimedia plan retires all `drawing-*.png`.
+- **Secondary plates:** Dawn at Curzola (illustration plan; anchor ch-01:19): *galee sottili*, lateen rig, ~25 oar banks *alla sensile*, crossbowmen, Genoese red cross / lion of St Mark, no cannon; Marco's presence is inference, do not caption a figure as Marco. Existing `drawing-venetian-galley.png` is **anachronistic** (Salute domes 1631–87, Gothic Doge's Palace façade, Viking-like hull): redraw. Critique-only candidate: Peace and release, 1299 (anchor ch-01:39; San Giovanni Grisostomo courtyard, c. 1300 Venetian-Byzantine fronts).
+- **Maps:** critique §5 proposes a ch-01 map (Venice, Genoa, Curzola; Adriatic inset; Doria's raid path). No A-ID in `multimedia-plan.md`.
+- **Timelines / diagrams / tables:** D (I-1) Who captured Marco, and where? (preamble vs Jacopo d'Acqui vs Ramusio) + text witnesses F / Pipino / Z / Ramusio / Yule–Cordier. E: Prologue in the original — Rustichello's Franco-Italian opening ("Seignors emperaor et rois…") beside Yule's English, parallel-text box.
+- **Characters appearing:** Marco Polo, Rustichello of Pisa, Lamba Doria, Andrea Dandolo, Jacopo d'Acqui, Prince Edward of England; Niccolò and Maffeo Polo (passing)
+
+## Gated by spikes
+- S-01 Voice standard (this chapter is the reference)
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (Notes format)
+- S-04 Gazetteer authority (Genoa, Curzola rows; nit 1 gloss rule)
+- S-05 Character registry (Marco, Rustichello in hero plate)
+- S-08 LaTeX build pipeline (D table, parallel-text box, plates)
+- S-10 Image generation pilot (GEN hero, Curzola secondary)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `I-01.T1` Critical and factual fixes
+- `I-01.T2` Ramusio flags and dispute asides
+- `I-01.T3` Re-voice to the S-01 standard (incl. length cuts)
+- `I-01.T4` Notes and apparatus normalisation
+- `I-01.T5` Media placement (figures, tables, captions)
+- `I-01.T6` Lint pass and human voice read

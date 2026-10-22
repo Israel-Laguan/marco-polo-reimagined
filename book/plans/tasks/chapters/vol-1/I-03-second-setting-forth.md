@@ -1,0 +1,63 @@
+# I-03 — The Second Setting-Forth: Pope, Oil, and the Boy Marco
+
+**File:** `vol-1/ch-03-second-setting-forth.md` · **Status:** backlog · **Kind:** narrative
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 2,621 | 34% | — (n/a in Vol. I) | ok [1–16] | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+
+**Status note:** scorecard verdict "Strong; route handled honestly". ch-03:25 handles the Hormuz inference correctly ("Yule's reconstruction… not from Prologue itinerary") and is the reference for the M2 fixes elsewhere.
+
+### Critical
+- Transcription share 34%, above the ≤25% target. Fix: re-voice in the ch-01 manner; one or two short marked quotations per scene. W4 order: second-to-last in Vol. I. — vol-1 C3 · ch-03
+
+### Factual / fidelity
+— none found
+
+### Dispute handling and Ramusio flags
+- Outbound route here (Yule's Ayas → Sivas → Mardin → Mosul → Baghdad → Hormuz, Y:5904) disagrees with front-02's via-Tauris line. Fix lands in I-F2 (present both as reconstructions); ch-03 is the correct side. — vol-1 m1 · ch-03:23
+
+### Voice and prose
+- Opener "Marco Polo starts by narrating that…" (SB). Fix: rotate openers. — vol-1 M6 · ch-03:9
+- "Anyway" ×4 (3 "Anyway, next he…") in 2.6k words; other hinges 4. Lint budget ≤1. — vol-1 M6 · ch-03:13, :21, :25, :33
+- Stock frames: "— A quick note on…" (ch-03:13) and "Here the asides have to be honest" (ch-03:21). — vol-1 M6 · ch-03:13, :21
+- Long dash-aside: 134 words. Fix: ~60–80 words, one key fact + Note cross-ref. — vol-1 M11 · ch-03:21
+
+### Notes and apparatus
+— none found
+
+### Naming and gazetteer
+- "Venice (Venezia)" and "Jerusalem (Yerushalayim)": gloss is noise when the book form is the English form. — vol-1 nit 1 · ch-03:9, :11
+- Missing gazetteer row: **Kemenfu/Kaipingfu**; critique §5 also bolds **Jerusalem** as needing a row for the ch-03 map. — vol-1 M8 · gazetteer.csv
+
+### Length and structure
+— none found
+
+## Media hooks
+- **Hero plate:** I-3 "Sire, 'tis my son and your liegeman" — GEN, Yuan court painting (YC), L (tradition follows where the scene takes place). Must get right: Kaiping c. 1275; timber hall on a raised platform; oil flask and papal letters on a tray; Kublai about 60; Mongol and Chinese officials. Caption: Prologue theatre. Anchor ch-03:29.
+- **Secondary plates:** Friars turn back at Layas (anchor ch-03:19): Dominican habit (white tunic, black *cappa*), the Templar Master, Ayas sea-castle, Cilician galley. Critique-only: Oil from the Sepulchre lamp (ch-03:11): Crusader-era rotunda; Jerusalem **under Mamluk control** in 1271, pilgrims tolerated.
+- **Maps:** critique §5 ch-03 map: Acre ↔ Jerusalem, Ayas, then Yule's reconstructed route to Kemenfu, marked as a reconstruction. No dedicated A-ID in `multimedia-plan.md` (A3 is I-2; A4 starts at I-4).
+- **Timelines / diagrams / tables:** D (I-3) The four scripts (Pauthier's list vs Yule's options vs scripts in use). B1 Polo family timeline (placed I-F1; critique: "front-01 or ch-02/03").
+- **Characters appearing:** Marco Polo, Niccolò Polo, Maffeo Polo, Kublai (Cublay), Tedaldo Visconti / Gregory X, Clement IV (death), Baibars (Bundukdar), Friar Nicolas of Vicenza, Friar William of Tripoli, the Master of the Temple (unnamed), Cocachin (forward reference)
+
+## Gated by spikes
+- S-01 Voice standard
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions
+- S-04 Gazetteer authority (Kemenfu, Jerusalem rows; nit 1 gloss rule)
+- S-05 Character registry (three Polos and Kublai in hero plate)
+- S-08 LaTeX build pipeline (D table, plates)
+- S-10 Image generation pilot (GEN hero and secondary)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `I-03.T1` Critical and factual fixes
+- `I-03.T2` Ramusio flags and dispute asides
+- `I-03.T3` Re-voice to the S-01 standard (incl. length cuts)
+- `I-03.T4` Notes and apparatus normalisation
+- `I-03.T5` Media placement (figures, tables, captions)
+- `I-03.T6` Lint pass and human voice read

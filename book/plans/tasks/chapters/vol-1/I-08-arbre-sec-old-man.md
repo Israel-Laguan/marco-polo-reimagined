@@ -1,0 +1,65 @@
+# I-08 — Cobinan, the Arbre Sec, and the Old Man of the Mountain
+
+**File:** `vol-1/ch-08-arbre-sec-old-man.md` · **Status:** backlog · **Kind:** narrative
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 2,377 | 62% | — (n/a in Vol. I) | ok; [13] marker wrong | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+
+**Status note:** scorecard "Assassin dispute well handled"; ch-08:13 is cited as a model of flagging bracketed text.
+
+### Critical
+- Transcription share 62%. Worst block: the Old Man's garden. Fix: re-voice in the ch-01 manner, one or two short quoted lines per marvel; target ≤25%. W4 order: 3rd in Vol. I (after I-9). — vol-1 C3 · ch-08:27–35
+
+### Factual / fidelity
+— none found
+
+### Dispute handling and Ramusio flags
+- "having refused the Ocean Sea at Hormos" states Yule's inference as the Book's decision (M2; Y:5902–5906). Fix: "Having brought the reader back from Hormos to Kerman…". Content plan W2 (I-8). — vol-1 M2 · ch-08:9
+
+### Voice and prose
+- Opener "Marco Polo narrates that…" (MPN). Fix: rotate openers. — vol-1 M6 · ch-08:9
+- "Anyway" ×1 (1 "Anyway, next he…") — within budget; other hinges 11; book-voice tags 5–7 ("the book insists" budget ≤2). — vol-1 M6 · ch-08:23
+- "as one movement of Book I… stand behind" is almost the same sentence as ch-09:47. — vol-1 M6 · ch-08:39
+- Long dash-asides: 166 words (:23) and 138 words (:37). Fix: ~60–80 words each, one key fact + Note cross-ref. — vol-1 M11 · ch-08:23, :37
+
+### Notes and apparatus
+- Note [13] marks ✗ on "Marco personally visited Alamūt", a claim the Book never makes. Fix: "◇ report; Book says hearsay". — vol-1 m5 · ch-08:69
+- Gazetteer reliability tags in Notes ("Gazetteer: Cobinan *likely_visited*", "Tonocain / Arbre Sec *uncertain*", "Old Man / Alamūt *reported_only*"). Fix: plain words. — vol-1 m6 · ch-08:49, :53, :57
+
+### Naming and gazetteer
+— none found
+
+### Length and structure
+— none found
+
+## Media hooks
+- **Hero plate:** I-8 The Dry Tree alone on the plain — GEN, LdM marvel lens, P. Must get right: a single *chinar* (oriental plane), half green and half white bark; passing caravan. Caption: legendary landmark (Alexander romance), "the book's Dry Tree". Anchor ch-08:21.
+- **Secondary plates:** Garden of the Old Man (LdM; anchor ch-08:29): the **Crusader stereotype**, not Nizari practice; frame as legend.
+- **Maps:** A4 Outbound: Ayas to Hormos (Kerman → Cobinan → Tun-o-Kain).
+- **Timelines / diagrams / tables:** C6 Tutia furnace process (earth → furnace → grating catching zinc-oxide soot → slag/spodium; anchor ch-08:17); C15 Qanat cross-section (ch-08:13). B6 row "Hulagu's attack on the Old Man 1252 / 1262 vs 1256" (placed I-B1).
+- **Characters appearing:** the Old Man of the Mountain (Aloadin), Hulagu (Alau), Rukn al-Dīn Khurshāh, Kitbuqa (Note), Alexander and Darius (legend), Marco Polo
+
+## Gated by spikes
+- S-01 Voice standard
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (✗ vs ◇ markers, Notes format)
+- S-04 Gazetteer authority (A4 map hook)
+- S-05 Character registry (Old Man in secondary plate)
+- S-06 Fact verification sheet (M2 correction)
+- S-08 LaTeX build pipeline (C6, C15, plates)
+- S-09 Map and diagram pipeline (A4, C6, C15)
+- S-10 Image generation pilot (GEN hero and secondary)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `I-08.T1` Critical and factual fixes
+- `I-08.T2` Ramusio flags and dispute asides
+- `I-08.T3` Re-voice to the S-01 standard (incl. length cuts)
+- `I-08.T4` Notes and apparatus normalisation
+- `I-08.T5` Media placement (figures, tables, captions)
+- `I-08.T6` Lint pass and human voice read

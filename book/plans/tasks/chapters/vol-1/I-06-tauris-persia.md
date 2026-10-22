@@ -1,0 +1,68 @@
+# I-06 — Tauris, Persia of the Three Kings, and the Eight Kingdoms
+
+**File:** `vol-1/ch-06-tauris-persia.md` · **Status:** backlog · **Kind:** narrative
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 2,753 | 58% | — (n/a in Vol. I) | ok; [4] repeats [1] | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+
+**Status note:** scorecard "Good dispute work"; ch-06:13 and :39 are cited as models of flagging bracketed (Ramusian) text.
+
+### Critical
+- Transcription share 58%. Worst block: the Magi and fire tale. Fix: re-voice in the ch-01 manner, one or two short quoted lines per marvel; target ≤25%. W4 order: 5th in Vol. I (after I-5). — vol-1 C3 · ch-06:23–27
+
+### Factual / fidelity
+- "Istanit… half-legible through manuscript wear" in the body, but Note [12] gives the real reason (copyist *sf/st* confusion). Fix: align them. — vol-1 nit 3 · ch-06:33, :71
+- Note [13] arithmetic: "livre tournois ≈ £1… → horse ~£193" (200 × £1 ≠ £193). Fix: cite Yule's £193 directly (Y:16596). — vol-1 nit 5 · ch-06:73
+
+### Dispute handling and Ramusio flags
+— none found
+
+### Voice and prose
+- Opener: "The Book…" then "Marco Polo starts by narrating…" (SB). Fix: rotate openers. — vol-1 M6 · ch-06:9
+- "Anyway" ×2 (2 "Anyway, next he…"); other hinges 5; book-voice tags 5–7. Lint budget ≤1. — vol-1 M6 · ch-06:15, :31
+- Stock frames: "— A quick note on…" (:15); "Thus Chapter I-6 holds…" (:43) reads as help-desk meta. — vol-1 M6 · ch-06:15, :43
+- Pet phrases: "factor's" (:11, :43), "shrug" (:43). — vol-1 M6 · ch-06:11, :43
+- Long dash-aside: 127 words. Fix: ~60–80 words, one key fact + Note cross-ref. — vol-1 M11 · ch-06:31
+- Commentary paragraph embedded in narrative: a Rashid al-Din panegyric inside the Tauris paragraph (Yule's notes moved into narrative). Fix: move name lists to Notes, keep one key fact. — vol-1 M11 · ch-06:11
+
+### Notes and apparatus
+- Note [4] repeats [1]. Fix: merge or give it content. — vol-1 m7 · ch-06:49, :55
+- "Gazetteer: *visited*" production tags in Notes (and "gazetteer marks Tauris as visited" in body :15). Fix: keep the reliability idea in plain words. — vol-1 m6 · ch-06:49, :79
+
+### Naming and gazetteer
+- Chapter form **Yasdi** vs gazetteer **Yazd**. — vol-1 M8 · ch-06
+
+### Length and structure
+- Chapter-closing recap. Fix: one forward-looking sentence, cut the inventory. — vol-1 m9 · ch-06:43
+
+## Media hooks
+- **Hero plate:** I-6 Marco questions the townsfolk at the Magi tombs of Saba — GEN, Ilkhanid (JT), L. Must get right: Ilkhanid brick domed tomb towers; Persian dress; puzzled townsmen. Caption: local tradition. Anchor ch-06:21.
+- **Secondary plates:** none in `illustration-plan.md`. Critique-only: Fire falls into the well (ch-06:25; legend, illuminated-manuscript style); The Tabriz gem bazaar (ch-06:11; Ilkhanid Tabriz c. 1270s, Genoese merchants in the crowd).
+- **Maps:** A4 Outbound: Ayas to Hormos (via-Tauris variant line, dashed).
+- **Timelines / diagrams / tables:** D (I-6) Eight kingdoms of Persia: book name → identification → confidence (Yule's).
+- **Characters appearing:** Marco Polo, the Three Magi (Jaspar, Melchior, Balthasar; legend), Hulagu (passing); the Ilkhan (unnamed)
+
+## Gated by spikes
+- S-01 Voice standard
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (Notes format)
+- S-04 Gazetteer authority (Yasdi; A4)
+- S-05 Character registry (Marco in hero plate)
+- S-06 Fact verification sheet (nit 3 Istanit, nit 5 £193)
+- S-08 LaTeX build pipeline (D table, plate)
+- S-09 Map and diagram pipeline (A4)
+- S-10 Image generation pilot (GEN hero)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `I-06.T1` Critical and factual fixes
+- `I-06.T2` Ramusio flags and dispute asides
+- `I-06.T3` Re-voice to the S-01 standard (incl. length cuts)
+- `I-06.T4` Notes and apparatus normalisation
+- `I-06.T5` Media placement (figures, tables, captions)
+- `I-06.T6` Lint pass and human voice read

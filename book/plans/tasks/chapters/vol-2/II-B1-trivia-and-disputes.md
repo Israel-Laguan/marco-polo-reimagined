@@ -1,0 +1,57 @@
+# II-B1 — Trivia and Disputes — Volume II
+
+**File:** `vol-2/back-01-trivia-and-disputes.md` · **Status:** backlog · **Kind:** back
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 876 | n/a | — | ok (7/7) | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit · **[W]** content-plan only.
+
+### Critical
+- **[C]** Invented epigraph: "All these cities are so great that…" (labelled "The book's habitual gasp before Manzi's numbers") is not in Yule–Cordier. Fix: a verified Kinsay line, e.g. "the city is beyond dispute the finest and the noblest in the world"; alternatively drop the quotation marks and the source label. Observation (not in critique): that Kinsay line sits inside ch-13:4's epigraph. — vol-2 C3 · back-01:4; content plan W1.1
+
+### Factual / fidelity
+- — none found
+
+### Dispute handling and Ramusio flags
+- **[M]** The "silences" cluster (tea, foot-binding, Great Wall) is filled here (:45) only because II-02's aside (ch-02:51) defers it in one meta sentence. The critique's fix goes in II-02; recheck this entry once II-02 carries the substance, so the two do not diverge. — vol-2 M12 · back-01:45
+- **[M]** "Mixed tags in the chapter heads are there on purpose" assumes the reader has been told what the tags mean; no reader-facing page explains them (fix lives in II-F1). — vol-2 M8 · back-01:43
+
+### Voice and prose
+- **[m]** Paper money, coal, Ahmad and the two capitals repeat front-01:31–39 and ch-05 almost word for word ("Coal as quiet proof" vs "Coal… quiet corroboration"). Fix: "make back-01 pure dispute shortlist plus trivia, and cut the repeats". Affected here: :15 (two capitals), :17 (paper money), :19 (coal), :21 (Ahmad). — vol-2 m12 · back-01:15–21; content plan W5
+
+### Notes and apparatus
+- — none found
+
+### Naming and gazetteer
+- — none found
+
+### Length and structure
+- **[m]** Role of back matter (dispute shortlist plus trivia, not re-explanation) is an S-07 decision shared with II-F1; content plan W5 "Front and back matter de-duplication". — vol-2 m12
+
+## Media hooks
+- **Hero plate:** — none
+- **Secondary plates:** — none
+- **Maps:** — none
+- **Timelines / diagrams / tables:** Pronunciation and names glossary ("back of each volume": book form → modern form → respelling → gloss), the print substitute for the critique's audio moments (Cambaluc/Khanbaliq, Keshican/keshig, Pul-i-Sangīn, Quinsay/Xingzai, Zayton/Zaitūn, Faghfur, Bayan Chincsan, *Sing/sheng*, Toscaol, Bularguchi, naccara/naqqāra, Aijaruc/Ai-yaruq, Natigai) — `multimedia-plan.md` §E; critique §5 "Audio and pronunciation moments"
+- **Characters appearing:** Marco Polo, Niccolò and Maffeo Polo (Saianfu), Ahmad Fanakati, Kublai (as "the Khan")
+
+## Gated by spikes
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (markers in Notes)
+- S-04 Gazetteer authority and naming policy (glossary forms)
+- S-06 Fact verification sheet (epigraph)
+- S-07 Structure and length decisions (front/back roles and de-duplication)
+- S-08 LaTeX build pipeline (glossary table)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `II-B1.T1` Critical fix (epigraph)
+- `II-B1.T2` Dispute shortlist alignment with II-02 (silences) and II-11 (Saianfu)
+- `II-B1.T3` De-duplicate against front-01 and ch-05
+- `II-B1.T4` Notes and apparatus normalisation
+- `II-B1.T5` Pronunciation glossary
+- `II-B1.T6` Lint pass and human read

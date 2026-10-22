@@ -1,0 +1,66 @@
+# II-10 — Eastward to Manzi: Canal Cities and the Fall of the Sung
+
+**File:** `vol-2/ch-10-manzi-sung.md` · **Status:** backlog · **Kind:** narrative
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 3,103 | 69% | [M] | 13/13; ★★★ in Note [6]; "Gazetteer:" tooling in [1] | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit.
+
+### Critical
+- **[C]** Near-transcription of Yule: 69%, with 5 of the volume's 38 first-person Book lines. The canal "city strings" are named among the catalogue passages to turn "into modern storyteller summary". Scorecard: 6 hinges, "You must know" ×7. Fix: convert first-person Book lines to reported speech or marked quotation. — vol-2 C2, §3 · ch-10 (whole)
+
+### Factual / fidelity
+- **[m]** Bayan's dispatch "in 1268" goes unflagged (Bayan took command in 1273–74). — vol-2 m7 · ch-10:53
+- **[N]** Epigraph wording drift: "So when you pass" where Yule has "And when you pass". Fix: quote exactly or mark "(adapted)". — vol-2 N5 · ch-10:4
+
+### Dispute handling and Ramusio flags
+- **[m]** :61 crams a 70-word chronology (Duzong 1274, Gong, regent Xie, Lin'an 1276, Yaishan 1279) into the middle of a narrative paragraph. Fix: move it to an em-dash aside or to Note [12] and keep one clause in the body. — vol-2 m7 · ch-10:61
+
+### Voice and prose
+- **[M]** Drafting instruction in the prose: "flag it, then resume." Fix: delete, keep only the substance. — vol-2 M3 · ch-10:17; content plan W1.3
+- **[M]** Outline-beat list pasted as the closing paragraph ("Thus Book II.lx–lxv has done what it promised…"). Fix: one forward-looking sentence, or nothing. — vol-2 M3, M4 · ch-10:73; content plan W1.3
+- **[M]** Aside-exit tic "Anyway, next he mentions X"; cap one per chapter, vary exits. Grep count of "Anyway" in file: 2. — vol-2 M4 · ch-10 (whole)
+- **[N]** "the cremation formula that will wearisome the reader" → "will weary". — vol-2 N2 · ch-10:17
+
+### Notes and apparatus
+- **[M]** Outline star legend in Notes: Note [6] uses ★★★. Fix: convert to ✓/~/✗/◇/?. — vol-2 M7 · ch-10:89
+- **[M]** Note [1] leaks tooling ("Gazetteer: Changlu *likely_visited*"). — vol-2 M3 · ch-10:79
+
+### Naming and gazetteer
+- **[M]** Gazetteer `book_name` "Ciangu" differs from the chapter's "Changlu" (front-02 follows the gazetteer). — vol-2 M11
+- **[M]** Conflicting identification: gazetteer says Cacanfu = "Puyang/Heze, Henan"; ch-10:13 says Hejian (Hebei). — vol-2 M11 · ch-10:13
+- **[M]** No gazetteer rows for Chinangli, Tadinfu, Sinjumatu, Linju, Piju, Siju, Coiganju, Caramoran (blocks map A12). — vol-2 M11
+
+### Length and structure
+- W4 re-voice order: Vol. II batch position 5 of 14 after the II-2 pilot. — content plan W4
+
+## Media hooks
+- **Hero plate:** Song envoys surrender the seal to Bayan, 1276 — GEN, Southern Song academy (elegiac), portrait 3:4; must get right: Lin'an outskirts, Empress Dowager Xie's envoys; caption: Book compresses events; no "Hundred Eyes" — see `illustration-plan.md`. Anchor ch-10:61 (child emperor Gong was surrendered; loyalists carried other princes to sea).
+- **Secondary plates:** none in the plan's secondary list. Critique §4 candidates (both "diagram-friendly"): Changlu salt-earth works (:15); Sinjumatu summit split (:33).
+- **Maps:** A12 The canal spine (II-10 – II-13: Juju → Cacanfu → Changlu → Chinangli → Tadinfu → Sinjumatu → Linju → Piju → Siju → Caramoran/Coiganju → …; Nanghin and Saianfu dashed).
+- **Timelines / diagrams / tables:** B4 The Song endgame, 1268–1279 (II-10 / II-11). Critique §5 also proposes diagrams "Canal summit split at Sinjumatu" and "salt-earth leaching" for ch-10; neither has a C-ID in `multimedia-plan.md`.
+- **Characters appearing:** Bayan Chincsan ("Hundred-Eyes"), Faghfur / Facfur (Song emperor Duzong, "Tu Tsong"), the Queen (Empress Dowager Xie, "Siechi"), the child emperor Gong ("Chaohien"), Kublai (the Kaan), Litan (Li Tan), Aguil and Mongotay, Hulagu (mentioned), Marco Polo, Rustichello; traveller discussed: Odoric
+
+## Gated by spikes
+- S-01 Voice standard
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (★★★, Gazetteer label)
+- S-04 Gazetteer authority and naming policy (Changlu, Cacanfu, missing rows)
+- S-05 Character registry (Bayan, Xie, Gong in hero; Song ruler names)
+- S-06 Fact verification sheet (Bayan 1268 vs 1273–74; epigraph wording)
+- S-08 LaTeX build pipeline (plate, map, timeline)
+- S-09 Map and diagram pipeline (A12, B4; unassigned canal/salt diagrams)
+- S-10 Image generation pilot (GEN hero)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `II-10.T1` Factual fixes (Bayan date, epigraph)
+- `II-10.T2` Chronology moved to aside / Note [12]
+- `II-10.T3` Re-voice to the S-01 standard (first-person lines, instruction, beat-list, N2)
+- `II-10.T4` Notes and apparatus normalisation
+- `II-10.T5` Media placement (hero, A12, B4)
+- `II-10.T6` Lint pass and human voice read

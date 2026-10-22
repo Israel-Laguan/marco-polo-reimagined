@@ -25,7 +25,7 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 | Book-voice first person outside quotation marks ("I tell you", "I will", "we will quit") | 0 |
 | Archaisms outside quotation marks (hath, 'tis, wot, natheless, trowed, gat, fain, wist, existeth…) | 0 |
 | "Anyway" / "Marco Polo (starts by) narrat…" / "Here the asides have to be honest" | ≤ 1 / ≤ 1 / 0 |
-| Scaffolding: `Soft \w+:`, `/workspace`, `outline`, `drafter`, `SERIES-STATUS`, `placeholder`, `dispute hook`, `Gazetteer: *visited*` | 0 |
+| Scaffolding: `Soft \w+:`, `/workspace`, `outline`, `drafter`, `SERIES-STATUS`, `placeholder`, `dispute hook`, gazetteer reliability labels in Notes (any case; *visited* / *likely_visited* / *uncertain* / *reported_only*) | 0 |
 | Citation integrity (body ↔ Notes 1:1, sequential) | pass |
 | Epigraph and quotation verification (string found in `refs/`) | pass, or marked *(adapted)* |
 | Markers in Notes limited to ✓ ~ ✗ ◇ ? (no ★) | pass |

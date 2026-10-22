@@ -1,0 +1,61 @@
+# II-08 — Mien and Bangala: Elephants, Battle, Towers of Gold and Silver
+
+**File:** `vol-2/ch-08-mien-bangala.md` · **Status:** backlog · **Kind:** narrative
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 2,909 | 77% | [R/M] (undefined) | ok (11/11); "Gazetteer:" tooling in [1] | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit.
+
+### Critical
+- **[C]** Near-transcription of Yule: 77%; "Battle is near-verbatim Yule". Example :29 "Then might you see swashing blows dealt and taken from sword and mace… God might have thundered". The battle is named among the catalogue passages to turn "into modern storyteller summary". Scorecard: 9 hinges, "You must know" ×4. — vol-2 C2, §3 · ch-08:29
+
+### Factual / fidelity
+- **[m]** Unflagged marvel: "great woods abounding in elephants and unicorns" has no gloss. Fix: add "(rhinoceroses, as Polo himself later realises in Java)" or move it to a Note. — vol-2 m5 · ch-08:37
+
+### Dispute handling and Ramusio flags
+- — none found (scorecard: "good Yuan/Burmese synchronism")
+
+### Voice and prose
+- **[m]** Clunky: "The ponies of the Mongol host, pitched and tied among the trees when the elephant-towers unhorsed the charge, become in the telling the hinge…" is hard to parse, and the camel digression answers an outline error, not the text. Fix: "The hinge of the day is the Tartars' choice to dismount and fight as archers; the elephants broke under the arrows, not under any trick of camels." — vol-2 m6 · ch-08:33
+- **[M]** Outline-beat list pasted as the closing paragraph ("what Book II.li–lv promised after Zardandan:"). Fix: one forward-looking sentence, or nothing. — vol-2 M3, M4 · ch-08:51; content plan W1.3
+- **[M]** Aside-exit tic "Anyway, next he mentions X"; cap one per chapter, vary exits. Grep count of "Anyway" in file: 1. — vol-2 M4 · ch-08 (whole)
+
+### Notes and apparatus
+- **[M]** Note [1] leaks tooling ("Gazetteer: Mien *reported_only*"). — vol-2 M3 · ch-08:57
+- **[m]** Tag [R/M] undefined (README and outline define only [V], [R], [M]). Fix: use [M] with a one-line gloss, or define compounds in front-01. — vol-2 m10 · ch-08:7
+
+### Naming and gazetteer
+- **[M]** No modern gloss on first mention for Vochan, Mien (never glossed as Burma), Bangala. Fix: e.g. "Mien (Burma)". — vol-2 M11 · ch-08 (first mentions)
+- **[M]** No gazetteer row for Vochan (also named in ch-07); blocks map A11. — vol-2 M11
+
+### Length and structure
+- W4 re-voice order: Vol. II batch position 2 of 14 after the II-2 pilot. — content plan W4
+
+## Media hooks
+- **Hero plate:** Battle of Vochan: dismounted archers vs war elephants — GEN, **Pagan temple murals**, landscape 4:3; must get right: howdah castles breaking into the trees, dozens of elephants not 2,000; caption: numbers inflated — see `illustration-plan.md`. Anchor ch-08:25 (1277 Yongchang plain).
+- **Secondary plates:** none in the plan's secondary list. Critique §4 candidates: Pagan towers (:41; gilded brick stupas with *hti* bell-canopies; plating "a finger thick" is rhetoric); gold-for-silver market on the long descent (:35).
+- **Maps:** A11 South-west circuit (II-7 – II-9).
+- **Timelines / diagrams / tables:** C9 Gold : silver ratio gradient (II-7 / II-8; Vochan descent 1:5); D table II-8 Mien battle numbers (2,000 vs about 800 elephants, 12,000 vs about 700 men, 1272 vs 1277).
+- **Characters appearing:** Kublai (the Kaan), Nescradin (Nasruddin), Sentemur (Esen-Temür), the King of Mien (Narathihapade in the file; Narathihapate), Prince Singtur, Marco Polo
+
+## Gated by spikes
+- S-01 Voice standard
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (compound tag, Gazetteer label)
+- S-04 Gazetteer authority and naming policy (glosses, Vochan row)
+- S-06 Fact verification sheet (unicorn gloss)
+- S-08 LaTeX build pipeline (plate, map, chart, D table)
+- S-09 Map and diagram pipeline (A11, C9)
+- S-10 Image generation pilot (GEN hero)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `II-08.T1` Factual fix (unicorn gloss)
+- `II-08.T3` Re-voice to the S-01 standard (battle set-piece to summary; m6; beat-list removal; body glosses)
+- `II-08.T4` Notes and apparatus normalisation (tag)
+- `II-08.T5` Media placement (hero, A11, C9, Mien table)
+- `II-08.T6` Lint pass and human voice read
