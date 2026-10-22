@@ -61,7 +61,7 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 ## Notes
 
-[1] Companion framing only — not a chapter of *Il Milione*. Historical context drawn from standard Yule–Cordier introductions, Larner’s reception history, and Mongol-empire surveys (Morgan; Rossabi; Allsen).
+[1] Companion framing only — not a chapter of *Il Milione*. Historical context drawn from standard Yule–Cordier introductions, Larner’s [-@larner1999marco] reception history, and Mongol-empire surveys (Morgan [-@morgan1986mongols]; Rossabi [-@rossabi1988khubilai]; Allsen).
 
 [2] ✓ Latin Mediterranean trade system mid-13th c.; Acre as Crusader port until 1291; Latin Empire of Constantinople ends 1261. Soldaia as Venetian/Crimean node corroborated by later Polo family property notices.
 

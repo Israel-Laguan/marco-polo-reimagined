@@ -78,4 +78,4 @@ Thus the Venetian itinerary has brought the reader from jade country across the 
 
 [16] ~ / ◇ Maffeo and Marco spent a year at Campichu on a mission. Textual variants (with/without Nicolo; “legation” vs private business); not independently confirmed.
 
-[17] ✓ (silence) / ? (import) Great Wall never named though Suhchau sits just within its NW angle and Campichu commands the Hexi Corridor. ✓ Textual silence real. ? Whether silence undermines presence — Frances Wood, *Did Marco Polo Go to China?*, vs replies (de Rachewiltz; Haw; Larner; Vogel). Planted here; fuller essay in Vol. III.
+[17] ✓ (silence) / ? (import) Great Wall never named though Suhchau sits just within its NW angle and Campichu commands the Hexi Corridor. ✓ Textual silence real. ? Whether silence undermines presence — Frances Wood [-@wood1995did], vs replies [@derachewiltz1997marco; @haw2006marco; @larner1999marco; @vogel2013marco]. Planted here; fuller essay in Vol. III.

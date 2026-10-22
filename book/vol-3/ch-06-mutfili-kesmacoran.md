@@ -112,4 +112,4 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [24] ★ Dispute: Somnath “gates” — later communal mythography (Ellenborough); keep medieval port scale. Outside Polo’s narrative; Notes only.
 
-[25] ✓ Kesmacoran = Kij-Makran; last of India west/northwest. Mixed Idolater/Saracen traders; rice, corn, flesh, milk. ✓ Greater India = Maabar–Kesmacoran seaboard (Book’s own definition). ✓ Interior kingdoms omitted deliberately. Soft close toward Male/Female Isles (III-7). Comparative: Yule–Cordier III.xix–xxx; Rashid; Wassaf; Ibn Battuta; Abulfeda; Barbosa; Conti; Caldwell on Kāyal; al-Bīrūnī; Ma Huan (later Ming); Vogel trade notes.
+[25] ✓ Kesmacoran = Kij-Makran; last of India west/northwest. Mixed Idolater/Saracen traders; rice, corn, flesh, milk. ✓ Greater India = Maabar–Kesmacoran seaboard (Book’s own definition). ✓ Interior kingdoms omitted deliberately. Soft close toward Male/Female Isles (III-7). Comparative: Yule–Cordier III.xix–xxx; Rashid; Wassaf; Ibn Battuta; Abulfeda; Barbosa; Conti; Caldwell on Kāyal; al-Bīrūnī; Ma Huan (later Ming); Vogel [-@vogel2013marco] trade notes.

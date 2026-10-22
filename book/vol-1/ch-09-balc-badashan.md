@@ -80,4 +80,4 @@ Now we will quit this country, and not go any further in the same direction; for
 
 [15] ~ / ◇ Eremites, abbeys; bloodless diet with Saracen butchers. ~ Buddhist/ascetic residue and Muslim neighbours plausible; ◇ vitality overstated for late 1200s. ✓ / ~ Coral from “our parts” sells best in Kashmir: long-distance coral demand in Inner Asia / India well known.
 
-[16] Dispute stance: autopsy vs circulating lore for Kashmir; Pashai ID still argued; Alexandrian prestige genealogy and Oxus lions as visible hooks. Comparative: Wood; Mirza Haidar; Buddhist histories of Kashmir; Rockhill; Xuanzang sparingly; Yule on dialects; Stephen Haw. Stop at return to Badashan; Pamier waits for I-10.
+[16] Dispute stance: autopsy vs circulating lore for Kashmir; Pashai ID still argued; Alexandrian prestige genealogy and Oxus lions as visible hooks. Comparative: Wood; Mirza Haidar; Buddhist histories of Kashmir; Rockhill; Xuanzang sparingly; Yule on dialects; Stephen Haw [-@haw2006marco]. Stop at return to Badashan; Pamier waits for I-10.

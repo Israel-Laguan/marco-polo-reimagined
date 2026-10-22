@@ -70,7 +70,7 @@ Thus Book III opens Volume III’s arc. The junks of Manzi — watertight rooms,
 
 [10] ✗ / ? Survivors seize Japanese ships and take the capital by false banners; hold seven months; year 1279; both generals executed. Yule rejects capital occupation; Japanese sources: slaughter/enslavement. Date compresses (historical climax 1281; earlier probe 1274). ~ / ◇ court-punishment motifs for the generals.
 
-[11] ★★ Polo vs Japanese/Chinese sources: storm = *kamikaze* typhoon tradition; capital ruse and 1279 dating contested. Comparative: Titsingh; Gaubil; De Mailla; *Yuan shi*; Rossabi on Kublai.
+[11] ★★ Polo vs Japanese/Chinese sources: storm = *kamikaze* typhoon tradition; capital ruse and 1279 dating contested. Comparative: Titsingh; Gaubil; De Mailla; *Yuan shi*; Rossabi [-@rossabi1988khubilai] on Kublai.
 
 [12] ◇ Charm-stones under skin make wearers proof against steel. Widespread amulet practice (Odoric, Conti, Burma gold pellets); wonder framing.
 

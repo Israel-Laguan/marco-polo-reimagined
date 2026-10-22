@@ -98,10 +98,10 @@ Now we will quit this city and speak of others. [9]
 
 [5] ✓ paved Manzi streets; gravel mid-lane; drains. ✓ / ✗ ~3,000 baths — numerous public baths; ✗ Ramusio cold-bath ethnography vs Geographic hot. ✓ / ~ Ganfu = Kanp’u; India trade haven ~25 mi — ID firm; estuary morphology changed. ~ Manzi in 9 kingdoms; Kinsay rules 140 cities. ✗ / ~ >1,200 cities each garrisoned — ✗ if literal census; ~ dense garrison system real.
 
-[6] ✓ nativity astrology before journeys. ✓ cremation; hemp mourning; paper/parchment offerings. ✓ / ✗ Sung palace 10-mi demesne; 20 gold halls; 1,000 chambers — palace on Phoenix Hill real (Moule); dimensions/marvel counts exaggerated. ✗ 1,600,000 houses (160 tomans) — formulaic. ~ one Nestorian church. ✓ door name-tickets; hostel registers (*pao-chia*-type).
+[6] ✓ nativity astrology before journeys. ✓ cremation; hemp mourning; paper/parchment offerings. ✓ / ✗ Sung palace 10-mi demesne; 20 gold halls; 1,000 chambers — palace on Phoenix Hill real (Moule [-@moule1957quinsai]); dimensions/marvel counts exaggerated. ✗ 1,600,000 houses (160 tomans) — formulaic. ~ one Nestorian church. ✓ door name-tickets; hostel registers (*pao-chia*-type).
 
-[7] ◇ / ✓ Ramusio markets, barges, carriages — ◇ as Ramusio-only block; ✓ lake parties and soft Sung court in Chinese sources (*Mengliang lu*; Gernet). ✗ / ? pork omitted from market meats — silence vs Odoric swine and Chinese staple. ✗ / ? pepper 43 loads × 223 lb / day — ✗ as precise daily consumption; ? customs gossip / wonder arithmetic.
+[7] ◇ / ✓ Ramusio markets, barges, carriages — ◇ as Ramusio-only block; ✓ lake parties and soft Sung court in Chinese sources (*Mengliang lu*; Gernet [-@gernet1962daily]). ✗ / ? pork omitted from market meats — silence vs Odoric swine and Chinese staple. ✗ / ? pepper 43 loads × 223 lb / day — ✗ as precise daily consumption; ? customs gossip / wonder arithmetic.
 
 [8] ◇ Facfur palace tour via rich old merchant — Ramusio guide’s romance; outer pavilions kept for Kaan’s king, ladies’ courts ruined — plausible decay colour over soft Sung court kernel.
 
-[9] ✗ / ~ salt revenue 80 tomans; non-salt 210 tomans gold — ✗ as gold; ~ fiscal enormity of Kiang-Ché salt/silk if paper/*ting* (Vogel). ? / ◇ Marco officially sent to inspect — Pauthier yes; G.T. only “heard the count.” Comparative: Odoric Cansay; Ibn Baṭṭūṭa Khansá; Wassáf Khanzai; Marignolli Campsay; Martini; *Mengliang lu*.
+[9] ✗ / ~ salt revenue 80 tomans; non-salt 210 tomans gold — ✗ as gold; ~ fiscal enormity of Kiang-Ché salt/silk if paper/*ting* (Vogel [-@vogel2013marco]). ? / ◇ Marco officially sent to inspect — Pauthier yes; G.T. only “heard the count.” Comparative: Odoric Cansay; Ibn Baṭṭūṭa Khansá; Wassáf Khanzai; Marignolli Campsay; Martini; *Mengliang lu*.

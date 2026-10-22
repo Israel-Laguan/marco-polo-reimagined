@@ -88,4 +88,4 @@ Thus the Ordo of Victory closes into the machinery of favour. A rebel wrapped wi
 
 [18] ✓ / ~ Sun-and-moon tablet; golden umbrella; silver chair; gerfalcon tablet conferring full requisition. ✓ High *paiza* powers and umbrella honour pan-Asiatic (Carpini; Chinese *Wan min sàn*; Burma etiquette); ~ absolute phrasing (“even a king’s horses”).
 
-[19] ~ / ? Polo’s battle narrative vs Chinese campaign records. Shared: personal command, Nayan’s defeat, NE theatre. Diverge on scale, date, religious drama, sequel (Hatan). Comparative: *Yuan Shi*; Rashīd al-Dīn on Kaidu front; Rossabi, *Khubilai Khan*; Hsiao Ch’i-ch’ing on Yuan military institutions; Yule App. on Nayan; Larner on romance battle diction.
+[19] ~ / ? Polo’s battle narrative vs Chinese campaign records. Shared: personal command, Nayan’s defeat, NE theatre. Diverge on scale, date, religious drama, sequel (Hatan). Comparative: *Yuan Shi*; Rashīd al-Dīn on Kaidu front; Rossabi [-@rossabi1988khubilai]; Hsiao Ch’i-ch’ing on Yuan military institutions; Yule App. on Nayan; Larner [-@larner1999marco] on romance battle diction.

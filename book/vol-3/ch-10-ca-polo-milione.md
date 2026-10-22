@@ -62,7 +62,7 @@ Thus reception closes the travellers’ lives without closing the Traveller’s 
 
 [9] ✓ Cepoy gift of a Book-copy, Aug 1307 — MS colophon note on Paris Fr. 5649 and Bern; treaty context 14 Dec 1306 (Thibault de Cepoy + Pierre le Riche, Valois envoys). ★★★ Rare documentary stem of early French transmission: Venice → Cepoy → son Jean → Valois → friends.
 
-[10] ✓ / ~ Pipino Latin version in Marco’s later lifetime (~1315–20 in Ramusio’s assignment) — ✓ translation and clerical spread; ~ exact year. Preface affirms faith and utility vs incredulous; Chronicle uses Polo; Modena extract names Marcus Paulus ~27 years among Tartars. ✓ Villani cites *Milione* beside Hayton. ✓ Medieval readership wide but not ubiquitous (Larner caution) — named 14th-c. refs finite (Cepoy, Pipino, Jacopo, Villani, d’Abano, John of Ypres); MS geography real; print-age inflation to be resisted.
+[10] ✓ / ~ Pipino Latin version in Marco’s later lifetime (~1315–20 in Ramusio’s assignment) — ✓ translation and clerical spread; ~ exact year. Preface affirms faith and utility vs incredulous; Chronicle uses Polo; Modena extract names Marcus Paulus ~27 years among Tartars. ✓ Villani cites *Milione* beside Hayton. ✓ Medieval readership wide but not ubiquitous (Larner [-@larner1999marco] caution) — named 14th-c. refs finite (Cepoy, Pipino, Jacopo, Villani, d’Abano, John of Ypres); MS geography real; print-age inflation to be resisted.
 
 [11] ✓ / ~ Pietro d’Abano personally knew Marco; Antarctic “star as big as a sack” / tailed figure sketched; pole altitude; camphor, aloes, brazil; intense heat — spoken of an island reached by sea (cross-ref Vol. III southern ocean). ✓ passage genuine; ~ astronomical identification of the “star” (Canopus / Magellanic wonder).
 

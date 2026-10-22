@@ -68,7 +68,7 @@ Now that the Book has told of the customs and naughty ways of that people, it wi
 
 [6] ◇ / ~ Door-token hospitality custom in Caindu. Parallel to Camul (Bk I); ascribed widely.
 
-[7] ✓ Salt cakes (~½ lb moulds); 80 = 1 *saggio* gold; stamped; hill arbitrage. ★★★ Vogel; Garnier; Hosie at Pai-yen-ching; Ramusian colour fits practice. Central presence argument.
+[7] ✓ Salt cakes (~½ lb moulds); 80 = 1 *saggio* gold; stamped; hill arbitrage. ★★★ Vogel [-@vogel2013marco]; Garnier; Hosie at Pai-yen-ching; Ramusian colour fits practice. Central presence argument.
 
 [8] ✓ / ~ Spiced wine; “clove”/cassia; ginger; cinnamon; musk; River Brius = Jinsha (Kin-sha Kiang / “Golden Sands”). ✓ Cassia of Kien-ch’ang (Richthofen; Gill); Brius ID firm. ~ “Clove” name.
 

@@ -56,7 +56,7 @@ Now, says the book, let us go back to our journey. Beyond Tonocain the road will
 
 [7] ✓ Mulehet = country of the *Mulāḥidah* (Ismā‘īlī “heretics”). Standard medieval Muslim epithet (Yule); not a corruption of Alamūt as toponym. Book explicitly frames as hearsay (“heard from several natives”). Gazetteer: Old Man / Alamūt *reported_only*.
 
-[8] ◇ / ~ / ✗ Old Man Aloadin; paradise garden fashioned after Mahommet’s Paradise. ◇ Widespread legend (Latin, Chinese, Arabic parallels; Odoric echo); ~ real fortress culture of the Nizārīs; ✗ if garden-as-erotic-paradise taken as institutional fact. Crusader stereotype vs Ismā‘īlī history (Juvainī; Rashīd al-Dīn; Farhad Daftary).
+[8] ◇ / ~ / ✗ Old Man Aloadin; paradise garden fashioned after Mahommet’s Paradise. ◇ Widespread legend (Latin, Chinese, Arabic parallels; Odoric echo); ~ real fortress culture of the Nizārīs; ✗ if garden-as-erotic-paradise taken as institutional fact. Crusader stereotype vs Ismā‘īlī history (Juvainī; Rashīd al-Dīn; Farhad Daftary [-@daftary1990ismailis]).
 
 [9] ◇ / ~ Ashishin (*ḥashīshīn*) admitted only; fortress entrance; youths 12–20; potion-sleep; awakening in Garden. ~ Real *fidā’ī* devotion; ◇ hashish etymology (de Sacy) behind Assassin; Crusader title Old Man of the Mountain = *Shaikh al-Jibāl*.
 
@@ -66,4 +66,4 @@ Now, says the book, let us go back to our journey. Beyond Tonocain the road will
 
 [12] ✓ / ~ / ✗ Alau (Hulagu) destroys Old Man; three-year siege; garden levelled; no successor. ✓ Mongol destruction of Nizārī power mid-1250s (Kitbuqa; Rukn al-Dīn’s surrender 1256; Alamūt taken; Girdkūh prolonged); ~ siege length compressed; ✗ Polo’s year-dates (1252/1262); ✗ absolute extinction (“no successor”)—sect survived obscurely.
 
-[13] ✗ Marco personally visited Alamūt / the Garden. Book presents hearsay; Alamūt far from likely Cobinan–Tonocain road. ~ / ? Report gathered while travelling that corridor: plausible regional hearsay; exact informants unknown. Comparative: Juvainī; Rashīd al-Dīn; Daftary on Nizārīs; Yule’s long Assassin and Arbre Sec notes; Sykes / Curzon / Houtum-Schindler on Lūt and Tun-o-Kain.
+[13] ✗ Marco personally visited Alamūt / the Garden. Book presents hearsay; Alamūt far from likely Cobinan–Tonocain road. ~ / ? Report gathered while travelling that corridor: plausible regional hearsay; exact informants unknown. Comparative: Juvainī; Rashīd al-Dīn; Daftary [-@daftary1990ismailis] on Nizārīs; Yule’s long Assassin and Arbre Sec notes; Sykes / Curzon / Houtum-Schindler on Lūt and Tun-o-Kain.

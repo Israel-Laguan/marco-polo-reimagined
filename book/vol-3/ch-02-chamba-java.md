@@ -48,7 +48,7 @@ Soft close here: Chamba’s elephants and claimed year; Java’s overstated circ
 
 [3] ✓ / ~ Yuan pressure / Sagatu (Sotu) campaign and Champa submission motif. ✓ Sotu and Chen-ching in Chinese record; ~ Polo’s 1278 pity-tale compresses harder wars. ✓ / ~ annual tribute of elephants (twenty finest) — elephant wealth real; neat figure soft.
 
-[4] Comparative: Yuan–Champa war records; Gaubil; Wolters; Hall; Aymonier on Chams. Polo’s neat vassalage vs bruising frontier (prince’s resistance 1282; branding of officials; Tughan’s Tong-king advance).
+[4] Comparative: Yuan–Champa war records; Gaubil; Wolters [-@wolters1967early]; Hall [-@hall1985maritime]; Aymonier on Chams. Polo’s neat vassalage vs bruising frontier (prince’s resistance 1282; branding of officials; Tughan’s Tong-king advance).
 
 [5] ~ / ? Marco personally in Champa in 1285 (MSS also 1280 / 1288). Book asserts presence; return or Indian-seas mission plausible. ◇ / ~ 326 royal children (150+ warriors) — stock marvel; Odoric’s “good two hundred” same type. ✓ lignaloes abundant in Champa (classic eagle-wood seat). ✓ / ~ *bonus* = ebony (Pers. *abnūs*); chessmen and pen-cases (~ *ḳalamdān*).
 
@@ -66,4 +66,4 @@ Soft close here: Chamba’s elephants and claimed year; Java’s overstated circ
 
 [12] ✓ Pentam = Bintan at eastern Malacca Strait approaches. ✓ Shallow ~60-mile channel; junks lift rudders — Singapore Strait depths and Chinese rudder practice. ~ / ? Malaiur a fine spice-trading kingdom/city near the strait — Malay trade centre real; ? Palembang vs Singapore-orbit vs other. ✗ Malacca as Malaiur — city not yet founded in Polo’s years.
 
-[13] Soft close toward Java the Less (Sumatra); monsoon delay as return logic for III-9. Comparative: Yule–Cordier III.v–viii; Groeneveldt; Odoric; Conti; Ma Huan / *Daooyi zhilue*; Ibn Battuta (later Samudra); Wolters; Hall; Moule–Pelliot.
+[13] Soft close toward Java the Less (Sumatra); monsoon delay as return logic for III-9. Comparative: Yule–Cordier III.v–viii; Groeneveldt; Odoric; Conti; Ma Huan / *Daooyi zhilue*; Ibn Battuta (later Samudra); Wolters [-@wolters1967early]; Hall [-@hall1985maritime]; Moule–Pelliot [-@moule1938description].

@@ -76,4 +76,4 @@ Thus the Gulf chapter closes not with embarkation but with refusal. The ships ar
 
 [15] ✓ Explicit refusal of sea route; return inland via Kerman toward Cobinan (Book’s own narrative hinge, I.xix→xx). Hot baths, bitter bread, cheap victual on the return road.
 
-[16] ? Marco personally at Hormuz on the *outbound* journey. Classic route problem: outbound, return, or both—Book sequence ≠ settled biography. Gazetteer records both outbound abortive sea plan and return landfall from India. Comparative: Ibn Baṭṭūṭa and later Gulf visitors confirm heat, date culture, and sewn shipping; Yule’s Kerman–Hormuz itinerary maps; Haw on Persian segments; Vogel on trade metrology.
+[16] ? Marco personally at Hormuz on the *outbound* journey. Classic route problem: outbound, return, or both—Book sequence ≠ settled biography. Gazetteer records both outbound abortive sea plan and return landfall from India. Comparative: Ibn Baṭṭūṭa and later Gulf visitors confirm heat, date culture, and sewn shipping; Yule’s Kerman–Hormuz itinerary maps; Haw [-@haw2006marco] on Persian segments; Vogel [-@vogel2013marco] on trade metrology.

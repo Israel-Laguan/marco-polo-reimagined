@@ -59,7 +59,7 @@ You are entering a world where a Venetian could watch a Mongol emperor feast in 
 
 [1] Companion context for Volume II; not a substitute for chs. II-1–II-15 narrative.
 
-[2] ✓ Yuan proclamation 1271; Kublai as Qa’an / emperor — standard; Rossabi biography; Allsen on Mongol commodity and personnel networks.
+[2] ✓ Yuan proclamation 1271; Kublai as Qa’an / emperor — standard; Rossabi [-@rossabi1988khubilai] biography; Allsen [-@allsen1997commodity] on Mongol commodity and personnel networks.
 
 [3] ✓ Shangdu and Dadu (Khanbaliq) as dual capitals — archaeology and Yuan geography; Polo’s Ciandu / Cambaluc.
 

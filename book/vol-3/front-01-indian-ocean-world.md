@@ -50,7 +50,7 @@ The road became a sea-road. The sea-road, under a princess’s commission, becam
 
 [1] Companion framing for Volume III maritime half; narrative remains in chs. III-1–III-9.
 
-[2] ✓ Monsoon sailing constraints — standard Indian Ocean history (Hall; Chaudhuri; maritime archaeology overviews); Polo’s Sumatran winter wait fits the pattern.
+[2] ✓ Monsoon sailing constraints — standard Indian Ocean history (Hall [-@hall1985maritime]; Chaudhuri [-@chaudhuri1985trade]; maritime archaeology overviews); Polo’s Sumatran winter wait fits the pattern.
 
 [3] Gazetteer volume=3; many maritime rows tagged reported_only or uncertain by design.
 

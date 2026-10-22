@@ -72,6 +72,6 @@ Here the chapter stops short of the hunt and the litter and the traffic of a mil
 
 [13] ✓ / ~ Camut / Borgal boots with silver thread. ✓ Russia-leather / shagreen boot culture (*kāmū* / *kimukht*; Bolghar Russia-leather; Ibn Baṭṭūṭa; Kazan trade); ~ every-man issue. ✓ / ~ Emperor and Keshican share feast colour as “comrades”: matches Rubruck/Carpini colour-day solidarity. Calling all 12,000 “Barons” is status inflation.
 
-[14] ? / ~ Unchained “lion” venerates Emperor at feast. Trained big-cat display plausible; “lion” often = tiger in Latin travellers’ usage (Book’s hunt chapters; Allsen). Soft landing to II-4: hunt, litter, suburbs, fondaco.
+[14] ? / ~ Unchained “lion” venerates Emperor at feast. Trained big-cat display plausible; “lion” often = tiger in Latin travellers’ usage (Book’s hunt chapters; Allsen [-@allsen2006royal]). Soft landing to II-4: hunt, litter, suburbs, fondaco.
 
-[15] ★★★ Etiquette details among Polo’s best “I was there” textures—independently multiply attested. Comparative: Rubruck; Plano Carpini; Odoric; Rashīd al-Dīn; Wassáf; Yuan ceremonial codes / *Yuan shi*; Palladius; Gaubil; De Mailla; Elverskog on Mongol ritual; Allsen; Rossabi; Yule on *vernique* / *camut*; Shah Rukh embassy (Ming contrast on white).
+[15] ★★★ Etiquette details among Polo’s best “I was there” textures—independently multiply attested. Comparative: Rubruck; Plano Carpini; Odoric; Rashīd al-Dīn; Wassáf; Yuan ceremonial codes / *Yuan shi*; Palladius; Gaubil; De Mailla; Elverskog on Mongol ritual; Allsen; Rossabi [-@rossabi1988khubilai]; Yule on *vernique* / *camut*; Shah Rukh embassy (Ming contrast on white).

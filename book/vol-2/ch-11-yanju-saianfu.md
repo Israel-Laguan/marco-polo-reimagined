@@ -62,7 +62,7 @@ Thus the twin cities at the Han’s hinge fall in the Book’s telling as an epi
 
 [4] ✓ Yanju = Yang-chau (Yangzhou); commercial/military importance; harness; garrison. ~ “27” cities formulaic. ~ brief early *Sing* / later *Lu*; ✗ if read as lasting provincial *Sing* under a Polo baron. Odoric later: Franciscan house + 3 Nestorian churches; Catalan Map *Iangio*.
 
-[5] ? Marco Polo governed Yanju three full years. ★★★ contested. MS variants: G.T. *seingneurie… trois anz*; MS C / Bern *séjourna… iii ans*; Ramusio *governo… in luogo di un dei detti Baroni* (likely gloss). No Chinese confirmation. Narrower senses possible (*Lu* circuit head, salt/tax commission, temporary residency); Yule conjectured ~1282–1287/88. Central Wood debate target; de Rachewiltz / Haw / Vogel stress foreign service possible without Chinese biography. Not used here as proven office.
+[5] ? Marco Polo governed Yanju three full years. ★★★ contested. MS variants: G.T. *seingneurie… trois anz*; MS C / Bern *séjourna… iii ans*; Ramusio *governo… in luogo di un dei detti Baroni* (likely gloss). No Chinese confirmation. Narrower senses possible (*Lu* circuit head, salt/tax commission, temporary residency); Yule conjectured ~1282–1287/88. Central Wood [-@wood1995did] debate target; de Rachewiltz [-@derachewiltz1997marco] / Haw [-@haw2006marco] / Vogel [-@vogel2013marco] stress foreign service possible without Chinese biography. Not used here as proven office.
 
 [6] ✓ / ? Nanghin = Ngan-king (Anqing) on Yule/Pauthier reading; gazetteer Nanjing anachronistic for period name (then Jiankang). ✗ / ~ “lions” = tigers / fauna looseness. Silk province and duties plausible.
 

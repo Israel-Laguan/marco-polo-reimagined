@@ -60,8 +60,8 @@ If you want the long form, read III-11 and III-12. If you want the pocket form, 
 
 [4] Gazetteer volume=3 reliability tags; chapter [V]/[R]/[M].
 
-[5] ✓ Columbus’s annotated Polo and westward project — standard reception history (Larner; III-11).
+[5] ✓ Columbus’s annotated Polo and westward project — standard reception history (Larner [-@larner1999marco]; III-11).
 
-[6] ? Wood (1995) vs answering literature — see III-12 for series method; no fabricated page cites here.
+[6] ? Wood [-@wood1995did] (1995) vs answering literature — see III-12 for series method; no fabricated page cites here.
 
 [7] ◇ Ramusio homecoming anecdotes — later embroidery relative to early French tradition (Yule already cautious).

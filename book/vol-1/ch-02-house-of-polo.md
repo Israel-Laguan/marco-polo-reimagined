@@ -54,7 +54,7 @@ The Great Kaan still waited for learned men and for oil of the Sepulchre. Christ
 
 [2] ~ Niccolò & Maffeo leave Constantinople with jewels for Soldaia c. 1260. Prologue tradition; Baldwin’s reign fits the corrected date.
 
-[3] ✗ / ~ Manuscript “1250” for the crossing cannot stand beside 1269 return and Marco aged fifteen. Yule’s corrected ~1260 is the working chronology; Stephen G. Haw and others press for tighter Ilkhanid/Yuan synchronisms.
+[3] ✗ / ~ Manuscript “1250” for the crossing cannot stand beside 1269 return and Marco aged fifteen. Yule’s corrected ~1260 is the working chronology; Stephen G. Haw [-@haw2006marco] and others press for tighter Ilkhanid/Yuan synchronisms.
 
 [4] ~ / ◇ Sojourn at Barca’s (Berke’s) court at Sarai / Bolghar; honourable exchange of jewels. Court and prince historical; hospitality narrative is book tradition. Barca = Berke of Kipchak.
 

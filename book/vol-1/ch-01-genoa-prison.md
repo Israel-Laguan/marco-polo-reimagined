@@ -62,7 +62,7 @@ When Marco Polo walked free again, the Republic’s pride was bruised but its po
 
 [6] ✓ Arrival of the Genoese fleet in Genoa, 16 Oct. 1298; public celebration. Prisoners’ treatment disputed between Genoese and Venetian tellings — not central to the book’s origin claim.
 
-[7] ✓ / ~ Rustichello = Arthurian compiler “Maistre Rusticien de Pise.” Shared unusual preamble formula (*Seigneurs Empereurs et Princes…*); consensus of Paulin Paris, Yule, Benedetto, later editors. Meloria captivity since 1284: ~ fair conjecture only, not proven.
+[7] ✓ / ~ Rustichello = Arthurian compiler “Maistre Rusticien de Pise.” Shared unusual preamble formula (*Seigneurs Empereurs et Princes…*); consensus of Paulin Paris, Yule, Benedetto [-@benedetto1928milione], later editors. Meloria captivity since 1284: ~ fair conjecture only, not proven.
 
 [8] ✓ Dictation language: court French / Franco-Italian romance register of the early tradition. Not Venetian dialect.
 
@@ -72,10 +72,10 @@ When Marco Polo walked free again, the Republic’s pride was bruised but its po
 
 [11] ~ / ◇ “Never since Adam” unequalled knowledge; twenty-six years in the East. Conventional amplification and book rhetoric as well as rough biography; years approximately fit tradition of departure and return.
 
-[12] ~ / ? Prison collaboration inventing a literary traveller-*persona*. Widely argued (Larner, *Marco Polo and the Discovery of the World*, and others); extent disputed. Does not by itself prove fabrication of itinerary. Romance diction can colour marvels and set-pieces even where the underlying notice is mercantile.
+[12] ~ / ? Prison collaboration inventing a literary traveller-*persona*. Widely argued (Larner [-@larner1999marco], and others); extent disputed. Does not by itself prove fabrication of itinerary. Romance diction can colour marvels and set-pieces even where the underlying notice is mercantile.
 
 [13] ✓ Peace of May–July 1299; mutual release of prisoners (diplomatic record). ~ Polo free by end of August 1299, back at S. Giovanni Grisostomo — reasonable inference from ratification dates; exact day unknown. Rustichello among Pisan releases after 31 July 1299 truce: inference.
 
 [14] ✗ Ramusio’s kindly Genoese gentleman as historical helper — likely patriotic distortion of the Pisan scribe. ✓ Early circulation in Polo’s lifetime: MS tradition, Pipino’s Latin, notices such as Jacopo’s (including the deathbed anecdote that he had not told half of what he had seen — reception history, not stenography).
 
-[15] ? Recoverability of a pure 1298–99 French original. Early French recoverable in types (Benedetto; Moule–Pelliot; Dutschke on MS tradition); “the” autograph dictation not extant. This retelling follows Yule–Cordier English as working base, eclectic toward the Geographic Old French line; Ramusian expansions secondary unless noted.
+[15] ? Recoverability of a pure 1298–99 French original. Early French recoverable in types (Benedetto [-@benedetto1928milione]; Moule–Pelliot [-@moule1938description]; Dutschke [-@dutschke1993francesco] on MS tradition); “the” autograph dictation not extant. This retelling follows Yule–Cordier English as working base, eclectic toward the Geographic Old French line; Ramusian expansions secondary unless noted.

@@ -62,9 +62,9 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 [1] Companion back matter for Volume I only; disputes synthesise flags already used in chs. I-1–I-13 Notes.
 
-[2] ✓ Manuscript family typology — Benedetto; Moule–Pelliot; Yule–Cordier introductions. Working base: Yule–Cordier, Geographic Old French lean.
+[2] ✓ Manuscript family typology — Benedetto [-@benedetto1928milione]; Moule–Pelliot [-@moule1938description]; Yule–Cordier introductions. Working base: Yule–Cordier, Geographic Old French lean.
 
-[3] ~ Rustichello collaboration — traditional; degree of literary shaping contested (Larner; modern textual scholarship).
+[3] ~ Rustichello collaboration — traditional; degree of literary shaping contested (Larner [-@larner1999marco]; modern textual scholarship).
 
 [4] ? Curzola capture — strong late tradition; operational particulars not independently documented like a muster roll.
 
@@ -78,6 +78,6 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 [9] ? Arbre Sec location — legendary landmark broadly NE Persian desert.
 
-[10] ? Great Wall silence — major modern debate (Wood vs Haw, Larner, de Rachewiltz, et al.); seeded here, argued later.
+[10] ? Great Wall silence — major modern debate (Wood [-@wood1995did] vs Haw [-@haw2006marco], Larner [-@larner1999marco], de Rachewiltz [-@derachewiltz1997marco], et al.); seeded here, argued later.
 
 [11] Gazetteer `/workspace/marco-polo/gazetteer.csv` volume=1 reliability tags.

@@ -62,7 +62,7 @@ Thus the House of Polo completed what the elder voyage had left unfinished — n
 
 [8] ? / ~ Outbound “three years and a half.” Unanimous textual claim; strained vs some seasonal/itinerary models. ~ Reconstructed route via Hormuz abort, Pamir, Tarim, Gobi to Tangut = Yule’s reading of Book I geography, not Prologue itinerary.
 
-[9] ? Chronology and presence debates. Yule: Acre start c. Nov. 1271, arrival Kai-ping fu c. May 1275. Haw and others press tighter synchronisms. Wood’s China-scepticism deferred to Vol. III essay.
+[9] ? Chronology and presence debates. Yule: Acre start c. Nov. 1271, arrival Kai-ping fu c. May 1275. Haw [-@haw2006marco] and others press tighter synchronisms. Wood’s [-@wood1995did] China-scepticism deferred to Vol. III essay.
 
 [10] ✓ Kemenfu = Kaipingfu / Shangdu summer court. Strong toponymic consensus (French *Clemeinfu*; Rashid al-Din’s *Kaiminfu*; later Shangdu / Xanadu). ~ / ◇ Escort sent 40 days out; honourable supply — fits *paiza* logistics; numbers are book rhetoric.
 
