@@ -20,7 +20,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Departure date: :27 follows Yule's "opening of 1292" without flagging the revision implied by the 1290 document. Fix: mark 1291 vs 1292 as debated (Yule 1292; Haw/Cleaves early 1291 **(unverified — check before printing)**). — vol-3 M1 · ch-09:27
 - Note [17]: "some argue 1296 to fit 'twenty-six years' absence from 1271" — 1271 + 26 = 1297, and the Prologue's "six-and-twenty years" is time spent in Asia, not total absence. — vol-3 n3 · ch-09:81
 - "In the fuller Ramusian expansion, word of their arrival went up from Hormos": Ramusio does not name Hormuz; "on landing at Hormuz" is Yule's inference (`yule-vol1.txt` note 6). — vol-3 n4 · ch-09:29
-- **[N]** (S-05) "died on the tenth of March in the year 1291": sources give 7 or 10 March 1291 for Argon's death; hedge ("in March 1291") unless S-14 settles it. — registry `arghun` · ch-09:29
+- **[N]** (S-05) "died on the tenth of March in the year 1291": **keep it.** 10 March 1291 is Yule's date and the conversion of 7 Rabīʿ I 690; the "7 March" in some modern summaries is the Hijri day-number misread (`research/results/CHR-people-2-intake.md`). The Book's "only Coja survived" has no Chinese or Persian confirmation: the 1290 Yongle dadian notice names the three envoys and 160 people but says nothing of survivors (Cleaves 1976, reported). Say it is the Book's claim. — registry `arghun`, `coja` · ch-09:29, :35
 
 ### Dispute handling and Ramusio flags
 - Builds on the Ramusian Samara stockade as fact ("Ditches and timber, rice and toddy… what III-3 told as a merchant's castaway wait"). Fix: mirror III-03's hedge (stockade and 2,000 men are Ramusio's; the five-month wait is in all versions). — vol-3 M7 · ch-09:25

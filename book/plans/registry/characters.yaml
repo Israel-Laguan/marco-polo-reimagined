@@ -27,10 +27,10 @@ people:
   gloss: ""
   born: 1254
   died: 1324
-  dates: "born 1254 by the received count (Venice; the Curzola/Korčula birth is modern legend); will dated 9 Jan 1324 (Venetian 1323 more veneto), dead by June 1325"
+  dates: "born 1254 by inference from the Book (no document); captured in a sea-fight with the Genoese (Jacopo d'Acqui), at Curzola 1298 by Ramusio's tradition, which Yule accepts (Jacopo's Ayas is impossible: that battle was May 1294); will 9 Jan 1324 (1323 m.v.); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024, seen)"
   group: polo
   role: "the traveller; in the Kaan's service 1275–91; dictated the Book in a Genoese prison, 1298–99"
-  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta; a 2022 find is said to add a daughter Agnese (b. 1295/99, d. 1319) from an earlier union (lead: S-15 to check)"
+  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta, and of Agnese (b. 1295–99, d. 1319, wife of Nicolò Calbo), known from her will of 7 July 1319 (ASVe, Notarile Testamenti, b. 830, n. 36; Bolognari 2021, reported, not seen)"
   book_says: []
   verify: [S-15]
   chapters: "I-F1;I-F2;I-01;I-02;I-03;I-04;I-05;I-06;I-07;I-08;I-09;I-10;I-11;I-12;I-13;I-B1;II-F1;II-F2;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-08;II-09;II-10;II-11;II-12;II-13;II-14;II-15;II-B1;III-F2;III-01;III-02;III-03;III-04;III-05;III-06;III-07;III-08;III-09;III-10;III-11;III-12;III-B1"
@@ -41,10 +41,10 @@ people:
   gloss: ""
   born: null
   died: 1300
-  dates: "birth unknown (an adult merchant in 1260, so before c. 1235); died between Feb and Aug 1300 (a lead; Yule: dead by 1300)"
+  dates: "birth unknown (an adult merchant in 1260, so before c. 1235); died before the end of 1300 (Yule; a lead: Feb–Aug 1300)"
   group: polo
   role: "Marco's father; with Maffeo on both journeys (1260–69, 1271–95)"
-  relations: "son of Andrea; father of Marco; his first wife (Marco's mother) died before 1269; remarried after 1269 (a lead names her Fiordelisa Trevisan; their son Maffeo made a will in Aug 1300); two illegitimate sons, Stefano and Giovannino (Zannino), by a Maria"
+  relations: "son of Andrea; father of Marco; Marco's mother died before 1269; his second wife was probably Fiordelisa (Trevisan?), mother of the younger Maffeo, whose will of 1300 is extant (Yule's conjecture from Marco the Elder's 1280 will); two illegitimate sons, Stefano and Zannino (Giovannino) (Yule)"
   book_says: []
   verify: [S-15]
   chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
@@ -55,10 +55,10 @@ people:
   gloss: ""
   born: null
   died: 1318
-  dates: "birth unknown; will of 1309/1310; dead between 1309 (III-10, Yule) or 1310 (a lead) and 1318"
+  dates: "birth unknown; last will February 1309 (not extant; known from a later act); died between February 1309 and 1318 (Yule)"
   group: polo
   role: "Niccolò's brother and partner on both journeys"
-  relations: "son of Andrea; uncle of Marco"
+  relations: "son of Andrea; uncle of Marco; no evidence of a wife or children (the 'daughter Fiordelisa' of one lead belongs to the younger Maffeo, Niccolò's son)"
   book_says: ["I-02:9 'so far as the book tells, remained a bachelor': the Book says nothing of it; marital status unverified"]
   verify: [S-15, S-14]
   chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
@@ -83,7 +83,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "fl. c. 1270–1298; compiled an Arthurian romance from a book of the future Edward I (c. 1270–73); a prisoner in Genoa, perhaps since Meloria (1284)"
+  dates: "fl. c. 1270–1298; compiled an Arthurian romance from a book of the future Edward I (c. 1270–73); a prisoner in Genoa, 'perhaps' since Meloria (1284): Yule's conjecture, not a document"
   group: venice
   role: "Pisan romance-writer who wrote the Book down from Marco's dictation, Genoa 1298–99"
   relations: "Marco's fellow prisoner and scribe"
@@ -97,10 +97,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "married Marco c. 1300, after his release (a lead also cites a dowry document of 17 March 1312, via Hart 1942: unreconciled); outlived him (named in the 1324 will)"
+  dates: "married Marco c. 1300 (Yule: 'early in the 14th century'); a dowry act of 17 March 1312 is reported by Hart (1942); outlived him; dead between 1333 and 1336 (Yule)"
   group: polo
   role: "Marco's wife"
-  relations: "daughter of Vitale Badoer (modern identification); wife of Marco; mother of Fantina, Bellela, Moreta"
+  relations: "Badoer, daughter of Vitale (modern identification); Yule's Loredano guess rests only on an 'Agnes Loredano, sister of the Lady Donata' in two acts; wife of Marco; mother of Fantina, Bellela, Moreta"
   book_says: ["III-10:21 'her family is not assured, though a Loredano connexion has been suspected' (Yule, before the documents): Badoer"]
   verify: [S-15, S-14]
   chapters: "III-10"
@@ -111,12 +111,12 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "born after c. 1300; married by 1324"
+  dates: "the eldest daughter; married by 1324"
   group: polo
   role: "Marco's eldest daughter; principal heir"
-  relations: "daughter of Marco and Donata; married Marco Bragadin, whose heirs she sued as his widow (leads)"
+  relations: "daughter of Marco and Donata; married Marco Bragadin, who died at Candia on 13 July 1360; won her suit against his executors on 13 July 1366 (Formentin–Schiavon 2024, seen; Yule)"
   book_says: []
-  verify: [S-15]
+  verify: []
   chapters: "III-10"
 - id: bellela
   book_name: Bellela
@@ -125,10 +125,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "born after c. 1300; married by 1324"
+  dates: "married by 1324; dead by 1333 (Yule)"
   group: polo
   role: "Marco's second daughter"
-  relations: "daughter of Marco and Donata; married Bertuccio Querini (a lead)"
+  relations: "daughter of Marco and Donata; her husband's name 'does not appear' (Yule); 'Bertuccio Querini' is a lead, perhaps from the Bertuccio Quirino who brought a claim against Donata"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -139,10 +139,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "born after c. 1300; unmarried at the 1324 will, which leaves her a dowry"
+  dates: "unmarried at the 1324 will (a dowry is left her); married by 1333 (Yule)"
   group: polo
   role: "Marco's youngest daughter"
-  relations: "daughter of Marco and Donata; later married Ranuzzo Dolfin (a lead)"
+  relations: "daughter of Marco and Donata; married Ranuzzo Dolfino (Yule); a lead adds a second husband, Tommaso Gradenigo"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -153,7 +153,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "freed by the will of January 1324; when he came to Venice is not known"
+  dates: "freed by the will of January 1324 (Biblioteca Nazionale Marciana, Cod. Lat. V, 58 (=2437), no. 33, reported; the clause is printed in Moule–Pelliot 1938 and Plebani 2019, reported); when he came to Venice is not known"
   group: polo
   role: "Marco's Tatar servant, freed and given a legacy in the will"
   relations: "household of Marco"
@@ -325,10 +325,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "died young, before Chingkim was named heir (a lead gives 1233–1263: unverified)"
+  dates: "died young (Yule: 'probably died early'); birth 1233 or 1240 in leads, unverified"
   group: yuan
   role: "Kublai's eldest son"
-  relations: "eldest son of Kublai; Chingkim is Chabi's first son (a lead), so his mother was another wife"
+  relations: "Kublai's first-born (Yule, after Gaubil and Pauthier); his mother is disputed between leads (Chabi, or another wife)"
   book_says: []
   verify: [S-14]
   chapters: "II-02"
@@ -451,10 +451,10 @@ people:
   gloss: ""
   born: null
   died: 1287
-  dates: "executed 1287 (Polo: a young man of about thirty)"
+  dates: "executed 1287; 'a young man of thirty' is Polo's figure only"
   group: yuan
   role: "prince of the eastern appanage; rebel crushed by Kublai in person, 1287"
-  relations: "descendant of Temüge Otchigin, Chinggis's youngest brother; the Book calls him Kublai's uncle"
+  relations: "descendant of Temüge Otchigin, Chinggis's youngest brother (Pelliot, Notes on Marco Polo, reported), not of Belgutai; his Christianity rests on Polo's cross standard (no baptism in Rashid or the Yuan shi, reported); the Book calls him Kublai's uncle"
   book_says: ["II-01:19 'great-great-grandson of Chinghiz's brother Belgutai': Otchigin line (Yule's Uchegin), S-14 #4", "II-01 year 1286 vs 1287"]
   verify: [S-14]
   chapters: "II-01;III-12"
@@ -507,7 +507,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "governor at Zhenjiang from c. 1277"
+  dates: "governor at Chinghianfu from c. 1277; built seven churches in China, one of them at Kinsay (Cordier in Yule; Moule 1930, reported); the Book gives two at Chinghianfu"
   group: yuan
   role: "Nestorian official who founded churches at Caiju/Chinghianfu"
   relations: ""
@@ -623,7 +623,7 @@ people:
   gloss: Arghun
   born: 1258
   died: 1291
-  dates: "c. 1258 – 7 or 10 March 1291; Ilkhan 1284–91"
+  dates: "c. 1258 – 10 March 1291 (Yule; = 7 Rabīʿ I 690, so the stray '7 March' is the Hijri day misread: CHR-people-2); Ilkhan 1284–91"
   group: ilkhanate
   role: "the Ilkhan who asked Kublai for a bride; dead before she sailed"
   relations: "son of Abaqa; husband of Bolgana; father of Ghazan"
@@ -665,7 +665,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "named in the Yongle dadian document of 1290"
+  dates: "named (Wuludai) in the Yongle dadian notice of 1290 with the three envoys and 160 people, about provisions; it says nothing of survivors (Cleaves 1976, reported)"
   group: ilkhanate
   role: "first of Arghun's three envoys"
   relations: "with Apusca and Coja"
@@ -679,7 +679,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "named in the 1290 document; died on the voyage?"
+  dates: "named (Abishihe) in the Yongle dadian notice of 1290 with the three envoys and 160 people, about provisions; it says nothing of survivors (Cleaves 1976, reported)"
   group: ilkhanate
   role: "Arghun's envoy"
   relations: ""
@@ -693,9 +693,9 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "named in the 1290 document; the only envoy to survive the voyage (Book)"
+  dates: "named (Huozhe) in the Yongle dadian notice of 1290 with the three envoys and 160 people, about provisions; it says nothing of survivors (Cleaves 1976, reported)"
   group: ilkhanate
-  role: "Arghun's envoy"
+  role: "Arghun's envoy; the Book alone says he was the only envoy to survive the voyage"
   relations: ""
   book_says: []
   verify: [S-14]
@@ -707,7 +707,7 @@ people:
   gloss: Geikhatu
   born: null
   died: 1295
-  dates: "Ilkhan from 23 July 1291 (a lead) to his killing in March–April 1295"
+  dates: "Ilkhan from 23 July 1291 to his killing on 24 March 1295 (Yule; a lead says March–April)"
   group: ilkhanate
   role: "the Ilkhan who received the Polos at Tauris and gave them four golden tablets"
   relations: "Arghun's brother (the Book: his uncle)"

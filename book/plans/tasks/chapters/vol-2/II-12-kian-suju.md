@@ -16,6 +16,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ### Factual / fidelity
 - **[m]** Under-corroborated: the Mar Sarghis aside cites only Yule's single 1281 temple notice. The Zhenjiang local gazetteer (*Zhishun Zhenjiang zhi*, 1332; translated by Moule, *Christians in China before 1550*) records Mar Sargis founding several Christian monasteries from 1278, "among the best Chinese corroborations in the book". Fix: upgrade Note [5] to ✓. **(unverified)** against `refs/`; check Moule. — vol-2 m8 · ch-12:41, Note [5] ch-12:81; content plan W2 unverified list
 - **[N]** "Su-chau of the silk and the tea districts, the Paris of later China": a stray tea mention given that the volume flags tea as a silence, and "Paris" is anachronistic and unsourced. Fix: cut it. — vol-2 N8 · ch-12:67
+- **[N]** (S-05) Polo gives Mar Sarghis **two** churches at Chinghianfu; Cordier's addendum in Yule counts **seven** built in China, one of them at Kinsay (Moule 1930 has the gazetteer text: reported). An aside can set Polo's two against the record. — registry `mar-sarghis`
 
 ### Dispute handling and Ramusio flags
 - **[M]** Ramusio-only passages narrated unflagged: :19 river length, salt as chief cargo; :25 island monasteries. Fix: two-to-four-word inline tag per paragraph plus "◇ Ramusio-only" in the matching Note; model ch-13:53. — vol-2 M1 · ch-12:19, :25; content plan W3

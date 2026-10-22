@@ -95,19 +95,21 @@ These go to S-06 (and S-14 / S-15 for the research). A chapter states them only 
 |---|---|---|---|
 | Alaü / Barca | Outcome of the 1262–63 war (the Book has it backwards) | S-14 #1 | I-02 |
 | Nayan | Descent from Temüge Otchigin, not Belgutai; 1287 not 1286 | S-14 #4 | II-01 |
-| Chinkin | Death: Jan 1286 (*Yuan shi*) vs Yule's 1284–85; Dorjé the elder son | S-14 #6 | II-02 |
+| Chinkin | Death: Jan 1286 (*Yuan shi*) vs Yule's 1284–85; Dorjé the elder son (Yule), his mother disputed | S-14 #6 (Dorjé's mother: open) | II-02 |
 | Kiacatu, Baidu, Casan | Brother, cousin, accession 1295 | S-14 #5 | II-15 |
 | Achmath / Bolad | The annals' "Po-lo" is Bolad | settled (Yule–Cordier addenda); HOT.3 | II-05, II-11, III-12 |
-| Argon | Death 7 or 10 March 1291 | S-14 (add) | III-09 |
-| Oulatay, Apusca, Coja | Named in the 1290 Yongle dadian document; the Polos not named | S-14 #15 | III-09, III-12 |
-| Maffeo | Married? Will 1309/10; death 1309–18 | S-15, S-14 #17 | I-02, III-10 |
-| Donata | Badoer, daughter of Vitale; married c. 1300 | S-15, S-14 #16 | III-10 |
-| Niccolò | Second marriage; the sons Maffeo, Stefano, Giovannino (legitimate or not); death by 1300 | S-15 | III-10 |
-| Rustichello | Identity with the Arthurian compiler; prisoner since Meloria? | S-15 #4 | I-01, III-12 |
-| Marco | Birth 1254 in Venice; capture at Curzola (1298) or near Layas (1296) | S-15 #2–3 | I-01, I-02 |
+| Argon | Death 10 March 1291 (Yule = 7 Rabīʿ I 690; "7 March" is the Hijri day misread) | **settled** (CHR-people-2) | III-09 |
+| Oulatay, Apusca, Coja | Named in the 1290 Yongle dadian notice (with 160 people); the Polos not named; nothing on who survived, so "only Coja" is the Book's alone | S-14 #15 (Cleaves 1976 reported, not seen) | III-09, III-12 |
+| Maffeo | Last will Feb 1309, death before 1318 (Yule: settled); married? no evidence either way | S-15 (marriage) | I-02, III-10 |
+| Donata | Badoer, daughter of Vitale; married c. 1300; dead 1333–36 (Yule); Loredano rests on an "Agnes Loredano, her sister"; a 1312 dowry act (Hart, reported) | S-15 | III-10 |
+| Niccolò | Second wife probably Fiordelisa (Trevisan?) (Yule's conjecture); illegitimate Stefano and Zannino (Yule: settled); death before end of 1300 | S-15 (the wife) | III-10 |
+| Rustichello | Identity with the Arthurian compiler (accepted); Meloria is Yule's "perhaps"; "layman" not yet sourced | S-15 #4 | I-01, III-12 |
+| Marco | Birth 1254 (no document); capture: Curzola 1298 (Ramusio; Yule) vs Ayas (Jacopo, impossible: May 1294); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024: settled); a daughter Agnese (b. 1295–99) from a 2021 find | S-15 (birth, capture, Agnese) | I-01, I-02, III-10 |
 | Sigatay | Kublai's uncle, d. 1242 (the Book: brother) | settled (Yule's own note) | I-07, I-10 |
 
-**Research intake (2026-10-22).** A first search-based run (`research/results/CHR-people-raw.md`, graded in `CHR-people-intake.md`) gave leads only: its sources are Wikipedia and pages that copy Yule, so nothing above is upgraded and no `verify` pointer is removed. What it changed: Chabi's birth year is contested (1216 or 1227), so her age is blank; Maffeo's "daughter Fiordelisa" is a mix-up with Niccolò's second wife, Fiordelisa Trevisan; and new leads are recorded as leads (Bellela's husband, Niccolò's sons, a 1312 dowry document for Donata, a 2022 report of a daughter Agnese). A stricter second prompt for the open rows is in the intake note.
+**Research intake, run 2 (2026-10-22).** A stricter run (`research/results/CHR-people-2-raw.md`, graded in `CHR-people-2-intake.md`) cited real works; its claims were checked against Yule in `refs/`, two resolved DOIs and the open-access Formentin–Schiavon article. Settled: Argon's 10 March, Marco's death on 8 or 9 January 1324, Fantina's marriage, Niccolò's illegitimate sons, Maffeo's 1309 will. New: Marco's daughter Agnese (2021 find, not yet seen). Three of its claims overstated their sources and were not taken (Dorjé's mother and birth year; Maffeo's will "1300"; Bellela's husband).
+
+**Research intake, run 1 (2026-10-22).** A first search-based run (`research/results/CHR-people-raw.md`, graded in `CHR-people-intake.md`) gave leads only: its sources are Wikipedia and pages that copy Yule, so nothing above is upgraded and no `verify` pointer is removed. What it changed: Chabi's birth year is contested (1216 or 1227), so her age is blank; Maffeo's "daughter Fiordelisa" is a mix-up with Niccolò's second wife, Fiordelisa Trevisan; and new leads are recorded as leads (Bellela's husband, Niccolò's sons, a 1312 dowry document for Donata, a 2022 report of a daughter Agnese). A stricter second prompt for the open rows is in the intake note.
 
 ## Plate ages
 

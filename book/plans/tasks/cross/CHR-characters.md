@@ -46,7 +46,7 @@ S-05 ✓ (closed 2026-10-22) · S-06 (verified dates, for `CHR.T4`) · S-15 (fam
 
 ### CHR.T4 — Contested facts to verdicts
 - **Status:** in progress · **Depends:** S-06 (and its research S-14), S-15
-- **So far (2026-10-22):** one search-based run came back and was graded as **leads only** (`research/results/CHR-people-intake.md`: sources are Wikipedia and Yule-derived pages; 2 of 7 spot-checked claims failed). Leads are recorded in the registry as leads; nothing was upgraded. The intake note holds a stricter follow-up prompt for the 12 open rows.
+- **So far (2026-10-22):** one search-based run came back and was graded as **leads only** (`research/results/CHR-people-intake.md`: sources are Wikipedia and Yule-derived pages; 2 of 7 spot-checked claims failed). Leads are recorded in the registry as leads; nothing was upgraded. The intake note holds a stricter follow-up prompt for the 12 open rows. **Run 2** (`research/results/CHR-people-2-intake.md`): settled Argon's death day, Marco's death day, Fantina's marriage, Niccolò's illegitimate sons and Maffeo's 1309 will (two sources seen each, or Yule plus a calendar check); `verify` removed from `fantina`. Still open: Chabi's birth, Dorjé's mother, Maffeo's marriage, Bellela's husband, Marco's birth basis, the Agnese article (not seen), Rustichello's lay status, Peter's shelfmark (reported only).
 - **Do:** for each row with `verify`, carry the S-06 / S-15 verdict into `dates`, `relations` and `book_says`, then remove the spike from `verify`. Update the *Contested facts* table in `registry/characters.md`. Where a verdict changes an age (Niccolò's or Maffeo's birth, Donata's marriage), re-run `ages` and adjust the cards.
 - **Done when:** no row's `verify` names a closed spike; `check` and `ages` pass.
 
