@@ -52,6 +52,9 @@ _Closed 2026-10-22._
 
 **Feedback applied:** `illustration-style-guide.md` § Recurring figures (new) and the prompt template's `[PERIOD]` slot; `illustration-plan.md` (cards note, pipeline step, III-9 *boqta* fix, Pilot 1 prompt with the Polos' card lines); `VOICE-GUIDE.md` § Naming (people); `content-revision-plan.md` (lint note; W5 People); `GLO`, `PLT`, `CHR` task files; README board and decision log.
 
+## After close: first research run (2026-10-22)
+A search-based run on the 28 `verify` claims came back and was graded as leads, not sources (`research/results/CHR-people-raw.md`, `CHR-people-intake.md`): 48 bibliography entries, all site pages; two of seven spot-checked claims failed (Maffeo's "daughter Fiordelisa" is Niccolò's wife; a death on 8 January contradicts a will of 9 January). The registry took only marked leads, and Chabi's age is now blank (birth 1216 or 1227). A stricter prompt for 12 open rows is in the intake note.
+
 ## Tasks created on close
 - [x] `CHR.T1` registry and `CHR.T2` first 19 cards: **done in this spike**. `CHR.T3` glossary entries (with `GLO`), `CHR.T4` contested facts to verdicts (after S-06/S-15), `CHR.T5` costume refinement (after S-22), `CHR.T6` consistency sweep and promotion to error: in `tasks/cross/CHR-characters.md`.
 - [x] **People (S-05 ✓)** step in every narrative chapter's `.T3` (37 files, with that file's bare variants and unglossed first mentions; the two reception chapters get the exemption note).

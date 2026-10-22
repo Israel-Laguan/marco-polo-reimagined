@@ -30,7 +30,7 @@ people:
   dates: "born 1254 by the received count (Venice; the Curzola/Korčula birth is modern legend); will dated 9 Jan 1324 (Venetian 1323 more veneto), dead by June 1325"
   group: polo
   role: "the traveller; in the Kaan's service 1275–91; dictated the Book in a Genoese prison, 1298–99"
-  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta"
+  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta; a 2022 find is said to add a daughter Agnese (b. 1295/99, d. 1319) from an earlier union (lead: S-15 to check)"
   book_says: []
   verify: [S-15]
   chapters: "I-F1;I-F2;I-01;I-02;I-03;I-04;I-05;I-06;I-07;I-08;I-09;I-10;I-11;I-12;I-13;I-B1;II-F1;II-F2;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-08;II-09;II-10;II-11;II-12;II-13;II-14;II-15;II-B1;III-F2;III-01;III-02;III-03;III-04;III-05;III-06;III-07;III-08;III-09;III-10;III-11;III-12;III-B1"
@@ -41,10 +41,10 @@ people:
   gloss: ""
   born: null
   died: 1300
-  dates: "birth unknown (an adult merchant in 1260, so before c. 1235); dead by 1300, the date not fixed"
+  dates: "birth unknown (an adult merchant in 1260, so before c. 1235); died between Feb and Aug 1300 (a lead; Yule: dead by 1300)"
   group: polo
   role: "Marco's father; with Maffeo on both journeys (1260–69, 1271–95)"
-  relations: "son of Andrea; father of Marco; his first wife (Marco's mother) died before 1269; remarried after 1269"
+  relations: "son of Andrea; father of Marco; his first wife (Marco's mother) died before 1269; remarried after 1269 (a lead names her Fiordelisa Trevisan; their son Maffeo made a will in Aug 1300); two illegitimate sons, Stefano and Giovannino (Zannino), by a Maria"
   book_says: []
   verify: [S-15]
   chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
@@ -55,7 +55,7 @@ people:
   gloss: ""
   born: null
   died: 1318
-  dates: "birth unknown; will of 1309/1310; dead between 1309 and 1318 (III-10)"
+  dates: "birth unknown; will of 1309/1310; dead between 1309 (III-10, Yule) or 1310 (a lead) and 1318"
   group: polo
   role: "Niccolò's brother and partner on both journeys"
   relations: "son of Andrea; uncle of Marco"
@@ -97,7 +97,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "married Marco c. 1300, after his release; outlived him (named in the 1324 will)"
+  dates: "married Marco c. 1300, after his release (a lead also cites a dowry document of 17 March 1312, via Hart 1942: unreconciled); outlived him (named in the 1324 will)"
   group: polo
   role: "Marco's wife"
   relations: "daughter of Vitale Badoer (modern identification); wife of Marco; mother of Fantina, Bellela, Moreta"
@@ -114,7 +114,7 @@ people:
   dates: "born after c. 1300; married by 1324"
   group: polo
   role: "Marco's eldest daughter; principal heir"
-  relations: "daughter of Marco and Donata"
+  relations: "daughter of Marco and Donata; married Marco Bragadin, whose heirs she sued as his widow (leads)"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -128,7 +128,7 @@ people:
   dates: "born after c. 1300; married by 1324"
   group: polo
   role: "Marco's second daughter"
-  relations: "daughter of Marco and Donata"
+  relations: "daughter of Marco and Donata; married Bertuccio Querini (a lead)"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -142,7 +142,7 @@ people:
   dates: "born after c. 1300; unmarried at the 1324 will, which leaves her a dowry"
   group: polo
   role: "Marco's youngest daughter"
-  relations: "daughter of Marco and Donata"
+  relations: "daughter of Marco and Donata; later married Ranuzzo Dolfin (a lead)"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -309,9 +309,9 @@ people:
   aliases: [Jamui, Jamui Khatun, Chabui]
   also: []
   gloss: ""
-  born: 1227
+  born: null
   died: 1281
-  dates: "c. 1227 – 1281 (Polo does not name her; Jamui Khatun is Rashid al-Din's form)"
+  dates: "d. 1281 (20 March?); birth c. 1216 (one lead) or 1227 (another): unsettled, so no age is computed (CHR-people intake). Polo does not name her; Jamui Khatun is Rashid al-Din's form"
   group: yuan
   role: "Kublai's chief wife; patron of Ahmad and of 'Phags-pa"
   relations: "Qonggirat; mother of Chingkim; succeeded as chief wife by her kinswoman Nambui"
@@ -325,10 +325,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "died young, before Chingkim was named heir"
+  dates: "died young, before Chingkim was named heir (a lead gives 1233–1263: unverified)"
   group: yuan
   role: "Kublai's eldest son"
-  relations: "son of Kublai and Chabi"
+  relations: "eldest son of Kublai; Chingkim is Chabi's first son (a lead), so his mother was another wife"
   book_says: []
   verify: [S-14]
   chapters: "II-02"
@@ -707,7 +707,7 @@ people:
   gloss: Geikhatu
   born: null
   died: 1295
-  dates: "Ilkhan 1291–95; killed March 1295"
+  dates: "Ilkhan from 23 July 1291 (a lead) to his killing in March–April 1295"
   group: ilkhanate
   role: "the Ilkhan who received the Polos at Tauris and gave them four golden tablets"
   relations: "Arghun's brother (the Book: his uncle)"
@@ -721,7 +721,7 @@ people:
   gloss: ""
   born: null
   died: 1295
-  dates: "Ilkhan Apr–Oct 1295; killed Oct 1295"
+  dates: "Ilkhan from March 1295 (24 March, a lead) to his killing on 4 Oct 1295"
   group: ilkhanate
   role: "usurper after Kiacatu"
   relations: "grandson of Hulagu through Taraqai: Arghun's cousin (the Book: Kiacatu's uncle)"

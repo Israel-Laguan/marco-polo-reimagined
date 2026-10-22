@@ -45,7 +45,8 @@ S-05 ✓ (closed 2026-10-22) · S-06 (verified dates, for `CHR.T4`) · S-15 (fam
 - **Done when:** `GLO.T1` lists the people beside the places; every `gloss` form has an entry.
 
 ### CHR.T4 — Contested facts to verdicts
-- **Status:** backlog · **Depends:** S-06 (and its research S-14), S-15
+- **Status:** in progress · **Depends:** S-06 (and its research S-14), S-15
+- **So far (2026-10-22):** one search-based run came back and was graded as **leads only** (`research/results/CHR-people-intake.md`: sources are Wikipedia and Yule-derived pages; 2 of 7 spot-checked claims failed). Leads are recorded in the registry as leads; nothing was upgraded. The intake note holds a stricter follow-up prompt for the 12 open rows.
 - **Do:** for each row with `verify`, carry the S-06 / S-15 verdict into `dates`, `relations` and `book_says`, then remove the spike from `verify`. Update the *Contested facts* table in `registry/characters.md`. Where a verdict changes an age (Niccolò's or Maffeo's birth, Donata's marriage), re-run `ages` and adjust the cards.
 - **Done when:** no row's `verify` names a closed spike; `check` and `ages` pass.
 
