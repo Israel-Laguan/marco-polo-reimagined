@@ -69,7 +69,8 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-02.T6` Lint pass and human voice read (sign-off sets the voice standard)
 
 ### II-02.T1 — Critical and factual fixes
-- **Status:** ready · **Depends:** S-06 ✓
+- **Status:** done (2026-11-03) · **Depends:** S-06 ✓
+- **Did:** ch-02:21 "winter of 1285–86" → "mid-1280s"; :49 keeps the three silences without the unsourced qualifiers (Persian writers, elite-and-south, Ming); Note [6] gives Yule's date and the *Yuan shi* one as cited; Note [20] now cites Yule's Intro § 71 (tea, Odoric) and drops "Facts to verify". Lint: pass, E0 W9, 1,823 words (floor 1,800).
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-06 (open): ch-02:21 "in the winter of 1285–86" → "in the mid-1280s"; Note [6] drops "To verify (S-06)" and says the *Yuan shi* date is not yet seen.
