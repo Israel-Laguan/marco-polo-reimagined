@@ -15,6 +15,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - Note [6] credits the Curzola tradition to Jacopo d'Acqui; ch-01:21 and its Note [5] correctly say Jacopo puts the capture **at Ayas**, and Curzola rests on later tradition (Ramusio) plus inference from the year (Yule sidenote Y:7369). Fix: change "(Jacopo d'Acqui and later tradition…)" to "(Ramusio and later tradition; Jacopo names Ayas)". Content plan W1.4. — vol-1 M1 · front-01:74
+- "The War of Saint Sabas (1256–1270)": Yule dates the outbreak at Acre to 1255 and gives no end year. **S-06 sweep:** F-38. — front-01:29
 
 ### Dispute handling and Ramusio flags
 - The Hormuz "turning back" is presented as Book fact (the route summary bends through Hormuz as a failed sea plan). The Book only says "let us return by another road to… Kerman" (ch-07:41); the aborted sea plan is Yule's inference (Y:5902–5906); ch-03:25 handles it correctly. Fix: present it as Yule's inference, not the Book's words. Content plan W2 (I-front-01). — vol-1 M2 · front-01:54
@@ -66,6 +67,7 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-34: Note [6]: Curzola is Ramusio's tradition, which Yule accepts; Jacopo puts the capture at Ayas.
     - F-25: until A2 replaces it, the Mongol map is captioned from its 1294 frame (with `MED.T1`).
+    - F-38 (open end): front-01:29 "War of Saint Sabas (1256–1270)" → "the war that broke out at Acre in 1255 over the church of St Sabba, and lasted for years" (Yule); no end year.
 - **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention

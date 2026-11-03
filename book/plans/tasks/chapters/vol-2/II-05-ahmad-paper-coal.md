@@ -20,6 +20,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - — none beyond C1 (see Critical)
+- Note [21] names Guo Shoujing, who is not in refs. **S-06 sweep:** F-42 (open). — ch-05:105
 
 ### Dispute handling and Ramusio flags
 - **[M]** "The entire Ahmad narrative comes from Ramusio's version" is true of Yule's witnesses, but the Toledo/Zelada Latin (Z), published by Moule–Pelliot in 1938, also contains the Achmath episode, which strengthens its authenticity. **S-06: still open** (F-09; Z postdates Yule–Cordier; Moule–Pelliot not seen). Fix for now: "…comes to us through Ramusio, not the Geographic French — flag it as such"; add Z only once Moule–Pelliot is seen. — vol-2 M9 · ch-05:17, Note [1] ch-05:65; content plan W2 still-open list
@@ -75,6 +76,7 @@ _Created after the gating spikes close. Expected shapes:_
     - F-08: the annals' "Po-lo" is Bolad (Parker in Cordier's addenda; `HOT.3`), so the "presence pillar" goes.
     - F-26 (open): Note [7] names no Vogel, Haw or Rossabi position until each is seen.
     - F-09 (open): "comes to us through Ramusio, not the Geographic French"; no Z claim.
+    - F-42 (open): Note [21] "Observatory instruments of Guo Shoujing era" → "the observatory instruments of the Yuan"; the 1328 almanac figures stay (Yule).
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 

@@ -15,6 +15,8 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - **[M]** Cachanfu given as Xi'an: "toward Shanxi and Cachanfu (Xi'an)". II-06 (ch-06:29–31, Note [8]) correctly separates Cachanfu (Puzhou/Hezhong at the Yellow River bend) from Kenjanfu (Xi'an). Fix: "…toward Shanxi, the Yellow River crossing at Cachanfu, and Kenjanfu (Xi'an)". — vol-2 M2 · front-01:45; content plan W2 (II-front)
+- "He proclaimed the Yuan dynasty in 1271" (also Note [2]): Yule–Cordier give no year for the dynastic name. **S-06 sweep:** F-40 (open). — front-01:13, :62
+- "the naval endgame off Yaishan": Yule has the early-1279 battle off the Canton coast but not the name. **S-06 sweep:** F-41. — front-01:27
 
 ### Dispute handling and Ramusio flags
 - **[M]** No note on Ramusio-only chapters or passages, though the outline asks the front matter for one (beat 3). — vol-2 M8 · front-01 (whole)
@@ -67,6 +69,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-11: Cachanfu is Puzhou/Hezhong at the Yellow River bend; Kenjanfu is Xi'an.
+    - F-40 (open): front-01:13 and Note [2] drop "in 1271": "he gave his state the Chinese dynastic name Yuan".
+    - F-41: front-01:27 "the naval endgame off Yaishan" → "a sea battle off the Canton coast early in 1279" (Yule); no place name.
 - **Done when:** `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### II-F1.T4 — Notes and apparatus to the S-03 convention

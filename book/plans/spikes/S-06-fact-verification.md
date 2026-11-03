@@ -51,6 +51,15 @@ The CHR intakes contributed run 2's checked claims to F-05 (Gaykhatu's dates), F
 - The Mongol map files are one animated GIF, 1206 → 1294. A static print shows 1206 (F-25).
 - The II-02 pilot text, already approved for voice, states two unsourced things: Chingkim's "winter of 1285–86" and the "mostly Ming" Wall. `II-02.T1` (ready) puts both back to the hedge.
 
+**Sweep beyond the critique** (same day, second pass; `facts.md` § Sweep beyond the critique). The critique's tags cover what its readers doubted, so the chapters were read again for what they passed over: every dated sentence in all 49 files was checked against `refs/`, and every untagged line that cites modern scholarship or an outside witness was read. The nine files with no S-06 tag (I-01, I-03, I-04, I-09, I-10, I-13, II-03, II-13, III-04) were read whole. Nearly everything traces to Yule–Cordier, including many dates that look like general knowledge (Clement IV's death, the 1299 peace, Kaipingfu 1256/1264, the 1853 Yellow River shift, the Caliph's death at Wakf, the 1287 five-to-one note, the 1328 almanacs). Seven claims do not, and get rows F-38–F-44:
+- One is corrected: the St Sabas war broke out in 1255 by Yule, not 1256 (F-38).
+- Two are dates Yule does not give: the Yuan dynastic name in 1271 (F-40) and the name Yaishan for the 1279 battle (F-41).
+- One conflicts with Yule: Baibars "1259/60–1277" against Yule's "1259 to 1276", and the character registry repeats the unsourced dates (F-39).
+- One is an internal Yule–Cordier conflict like F-07: Yule numbers the Ceylon king of 1267–1301 III, Cordier's addenda II (F-44).
+- Two are outside names or dates with no source: Guo Shoujing (F-42) and the Rāma Khamhaeng inscription (F-43).
+
+Their `.T1` items are in I-F1, I-03 (new block), II-F1, II-05, III-02 and III-04 (new block), plus a `CHR` line for Baibars's registry dates.
+
 **Library-only checks** (each needs a book or record seen, not another search run; the people rows overlap `CHR.T7`):
 
 | Row | Question | Where to look |
@@ -72,6 +81,13 @@ The CHR intakes contributed run 2's checked claims to F-05 (Gaykhatu's dates), F
 | F-26 | What Vogel, Haw and Rossabi say of the "Po-lo" passage | `vogel2013marco`, `haw2006marco`, `rossabi1988khubilai` |
 | F-31 | Rudrama Devi: daughter or widow | a modern history of the Kākatīyas |
 | F-37 | Tea in Ilkhanid Persian writing; foot-binding's social and regional range | a modern study of each, only if the chapter wants the claim back |
+| F-38 | The St Sabas war: its end (a peace of 1270?) | a modern history of Venice or Genoa in the Levant |
+| F-39 | Baibars's accession and death | a modern history of the Mamluk sultanate |
+| F-40 | The year of the Yuan dynastic name | Rossabi 1988 (`rossabi1988khubilai`); *Yuan shi* (`yuanshi1370`), Shizu annals |
+| F-41 | The name of the last Song battle (Yaishan) | a modern history of the Song–Yuan war |
+| F-42 | Guo Shoujing and the Yuan observatory | Needham (`needham1954science`), the astronomy volume; only if the Note wants the name back |
+| F-43 | The Rāma Khamhaeng inscription: its date, and whether the Note needs it | a modern edition or study of the Sukhothai inscription; only if the Note wants it back |
+| F-44 | The Ceylon king of the 1280s–90s and his regnal number | a modern chronology of the Dambadeniya kings; Tennent 1859 (`tennent1859ceylon`) |
 
 **Feedback applied.**
 - `content-revision-plan.md` § W2: rows I-2, I-11, II-2, II-11, II-14, III-9/11/12, III-10, III-11 and III-back changed (marked *(S-06)*); new row II-10. The unverified list was replaced by a still-open list with each hedge.

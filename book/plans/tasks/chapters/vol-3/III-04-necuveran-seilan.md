@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - "Soft" label tic ×2: "Soft turn now:" (:15), "Soft close here:" (:45); also Note :83. Fix: strip. — vol-3 C2 · ch-04:15, :45
 
 ### Factual / fidelity
-— none found
+- Note [8] makes King Sendemain "Parākramabāhu III". Yule–Cordier differ on the number (Yule III, Cordier's addenda II, for the king of 1267–1301), and Tennent suggests the Malay chief Chandra Banu instead. **S-06 sweep:** F-44 (open). — ch-04:65
 
 ### Dispute handling and Ramusio flags
 — none found
@@ -45,13 +45,21 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Sagamoni Borcan (the Buddha), Adam, Kublai (Great Kaan; relic embassy); comparative sources: Ibn Battuta, Odoric, Rashid al-Din, Niccolò de' Conti
 
 ## Gated by spikes
-- S-01, S-02, S-03 (★ conversion), S-04 (Necuveran gloss, Gauenispola row), S-05 (Kublai in the relics plate), S-08, S-10
+- S-01, S-02, S-03 (★ conversion), S-04 (Necuveran gloss, Gauenispola row), S-05 (Kublai in the relics plate), S-06 (Sendemain, F-44), S-08, S-10
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-04.T1` Critical fixes (first-person, Soft)
 - `III-04.T5` Media placement (figures, captions)
 - `III-04.T6` Lint pass and human voice read
+
+### III-04.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `III-04.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - The *Critical* items (transcription, first person, "Soft") belong to the re-voice in `.T3`.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-44 (open): Note [8] reads "the Sinhalese king then reigning at Dambadeniya (Pandita Prakrama Bahu: III in Yule, II in Cordier's addenda), or the Malay chief Chandra Banu".
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-04.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #27 (batch 7)

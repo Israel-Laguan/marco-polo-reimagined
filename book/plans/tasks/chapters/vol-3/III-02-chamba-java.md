@@ -17,6 +17,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - "Yule leans toward… or the return voyage still ahead": Yule inclines to the Geographic Latin 1288 and the c. 1290 Indian mission (`yule-vol2.txt:14790`) and does not propose the return voyage. — vol-3 n8 · ch-02:21
+- Note [11] dates the Rāma Khamhaeng inscription "~1292–93"; the inscription is not in refs and no source is given. **S-06 sweep:** F-43 (open). — ch-02:65
 
 ### Dispute handling and Ramusio flags
 — none found
@@ -57,7 +58,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** backlog · **Depends:** S-06 ✓, `III-02.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
-    - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
+    - The critique's items needed no verdict: each cites its Yule line, so apply it as the backlog gives it.
+    - F-43 (open): cut "Rāma Khamhaeng inscription ~1292–93 almost coeval" from Note [11].
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 

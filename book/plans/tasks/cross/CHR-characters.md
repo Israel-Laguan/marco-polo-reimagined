@@ -18,6 +18,7 @@ The recurring people of the book, as one source of truth for **text** (names, da
   - "Po-lo" = Bolad, not Marco (II-5, II-11, III-12; `HOT.3`).
   - Donata Badoer (III-10); Niccolò's sons (III-10, S-05).
   - Maffeo's marital status (I-2; S-06 still open, F-17; `CHR.T7` → S-15).
+  - Baibars's dates (I-3): `characters.yaml` bundukdar gives "1260–77" and "1 July 1277"; Yule says he reigned 1259–1276. S-06 still open, F-39; until a source is seen, the row's `dates` should read "Mamluk sultan (Yule: 1259–1276)".
   - Argon's death day, 7 or 10 March 1291 (III-9, S-05).
   - Rustichello is a layman (I-1 plate).
 - Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.

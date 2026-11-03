@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Transcription share 34%, above the ≤25% target. Fix: re-voice in the ch-01 manner; one or two short marked quotations per scene. W4 order: second-to-last in Vol. I. — vol-1 C3 · ch-03
 
 ### Factual / fidelity
-— none found
+- Note [7] gives Baybars "r. 1259/60–1277"; Yule says he "reigned from 1259 to 1276", and the 1277 end is not in refs. **S-06 sweep:** F-39 (open). — ch-03:61
 
 ### Dispute handling and Ramusio flags
 - Outbound route here (Yule's Ayas → Sivas → Mardin → Mosul → Baghdad → Hormuz, Y:5904) disagrees with front-02's via-Tauris line. Fix lands in I-F2 (present both as reconstructions); ch-03 is the correct side. — vol-1 m1 · ch-03:23
@@ -52,14 +52,22 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-03 Apparatus conventions
 - S-04 Gazetteer authority (Kemenfu, Jerusalem rows; nit 1 gloss rule)
 - S-05 Character registry (three Polos and Kublai in hero plate)
+- S-06 Fact verification sheet (Baibars's reign, F-39)
 - S-08 LaTeX build pipeline (D table, plates)
 - S-10 Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-03.T1` Critical and factual fixes
 - `I-03.T5` Media placement (figures, tables, captions)
 - `I-03.T6` Lint pass and human voice read
+
+### I-03.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `I-03.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-39 (open): Note [7] reads "Bundukdar (Baibars), the Mamluk sultan (Yule: reigned 1259–1276)"; no 1277 until it is sourced.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-03.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #24 (batch 6)
