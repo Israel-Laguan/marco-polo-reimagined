@@ -1,0 +1,1104 @@
+% Master bibliography for The Book of the Million (biblatex; style per S-24).
+% Keys: authorYEARword, lower case (S-12). Exception: the base text uses its
+% siglum as the key (yc, ycadd) so Notes stay readable: [@yc, 1.61]. Status of each entry lives in
+% registry/sources.md once S-12 creates it; entries here without a
+% "confirmed" comment are not yet checked.
+%
+% Rule (S-24): cite an old book by its print edition. A digitisation
+% (Project Gutenberg, Internet Archive, HathiTrust...) is the access route,
+% given in url/addendum, never the date of the work.
+
+% --- Base text -------------------------------------------------------------
+% confirmed 2026-10-22: title pages in refs/yule-vol1.txt and refs/yule-vol2.txt;
+% PG catalogue records for eBooks 10636 (released 2004-01-01) and 12410
+% (released 2004-05-01; holds 1903 vol. 2 plus the 1920 Addenda).
+
+@book{yc,
+  author     = {Polo, Marco},
+  title      = {The Book of Ser Marco Polo, the Venetian, Concerning the Kingdoms and Marvels of the East},
+  translator = {Yule, Henry},
+  editor     = {Cordier, Henri},
+  editortype = {reviser},
+  edition    = {3},
+  volumes    = {2},
+  publisher  = {John Murray},
+  location   = {London},
+  date       = {1903},
+  shorthand  = {YC},
+  addendum   = {Consulted in the Project Gutenberg digitisation, eBooks 10636 and 12410 (2004)},
+  url        = {https://www.gutenberg.org/ebooks/10636},
+}
+
+@book{ycadd,
+  author     = {Cordier, Henri},
+  title      = {Ser Marco Polo: Notes and Addenda to Sir Henry Yule's Edition, Containing the Results of Recent Research and Discovery},
+  publisher  = {John Murray},
+  location   = {London},
+  date       = {1920},
+  shorthand  = {YC Add.},
+  addendum   = {Consulted in the Project Gutenberg digitisation, eBook 12410 (2004)},
+  url        = {https://www.gutenberg.org/ebooks/12410},
+}
+
+% --- Phase R intake: CIT-A/B/C (2026-10-22) --------------------------------
+% Raw results: plans/research/results/CIT-*-raw.md. Status per entry below;
+% name -> key map: plans/registry/name-keys.csv.
+
+% confirmed (IA scan is the 2001 paperback)
+@book{larner1999marco,
+  author    = {Larner, John},
+  title     = {Marco Polo and the Discovery of the World},
+  publisher = {Yale University Press},
+  location  = {New Haven},
+  date      = {1999},
+  url       = {https://archive.org/details/marcopolodiscove00john},
+}
+
+% confirmed (Open Library dates it 2012; Brill imprint 2013)
+@book{vogel2013marco,
+  author    = {Vogel, Hans Ulrich},
+  title     = {Marco Polo Was in China: New Evidence from Currencies, Salts and Revenues},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {2013},
+  series    = {Monies, Markets, and Finance in East Asia, 1600--1900},
+}
+
+% confirmed (IA scan is the 2009 paperback)
+@book{haw2006marco,
+  author    = {Haw, Stephen G.},
+  title     = {Marco Polo's China: A Venetian in the Realm of Khubilai Khan},
+  publisher = {Routledge},
+  location  = {London},
+  date      = {2006},
+  url       = {https://archive.org/details/marcopoloschinav0000step},
+}
+
+% confirmed
+@book{rossabi1988khubilai,
+  author    = {Rossabi, Morris},
+  title     = {Khubilai Khan: His Life and Times},
+  publisher = {University of California Press},
+  location  = {Berkeley},
+  date      = {1988},
+  url       = {https://archive.org/details/khubilaikhanhisl00ross},
+}
+
+% confirmed
+@book{moule1938description,
+  author     = {Polo, Marco},
+  title      = {The Description of the World},
+  translator = {Moule, A. C. and Pelliot, Paul},
+  editor     = {Moule, A. C. and Pelliot, Paul},
+  volumes    = {2},
+  publisher  = {George Routledge \& Sons},
+  location   = {London},
+  date       = {1938},
+  url        = {https://archive.org/details/descriptionofwor01polo},
+}
+
+% confirmed (missed by CIT-A, which merged Moule into Moule–Pelliot)
+@book{moule1957quinsai,
+  author    = {Moule, A. C.},
+  title     = {Quinsai, with Other Notes on Marco Polo},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1957},
+}
+
+% confirmed (publisher to check: SPCK / Macmillan)
+@book{moule1930christians,
+  author    = {Moule, A. C.},
+  title     = {Christians in China before the Year 1550},
+  publisher = {Society for Promoting Christian Knowledge},
+  location  = {London},
+  date      = {1930},
+}
+
+% confirmed
+@book{pelliot1959notes,
+  author    = {Pelliot, Paul},
+  title     = {Notes on Marco Polo},
+  volumes   = {3},
+  publisher = {Imprimerie nationale and Adrien-Maisonneuve},
+  location  = {Paris},
+  date      = {1959/1973},
+}
+
+% confirmed
+@book{benedetto1928milione,
+  author    = {Polo, Marco},
+  editor    = {Benedetto, Luigi Foscolo},
+  title     = {Il Milione: Prima edizione integrale},
+  publisher = {Leo S. Olschki},
+  location  = {Florence},
+  date      = {1928},
+  url       = {https://archive.org/details/marcopolomilionebenedetto},
+}
+
+% confirmed
+@book{allsen1997commodity,
+  author    = {Allsen, Thomas T.},
+  title     = {Commodity and Exchange in the Mongol Empire: A Cultural History of Islamic Textiles},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1997},
+}
+
+% confirmed (added: the II-04 hunt contexts)
+@book{allsen2006royal,
+  author    = {Allsen, Thomas T.},
+  title     = {The Royal Hunt in Eurasian History},
+  publisher = {University of Pennsylvania Press},
+  location  = {Philadelphia},
+  date      = {2006},
+}
+
+% confirmed
+@book{critchley1992marco,
+  author    = {Critchley, John},
+  title     = {Marco Polo's Book},
+  publisher = {Variorum},
+  location  = {Aldershot},
+  date      = {1992},
+}
+
+% confirmed (series; each Note must name its volume)
+@book{needham1954science,
+  author    = {Needham, Joseph},
+  title     = {Science and Civilisation in China},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1954/},
+}
+
+% confirmed
+@book{steinhardt1990chinese,
+  author    = {Steinhardt, Nancy Shatzman},
+  title     = {Chinese Imperial City Planning},
+  publisher = {University of Hawaii Press},
+  location  = {Honolulu},
+  date      = {1990},
+  url       = {https://archive.org/details/chineseimperialc0000stei},
+}
+
+% confirmed
+@book{wood1995did,
+  author    = {Wood, Frances},
+  title     = {Did Marco Polo Go to China?},
+  publisher = {Secker \& Warburg},
+  location  = {London},
+  date      = {1995},
+}
+
+% unconfirmed (the rebuttal CIT-A missed; check journal volume)
+@article{derachewiltz1997marco,
+  author       = {de Rachewiltz, Igor},
+  title        = {Marco Polo Went to China},
+  journaltitle = {Zentralasiatische Studien},
+  volume       = {27},
+  date         = {1997},
+}
+
+% confirmed
+@book{derachewiltz2004secret,
+  author    = {de Rachewiltz, Igor},
+  title     = {The Secret History of the Mongols: A Mongolian Epic Chronicle of the Thirteenth Century},
+  volumes   = {2},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {2004},
+}
+
+% confirmed (Italian original 1957)
+@book{olschki1960marco,
+  author     = {Olschki, Leonardo},
+  title      = {Marco Polo's Asia: An Introduction to His ``Description of the World'' Called ``Il Milione''},
+  translator = {Scott, John A.},
+  publisher  = {University of California Press},
+  location   = {Berkeley},
+  date       = {1960},
+}
+
+% confirmed
+@book{franke1994china,
+  author    = {Franke, Herbert},
+  title     = {China under Mongol Rule},
+  publisher = {Variorum},
+  location  = {Aldershot},
+  date      = {1994},
+}
+
+% unconfirmed (title of the dissertation to check)
+@thesis{dutschke1993francesco,
+  author      = {Dutschke, Consuelo Wager},
+  title       = {Francesco Pipino and the Manuscripts of Marco Polo's Travels},
+  type        = {phdthesis},
+  institution = {University of California, Los Angeles},
+  date        = {1993},
+}
+
+% confirmed (2nd ed. 2007)
+@book{morgan1986mongols,
+  author    = {Morgan, David},
+  title     = {The Mongols},
+  publisher = {Blackwell},
+  location  = {Oxford},
+  date      = {1986},
+}
+
+% confirmed (2nd ed. 2018)
+@book{jackson2005mongols,
+  author    = {Jackson, Peter},
+  title     = {The Mongols and the West, 1221--1410},
+  publisher = {Pearson Longman},
+  location  = {Harlow},
+  date      = {2005},
+}
+
+% known (no Open Library record found)
+@book{atwood2004encyclopedia,
+  author    = {Atwood, Christopher P.},
+  title     = {Encyclopedia of Mongolia and the Mongol Empire},
+  publisher = {Facts on File},
+  location  = {New York},
+  date      = {2004},
+}
+
+% confirmed
+@book{chaudhuri1985trade,
+  author    = {Chaudhuri, K. N.},
+  title     = {Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1985},
+}
+
+% confirmed (identification medium: check the Notes' context)
+@book{hall1985maritime,
+  author    = {Hall, Kenneth R.},
+  title     = {Maritime Trade and State Development in Early Southeast Asia},
+  publisher = {University of Hawaii Press},
+  location  = {Honolulu},
+  date      = {1985},
+}
+
+% confirmed (identification medium)
+@book{wolters1967early,
+  author    = {Wolters, O. W.},
+  title     = {Early Indonesian Commerce: A Study of the Origins of Śrīvijaya},
+  publisher = {Cornell University Press},
+  location  = {Ithaca},
+  date      = {1967},
+}
+
+% confirmed (2nd ed. 2007)
+@book{daftary1990ismailis,
+  author    = {Daftary, Farhad},
+  title     = {The Ismāʿīlīs: Their History and Doctrines},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1990},
+}
+
+% confirmed (French original 1959)
+@book{gernet1962daily,
+  author     = {Gernet, Jacques},
+  title      = {Daily Life in China on the Eve of the Mongol Invasion, 1250--1276},
+  translator = {Wright, H. M.},
+  publisher  = {Macmillan},
+  location   = {New York},
+  date       = {1962},
+}
+
+% known (no Open Library record found)
+@book{thackston1998rashiduddin,
+  author     = {Rashīd al-Dīn},
+  title      = {Rashiduddin Fazlullah's Jamiʿuʾt-tawarikh: Compendium of Chronicles},
+  translator = {Thackston, W. M.},
+  volumes    = {3},
+  series     = {Sources of Oriental Languages and Literatures 45},
+  publisher  = {Harvard University, Department of Near Eastern Languages and Civilizations},
+  location   = {Cambridge, MA},
+  date       = {1998/1999},
+}
+
+% confirmed
+@book{boyle1958history,
+  author     = {Juvaynī, ʿAlāʾ al-Dīn ʿAṭā-Malik},
+  title      = {The History of the World-Conqueror},
+  translator = {Boyle, John Andrew},
+  volumes    = {2},
+  publisher  = {Manchester University Press},
+  location   = {Manchester},
+  date       = {1958},
+}
+
+% confirmed (vols. 4–5 by C. F. Beckingham)
+@book{gibb1958travels,
+  author     = {Ibn Baṭṭūṭa},
+  title      = {The Travels of Ibn Baṭṭūṭa, A.D. 1325--1354},
+  translator = {Gibb, H. A. R. and Beckingham, C. F.},
+  volumes    = {5},
+  publisher  = {Hakluyt Society},
+  location   = {Cambridge},
+  date       = {1958/2000},
+}
+
+% confirmed
+@book{jackson1990mission,
+  author     = {William of Rubruck},
+  title      = {The Mission of Friar William of Rubruck: His Journey to the Court of the Great Khan Möngke, 1253--1255},
+  translator = {Jackson, Peter},
+  editor     = {Jackson, Peter and Morgan, David},
+  publisher  = {Hakluyt Society},
+  location   = {London},
+  date       = {1990},
+}
+
+% known (Hakluyt 2nd ser. 33, 37, 38, 41)
+@book{yule1913cathay,
+  author    = {Yule, Henry},
+  title     = {Cathay and the Way Thither: Being a Collection of Medieval Notices of China},
+  editor    = {Cordier, Henri},
+  edition   = {new},
+  volumes   = {4},
+  publisher = {Hakluyt Society},
+  location  = {London},
+  date      = {1913/1916},
+}
+
+% confirmed
+@book{evans1936pratica,
+  author    = {Pegolotti, Francesco Balducci},
+  title     = {La Pratica della Mercatura},
+  editor    = {Evans, Allan},
+  publisher = {Mediaeval Academy of America},
+  location  = {Cambridge, MA},
+  date      = {1936},
+}
+
+% known
+@book{beal1884siyuki,
+  author     = {Xuanzang},
+  title      = {Si-yu-ki: Buddhist Records of the Western World},
+  translator = {Beal, Samuel},
+  volumes    = {2},
+  publisher  = {Trübner},
+  location   = {London},
+  date       = {1884},
+}
+
+% known (Hakluyt extra ser. 42; no Open Library record found)
+@book{mills1970yingyai,
+  author     = {Ma Huan},
+  title      = {Ying-yai Sheng-lan: `The Overall Survey of the Ocean's Shores' [1433]},
+  translator = {Mills, J. V. G.},
+  publisher  = {Hakluyt Society},
+  location   = {Cambridge},
+  date       = {1970},
+}
+
+% known
+@book{defremery1853voyages,
+  author    = {Ibn Baṭṭūṭa},
+  title     = {Voyages d'Ibn Batoutah},
+  editor    = {Defrémery, C. and Sanguinetti, B. R.},
+  volumes   = {4},
+  publisher = {Imprimerie impériale},
+  location  = {Paris},
+  date      = {1853/1858},
+}
+
+% known
+@book{duhalde1735description,
+  author    = {Du Halde, Jean-Baptiste},
+  title     = {Description géographique, historique, chronologique, politique et physique de l'empire de la Chine et de la Tartarie chinoise},
+  volumes   = {4},
+  publisher = {P. G. Le Mercier},
+  location  = {Paris},
+  date      = {1735},
+}
+
+% known (journey 1838; 1872 ed. with Yule's essay)
+@book{wood1841personal,
+  author    = {Wood, John},
+  title     = {A Personal Narrative of a Journey to the Source of the River Oxus},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1841},
+}
+
+% unconfirmed (article; volume per CIT-C)
+@article{palladius1876elucidations,
+  author       = {Palladius},
+  title        = {Elucidations of Marco Polo's Travels in North-China, Drawn from Chinese Sources},
+  journaltitle = {Journal of the North-China Branch of the Royal Asiatic Society},
+  series       = {newseries},
+  volume       = {10},
+  date         = {1876},
+}
+
+% confirmed (some records date it 1866)
+@book{pauthier1865livre,
+  author    = {Polo, Marco},
+  editor    = {Pauthier, G.},
+  title     = {Le Livre de Marco Polo, citoyen de Venise},
+  volumes   = {2},
+  publisher = {Firmin Didot},
+  location  = {Paris},
+  date      = {1865},
+}
+
+% confirmed (IA vol. 2 scan is the 1910 reprint)
+@book{bretschneider1888mediaeval,
+  author    = {Bretschneider, E.},
+  title     = {Mediaeval Researches from Eastern Asiatic Sources},
+  volumes   = {2},
+  publisher = {Kegan Paul, Trench, Trübner},
+  location  = {London},
+  date      = {1888},
+  url       = {https://archive.org/details/medivalresearche02bret},
+}
+
+% confirmed
+@book{hammer1842geschichte,
+  author    = {Hammer-Purgstall, Joseph von},
+  title     = {Geschichte der Ilchane, das ist der Mongolen in Persien},
+  volumes   = {2},
+  publisher = {C. W. Leske},
+  location  = {Darmstadt},
+  date      = {1842/1843},
+  url       = {https://archive.org/details/geschichtederilc01hamm},
+}
+
+% confirmed
+@book{baber1882travels,
+  author    = {Baber, E. Colborne},
+  title     = {Travels and Researches in Western China},
+  series    = {Royal Geographical Society Supplementary Papers 1.1},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1882},
+}
+
+% confirmed
+@book{richthofen1877china,
+  author    = {Richthofen, Ferdinand von},
+  title     = {China: Ergebnisse eigener Reisen und darauf gegründeter Studien},
+  volumes   = {5},
+  publisher = {D. Reimer},
+  location  = {Berlin},
+  date      = {1877/1912},
+}
+
+% confirmed
+@book{marsden1818travels,
+  author     = {Polo, Marco},
+  translator = {Marsden, William},
+  title      = {The Travels of Marco Polo, a Venetian, in the Thirteenth Century},
+  publisher  = {Cox and Baylis},
+  location   = {London},
+  date       = {1818},
+}
+
+% confirmed
+@book{tennent1859ceylon,
+  author    = {Tennent, James Emerson},
+  title     = {Ceylon: An Account of the Island, Physical, Historical, and Topographical},
+  volumes   = {2},
+  publisher = {Longman},
+  location  = {London},
+  date      = {1859},
+}
+
+% confirmed
+@book{sykes1902ten,
+  author    = {Sykes, Percy Molesworth},
+  title     = {Ten Thousand Miles in Persia, or Eight Years in Irán},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1902},
+}
+
+% confirmed
+@book{rockhill1891land,
+  author    = {Rockhill, William Woodville},
+  title     = {The Land of the Lamas},
+  publisher = {Century},
+  location  = {New York},
+  date      = {1891},
+}
+
+% confirmed
+@book{shaw1871visits,
+  author    = {Shaw, Robert},
+  title     = {Visits to High Tartary, Yârkand, and Kâshghar},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1871},
+}
+
+% confirmed
+@book{dutreuil1897mission,
+  author    = {Dutreuil de Rhins, J.-L. and Grenard, Fernand},
+  title     = {Mission scientifique dans la Haute Asie, 1890--1895},
+  volumes   = {3},
+  publisher = {Ernest Leroux},
+  location  = {Paris},
+  date      = {1897/1898},
+}
+
+% confirmed
+@book{forsyth1875report,
+  author    = {Forsyth, T. D.},
+  title     = {Report of a Mission to Yarkund in 1873},
+  publisher = {Foreign Department Press},
+  location  = {Calcutta},
+  date      = {1875},
+}
+
+% confirmed
+@book{garnier1873voyage,
+  author    = {Garnier, Francis},
+  title     = {Voyage d'exploration en Indo-Chine},
+  volumes   = {2},
+  publisher = {Hachette},
+  location  = {Paris},
+  date      = {1873},
+}
+
+% confirmed
+@book{doolittle1865social,
+  author    = {Doolittle, Justus},
+  title     = {Social Life of the Chinese},
+  volumes   = {2},
+  publisher = {Harper},
+  location  = {New York},
+  date      = {1865},
+}
+
+% confirmed
+@book{degroot1892religious,
+  author    = {de Groot, J. J. M.},
+  title     = {The Religious System of China},
+  volumes   = {6},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {1892/1910},
+}
+
+% confirmed (identification medium)
+@book{mayers1874chinese,
+  author    = {Mayers, William Frederick},
+  title     = {The Chinese Reader's Manual},
+  publisher = {American Presbyterian Mission Press},
+  location  = {Shanghai},
+  date      = {1874},
+}
+
+% confirmed
+@book{stein1907ancient,
+  author    = {Stein, M. Aurel},
+  title     = {Ancient Khotan},
+  volumes   = {2},
+  publisher = {Clarendon Press},
+  location  = {Oxford},
+  date      = {1907},
+}
+
+% confirmed
+@book{hedin1898through,
+  author    = {Hedin, Sven},
+  title     = {Through Asia},
+  volumes   = {2},
+  publisher = {Methuen},
+  location  = {London},
+  date      = {1898},
+}
+
+% confirmed
+@book{dohsson1834histoire,
+  author    = {d'Ohsson, C.},
+  title     = {Histoire des Mongols, depuis Tchinguiz-Khan jusqu'à Timour Bey ou Tamerlan},
+  volumes   = {4},
+  publisher = {Les frères Van Cleef},
+  location  = {The Hague and Amsterdam},
+  date      = {1834/1835},
+}
+
+% known (no Open Library record found)
+@book{quatremere1836histoire,
+  author    = {Rashīd al-Dīn},
+  editor    = {Quatremère, Étienne},
+  title     = {Histoire des Mongols de la Perse},
+  publisher = {Imprimerie royale},
+  location  = {Paris},
+  date      = {1836},
+}
+
+% confirmed
+@book{gill1880river,
+  author    = {Gill, William},
+  title     = {The River of Golden Sand},
+  volumes   = {2},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1880},
+}
+
+% confirmed (II-08 context only; the III-03 Anderson is someone else)
+@book{anderson1876mandalay,
+  author    = {Anderson, John},
+  title     = {Mandalay to Momien},
+  publisher = {Macmillan},
+  location  = {London},
+  date      = {1876},
+}
+
+% confirmed
+@book{gordon1876roof,
+  author    = {Gordon, T. E.},
+  title     = {The Roof of the World},
+  publisher = {Edmonston and Douglas},
+  location  = {Edinburgh},
+  date      = {1876},
+}
+
+% confirmed
+@book{burnes1834travels,
+  author    = {Burnes, Alexander},
+  title     = {Travels into Bokhara},
+  volumes   = {3},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1834},
+}
+
+% confirmed
+@book{elphinstone1815account,
+  author    = {Elphinstone, Mountstuart},
+  title     = {An Account of the Kingdom of Caubul},
+  publisher = {Longman},
+  location  = {London},
+  date      = {1815},
+}
+
+% confirmed
+@book{moorcroft1841travels,
+  author    = {Moorcroft, William and Trebeck, George},
+  title     = {Travels in the Himalayan Provinces of Hindustan and the Panjab},
+  volumes   = {2},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1841},
+}
+
+% confirmed
+@book{curzon1892persia,
+  author    = {Curzon, George N.},
+  title     = {Persia and the Persian Question},
+  volumes   = {2},
+  publisher = {Longmans, Green},
+  location  = {London},
+  date      = {1892},
+}
+
+% confirmed
+@book{ferrier1856caravan,
+  author    = {Ferrier, J. P.},
+  title     = {Caravan Journeys and Wanderings in Persia, Afghanistan, Turkistan, and Beloochistan},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1856},
+}
+
+% confirmed
+@book{cunningham1854ladak,
+  author    = {Cunningham, Alexander},
+  title     = {Ladák, Physical, Statistical, and Historical},
+  publisher = {W. H. Allen},
+  location  = {London},
+  date      = {1854},
+}
+
+% confirmed
+@book{vambery1864travels,
+  author    = {Vámbéry, Arminius},
+  title     = {Travels in Central Asia},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1864},
+}
+
+% confirmed (identification medium)
+@book{michie1864siberian,
+  author    = {Michie, Alexander},
+  title     = {The Siberian Overland Route from Peking to Petersburg},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1864},
+}
+
+% --- Phase R intake: CIT-C rows 50–79 and CIT-D (2026-10-22) ---------------
+
+% confirmed
+@book{atkinson1858oriental,
+  author    = {Atkinson, Thomas Witlam},
+  title     = {Oriental and Western Siberia},
+  publisher = {Hurst and Blackett},
+  location  = {London},
+  date      = {1858},
+}
+
+% known (no Open Library record found)
+@book{timkowski1827travels,
+  author    = {Timkowski, George},
+  title     = {Travels of the Russian Mission through Mongolia to China},
+  volumes   = {2},
+  publisher = {Longman},
+  location  = {London},
+  date      = {1827},
+}
+
+% confirmed
+@book{hooker1854himalayan,
+  author    = {Hooker, Joseph Dalton},
+  title     = {Himalayan Journals},
+  volumes   = {2},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1854},
+}
+
+% confirmed
+@book{westermarck1891history,
+  author    = {Westermarck, Edward},
+  title     = {The History of Human Marriage},
+  publisher = {Macmillan},
+  location  = {London},
+  date      = {1891},
+}
+
+% confirmed
+@book{hosie1890three,
+  author    = {Hosie, Alexander},
+  title     = {Three Years in Western China},
+  publisher = {George Philip},
+  location  = {London},
+  date      = {1890},
+}
+
+% confirmed
+@book{flueckiger1874pharmacographia,
+  author    = {Flückiger, Friedrich A. and Hanbury, Daniel},
+  title     = {Pharmacographia: A History of the Principal Drugs of Vegetable Origin},
+  publisher = {Macmillan},
+  location  = {London},
+  date      = {1874},
+}
+
+% confirmed
+@book{major1857india,
+  editor    = {Major, R. H.},
+  title     = {India in the Fifteenth Century},
+  publisher = {Hakluyt Society},
+  location  = {London},
+  date      = {1857},
+}
+
+% unconfirmed (date 1876 vs 1880 per CIT-C; no record found)
+@book{groeneveldt1876notes,
+  author   = {Groeneveldt, W. P.},
+  title    = {Notes on the Malay Archipelago and Malacca, Compiled from Chinese Sources},
+  location = {Batavia},
+  date     = {1876},
+}
+
+% confirmed (identification medium)
+@book{hardy1850eastern,
+  author    = {Hardy, R. Spence},
+  title     = {Eastern Monachism},
+  publisher = {Partridge and Oakey},
+  location  = {London},
+  date      = {1850},
+}
+
+% confirmed
+@book{pridham1849historical,
+  author    = {Pridham, Charles},
+  title     = {An Historical, Political, and Statistical Account of Ceylon and Its Dependencies},
+  volumes   = {2},
+  publisher = {T. and W. Boone},
+  location  = {London},
+  date      = {1849},
+}
+
+% confirmed
+@book{elliot1867history,
+  editor    = {Elliot, H. M. and Dowson, John},
+  title     = {The History of India, as Told by Its Own Historians},
+  volumes   = {8},
+  publisher = {Trübner},
+  location  = {London},
+  date      = {1867/1877},
+}
+
+% confirmed
+@book{salt1814voyage,
+  author    = {Salt, Henry},
+  title     = {A Voyage to Abyssinia, and Travels into the Interior of That Country},
+  publisher = {F. C. and J. Rivington},
+  location  = {London},
+  date      = {1814},
+  url       = {https://archive.org/details/voyageAbyssinia00Salt},
+}
+
+% confirmed
+@book{younghusband1896heart,
+  author    = {Younghusband, Francis Edward},
+  title     = {The Heart of a Continent},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1896},
+}
+
+% confirmed in YC Intro § 37 (Yule's translation); edition per CIT-D, columns unconfirmed
+@incollection{jacopo1848chronica,
+  author    = {Jacopo d'Acqui},
+  title     = {Chronica imaginis mundi},
+  booktitle = {Historiae Patriae Monumenta, Scriptores},
+  volume    = {3},
+  location  = {Turin},
+  date      = {1848},
+}
+
+% confirmed (DOI resolves to Edizioni Ca' Foscari)
+@article{bolognari2024chronica,
+  author       = {Bolognari, Marcello},
+  title        = {La Chronica di Iacopo d'Acqui e il Devisement dou monde di Marco Polo: una prima ricognizione},
+  journaltitle = {TranScript},
+  volume       = {3},
+  number       = {1},
+  date         = {2024},
+  doi          = {10.30687/TranScript/2785-5708/2024/01/002},
+}
+
+% known (no Open Library record found)
+@book{gil1986libro,
+  editor    = {Gil, Juan},
+  title     = {El libro de Marco Polo: ejemplar anotado por Cristóbal Colón y que se conserva en la Biblioteca Capitular y Colombina de Sevilla},
+  series    = {Tabula Americae 5},
+  publisher = {Testimonio},
+  location  = {Madrid},
+  date      = {1986},
+}
+
+% confirmed
+@book{vignaud1902toscanelli,
+  author    = {Vignaud, Henry},
+  title     = {Toscanelli and Columbus},
+  publisher = {Sands},
+  location  = {London},
+  date      = {1902},
+}
+
+% known
+@book{ramusio1559navigationi,
+  editor    = {Ramusio, Giovanni Battista},
+  title     = {Secondo volume delle navigationi et viaggi},
+  publisher = {Giunti},
+  location  = {Venice},
+  date      = {1559},
+}
+
+
+% --- Phase R intake: CIT batch A and B and the decisions round (2026-10-22)
+
+% confirmed: Open Library record, year 1991 (the 1990 date in the research output is not supported).
+@book{columbus1991libro,
+  author     = {Columbus, Christopher},
+  editor     = {West, Delno C. and Kling, August},
+  translator = {West, Delno C. and Kling, August},
+  title      = {The ``Libro de las profecías'' of Christopher Columbus: An En Face Edition},
+  publisher  = {University Press of Florida},
+  location   = {Gainesville},
+  date       = {1991},
+}
+
+% confirmed 2026-10-22: BnF record ark:/12148/cb39245594j showed 1993 and Rusconi (the page later went down for maintenance); Nuova raccolta colombiana 3.
+@book{columbus1993rusconi,
+  author    = {Colombo, Cristoforo},
+  editor    = {Rusconi, Roberto},
+  title     = {Cristoforo Colombo, Lettere e scritti (1495--1506), tomo I: Libro de las profecías},
+  publisher = {Istituto Poligrafico e Zecca dello Stato},
+  location  = {Rome},
+  date      = {1993},
+}
+
+% confirmed 2026-10-22: Open Library OL44206919M: "an abridgment of the Muʿjam al-buldān of Yāqūt, by ʿAbd al-Muʾmin ibn ʿAbd al-Ḥaqq"; Juynboll ed., 6 tomes (iv–v introduction and annotation; vi Fleischer's annotation). Years 1852–1864 per DeepSeek (HathiTrust 008887209, not opened).
+@book{marasid1852,
+  author    = {ʿAbd al-Muʾmin ibn ʿAbd al-Ḥaqq al-Baghdādī},
+  volumes   = {6},
+  editor    = {Juynboll, T. W. J.},
+  title     = {Marāṣid al-iṭṭilāʿ ʿalā asmāʾ al-amkina wa-al-biqāʿ},
+  publisher = {E. J. Brill},
+  location  = {Leiden},
+  date      = {1852--1864},
+}
+
+% claimed: DeepSeek cites Shanghai Library and NCEPU records; Shanghai rate-limited and NCEPU unreachable here; not verified.
+@book{wu2015mengliang,
+  author    = {Wu, Zimu},
+  editor    = {Kan, Haijuan},
+  title     = {Mengliang lu xin jiaozhu [夢粱錄新校注]},
+  publisher = {Bashu shushe},
+  location  = {Chengdu},
+  date      = {2015},
+  note      = {Modern critical annotated edition. Chinese title and editor from the research output.},
+}
+
+% claimed: DeepSeek cites Academia Sinica (unreachable here) and Shanghai Library (rate-limited); not verified. Text checked: juan 21 on Wikisource (Sibu congkan) has the Palm Hall sentence.
+@book{tao1959nancun,
+  author    = {Tao, Zongyi},
+  title     = {Nancun chuogeng lu [南村輟耕錄]},
+  publisher = {Zhonghua shuju},
+  location  = {Beijing},
+  date      = {1959},
+  series    = {Yuan Ming shiliao biji congkan},
+}
+
+% --- Palm Hall sources (enrichment E1, E2, E6, E7; 2026-10-22). Texts read on Wikisource; print editions to choose at S-12.
+
+% verified text: 上苑棕毛百尺樓 ("a hundred-foot tower of palm fibre in the upper park"), Wikisource page 上京即事. Translation ours.
+@incollection{sadulashangjing,
+  author    = {Sa Dula},
+  title     = {Shangjing jishi [上京即事]},
+  booktitle = {Sa Tianxi shiji [薩天錫詩集]},
+  addendum  = {Modern edition: Yanmen ji [雁門集], ed. Yin Menglun and Zhu Guangqi (Shanghai: Shanghai guji chubanshe, 1982); imprint in Open Library, editors per the research; juan of this poem not yet checked},
+  url       = {https://zh.wikisource.org/zh-hant/上京即事},
+  note      = {Poem sequence on Shangdu; print edition not yet chosen},
+}
+
+% verified text: 隆福宮西棕毛殿 in an entry of 至大四年 (1311), juan 5 (Siku quanshu text on Wikisource). Compilers not yet checked.
+@book{mishujianzhi,
+  author   = {Wang, Shidian and Shang, Qiweng},
+  title    = {Mishujian zhi [秘書監志]},
+  addendum = {Claimed modern edition: ed. Gao Rongsheng (Hangzhou: Zhejiang guji chubanshe, 1992); not in Open Library, not verified here},
+  url   = {https://zh.wikisource.org/zh-hant/秘書監志_(四庫全書本)/卷05},
+  note  = {Records of the Yuan Palace Library; print edition not yet chosen},
+}
+
+% verified text: juan 29 (Taiding annals): 新作棕殿成 … 作棕毛殿; dated 1324–25 by Rixia jiuwen kao juan 32. Edition not yet chosen (Zhonghua shuju is the usual one; unchecked).
+@book{yuanshi1370,
+  author    = {Song, Lian and others},
+  title     = {Yuan shi [元史]},
+  date      = {1370},
+  addendum  = {Cited by juan. Modern edition: Beijing: Zhonghua shuju, 1976, 15 vols. (punctuated; Open Library lists a Zhonghua 1976 printing; volume count per the research)},
+  url    = {https://zh.wikisource.org/zh-hant/元史/卷029},
+  note   = {Official history of the Yuan dynasty, compiled under the Ming},
+}
+
+% --- Leads round (2026-10-22): Leeu edition, postils, Marāṣid, Chinese editions, Chen Gaohua
+
+% confirmed: University of Glasgow incunabula record and BnF ark:/12148/cb31131556j: "[Gouda: Gerard Leeu, between 1483 and 11 June 1484]",
+% dated from Hellinga's HPT; Goff dated 1483-85. ISTC ip00902000; GW M34796. Columbus's copy: Seville, Biblioteca Capitular y Colombina.
+@book{polo1484consuetudinibus,
+  author     = {Polo, Marco},
+  translator = {Pipino, Francesco},
+  title      = {De consuetudinibus et condicionibus orientalium regionum},
+  publisher  = {Gerard Leeu},
+  location   = {Gouda},
+  date       = {1483/1484},
+  note       = {ISTC ip00902000; GW M34796. Printed between 1483 and 11 June 1484},
+}
+
+% confirmed: Open Library record (ISBN 8420625000).
+@book{gil1987libro,
+  editor    = {Gil, Juan},
+  title     = {El libro de Marco Polo anotado por Cristóbal Colón; El libro de Marco Polo versión de Rodrigo de Santaella},
+  publisher = {Alianza Editorial},
+  location  = {Madrid},
+  date      = {1987},
+  isbn      = {8420625000},
+}
+
+% confirmed: CrossRef record and abstract ("notes and drawings attributable to Columbus himself and other members of his immediate circle";
+% "almost exclusively concerned with material things"). The count of c. 366 postils and Hernando's hand are claimed by the research
+% (citing the article's text), not read here.
+@article{shawcross2023materiality,
+  author       = {Shawcross, Teresa},
+  title        = {Materiality and Marginalia across the World: The Role of Things in Christopher Columbus's Annotations on Marco Polo},
+  journaltitle = {The Medieval History Journal},
+  volume       = {26},
+  number       = {2},
+  pages        = {376--424},
+  date         = {2023},
+  doi          = {10.1177/09719458231213480},
+}
+
+% confirmed: Journal of East Asian Libraries review by Xian Wu (no. 159, 2014) gives the imprint and ISBN; also reviewed by Steinhardt.
+@book{chen2015capital,
+  author     = {Chen, Gaohua},
+  translator = {Poon, Phoebe},
+  editor     = {Griffith, Glenn and Poon, Phoebe},
+  title      = {The Capital of the Yuan Dynasty},
+  publisher  = {Silkroad Press},
+  location   = {Honolulu},
+  date       = {2015},
+  isbn       = {978-981-4332-44-6},
+  note       = {Translation of \emph{Yuan Dadu} (Beijing chubanshe, 1982), per Steinhardt's review},
+}
+
+% confirmed: CrossRef record (Journal of Song-Yuan Studies 45, 2015).
+@article{steinhardt2015capital,
+  author       = {Steinhardt, Nancy Shatzman},
+  title        = {Review of \emph{The Capital of the Yuan Dynasty}, by Chen Gaohua},
+  journaltitle = {Journal of Song-Yuan Studies},
+  volume       = {45},
+  pages        = {387--391},
+  date         = {2015},
+  doi          = {10.1353/sys.2015.0011},
+}
+
+% confirmed (DOI resolves to JSTOR; Crossref title, author, volume and first page match) — S-05 people intake
+@article{cleaves1976chinese,
+  author       = {Cleaves, Francis Woodman},
+  title        = {A Chinese Source Bearing on Marco Polo's Departure from China and a Persian Source on His Arrival in Persia},
+  journaltitle = {Harvard Journal of Asiatic Studies},
+  volume       = {36},
+  pages        = {181--203},
+  date         = {1976},
+  doi          = {10.2307/2718743},
+}
+
+% confirmed (DOI resolves to Reti Medievali Rivista; open-access PDF read 2026-10-22) — S-05 people intake
+@article{formentin2024codice,
+  author       = {Formentin, Vittorio and Schiavon, Alessandra},
+  title        = {Per il Codice Diplomatico Poliano: una sentenza memorabile (Venezia, 13 luglio 1366)},
+  journaltitle = {Reti Medievali Rivista},
+  volume       = {25},
+  number       = {1},
+  date         = {2024},
+  doi          = {10.6093/1593-2214/10840},
+}
+
+% unconfirmed (reported by the CHR-people-2 run via a Ca' Foscari press release; pages unknown; not seen)
+@article{bolognari2021agnes,
+  author       = {Bolognari, Marcello},
+  title        = {Agnes uxor Nicolai Calbo de confinio Sancti Iohannis Grisostomi: un nuovo documento inedito sulla famiglia Polo},
+  journaltitle = {Studi Medievali},
+  series       = {3},
+  volume       = {62},
+  date         = {2021},
+}
+
+% unconfirmed (reported by the CHR-people-2 run; not seen)
+@article{orlandini1926marco,
+  author       = {Orlandini, Giovanni},
+  title        = {Marco Polo e la sua famiglia},
+  journaltitle = {Archivio Veneto-Tridentino},
+  volume       = {9},
+  pages        = {1--68},
+  date         = {1926},
+}
