@@ -13,11 +13,11 @@ The recurring people of the book, as one source of truth for **text** (names, da
   - Chagatai as "brother" of the Kaan (I-7).
   - Aung Khan's defeat (I-12).
   - Nayan's descent: Otchigin, not Belgutai (II-1).
-  - Chingkim's death date (II-2, unverified).
+  - Chingkim's death date (II-2; S-06 still open, hedge "mid-1280s", `registry/facts.md` F-06).
   - Kiacatu / Baidu / Ghazan (II-15); Baidu's 1294 too (S-05).
   - "Po-lo" = Bolad, not Marco (II-5, II-11, III-12; `HOT.3`).
   - Donata Badoer (III-10); Niccolò's sons (III-10, S-05).
-  - Maffeo's marital status (I-2, unverified).
+  - Maffeo's marital status (I-2; S-06 still open, F-17; `CHR.T7` → S-15).
   - Argon's death day, 7 or 10 March 1291 (III-9, S-05).
   - Rustichello is a layman (I-1 plate).
 - Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.

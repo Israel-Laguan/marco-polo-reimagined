@@ -17,7 +17,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ### Factual / fidelity
 - "Manzi … the Sung name the Book still uses": Manzi ("southern barbarians") is a northern and Mongol term for the Song realm, not a Song name. Fix: "Manzi (southern China — the conquered Sung realm, under its northern nickname)". — vol-3 m11 · ch-01:11
 - "Moreover, Messer Marco Polo never was there" is attached to the Ramusian Gulf of Cheinan passage; in Yule (`yule-vol2.txt:14400`) the sentence closes the Sea of Chin / 7,459-islands chapter, before the Cheinan note. Fix: re-sequence, or say the confession belongs to the eastern isles. — vol-3 m12 · ch-01:43
-- Note [3] (watertight bulkheads): add the strongest corroboration, the 1274-era Quanzhou (Houzhu) shipwreck excavated in 1974, hull divided into 13 compartments, matching Polo's "thirteen" **(unverified — critic's own knowledge; verify before citing)**. — vol-3 n10 · ch-01:57
+- Note [3] (watertight bulkheads): add the strongest corroboration, the 1274-era Quanzhou (Houzhu) shipwreck excavated in 1974, hull divided into 13 compartments, matching Polo's "thirteen". **S-06: still open** (F-14; not in refs, no excavation report seen): do not cite the wreck until the report is seen; the Note keeps Yule's evidence. — vol-3 n10 · ch-01:57
 
 ### Dispute handling and Ramusio flags
 - "The King does not allow it to be exported" is a bracketed Ramusian insertion in Yule, narrated unflagged. Fix (W3 rule): 3–6-word inline tag ("Ramusio's text adds…") plus "◇ Ramusio-only" in the Note. — vol-3 M7 · ch-01:23
@@ -45,13 +45,20 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco Polo, Kublai (Cublay), Abacan, Vonsainchin; also named: Columbus; comparative sources: Niccolò de' Conti, Odoric, Ibn Battuta, Rashid al-Din
 
 ## Gated by spikes
-- S-01, S-02, S-03, S-04 (Manzi, Cheinan, A15), S-06 (m11, m12, unverified n10), S-08, S-09 (A15, C12), S-10 (GEN secondary, C12 base), S-11 (PD hero)
+- S-01, S-02, S-03, S-04 (Manzi, Cheinan, A15), S-06 (m11, m12, n10 wreck F-14 open), S-08, S-09 (A15, C12), S-10 (GEN secondary, C12 base), S-11 (PD hero)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-01.T1` Critical and factual fixes
 - `III-01.T5` Media placement (figures, tables, captions)
 - `III-01.T6` Lint pass and human voice read
+
+### III-01.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `III-01.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-14 (open): Note [3] keeps Yule's evidence for bulkheads and adds no wreck until the excavation report is seen.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-01.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #31 (batch 8)

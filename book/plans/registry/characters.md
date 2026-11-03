@@ -89,7 +89,7 @@ The itinerary in `character-cards.yaml` is coarse on purpose (regions, by year).
 
 ## Contested facts about people
 
-These go to S-06 (and S-14 / S-15 for the research). A chapter states them only with the verdict, or hedged.
+These go to S-06 (and S-14 / S-15 for the research). A chapter states them only with the verdict, or hedged. S-06's verdicts for the S-14 rows below are in `registry/facts.md` (F-01, F-04, F-05, F-06, F-08, F-15, F-16, F-17, F-33, F-34, F-35).
 
 | Person | Claim | Status | Where |
 |---|---|---|---|

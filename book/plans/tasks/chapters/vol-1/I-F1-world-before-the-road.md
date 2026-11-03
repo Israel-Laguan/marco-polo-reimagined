@@ -37,7 +37,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Media hooks
 - **Hero plate:** none. Critique §4 marks front-01 optional: "No scene. Use the political map instead of an illustration." Not in `illustration-plan.md` hero table.
 - **Secondary plates:** none
-- **Maps:** A2 The world in 1260 (Mongol successor khanates, Mamluks, Byzantium, Venetian and Genoese posts). Replaces `map-asia-mongol-empire.*` / `map-mongol-empire.gif` (date range **unverified**, see I-F2).
+- **Maps:** A2 The world in 1260 (Mongol successor khanates, Mamluks, Byzantium, Venetian and Genoese posts). Replaces `map-asia-mongol-empire.*` / `map-mongol-empire.gif` (a 1206–1294 animation, F-25; see I-F2).
 - **Timelines / diagrams / tables:** B1 The Polo family, 1254–1324; B2 Mongol politics, 1206–1295 (critique §5 timelines 1 and 3: "Pair with front-01").
 - **Characters appearing:** Niccolò Polo, Maffeo Polo, Marco Polo, Rustichello (via preamble), Kublai, Hulagu, Berke, Kaidu, Michael Palaeologus, William of Rubruck, John of Plano Carpini, Jacopo d'Acqui (Note [6]); Prester John (legendary)
 
@@ -57,13 +57,16 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-F1.T5` Media placement (figures, tables, captions)
 - `I-F1.T6` Lint pass and human voice read
 
-### I-F1.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+### I-F1.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Cilician Armenia → Lesser Hermenia ×1, Hormuz → Hormos ×1, Badakhshan → Badashan ×1, Pamir → Pamier ×1
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-34: Note [6]: Curzola is Ramusio's tradition, which Yule accepts; Jacopo puts the capture at Ayas.
+    - F-25: until A2 replaces it, the Mongol map is captioned from its 1294 frame (with `MED.T1`).
+- **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

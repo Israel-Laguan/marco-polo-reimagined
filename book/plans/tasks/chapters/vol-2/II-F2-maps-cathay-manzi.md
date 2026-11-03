@@ -61,13 +61,15 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map")
 - `II-F2.T6` Lint pass and human read
 
-### II-F2.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+### II-F2.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Beijing → Cambaluc ×1, Tibet → Tebet ×1, Yunnan → Carajan ×1, Burma → Mien ×1, Yangzhou → Yanju ×1, Xiangyang → Saianfu ×1, Suzhou → Suju ×1, Hangzhou → Kinsay ×1 (+2 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-11: the Cachanfu row is fixed by the `GAZ.T5` regeneration (Puzhou/Hezhong); check it, and drop "Nestorians noted".
+- **Done when:** `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### II-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

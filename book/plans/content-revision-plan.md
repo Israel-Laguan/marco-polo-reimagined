@@ -69,35 +69,39 @@ Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 
 ### W2 — Factual corrections (do them during W4 when the chapter is open)
 
+Verdicts and sources: `registry/facts.md` (S-06, closed 2026-11-03; rows F-01…F-36). Rows below marked *(S-06)* were changed by it.
+
 | Ch. | Fix |
 |---|---|
-| I-2 | Berke–Hulagu outcome is backwards (Hulagu routed at the Terek, 1263): note ✓ → "✓ war / ✗ outcome". The family biography comes from Venetian records, not "the book". |
+| I-2 | Berke–Hulagu outcome is backwards: Hulagu's army under Abaqa was routed beyond the Terek in the winter of 1262–63 (Yule's own Bk IV note, F-01): note ✓ → "✓ war / ✗ outcome". The family biography comes from Venetian records, not "the book". |
 | I-7, I-8, I-back, I-front-01, I-front-02 | The Hormuz "turning back" is Yule's inference, not the Book's words. Delete "bad faith in the haven". |
-| I-11 | Great Wall aside: the masonry wall at Suzhou/Jiayuguan is **Ming** (1372). |
+| I-11 | Great Wall aside: Yule's "just within the Wall" describes Suzhou in his own century; do not imply the Wall stood there in the 1270s. *(S-06: the Ming date, 1372, is not sourced; hedge, no date, F-24.)* |
 | I-12 | Aung Khan's final defeat: Jeje'er Heights, 1203. |
 | II-1 | Nayan descends from Temüge Otchigin, not Belgutai. |
-| II-2 | The silences aside needs substance (tea, foot-binding, Ming wall), not a pointer. |
-| II-11 | Saianfu engineers per Cordier's addendum (Mosul / Shiraz; sent by Abaqa); Polos at court "1275", not "end of 1274". |
-| II-14 | Tyunju is probably Dehua (a real Yuan export kiln); only the "sole source" boast fails. |
+| II-2 | The silences aside needs substance (tea, foot-binding, the Wall), not a pointer. *(S-06: no Ming date for the Wall, F-24.)* |
+| II-10 | Bayan's dispatch: 1274, not 1268 (Parker in Yule–Cordier, F-29). *(S-06)* |
+| II-11 | Saianfu engineers: sent by Abaqa; their origins differ inside Yule–Cordier (Yule: Miafarakain and Herat; Parker in the addenda: Mosul and Shiraz), so give both *(S-06, F-07)*. Polos at court "about May 1275", not "end of 1274". |
+| II-14 | Tyunju is probably Dehua (Cordier); only the "sole source" boast fails. Note [3]: the "local histories" are Yule's report of men "from the West"; "Babylonia" is Ramusio's *(S-06, F-12, F-13)*. |
 | II-15 | Kiacatu was Arghun's brother; Ghazan acceded 1295; Baidu was a cousin. |
 | II-front, gazetteer | Cachanfu = Puzhou/Hezhong at the Yellow River; **Kenjanfu** = Xi'an. |
 | III-3, III-9 | The Samara stockade and 2,000 men are Ramusio-only, yet the text calls them "the autobiographical hinge". |
-| III-9, III-11, III-12 | Add **Yang Zhijiu 1941** (*Yongle dadian* notice naming the three envoys, 1290). Neither it nor Rashid names the Polos. Departure 1291 vs 1292 is debated. |
-| III-10 | His wife is **Donata Badoer**. Pipino's Latin dates to the 1310s. |
-| III-11 | Columbus's copy = Leeu Latin (c. 1483–85); add Toscanelli 1474; dating of the postils is debated. The Catalan Atlas likely has no Chipangu (Fra Mauro first). Add print dates and Góis. |
+| III-9, III-11, III-12 | Add **Yang Zhijiu 1941** (*Yongle dadian* notice naming the three envoys, 1290), as Cleaves reports it. Neither it nor Rashid names the Polos (reported). Departure 1291 vs 1292 is debated; name no scholar for 1291 until seen *(S-06, F-15)*. |
+| III-10 | His wife is **Donata**, "usually identified as a Badoer" (the surname rests on leads; S-15). Pipino's Latin: "in Marco's lifetime, probably the 1310s"; Ramusio said 1320 and Yule suggests 1315, so "Ramusio thought about 1315–1320" is wrong *(S-06, F-16, F-18)*. |
+| III-11 | Columbus's copy = Leeu's Latin, printed at **Gouda, 1483–84** (not Antwerp), in Seville; dating of the postils is debated; Toscanelli's letters (the 1474 date not yet seen). Drop Chipangu from the Catalan Atlas sentence and make no "first on a European map" claim for Fra Mauro (1459) until seen. Add print dates (1477, 1483–84, 1496, 1502, 1503, 1559) and Góis (Pamir 1603, died at Suzhou); cut the Jesuits "measuring" Polo's silences (no source) *(S-06, F-19–F-22)*. |
 | III-12 | State Wood's case fully (no Chinese or Persian record names the Polos; Persianised names); date the works (1995, 1997, 2006, 2013). |
-| III-back | Adam's Peak traditions: Muslim and Buddhist (not Christian). |
+| III-back | Adam's Peak: **in the Book** Muslim and Buddhist only. *(S-06, overturned in part: outside the Book there are Hindu (Siva) and Portuguese Christian (St Thomas, or the eunuch of Candace) claims, per Tennent in Yule. Fix the "in the book's telling" list; the others may appear only as later traditions, F-23.)* |
 
-**Unverified; check before print:**
-- Mosul's fall 1262 (I-5 [1]).
-- Maffeo's marital status (I-2).
-- Chingkim's death date (II-2).
-- Ahmad episode in Z (II-5).
-- Mar Sargis at Zhenjiang (II-12; possible ✓ upgrade).
-- Haw/Cleaves 1291 departure.
-- Pipino date.
-- Quanzhou wreck: 13 compartments.
-- Date range of the Mongol Empire map.
+**Still open after S-06; the chapter uses the hedge** (wording in `registry/facts.md`; library checks in S-06 *Findings*):
+- Mosul's fall: the chapter's 1261 is Yule's; credit it to him; 1262 is unsourced (I-5 [1], F-02).
+- Maffeo's marital status: drop the bachelor clause (I-2, F-17).
+- Chingkim's death: "mid-1280s" (II-2 Note [6], F-06).
+- Ahmad episode in Z: make no Z claim (II-5, F-09).
+- Mar Sargis: seven churches is settled (Cordier); the Zhenjiang details and the ✓ upgrade wait for Moule 1930 (II-12, F-10).
+- 1291 departure: debated, no names (III-9, F-15).
+- Pipino date: "probably the 1310s" (III-10, F-18).
+- Quanzhou wreck: not cited (III-1, F-14).
+- Also open: Badoer (F-16), Chipangu on the Catalan Atlas (F-20), the Ming Wall (F-24), postil dating (F-19), Ricci's Cathay (F-22), the Vogel/Haw/Rossabi "pillar" (II-5 Note [7], F-26), Rudrama Devi (III-6, F-31).
+- Settled by S-06: the Mongol Empire map is a 1206–1294 animation; caption the 1294 frame (F-25).
 
 ### W3 — Ramusio flagging (systemic)
 

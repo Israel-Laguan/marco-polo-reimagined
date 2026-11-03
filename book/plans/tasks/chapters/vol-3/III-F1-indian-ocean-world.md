@@ -50,13 +50,15 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-F1.T5` Media placement (C11)
 - `III-F1.T6` Lint pass and human voice read
 
-### III-F1.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+### III-F1.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Hormuz → Hormos ×2, South China → Manzi ×1, Japan → Chipangu ×1, Champa → Chamba ×1, Sumatra → Java the Less ×1, Coromandel → Maabar ×1, Malabar → Melibar ×1, Gujarat → Gozurat ×1 (+1 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-19: tone "bent the Atlantic" down to match III-11: Columbus's annotated Latin (Gouda, 1483–84) and Toscanelli's letters.
+- **Done when:** `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

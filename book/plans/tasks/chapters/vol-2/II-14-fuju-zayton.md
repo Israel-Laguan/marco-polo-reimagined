@@ -4,7 +4,7 @@
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,648 | 72% | [V/M] (undefined) | 7/7; Note [3] unverified claim; Note [6] overcorrects; "Gazetteer:" tooling in [5] | no |
+| 2,648 | 72% | [V/M] (undefined) | 7/7; Note [3] overstated claim (F-13); Note [6] overcorrects; "Gazetteer:" tooling in [5] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -17,7 +17,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** Tyunju porcelain overcorrected: the aside says the claim "will not stand" and points to Jingdezhen; Note [6] calls the locale "wrong". Yule–Cordier's itinerary list identifies Tyunju as Tek-hwa (Dehua, Fujian), a real Yuan porcelain centre exporting through Quanzhou; only the "sole source" claim is wrong. Fix: "Tyunju is probably Dehua, whose white wares really did go out through Zayton; what fails is only the boast that porcelain was made nowhere else — Jingdezhen was already greater." Also delete "Ramusian geography muddles rivers…", which is unsupported. — vol-2 M13 · ch-14:57–59, Note [6] ch-14:87; content plan W2 (II-14)
 
 ### Dispute handling and Ramusio flags
-- **[M]** Ramusio-only passages narrated unflagged: :33 Unken sugar refined by "men of Babylonia" (Note [3] even says "Chinese local histories confirm", which is **(unverified)**); :55 "charming country"; tattooers for Upper India. Fix: two-to-four-word inline tag per paragraph plus "◇ Ramusio-only" in the matching Note; model ch-13:53. — vol-2 M1 · ch-14:33, :55, Note [3] ch-14:81; content plan W3
+- **[M]** Ramusio-only passages narrated unflagged: :33 Unken sugar refined by "men of Babylonia" (Note [3] even says "Chinese local histories confirm"; **S-06: corrected**, F-13: Yule reports local histories crediting men "from the West" in Mongol times; "Babylonia" is Ramusio's word); :55 "charming country"; tattooers for Upper India. Fix: two-to-four-word inline tag per paragraph plus "◇ Ramusio-only" in the matching Note; model ch-13:53. — vol-2 M1 · ch-14:33, :55, Note [3] ch-14:81; content plan W3
 
 ### Voice and prose
 - **[M]** Drafting instructions in the prose: "tigers, as honesty restores" (:15); "Keep the charge as what the Book says; do not elevate it to fact." (:27). Fix: delete, keep only the substance. — vol-2 M3 · ch-14:15, :27; content plan W1.3
@@ -50,16 +50,25 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-02 Acceptance lint and thresholds
 - S-03 Apparatus conventions (compound tag, Gazetteer label, Ramusio flag style)
 - S-04 Gazetteer authority and naming policy (glosses, two Vujus, missing rows)
-- S-06 Fact verification sheet (Tyunju = Dehua; Note [3] "local histories" claim, unverified; 13 compartments)
+- S-06 Fact verification sheet (Tyunju = Dehua F-12; Note [3] "local histories" F-13; 13 compartments F-14 open)
 - S-08 LaTeX build pipeline (plates, map, diagram, cutaway)
 - S-09 Map and diagram pipeline (A13, C7, C12)
 - S-10 Image generation pilot (GEN hero, secondary; C12 cutaway base)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-14.T1` Factual fix (Tyunju/Dehua)
 - `II-14.T5` Media placement (hero, secondary, A13, C7, C12 preview)
 - `II-14.T6` Lint pass and human voice read
+
+### II-14.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `II-14.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-12: keep "probably Dehua" (Cordier); drop only the "sole source" boast.
+    - F-13: Note [3]: "Yule reports Fujian local histories crediting men from the West, in Mongol times, with teaching the art of refining; Ramusio's 'Babylonia' is Cairo."
+    - F-14 (open): no Quanzhou wreck in the Notes.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-14.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #4 (batch 1)

@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Critique's example rewrite for ch-05:33–35: "The Christians prayed eight days and nights, he says, until an angel told a bishop to seek out a certain one-eyed cobbler — a man so chaste that, when a customer's lovely foot stirred an impure thought, he took his own awl to his eye, as the Gospel bids. 'So you can judge what a holy man he was,' the book adds." — vol-1 C3 · ch-05:33–35
 
 ### Factual / fidelity
-- Note [1] says "Malik Ṣāliḥ tortured to death 1261"; Mosul fell after a siege in **1262** (general history; not found in the refs). **(unverified)** Check before keeping. Content plan W2 unverified list. — vol-1 m11 · ch-05:57
+- Note [1] says "Malik Ṣāliḥ tortured to death 1261"; Mosul fell after a siege in **1262** (general history; not found in the refs). **S-06: still open** (F-02): the note's 1261 is Yule's own date ("surrendered to the Mongols in 1261 on promise of life", `yule-vol1.txt:15268`); 1262 has no source. Fix: keep 1261 and credit it: "surrendered in 1261, by Yule's dating, on a promise of his life, and was tortured to death". Content plan W2 still-open list. — vol-1 m11 · ch-05:57
 
 ### Dispute handling and Ramusio flags
 — none found
@@ -55,16 +55,23 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-03 Apparatus conventions (Notes format, ? marker)
 - S-04 Gazetteer authority (Mausul, Kisi, Bastra; A4)
 - S-05 Character registry (Hulagu and the Caliph in hero plate)
-- S-06 Fact verification sheet (m11 Mosul 1262, unverified)
+- S-06 Fact verification sheet (m11 Mosul: Yule's 1261 kept, F-02)
 - S-08 LaTeX build pipeline (D table, plates)
 - S-09 Map and diagram pipeline (A4)
 - S-10 Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-05.T1` Critical and factual fixes
 - `I-05.T5` Media placement (figures, tables, captions)
 - `I-05.T6` Lint pass and human voice read
+
+### I-05.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `I-05.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-02 (open): Note [1] keeps Yule's 1261, credited: "surrendered in 1261, by Yule's dating, on a promise of his life, and was tortured to death". No 1262.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-05.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #18 (batch 5)

@@ -55,13 +55,15 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-B1.T5` Pronunciation glossary
 - `II-B1.T6` Lint pass and human read
 
-### II-B1.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓
+### II-B1.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** bare variants: Shangdu → Chandu ×1, Dadu → Cambaluc ×1, Yangzhou → Yanju ×1, Xiangyang → Saianfu ×1, Hangzhou → Kinsay ×1, Quanzhou → Zayton ×1
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
+- **Done when:** `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### II-B1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

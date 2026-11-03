@@ -58,13 +58,18 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-12.T5` Media placement (ledger and Cocachin tables, hero)
 - `III-12.T6` Lint pass and human voice read
 
-### III-12.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓
+### III-12.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** n/a — the lint `name_policy` check skips the reception chapters
 - **Do:**
   - Modern forms are fine where this chapter discusses modern scholarship. Where it names Polo's own places (Zayton, Kinsay, Chipangu, …) it uses the book form from `gazetteer.csv`, glossed once on first mention.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** a person has read the chapter's Polo place names against `gazetteer.csv`.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-08: drop the Bolad "hit" (:36) and open question 5 (:114).
+    - F-15 (open): Notes [9]–[10] add the 1290 notice "as Cleaves reports it"; 1291 vs 1292 debated.
+    - F-32: the Xi'an stele was found in 1625: cut it from the "misses" (:44, Note [6]).
+    - F-34: :30 and Note [4]: Jacopo puts the capture at Ayas; Curzola is Ramusio's tradition.
+- **Done when:** a person has read the chapter's Polo place names against `gazetteer.csv`. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-12.T2 — Ramusio flags and labels to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `III-12.T3` (the flags are written during the re-voice pass)

@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - Polo's wife given with Yule's 1903 uncertainty: "her family is not assured, though a Loredano connexion has been suspected" is verbatim Yule (`yule-vol1.txt:8331`). Modern scholarship identifies her as **Donata Badoer** (daughter of Vitale Badoer), married c. 1300. Fix: "His wife was Donata Badoer, married about 1300 (Yule, before the documents surfaced, guessed a Loredano link)." — vol-3 M6 · ch-10:21
-- Pipino's date "Ramusio thought about 1315–1320": modern estimates are earlier, c. 1310–1314 **(unverified)**. Fix: "in Marco's lifetime, probably the 1310s". — vol-3 M6 · ch-10:27
+- Pipino's date "Ramusio thought about 1315–1320": modern estimates are earlier, c. 1310–1314. **S-06: corrected in part** (F-18): Ramusio said 1320 and Yule suggests 1315, so the attribution is wrong; the 1310–14 window is still open. Fix: "in Marco's lifetime, probably the 1310s (Yule suggests 1315; Ramusio said 1320)". — vol-3 M6 · ch-10:27
 - **[m]** (S-05) Family list at :23 ("Nicolo's illegitimate sons Stefano and Zannino, and an uncle Maffeo whose own death fell between 1309 and 1318") comes from Yule's Introduction; checked (2026-10-22, Yule): Stefano and Zannino were illegitimate; the uncle Maffeo's last will was February 1309 (not extant) and he died before 1318; Niccolò's second wife was probably Fiordelisa (Trevisan?), mother of the younger Maffeo. The text stands; cite Yule. Keep Donata off any 1295 homecoming image (married c. 1300). — registry `niccolo`, `maffeo`, `donata` · ch-10:23
 - **[m]** (S-05, new) **A fourth daughter.** A will of 7 July 1319 by *Agnes*, wife of Nicolò Calbo, of the San Giovanni Grisostomo parish, shows Marco had a daughter Agnese (b. 1295–99, d. 1319), born before the c. 1300 marriage to Donata (ASVe, Notarile Testamenti, b. 830, n. 36; Bolognari, *Studi Medievali* 62, 2021: reported, not yet seen; spot-check before use). The chapter says "three daughters": add one clause, or a Note, after the article is seen. Also from the same check: Fantina was the eldest, and her husband Marco Bragadin died at Candia on 13 July 1360; she won her suit against his executors on 13 July 1366 (Formentin–Schiavon 2024, seen). Bellela was dead by 1333 and Donata between 1333 and 1336 (Yule). Bellela's husband is not known ("Bertuccio Querini" is a lead only). — registry `marco`, `fantina`, `bellela`, `donata`; `research/results/CHR-people-2-intake.md`
 
@@ -48,13 +48,22 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco, Niccolò and Maffeo Polo; Donata (Badoer); daughters Fantina, Bellela, Moreta; Peter the Tartar; Thibault de Cepoy; Charles of Valois; Pietro d'Abano; Jacopo d'Acqui; Francesco Pipino; Giovanni Giustiniani (notary); Marco Bragadin; Giovanni Battista Ramusio
 
 ## Gated by spikes
-- S-01, S-02, S-03 (*[reception]* tag, ★, Comparative block), S-05 (Donata Badoer and family in the will plate), S-06 (Donata, unverified Pipino date), S-07 (reception chapter; over length), S-08, S-09 (only if B5 is also placed here), S-10
+- S-01, S-02, S-03 (*[reception]* tag, ★, Comparative block), S-05 (Donata Badoer and family in the will plate), S-06 (Donata F-16; Pipino date F-18), S-07 (reception chapter; over length), S-08, S-09 (only if B5 is also placed here), S-10
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-10.T1` Critical and factual fixes (Soft strip, Donata, Pipino)
 - `III-10.T5` Media placement (figures, captions)
 - `III-10.T6` Lint pass and human voice read
+
+### III-10.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `III-10.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-16: "Donata, usually identified as a Badoer"; Fantina m. Marco Bragadin; Moreta m. Ranuzzo Dolfino; Bellela's husband is not in the documents.
+    - F-18: Pipino: "in Marco's lifetime, probably the 1310s (Yule suggests 1315; Ramusio said 1320)".
+    - F-35: Marco died on 8 or 9 January 1324; the will is dated 9 January.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-10.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #36 (batch 9)

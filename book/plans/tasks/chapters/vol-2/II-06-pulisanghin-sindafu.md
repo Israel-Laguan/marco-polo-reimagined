@@ -56,9 +56,16 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-06.T1` Factual fix (N6)
 - `II-06.T5` Media placement (hero, secondary, A10)
 - `II-06.T6` Lint pass and human voice read
+
+### II-06.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `II-06.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-30: Note [3]: Juju lies south-west of Cambaluc, not west.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-06.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #6 (batch 2)

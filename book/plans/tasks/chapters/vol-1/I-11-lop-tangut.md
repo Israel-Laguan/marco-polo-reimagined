@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Transcription share 46%. Fix: re-voice in the ch-01 manner, one or two short quoted lines per marvel; target ≤25%. W4 order: after I-4, before I-3. — vol-1 C3 · ch-11
 
 ### Factual / fidelity
-- Great Wall "seed": "Suhchau sits just within its extreme north-west angle" is Yule's 19th-century phrasing (Y:24254) and implies the Wall stood there in the 1270s. The masonry Wall at Suzhou/Jiayuguan is **Ming** (Jiayu Pass fort 1372); in Polo's day the Hexi defences were eroded Han-era earthworks. Fix: add "…though the brick-and-stone Wall a modern reader pictures there is Ming, a century after Polo; in his day only eroded earthen ramparts of the Han ran along the Hexi road." Content plan W2 (I-11). — vol-1 M7 · ch-11:43
+- Great Wall "seed": "Suhchau sits just within its extreme north-west angle" is Yule's 19th-century phrasing (Y:24254) and implies the Wall stood there in the 1270s. The masonry Wall at Suzhou/Jiayuguan is **Ming** (Jiayu Pass fort 1372); in Polo's day the Hexi defences were eroded Han-era earthworks. **S-06: still open** (F-24): refs give no date for the masonry, so the Ming and Han details wait for a source. Fix for now: "…Yule's 'just within the Wall' describes Suzhou in his own century; what stood there in the 1270s is uncertain." Content plan W2 (I-11). — vol-1 M7 · ch-11:43
 
 ### Dispute handling and Ramusio flags
 - The Wall seed leaves out the main counter-argument to Wood; the text gives only "a merchant itinerary need not chorograph every landmark" (see M7 fix above). — vol-1 M7 · ch-11:43
@@ -58,9 +58,16 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-11.T1` Critical and factual fixes
 - `I-11.T5` Media placement (figures, tables, captions)
 - `I-11.T6` Lint pass and human voice read
+
+### I-11.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `I-11.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-24 (open): the Wall aside gives no Ming or Han date: "Yule's 'just within the Wall' describes Suzhou in his own century; what stood there in the 1270s is uncertain."
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-11.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #23 (batch 6)

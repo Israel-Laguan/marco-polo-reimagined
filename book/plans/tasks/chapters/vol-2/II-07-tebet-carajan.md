@@ -61,6 +61,14 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-07.T5` Media placement (hero, secondary, A11, C9)
 - `II-07.T6` Lint pass and human voice read
 
+### II-07.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `II-07.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
+
 ### II-07.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #12 (batch 3)
 - **Now:** 3,082 words · 46% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges 5 · archaisms 8 · Book first person 0 · asides 0

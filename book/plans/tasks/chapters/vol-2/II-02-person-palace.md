@@ -18,7 +18,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[C]** Near-transcription of Yule: 80%, the most transcribed chapter in the volume (tied with II-03). The palace is named among the catalogue passages to turn "into modern storyteller summary". Keep Yule only as short marked quotations, one or two per scene. Scorecard: 7 hinges, "You must know" ×4. — vol-2 C2, §3 · ch-02 (whole), palace :27–47
 
 ### Factual / fidelity
-- **[m]** Clarity and date: "an older brother Dorjé existed; he died in the twelfth moon of 1284–85 aged forty-three" — "he" reads as Dorjé. Chingkim's death is usually given as 12th month of Zhiyuan 22 (January 1286); "1284–85" not found in refs, **(unverified)**. Fix: "Chingkim himself died in the winter of 1285–86." — vol-2 m2 · ch-02:23; content plan W2 unverified list
+- **[m]** Clarity and date: "an older brother Dorjé existed; he died in the twelfth moon of 1284–85 aged forty-three" — "he" reads as Dorjé. Chingkim's death is usually given as 12th month of Zhiyuan 22 (January 1286); Yule has "12th moon of 1284–1285, aged 43" (`yule-vol1.txt:32050`). **S-06: still open** (F-06; the *Yuan shi* not seen). Fix: "Chingkim himself died in the mid-1280s." The pilot's "winter of 1285–86" (ch-02:21) goes back to the hedge in `II-02.T1`. — vol-2 m2 · ch-02:23; content plan W2 still-open list
 
 ### Dispute handling and Ramusio flags
 - **[M]** Six Ramusio-only passages (Yule's square brackets) narrated unflagged: :31 raised marble terrace, four staircases; :33 interior treasury and ladies' apartments; :35 paved raised park roads; :39 bridge to the heir's palace; :43 part of the people left in the old city; :47 square plots assigned to heads of families (the chess-board). Fix: two-to-four-word inline tag per paragraph ("— Ramusio's version adds —") and "◇ Ramusio-only" in the matching Note; open wholly Ramusian paragraphs the way ch-13:53 does. — vol-2 M1 · ch-02:31, :33, :35, :39, :43, :47; content plan W3
@@ -57,7 +57,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-03 Apparatus conventions (Ramusio flag style, compound tags, stub Notes)
 - S-04 Gazetteer authority (A9 gate/plan labels)
 - S-05 Character registry (Chingkim/Dorjé dates; Kublai appearance)
-- S-06 Fact verification sheet (Chingkim death date, unverified; silences facts)
+- S-06 Fact verification sheet (Chingkim death date, F-06 open; silences facts, F-24, F-37)
 - S-07 Structure and length decisions (at ceiling)
 - S-08 LaTeX build pipeline (plate, map)
 - S-09 Map and diagram pipeline (A9)
@@ -65,9 +65,17 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-02.T1` Critical and factual fixes: applied in T3; only the S-06 check of Notes [6] and [20] remains
 - `II-02.T5` Media placement (hero, A9)
 - `II-02.T6` Lint pass and human voice read (sign-off sets the voice standard)
+
+### II-02.T1 — Critical and factual fixes
+- **Status:** ready · **Depends:** S-06 ✓
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-06 (open): ch-02:21 "in the winter of 1285–86" → "in the mid-1280s"; Note [6] drops "To verify (S-06)" and says the *Yuan shi* date is not yet seen.
+    - F-24, F-37: ch-02:49 and Note [20] keep the three silences (Yule) but drop the unsourced parts: the Ming date of the Wall, tea "known to Persian writers of his time", foot-binding "mostly among elite families, largely in the south". Hedge: "tea was the everyday drink of China; Odoric, a little later, noticed the women's bound feet".
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-02.T3 — S-01 pilot re-voice
 - **Status:** done (2026-10-21; human read approved) · **Depends:** —

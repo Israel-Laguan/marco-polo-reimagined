@@ -14,7 +14,7 @@ The 22 files already in `media/` and every caption that references them. This is
 - `map-cambaluc.jpg` and `map-caugigu.jpg` are unused.
 - Duplicates: the three Yuan map copies; the `.png`/`.jpg` pairs.
 - Resolution: all files except `map-marco-polo-overview.png` are below print size.
-- Mongol Empire map date range unverified.
+- Mongol Empire map: one 9-frame GIF animation, 1206 → 1294, saved also as `.jpg` and `.png` (same bytes). A static print shows the 1206 frame; caption the 1294 frame, "c. 1294" (S-06, `registry/facts.md` F-25).
 
 ## Gated by spikes
 None for the caption fixes. S-09 / S-10 for the replacements.

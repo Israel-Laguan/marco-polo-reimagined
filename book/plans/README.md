@@ -50,7 +50,7 @@ plans/
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | **closed** 2026-10-22 (`VOICE-GUIDE.md` § Apparatus conventions) | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | **closed** 2026-10-22 (`gazetteer.csv` v2, `tools/gazetteer.py`) | — | `GAZ.T5`–`T6`, `MAP`, naming items |
 | [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | **closed, finalized** 2026-10-22 (`registry/characters.yaml`, 19 cards, `tools/characters.py`; two research runs taken in; open facts → `CHR.T7`, family rows → S-15) | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
-| [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | open | — | factual `.T1` items; `DIA` timelines |
+| [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | **closed** 2026-11-03 (`registry/facts.md`, 37 rows: of S-14's 25, 17 settled in whole or part, 8 hedged; library checks listed in the spike) | — | factual `.T1` items (40 files); `DIA.T1` timelines |
 | [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | open | S-01 | the affected files |
 | [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | open | toolchain install (needs approval) | `BLD`; `.T5` |
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | open | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
@@ -79,7 +79,7 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 | [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | open | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
 | [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | open | S-22, S-10 | shortlist for deep dives; scene coverage for the 34 GEN plates |
 
-All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 first (bibliography keys), then S-14 (it closes S-06). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
+All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 first (bibliography keys), then S-14 (S-06 closed without it on 2026-11-03; only its still-open rows remain). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
 
 **Suggested waves**
 
@@ -207,3 +207,4 @@ A manuscript file is **done** when:
 | 2026-10-22 | Citation style: Chicago author-date (18th ed.) in the Notes, Pandoc keys, base text cited as YC (1903/1920 print edition; Gutenberg is only the access route); epigraph credit `— Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; Works cited per volume | user (S-24) |
 | 2026-10-22 | People follow the S-04 naming rule: Yule's form where Polo names the person (*Cublay*, *Alaü*, *Argon*), else the modern form; gloss once per chapter; registry `registry/characters.yaml` + visual cards; plate prompts take figure lines from `tools/characters.py cue`; co-presence checked by `tools/characters.py ages` | S-05 |
 | 2026-10-22 | S-05 finalized: two people-research runs taken in (run 1 leads only; run 2 checked against Yule, DOIs and Formentin–Schiavon 2024). Settled dates are in the registry; the facts still open need library checks and moved to `CHR.T7` (family rows to S-15) | S-05 |
+| 2026-11-03 | Fact verification sheet = `registry/facts.md`: chapters state confirmed or corrected values plainly and still-open ones only in their hedge; a timeline prints only dates with a row there. Verdicts checked against `refs/`, the bibliography, the gazetteer and the CHR intakes, with no web research; the 8 open S-14 rows wait for library checks, not another search run | S-06 |

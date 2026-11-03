@@ -62,13 +62,15 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-B1.T5` Media placement (figures, tables, captions)
 - `I-B1.T6` Lint pass and human voice read
 
-### I-B1.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓
+### I-B1.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** bare variants: Pamir → Pamier ×4, Hormuz → Hormos ×2, Baghdad → Baudas ×1, Old Hormuz → Hormos ×1, Dry Tree → Arbre Sec ×1, Alamut → Old Man of the Mountain ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1 (+1 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-34: "during a Genoese captivity in 1298, traditionally after Curzola"; Jacopo d'Acqui puts the capture at Ayas, Curzola is Ramusio's tradition.
+- **Done when:** `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-B1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

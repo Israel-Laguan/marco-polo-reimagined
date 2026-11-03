@@ -11,7 +11,7 @@
 Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit.
 
 ### Critical
-- **[C]** The *Yuan shi* "Polo" passage is a misidentification presented as fact. Body: "Chinese annals… echo that the Emperor desired Polo, Assessor of the Privy Council, to explain Wangchu's motives… That echo is a pillar of the presence debate." Note [7]: "✓ De Mailla/Gaubil notice is a presence pillar (Vogel; Haw; Rossabi)". Evidence: this is Yule's 1870s note (yule-vol1, NOTE 5 to Bk II ch. xxiii); Cordier's addendum (yule-vol2) prints E. H. Parker (1904): "Puh-lo… had already received honours from Kúblái many years before Marco's arrival in 1275… neither can be Marco Polo." Pelliot (*Notes*) and Allsen (on Bolad Aqa) identify him as Bolad Chingsang. Crediting the "pillar" to Vogel, Haw and Rossabi misrepresents them (verify each one **(unverified)**; none rests the case on this passage).
+- **[C]** The *Yuan shi* "Polo" passage is a misidentification presented as fact. Body: "Chinese annals… echo that the Emperor desired Polo, Assessor of the Privy Council, to explain Wangchu's motives… That echo is a pillar of the presence debate." Note [7]: "✓ De Mailla/Gaubil notice is a presence pillar (Vogel; Haw; Rossabi)". Evidence: this is Yule's 1870s note (yule-vol1, NOTE 5 to Bk II ch. xxiii); Cordier's addendum (yule-vol2) prints E. H. Parker (1904): "Puh-lo… had already received honours from Kúblái many years before Marco's arrival in 1275… neither can be Marco Polo." Pelliot (*Notes*) and Allsen (on Bolad Aqa) identify him as Bolad Chingsang. Crediting the "pillar" to Vogel, Haw and Rossabi misrepresents them (**S-06: still open**, F-26; drop the three names from Note [7] until each is seen; the critique's "none rests the case on this passage" is also unseen).
   - Fix (:25): "Victorian editors once read a 'Po-lo' in the Chinese annals of these events as Marco himself; Yule–Cordier's own addenda and later scholars show that man to be the Mongol minister Bolad, so the episode's Chinese echo confirms the plot, not the Venetian. For the present the narrative keeps faith with Ramusio's telling…"
   - Fix (Note [7]): "✗ Po-lo = Bolad (Parker in Cordier; Pelliot), not Marco; presence rests elsewhere (salt, paper money, Cocachin embassy)."
   - Knock-ons: II-11 Note [5] (ch-11:67) dates Yanju "~1282–1287/88" on the same identification (see II-11). **III-12 depends on this fix:** its hits list and open question 5 ("presence-pillar readings… still argue") repeat the error; flag to the Vol. III reviewer and land this correction first.
@@ -22,7 +22,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - — none beyond C1 (see Critical)
 
 ### Dispute handling and Ramusio flags
-- **[M]** "The entire Ahmad narrative comes from Ramusio's version" is true of Yule's witnesses, but the Toledo/Zelada Latin (Z), published by Moule–Pelliot in 1938, also contains the Achmath episode, which strengthens its authenticity. **(unverified)** against `refs/` (Z postdates Yule–Cordier); confirm with Moule–Pelliot. Fix: "…comes to us through Ramusio and the Zelada Latin (Z), not the Geographic French — flag it as such." — vol-2 M9 · ch-05:17, Note [1] ch-05:65; content plan W2 unverified list
+- **[M]** "The entire Ahmad narrative comes from Ramusio's version" is true of Yule's witnesses, but the Toledo/Zelada Latin (Z), published by Moule–Pelliot in 1938, also contains the Achmath episode, which strengthens its authenticity. **S-06: still open** (F-09; Z postdates Yule–Cordier; Moule–Pelliot not seen). Fix for now: "…comes to us through Ramusio, not the Geographic French — flag it as such"; add Z only once Moule–Pelliot is seen. — vol-2 M9 · ch-05:17, Note [1] ch-05:65; content plan W2 still-open list
 - **[M]** Ramusio-only passages narrated unflagged: :45 baths three times a week; :51 clothes from a tithe on wool and silk; :53 5,000 astrologers. Fix: two-to-four-word inline tag per paragraph plus "◇ Ramusio-only" in the matching Note; model ch-13:53. — vol-2 M1 · ch-05:45, :51, :53; content plan W3
 
 ### Voice and prose
@@ -64,9 +64,19 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-05.T1` Critical and factual fixes (**C1 Bolad first; III-12 and II-11 wait on it**)
 - `II-05.T5` Media placement (hero + PD note, yam secondary, C1, C2, Ahmad table)
 - `II-05.T6` Lint pass and human voice read
+
+### II-05.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `II-05.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - Do this file first: II-11 and III-12 wait on its Bolad fix.
+    - F-08: the annals' "Po-lo" is Bolad (Parker in Cordier's addenda; `HOT.3`), so the "presence pillar" goes.
+    - F-26 (open): Note [7] names no Vogel, Haw or Rossabi position until each is seen.
+    - F-09 (open): "comes to us through Ramusio, not the Geographic French"; no Z claim.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-05.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #14 (batch 4)

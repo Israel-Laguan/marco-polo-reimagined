@@ -53,13 +53,15 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-F2.T5` Media placement (A1, A16)
 - `III-F2.T6` Lint pass and human voice read
 
-### III-F2.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+### III-F2.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Sumatra → Java the Less ×2, Hormuz → Hormos ×1, Nicobars → Necuveran ×1, Malabar → Melibar ×1, Sememant → Semenat ×1, Islands of Men and Women → Male and Female ×1
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
+- **Done when:** `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

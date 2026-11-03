@@ -50,13 +50,16 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-B1.T5` Media placement (glossary)
 - `III-B1.T6` Lint pass and human voice read
 
-### III-B1.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓
+### III-B1.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** bare variants: Japan → Chipangu ×1, Sumatra → Java the Less ×1, Andaman → Angamanain ×1, Malabar → Melibar ×1, Madagascar → Madeigascar ×1
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-23: Adam's Peak is Muslim and Buddhist "in the Book"; Hindu and Portuguese-Christian claims only as later traditions (Tennent, via Yule).
+    - F-15 (open): the Cocachin entry adds the 1290 notice "as Cleaves reports it"; neither source names the Polos.
+- **Done when:** `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-B1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

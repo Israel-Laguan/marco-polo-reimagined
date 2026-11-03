@@ -14,8 +14,8 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Transcription share 28%, above the ≤25% target. Fix: re-voice in the ch-01 manner, summarise in the storyteller's words and keep one or two short quoted lines per marvel. W4 order: last in Vol. I (after I-3). — vol-1 C3 · ch-02
 
 ### Factual / fidelity
-- Berke–Hulagu war: the chapter tells the Book's "Barca in the end was worsted" and calls it "one of the better-corroborated beats… Rashid al-Din… agree[s]". The Book does say Barca was defeated (Y:12596), but Yule's note (Y:12831–12834) corroborates only that the war happened (summer 1262, ~8 months), not who won; historically Hulagu's army was routed at the Terek in early 1263 (general history; Yule silent). Fix: aside "…came to blows then — though the outcome the book gives is backwards: Hulagu's army was routed on the Terek in the winter of 1263." Content plan W2 (I-2). — vol-1 M3 · ch-02:17
-- Biography credited to "the book": "According to the book, the House of Polo belonged to that class…", the Andrea Polo genealogy, and Maffeo who "so far as the book tells, remained a bachelor". The Book contains none of this (Yule's Introduction and documents). Maffeo's marital status **(unverified)**. Fix: "Venetian records, not the book, sketch the house…" and drop the bachelor clause. Content plan W2 (I-2). — vol-1 m8 · ch-02:9
+- Berke–Hulagu war: the chapter tells the Book's "Barca in the end was worsted" and calls it "one of the better-corroborated beats… Rashid al-Din… agree[s]". The Book does say Barca was defeated (Y:12596), but Yule's note (Y:12831–12834) corroborates only that the war happened (summer 1262, ~8 months), not who won; historically Hulagu's army was routed at the Terek in early 1263. **S-06 (F-01): Yule is not silent.** His Bk IV note (`yule-vol2.txt:26620–26641`) gives the rout: Abaqa took Barca's camp beyond the Terek in the winter of 1262–63, Barca rallied, and the Ilkhanid army was driven back across the frozen river. Fix: aside "…came to blows then — though the outcome the book gives is backwards: Hulagu's army was routed on the Terek in the winter of 1263." Content plan W2 (I-2). — vol-1 M3 · ch-02:17
+- Biography credited to "the book": "According to the book, the House of Polo belonged to that class…", the Andrea Polo genealogy, and Maffeo who "so far as the book tells, remained a bachelor". The Book contains none of this (Yule's Introduction and documents). Maffeo's marital status: **S-06: still open** (F-17; Orlandini 1926 via S-15). Fix: "Venetian records, not the book, sketch the house…" and drop the bachelor clause. Content plan W2 (I-2). — vol-1 m8 · ch-02:9
 - Vague scholarship attribution: "de Rachewiltz's work on Mongol administration" for the embassy reading. Fix: cite de Rachewiltz, *Papal Envoys to the Great Khans* (1971) by title, no page numbers. — vol-1 m12 · ch-02:31
 - **[m]** (S-05) Maffeo "remained a bachelor": still unsupported either way. Yule and two research runs find no wife or children; the "daughter Fiordelisa" in one run belongs to the younger Maffeo, Niccolò's son. Fix: drop the clause, or say the documents name no wife. — registry `maffeo`
 
@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-03 Apparatus conventions (✓/✗ split markers, Notes format)
 - S-04 Gazetteer authority (Bocara, Ucaca, Negropont; A3)
 - S-05 Character registry (brothers and Kublai in plates; Maffeo marital status)
-- S-06 Fact verification sheet (M3 outcome, m8 unverified, m12 citation)
+- S-06 Fact verification sheet (M3 outcome F-01; m8 Maffeo F-17 open; m12 citation)
 - S-08 LaTeX build pipeline (plates, C5)
 - S-09 Map and diagram pipeline (A3, C5)
 - S-10 Image generation pilot (GEN secondary)
@@ -60,9 +60,17 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-02.T1` Critical and factual fixes
 - `I-02.T5` Media placement (figures, tables, captions)
 - `I-02.T6` Lint pass and human voice read
+
+### I-02.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `I-02.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-01: the outcome is backwards: Hulagu's army under Abaqa was routed beyond the Terek in the winter of 1262–63 (Yule's Bk IV note). Note [5] → "✓ war and date; ✗ outcome".
+    - F-17 (open): drop "remained a bachelor"; if a clause is wanted, "the documents name no wife or child for him".
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-02.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #25 (batch 7)

@@ -40,7 +40,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Media hooks
 - **Hero plate:** Aijaruc throws the prince — GEN, Ilkhanid (*Jami' al-Tawarikh*), landscape 4:3; must get right: Kaidu's court, wagered horses; caption: folkloric; historical name Khutulun — see `illustration-plan.md`. Anchor ch-15:23.
 - **Secondary plates:** GEN Dog-sledge post (plan; anchor :39, six dogs to a sledge, bear-skin for the courier). Critique §4 candidate: Land of Darkness raid (:41; legendary geography).
-- **Maps:** A14 The Mongol horizon (Ilkhanate, Chagatai and Kaidu, Golden Horde, "Land of Darkness" dotted). Existing `map-asia-mongol-empire.jpg` / `map-mongol-empire.gif` suggested by critique §5; the multimedia plan **replaces** them (too small; date range unverified).
+- **Maps:** A14 The Mongol horizon (Ilkhanate, Chagatai and Kaidu, Golden Horde, "Land of Darkness" dotted). Existing `map-asia-mongol-empire.jpg` / `map-mongol-empire.gif` suggested by critique §5; the multimedia plan **replaces** them (too small; a 1206–1294 animation whose static print shows 1206, F-25).
 - **Timelines / diagrams / tables:** C8 Ilkhan succession: the Book vs the record (critique timeline: Abaqa d. 1282; Tegüder 1282–84; Arghun 1284–91; Geikhatu 1291–95; Baidu 1295; Ghazan 1295). Critique §5 also lists a "Golden Horde khan list (Book vs actual)" table; it has no D-row in `multimedia-plan.md`.
 - **Characters appearing:** Caidu (Kaidu), Aijaruc (Khutulun), Kublai (Cublay), Chinghis Khan, Argon (Arghun), Abaga (Abaqa), Acomat (Tegüder Ahmad), Kiacatu (Geikhatu), Baidu, Casan (Ghazan), Barac (Baraq), Alau (Hülegü), Barca (Berke), Batu, Toctai (Tokhta), Nogai, Conchi, Nomogan (Nomukhan), Cocachin (mentioned), Marco Polo, Rustichello
 - **Character check (S-05):** Aijaruc c. 20–30, very tall, unmarried in the scene (braids, no *boqta*); Caidu c. 45–55. Cards: `plans/registry/character-cards.yaml`.
@@ -58,9 +58,16 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-15.T1` Factual fixes (Kiacatu, Baidu, Ghazan, Baraq/Abaqa clause, N7)
 - `II-15.T5` Media placement (hero, secondary, A14, C8)
 - `II-15.T6` Lint pass and human voice read
+
+### II-15.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `II-15.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-05: Kiacatu was Arghun's brother; Baidu a cousin (son of Tarakai); Baidu's and Casan's "1294" → 1295.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-15.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #11 (batch 3)

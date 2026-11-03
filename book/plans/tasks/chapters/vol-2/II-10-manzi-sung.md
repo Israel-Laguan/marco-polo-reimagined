@@ -59,9 +59,16 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-10.T1` Factual fixes (Bayan date, epigraph)
 - `II-10.T5` Media placement (hero, A12, B4)
 - `II-10.T6` Lint pass and human voice read
+
+### II-10.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `II-10.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-29: Bayan's dispatch: 1274 (Kublai decided on Manzi in 1273), not 1268.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-10.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #5 (batch 2)

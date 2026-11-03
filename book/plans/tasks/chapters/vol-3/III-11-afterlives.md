@@ -12,15 +12,15 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Critical
 - Invented epigraph 1: *"He who made this work… put in writing all that he saw and heard, so that other people might know of it."* ("Prologue tradition") — not in Yule. Fix: replace with the real line, `yule-vol1.txt:12475`: "it would be a very great pity did he not cause to be put in writing all the great marvels that he had seen, or on sure information heard of, so that other people who had not these advantages might, by his Book, get such knowledge." — vol-3 C1 · ch-11:4
-- Invented epigraph 2: *"And this island [Chipangu] is so rich in gold that no man can tell it…"* ("Pipino Latin; postils") — not in Yule, unverified, and re-used in the body as Polo's own words ("an island so rich that no man can tell it", :22). Fix: delete it, or quote Yule III.ii verbatim ("the quantity of gold they have is endless"); quote a Columbus postil only from a verified edition. — vol-3 C1 · ch-11:7, :22
+- Invented epigraph 2: *"And this island [Chipangu] is so rich in gold that no man can tell it…"* ("Pipino Latin; postils") — not in Yule (**S-06: corrected**, F-27), and re-used in the body as Polo's own words ("an island so rich that no man can tell it", :22). Fix: delete it, or quote Yule III.ii verbatim ("the quantity of gold they have is endless"); quote a Columbus postil only from a verified edition. — vol-3 C1 · ch-11:7, :22
 - "Soft" label tic ×41 in every narrative paragraph :12–:34, e.g. "Soft dispute hook stated plainly:" (:30), "Soft Wood breath:" (:32). Fix: strip every label. — vol-3 C2 · ch-11:12-34
 - Meta-reference: "restated from the outline's preface" (:34). Fix: delete. — vol-3 C2 · ch-11:34
 
 ### Factual / fidelity
 - Columbus over-simplified: "owned and annotated a Latin Polo, almost certainly in the Pipino tradition" — it *is* Pipino, the c. 1483–85 Gerard Leeu printing in the Biblioteca Colombina, Seville. The chapter implies the postils fed the 1492 project; the John Day letter (1497/98) suggests Columbus obtained or annotated the copy after the first voyage; his pre-1492 Polo came chiefly through Toscanelli's 1474 letter (Quinsay, Cipangu), and Toscanelli is never named here (III-B1:37 names him); the link to the *Book of Prophecies* is loose. Fix: add the edition, add Toscanelli, add "whether the annotations precede 1492 is debated". — vol-3 M4 · ch-11:22
 - "Genoa's most famous son after — and beside — the Venetian" muddles Polo (Venetian) with Genoa. — vol-3 n9 · ch-11:22
-- Catalan Atlas probably does not show Chipangu: :14 says "Chipangu (Japan) gleams as an island of reported wealth beyond the China Sea" on the 1375 Atlas; the standard view is that Japan first appears in European cartography on Fra Mauro's map (c. 1450–59, *Zimpagu/Cimpagu*) — **(unverified from refs; treat as likely wrong)**. Also hedge "commissioned for the Crown of Aragon" (in the French royal library by 1380); "within three generations" is about 51 years after 1324. Fix: move the Chipangu sentence to the Fra Mauro paragraph; keep Cathay, Chanbalech and Chansay for the Atlas. — vol-3 M5 · ch-11:14
-- Jesuit paragraph omits Bento de Góis (1602–07) and Ricci's identification of Cathay with China; asserts without support that Jesuits "measure[d] silences" (tea, foot-binding) against Polo — **(unverified; mark or cut)**. Print paragraph gives no dates: supply 1477 German, c. 1483–85 Latin, 1496 Venetian, 1503 Santaella, 1559 Ramusio. — vol-3 m13 · ch-11:26, :28
+- Catalan Atlas probably does not show Chipangu: :14 says "Chipangu (Japan) gleams as an island of reported wealth beyond the China Sea" on the 1375 Atlas; the standard view is that Japan first appears in European cartography on Fra Mauro's map (c. 1450–59, *Zimpagu/Cimpagu*) — **S-06: still open** (F-20): Yule's survey of the Atlas names no Chipangu but does not say it is absent; "Zimpagu" is not in refs. Also hedge "commissioned for the Crown of Aragon": Yule has it "in the great Library of Paris", and Cordier calls it the Atlas of Charles V ("by 1380" not seen); "within three generations" is about 51 years after 1324. Fix: drop the Chipangu sentence from the Atlas paragraph; keep Cathay, Chanbalech and Chansay; give Fra Mauro (1459) no "first" claim until seen. — vol-3 M5 · ch-11:14
+- Jesuit paragraph omits Bento de Góis (1602–07) and Ricci's identification of Cathay with China; asserts without support that Jesuits "measure[d] silences" (tea, foot-binding) against Polo — **S-06: no source; cut** (F-22). Góis: Pamir 1603, died at Suzhou (Yule); Ricci's Cathay = China waits for a seen source. Print paragraph gives no dates: supply 1477 German (Nuremberg), 1483–84 Latin (Leeu, **Gouda**, not Antwerp), 1496 Venetian, 1502 Portuguese (Lisbon), 1503 Santaella (Seville), 1559 Ramusio, posthumous (F-21). — vol-3 m13 · ch-11:26, :28
 
 ### Dispute handling and Ramusio flags
 - Cocachin corroboration: :32 and Note [11] lean on Rashid without the Yang Zhijiu 1941 *Yongle dadian* notice (three envoys, 1290) or the fact that neither source names the Polos. Fix: one sentence in [11]. — vol-3 M1 · ch-11:32, :60
@@ -49,13 +49,24 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Christopher Columbus; Paolo Toscanelli (to be added); Cresques Abraham; Fra Mauro; Francesco Pipino; Giovanni Battista Ramusio; Matteo Ricci; Bento de Góis (to be added); Marco Polo; Rustichello; Cocachin and Ahmad (mentioned)
 
 ## Gated by spikes
-- S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; unverified items), S-07 (reception chapter), S-08, S-09 (B5), S-10 (Fra Mauro GEN option), S-11 (PD hero; Fra Mauro PD option)
+- S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 (Fra Mauro GEN option), S-11 (PD hero; Fra Mauro PD option)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-11.T1` Critical and factual fixes (epigraphs, Soft, Columbus, Atlas)
 - `III-11.T5` Media placement (B5, plates)
 - `III-11.T6` Lint pass and human voice read
+
+### III-11.T1 — Critical and factual fixes
+- **Status:** backlog · **Depends:** S-06 ✓, `III-11.T3` (W2: applied in the re-voice pass)
+- **Do:**
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-27: delete epigraph 2 and its echo at :22, or quote Yule III.ii ("the quantity of gold they have is endless").
+    - F-19: Columbus's copy is Leeu's Latin, Gouda 1483–84, in Seville; the postils are "of debated date"; Columbus first knew Polo through Toscanelli's letters (Yule). No 1474 until seen.
+    - F-20 (open): no Chipangu on the Catalan Atlas, no "first" for Fra Mauro (1459); "later in the French royal library", not "commissioned for the Crown of Aragon".
+    - F-21: print dates 1477 Nuremberg, 1483–84 Gouda, 1496 Venice, 1502 Lisbon, 1503 Seville, 1559 Ramusio (posthumous); no 1477 printer.
+    - F-22: Góis crossed the Pamir in 1603 and died at Suzhou (Yule); cut the Jesuits "measuring" Polo's silences; Ricci's Cathay = China only from a seen source.
+  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+- **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-11.T3 — Re-voice to the S-01 standard
 - **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #37 (batch 10)

@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - Overview map caption calls it an "outbound corridor", but the map shows the whole round trip including the return. Fix (critique §5, multimedia plan triage): re-caption as the whole round trip. — vol-1 nit 6 · front-02:27
-- Mongol-empire map caption says "Polo's generation"; whether `map-mongol-empire.gif` / `map-asia-mongol-empire.*` shows c. 1260–1295 boundaries or the 1279 maximum is **(unverified)**; check before captioning. — vol-1 §5 (Fixes to existing media) · front-02:35
+- Mongol-empire map caption says "Polo's generation"; **S-06 (F-25, inspected):** `map-mongol-empire.gif` and `map-asia-mongol-empire.*` are one 9-frame animation, 1206 → 1294; the 1279 frame is the maximum, the 1294 frames the four khanates, and a static print shows frame 1 (1206). Caption the 1294 frame, "c. 1294". — vol-1 §5 (Fixes to existing media) · front-02:35
 
 ### Dispute handling and Ramusio flags
 - Hormuz "turning back" stated as Book fact ("Hormuz (Hormos), where the sea plan fails"). It is Yule's inference (Y:5902–5906); the Book only returns the reader to Kerman (ch-07:41). Content plan W2 (I-front-02). — vol-1 M2 · front-02:17
@@ -49,7 +49,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-02 Acceptance lint and thresholds
 - S-03 Apparatus conventions (Notes format, Ramusio flag style)
 - S-04 Gazetteer authority and naming policy (M8 tables, Balashan alias)
-- S-06 Fact verification sheet (C2 epigraph, unverified map date range)
+- S-06 Fact verification sheet (C2 epigraph; map date range F-25)
 - S-07 Structure and length (front/back roles: missing Venice–Genoa / first-journey maps)
 - S-08 LaTeX build pipeline (tables, map figures)
 - S-09 Map and diagram pipeline (A1)
@@ -62,13 +62,15 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-F2.T5` Media placement (figures, tables, captions)
 - `I-F2.T6` Lint pass and human voice read
 
-### I-F2.T1 — Names to the S-04 policy
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`
+### I-F2.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Hormuz → Hormos ×3, Iran → Persia ×1, Old Hormuz → Hormos ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1, Wakhan → Vocan ×1, Pamir → Pamier ×1, Kashgar → Cascar ×1 (+4 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-- **Done when:** `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - F-25: the Mongol map caption names the 1294 frame, "c. 1294" (four khanates); never place the animated file itself, whose static frame is 1206 (with `MED.T1`).
+- **Done when:** `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
