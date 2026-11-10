@@ -84,9 +84,11 @@ OUTPUT FORMAT (required). (1) A findings table with columns: `#` · claim or top
 ## Intake notes (for me)
 
 - **A:** if the modern chronology puts a different king in 1284 or 1292–93, F-44 records both Yule–Cordier numberings and the modern one, and says which the Note follows (README, *Newer than Yule*). Also check III-04's relic-embassy Note [16] against question 6.
-- **B:** if the inscription's date or authenticity is contested, F-43 stays "cut", unless question 5 gives a Yuan-embassy date the Note can use instead (one primary source, the *Yuan shi*, is enough).
+- **B:** superseded: Yule himself dates the inscription (refs/yule-vol2.txt:15133–15159), so F-43 keeps it, credited and hedged (2026-11-10).
 - **C:** question 4 is enrichment, not a fix. Nothing in the chapters claims the porphyries' origin yet; log the answer in `registry/enrichment.md` (I-F1) rather than facts.md. Question 9 rechecks Yule dates that I-03 already uses; a mismatch there gets a new row.
 
 ## Intake (2026-11-03)
 
 Runs A–C came back (Consensus plus a second tool each; raw in `results/FACT-*-raw.md`). Leads are written into F-38, F-39, F-43, F-44; no verdict moved. Spot-check failed for several Consensus citations: the DOIs given for "Jay 1993" (a Nias review), "Irvine 1990" (a Ṣanʿāʾ review), "Yoshimura 2020" and "Sharon 2025" resolve to unrelated works; "Hsia 2026" is unconfirmed. Do not use them. Enrichment lead for I-F1: the porphyry Tetrarchs and the *pilastri acritani* are Constantinopolitan spolia of 1204, not Acre (both runs; Perry 1977). Next: the open-access checks named in each row.
+
+**Round 3 (2026-11-10).** A third run of each batch came back (appended to each raw file). It settled no verdict but changed three things: F-43 is Yule's own claim (refs/yule-vol2.txt:15133–15159), regraded from "not in refs"; F-39's cause of death is now disputed (illness, per Ibn ʿAbd al-Ẓāhir, against poisoned kumiz); and F-44's 1292–93 king is less certain (one run gives Parākramabāhu III c. 1302–10). Unused sources went to `registry/enrichment.md` § 5 (E59–E64). Batches A–C are closed; the open rows wait on the library checks in S-06.

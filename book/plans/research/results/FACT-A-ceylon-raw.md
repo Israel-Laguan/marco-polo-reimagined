@@ -207,3 +207,89 @@ Secondary confirmations (Wikipedia entries on Kingdom of Dambadeniya, individual
 - Absolute year precision for the start/end of Parākramabāhu III’s reign (sources still show a small range around 1287–1302).  
 
 All findings above rest on cross-checked secondary syntheses of the preferred primary sources; no page numbers, quotations, or DOIs have been invented.
+
+
+---
+
+Run 3: tool unnamed; pasted by the user 2026-11-10, unedited.
+
+**Findings table**
+
+| # | Claim or topic | Finding | Verdict | Sources | Confidence | Book sections affected |
+|---|----------------|---------|---------|---------|------------|------------------------|
+| 1 | Modern regnal chronology of Sinhalese kings ~1230–1330 (Dambadeniya–Yapahuwa–Kurunegala) | Approximate consensus: Vijayabahu III (c. 1220/1232–1236); Parakramabahu II / Pandita Parākramabāhu (c. 1234/1236–1269/1270/1271); Vijayabahu IV (c. 1267/1269–1270/1272); Bhuvanaikabahu I (c. 1271/1272–1283/1284, capital shifted to Yapahuwa); interregnum/fragmented rule after c. 1283–84 with Pandyan intervention; Parakramabahu III (variously c. 1287–1293 or 1302–1310, associated with recovery of Tooth Relic and Polonnaruwa); Bhuvanaikabahu II (c. 1293/1303/1310–1325/6, Kurunegala); later short reigns of Parakramabahu IV, Bhuvanaikabahu III, Vijayabahu V into 1340s. Dates vary by source due to chronicle ambiguities and regnal-year reckoning. | Disputed (dates and numbering) | Cūlavaṃsa (Geiger trans./notes); University of Ceylon *History of Ceylon* vol. 1 tradition; Wikipedia/scholarly summaries drawing on Liyanagamage, de Silva, Nicholas; local historical syntheses (e.g., lankapradeepa) | Medium | III-04 (king’s Note) |
+| 2a | Who reigned in Sinhalese kingdom in 1284? | Bhuvanaikabahu I (ends c. 1283/1284). Shortly after his death, Pandyans invaded Yapahuwa, seized the Tooth Relic and treasures. | Confirmed (approx.) | Cūlavaṃsa (Geiger); secondary syntheses (Yapahuwa histories, de Silva tradition) | High for end of reign; medium for exact year | III-04 (relic-embassy Note) |
+| 2b | Who reigned in 1292–93? | Likely Parakramabahu III (if earlier dating ~1287–1293 is accepted) or still fragmented/interregnum leading into his rule; capital associations shift toward Polonnaruwa then Kurunegala. | Disputed | Same as above; some sources place Parākramabāhu III later (post-1300) | Medium–low | III-04 |
+| 2c | Other powers on the island c. 1284–1293 | North (Jaffna area): under Pandyan suzerainty / early Aryacakravarti lineage after Chandrabhanu’s defeat; Javaka/Tambralinga presence ended earlier. South/west: Sinhalese Dambadeniya–Yapahuwa line, temporarily disrupted by Pandyan raid on Yapahuwa. No unified control. | Confirmed | Cūlavaṃsa; Pandyan–Sinhalese interaction records; Chandrabhanu scholarship | High | III-04 |
+| 3 | Why Yule vs Cordier numbering differs; older chronologies vs modern | Yule (following 19th-c. lists, e.g., Tennent/Turnour tradition) called the long mid-13th-c. king “Pandita Prakrama Bahu III” (1267–1301 at Dambadeniya). Cordier’s 1920 Addenda shifted numbering (Prakama Bahu II 1267–1301, then later III). Modern scholarship (post-Geiger Cūlavaṃsa and University of Ceylon work) standardizes Parākramabāhu II as the scholar-king of c. 1236–1270 and Parākramabāhu III as the later ruler who recovered the Tooth Relic. Older lists compressed or renumbered the sequence after Polonnaruwa collapse. | Corrected | Yule–Cordier notes themselves; Geiger Cūlavaṃsa chronological discussion; modern lists (e.g., de Silva, Liyanagamage tradition) | High | III-04 (king’s Note) |
+| 4 | Chandrabhanu of Tambralinga: invasion dates and possible identification as Sendemain | First invasion c. 1247 (defeated by forces of Parākramabāhu II); second c. 1262–1264 (killed by Pandyan forces under Jatavarman Vira Pandya; son briefly continued in north under Pandyan overlordship). Disappears from record by late 1260s/1270s. Cannot be Polo’s Sendemain in the 1280s–90s. | Confirmed (dates); no (identification) | Cūlavaṃsa / Hatthavanagalla-vihāra-vaṃsa; Coedès on Jaiya inscription; modern summaries (Wikipedia/scholarly consensus on Tambralinga–Sri Lanka wars) | High | III-04 |
+| 5 | Proposed identifications/etymologies of Sendemain / Sendernaz | Yule reports Tennent’s suggestion of Chandra Banu (Malay/Javaka) or a northern Tamil chief (Chandra/Sundara element). No definitive modern identification located in accessible Pelliot *Notes on Marco Polo* summaries or Moule–Pelliot (1938). Later scholarship does not appear to have settled on a single candidate; Pandyan “Sundara” proposals remain speculative and are not standard. | Not found (definitive modern solution); older proposals noted | Yule notes; limited secondary references to Pelliot/Moule–Pelliot | Low–medium | III-04 |
+| 6 | Kublai’s 1284 relic embassy in Chinese vs Sinhalese sources | Yuan shi records the Uighur official Yiheimishi (I-hei-mi-shih / Yighmish) sent to Sengjiala (Ceylon) in 1282 (and/or associated 1284) to examine/obtain Buddha’s alms-bowl and body relics (śarīra); a further mission in 1287 (sometimes redirected to Maʿbar). Polo’s account of a 1284 embassy matches the Chinese record in purpose and approximate date. Cūlavaṃsa does not name a Chinese/Mongol embassy or the receiving Sinhalese king in the relevant passages; it focuses on the Pandyan seizure of the Tooth Relic under Bhuvanaikabahu I and its later recovery by Parākramabāhu III via negotiation. | Confirmed (Yuan shi); not found (named king in Cūlavaṃsa for Chinese mission) | Yuan shi (biography of Yiheimishi and related annals); Rockhill / Tansen Sen discussions; Polo text; Cūlavaṃsa (Geiger) | High (Chinese side); medium (absence in Sinhalese chronicle) | III-04 (relic-embassy Note) |
+
+**Explanatory notes on disagreements**
+
+Yule’s “Pandita Prakrama Bahu III, 1267–1301” reflects 19th-century reconstructions (Tennent and earlier Mahāvaṃsa/ Cūlavaṃsa epitomes) that treated the long Dambadeniya scholar-king as the third of the name and stretched his dates. Cordier’s Addenda adjusted the numbering to place a II in that slot. Geiger’s critical edition of the Cūlavaṃsa and subsequent University of Ceylon / de Silva / Liyanagamage scholarship established the modern sequence: Parākramabāhu II as the major mid-century ruler (literary and military achievements, resistance to Chandrabhanu), followed by short reigns of Vijayabahu IV and Bhuvanaikabahu I, disruption after 1283/84, and a later Parākramabāhu III linked to the Tooth Relic’s return. Exact years remain elastic because of regnal-year counting, possible co-regencies, and the interregnum after Yapahuwa’s fall.
+
+Chandrabhanu is firmly mid-13th century and dead well before Polo’s relevant period; Tennent’s identification is therefore chronologically impossible on modern dates.
+
+Pelliot’s *Notes on Marco Polo* (posthumous) and the Moule–Pelliot edition are the expected scholarly loci for the name Sendemain/Sendernaz, but no clear, widely accepted modern identification has surfaced in secondary literature consulted. The name remains unresolved.
+
+**Bibliography** (selected; all entries checked via search or standard reference; open-access status noted where confirmed)
+
+@book{geiger_culavamsa,
+  author = {Geiger, Wilhelm},
+  title = {Cūlavaṃsa: Being the More Recent Part of the Mahāvaṃsa},
+  year = {1929–1930},
+  note = {Translation and notes; chronological discussions in apparatus. Partial open access via archive.org scans.}
+}
+
+@book{yule_cordier,
+  author = {Yule, Henry and Cordier, Henri},
+  title = {The Book of Ser Marco Polo},
+  year = {1903; Addenda 1920},
+  note = {Base text used by the querist. Public-domain editions widely available (archive.org).}
+}
+
+@book{liyanagamage_1968,
+  author = {Liyanagamage, Amaradasa},
+  title = {The Decline of Polonnaruwa and the Rise of Dambadeniya},
+  year = {1968},
+  note = {Key modern study of the transition. Not freely open-access in full; thesis versions exist in repositories.}
+}
+
+@book{desilva_history,
+  author = {de Silva, K. M.},
+  title = {A History of Sri Lanka},
+  note = {Standard modern synthesis; multiple editions. Not fully open-access.}
+}
+
+@book{university_ceylon_history,
+  title = {University of Ceylon History of Ceylon},
+  volume = {1},
+  year = {1959–1960},
+  note = {Authoritative multi-author volumes covering the period. Library access typical.}
+}
+
+@book{pelliot_notes,
+  author = {Pelliot, Paul},
+  title = {Notes on Marco Polo},
+  year = {1959–1973},
+  note = {Posthumous. Standard for onomastic problems; not fully open-access.}
+}
+
+@book{moule_pelliot_1938,
+  author = {Moule, A. C. and Pelliot, Paul},
+  title = {Marco Polo: The Description of the World},
+  year = {1938},
+  note = {Critical text and notes.}
+}
+
+Additional supporting material drawn from Yuan shi references (Yiheimishi biography and related annals, discussed in Rockhill and Tansen Sen), Coedès on the Jaiya inscription for Chandrabhanu, and secondary chronological tables consistent with the above. No post-2013 peer-reviewed revision that overturns the broad outline was located in the searches performed; flag any later specialised epigraphic or chronicle re-dating as **NEW** if encountered.
+
+**Unresolved questions**
+- Exact absolute dates for the short reigns and the length of the post-1284 interregnum remain elastic across authorities.
+- A definitive modern etymology or identification of “Sendemain / Sendernaz” beyond the older Tennent/Yule suggestions is not established in the sources consulted.
+- Whether the Cūlavaṃsa contains any oblique reference to a Chinese mission (as opposed to the well-attested Pandyan seizure of the Tooth) that has been overlooked in standard commentaries.
+- Precise political status of the northern kingdom (early Aryacakravarti phase) in 1292–93 relative to residual Pandyan overlordship.
+
+For your retelling, the safest modern formulation is that Polo’s notice reflects the period of Bhuvanaikabahu I’s final years or the immediate aftermath, with the island politically fragmented and the northern areas under Pandyan-linked control, while the famous relic embassy is independently corroborated by the Yuan shi under Yiheimishi. The name Sendemain remains unidentified with certainty.

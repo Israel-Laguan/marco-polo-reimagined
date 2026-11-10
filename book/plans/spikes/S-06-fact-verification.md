@@ -56,7 +56,8 @@ The CHR intakes contributed run 2's checked claims to F-05 (Gaykhatu's dates), F
 - Two are dates Yule does not give: the Yuan dynastic name in 1271 (F-40) and the name Yaishan for the 1279 battle (F-41).
 - One conflicts with Yule: Baibars "1259/60–1277" against Yule's "1259 to 1276", and the character registry repeats the unsourced dates (F-39).
 - One is an internal Yule–Cordier conflict like F-07: Yule numbers the Ceylon king of 1267–1301 III, Cordier's addenda II (F-44).
-- Two are outside names or dates with no source: Guo Shoujing (F-42) and the Rāma Khamhaeng inscription (F-43).
+- One is an outside name with no source: Guo Shoujing (F-42).
+- One was first graded "not in refs" by mistake: Yule does date the Rāma Khamhaeng inscription to 1292–93, "almost exactly coincident with Polo's voyage" (F-43, corrected 2026-11-10 after research run B; only the later authenticity debate is outside Yule).
 
 Their `.T1` items are in I-F1, I-03 (new block), II-F1, II-05, III-02 and III-04 (new block), plus a `CHR` line for Baibars's registry dates.
 
@@ -88,7 +89,7 @@ The four obscure rows (F-38, F-39, F-43, F-44) have deep-research prompts in `re
 | F-40 | The year of the Yuan dynastic name | Rossabi 1988 (`rossabi1988khubilai`); *Yuan shi* (`yuanshi1370`), Shizu annals |
 | F-41 | The name of the last Song battle (Yaishan) | a modern history of the Song–Yuan war |
 | F-42 | Guo Shoujing and the Yuan observatory | Needham (`needham1954science`), the astronomy volume; only if the Note wants the name back |
-| F-43 | The Rāma Khamhaeng inscription: its date, and whether the Note needs it | a modern edition or study of the Sukhothai inscription; only if the Note wants it back |
+| F-43 | The inscription's authenticity (Yule's date is in refs) | Griswold & Prasert, JSS 1971; Chamberlain (ed.) 1991; Flood, JSS 1969 for the Yuan embassies |
 | F-44 | The Ceylon king of the 1280s–90s and his regnal number | a modern chronology of the Dambadeniya kings; Tennent 1859 (`tennent1859ceylon`) |
 
 **Feedback applied.**

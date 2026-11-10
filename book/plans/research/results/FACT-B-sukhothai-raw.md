@@ -211,3 +211,101 @@ Additional useful: Cœdès, *Recueil des inscriptions du Siam* (1924); Terwiel, 
 
 **Recommendation for the endnote (III-02 / F-43)**  
 The original sentence (“the Rāma Khamhaeng inscription, c. 1292–93, is almost coeval”) can stand only with hedging: e.g., “the Ram Khamhaeng (Sukhothai) inscription, traditionally dated 1292 and still accepted by most scholars as (at least partly) authentic, is nearly contemporary; firmer coeval Chinese evidence is the series of Yuan–Xian and Yuan–Luohu embassies recorded in the *Yuan shi* from the 1280s–1290s.” Or drop the inscription reference and use only the Yuan contacts. The inscription has a place in older Locac notes (Yule–Cordier) via chronology and Sukhothai’s claimed extent, but is not central to current Locac identifications.
+
+
+---
+
+Run 3: tool unnamed; pasted by the user 2026-11-10, unedited.
+
+**Findings table**
+
+| # | Claim or topic | Finding | Verdict | Sources | Confidence | Book sections affected |
+|---|----------------|---------|---------|---------|------------|------------------------|
+| 1 | Sukhothai Inscription No. 1 date in the text itself; discovery | The text itself dates the erection of the stone bench (and by extension the inscription) to 1214 Śaka (Mahāśakkarāt / Śaka era), a Year of the Dragon = 1292 CE. It also refers to earlier events in 1205 Śaka (1283 CE, invention of Thai script) and 1207 Śaka (1285 CE). Found/brought to notice in 1833 by Prince Mongkut (later King Rama IV / Mongkut) at Sukhothai; later brought to Bangkok. | Confirmed | Standard editions and translations (Coedès, Griswold–Prasert tradition); Wikipedia summary of scholarly consensus; Terwiel and Chamberlain volume references | High | III-02 (Locac Note) |
+| 2 | Authenticity controversy: proponents, grounds, replies, current position | Challengers (late 1980s–1990s): Michael Vickery (“The Ram Khamhaeng Inscription: A Piltdown Skull of Southeast Asian History?”, 1987 paper / 1991 publication) argued anomalies in script (full modern tone-marking system not otherwise attested until much later), vocabulary, orthography, and content inconsistent with other 13th–14th-century Sukhothai inscriptions. Piriya Krairiksh argued it was a 19th-century forgery, possibly by Mongkut himself, on art-historical, palaeographic, and motive grounds (legitimation, identity construction). Others (e.g., Michael Wright) supported later composition. Defenders: A. B. Griswold & Prasert na Nagara (Epigraphic and Historical Studies series), Barend J. Terwiel, and others replied with linguistic, contextual, and comparative arguments. Physical analysis (1990 scanning electron microscopy / energy-dispersive X-ray spectroscopy of the stele vs. other Sukhothai inscriptions) indicated comparable age (~500–700 years). James R. Chamberlain (ed.), *The Ram Khamhaeng Controversy* (1991) collects the principal papers. Current majority scholarly position regards the inscription as at least partly authentic (or authentic in core) and datable to the late 13th century; a minority continues to treat it as later. UNESCO Memory of the World inscription (2003) reflects the mainstream view. | Disputed (but majority accepts authenticity) | Chamberlain (ed.) 1991; Vickery 1991; Piriya Krairiksh contributions; Terwiel 1991/2010; physical analysis reports cited in secondary literature; UNESCO MoW | High for the existence and contours of the debate; medium for “settled” status | III-02 |
+| 3 | “Almost coeval” with Polo’s 1290s notice | If the traditional 1292 dating is accepted, the inscription is precisely coeval with the period of Polo’s return voyage and the composition milieu of his book. Because authenticity remains contested by a minority, the unqualified claim is slightly overstated for a cautious modern note. Safer wording: “The (traditionally dated) Rāma Khamhaeng inscription of 1292 is roughly contemporary with Polo’s notice” or omit the inscription and rely on Chinese records instead. | Corrected (qualified) | Same as rows 1–2 | High | III-02 |
+| 4a | Connection of the inscription or Sukhothai with Polo’s Locac | No strong or standard scholarly connection of the Rāma Khamhaeng inscription itself to Locac was found. Yule noted the inscription’s date as almost coincident with Polo’s voyage and used it to illustrate the rise of Thai power in the peninsula, but did not equate Locac with Sukhothai. | Not found (direct link) | Yule–Cordier notes; secondary Locac literature | Medium | III-02 |
+| 4b | Main identifications of Locac | (1) Lavo / Lopburi (Chinese Luohu / Lo-huk 羅斛), often via Cantonese pronunciation → Locac/Lochac (mainstream, e.g., Wheatley, King, and many modern treatments). (2) Ligor / Nakhon Si Thammarat (or neighbourhood) on the peninsula (Yule’s geographical preference; Phillips). (3) Langkasuka (or a contraction thereof) on the east coast of the peninsula (earlier suggestions). (4) Broader peninsula / Siamese sphere or confusion with Xian/Siam. (5) Occasional wider Khmer/Cambodian associations (less common). Pelliot’s *Notes on Marco Polo* discusses the name and rejects some older etymologies. | Confirmed (list of main proposals) | Pelliot, *Notes on Marco Polo* (entry Lochac/Locac); Wheatley, *The Golden Khersonese* and “Lochac Revisited”; Yule–Cordier; Robert J. King (2018); secondary summaries | High for the existence of the proposals | III-02 |
+| 5 | Yuan–Sukhothai / Lavo / Xian contacts 1280s–1290s | Yuan shi and related records: missions involving Xian (暹, often earlier equated with Sukhothai but distinguished in some modern readings) from the early 1280s (e.g., He Zizhi mission ~1282, detained by Champa); first recorded tribute from Xian 1292; further exchanges 1293–1295 (including a king or high personage presenting a golden plate); Lavo (羅斛, Luohu) missions in the late 1280s–1290s (multiple tributes recorded, e.g., around 1289–1299); separate mention of Sùgǔdí / Sukhothai in some lists (including a 1299 joint context). These Chinese records provide independent, securely dated evidence of Yuan–Thai-region contact precisely in the 1280s–1290s and can usefully replace or supplement the inscription in a note. | Confirmed | Yuan shi (annals and relevant biographies); Geoff Wade-style translations and secondary discussions (Ishii, Flood, Yamamoto Tatsuro on Xian vs. Sukhothai distinction); Baker & Pasuk syntheses | High | III-02 |
+
+**Explanatory notes on disagreements**
+
+The authenticity debate is the principal point of scholarly division. Vickery and Piriya Krairiksh (and supporters) treat the stele as a sophisticated later composition, primarily on internal linguistic and orthographic grounds that they judge incompatible with the rest of the Sukhothai corpus. Defenders (Griswold–Prasert tradition, Terwiel, and the majority of subsequent specialists) accept the traditional late-13th-century dating, supported by the 1990 physical comparison of the stone with other accepted Sukhothai inscriptions and by contextual historical fit. The controversy was collected in Chamberlain (ed.) 1991; it has cooled but is not universally regarded as closed. For a Polo note, the safest course is either to qualify the date or to rely instead on the Yuan shi embassies, which are independent of the inscription’s authenticity.
+
+On Locac, the dominant modern identification is with Lavo/Lopburi (Chinese Luohu), not with Sukhothai proper or the Rāma Khamhaeng inscription. Yule’s geographical preference for the Ligor region reflected his view of expanding Thai power southward, but he did not equate the inscription with Locac.
+
+**Bibliography** (selected; open-access status noted where known)
+
+@book{chamberlain_1991,
+  editor = {Chamberlain, James R.},
+  title = {The Ram Khamhaeng Controversy: Collected Papers},
+  year = {1991},
+  publisher = {The Siam Society},
+  address = {Bangkok},
+  note = {Core collection of the debate papers. Not fully open-access; individual papers circulate.}
+}
+
+@incollection{vickery_1991,
+  author = {Vickery, Michael},
+  title = {The Ram Khamhaeng Inscription: A Piltdown Skull of Southeast Asian History?},
+  booktitle = {The Ram Khamhaeng Controversy},
+  editor = {Chamberlain, James R.},
+  year = {1991},
+  pages = {3--51},
+  note = {Seminal challenge paper. PDF versions available via academic repositories.}
+}
+
+@book{terwiel_2010,
+  author = {Terwiel, Barend Jan},
+  title = {The Ram Khamhaeng Inscription: The Fake That Did Not Come True},
+  year = {2010},
+  publisher = {OSTASIEN Verlag},
+  note = {Defence and re-translation. Limited open access.}
+}
+
+@article{griswold_prasert,
+  author = {Griswold, A. B. and Prasert na Nagara},
+  title = {Epigraphic and Historical Studies},
+  journal = {Journal of the Siam Society},
+  note = {Series of articles defending traditional dating and providing critical editions. JSS archives partially open.}
+}
+
+@book{pelliot_notes,
+  author = {Pelliot, Paul},
+  title = {Notes on Marco Polo},
+  year = {1959--1973},
+  note = {Entry on Lochac/Locac. Standard reference; not fully open-access.}
+}
+
+@book{wheatley_golden,
+  author = {Wheatley, Paul},
+  title = {The Golden Khersonese},
+  year = {1961},
+  note = {Classic discussion of Locac and related toponyms. Library access typical.}
+}
+
+@article{king_2018,
+  author = {King, Robert J.},
+  title = {Finding Marco Polo’s Locach},
+  journal = {Terrae Incognitae},
+  volume = {50},
+  number = {1},
+  year = {2018},
+  note = {**NEW** (post-2013). Argues for Lavo/Lopburi on numismatic and Chinese/Vietnamese evidence.}
+}
+
+@book{baker_pasuk,
+  author = {Baker, Chris and Phongpaichit, Pasuk},
+  title = {A History of Ayutthaya / A History of Thailand},
+  note = {Modern syntheses treating early Thai polities and Chinese contacts. Not open-access.}
+}
+
+Yuan shi references and secondary discussions of the Xian / Lavo / Sukhothai embassies (Ishii, Yamamoto Tatsuro, Flood, Wade-style compilations) supply the independent chronological control.
+
+**Unresolved questions**
+- Whether any post-2013 specialised physical or digital palaeographic study has shifted the majority view on authenticity further (the 1990 analysis remains the main cited scientific contribution).
+- Exact Chinese toponym correspondences and the precise political relationship between Xian, Lavo, and Sukhothai in the 1290s (still refined in the literature).
+- Whether Pelliot’s full Locac entry contains any reference to the Rāma Khamhaeng inscription that is not reflected in secondary summaries.
+
+**Recommended wording for the Note**  
+The sentence can stand in qualified form: “The Rāma Khamhaeng (Sukhothai) inscription, traditionally dated 1292 CE, is roughly contemporary with Polo’s notice; its authenticity has been debated but is accepted by the majority of scholars.” Better still, replace or supplement it with the securely dated Yuan–Xian/Lavo contacts of the 1280s–1290s, which require no reliance on the inscription.

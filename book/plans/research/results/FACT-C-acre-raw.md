@@ -274,3 +274,82 @@ Primary-derived: Annales Ianuenses (Caffaro continuators); Martin da Canal, *Les
 - Definitive single birth year for Baybars (1223 vs 1228 remains open).  
 - Full open-access critical edition passages of Jacoby’s Acre topography articles and Demus on the sculptures (paraphrased from secondary reports only).  
 - Whether any post-2013 peer-reviewed re-examination has altered the Constantinople attribution of the Tetrarchs or Pilastri (current consensus holds).
+
+
+---
+
+Run 3: tool unnamed; pasted by the user 2026-11-10, unedited.
+
+**Findings table**
+
+| # | Claim or topic | Finding | Verdict | Sources | Confidence | Book sections affected |
+|---|----------------|---------|---------|---------|------------|------------------------|
+| 1 | Start of dispute and open war (War of St Sabas) | Dispute over property of the monastery of St Sabas (Mar Saba) in Acre, claimed by both Venetian and Genoese communes, escalated in 1256. Open fighting began 1256; Genoese seized the monastery/house and attacked the Venetian quarter early that year. Yule’s “1255” is slightly early; standard modern dating is 1256. | Corrected (1256) | Wikipedia / standard secondary syntheses (Madden, “The War of Towers”); primary continuations of Annales Ianuenses and Venetian chronicles via secondary literature | High | I-F1 |
+| 2 | Main events | 1256–57: street fighting and mutual bombardment in Acre; Venetian fleet under Lorenzo Tiepolo (1257) broke the harbour chain, destroyed Genoese ships and fortifications of St Sabas, but could not fully expel the Genoese. June 1258: decisive naval battle off Acre (Venetian victory; ~24 Genoese galleys lost, heavy casualties). Genoese abandoned their quarter in Acre and relocated to Tyre under Philip of Montfort. Local barons and military orders split (Templars with Venice; Hospitallers with Genoa). | Confirmed | Same; Battle of Acre (1258) entries | High | I-F1 |
+| 3 | End of the war | Formal end conventionally dated 1270 (Peace of Cremona). Fighting in the Levant was most intense 1256–58; thereafter intermittent naval and commercial warfare continued (e.g., Settepozzi 1263, Trapani 1266) until the 1270 settlement. No single “clean” end date is universally agreed for all hostilities, but 1270 is the date a careful historian prints for the conclusion of the War of St Sabas proper. | Confirmed (1270 as conventional end) | Standard encyclopaedic and secondary accounts | High | I-F1 |
+| 4 | Porphyry figures at St Mark’s from St Sabas / Acre | Yule conflates two distinct sets of spolia. (a) The **porphyry Tetrarchs** (four embracing emperors, c. 300 CE): modern consensus places their origin in Constantinople (Philadelphion); brought to Venice after the Fourth Crusade (1204). A missing foot fragment found in Istanbul confirms this. (b) The **Pilastri Acritani** (“Pillars of Acre”): long attributed by Venetian tradition to the 1258 victory at Acre (from St Sabas or Genoese quarter). Excavations at the Church of Hagios Polyeuktos in Istanbul (from 1960) proved they come from that 6th-century Constantinopolitan church; almost certainly taken after 1204. Neither set is accepted today as originating from Acre/St Sabas. | Corrected | Otto Demus on San Marco sculpture; excavations of Hagios Polyeuktos (Harrison et al.); modern art-historical literature on the Tetrarchs and Pilastri Acritani | High | I-F1 |
+| 5 | Baybars accession and death | Accession: after the murder of Qutuz (on the return from ʿAyn Jālūt, autumn 1260); Baybars proclaimed sultan and formally invested 24 October 1260 (or shortly thereafter; some sources give 26 October). Death: 30 June or 1 July 1277 (27 Muḥarram 676 AH) at Damascus (Qasr al-Ablaq). | Confirmed (with minor day variation) | Britannica; Thorau, *The Lion of Egypt*; EI² / modern Mamluk scholarship; Arabic chronicles via secondary (Ibn ʿAbd al-Ẓāhir, al-Maqrīzī) | High | I-03, CHR |
+| 6 | Cause of death | Multiple versions in the sources: (1) illness after returning from the Anatolian campaign (fever, dysentery/diarrhoea, lasting ~13–14 days) — neutral chronicles; (2) accidental or intentional drinking of poisoned kumiz (fermented mare’s milk) intended for another — popular and some later accounts; (3) poison more generally. Yule’s “excess of kumiz” reflects one strand. Modern historians usually prefer illness or note the uncertainty. | Disputed (illness vs poison/kumiz) | Ibn ʿAbd al-Ẓāhir (contemporary secretary); al-Maqrīzī; Thorau; secondary discussions of the death narratives | Medium–high | I-03, CHR |
+| 7 | “Fourth of the Mameluke Sultans” | Correct for the Bahri line as conventionally counted: (1) Aybak, (2) ʿAlī (brief), (3) Qutuz, (4) Baybars. Some lists insert or adjust short-reign figures, but “fourth” is the standard designation. | Confirmed | Standard Mamluk sultan lists (EI, Thorau, etc.) | High | CHR |
+| 8 | Birth year | Commonly given as 1223 (or 1223/1228); Kipchak origin, north of the Black Sea. Exact year not precisely fixed in the sources. | Confirmed (range) | Britannica; modern biographies | Medium | CHR |
+| 9 | Specific campaign dates from Yule | Invasion of Cilician Armenia 1266: confirmed. Second major campaign into Cilicia (burning of Ayas, damage to Sis, etc.) 1275: confirmed. Presence at Damascus / northern Syrian operations in autumn 1271 amid Mongol pressure: consistent with the broader pattern of his Syrian campaigns and the known Mongol threat that year. | Confirmed | Thorau; Amitai-Preiss; standard campaign chronologies | High | I-03 |
+
+**Explanatory notes**
+
+On the War of St Sabas, Yule’s narrative is essentially sound but the opening year is better given as 1256. The decisive phase was 1256–58; the formal peace of 1270 closed a longer period of intermittent conflict. The sculptural attribution is the point that requires correction: both the Tetrarchs and the Pilastri Acritani are now securely linked to Constantinople (pre-1204 spolia), not to the 1258 Acre victory.
+
+On Baybars, the accession date is fixed to the immediate aftermath of Qutuz’s murder in 1260 (October). The death date is 30 June / 1 July 1277 (27 Muḥarram 676). Cause remains debated in the sources themselves; a cautious note should acknowledge both the illness narrative and the poisoned-kumiz tradition without privileging Yule’s version.
+
+**Bibliography** (selected)
+
+@book{thorau_1992,
+  author = {Thorau, Peter},
+  title = {The Lion of Egypt: Sultan Baybars I and the Near East in the Thirteenth Century},
+  year = {1992},
+  note = {Standard modern biography. Not fully open-access.}
+}
+
+@book{amitai_preiss_1995,
+  author = {Amitai-Preiss, Reuven},
+  title = {Mongols and Mamluks: The Mamluk-Īlkhānid War, 1260–1281},
+  year = {1995},
+  note = {Campaign context. Library access typical.}
+}
+
+@book{lane_1973,
+  author = {Lane, Frederic C.},
+  title = {Venice: A Maritime Republic},
+  year = {1973},
+  note = {Broader Venetian background; still useful on the rivalry.}
+}
+
+@book{epstein_1996,
+  author = {Epstein, Steven A.},
+  title = {Genoa and the Genoese, 958–1528},
+  year = {1996},
+  note = {Genoese side of the conflict.}
+}
+
+@incollection{madden_war_towers,
+  author = {Madden, Thomas F.},
+  title = {The War of Towers: Venice and Genoa at War in Crusader Syria, 1256–8},
+  booktitle = {Syria in Crusader Times},
+  year = {2020},
+  note = {**NEW** (post-2013). Focused treatment of the Acre phase.}
+}
+
+@book{demus_san_marco,
+  author = {Demus, Otto},
+  title = {The Church of San Marco in Venice: History, Architecture, Sculpture},
+  year = {1960},
+  note = {Classic on the sculpture; subsequent work has refined the origins of the Tetrarchs and Pilastri.}
+}
+
+Primary Arabic material is accessed principally through Thorau and the standard translations/editions of Ibn ʿAbd al-Ẓāhir and al-Maqrīzī’s *Sulūk* (Quatremère). Encyclopaedia of Islam entries (“Baybars I”) summarise the consensus.
+
+**Unresolved questions**
+- Precise day of Baybars’s formal investiture (24 vs 26 October 1260) varies slightly by source.
+- Whether any residual fighting in the Levant after 1270 is still counted by some historians under the “War of St Sabas” label.
+- Exact relationship (if any) between the Venetian chronicles’ claim of trophies from Acre and the actual Constantinopolitan origin of the sculptures now on the south façade of San Marco.
+
+For the retelling, print the War of St Sabas as 1256–1270 (intense phase 1256–58, formal end 1270), correct the sculptural origin note, and give Baybars as sultan 1260–1277 (accession October 1260 after Qutuz’s murder; death 30 June/1 July 1277 at Damascus).
