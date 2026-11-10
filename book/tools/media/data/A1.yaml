@@ -1,0 +1,86 @@
+# A1 — Series overview: the whole round trip, one colour per volume (each volume's front-02).
+# Line styles follow the leg maps: A4 (Ayas to Kerman, a reconstruction), A11 (Mien, reported) and A16 (the return).
+id: A1
+file: A1-series-overview
+extent: [8, 124, -2, 50]
+centre: [66, 24]
+projection: equal_earth
+scale: 50m
+graticule: 10
+scale_km: 1000
+scale_at: [62, 1.5]
+markers: labelled
+routes:
+  # Volume I: Venice to the Khan
+  - vol: I
+    style: stated
+    path: [venice, [44.4, 13.2], [42.3, 16.5], [40.0, 19.0], [37.0, 20.7], [35.9, 24.0], [35.2, 28.0],
+           [34.0, 31.5], acre, [33.6, 34.7], [35.6, 35.6], ayas]
+  - vol: I
+    style: inferred          # A4: via Tauris or via Mausul/Baudas; this is the Tauris variant
+    path: [ayas, savast, arziron, tauris, saba, kashan, yasdi, kerman]
+  - vol: I
+    style: stated            # down to Hormos and back by another road, then the desert of Cobinan
+    path: [kerman, camadi, reobarles, hormos, kerman, cobinan, tonocain, sapurgan, balc, taican, badashan,
+           vocan, pamier, cascar, yarcan, cotan, pein, charchan, lop, sachiu, sukchur, campichu, chandu, cambaluc]
+  # Volume II: the Khan's realm
+  - vol: II
+    style: stated            # the west road and the south-west circuit
+    path: [cambaluc, pulisanghin, juju, taianfu, pianfu, cachanfu, kenjanfu, acbalec-manzi, sindafu, caindu,
+           yachi, talifu, vochan]
+  - vol: II
+    style: reported
+    path: [vochan, mien]
+  - vol: II
+    style: stated            # the canal spine and the Fujian road
+    path: [cambaluc, cacanfu, changlu, sinjumatu, piju, siju, coiganju, yanju, chinghianfu, suju, kinsay,
+           vuju-2, kelinfu, fuju, zayton]
+  # Volume III: the seas and the return (as A16)
+  - vol: III
+    style: inferred
+    path: [zayton, [21.5, 113.5], [15, 110.5], chamba]
+  - vol: III
+    style: stated
+    path: [chamba, [9.0, 107.0], [8.7, 106.6], [3.5, 105.5], [1.15, 104.5], [2.6, 101.2], [4.2, 99.0], samara]
+  - vol: III
+    style: inferred
+    path: [samara, [6.4, 94.5], [6.5, 84.0], seilan, [9.6, 80.3], maabar, [8.7, 78.1], [7.6, 77.5], [8.9, 76.6],
+           melibar, [14.5, 72.5], [21.5, 63.5], [24.6, 58.6], [26.2, 57.0], hormos]
+  - vol: III
+    style: inferred
+    path: [hormos, abhar, tauris, trebizond]
+  - vol: III
+    style: stated
+    path: [trebizond, [41.9, 37.5], [42.3, 35.0], [41.7, 32.0], [41.25, 29.15], constantinople, [40.8, 27.5],
+           [40.15, 26.3], [39.3, 25.0], negropont, [37.9, 24.4], [36.3, 23.3], [36.5, 21.4], [38.5, 20.3],
+           [40.0, 19.0], [42.3, 16.5], [44.4, 13.2], venice]
+label:
+  venice: w
+  acre: w
+  ayas: n
+  trebizond: n
+  tauris: e
+  kerman: w
+  hormos: sw
+  balc: n
+  cascar: n
+  cotan: s
+  sachiu: s
+  chandu: n
+  cambaluc: e
+  sindafu: w
+  vochan: w
+  mien: w
+  kinsay: e
+  zayton: e
+  chamba: e
+  samara: sw
+  seilan: se
+  melibar: w
+text:
+  - {text: "Persia", at: [32.0, 54.0], kind: region}
+  - {text: "Cathay", at: [36.3, 114.6], kind: region}
+  - {text: "Manzi", at: [27.5, 113.0], kind: region}
+  - {text: "India", at: [21.0, 78.0], kind: region}
+  - {text: "Sea of India", at: [6.0, 68.0], kind: sea}
+legend: {at: lower left, items: [volumes, lines, markers]}

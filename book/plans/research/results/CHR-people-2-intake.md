@@ -65,3 +65,10 @@ Elsewhere:
 | coja | Survival | Cleaves 1976, full text |
 
 These are library checks, not another search run. They belong to S-15's intake when it comes.
+
+**2026-11-10, run 3:** a search run on these 8 rows went ahead anyway (`CHR-people-3-raw.md`, intake `CHR-people-3-intake.md`). It opened none of the target sources, and every row above is still open. It added two leads: Menshikova 2025 for Chabi's 1227 birth date, and Çelik 2022 naming Chabi as Dorji's mother. It also confirmed that Andreose 2015 does not place Rustichello at Meloria. By-products are in `registry/enrichment.md` § 2. The note above stands: do not run another search.
+
+**2026-11-10, run 4 + direct read: closed.** `CHR-people-4-intake.md` § Final status gives each row's verdict:
+- **settled:** peter-the-tartar (folio pending);
+- **settled in part:** dorji, marco;
+- **not possible for now:** chabi (birth year), coja, maffeo, bellela, rustichello. Each needs a library or archive, not a search.

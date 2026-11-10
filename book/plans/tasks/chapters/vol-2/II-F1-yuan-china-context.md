@@ -58,7 +58,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `II-F1.T1` Critical and factual fixes (epigraph, Cachanfu)
 - `II-F1.T3` De-duplicate against back-01 and ch-05; trim tics
-- `II-F1.T5` Media placement (frontispiece, B3)
+- `II-F1.T5` Media placement (frontispiece, B3) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `II-F1.T6` Lint pass and human voice read
 
 ### II-F1.T1 — Names to the S-04 policy; facts per S-06
@@ -72,6 +72,18 @@ _Created after the gating spikes close. Expected shapes:_
     - F-40 (open): front-01:13 and Note [2] drop "in 1271": "he gave his state the Chinese dynastic name Yuan".
     - F-41: front-01:27 "the naval endgame off Yaishan" → "a sea battle off the Canton coast early in 1279" (Yule); no place name.
 - **Done when:** `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### II-F1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Keep as home: Kublai's China; the two capitals and the seasonal court (:15–23); the Sung conquest horizon.
+  - Add the outline's preface beat: one paragraph on visited corridors vs reported provinces; the short box is `APP.T1`. Name conventions: Chinese forms only.
+  - Paper money and coal (:35–37): frame only, no verdict ("what Polo will describe, and why it startled Latin readers"); home II-5. Ahmad (:39) → one clause.
+  - Cut "Circuits the chapters will walk" (:41–48); it moves to II-F2. Cut the Yanju/Saianfu advice (:52); home II-11.
+  - "Anyway" (:29) goes.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ~800 (with the short box) words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### II-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

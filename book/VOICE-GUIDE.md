@@ -26,8 +26,19 @@ Tone: clear, oral, intelligent, readable. Warm storyteller. Correct, publishable
 | Opening recap ("The Book has told…") | **0** | Start in the scene. |
 | Closing recap | **≤ 1 sentence, ≤ 25 words**, forward-looking | Pilot: "Inside these walls the court now comes to life: the feasts, the robes of gold, and the twelve thousand Keshican." |
 | Mid-chapter "So/Thus X…" restatement paragraphs | **0** | Merge any identification content into Notes. |
-| Narrative length | **1,800–3,200** words | Expect a catalogue chapter to shrink 25–40% on re-voice (pilot 3,167 → 1,894). Don't pad back to length. |
+| Narrative length | **1,800–3,200** words; essay (III-12) **2,500–3,500**; each front/back file **≤ 1,200** | S-07: no relaxation for "long" chapters. Expect a catalogue chapter to shrink 25–40% on re-voice (pilot 3,167 → 1,894). Re-voice first, re-measure, then cut only if still over. Don't pad back to length. Front/back guide: F2 prose ≈ 500, B1 ≈ 800. |
 | Average sentence length | **≤ 25 words** (advisory) | Pilot 22.5; before 29.1; I-1 23.1. |
+
+## Front and back matter (S-07, closed 2026-11-10)
+
+Each topic has one home; the topic-by-file matrix is in `plans/spikes/S-07-structure-length.md`.
+
+- **F1 frames.** Background no chapter narrates, the volume's scope in one paragraph, the reader's key (the *How to read this book* box). It names a topic and points forward. It never gives a chapter's verdict.
+- **F2 orients.** Map list, maps, captions, generated place tables, and map cautions about identifications. Routes and circuits are described here, not in F1.
+- **Chapters narrate.** The verdict on a claim sits in the chapter's aside and Note, or in the III-12 ledger for the cross-volume hits and misses.
+- **B1 points.** A dispute shortlist, one line each (verdict + chapter and Note, written "see II-11, Note 4": no brackets, S-08), ≤ 40 words; and trivia the chapters' bodies do not tell. No closing summary.
+- **III-10 / III-11 / III-12:** III-10 ends at 1324 and the readers of Marco's lifetime; III-11 tells the reception as events from 1375; III-12 weighs the arguments (home of the Wood debate, the silences, the manuscript families and the series' principles).
+- **No phrase twice** across files.
 
 ## Openers and transitions
 
@@ -154,18 +165,25 @@ The label is **provenance**, not reliability. It sits beside a reliability marke
 
 ### How the apparatus survives into LaTeX
 
-The Markdown stays plain; the build (S-08) converts mechanically because every element has one fixed shape.
+The Markdown stays plain; the build (`tools/build/`, S-08 closed 2026-11-10) converts mechanically because every element has one fixed shape. The full list of shapes, with which lint rule guards each, is `plans/registry/markdown-conventions.md`; chapter tasks follow it.
 
 | Element | Markdown | LaTeX build |
 |---|---|---|
-| Citation | `[n]` plain text, sequential | filter turns `[n]` + the `## Notes` list into per-chapter endnotes (S-08 may choose footnotes; nothing here changes) |
-| Marker | literal ✓ ~ ✗ ◇ ? at clause start | filter wraps the five glyphs in one macro that sets them in a symbol font (or `pifont`) |
-| Tag line | a paragraph that is only `**[V]**` etc. | filter sets it as a small-caps line under the title |
+| Citation | `[n]` plain text, sequential | linked superscript; the `## Notes` list becomes **endnotes per chapter**, printed under *Notes* at the chapter's end with the Markdown's numbers |
+| Marker | literal ✓ ~ ✗ ◇ ? at clause start, each a separate word | one macro sets the five in DejaVu Sans (`~` prints as ∼); the same in tables and the how-to box |
+| Tag line | a paragraph that is only `**[V]**` etc. | small-caps line under the title |
 | Ramusio flag | ordinary words | no markup needed |
-| How-to-read box | `::: howto … :::` (Pandoc fenced div) | boxed environment |
-| Source citation | `[@key, locator]` (Pandoc citation) | `biblatex-chicago` (authordate) via `pandoc --biblatex`; one `refsection` per volume; `\printbiblist{shorthand}` for the abbreviations; *Works cited* per volume |
+| How-to-read box | `::: howto … :::` (Pandoc fenced div) | ruled box |
+| Source citation | `[@key, locator]` (Pandoc citation) | `biblatex-chicago` (authordate) via `pandoc --biblatex`; base text prints "(YC 2.8)"; one PDF per volume, so *Works cited* and the *Abbreviations* list are per volume with no `refsection` |
 
-For S-08: confirm a font with ✓ ✗ ◇ coverage and the endnote-vs-footnote choice.
+**Conventions changed or made explicit by S-08** (lint: whether `tools/lint.py` should enforce it):
+
+1. **Figure captions live in the image brackets**: `![Caption. *(Credit.)*](../media/…)`. The separate `*Caption:*` paragraph is retired (6 figures, all in the F2 files; fixed in their `.T5`). Lint: **yes**, an error (`BLD.T6`).
+2. **A bracketed number in the body is always a citation.** Refer to a Note in prose as "Note 11", or "II-11, Note 4" across files, never "Note [11]" (this applies to the B1 dispute shortlist from S-07). Lint: **already enforced**: a stray `[11]` breaks the `citations` sequence check.
+3. **Media files:** PNG or JPEG whose extension matches the real type; ≥ 1,350 px wide at full width; vector art as a PDF beside the SVG/PNG. Lint: **no**; the build reports each case (placeholder box or warning).
+4. **A `---` inside a chapter is a scene break**; only the rule under the title block and the rule before `## Notes` are structural. Lint: **no**.
+5. **Markers in tables:** a table may carry a verdict column in the five markers (TBL's open S-03 question). Lint: **no**.
+6. Headings: `# Chapter II-2` + `## Title`; front and back matter `# Front Matter I-2` / `# Back Matter …` + `## Title`. Lint: **yes**, a warning (`BLD.T6`).
 
 ## Base text and honesty
 

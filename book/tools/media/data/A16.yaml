@@ -1,0 +1,58 @@
+# A16 — The Cocachin return (III-9, III-front-02). Pilot for S-09.
+# Solid = stages the Prologue names (Java the Less; Trebizond -> Constantinople -> Negropont -> Venice).
+# Dashed = stages the chapter infers (Zayton departure, the Indian beads, Hormos landfall, the Persian road).
+# Sources for the split: vol-3/ch-09 Notes [8]-[10], [17].
+id: A16
+file: A16-cocachin-return
+extent: [10, 124, -2, 48]
+centre: [67, 22]
+projection: equal_earth
+scale: 50m
+graticule: 10
+scale_km: 1000
+scale_at: [62, 1.5]
+routes:
+  - vol: III
+    style: inferred          # the Prologue does not name the port of departure
+    path: [zayton, [21.5, 113.5], [15, 110.5], chamba]
+  - vol: III
+    style: stated            # "some three months ... to Java" (the Less)
+    path: [chamba, [9.0, 107.0], [8.7, 106.6], [3.5, 105.5], [1.15, 104.5], [2.6, 101.2], [4.2, 99.0], samara]
+  - vol: III
+    style: inferred          # "eighteen months more" in the Sea of India; ports not logged
+    path: [samara, [6.4, 94.5], [6.5, 84.0], seilan, [9.6, 80.3], maabar, [8.7, 78.1], [7.6, 77.5], [8.9, 76.6], melibar,
+           [14.5, 72.5], [21.5, 63.5], [24.6, 58.6], [26.2, 57.0], hormos]
+  - vol: III
+    style: inferred          # Gulf to the Ilkhan's camp; Kiacatu's court and the bride's delivery
+    path: [hormos, abhar, tauris]
+  - vol: III
+    style: inferred
+    path: [tauris, trebizond]
+  - vol: III
+    style: stated            # Trebizond, Constantinople, Negropont, Venice: all named
+    path: [trebizond, [41.9, 37.5], [42.3, 35.0], [41.7, 32.0], [41.25, 29.15], constantinople, [40.8, 27.5],
+           [40.15, 26.3], [39.3, 25.0], negropont, [37.9, 24.4], [36.3, 23.3], [36.5, 21.4], [38.5, 20.3],
+           [40.0, 19.0], [42.3, 16.5], [44.4, 13.2], venice]
+label:
+  zayton: {pos: nw, text: "Zayton, 1291 or 1292"}
+  chamba: e
+  samara: {pos: sw, text: "Samara (5-month wait)"}
+  seilan: se
+  maabar: e
+  melibar: w
+  hormos: sw
+  abhar: e
+  tauris: ne
+  trebizond: n
+  constantinople: nw
+  negropont: sw
+  venice: w
+text:
+  - {text: "Persia", at: [32.5, 52.5], kind: region}
+  - {text: "India", at: [20.5, 78.0], kind: region}
+  - {text: "Manzi", at: [30.8, 110.5], kind: region}
+  - {text: "Java the Less", at: [0.4, 101.4], kind: region}
+  - {text: "Sea of India", at: [6.0, 68.0], kind: sea}
+  - {text: "SW monsoon\nApr–Sep: the wait", at: [14.5, 89.0], kind: note}
+  - {text: "NE monsoon\nNov–Mar: westward", at: [17.0, 64.5], kind: note}
+legend: {at: lower left, items: [lines, markers]}

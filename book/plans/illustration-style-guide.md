@@ -82,7 +82,8 @@ Every prompt with a recurring figure takes its `[PERIOD]` and `[AVOID]` lines fr
 
 ## Technical spec for LaTeX
 
-- **Resolution:** 300 dpi at final printed size. For a 6×9 in book with a ~4.5×7.2 in text block: full page **1350×2160 px**; half page **1350×1000 px**; handscroll spread **2700×900 px**.
+- **Resolution:** 300 dpi at final printed size. Trim **6×9 in with a 4.5×7.2 in text block** (confirmed by S-08, 2026-11-10): full page **1350×2160 px**; half page **1350×1000 px**; handscroll spread **2700×900 px**.
+- The print build (`tools/build/build.sh`) warns for any raster under 1,350 px wide and will not place a file whose extension is not its real type (PNG or JPEG only).
 - Generators usually output ~1–2 MP, so plan an **upscale pass** (e.g. Real-ESRGAN) and check fine detail (faces, hands, rigging) after upscaling.
 - **Formats:** plates as PNG (lossless master) → JPEG at 95% quality for the build. Maps and diagrams as **PDF/SVG vector**.
 - **Color:** sRGB masters. If the printer requires CMYK, convert at the end, and proof the saturated pigments (lapis, malachite, vermilion), which shift most.

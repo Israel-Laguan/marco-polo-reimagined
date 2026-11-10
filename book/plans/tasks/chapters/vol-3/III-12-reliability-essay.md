@@ -39,7 +39,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Length and structure
 - Over length: 3,784 words by the critique's count (3,826 here; essay limit 3,500). Cut to about 2,900: remove the "Soft" labels (~72 words, plus following labelling clauses ~250); delete :130 (~150); delete :72 (~110); fold the "court and canal texture" paragraph :38 into :36 (~80); cut open questions 13–14 and merge 4 into 7 with stress-points (~80); trim the "Principles" bullets that restate the README, :96-100 (~100). W4 target: cut about 900. — vol-3 M11 · ch-12:36-38, :72, :96-100, :106-123, :130
-- Reception/essay structure decided under S-07. Scorecard: "Right architecture" — all 9 sections present.
+- Reception/essay structure: **S-07 decided (2026-11-10): keep the nine sections; prose pass with a section plan** (see `III-12.T3`). Scorecard: "Right architecture" — all 9 sections present.
 
 ## Media hooks
 - **Hero plate:** III-12 *Caravan of the Catalan Atlas (1375)* — **PD**, Cresques workshop, handscroll; caption: often read as the Polos; that is uncertain — see `illustration-plan.md`. (Critique §4's ★ pick was Marco and Rustichello in the Genoese prison using `drawing-genoa-dictation.png`; the multimedia plan retires all drawings, one for showing Rustichello in a monk's habit.)
@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `III-12.T1` Critical and factual fixes (epigraph, Soft, meta, Bolad, stele, Curzola)
 - `III-12.T3` Prose pass to the S-01 standard, incl. length cuts
-- `III-12.T5` Media placement (ledger and Cocachin tables, hero)
+- `III-12.T5` Media placement (ledger and Cocachin tables, hero) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `III-12.T6` Lint pass and human voice read
 
 ### III-12.T1 — Names to the S-04 policy; facts per S-06
@@ -70,6 +70,23 @@ _Created after the gating spikes close. Expected shapes:_
     - F-32: the Xi'an stele was found in 1625: cut it from the "misses" (:44, Note [6]).
     - F-34: :30 and Note [4]: Jacopo puts the capture at Ayas; Curzola is Ramusio's tradition.
 - **Done when:** a person has read the chapter's Polo place names against `gazetteer.csv`. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### III-12.T3 — Prose pass to the S-01 standard, with the S-07 section plan
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 ✓, S-06 ✓, S-07 ✓; do after `III-11.T3` (the Wood and "why a retelling" material moves here) · S-13 may update §6 later and does not gate it
+- **Now:** 3,753 words (essay range 2,500–3,500) · "Soft" ×44 · opening recap :9–11 · closing recap :127
+- **Do:** essay register (it argues, it does not retell), and the voice rules that apply to it: no scaffolding, no archaisms, no Book first person, no recaps. Section plan in `plans/spikes/S-07-structure-length.md` § 3, target 2,800–3,200:
+  0. Cut the opening recap (:9–11); open on the method line of the epigraph.
+  1. What kind of book (:15–21) → ~380.
+  2. Method, MS types, Ramusio (:25–27) → ~300; **home of the manuscript-families topic**; Curzola/Jacopo per F-34.
+  3. Hits (:31–37) → ~400: no Bolad hit (F-08); fold :35 into :33; Cocachin with Yang Zhijiu as Cleaves reports it (F-15).
+  4. Misses and silences (:41–45) → ~330: no Xi'an stele (F-32); foot-binding hedged (F-37); **home of the silences topic**.
+  5. Stress-points (:49–59) → ~330; Saianfu chronology credited to Wood's case; absorbs open question 4.
+  6. **Rebuild Wood and the replies (:63–69) → ~450; home of the debate (M13).** Her case in full (no Chinese or Persian record names the Polos; Persianised place-names; Saianfu chronology; silences), then the replies by date (de Rachewiltz 1997, Haw 2006, Vogel 2013) and Yang Zhijiu's notice with its limit. Delete :69.
+  7. Comparative travellers (:73–83) → ~280.
+  8. Principles (:87–101) → ~200; drop :93, :95, :101 (restate the README) and :97 (quotes the banned v1 hinges); **home of "why a retelling"**.
+  9. Open questions (:105–123) → ~180: keep 1–3 and 6–12; drop 5 (Bolad); 4 to §5; cut 13–14.
+  10. Close in one sentence: "…wonders in voice, quarrels in Notes, and no false modernisation of belief."
+- **Done when:** lint green (S-02) + human read: each section does its one job and nothing in it repeats III-10, III-11 or III-B1.
 
 ### III-12.T2 — Ramusio flags and labels to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `III-12.T3` (the flags are written during the re-voice pass)

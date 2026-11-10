@@ -59,7 +59,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `I-B1.T1` Critical and factual fixes
 - `I-B1.T3` Re-voice to the S-01 standard (incl. length cuts)
-- `I-B1.T5` Media placement (figures, tables, captions)
+- `I-B1.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `I-B1.T6` Lint pass and human voice read
 
 ### I-B1.T1 — Names to the S-04 policy; facts per S-06
@@ -71,6 +71,17 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-34: "during a Genoese captivity in 1298, traditionally after Curzola"; Jacopo d'Acqui puts the capture at Ayas, Curzola is Ramusio's tradition.
 - **Done when:** `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### I-B1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Disputes become a shortlist: one line each (verdict + chapter and Note), ≤ 40 words: Curzola (:33, per F-34), the "1250" date (:35), the conversion pledge (:37, without "weak joint"), Baudas mountain (:39), Assassins (:41), Arbre Sec (:43), Pipino's first meeting (:51).
+  - Cut: Great Wall silence (:45; home III-12 §4), visited vs reported (:47; the tags say it), numbers and days' journeys (:49; III-12 §5).
+  - Trivia: "the book has many books" (:13) → one pointer sentence (home III-12 §2); keep the rest only where the chapter body does not already tell it.
+  - Cut "How to use this back matter" (:55–57) to one sentence.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ~700 words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### I-B1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

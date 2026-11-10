@@ -50,7 +50,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `III-F2.T1` Critical and factual fixes (epigraph, captions now)
-- `III-F2.T5` Media placement (A1, A16)
+- `III-F2.T5` Media placement (A1, A16) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning. Move each `*Caption:*` paragraph into its image brackets (`BLD.T6` flags it).
 - `III-F2.T6` Lint pass and human voice read
 
 ### III-F2.T1 — Names to the S-04 policy; facts per S-06
@@ -62,6 +62,16 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
 - **Done when:** `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### III-F2.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Home of the sea route and the map list (outline beat 4).
+  - Cut :13 ("coastal rosary" of visited vs reported) to one sentence; the tags say it. Keep :78 as a one-line monsoon caution.
+  - Cut the closing "Anyway…" (:80).
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ≤ 500 prose words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### III-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

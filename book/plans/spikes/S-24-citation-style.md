@@ -65,7 +65,7 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 - [x] `VOICE-GUIDE.md`: Notes rule 2 and § Apparatus rewritten for the new style
 - [ ] `tools/cite_convert.py` (pass A ✓; pass B after S-12) and the lint rules ✓
 - [ ] Pass A applied ✓; pass B applied after S-12; ambiguous list resolved
-- [ ] Front-matter *List of abbreviations*; back-matter *Works cited* wired into the build (with S-08)
+- [ ] Front-matter *List of abbreviations*; back-matter *Works cited* wired into the build (with S-08). **Wired 2026-11-10 (S-08):** one PDF per volume prints its *Abbreviations* (`\printbiblist{shorthand}`) and *Works cited*; the base text prints "(YC 2.8)"; no `refsection` needed. Left: the explanatory prose of the abbreviations page (APP)
 
 ## Feedback to plan
 - `VOICE-GUIDE.md` lines 98 and 153: "by well-known position only" becomes "by position, with a citation key; no unseen page numbers". Line 150: the base-text wording (already corrected 2026-10-22, see Findings).

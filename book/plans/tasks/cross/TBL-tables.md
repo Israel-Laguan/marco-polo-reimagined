@@ -26,7 +26,7 @@ Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *
 **Candidates without an ID yet** (from the critique, not in the multimedia plan): Madeigascar vs Magadoxo (III-7); return-mortality variants 600 / 8 / 18 (III-9); Golden Horde khan list, Book vs actual (II-15). Decide when writing those chapters' `.T5`.
 
 ## Gated by spikes
-S-08 (table markup) · S-06 (facts) · S-03 (markers inside tables)
+S-08 ✓ (table markup; closed 2026-11-10) · S-06 ✓ (facts) · S-03 ✓ (markers inside tables: allowed, as a verdict column; decided in S-08)
 
 ## Tasks
-_Folded into each chapter's `.T5`._ `TBL.T1` shared table style; `TBL.T2` the cross-volume ledger (III-12).
+_Folded into each chapter's `.T5`._ `TBL.T1` shared table style: **done by S-08** (pipe table with a header row and no caption line; `booktabs`, small type, columns sized by the build; a verdict column may use the five markers; see `registry/markdown-conventions.md`). `TBL.T2` the cross-volume ledger (III-12).

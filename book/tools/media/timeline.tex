@@ -1,0 +1,24 @@
+% Timeline template (S-09). timeline.py fills the placeholders from data/B*.yaml and style.yaml;
+% layout (every coordinate, in cm) is computed there, so this file only sets fonts, colours and styles.
+\documentclass[tikz,border={0pt 2pt}]{standalone}
+\usepackage{fontspec}
+\setmainfont{$font}
+\usetikzlibrary{shapes.geometric}
+\newcommand\tldate[1]{\makebox[1.3cm][l]{\bfseries #1}}
+$colours
+\tikzset{
+  tl-axis/.style={draw=ink, line width=0.5pt},
+  tl-tick/.style={draw=ink, line width=0.3pt},
+  tl-year/.style={font=\scriptsize, text=inksoft, anchor=east, inner sep=1pt},
+  tl-leader/.style={draw=inksoft, line width=0.25pt},
+  tl-range/.style={line width=2.4pt},
+  tl-label/.style={font=\footnotesize, text=ink, anchor=west, inner sep=0pt, align=left},
+  tl-note/.style={font=\scriptsize\itshape, text=inksoft, anchor=north west, inner sep=0pt, align=left},
+  tl-mark/.style={draw=white, line width=0.3pt, inner sep=0pt, minimum size=4.2pt},
+$kinds
+}
+\begin{document}
+\begin{tikzpicture}[x=1cm, y=-1cm]
+$body
+\end{tikzpicture}
+\end{document}

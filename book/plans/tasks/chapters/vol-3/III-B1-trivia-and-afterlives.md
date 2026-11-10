@@ -47,7 +47,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `III-B1.T1` Critical and factual fixes
-- `III-B1.T5` Media placement (glossary)
+- `III-B1.T5` Media placement (glossary) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `III-B1.T6` Lint pass and human voice read
 
 ### III-B1.T1 — Names to the S-04 policy; facts per S-06
@@ -60,6 +60,17 @@ _Created after the gating spikes close. Expected shapes:_
     - F-23: Adam's Peak is Muslim and Buddhist "in the Book"; Hindu and Portuguese-Christian claims only as later traditions (Tennent, via Yule).
     - F-15 (open): the Cocachin entry adds the 1290 notice "as Cleaves reports it"; neither source names the Polos.
 - **Done when:** `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### III-B1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Disputes become a shortlist (one line each, chapter and Note): Chipangu gold (:31), Cocachin with Yang Zhijiu (:33, per F-15).
+  - Cut everything III-10, III-11 and III-12 already tell: *Milione* (:23), the book outran the man (:27), personal landings (:35), Columbus (:37), Wood (:39), Great Wall harvest (:41), Ramusio's homecoming (:43), "Afterlives in one breath" (:45–49).
+  - Keep sea-book trivia: ships of Manzi (:13), pepper and pearls (:19), the name Madagascar (:21), Trebizond (:25); Adam's Peak (:17) fixed to Muslim and Buddhist (F-23). The Sumatra wait (:15) → cut (III-3, III-F1).
+  - One closing sentence at most.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ~400 words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### III-B1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

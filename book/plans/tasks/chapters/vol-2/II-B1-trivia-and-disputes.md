@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `II-B1.T1` Critical fix (epigraph)
 - `II-B1.T3` De-duplicate against front-01 and ch-05
-- `II-B1.T5` Pronunciation glossary
+- `II-B1.T5` Pronunciation glossary · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `II-B1.T6` Lint pass and human read
 
 ### II-B1.T1 — Names to the S-04 policy; facts per S-06
@@ -64,6 +64,17 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
 - **Done when:** `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### II-B1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Disputes become a shortlist (one line each, ≤ 40 words, chapter and Note): Yanju (:33), Saianfu (:35), Kinsay numbers (:37), paper money (:39), coal (:41).
+  - Cut trivia that the chapters or II-F1 already tell (m12): two capitals (:15), paper money (:17), coal "quiet proof" (:19), Book IV (:27). Ahmad (:21) → one line (per F-08).
+  - Cut visited vs reported (:43) and silences (:45; home III-12 §4).
+  - Cut "How to use" and the Vol. III teaser (:49–51) to one sentence.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ~550 words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### II-B1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

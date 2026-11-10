@@ -128,7 +128,8 @@ This is the work SERIES-STATUS claims is done. **Model: II-2** (S-01 pilot; rule
   - Vol. II: II-3 (80%) → II-8 → II-4 → II-14 → II-10 → II-6 → II-12 → II-1 → II-11 → II-9 → II-15 → II-7 → II-13 → II-5.
   - Vol. I: I-7 (70%) → I-9 → I-8 → I-5 → I-6 → I-13 → I-10 → I-4 → I-11 → I-3 → I-2.
   - Vol. III: III-4 (77–78%) → III-3 → III-8 → III-6 → III-1 → III-2 → III-7 → III-5 → III-9 → III-10.
-- **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. Either split it (I-12a / I-12b, which the outline allows) or turn its customs list into scenes.
+- **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).
+- **III-10 to III-12** (S-07): re-voice with section plans, no rebuild. III-10 ends at 1324; III-11 tells the reception as events; III-12 argues (home of Wood's full case and of the series' principles). Plans in each `.T3`.
 
 **Over length:**
 - II-13 (3,432): cut about 350.
@@ -158,7 +159,7 @@ The critique gives a cut plan for each. Most of the cuts come out of the recaps.
   - ✓ conflicts resolved (see `GAZ-gazetteer.md`): Cachanfu = Puzhou, Cacanfu = Hejian, Caugigu = Kiang Hung, Nanghin = Anqing, two Vujus, two Sinjus, Male and Female unplotted;
   - regenerate the front-02 place tables from it (`GAZ.T5`).
 - **People** (S-05 decided 2026-10-22): `plans/registry/characters.yaml` is the authority for names and dates (Yule's form where Polo names the person: *Cublay*, *Alaü*, *Argon*, *Casan*; the modern form where he does not), with the gloss rule of the gazetteer. The naming pass runs inside each chapter's `.T3` (**People (S-05 ✓)** step); the factual items about people sit in the chapter backlogs for `.T1`.
-- **Front and back matter de-duplication:** front matter frames, chapters narrate, back matter gives a dispute shortlist plus trivia. Remove the triple explanations (paper money, coal, conversion pledge).
+- **Front and back matter de-duplication (S-07 decided):** F1 frames, F2 orients, chapters narrate, B1 points (one-line dispute shortlist plus trivia). Each topic has one home: matrix in `spikes/S-07-structure-length.md`, rules in `VOICE-GUIDE.md` § Front and back matter, per-file cuts in each front/back `.T3`. Front/back files are capped at 1,200 words (lint).
 
 ### W6 — Status truthfulness
 

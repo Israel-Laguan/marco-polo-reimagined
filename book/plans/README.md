@@ -51,9 +51,9 @@ plans/
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | **closed** 2026-10-22 (`gazetteer.csv` v2, `tools/gazetteer.py`) | — | `GAZ.T5`–`T6`, `MAP`, naming items |
 | [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | **closed, finalized** 2026-10-22 (`registry/characters.yaml`, 19 cards, `tools/characters.py`; two research runs taken in; open facts → `CHR.T7`, family rows → S-15) | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
 | [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | **closed** 2026-11-03 (`registry/facts.md`, 37 rows: of S-14's 25, 17 settled in whole or part, 8 hedged; library checks listed in the spike) | — | factual `.T1` items (40 files); `DIA.T1` timelines |
-| [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | open | S-01 | the affected files |
-| [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | open | toolchain install (needs approval) | `BLD`; `.T5` |
-| [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | open | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
+| [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | **closed** 2026-11-10 (I-12 not split, told as scenes; front/back role matrix; III-10 to III-12 section plans; length policy in `VOICE-GUIDE.md`) | S-01 ✓ | the affected files |
+| [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | **closed** 2026-11-10 (`tools/build/`; `registry/markdown-conventions.md`; 6×9 in, Noto Serif, endnotes per chapter, one PDF per volume) | toolchain ✓ (installed 2026-11-10) | `BLD`; `.T5`; `TBL` |
+| [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | **closed** 2026-11-10 (`tools/media/`; pilots A1, A16, B5; visual system in `multimedia-plan.md`) | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | open | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | open | — | `PLT` (PD) |
 | [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; pass A applied, pass B after S-12) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
@@ -85,9 +85,9 @@ All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 fir
 
 | Wave | Spikes | Notes |
 |---|---|---|
-| 1 | S-02, S-03, S-04, S-06, S-11, S-08 | No dependencies; can run in parallel. S-08 needs install approval. |
-| 2 | S-01 ✓, S-05 ✓, S-09 | S-01 is the most important spike: it unlocks the bulk of the work. Only S-09 remains in this wave. |
-| 3 | S-07, S-10 | |
+| 1 | S-02 ✓, S-03 ✓, S-04 ✓, S-06 ✓, S-11, S-08 ✓ | No dependencies; can run in parallel. Only S-11 remains in this wave. |
+| 2 | S-01 ✓, S-05 ✓, S-09 ✓ | S-01 is the most important spike: it unlocks the bulk of the work. Wave complete. |
+| 3 | S-07 ✓, S-10 | |
 
 ## Ready now (no spike needed)
 
@@ -119,15 +119,15 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 
 | Code | Area | Main gate |
 |---|---|---|
-| [MAP](tasks/cross/MAP-maps.md) | Maps A1–A17 | S-04, S-09 |
+| [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | S-04 ✓, S-09 ✓ |
 | [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; open facts in `CHR.T7` (library; S-15) |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 34 GEN + 7 PD heroes, secondaries, legacy retirement | S-10, S-11 |
-| [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C16 | S-09 |
-| [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 |
+| [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 | S-09 ✓ |
+| [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 ✓ (`TBL.T1` style done) |
 | [GAZ](tasks/cross/GAZ-gazetteer.md) | Gazetteer | S-04 |
 | [APP](tasks/cross/APP-apparatus.md) | Markers, tags, how-to-read box | S-03 |
-| [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | S-04 ✓, S-05 ✓; S-08 |
-| [BLD](tasks/cross/BLD-build-tooling.md) | Lint, LaTeX build, media scripts | S-02, S-08, S-09 |
+| [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | S-04 ✓, S-05 ✓, S-08 ✓ (layout → `BLD.T4`) |
+| [BLD](tasks/cross/BLD-build-tooling.md) | Lint, LaTeX build, media scripts | S-02 ✓, S-08 ✓, S-09 ✓ (`BLD.T2`, `T6` ready) |
 | [MED](tasks/cross/MED-existing-media.md) | Existing media triage | none (T1 ready) |
 | [DOC](tasks/cross/DOC-status-docs.md) | Status and project docs | none (T1 ready) |
 
@@ -208,3 +208,4 @@ A manuscript file is **done** when:
 | 2026-10-22 | People follow the S-04 naming rule: Yule's form where Polo names the person (*Cublay*, *Alaü*, *Argon*), else the modern form; gloss once per chapter; registry `registry/characters.yaml` + visual cards; plate prompts take figure lines from `tools/characters.py cue`; co-presence checked by `tools/characters.py ages` | S-05 |
 | 2026-10-22 | S-05 finalized: two people-research runs taken in (run 1 leads only; run 2 checked against Yule, DOIs and Formentin–Schiavon 2024). Settled dates are in the registry; the facts still open need library checks and moved to `CHR.T7` (family rows to S-15) | S-05 |
 | 2026-11-03 | Fact verification sheet = `registry/facts.md`: chapters state confirmed or corrected values plainly and still-open ones only in their hedge; a timeline prints only dates with a row there. Verdicts checked against `refs/`, the bibliography, the gazetteer and the CHR intakes, with no web research; the 8 open S-14 rows wait for library checks, not another search run | S-06 |
+| 2026-11-10 | Print build: pandoc + Lua filter + LuaLaTeX/biber, one PDF per volume (`tools/build/build.sh`); 6×9 in trim, 4.5×7.2 in text block; Noto Serif (Debian Junicode has no italic; Junicode upstream is an open option, `BLD.T7`), DejaVu Sans markers, Noto Serif CJK; Notes print as endnotes per chapter; base text "(YC 2.8)". Markdown shapes in `registry/markdown-conventions.md`: captions inside the image brackets, no bracketed Note numbers in prose, PNG/JPEG with true extensions and ≥ 1,350 px | user (install, fonts) + S-08 |

@@ -47,7 +47,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `III-F1.T1` Critical and factual fixes
-- `III-F1.T5` Media placement (C11)
+- `III-F1.T5` Media placement (C11) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `III-F1.T6` Lint pass and human voice read
 
 ### III-F1.T1 — Names to the S-04 policy; facts per S-06
@@ -59,6 +59,17 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-19: tone "bent the Atlantic" down to match III-11: Columbus's annotated Latin (Gouda, 1483–84) and Toscanelli's letters.
 - **Done when:** `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### III-F1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Keep as home: monsoon logic; what "India" means; the Ilkhanid politics of the Cocachin errand (:31–33, frame only; the voyage is III-9).
+  - Add the preface beat (report-heavy sea book; return restores autobiography) and Indian/African name forms; the short box with *[reception]* is `APP.T1`.
+  - Chipangu (:27): frame only. Cut the Columbus overstatement ("bent the Atlantic", M4); home III-11.
+  - Keep "What you are about to read" (:43) as the scope paragraph; "Anyway" (:35) goes.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ≤ 1,000 words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### III-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

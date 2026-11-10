@@ -58,7 +58,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `II-F2.T1` Critical and factual fixes (epigraph, Cachanfu/Kenjanfu rows)
 - `II-F2.T3` Prose clean-up (placeholders, tic)
-- `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map")
+- `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map") · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning. Move each `*Caption:*` paragraph into its image brackets (`BLD.T6` flags it).
 - `II-F2.T6` Lint pass and human read
 
 ### II-F2.T1 — Names to the S-04 policy; facts per S-06
@@ -70,6 +70,16 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-11: the Cachanfu row is fixed by the `GAZ.T5` regeneration (Puzhou/Hezhong); check it, and drop "Nestorians noted".
 - **Done when:** `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### II-F2.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Home of the Vol. II circuits (take over II-F1 :41–48, merged with :13) and the map list (M8: add Cambaluc and Shangdu, the SW circuit; `map-cambaluc`, `map-caugigu`).
+  - Kinsay (:31): caption only; the numbers live in II-13. Yanju/Saianfu (:69): identification only.
+  - Cut "The images below are placeholders" (:9) and the closing "Anyway…" (:73).
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ≤ 500 prose words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### II-F2.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

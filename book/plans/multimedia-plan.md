@@ -6,12 +6,31 @@
 
 1. **Generated from source, not drawn by hand.** Maps come from `gazetteer.csv`; timelines and charts come from small data files. When a fact changes, regenerate.
 2. **Vector for print.** Maps, diagrams, timelines and charts go to PDF (LaTeX) and SVG/PNG (Markdown preview) from the same script.
-3. **One visual system.** One map palette, one typeface (matching the book's body font), the same legend conventions everywhere:
+3. **One visual system.** One map palette, one typeface (the book's body font), the same legend conventions everywhere (fixed in § Visual system):
    - **solid line** = route the Book states;
    - **dashed** = reconstructed or inferred;
    - **dotted** = reported only, not travelled;
    - place markers coloured by gazetteer `reliability`.
 4. **Print resolution.** Raster ≥ 300 dpi at final size. Nothing currently in `media/` passes except `map-marco-polo-overview.png`.
+5. **Drawn at final size.** Maps and timelines are generated at the 4.5 in measure, so LaTeX places them at 100 % and their type matches the page; never scale a generated asset up or down.
+
+## Visual system (S-09 ✓)
+
+One file holds it: `tools/media/style.yaml`, read by both `map.py` and `timeline.py`. Change a value there and regenerate; never restyle an asset by hand.
+
+| Element | Rule |
+|---|---|
+| Typeface | **Noto Serif**, the body face (`tools/build/book.latex`). Map labels 6 pt; region names 5.4 pt capitals in soft ink; seas 6 pt italic; legend 5.6 pt. Timelines use the page sizes (`\footnotesize` labels, `\scriptsize` italic notes). |
+| Palette | Land parchment `#F1EBDD`, sea `#E3ECEF`, coast `#8C8A84` (0.25 pt), rivers `#9FBACB` (major only, Natural Earth `scalerank ≤ 3`). Ink `#2B2A28`, soft ink `#6E6B66`. |
+| Volume colours | Route lines and accents: **I** madder `#A8432B` (the road), **II** ochre `#B7871F` (Cathay and Manzi), **III** indigo `#1F5A85` (the seas). A leg map uses its volume's colour; A1 uses all three. |
+| Line semantics | **solid** = the Book states it; **dashed** = reconstructed or inferred; **dotted** = reported only, not travelled. 1.1 pt. Every route segment in a map's YAML names one of the three, with a comment saying why. |
+| Place markers | A grey ramp by gazetteer `reliability`, so markers never compete with route colours and survive greyscale: visited = black, probably visited = grey, reported only = white with black ring, uncertain = white with grey ring. `legendary` and `unfixed` rows are never plotted (map.py refuses them). |
+| Disputed places | `id_confidence = disputed` adds **?** to the label (*Pein?*); the caption names the alternative. |
+| Base map | Natural Earth (public domain) land, lakes, rivers: 1:50m for overviews (A1, A2, A16), 1:10m for regional maps. **No modern borders**: they are anachronistic on a 13th-century route; regions are labels. |
+| Projection | Equal Earth for spans over ~60° of longitude (straight parallels, honest edge labels); Lambert conformal conic for regional maps and the Dadu plan. |
+| Furniture | 10° graticule (5° on regional maps) labelled left and bottom; a scale bar measured along the geodesic at a stated point; legend lower left, listing only the line styles and markers the map uses. |
+| Timelines | Vertical (years run down), one axis, breaks shown as a double slash; event kinds by marker shape: manuscript ● ink, print ■ indigo, map ◆ ochre, journey ▲ madder. Spans (Pipino's "1310s", the 1291–92 sailing) are bars, never points. Every event carries its `facts.md` row id. |
+| Files | `media/maps/` and `media/timelines/`, each asset as `.pdf` + `.svg`. Markdown links the `.svg`; the LaTeX filter (`book.lua`) swaps in the `.pdf`. SVG text is outlined, so the preview needs no fonts. Output is deterministic: an unchanged map regenerates byte-identical. |
 
 ## Existing media triage
 
@@ -43,7 +62,7 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | A5 | Balc to Pein | I-9 – I-10 | Reported side-places dotted (Pashai, Keshimur, Samarcand, Bolor) |
 | A6 | Lop to Chandu | I-11 – I-13 | Off-route: Camul, Chingintalas, Caracoron, Bargu |
 | A7 | Kublai's realm c. 1290 | II-front-02 | Yuan provinces, Dadu/Shangdu, the Grand Canal, the four circuits |
-| A8 | Seasonal orbit | II-4 / I-13 | Dadu ↔ Shangdu ↔ Cachar Modun, with month labels and the 28 August libation |
+| A8 | Seasonal orbit | II-4 / I-13 | Dadu ↔ Shangdu ↔ Cachar Modun, with month labels and the 28 August libation. **S-09: moves to DIA as schematic C17**: Cachar Modun and Chagannor are `unfixed`, so a geographic map cannot place them |
 | A9 | Dadu (Cambaluc) city plan | II-2 | Walls, 11 gates, palace city, Taiye lake, bell tower |
 | A10 | The west road | II-6 | Cambaluc → Pulisanghin → … → Kenjanfu → Sindafu |
 | A11 | South-west circuit | II-7 – II-9 | Sindafu → Tebet → Carajan → Vochan → Mien; reported: Bangala, Caugigu, Cuiju |
@@ -79,6 +98,7 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | C6 | Tutia furnace process | I-8 |
 | C7 | Zayton cost stack (duty + freight = "half the investment") | II-14 |
 | C8 | Ilkhan succession: the Book vs the record | II-15 |
+| C17 | Seasonal orbit (was map A8): Dadu ↔ Shangdu ↔ Cachar Modun as a ring of months, with the 28 August libation | II-4 / I-13 |
 
 **Data charts** (Python):
 
@@ -122,14 +142,14 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 - **Pronunciation and names glossary** (back of each volume): book form → modern form → respelling → one-line gloss. Examples: Cambaluc/Khanbaliq, Keshican/keshig, Quinsay/Xingzai, Sagamoni Borcan, Cocachin/Kököchin.
 - **Prologue in the original:** I-1 sets Rustichello's Franco-Italian opening ("Seignors emperaor et rois…") beside Yule's English, as a parallel-text box.
 
-## Toolchain (to install; currently absent)
+## Toolchain (S-08, S-09: installed)
 
 | Need | Tool |
 |---|---|
-| Markdown → LaTeX | **pandoc** + a Lua filter that swaps `.svg`/`.png` → `.pdf` for vector assets at LaTeX build |
-| Typesetting | **LuaLaTeX** (Unicode: ʿ ā ṭ ü; CJK for Chinese names in tables) + `fontspec`, `booktabs`, `tikz`, `pgfplots` |
-| Maps / charts | Python **matplotlib + cartopy** (or geopandas) + Natural Earth 1:10m |
-| Timelines / diagrams | TikZ standalone → PDF; `dvisvgm` → SVG for Markdown preview |
+| Markdown → LaTeX | **pandoc** 3.1 + `tools/build/book.lua` (S-08): swaps `x.svg`/`x.png` → `x.pdf` when the PDF sits beside it; places figures at natural size, shrunk only to fit; checks each raster's real type and width (≥ 1,350 px at full width) and prints a placeholder box for a file it cannot place. Build: `tools/build/build.sh`; authoring shapes: `registry/markdown-conventions.md` |
+| Typesetting | **LuaLaTeX** (TeX Live 2024) + biber/`biblatex-chicago`; 6×9 in trim, 4.5×7.2 in text block; Noto Serif, DejaVu Sans for the markers, Noto Serif CJK for Chinese (S-08); `booktabs`, `tikz`, `pgfplots` |
+| Maps / charts | Python **matplotlib + cartopy** in a local venv (`tools/media/requirements.txt`, pinned) + Natural Earth 1:50m / 1:10m, downloaded on first run to `tools/media/.cache/` |
+| Timelines / diagrams | TikZ standalone (LuaLaTeX) → PDF; `pdftocairo -svg` → SVG for Markdown preview (no `dvisvgm` needed) |
 
 Layout:
 
@@ -141,13 +161,13 @@ book/media/
   plates/      <vol>-<ch>-<slug>.png + .yaml   (see illustration plan)
   public-domain/  real artworks + license notes
   legacy/      current files kept for reference
-book/tools/media/   map.py, charts.py, timelines/*.tex, data/*.yaml
+book/tools/media/   style.yaml, map.py, timeline.py + timeline.tex, data/A*.yaml (maps), data/B*.yaml (timelines); charts.py later
 ```
 
 ## Order of work
 
 1. Fix the existing mis-captions now (cheap, and they are reader-facing errors today).
-2. Install the toolchain and build **A1 + A16 + one TikZ timeline (B5)** as the pilot. This proves the vector → LaTeX and → Markdown paths and sets the visual system.
+2. ~~Install the toolchain and build **A1 + A16 + one TikZ timeline (B5)** as the pilot.~~ Done in S-09 (2026-11-10): both paths proved, visual system fixed above.
 3. Once the gazetteer is fixed (content W5): the remaining maps.
 4. Tables (D) are written during each chapter's W4 rewrite, since they draw on the same facts.
 5. Diagrams and timelines in volume order.

@@ -30,7 +30,7 @@ T = {
     "anyway": 1, "hinges": 3, "attribution_verb": 4,
     "aside_words": 80, "asides": 4,
     "quote_words": 25, "quotes_chapter": 8, "quotes_paragraph": 2,
-    "length": {"narrative": (1800, 3200), "essay": (0, 3500)},
+    "length": {"narrative": (1800, 3200), "essay": (2500, 3500), "frontback": (0, 1200)},   # S-07
     "avg_sentence": 25,
     "stub_note_words": 6,
     "forbidden_markers": "★☆",      # S-03: allowed set is ✓ ~ ✗ ◇ ?
@@ -438,7 +438,7 @@ ALL = ("verbatim first_person archaism you_must_know budgets asides quotes quote
 PROFILES = {
     "narrative": ALL,
     "essay": "verbatim first_person archaism you_must_know quote_verify length sentence scaffolding citations markers tags names".split(),
-    "frontback": "verbatim first_person archaism you_must_know quote_verify scaffolding citations markers tags names".split(),
+    "frontback": "verbatim first_person archaism you_must_know quote_verify length scaffolding citations markers tags names".split(),
 }
 
 

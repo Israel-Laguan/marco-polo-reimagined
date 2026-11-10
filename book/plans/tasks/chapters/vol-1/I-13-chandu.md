@@ -60,7 +60,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `I-13.T1` Critical and factual fixes
-- `I-13.T5` Media placement (figures, tables, captions)
+- `I-13.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `I-13.T6` Lint pass and human voice read
 
 ### I-13.T3 — Re-voice to the S-01 standard

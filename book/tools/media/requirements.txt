@@ -1,0 +1,6 @@
+# map.py only (timeline.py needs just PyYAML + lualatex + pdftocairo). Pinned so maps regenerate byte-identical.
+# python3 -m venv tools/media/.venv && tools/media/.venv/bin/pip install -r tools/media/requirements.txt
+cartopy==0.26.0
+matplotlib==3.11.2
+pyyaml==6.0.3
+shapely==2.2.0

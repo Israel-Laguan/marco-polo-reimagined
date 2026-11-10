@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `I-F1.T1` Critical and factual fixes
 - `I-F1.T3` Re-voice to the S-01 standard (incl. length cuts)
-- `I-F1.T5` Media placement (figures, tables, captions)
+- `I-F1.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `I-F1.T6` Lint pass and human voice read
 
 ### I-F1.T1 — Names to the S-04 policy; facts per S-06
@@ -69,6 +69,19 @@ _Created after the gating spikes close. Expected shapes:_
     - F-25: until A2 replaces it, the Mongol map is captioned from its 1294 frame (with `MED.T1`).
     - F-38 (open end): front-01:29 "War of Saint Sabas (1256–1270)" → "the war that broke out at Acre in 1255 over the church of St Sabba, and lasted for years" (Yule); no end year.
 - **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### I-F1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Keep as home: Mediterranean trade and Venice–Genoa rivalry; Mongol successor realms; name and date conventions (:56).
+  - Add a series preface of ≤ 60 words (purpose; the rules themselves live in III-12 §8). The full *How to read this book* box is `APP.T1`.
+  - *Why Latins went east* (:37–43): keep "opportunity" and "information hunger"; cut "necessity" and "papal politics" (:39–41) to one forward sentence to I-2 (m10). Don't reuse "weakest clause".
+  - Cut the silences sentence (:50); home is III-12 §4.
+  - Cut the route summary (:54) to one scope sentence; the route lives in I-F2.
+  - Cut the closing paragraph (:58) to one sentence; "Anyway" (:25) goes.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ~1,150 (with the APP.T1 box) words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —

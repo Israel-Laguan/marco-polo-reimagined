@@ -39,7 +39,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `III-11.T3`.
 
 ### Length and structure
-- Reception chapter: structure and role decided under S-07 (III-10 to III-12). Outline coverage: "Beats ✓ but thin on print and Jesuits" (see m13). — vol-3 §3 scorecard · ch-11
+- Reception chapter: **S-07 decided (2026-11-10): re-voice with a section plan, no rebuild** (see `III-11.T3`). Outline coverage: "Beats ✓ but thin on print and Jesuits" (see m13). — vol-3 §3 scorecard · ch-11
 
 ## Media hooks
 - **Hero plate:** III-11 *Columbus's annotated copy* — **PD**, postils, Biblioteca Colombina (or the 1477 Creussner woodcut), portrait; caption: annotation date debated — see `illustration-plan.md`
@@ -53,7 +53,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-11.T5` Media placement (B5, plates)
+- `III-11.T5` Media placement (B5, plates) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `III-11.T6` Lint pass and human voice read
 
 ### III-11.T1 — Critical and factual fixes
@@ -69,10 +69,22 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-11.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #37 (batch 10)
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ · **W4 order:** #37 (batch 10)
 - **Now:** 2,646 words · 0% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 0 · Book first person 0 · asides 2
 - **Do:**
   - Verbatim already within limit; voice and structure pass only.
+  - **Structure (S-07 ✓): target 2,400–2,800. The reception as events, from 1375;** the arguments belong to III-12. Section plan in `plans/spikes/S-07-structure-length.md` § 3:
+    1. Open in the scene, not "Tradition has it" (:12).
+    2. Catalan Atlas (:14–16): no Chipangu; French royal library (F-20); aside :16 ≤ 80.
+    3. Fra Mauro (:18): Japan first as *Zimpagu*, hedged (F-20); cut "Anyway".
+    4. Lesser charts (:20).
+    5. **Add Toscanelli** (~100): the 1474 letter, hedged (F-19).
+    6. Columbus (:22–24): Leeu's Gouda Latin 1483–84, the Colombina; postil dating debated (F-19); quote per F-27; n9. Aside :24 ≤ 80.
+    7. Print (:26): **add the dates** 1477, 1483–84, 1496, 1502, 1503, 1559 (F-21).
+    8. Jesuits (:28): **add Góis** with Yule's facts only; cut "measured silences"; Ricci hedged (F-22).
+    9. Modern scholarship (:30) ~250.
+    10. **Wood as an event** (:32, 325 → ~120): 1995, the reaction, her central claim in one clause, the replies by date (1997, 2006, 2013); point to III-12 §6.
+    11. **Cut "Why a formal retelling now"** (:34) to one forward sentence; its content belongs to III-12 §8.
   - Asides over 80 words: :16 (168), :24 (227). Trim; move traveller/scholar lists to Notes.
   - Cut any closing recap to ≤ 1 forward sentence.
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.

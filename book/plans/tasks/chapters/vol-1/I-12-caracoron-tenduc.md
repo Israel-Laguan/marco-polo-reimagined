@@ -4,7 +4,7 @@
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,037 | 16% | — (n/a in Vol. I) | ok; [3] and [13] duplicates | no (split candidate, S-07) |
+| 3,037 | 16% | — (n/a in Vol. I) | ok; [3] and [13] duplicates | no (S-07: stays one chapter) |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -38,7 +38,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `I-12.T3`.
 
 ### Length and structure
-- Inconsistent texture and overloaded: unlike other chapters it is a telegraphic summary; lines 35–49 read like note cards ("Justice: for petty theft…", "Their religion:…", "Five days east from Campichu…"). It carries 23 citations and the most outline beats (Etzina, Caracoron, Chinghis, Prester John, succession, burial, Tartar customs, Bargu, Erguiul, Sinju, Egrigaia, Tenduc, Chagannor); the ethnography reads as a catalogue and the Bargu digression (:45) breaks the eastward road. Fix: split (outline allows I-12a "How the Tartars Became Lords" / I-12b "Tartar Customs; Bargu to Chagannor"), **or** keep one chapter, rewrite the customs paragraphs as narrated scenes, and cut the Bargu/gerfalcon material to ~80 words. Decision in S-07. — vol-1 M12 · ch-12:35–49, :45
+- Inconsistent texture and overloaded: unlike other chapters it is a telegraphic summary; lines 35–49 read like note cards ("Justice: for petty theft…", "Their religion:…", "Five days east from Campichu…"). It carries 23 citations and the most outline beats (Etzina, Caracoron, Chinghis, Prester John, succession, burial, Tartar customs, Bargu, Erguiul, Sinju, Egrigaia, Tenduc, Chagannor); the ethnography reads as a catalogue and the Bargu digression (:45) breaks the eastward road. Fix: split (outline allows I-12a "How the Tartars Became Lords" / I-12b "Tartar Customs; Bargu to Chagannor"), **or** keep one chapter, rewrite the customs paragraphs as narrated scenes, and cut the Bargu/gerfalcon material to ~80 words. **S-07 decided (2026-11-10): no split; scene-ify** (plan in `I-12.T3`). — vol-1 M12 · ch-12:35–49, :45
 - Chapter-closing recap. Fix: one forward-looking sentence, cut the inventory. — vol-1 m9 · ch-12:57
 
 ## Media hooks
@@ -62,7 +62,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-12.T5` Media placement (figures, tables, captions)
+- `I-12.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `I-12.T6` Lint pass and human voice read
 
 ### I-12.T1 — Critical and factual fixes
@@ -74,11 +74,18 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-12.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), **S-07 (split vs scenes)** · **W4 order:** #38 (batch 10)
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ (no split) · **W4 order:** #38 (batch 10)
 - **Now:** 3,114 words · 16% verbatim · "You must know" 0 · "Anyway" 5 · formula hinges 7 · archaisms 2 · Book first person 1 · asides 5
 - **Do:**
   - Retell to ≤ 15% verbatim.
-  - Structural first: it is a telegraphic catalogue, not a transcription. Turn the customs list into scenes or split per S-07.
+  - **Structure (S-07 ✓): one chapter, told as scenes; target 2,300–2,800; four asides** (Caracoron, Chinghis chronology, succession, King George). Section plan in `plans/spikes/S-07-structure-length.md` § 1:
+    1. Campichu → Etzina → Caracoron (:9–13). Caracoron aside ≤ 80 words.
+    2. How the Tartars became lords (:15–25) as one story; cane divination as the scene (hero-plate anchor, one marked quote). Merge the :19 and :25 asides into one.
+    3. The Kaans and the Altay (:27–33): the list in one sentence + aside; the burial convoy as a scene; :33 to a Note.
+    4. Tartar life (:35–43): drop the "Justice:" / "Their religion:" labels; one moving camp in Polo's order (camp → household → felt gods → the host → justice), about 700 words.
+    5. Bargu (:45) ≤ 80 words, as Polo's look north; keep its place in the order.
+    6. Erguiul, Egrigaia, Tenduc (+ King George aside), Sindachu, Chagannor (:47–55), about 600 words.
+    7. One forward sentence toward Chandu (replaces :57).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :39, plus any listed under *Dispute handling* above.
   - Asides over 80 words: :25 (127), :53 (100). Trim; move traveller/scholar lists to Notes.
   - Reduce asides from 5 to ≤ 4 (fold corrections into one-clause fixes in the narrative).

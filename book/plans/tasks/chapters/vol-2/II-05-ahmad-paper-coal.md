@@ -65,7 +65,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-05.T5` Media placement (hero + PD note, yam secondary, C1, C2, Ahmad table)
+- `II-05.T5` Media placement (hero + PD note, yam secondary, C1, C2, Ahmad table) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `II-05.T6` Lint pass and human voice read
 
 ### II-05.T1 — Critical and factual fixes

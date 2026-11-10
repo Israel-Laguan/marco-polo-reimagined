@@ -56,7 +56,7 @@ _Cross-ref: III-06 m10 may add the Pole Star "Cocachin-fleet landfall argument" 
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-09.T5` Media placement (A16, C11, D table)
+- `III-09.T5` Media placement (A16, C11, D table) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `III-09.T6` Lint pass and human voice read
 
 ### III-09.T1 — Critical and factual fixes

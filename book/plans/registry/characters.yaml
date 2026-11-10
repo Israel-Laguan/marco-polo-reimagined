@@ -27,7 +27,7 @@ people:
   gloss: ""
   born: 1254
   died: 1324
-  dates: "born 1254 by inference from the Book (no document); captured in a sea-fight with the Genoese (Jacopo d'Acqui), at Curzola 1298 by Ramusio's tradition, which Yule accepts (Jacopo's Ayas is impossible: that battle was May 1294); will 9 Jan 1324 (1323 m.v.); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024, seen)"
+  dates: "born 1254 by inference from the Book (no document): the Book makes him fifteen in 1269 (Moule–Pelliot 1938 I, seen); captured in a sea-fight with the Genoese (Jacopo d'Acqui), at Curzola 1298 by Ramusio's tradition, which Yule accepts (Jacopo's Ayas is impossible: that battle was May 1294); will 9 Jan 1324 (1323 m.v.); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024, seen)"
   group: polo
   role: "the traveller; in the Kaan's service 1275–91; dictated the Book in a Genoese prison, 1298–99"
   relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta, and of Agnese (b. 1295–99, d. 1319, wife of Nicolò Calbo), known from her will of 7 July 1319 (ASVe, Notarile Testamenti, b. 830, n. 36; Bolognari 2021, reported, not seen)"
@@ -153,7 +153,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "freed by the will of January 1324 (Biblioteca Nazionale Marciana, Cod. Lat. V, 58 (=2437), no. 33, reported; the clause is printed in Moule–Pelliot 1938 and Plebani 2019, reported); when he came to Venice is not known"
+  dates: "freed by the will of January 1324 (Biblioteca Nazionale Marciana, Cod. Lat. V, 58–59 (coll. 2437–2438), fol. 33 or 35 (OCR unclear), per Moule–Pelliot 1938 I, seen; bought from the Svajer library in 1794. The clause 'absoluo petrum famulum meum de genere tartarorum ab omni vinculo seruitutis' is in Moule–Pelliot's transcription, seen; Yule's English is in refs/yule-vol1.txt; Plebani 2019 not seen); when he came to Venice is not known"
   group: polo
   role: "Marco's Tatar servant, freed and given a legacy in the will"
   relations: "household of Marco"
@@ -311,7 +311,7 @@ people:
   gloss: ""
   born: null
   died: 1281
-  dates: "d. 1281 (20 March?); birth c. 1216 (one lead) or 1227 (another): unsettled, so no age is computed (CHR-people intake). Polo does not name her; Jamui Khatun is Rashid al-Din's form"
+  dates: "d. 1281 (20 March?); birth c. 1216 (one lead) or 1227 (another; menshikova2025porcelain, basis not seen): unsettled, so no age is computed. Yuan shi 114 and 106 (seen) give no birth year or age; she died in the 2nd month of Zhiyuan 18 (1281) (CHR-people intakes 1–4). Polo does not name her; Jamui Khatun is Rashid al-Din's form"
   group: yuan
   role: "Kublai's chief wife; patron of Ahmad and of 'Phags-pa"
   relations: "Qonggirat; mother of Chingkim; succeeded as chief wife by her kinswoman Nambui"
@@ -328,7 +328,7 @@ people:
   dates: "died young (Yule: 'probably died early'); birth 1233 or 1240 in leads, unverified"
   group: yuan
   role: "Kublai's eldest son"
-  relations: "Kublai's first-born (Yule, after Gaubil and Pauthier); his mother is disputed between leads (Chabi, or another wife)"
+  relations: "Kublai's first-born (Yule, after Gaubil and Pauthier); eldest of Kublai's ten sons (朵而只, Yuan shi 107, seen); no mother named there, and Yuan shi 114 credits Chabi only with Zhenjin (生裕宗). Mother disputed between leads (Chabi: celik2022yuan, abstract only; or another wife)"
   book_says: []
   verify: [S-14]
   chapters: "II-02"

@@ -37,7 +37,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Length and structure
 - Over length: 3,339 words by the critique's count (3,373 here). Cut to about 2,800: the will paragraph :33 (~420 words of itemised legacies) → ~150, keeping the trustees, San Lorenzo, Peter the Tartar's manumission, Donata and the daughters (saves ~270); the Cepoy paragraph :25 → ~200 (saves ~130); the closing recap :41 (~130); plus the "Soft" labels. W4 target: cut about 500. — vol-3 M11 · ch-10:25, :33, :41
-- Reception chapter: structure and role decided under S-07 (III-10 to III-12). Scorecard: "Rich and well sourced from Yule's Introduction, but dated (Donata), over long (the will), heavy 'Soft' tic."
+- Reception chapter: **S-07 decided (2026-11-10): re-voice with a section plan, no rebuild** (see `III-10.T3`). Scorecard: "Rich and well sourced from Yule's Introduction, but dated (Donata), over long (the will), heavy 'Soft' tic."
 
 ## Media hooks
 - **Hero plate:** III-10 *Jewels ripped from the seams of the Tartar coats* — GEN, Venetian Gothic, portrait; 1295 Veneto-Byzantine interior; **no Salute domes**; caption: Ramusio's legend — see `illustration-plan.md`
@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-10.T5` Media placement (figures, captions)
+- `III-10.T5` Media placement (figures, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `III-10.T6` Lint pass and human voice read
 
 ### III-10.T1 — Critical and factual fixes
@@ -66,10 +66,19 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-10.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #36 (batch 9)
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ · **W4 order:** #36 (batch 9)
 - **Now:** 3,337 words · 36% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 4 · Book first person 0 · asides 1
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (83%).
+  - **Structure (S-07 ✓): target 2,300–2,600. Scope ends at 1324 plus the manuscripts and readers of Marco's lifetime;** the maps, Columbus, print and Wood belong to III-11/III-12. Section plan in `plans/spikes/S-07-structure-length.md` § 3:
+    1. Homecoming tableau (:9–17, ~740 → ~400), framed as Ramusio's tradition from its first sentence (one flag); Malipiero chain as one aside.
+    2. *Il Milione* (:19) ~200.
+    3. Marriage and daughters (:21–23) ~250: Donata Badoer (F-16).
+    4. Cepoy (:25) ~200; Pipino (:27) ~170, c. 1310–1314 (F-18).
+    5. Early readers: d'Abano, *Bauduin*, and the first half of :39, merged ~300.
+    6. **Reordered:** the will (:33, ~170: trustees, San Lorenzo, Peter the Tartar, Donata, daughters) → Jacopo's deathbed line (from :39) → death 8/9 January 1324 (F-35) and burial (:35) ~150.
+    7. Portraits and relics (:37) as an aside ≤ 80 words.
+    8. One forward sentence toward III-11 (replaces :41).
   - Cut any closing recap to ≤ 1 forward sentence.
   - Remove "So/Thus …" restatement paragraphs :41; merge any identification content into Notes.
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
