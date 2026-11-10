@@ -70,3 +70,5 @@ Candidate material for asides, Notes, trivia, captions and back matter, each wit
 - Qwen's "1997 Rusconi" substitute for the 1993 *Libro de las profecías*, and its "WorldCat ID: 1852-1864": not supported by any record.
 - Consensus reference lists in batches A and B and decision round 2: unrelated reviews; not used as evidence.
 - Juynboll's *Marāṣid* as "3 volumes" (Qwen): conflicts with "6 vols. in 5" (DeepSeek); unresolved until HathiTrust 008887209 is opened.
+
+- **I-F1 (lead, unseen):** Yule says four porphyry figures at St Mark's came from St Sabba's at Acre; modern view: the Tetrarchs and the *pilastri acritani* came from Constantinople in 1204 (foot fragment found in Istanbul, 1965; Perry 1977, JWCI 40). Slot: aside or caption; source key needed first. (`FACT-C-raw`)

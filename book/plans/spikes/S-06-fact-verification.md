@@ -60,6 +60,8 @@ The CHR intakes contributed run 2's checked claims to F-05 (Gaykhatu's dates), F
 
 Their `.T1` items are in I-F1, I-03 (new block), II-F1, II-05, III-02 and III-04 (new block), plus a `CHR` line for Baibars's registry dates.
 
+The four obscure rows (F-38, F-39, F-43, F-44) have deep-research prompts in `research/prompts/FACT-sweep-leads.md`, an exception to the Decision's "no further search run". Their output is graded as leads, so each row still moves only once its source is seen.
+
 **Library-only checks** (each needs a book or record seen, not another search run; the people rows overlap `CHR.T7`):
 
 | Row | Question | Where to look |
