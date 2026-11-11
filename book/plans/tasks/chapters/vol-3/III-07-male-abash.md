@@ -96,6 +96,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [8] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-3/ch-07-male-abash.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-12 (2026-11-10):** "Huntingford" in the Comparative line (:99) has no work behind it. Candidates: *The Glorious Victories of ʿĀmda Ṣeyon* (Clarendon, 1965), which fits the Abyssinian chronology, or the *Periplus* (Hakluyt, 1980). Pick one and add it to the `.bib`, or drop the name.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-07.T6 — Lint green and human read

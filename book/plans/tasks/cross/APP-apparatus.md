@@ -46,6 +46,7 @@ S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs
 - **Status:** partly done · **Depends:** S-02 ✓
 - **Done (S-02/S-03):** the lint matches reproduced Ramusio passages, requires an inline flag and a "Ramusio-only." (or Pipino-/Jacopo-/Zelada-only) label in the cited Note.
 - **Left:** the lint only sees near-verbatim passages, so paraphrased Ramusio detail escapes it. After the re-voices, compare flag counts with the manifest (already a warning) and spot-check against Yule's brackets (`tools/seed/ramusio-brackets.txt`, rebuilt without `Sidenote:` lines).
+- **S-12 (2026-11-10), proposal:** a Ramusio-only Note cites the 1559 print (`ramusio1559navigationi`), and the open-access critical edition (`ramusio2015viaggi`) once the passage has been checked there.
 
 ### APP.T5 — A Yule chapter locator on every Note
 - **Status:** ready · **Depends:** S-24 ✓ · **Origin:** citation sweep, 2026-10-22

@@ -39,6 +39,7 @@ These files slot **before** and **after** each volume’s numbered chapters. The
 Each volume also gets two generated pages, built from the citation keys that volume uses:
 - **List of abbreviations** (front, after the contents): the sigla `YC` and `YC Add.`, how to read `YC 1.61`, and any other shorthand.
 - **Works cited** (end, after B1): Chicago author-date bibliography of every work cited in the volume. The source is `plans/registry/bibliography.bib`.
+- **Further reading** (Vol. III only; proposed by S-12, **not decided**): one page with the 15 core works ranked in `plans/research/results/S-12-raw.md` § Task D. Decide with the user; the `.bib` needs no change either way.
 
 ## Series-level companions
 

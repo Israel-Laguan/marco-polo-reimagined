@@ -97,6 +97,7 @@ _Created after the gating spikes close. Expected shapes:_
   - "Dispute" label in Note(s) [7], [10], [17]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
   - Run `python3 tools/lint.py -v vol-3/ch-05-maabar-st-thomas.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-12 (2026-11-10):** "Subrahmanyam" in Note [19] (St Thomas traditions) has no work behind it: name the work and add it to the `.bib`, or drop the name.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-05.T6 — Lint green and human read

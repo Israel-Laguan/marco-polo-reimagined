@@ -79,6 +79,12 @@ Not a search run: these need a library or a reader, not another prompt.
 2. **Editions the Notes cite beside Yule–Cordier:** for the F text, **Eusebi–Burgio 2018**; for Ramusio-only passages, **Burgio–Simion 2015**, cited with the 1559 print. Both are open access. For an English reader: Moule–Pelliot 1938, then **Kinoshita 2016**. Ménard (Fr), Barbieri (Z), Barbieri–Andreose (VA) and Bertolucci Pizzorusso (TA) are cited only where a Note turns on that redaction. Proposal, applied by each chapter's `.T4`.
 3. **Back matter:** *Works cited* per volume stays (S-24; already in `FRONT-BACK-MATTER.md` and wired by S-08). **Open, for the user:** whether to add a one-page *Further reading* to Vol. III using the 15 core works ranked in the raw file (Task D). Biblatex prints only the works cited, so the `.bib` itself needs no change either way.
 4. **Feedback to plan:** `VOICE-GUIDE.md` (no change, done in S-24); `FRONT-BACK-MATTER.md` (no change unless item 3 is a yes); S-08/`BLD` (no change: biber reads `registry/bibliography.bib` already).
+5. **Carried into the files that waited on it (2026-11-10):**
+   - *Research:* `research/README.md` (S-12 closed; `sources.md` is generated; in-repo runs allowed, with the spot-check caveat).
+   - *Spikes:* S-13 (prompt item 2 names the known editions), S-19 (citation editions already chosen; the prompt asks (a) only for the rest), S-20 (edition keys; Gallica IDs to check in a browser).
+   - *Plan docs:* `content-revision-plan.md` W7; `FRONT-BACK-MATTER.md` (*Further reading* listed as not decided); `enrichment.md` E24.
+   - *Cross tasks:* `APP.T4` (Ramusio citation proposal), `APP.T6` (new keys), `BLD.T1` (hook checks that `sources.md` is current).
+   - *Chapter `.T4`s:* I-01 (F edition), II-03 (Elverskog), III-05 (Subrahmanyam), III-07 (Huntingford), III-11 (redaction editions), III-12 (core set, the outdated policy sentence at :93).
 
 ## Tasks to create on close
 - `BLD.T*` biblatex wiring; `APP.T*` bibliography page; per-chapter `.T4` Notes citation pass (if the policy changes)

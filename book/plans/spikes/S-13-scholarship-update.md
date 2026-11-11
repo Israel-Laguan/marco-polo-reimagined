@@ -14,6 +14,7 @@ What has changed in Marco Polo studies since Vogel's *Marco Polo Was in China* (
 - `vol-3/ch-12-reliability-essay.md`, Notes [7]–[13] and the core comparative set
 - `vol-3/ch-11-afterlives.md`, `vol-3/back-01-trivia-and-afterlives.md`
 - Critique vol-3 M-items on III-12 (Wood's case stated fully; works dated)
+- S-12 (closed 2026-11-10): the editions found there are in `registry/sources.md` (Eusebi–Burgio 2018, Burgio–Simion 2015, Kinoshita 2016, Cliff 2015, Marchisio 2016). The prompt's item 2 now names them, so the run looks for others.
 
 ## Method
 1. Run the prompt and save the output to `research/results/S-13-raw.md`.
@@ -29,7 +30,7 @@ I need a rigorous survey of what has happened in Marco Polo studies from 2013 to
 
 1. THE PRESENCE DEBATE. Arguments for and against Polo's presence in China published since 2013. Any new documentary evidence: Chinese, Persian, Mongol or Venetian sources newly identified, re-read or re-dated. Has a consensus formed? Who are the main voices now?
 
-2. THE TEXT. New work on the manuscript tradition and the genesis of the text: the Franco-Italian F text, the role of Rustichello da Pisa, the Z (Zelada/Toledo) Latin version, Ramusio's sources, the Venetian VA tradition, Pipino's Latin. Include new critical or digital editions, and stemmatic findings.
+2. THE TEXT. New work on the manuscript tradition and the genesis of the text: the Franco-Italian F text, the role of Rustichello da Pisa, the Z (Zelada/Toledo) Latin version, Ramusio's sources, the Venetian VA tradition, Pipino's Latin. Include new critical or digital editions, and stemmatic findings. I already have: Eusebi and Burgio's open-access edition of F (Edizioni Ca' Foscari, 2018), the digital critical Ramusio by Burgio and Simion (Ca' Foscari, 2015), and the English translations by Kinoshita (2016) and Cliff (2015); list only other editions, or corrections to these.
 
 3. THE 2024 ANNIVERSARY (700 years since Polo's death in 1324). Major exhibitions (e.g. in Venice), conferences, edited volumes, new archival finds or document re-examinations (e.g. Polo's 1324 will, the inventory of his possessions, family documents) and their findings.
 

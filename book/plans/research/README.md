@@ -37,6 +37,7 @@ Deep-research output is a **lead, not a source**. Nothing reaches the manuscript
 | Contested claims | Record each side with its named proponent. The tool's own verdict is never the verdict. |
 | Dates and numbers | Two independent sources, or one primary source, before a ✓. |
 | Wikipedia and blogs | Can lead you to a source; never cited in the book. |
+| Runs done in this repo | Allowed (S-12 was run with web search and catalogue APIs). The raw file names the record behind each row, and the spike says its spot check is not independent. |
 | Newer than Yule | Wherever a modern source contradicts Yule–Cordier, record both. The Note says which one the book follows and why. |
 
 Each intake session spot-checks at least **10 citations or all of them, whichever is fewer**, and writes the hit rate in the spike's *Findings*. If fewer than 80% check out, re-run the prompt with a stricter instruction rather than salvaging the output.
@@ -47,7 +48,7 @@ Each intake session spot-checks at least **10 citations or all of them, whicheve
 |---|---|---|
 | `results/S-NN-raw.md` | Raw tool output, never edited | each spike |
 | `registry/bibliography.bib` | BibTeX master for the LaTeX build (`biblatex`); keys `authorYEARword`, e.g. `vogel2013marco` | S-12, then every spike adds to it |
-| `registry/sources.md` | Human-readable index: key → full citation → status (`confirmed` / `unconfirmed`) → open-access link → used in | S-12 |
+| `registry/sources.md` | Human-readable index: key → full citation → status (`confirmed` / `unconfirmed`) → open-access link → used in | S-12; generated from the `.bib` by `tools/sources_index.py` (rerun after every `.bib` change) |
 | `registry/facts.md` | Claim → verdict → source key → files affected (the S-06 sheet) | S-14 first; then S-15 … S-18 |
 | `registry/enrichment.md` | Per-chapter candidates: new corroboration, archaeology, trivia, plate-caption facts, each with a source key and a suggested slot (aside / Note / back-matter / caption) | S-15 … S-21 |
 | `registry/scholarship.md` | State of the field since 2013, by question: who argues what, and where | S-13 |
@@ -64,13 +65,13 @@ Every prompt ends with the same contract, so results come back in a shape the in
 
 The prompts are independent, so you can run them in any order or all at once. Intake order matters a little:
 
-1. **S-12 first.** It sets the bibliography keys the others reuse.
+1. **S-12 first** (closed 2026-11-10). It set the bibliography keys the others reuse: look a work up in `registry/sources.md` before adding a new entry.
 2. **S-14 next.** It closes most of S-06 and unblocks the factual `.T1` items.
 3. The rest in any order. A volume's enrichment spike (S-16, S-17, S-18) should come in **before that volume's W4 re-voice batch**, so the new material goes in during the rewrite rather than after it.
 
 | Spike | Prompt focus | Main consumers |
 |---|---|---|
-| [S-12](../spikes/S-12-bibliography-editions.md) | Master bibliography, editions and translations | `registry/bibliography.bib`; `BLD`; back matter; citation policy |
+| [S-12](../spikes/S-12-bibliography-editions.md) | Master bibliography, editions and translations (**closed** 2026-11-10) | `registry/bibliography.bib`; `BLD`; back matter; citation policy |
 | [S-13](../spikes/S-13-scholarship-update.md) | State of the field 2013–2026, including the 2024 anniversary | III-12, III-11, III-B1, I-01 |
 | [S-14](../spikes/S-14-fact-verification-sweep.md) | The unverified-claims list | S-06; factual `.T1` in 15 files |
 | [S-15](../spikes/S-15-venice-genoa-family.md) | Venetian and Genoese documents, the family, Rustichello, Pipino | I-01, I-02, III-10, `CHR` |

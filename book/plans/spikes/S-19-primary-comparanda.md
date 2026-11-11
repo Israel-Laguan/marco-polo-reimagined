@@ -13,7 +13,7 @@ For each contemporary witness the book sets beside Polo (Rubruck, Carpini, Odori
 ## Inputs
 - `grep -rn "Comparative" vol-*/` (the book's comparison sites)
 - `tools/lint.py` (marked-quotation check, `refs/` loader)
-- S-12 bibliography keys
+- S-12 bibliography keys (closed 2026-11-10; `registry/sources.md`). Citation editions already chosen: Rubruck `jackson1990mission`; Carpini `dawson1955mongol` (English), `menesto1989storia` (critical Latin); Odoric `yule1913cathay` (English), `marchisio2016relatio` (critical Latin); Ibn Battuta `gibb1958travels`; Rashid al-Din `thackston1998rashiduddin`, `boyle1971successors`; Juvaini `boyle1958history`; Wassaf `hammer1856geschichte` (German, vol. 1; no complete English translation); *Secret History* `derachewiltz2004secret`; *Yuan shi* `yuanshi1370`; Wang Dayuan `wang1349daoyi`. So the prompt asks (a) only for the other witnesses.
 
 ## Method
 1. Run the prompt and save the output to `research/results/S-19-raw.md`.
@@ -25,6 +25,8 @@ For each contemporary witness the book sets beside Polo (Rubruck, Carpini, Odori
 
 ```text
 I am preparing a new English retelling of Marco Polo's book (base: Yule–Cordier, 1903/1920). Its endnotes compare Polo with other contemporary witnesses. I need, for each witness below: (a) the scholarly translation to CITE today; (b) the best PUBLIC-DOMAIN English translation I can QUOTE from, with a stable full-text URL (Internet Archive, HathiTrust, Project Gutenberg, Wikisource), its date and copyright status in the USA and the EU; (c) the specific passages (by book/chapter/section, not page) that match the Polo topics I list, each with a one-sentence paraphrase.
+
+For Rubruck, Carpini, Odoric, Ibn Battuta, Rashid al-Din, Juvaini, Wassaf, the Secret History and the Yuan shi I already have the edition to cite: for them give only (b) and (c).
 
 WITNESSES AND TOPICS
 1. William of Rubruck (1253–55): Karakorum; the silver fountain-tree; Mongol drink (kumiss); the debate of religions; Nestorians; yurts on carts; the Uighur script; Cathay and paper money. [I-12, II-03, II-05]
