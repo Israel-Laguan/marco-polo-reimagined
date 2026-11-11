@@ -1,6 +1,6 @@
 # Scholarship since 2013
 
-State of the field for the reliability essay (III-12) and the reception chapters. Intake of S-13, 2026-11-11. Raw run: `research/results/S-13-raw.md` (row numbers below, e.g. *raw 2.4*, point there). Keys are in `registry/bibliography.bib` § "S-13 intake".
+State of the field for the reliability essay (III-12) and the reception chapters. Intake of S-13, 2026-11-11. Raw run: `research/results/S-13-raw.md` (row numbers below, e.g. *raw 2.4*, point there). A follow-up on five narrow questions was run the same day in two external tools; its intake is `research/results/S-13-followup-intake.md` (*follow-up* below). Keys are in `registry/bibliography.bib` § "S-13 intake".
 
 **How to use it.** Each section gives the positions with their proponents, then what the book should do. Trust rules as in `research/README.md`: a source marked *read* was opened in the run; *record* means only its catalogue record or abstract was seen; *via* means another scholar reports it. **Nothing marked record or via may be quoted or given a page.** A position is attributed to its proponent, never stated as the book's own finding.
 
@@ -43,7 +43,8 @@ Items 13–15 of the III-12 list are the book's own to-do items, not questions f
 - **Agreed:** the first text was Franco-Italian, made with Rustichello in Genoa in 1298 (`andreose2024textual`, read). Wehr's Venetian original is rejected. F belongs with over thirty French manuscripts copied in Genoa by Pisan prisoners (raw 2.2): a fact for I-01.
 - **The stemma:** Benedetto's two branches are "inadequate". Burgio and Eusebi (2008; `burgio2008nuova`, via) put Z alone on one branch and everything else on the other, with F four copies below the archetype. Andreose (2024): the data do "not permit us to establish a definitive classification".
 - **Several redactions (Venice school):** V is the first step of Polo's own rewriting (`simion2019devisement`, record); Z is "a second redaction … prepared in Venice, probably in a Dominican environment, on the basis of notes and perhaps oral memoirs of the traveller" (`mascherpa2025milione`, record); Andreose counts "at least four stages" in Z. Proof of a late layer: the Toqta–Noqai passage, an event of autumn 1299 (raw 2.5).
-- **One redaction:** the extra passages are original and in Rustichello's style. Reported by Andreose; the proponents' names were not captured.
+- **One redaction:** the extra passages are original and in Rustichello's style. This is Benedetto's model: Z translates a text close to the Genoa original, which was later pruned into the ancestor of everything else (`mascherpa2018fonte`, read). Andreose cites for it Casella (1929), Benedetto (1930), Peretti (1930), Terracini (1933), Pasquali (1952) and Barbieri (2004), and judges its arguments "certainly compelling, but far from being satisfactory" (`andreose2024textual`, read). No current scholar defending it against the Venice school was found (follow-up).
+- **A third, small group** denies that some or all of the additions are Polo's and treats them as late interpolations: Dieu (1947), Reichert (1997), as Andreose reports.
 - **For the book:** rewrite open question 1. "Can the original be recovered?" becomes "which layer is which?". Say that the Venice editors are reconstructing the contents, not one wording (`simion2024integral`, read).
 
 ## Q2. The four languages — moved, now disputed
@@ -55,7 +56,7 @@ Items 13–15 of the III-12 list are the book's own to-do items, not questions f
 
 ## Q3. Hormuz on the way out — unchanged
 
-Nothing since 2013 was found. Qiu Zhirong (`qiu2021persia`, via) treats the Persian road on the way home, not the outbound turn. **For the book:** keep the present Note in I-07; label the turn-back as Yule's reading until a modern source is seen.
+Nothing since 2013 was found, by the main run or by the follow-up in two more tools. Qiu Zhirong (`qiu2021persia`, via) treats the Persian road on the way home, not the outbound turn. The one new fact is textual: a late stage of Z re-orders the chapters on the plain between Qamadin and Hormuz (`mascherpa2018fonte`, read). **For the book:** keep the present Note in I-07; label the turn-back as Yule's reading (he has the Polos "abandon this project and turn north again from Hormuz"). Sykes's different road into Persia is in Cordier's note and can be cited from `yc`.
 
 ## Q4. Yangzhou — unchanged; the question has moved to Polo's status
 
@@ -83,7 +84,7 @@ Fang Guoyu and Lin Chaomin's monograph (printed 1994) and Li Xinyu (2021) on the
 
 ## Q7. Champa on the return — unchanged
 
-Nothing found. **For the book:** no change.
+Nothing new was found, by the main run or the follow-up. What the base text gives: the Book puts Marco in Champa in a stated year, and the manuscripts differ (1285 in the Geographic Text; 1280 in Pauthier and Ramusio; 1288 in the Geographic Latin). Yule prefers 1288 and joins it to the mission to the Indian seas from which Marco came back about 1290 (`yc`). No scholar was found arguing that the fleet of 1291 called there. **For the book:** III-02 can say that the Book dates his visit before the voyage home, by Yule's reading, and leave the return call as unknown.
 
 ## Q8. Madagascar or Mogadishu — moved
 
@@ -98,7 +99,7 @@ Andreose (`andreose2024textual`, read): the chapter "does not indicate the moder
 
 ## Q10. Ramusio-only passages — moved
 
-Ramusio's sources are Z, P, VB, L and V, and he "never contaminated" them with outside texts; his long Quinsai additions come from a Z manuscript richer than the Toledo copy (`mascherpa2024quinsai`, read). Andreose adds that Ramusio's model may hold further authorial variants. Qiu Zhirong: Ramusio keeps "some authentic data" with "obvious editorial amplifications" (via Ma). **For the book:** the "Ramusio-only." label stays, but its gloss changes from "sixteenth-century elevation?" to "probably from a lost, fuller Latin text close to Polo; how much is Polo's is disputed".
+Ramusio's sources are Z, P, VB, L and V, and he "never contaminated" them with outside texts; his long Quinsai additions come from a Z manuscript richer than the Toledo copy (`mascherpa2024quinsai`, read). Andreose adds that Ramusio's model may hold further authorial variants. Qiu Zhirong: Ramusio keeps "some authentic data" with "obvious editorial amplifications" (via Ma). The two articles behind this, both open access and read in the follow-up: Mascherpa (`mascherpa2018fonte`) proposes that Polo or his family kept notes and memories of Quinsai, used only in part in 1298 and later worked into one or more Z copies, with or without his supervision (*con o senza la sua supervisione*); Andreose (`andreose2018giovanetto`, abstract) concludes that the additions are "the product of Marco Polo's reworking of his book". **For the book:** the "Ramusio-only." label stays, but its gloss changes from "sixteenth-century elevation?" to "probably from a lost, fuller Latin text close to Polo; how much is Polo's is disputed".
 
 ## Q11. The Kinsay figures — moved a little
 
@@ -110,7 +111,7 @@ Mascherpa (`mascherpa2024quinsai`, read) sets Chinese counts beside the Book's: 
 
 ## The date of departure — unchanged
 
-Yang Zhijiu's conclusion as Ma reports it: "at the very end of 1290 or the first days of 1291". The notice is of the eighth lunar month of 1290 and names Uludai, Abishqa and Qoja "together with 160 companions"; the Persian source records Qoja's arrival with the princess (`ma2025chinese`, read). No one was found arguing for 1292. **Discrepancy:** Ma says the notice is in the *Yuanshi*; `facts.md` F-15 and Rong say the *Yongle dadian*. Settle it from Cleaves before III-09 names the source. **For the book:** F-15's hedge stands; "1291 or 1292" can become "about the turn of 1290–91, by Yang Zhijiu's reckoning".
+Yang Zhijiu's conclusion as Ma reports it: "at the very end of 1290 or the first days of 1291". The notice is of the eighth lunar month of 1290 and names Uludai, Abishqa and Qoja "together with 160 companions"; the Persian source records Qoja's arrival with the princess (`ma2025chinese`, read). No one was found arguing for 1292. **Source name, settled:** the *Yongle dadian*, as F-15 has it; Lin and Zhang (`lin2017chinese`, summary) say so and cite Yang and Ho (1945) and Cleaves (1976), and they too give late 1290 or very early 1291. Ma's "in the *Yuanshi*" is a slip. **Not yet seen:** what Cleaves, Vogel and Haw each say; Haw has a whole article on it (`haw2023departure`, record only). One follow-up tool's "June/July 1291" has no source and is not to be used. **For the book:** F-15's hedge stands; "1291 or 1292" can become "about the turn of 1290–91, by Yang Zhijiu's reckoning".
 
 ## The silences — unchanged, better documented
 
@@ -145,7 +146,7 @@ Huang Shijian answered each: tea (1993, 1994), the Great Wall (with Gong Yingyan
 
 ## Still to read before the chapters are rewritten
 
-1. `haw2024anachronisms` (paywalled).
+1. `haw2023departure` and `haw2024anachronisms` (both *ZDMG*, paywalled). Three tools could not open either.
 2. `gadrat2026marco` and `gadrat2024read` directly (both open access).
 3. `cleaves1976chinese`, for the source of the 1290 notice and the departure date.
 4. `formentin2023inventario`, for the belt and the *bocheta*.

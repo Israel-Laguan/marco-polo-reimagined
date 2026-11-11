@@ -77,6 +77,8 @@ Marco Polo studies, five narrow questions. For each, name the scholar, the work 
 5. Which scholars hold that Polo's book had a single redaction (the passages found only in Z and Ramusio being original), against the multiple-redaction view of Burgio, Simion, Mascherpa and Andreose?
 ```
 
+**Run 2026-11-11** by the user, in Consensus and in Qwen. Raw: `research/results/S-13-followup-raw-consensus.md`, `S-13-followup-raw-qwen.md`. Intake: `research/results/S-13-followup-intake.md`.
+
 ## Findings
 **2026-11-11.** Raw: `research/results/S-13-raw.md`, with its BibTeX in `S-13-raw.bib`.
 
@@ -93,13 +95,19 @@ Marco Polo studies, five narrow questions. For each, name the scholar, the work 
 
 **Written:** `registry/scholarship.md` (new); `registry/bibliography.bib` § "S-13 intake" (57 entries; `bolognari2021agnes` gains its issue and pages, still unconfirmed); `registry/sources.md` regenerated (220 entries).
 
+**Follow-up, 2026-11-11.** Consensus passes the trust check: its seven works exist and every passage it cites from Mascherpa 2018 was read on the page it gives. Qwen fails: about 3 of 9 checked claims hold; it misstates Yule, attributes a Champa thesis to Haw on links to other books, gives a sailing date with no source, and infers the contents of an article it did not see. Nothing from Qwen is used.
+- **Question 5 (single redaction), answered:** Benedetto's model, with Casella, Peretti, Terracini, Pasquali and Barbieri, as Andreose cites them. No current defender was found.
+- **Question 3, half answered:** the notice is in the *Yongle dadian* (F-15 stands; Ma's "*Yuanshi*" is a slip). Late 1290 or very early 1291 again. Haw's "Marco Polo's Departure from China" (*ZDMG* 173/1, 2023) is new to the registry and unread.
+- **Questions 1, 2 and 4, not answered:** Hormuz, Champa, Haw 2024. For Champa the base text already says what can be said (the Book dates Marco's visit; Yule reads it as an earlier mission).
+- Six works added to the bibliography; `scholarship.md` updated.
+
 ## Decision
 **2026-11-11.**
 1. **III-12 states the consensus plainly** and adds a "since Vogel" close to §6. Wood's case stays in full. The open-questions list is re-marked as in `registry/scholarship.md` § Summary.
 2. **Source rule for this material:** only sources marked *read* may be quoted; *record* and *via* sources are attributed and get no page. Five works are to be read before III-12 is rewritten (listed at the end of `scholarship.md`).
 3. **No new section in the outline:** "since Vogel" closes §6; the nine sections stand (S-07).
 4. **Feedback to plan, applied:** `content-revision-plan.md` § W2 (III-12 row) and the S-13 line; `outline-volumes.md` III-12 §6; `plans/README.md` board and decision log.
-5. **Open, for the user:** (a) run the follow-up prompt above, or leave questions 3 and 7 marked unchanged; (b) whether `registry/facts.md` should take the three corrections this run suggests (F-35 towards 9 January; F-17 1309 or 1310; F-15 source name). They are noted in the task files, not applied to the sheet, because S-06 closed it without web research.
+5. **Open, for the user:** (a) ~~run the follow-up prompt~~ done 2026-11-11: III-12 questions 3 (Hormuz) and 7 (Champa) stay *unchanged*; a third search run is not worth making, the articles themselves are (Haw 2023, Haw 2024, Cleaves 1976); (b) whether `registry/facts.md` should take the three corrections this run suggests (F-35 towards 9 January; F-17 1309 or 1310; F-15 source name). They are noted in the task files, not applied to the sheet, because S-06 closed it without web research.
 
 ## Tasks to create on close
 - `III-12.T1` (update the debate), `III-11.T1` (2024 reception), `III-B1.T1` (trivia), `I-01.T4` (composition Notes)
