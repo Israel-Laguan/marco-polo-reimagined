@@ -50,6 +50,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Gated by spikes
 - S-01 (essay register), S-02, S-03 (*[reception]*, ledger markers), S-05 (Bolad, Jacopo; Polos in the Catalan caravan caption), S-06 (Bolad, stele, Curzola/Jacopo, Yang Zhijiu, Wood, foot-binding), S-07 (essay length and reception role), S-08 (D tables), S-11 ✓ (`PLT.III-12`)
+- S-13 ✓ (2026-11-11): `registry/scholarship.md`; items in this file's `.T1`/`.T4`
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
@@ -69,10 +70,15 @@ _Created after the gating spikes close. Expected shapes:_
     - F-15 (open): Notes [9]–[10] add the 1290 notice "as Cleaves reports it"; 1291 vs 1292 debated.
     - F-32: the Xi'an stele was found in 1625: cut it from the "misses" (:44, Note [6]).
     - F-34: :30 and Note [4]: Jacopo puts the capture at Ayas; Curzola is Ramusio's tradition.
+  - **Scholarship since 2013 (S-13 ✓, `registry/scholarship.md`):**
+    - §6: add a "since Vogel" paragraph. The field has answered Wood (three surveys: `orlando2025novita`, `ma2025chinese`, `gadrat2026marco`); no sceptic since 2013 was found; the question is now which layer of the text is whose. Date the new works (2015–2026).
+    - §9, open questions: rewrite 1 (layers, not one original), 2 (three positions on the languages), 4 (merchant-partner, guardsman or official), 8 (Mogadishu), 10 (a lost fuller Z behind Ramusio), 11 (Mascherpa's pairs); 5 goes (F-08) and II-05 gains the two titles; add the two new questions (Polo's status; the end of the Genoa prison).
+    - Do not use the "silver belt of a Tartar knight" as evidence (`haw2024kesig`).
+    - Read first: the five items listed at the end of `registry/scholarship.md`. Record-only and via sources are not quoted and get no page.
 - **Done when:** a person has read the chapter's Polo place names against `gazetteer.csv`. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-12.T3 — Prose pass to the S-01 standard, with the S-07 section plan
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 ✓, S-06 ✓, S-07 ✓; do after `III-11.T3` (the Wood and "why a retelling" material moves here) · S-13 may update §6 later and does not gate it
+- **Status:** backlog · **Depends:** S-01 ✓, S-02 ✓, S-06 ✓, S-07 ✓; do after `III-11.T3` (the Wood and "why a retelling" material moves here) · S-13 ✓ (its §6 and §9 items are in `III-12.T1`)
 - **Now:** 3,753 words (essay range 2,500–3,500) · "Soft" ×44 · opening recap :9–11 · closing recap :127
 - **Do:** essay register (it argues, it does not retell), and the voice rules that apply to it: no scaffolding, no archaisms, no Book first person, no recaps. Section plan in `plans/spikes/S-07-structure-length.md` § 3, target 2,800–3,200:
   0. Cut the opening recap (:9–11); open on the method line of the epigraph.

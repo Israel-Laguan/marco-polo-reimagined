@@ -52,6 +52,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-05 Character registry (Marco, Rustichello in hero plate)
 - S-08 LaTeX build pipeline (D table, parallel-text box, plates)
 - S-10 ✓ Image generation pilot (GEN hero, Curzola secondary)
+- S-13 ✓ (2026-11-11): `registry/scholarship.md`; items in this file's `.T1`/`.T4`
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
@@ -89,6 +90,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-12 (2026-11-10):** Note [8] (dictation language, Franco-Italian register) may cite the F text in its modern edition, `eusebi2018devisement` (open access), beside Benedetto.
+  - **S-13 ✓ (`registry/scholarship.md` Q1 and § The 2024 anniversary):** Notes on composition: Franco-Italian is settled; F belongs with the thirty-odd French manuscripts copied in Genoa by Pisan prisoners; the Book was then rewritten in Venice in stages (`andreose2024textual`, read). The end of the captivity: a record published in 2026 may put Marco in Venice by October 1298 (`bolognari2026venezia`, read); give it as Bolognari's inference.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-01.T6 — Lint green and human read

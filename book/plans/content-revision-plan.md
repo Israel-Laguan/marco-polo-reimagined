@@ -88,7 +88,7 @@ Verdicts and sources: `registry/facts.md` (S-06, closed 2026-11-03; rows F-01…
 | III-9, III-11, III-12 | Add **Yang Zhijiu 1941** (*Yongle dadian* notice naming the three envoys, 1290), as Cleaves reports it. Neither it nor Rashid names the Polos (reported). Departure 1291 vs 1292 is debated; name no scholar for 1291 until seen *(S-06, F-15)*. |
 | III-10 | His wife is **Donata**, "usually identified as a Badoer" (the surname rests on leads; S-15). Pipino's Latin: "in Marco's lifetime, probably the 1310s"; Ramusio said 1320 and Yule suggests 1315, so "Ramusio thought about 1315–1320" is wrong *(S-06, F-16, F-18)*. |
 | III-11 | Columbus's copy = Leeu's Latin, printed at **Gouda, 1483–84** (not Antwerp), in Seville; dating of the postils is debated; Toscanelli's letters (the 1474 date not yet seen). Drop Chipangu from the Catalan Atlas sentence and make no "first on a European map" claim for Fra Mauro (1459) until seen. Add print dates (1477, 1483–84, 1496, 1502, 1503, 1559) and Góis (Pamir 1603, died at Suzhou); cut the Jesuits "measuring" Polo's silences (no source) *(S-06, F-19–F-22)*. |
-| III-12 | State Wood's case fully (no Chinese or Persian record names the Polos; Persianised names); date the works (1995, 1997, 2006, 2013). |
+| III-12 | State Wood's case fully (no Chinese or Persian record names the Polos; Persianised names); date the works (1995, 1997, 2006, 2013). Then add "since Vogel": the field has answered Wood and now asks which layer of the text is whose; open questions re-marked moved / unchanged / new *(S-13, `registry/scholarship.md`)*. |
 | III-back | Adam's Peak: **in the Book** Muslim and Buddhist only. *(S-06, overturned in part: outside the Book there are Hindu (Siva) and Portuguese Christian (St Thomas, or the eunuch of Candace) claims, per Tennent in Yule. Fix the "in the book's telling" list; the others may appear only as later traditions, F-23.)* |
 
 **Still open after S-06; the chapter uses the hedge** (wording in `registry/facts.md`; library checks in S-06 *Findings*):
@@ -168,7 +168,7 @@ Rewrite `SERIES-STATUS.md` and the volume READMEs to match reality. Retire the `
 ### W7 — References and enrichment (phase R)
 
 Upgrade the scholarship from Yule–Cordier plus names to a verified bibliography, post-2013 scholarship, checked facts and sourced enrichment. Twelve external deep-research runs (S-12 … S-23), plus per-work deep dives from S-23, each brought back through an intake session that checks the sources before anything reaches the text. Workflow: `research/README.md`.
-- S-12 → bibliography and citation policy (closed 2026-11-10: 162 entries, `registry/sources.md`; the policy itself was settled in S-24); S-14 → closes S-06 (W2); S-13 → III-12 debate update.
+- S-12 → bibliography and citation policy (closed 2026-11-10: 162 entries, `registry/sources.md`; the policy itself was settled in S-24); S-14 → closes S-06 (W2); S-13 → III-12 debate update (closed 2026-11-11: `registry/scholarship.md`; 57 works added).
 - S-16/17/18 → per-volume enrichment: at most 2–3 items per chapter go into the re-voice, the rest to Notes or back matter.
 - S-19 → Comparative clauses; S-20 → reception and myth-check; S-21 → natural history; S-22/S-23 → visual references for the plates (multimedia side).
 

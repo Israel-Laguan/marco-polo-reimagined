@@ -830,7 +830,7 @@
 3. Hits: coal, paper money, yam, bulkheads, Yangzhou salt context, Shangdu, Cocachin, Quanzhou, etc.
 4. Misses & silences: tea, foot-binding, Great Wall, characters/script limits, Chinese names sparse
 5. Famous stress-points: Yanju governorship; Saianfu mangonels; numbers; Chipangu gold; Book IV oratory
-6. The Frances Wood debate and principal replies (de Rachewiltz, Haw, Vogel, Larner, et al.)
+6. The Frances Wood debate and principal replies (de Rachewiltz, Haw, Vogel, Larner, et al.), closing with "since Vogel": where the field stands after the 2024 anniversary (S-13, `plans/registry/scholarship.md`)
 7. Comparative travellers: Rubruck, Odoric, Ibn Battuta, Rashid al-Din as control panel
 8. Principles of *this* retelling: keep wonders in voice; quarrel in hooks/apparatus; no false modernisation of belief
 9. Open questions list for future notes volumes

@@ -94,6 +94,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Tag line `**[V]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
   - Run `python3 tools/lint.py -v vol-2/ch-13-kinsay.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-13 ✓ (`registry/scholarship.md` Q11):** the Note on the figures may set Mascherpa's Chinese counts beside the Book's (347 bridges; 35 *li*; a lake of 6 miles), as his (`mascherpa2024quinsai`, read; one source). The Ramusio-only label on the long Kinsay additions: "from a fuller Latin text now lost" (same source).
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### II-13.T6 — Lint green and human read

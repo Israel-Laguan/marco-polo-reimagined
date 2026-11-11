@@ -43,6 +43,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Gated by spikes
 - S-02, S-03 (Notes format), S-06 (Adam's Peak, Cocachin), S-07 (front/back roles and de-duplication), S-08 (glossary table), S-09 (only if B5 is also placed here)
+- S-13 ✓ (2026-11-11): `registry/scholarship.md`; items in this file's `.T1`/`.T4`
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
@@ -59,6 +60,7 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-23: Adam's Peak is Muslim and Buddhist "in the Book"; Hindu and Portuguese-Christian claims only as later traditions (Tennent, via Yule).
     - F-15 (open): the Cocachin entry adds the 1290 notice "as Cleaves reports it"; neither source names the Polos.
+  - **S-13 ✓ (`registry/scholarship.md` § The 2024 anniversary):** candidates, each "as reported by Orlando 2025" until the edition is seen: Agnese, a possible daughter (will of July 1319); the inventory's *bocheta* is a jewel, not the Mongol headdress; Pietro the "Tartar" may have been bought at Rialto; Madagascar owes its name to a copyist (`andreose2024textual`, read). Cut any "silver belt of a Tartar knight".
 - **Done when:** `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-B1.T3 — De-duplicate to the S-07 role matrix

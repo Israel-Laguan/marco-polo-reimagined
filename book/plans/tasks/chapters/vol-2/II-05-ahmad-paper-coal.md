@@ -78,6 +78,7 @@ _Created after the gating spikes close. Expected shapes:_
     - F-09 (open): "comes to us through Ramusio, not the Geographic French"; no Z claim.
     - F-42 (open): Note [21] "Observatory instruments of Guo Shoujing era" → "the observatory instruments of the Yuan"; the 1328 almanac figures stay (Yule).
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+  - **S-13 ✓ (`registry/scholarship.md` Q5):** a Note on Ramusio's Cenchu and Vanchu: the titles *qianhu* and *wanhu*, the men Wang Zhu and Zhang Yi (Cai Meibiao 1998, as `luo2024designations` reports; read). F-08 now has a read source for Bolod (`ma2025chinese`).
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-05.T3 — Re-voice to the S-01 standard

@@ -61,6 +61,7 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+  - **S-13 ✓ (`registry/scholarship.md` Q8):** the Madeigascar Note: the chapter describes Mogadishu; the form is a copying error that Z alone escapes (`andreose2024textual`, read). Check Pelliot's wording before print.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-07.T3 — Re-voice to the S-01 standard

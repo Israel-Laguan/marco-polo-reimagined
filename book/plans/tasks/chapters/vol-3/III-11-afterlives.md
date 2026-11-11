@@ -50,6 +50,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Gated by spikes
 - S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 ✓ (Fra Mauro GEN option), S-11 ✓ (PD hero; Fra Mauro PD option: Naya facsimile)
+- S-13 ✓ (2026-11-11): `registry/scholarship.md`; items in this file's `.T1`/`.T4`
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
@@ -66,6 +67,10 @@ _Created after the gating spikes close. Expected shapes:_
     - F-21: print dates 1477 Nuremberg, 1483–84 Gouda, 1496 Venice, 1502 Lisbon, 1503 Seville, 1559 Ramusio (posthumous); no 1477 printer.
     - F-22: Góis crossed the Pamir in 1603 and died at Suzhou (Yule); cut the Jesuits "measuring" Polo's silences; Ricci's Cathay = China only from a seen source.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+  - **S-13 ✓ (`registry/scholarship.md`):**
+    - Add the 2024 anniversary as an event: the Palazzo Ducale exhibition (6 April – 29 September 2024), the *Codice Diplomatico Poliano*, the new editions (V, 2019; the digital edition in progress). The Foligno manuscript is press-only: leave it out until the census (`burgio2025censimento`) is seen.
+    - Doubters before Wood (Green 1747; Magalhães's five proofs, 1688) and readership (`gadrat2015lire`): only after `gadrat2026marco` and `gadrat2024read` are read directly.
+    - Z among the Venetian Dominicans (`andreose2024textual`, read): Calò and Filippino da Ferrara used it before 1347.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-11.T3 — Re-voice to the S-01 standard

@@ -70,6 +70,7 @@ _Created after the gating spikes close. Expected shapes:_
     - F-01: the outcome is backwards: Hulagu's army under Abaqa was routed beyond the Terek in the winter of 1262–63 (Yule's Bk IV note). Note [5] → "✓ war and date; ✗ outcome".
     - F-17 (open): drop "remained a bachelor"; if a clause is wanted, "the documents name no wife or child for him".
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+  - **S-13 ✓:** the elder Matteo's will is 6 February 1310 in `bolognari2026venezia` and February 1309 in F-17; settle it (Venetian year?) before a date is printed.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-02.T3 — Re-voice to the S-01 standard

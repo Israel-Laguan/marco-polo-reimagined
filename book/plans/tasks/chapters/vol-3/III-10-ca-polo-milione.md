@@ -63,6 +63,7 @@ _Created after the gating spikes close. Expected shapes:_
     - F-18: Pipino: "in Marco's lifetime, probably the 1310s (Yule suggests 1315; Ramusio said 1320)".
     - F-35: Marco died on 8 or 9 January 1324; the will is dated 9 January.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
+  - **S-13 ✓ (`registry/scholarship.md` § The 2024 anniversary):** death on **9 January 1324** is now the better-supported day (F-35 allows it); the inventory (jewel, not headdress; pledges); Agnese as "possibly"; the 1317 contracts; Elena of 1314 is not accepted as his mother; the elder Matteo's will, 6 February 1310 against F-17's 1309 (check the Venetian year). All via `orlando2025novita` and `bolognari2026venezia`: attribute, no pages.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-10.T3 — Re-voice to the S-01 standard
