@@ -79,4 +79,5 @@ Flux Krea draws Safavid turbans for any "Persian miniature" prompt. **Ilkhanid p
 
 - Those models follow long prose and in-prompt "avoid" lists, so the negatives sit inside the text.
 - If the chat accepts an image, attach a public-domain *Jami' al-Tawarikh* folio as a **style** reference, e.g. Edinburgh Ms Or 20 f.110v on Wikimedia Commons. Add: "Use the attached only for style. Do not copy its composition."
+- Other period references gathered by S-11 are in `media/references/` (*'aja'ib* birds for III-7, the *Mōko* scroll strips, Catalan Atlas sheets, LdM folios). Its README says which may be edit input and which are "look only" (BnF scans).
 - Save the result into `media/plates/drafts/I-7/`, with a `.json` or `.yaml` noting the chat model, date and prompt. Then review it as above.

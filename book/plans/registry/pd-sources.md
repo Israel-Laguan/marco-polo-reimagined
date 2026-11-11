@@ -1,5 +1,7 @@
 # Public-domain sources (S-11)
 
+Reference images gathered on the way (not printed): `media/references/README.md`.
+
 **Chosen for print (user, 2026-11-10):** the free fallbacks for I-2 and III-12 (rows marked *alt*). The BnF masters stay for reference and proofing only; they are not printed.
 
 _2026-11-10. Output of [S-11](../spikes/S-11-public-domain-sourcing.md). Each work was checked on Wikimedia Commons (file size, licence tags, source) and against the holder's own reuse terms (web research; the source pages are listed under § Holder terms). Masters are in `media/public-domain/`; their checksums and licence notes are in `media/public-domain/README.md`._
