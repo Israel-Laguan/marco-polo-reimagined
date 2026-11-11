@@ -50,7 +50,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Otchigin line; Kaifeng synagogue date)
 - S-08 LaTeX build pipeline (plate, D table)
 - S-09 Map and diagram pipeline (C5; unassigned Nayan-theatre map)
-- S-10 Image generation pilot (GEN hero)
+- S-10 ✓ Image generation pilot (GEN hero)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

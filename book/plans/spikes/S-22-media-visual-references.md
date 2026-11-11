@@ -1,6 +1,6 @@
 # S-22 — Visual references from modern media (manga, anime, film, TV, games, illustration)
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** the `[PERIOD]` cues in every plate prompt (`illustration-plan.md`); S-05 visual character cards (costume, hair, headgear); S-10 pilot review checklist (period errors); `PLT` secondaries
+**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** the `[PERIOD]` cues in every plate prompt (`illustration-plan.md`); S-05 visual character cards (costume, hair, headgear); the review checklist in `illustration-style-guide.md` (period errors; S-10 ✓ closed); `PLT` secondaries
 
 ## Question
 Which modern works of fiction and reconstruction depict Polo's world (the Mongol steppe, Ilkhanid Persia, Yuan and Song China, the Silk Road oases, the 1274/1281 invasions of Japan, the Indian Ocean, Venice) carefully enough to be useful references for our plates? For each one: what does it show well, what does it get wrong for c. 1270–1295, and which museum objects, excavations, ethnography or scholarship did its creators base it on?
@@ -68,7 +68,7 @@ OUTPUT FORMAT (required). (1) A table of works with columns: # · title (origina
 ## Feedback to plan
 - `illustration-style-guide.md` § Rules: add the use rules above; rule 7 (people and dress) links to `registry/visual-references.md`
 - `illustration-plan.md`: per-scene accuracy notes and `[PERIOD]` cues
-- `S-10`: review checklist gains "period errors" items found here (common anachronisms in modern media are the same errors generators make)
+- `illustration-style-guide.md` § Review checklist, item 2 (S-10 closed it): gains "period errors" items found here (common anachronisms in modern media are the same errors generators make)
 
 ## Follow-up prompts
 _(add here if the results leave gaps; e.g. one region or one visual problem in more depth)_
@@ -80,4 +80,4 @@ _(fill while working)_
 _(fill when closing)_
 
 ## Tasks to create on close
-- `PLT.T*` cue updates per hero plate; `CHR.T*` costume rows; S-10 checklist items
+- `PLT.T*` cue updates per hero plate; `CHR.T*` costume rows; review-checklist items

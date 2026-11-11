@@ -53,7 +53,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Tyunju = Dehua F-12; Note [3] "local histories" F-13; 13 compartments F-14 open)
 - S-08 LaTeX build pipeline (plates, map, diagram, cutaway)
 - S-09 Map and diagram pipeline (A13, C7, C12)
-- S-10 Image generation pilot (GEN hero, secondary; C12 cutaway base)
+- S-10 ✓ Image generation pilot (GEN hero, secondary; C12 cutaway base)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

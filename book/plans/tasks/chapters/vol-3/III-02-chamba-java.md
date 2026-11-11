@@ -47,7 +47,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco Polo, Kublai (Great Kaan), Sagatu (Sogetu), Accambale (king of Chamba), Tughan (Toghan), Rustichello; comparative sources: Odoric, Niccolò de' Conti, Ibn Battuta, Duarte Barbosa
 
 ## Gated by spikes
-- S-01, S-02, S-03, S-04 (Sondur/Condur row), S-06 (n8), S-08, S-10
+- S-01, S-02, S-03, S-04 (Sondur/Condur row), S-06 (n8), S-08, S-10 ✓
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

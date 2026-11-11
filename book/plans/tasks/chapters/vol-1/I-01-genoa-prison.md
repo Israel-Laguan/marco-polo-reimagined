@@ -51,7 +51,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-04 Gazetteer authority (Genoa, Curzola rows; nit 1 gloss rule)
 - S-05 Character registry (Marco, Rustichello in hero plate)
 - S-08 LaTeX build pipeline (D table, parallel-text box, plates)
-- S-10 Image generation pilot (GEN hero, Curzola secondary)
+- S-10 ✓ Image generation pilot (GEN hero, Curzola secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

@@ -17,7 +17,7 @@ The 22 files already in `media/` and every caption that references them. This is
 - Mongol Empire map: one 9-frame GIF animation, 1206 → 1294, saved also as `.jpg` and `.png` (same bytes). A static print shows the 1206 frame; caption the 1294 frame, "c. 1294" (S-06, `registry/facts.md` F-25).
 
 ## Gated by spikes
-None for the caption fixes. S-09 / S-10 for the replacements.
+None for the caption fixes. S-09 ✓ / S-10 ✓ for the replacements: the GEN replacements are `PLT` tasks, and legacy retirement is `PLT.LEGACY`.
 
 ## Tasks
 - `MED.T1` **(ready now)** Correct the captions in I-F2, II-F2 and III-F2: mark generated images as generated, not maps; remove the duplicate return-route embed; drop the "placeholder" sentences.

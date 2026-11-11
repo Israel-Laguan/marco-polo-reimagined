@@ -1,0 +1,13 @@
+{
+ "prompt": "Ilkhanid Persian manuscript painting, Jami al-Tawarikh, Tabriz c. 1310: horizontal band composition, swirling Chinese-style cloud bands, mineral pigments on buff paper, minimal ground line, red and ochre accents, figures with Mongol-type faces. On the left a band of Mongol raiders on horseback in lamellar armour and fur-trimmed hats charges out of a brown dust cloud. On the right three Frankish merchants in short travel tunics and hooded cloaks gallop away toward a mud-brick village among date palms. The youngest merchant, beardless and dark-haired, twists back in the saddle; one elder is heavy-set and greying, one lean with a long dark beard. Paper ground, light even aging, thin ruled border.",
+ "params": {
+  "prompt": "Ilkhanid Persian manuscript painting, Jami al-Tawarikh, Tabriz c. 1310: horizontal band composition, swirling Chinese-style cloud bands, mineral pigments on buff paper, minimal ground line, red and ochre accents, figures with Mongol-type faces. On the left a band of Mongol raiders on horseback in lamellar armour and fur-trimmed hats charges out of a brown dust cloud. On the right three Frankish merchants in short travel tunics and hooded cloaks gallop away toward a mud-brick village among date palms. The youngest merchant, beardless and dark-haired, twists back in the saddle; one elder is heavy-set and greying, one lean with a long dark beard. Paper ground, light even aging, thin ruled border.",
+  "scale": "4:3",
+  "resolution": "4k",
+  "negative_prompt": "turban, Safavid, Mughal, text, calligraphy, inscription, writing, seal, signature, crown, halo, angel, magic, photograph, 3d render",
+  "_id": "6af3b0da51e26737e1e1e483",
+  "model": "wavespeed-ai/flux-krea-dev-lora",
+  "credit": 4
+ },
+ "secs": 28.2
+}

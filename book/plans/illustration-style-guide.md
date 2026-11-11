@@ -84,7 +84,7 @@ Every prompt with a recurring figure takes its `[PERIOD]` and `[AVOID]` lines fr
 
 - **Resolution:** 300 dpi at final printed size. Trim **6×9 in with a 4.5×7.2 in text block** (confirmed by S-08, 2026-11-10): full page **1350×2160 px**; half page **1350×1000 px**; handscroll spread **2700×900 px**.
 - The print build (`tools/build/build.sh`) warns for any raster under 1,350 px wide and will not place a file whose extension is not its real type (PNG or JPEG only).
-- Generators usually output ~1–2 MP, so plan an **upscale pass** (e.g. Real-ESRGAN) and check fine detail (faces, hands, rigging) after upscaling.
+- Generators usually output ~1–2 MP, so plan an **upscale pass** (e.g. Real-ESRGAN) and check fine detail (faces, hands, rigging) after upscaling. *S-10:* Akool 4k gives 1536×1152 (4:3), which needs no upscale for a half page. A 2:1 spread needs ×1.76: Lanczos plus a light unsharp mask was clean (`convert in.png -filter Lanczos -resize 2700x1350 -unsharp 0x0.75+0.5+0`).
 - **Formats:** plates as PNG (lossless master) → JPEG at 95% quality for the build. Maps and diagrams as **PDF/SVG vector**.
 - **Color:** sRGB masters. If the printer requires CMYK, convert at the end, and proof the saturated pigments (lapis, malachite, vermilion), which shift most.
 - **Files:** `book/media/plates/<vol>-<ch>-<slug>.png` + a sidecar `.yaml` holding the prompt, model, seed, date, tradition and caption. Each sidecar becomes a row in `ATTRIBUTIONS.md`.
@@ -102,6 +102,31 @@ Every prompt with a recurring figure takes its `[PERIOD]` and `[AVOID]` lines fr
 [AVOID] legible text or inscriptions, signatures, seals, modern objects,
         photographic realism, <scene-specific anachronisms>
 ```
+
+*Sending it (S-10, 2026-11-10).* Generator: Akool `wavespeed-ai/flux-krea-dev-lora`, direct API, `resolution: 4k`. Ilkhanid and other Persianate (JT) plates use Gemini (chat app) instead: copy `media/plates/prompts/I-7-chat.txt`, then send one corrective follow-up turn (S-10).
+- Join `[STYLE] [SCENE] [PERIOD] [FORMAT]` into one prompt, in that order: tradition first.
+- Send `[AVOID]` as the API's **`negative_prompt`**, as bare nouns ("text, calligraphy, seal, crown, halo"), not as "no X" inside the prompt. Flux mostly ignores in-prompt negations. The negative field is what removed pseudo-script (Song–Yuan) and stray deities (Chola).
+- Name concrete actions and objects ("dive head-first", "stones in their hands"). Never write "on the left… on the right…": Krea turns it into a two-page diptych.
+- Scales: `4:3`, `3:4`, `16:9`. There is no 3:1, so for a handscroll use `16:9` and crop to 2:1.
+- Akool has no seed: record the job `_id` in the sidecar, and download at once, because results expire in 7 days.
+
+Negatives that worked:
+- **Song–Yuan:** text, calligraphy, inscription, writing, seal, red stamp, colophon, signature, Qing dynasty, Ming dynasty, queue hairstyle, photograph, 3d render.
+- **Chola:** text, script, inscription, writing, deity, god, crown, halo, heavy damage, peeling paint, cartoon, teeth, photograph, 3d render.
+
+## Review checklist (per plate)
+
+Generate 4, pick 1. Reject the image if any **hard** line fails.
+
+1. **Hard: no script.** Zoom every cartouche, border, banner and corner. Pseudo-calligraphy and red seal stamps count as script.
+2. **Hard: period.** Check dress, headgear, architecture and ships against the scene row's "must get right" column. Common misses: Safavid turbans in an Ilkhanid scene, Ming/Qing roofs in Song scenes, crowned deity figures in Chola scenes.
+3. **Hard: scene.** The people and action named in `[SCENE]` are present: count them. Recurring figures match their card attributes (`tools/characters.py cue`).
+4. **Hard: rule 6.** No sacred figure used as decoration.
+5. **Idiom.** It reads as *this* tradition, not a neighbour (generic "Persian miniature" ≠ Ilkhanid).
+6. **Ground and aging.** Light and even, matching the series. Reject heavy flaking or fake mounting seams, or crop them out.
+7. **Artifact risk.** If it could pass for a real folio, the caption label (rule 1) is mandatory, and the sidecar notes the risk.
+8. **Print check at final size.** Width ≥ 1350 px (half page) or the spread target after the upscale. View faces, hands and rigging at 100%: faces smeared at source are a re-roll, not an upscale fix.
+9. **Sidecar.** Prompt, negative, model, job id, date, tradition, caption, post-processing, and one review line per item above.
 
 ## Existing plates
 

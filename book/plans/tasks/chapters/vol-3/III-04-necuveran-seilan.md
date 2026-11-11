@@ -45,7 +45,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Sagamoni Borcan (the Buddha), Adam, Kublai (Great Kaan; relic embassy); comparative sources: Ibn Battuta, Odoric, Rashid al-Din, Niccolò de' Conti
 
 ## Gated by spikes
-- S-01, S-02, S-03 (★ conversion), S-04 (Necuveran gloss, Gauenispola row), S-05 (Kublai in the relics plate), S-06 (Sendemain, F-44), S-08, S-10
+- S-01, S-02, S-03 (★ conversion), S-04 (Necuveran gloss, Gauenispola row), S-05 (Kublai in the relics plate), S-06 (Sendemain, F-44), S-08, S-10 ✓
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

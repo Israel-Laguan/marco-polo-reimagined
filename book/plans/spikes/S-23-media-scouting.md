@@ -13,13 +13,13 @@ Beyond the works already in S-22, which modern media (any language, any market, 
 
 ## Inputs
 - S-22 (use rules; the works already covered, so this spike doesn't repeat them)
-- `illustration-plan.md` § Hero plates (34 GEN scenes; listed inside the prompt)
+- `illustration-plan.md` § Hero plates (35 GEN scenes since S-11 moved III-7 to GEN; listed inside the prompt)
 - `illustration-style-guide.md` (region → tradition table)
 
 ## Method
 1. Best after S-22 has come back: add the works S-22's Part 2 found to the prompt's "I already have these" list, so the scouting run doesn't repeat them. Run the **scouting prompt** and save the output to `research/results/S-23-raw.md`.
 2. Intake: check that each work exists (title, creator, year; a catalogue, publisher, IMDb/MAL/BGG-type record, or a museum page). Merge the works into `registry/visual-references.md` § By work, marked `scouted`.
-3. Mark scene coverage: for each GEN hero scene, *covered* (≥ 1 accurate reference), *thin* or *none*. Scenes marked *none* fall back to period art and scholarship only, which is fine. They are noted so that S-10 knows they are harder.
+3. Mark scene coverage: for each GEN hero scene, *covered* (≥ 1 accurate reference), *thin* or *none*. Scenes marked *none* fall back to period art and scholarship only, which is fine. They are noted so that the matching `PLT` task knows it is harder (S-10 is closed).
 4. With the user, choose the shortlist (suggested 5–10). For each work on it, run the **per-work deep-dive prompt** below, saving to `research/results/S-23-<slug>-raw.md`.
 5. Intake each deep dive as in S-22 Method 3–5.
 
@@ -60,13 +60,13 @@ OUTPUT FORMAT (required). (1) An element table with columns: # · element · wha
 
 ## Output (definition of done)
 - [ ] `research/results/S-23-raw.md` saved, with the existence-check hit rate recorded
-- [ ] `registry/visual-references.md`: scouted works merged; scene-coverage table for all 34 GEN hero scenes
+- [ ] `registry/visual-references.md`: scouted works merged; scene-coverage table for all 35 GEN hero scenes
 - [ ] Shortlist agreed with the user; a deep dive run and taken in for each shortlisted work
-- [ ] Scenes with no coverage flagged to S-10
+- [ ] Scenes with no coverage flagged on their `PLT` task rows
 
 ## Feedback to plan
 - `illustration-plan.md`: per-scene reference pointers (period sources first, modern works only as viewing aids)
-- `S-10`: list of scenes with thin or no coverage (pilot candidates for testing difficulty)
+- `tasks/cross/PLT-plates.md`: flag scenes with thin or no coverage on their task rows (treat them like "first of its tradition": expect more rounds)
 - `S-22`: works the scouting finds that belong in S-22's comparative set
 
 ## Follow-up prompts
@@ -79,4 +79,4 @@ _(fill while working)_
 _(fill when closing: the shortlist, and the coverage verdict)_
 
 ## Tasks to create on close
-- `PLT.T*` reference pointers per hero plate; S-10 difficulty notes
+- `PLT.T*` reference pointers per hero plate; `PLT` difficulty flags

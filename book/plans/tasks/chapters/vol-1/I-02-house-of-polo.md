@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (M3 outcome F-01; m8 Maffeo F-17 open; m12 citation)
 - S-08 LaTeX build pipeline (plates, C5)
 - S-09 Map and diagram pipeline (A3, C5)
-- S-10 Image generation pilot (GEN secondary)
+- S-10 ✓ Image generation pilot (GEN secondary)
 - S-11 Public-domain artwork sourcing (PD hero, LdM)
 
 ## Tasks

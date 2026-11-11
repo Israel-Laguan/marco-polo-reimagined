@@ -60,7 +60,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-07 Structure and length decisions (at ceiling)
 - S-08 LaTeX build pipeline (plates, C1, C2, D table)
 - S-09 Map and diagram pipeline (C1, C2)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 - S-11 Public-domain artwork sourcing and licensing (Zhiyuan note photo)
 
 ## Tasks

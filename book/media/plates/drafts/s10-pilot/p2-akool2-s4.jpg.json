@@ -1,0 +1,13 @@
+{
+ "prompt": "Song-Yuan Chinese city-genre handscroll in the Qingming shanghe tu tradition: ink and light colour on silk, fine line, high oblique viewpoint, mist bands between scenes, many small figures. Roofed pleasure barges glide on West Lake, Hangzhou; boatmen pole from the roof decks; a family party feasts at open windows; temples and willows on the far shore; a brick pagoda on a hill. Southern Song dress: round-collared robes, soft caps; Song timber architecture. Long horizontal silk scroll, light even aging.",
+ "params": {
+  "prompt": "Song-Yuan Chinese city-genre handscroll in the Qingming shanghe tu tradition: ink and light colour on silk, fine line, high oblique viewpoint, mist bands between scenes, many small figures. Roofed pleasure barges glide on West Lake, Hangzhou; boatmen pole from the roof decks; a family party feasts at open windows; temples and willows on the far shore; a brick pagoda on a hill. Southern Song dress: round-collared robes, soft caps; Song timber architecture. Long horizontal silk scroll, light even aging.",
+  "scale": "16:9",
+  "resolution": "4k",
+  "negative_prompt": "text, calligraphy, inscription, writing, seal, red stamp, colophon, signature, Qing dynasty, Ming dynasty, queue hairstyle, photograph, 3d render",
+  "_id": "6af3b0f651e26737e1e1e5b3",
+  "model": "wavespeed-ai/flux-krea-dev-lora",
+  "credit": 4
+ },
+ "secs": 60.7
+}

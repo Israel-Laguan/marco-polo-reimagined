@@ -56,7 +56,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (M2 Hormuz inference, m2 Chagatai)
 - S-08 LaTeX build pipeline (C13, D table, plates)
 - S-09 Map and diagram pipeline (A4, C13)
-- S-10 Image generation pilot (Pilot 1 is this hero)
+- S-10 ✓ Image generation pilot: **hero done**, `media/plates/I-7-carauna-escape.png` (Gemini chat; sidecar has the caption)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

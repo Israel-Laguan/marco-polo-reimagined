@@ -11,7 +11,9 @@ For several events, **a genuine public-domain artwork of that very subject exist
 
 **Rule clarification:** the tradition follows **where the scene takes place**, not the chapter. Example: I-3's hero is set at Kublai's court, so it uses Yuan court painting even though the chapter starts in Acre.
 
-**Count:** 41 hero slots (40 chapters + the Vol. II frontispiece): **34 GEN + 7 PD**, plus about 25 optional secondaries. That is roughly 34–59 plates to commission, plus 5 cutaway bases for the multimedia plan (C12–C16).
+**Licences (S-11, 2026-11-10):** sources, masters, captions and credit lines for every PD slot are in `registry/pd-sources.md`. Two slots (I-2, III-12) and every LdM secondary use BnF scans, which need a paid BnF licence for commercial print; without it they fall back to GEN. III-7 found no commercial-use source and is now GEN.
+
+**Count:** 41 hero slots (40 chapters + the Vol. II frontispiece): **35 GEN + 6 PD**, plus about 25 optional secondaries. That is roughly 35–60 plates to commission, plus 5 cutaway bases for the multimedia plan (C12–C16).
 
 ## Hero plates
 
@@ -28,7 +30,7 @@ Abbreviations:
 | Ch. | Hero scene | Src | Tradition | Fmt | Must get right | Caution in caption |
 |---|---|---|---|---|---|---|
 | I-1 | Marco dictating to Rustichello | GEN | Italian Gothic illumination | P | Rustichello a **layman**; loose quires, quill, ink-horn; a civic room, not a dungeon; *gonella* and mantle | Setting is tradition |
-| I-2 | The brothers before Kublai | **PD** | LdM miniature of the Polos at the Khan's court | P | — | European imagining, c. 1410 |
+| I-2 | The brothers before Kublai | **PD** (BnF fee) | LdM fol. 2v, the Polos at the Khan's court (whole folio) | P | — | European imagining, c. 1410 |
 | I-3 | "Sire, 'tis my son and your liegeman" | GEN | YC | L | Kaiping c. 1275; timber hall on a platform; oil flask and papal letters; Kublai about 60 | Prologue theatre |
 | I-4 | The quay at Layas | GEN | Cilician Armenian illumination | P | Sea castle; lateen ships; spice and cotton bales; Italian and Armenian merchants | — |
 | I-5 | Hulagu shuts the Caliph in the treasure tower | GEN | LdM marvel lens | P | Abbasid black robes; Mongol lamellar armour | Exemplum: Muslim sources differ |
@@ -49,7 +51,7 @@ Abbreviations:
 | II-1 | Kublai on the elephant-borne tower at the Nayan battle | GEN | YC (Liu Guandao manner) | H | Kublai about 72 and heavy; white *tug* standard; modest host | Spectacle numbers inflated |
 | II-2 | Elephants carry trees up the Green Mount | GEN | *jiehua* ruled-line architecture | H | Qionghua island, Taiye lake; green-tiled hall; **no Qing White Dagoba** | Polo's vignette |
 | II-3 | The White Feast procession | GEN | YC | H | Everyone in white; tribute in nines; a *handful* of elephants and camels | "5,000 elephants" inflated |
-| II-4 | Kublai hunting | **PD** | Liu Guandao, *Khubilai Khan Hunting* (1280) | H | — | Secondary GEN: "Sire! Look out for Cranes!" from the elephant litter |
+| II-4 | Kublai hunting | **PD** | Liu Guandao, *Khubilai Khan Hunting* (1280), a hanging scroll | P | — | Secondary GEN: "Sire! Look out for Cranes!" from the elephant litter |
 | II-5 | Printing the Kaan's paper money | GEN | Yuan woodblock (*pinghua*) | L | Mulberry-bark sheets; vermilion seal; clerks | Pair with a PD photo of a real Zhiyuan note |
 | II-6 | Caravan crossing the Pulisanghin bridge | GEN | Yuan landscape / *jiehua* | H | Jin bridge, 11 arches; archaic lions | Polo says 24 arches |
 | II-7 | Green bamboo exploding in the night camp, Tebet marches | GEN | Dali kingdom scroll | L | Hobbled, hooded horses; Kham forest | — |
@@ -66,18 +68,18 @@ Abbreviations:
 
 | Ch. | Hero scene | Src | Tradition | Fmt | Must get right | Caution in caption |
 |---|---|---|---|---|---|---|
-| III-1 | The 1281 typhoon wrecks the Yuan fleet | **PD** | *Mōko Shūrai Ekotoba* (c. 1293) | H | — | Secondary GEN: Chipangu's golden palace *as imagined* (LdM lens) |
+| III-1 | Takezaki Suenaga's men board a Yuan ship, 1281 | **PD** | *Mōko Shūrai Ekotoba* (c. 1293), scroll 2, Kyushu University copy | H | — | The scroll paints the fighting, not the typhoon (S-11: no storm scene exists). Secondary GEN: Chipangu's golden palace *as imagined* (LdM lens) |
 | III-2 | Junks lift their rudders in the shoal strait | GEN | Javanese temple relief | L | Raisable axial rudders; mangrove coast; Malay perahu | — |
 | III-3 | Five months stranded at Samara | GEN | Javanese / Sumatran relief | L | Junks at anchor; toddy-tappers; monsoon sky; a **modest** camp | Stockade and 2,000 men are Ramusio-only |
 | III-4 | Pilgrims climbing Adam's Peak on iron chains | GEN | Polonnaruwa murals | P | Buddhist and Muslim pilgrims together | Dual tradition; don't resolve it |
 | III-5 | Pearl divers and the shark-charmer | GEN | Chola temple mural | L | Gulf of Mannar boats; stone weights; Brahman charmer on deck | The charm is belief |
 | III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Smoke-signal relay; families aboard | — |
-| III-7 | The rukh carrying off an elephant | **PD** | al-Qazwini, *'Aja'ib al-makhluqat* | P | — | Legend; Aepyornis in caption |
+| III-7 | The rukh carrying off an elephant | GEN | Persian *'aja'ib* painting (al-Qazwini manuscripts); S-11 found no PD copy free for commercial use | P | Elephant in the bird's talons; sea and coast below | Legend; Aepyornis in caption |
 | III-8 | The wind-catchers of Hormos at noon | GEN | Baghdad school (al-Wasiti) | L | Old mainland Hormuz; *bād-gīr* towers as a type | — |
 | III-9 | Kublai gives the Polos golden tablets; Cocachin and the fleet | GEN | YC | H | 'Phags-pa paiza; Cocachin **unmarried: braids, no *boqta*** (S-05); Cublay c. 75; 13 junks | Port and year (1291 vs 1292) debated |
 | III-10 | Jewels ripped from the seams of the Tartar coats | GEN | Venetian Gothic | P | 1295 Veneto-Byzantine interior; **no Salute domes** | Ramusio's legend |
-| III-11 | Columbus's annotated copy | **PD** | Postils, Biblioteca Colombina (or the 1477 Creussner woodcut) | P | — | Annotation date debated |
-| III-12 | Caravan of the Catalan Atlas (1375) | **PD** | Cresques workshop | H | — | Often read as the Polos; that is uncertain |
+| III-11 | Columbus's annotated copy | **PD** | Postils, Biblioteca Colombina (CC BY-SA photograph); alternative: the 1477 Creussner woodcut in Dibdin's 1822 facsimile | P | — | Annotation date debated |
+| III-12 | Caravan of the Catalan Atlas (1375) | **PD** (BnF fee) | Cresques workshop | H | — | Often read as the Polos; that is uncertain. Its inscription says it left Sarai for Cathay |
 
 ### Secondary plates (optional, about 25; pick after the heroes)
 
@@ -108,7 +110,8 @@ Abbreviations:
   - Diamond valley (III-6, LdM)
   - Cocachin's farewell (III-9, JT)
   - Marco's will, 1324 (III-10)
-  - Fra Mauro at his map (III-11; or PD of the map itself)
+  - Fra Mauro at his map (III-11; or PD of the map itself, from Naya's 1873 photographic facsimile, since a Marciana image carries an Italian heritage fee: `registry/pd-sources.md`)
+- **Licence note (S-11):** every LdM-based secondary that reproduces a real miniature uses a BnF scan, so the BnF fee applies; GEN plates in the LdM idiom do not.
 
 ## Pipeline
 
@@ -123,6 +126,8 @@ flowchart LR
   U --> F[plates/vol-ch-slug.png<br/>+ .yaml sidecar]
   F --> A[ATTRIBUTIONS row<br/>+ LaTeX caption]
 ```
+
+Generation routes, per-plate tasks and the full review checklist (S-10): `tasks/cross/PLT-plates.md`, `image-generation-guide.md` and `illustration-style-guide.md` § Review checklist.
 
 The review step uses the scene's "must get right" and "caution" columns as a checklist. Usual failures:
 - garbled script appearing anyway;
@@ -191,3 +196,8 @@ Three plates across very different traditions test whether the chosen generator 
 ```
 
 Judge each pilot plate on idiom fidelity, period errors, and whether a reader could mistake it for a real artifact (the caption must prevent that). Lock the generator and settings only after all three pass.
+
+*S-10 result (2026-11-10):*
+- **Passed:** Pilot 2 (II-13) and Pilot 3 (III-5) with Akool Flux Krea plus a negative prompt (`media/plates/`).
+- **Failed:** Pilot 1 (I-7). The model draws Safavid-style turbaned riders, not *Jami' al-Tawarikh* Mongols, in 8 of 8 seeds.
+- **Ilkhanid, resolved the same day:** Gemini chat with `media/plates/prompts/I-7-chat.txt` plus one corrective follow-up passed (I-7 accepted). I-6, I-9, I-12, II-11, II-15 and III-9's Ilkhan half use that route.

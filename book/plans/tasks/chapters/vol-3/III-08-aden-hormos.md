@@ -47,7 +47,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** the Soldan of Aden (Rasulid sultan of Yemen), the Soldan of Babylon (Mamluk sultan of Egypt), the Melic of Hormos; Cocachin (mentioned); comparative sources: Ibn Battuta, Duarte Barbosa
 
 ## Gated by spikes
-- S-01, S-02, S-03 (tag line, ★, Comparative block), S-04 (Calatu, Kis, glosses), S-06 (n7), S-08, S-10
+- S-01, S-02, S-03 (tag line, ★, Comparative block), S-04 (Calatu, Kis, glosses), S-06 (n7), S-08, S-10 ✓
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

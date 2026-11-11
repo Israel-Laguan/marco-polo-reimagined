@@ -54,7 +54,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-05 Character registry (three Polos and Kublai in hero plate)
 - S-06 Fact verification sheet (Baibars's reign, F-39)
 - S-08 LaTeX build pipeline (D table, plates)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

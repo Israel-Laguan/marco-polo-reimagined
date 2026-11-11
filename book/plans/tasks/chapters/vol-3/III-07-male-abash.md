@@ -41,14 +41,14 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found (2,742 words; scorecard: "Good disputes")
 
 ## Media hooks
-- **Hero plate:** III-7 *The rukh carrying off an elephant* — **PD**, al-Qazwini, *'Aja'ib al-makhluqat*, portrait; caption: legend; Aepyornis — see `illustration-plan.md`. (Critique §4's ★ pick was a "Ruc feather" at Kublai's court — Ramusian and legendary; caption as a court curiosity.)
+- **Hero plate:** III-7 *The rukh carrying off an elephant* — **GEN** in the Persian *'aja'ib* idiom (al-Qazwini manuscripts), portrait; S-11 found no PD copy free for commercial use; caption: legend; Aepyornis — see `illustration-plan.md`. (Critique §4's ★ pick was a "Ruc feather" at Kublai's court — Ramusian and legendary; caption as a court curiosity.)
 - **Secondary plates:** none in plan. Critique §4 options not adopted: Scotra whale hunt (Ramusian detail), the giraffe (not Madagascar)
 - **Maps:** none placed here
 - **Timelines / diagrams / tables:** critique §5 item 6 proposes a "Madeigascar vs Magadoxo" table (camels, elephants, sheikhs, giraffes, current) — not in the multimedia plan's D list; critique §5 item 2 links the monsoon diagram (C11) to ch-07:25 (Madagascar current: 20 days out, more than 3 months back)
 - **Characters appearing:** the Soldan of Aden, the bishop of Abash (unnamed), St Thomas; comparative sources: Niccolò de' Conti, Fra Mauro, Ibn Battuta, Duarte Barbosa
 
 ## Gated by spikes
-- S-01, S-02, S-03 (tag line, Ramusio flag, ★, Comparative block), S-04 (Abash, Chamba), S-06 (Ramusian whale hunt), S-08, S-09 (only if the C11 / Madeigascar table hooks are adopted), S-11 (PD hero)
+- S-01, S-02, S-03 (tag line, Ramusio flag, ★, Comparative block), S-04 (Abash, Chamba), S-06 (Ramusian whale hunt), S-08, S-09 (only if the C11 / Madeigascar table hooks are adopted), S-11 ✓ (hero moved to GEN)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

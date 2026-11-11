@@ -48,7 +48,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** the queen of Mutfili (Rudrama Devi, per Yule; Ganapati), St Thomas, Kublai (mentioned), Cocachin (mentioned); comparative sources: Niccolò de' Conti, Ibn Battuta, Duarte Barbosa, Rashid al-Din
 
 ## Gated by spikes
-- S-01, S-02, S-03, S-04 (Semenat, Mutfili/Lar rows, A17), S-05 (Rudrama Devi name/date), S-06 (n5, n6), S-07 (over length), S-08, S-09 (A17, C10), S-10
+- S-01, S-02, S-03, S-04 (Semenat, Mutfili/Lar rows, A17), S-05 (Rudrama Devi name/date), S-06 (n5, n6), S-07 (over length), S-08, S-09 (A17, C10), S-10 ✓
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

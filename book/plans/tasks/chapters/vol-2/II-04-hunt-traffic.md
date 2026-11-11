@@ -36,7 +36,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - W4 re-voice order: Vol. II batch position 3 of 14 after the II-2 pilot. — content plan W4
 
 ## Media hooks
-- **Hero plate:** Kublai hunting — **PD**, Liu Guandao, *Khubilai Khan Hunting* (1280), handscroll — see `illustration-plan.md`.
+- **Hero plate:** Kublai hunting — **PD**, Liu Guandao, *Khubilai Khan Hunting* (1280), hanging scroll, portrait (S-11; `PLT.II-04`) — see `illustration-plan.md`.
 - **Secondary plates:** GEN "Sire! Look out for Cranes!" from the elephant litter (plan's Vol. II secondaries; critique §4 ★ scene, anchor :33: roof of the timber chamber thrown open, gerfalcon cast, Toscaol watchers in pairs; spring marshes south-east of Dadu). Critique §4 further candidates: red and blue hound corps (:21; caution: 10,000 men per brother inflated); tiger hunt (:15; "label it a tiger").
 - **Maps:** A8 Seasonal orbit (Dadu ↔ Shangdu ↔ Cachar Modun, month labels, 28 August libation; II-4 / I-13).
 - **Timelines / diagrams / tables:** — none assigned. Existing `drawing-chandu-palace.png` is suggested for ch-04 by critique §5 ("if not already used in Vol. I ch-13"), but the multimedia plan retires all `drawing-*.png` (wrong style, too small; period errors include "a Renaissance villa at Shangdu").
@@ -51,7 +51,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (*Milione* name reading, aligned with III-10)
 - S-08 LaTeX build pipeline (plates, map)
 - S-09 Map and diagram pipeline (A8)
-- S-10 Image generation pilot (GEN secondary)
+- S-10 ✓ Image generation pilot (GEN secondary)
 - S-11 Public-domain artwork sourcing and licensing (Liu Guandao)
 
 ## Tasks

@@ -57,7 +57,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (nit 3 Istanit, nit 5 £193)
 - S-08 LaTeX build pipeline (D table, plate)
 - S-09 Map and diagram pipeline (A4)
-- S-10 Image generation pilot (GEN hero)
+- S-10 ✓ Image generation pilot (GEN hero)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

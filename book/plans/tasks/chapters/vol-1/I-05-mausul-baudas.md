@@ -58,7 +58,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (m11 Mosul: Yule's 1261 kept, F-02)
 - S-08 LaTeX build pipeline (D table, plates)
 - S-09 Map and diagram pipeline (A4)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

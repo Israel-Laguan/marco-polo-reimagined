@@ -57,7 +57,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-05 Character registry (Marco in a candidate secondary plate)
 - S-08 LaTeX build pipeline (D table, plate)
 - S-09 Map and diagram pipeline (A5)
-- S-10 Image generation pilot (GEN hero)
+- S-10 ✓ Image generation pilot (GEN hero)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

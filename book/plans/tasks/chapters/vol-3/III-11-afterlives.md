@@ -49,7 +49,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Christopher Columbus; Paolo Toscanelli (to be added); Cresques Abraham; Fra Mauro; Francesco Pipino; Giovanni Battista Ramusio; Matteo Ricci; Bento de Góis (to be added); Marco Polo; Rustichello; Cocachin and Ahmad (mentioned)
 
 ## Gated by spikes
-- S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 (Fra Mauro GEN option), S-11 (PD hero; Fra Mauro PD option)
+- S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 ✓ (Fra Mauro GEN option), S-11 (PD hero; Fra Mauro PD option)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

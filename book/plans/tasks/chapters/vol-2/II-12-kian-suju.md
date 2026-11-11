@@ -53,7 +53,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Mar Sargis at Zhenjiang, F-10 in part; N8)
 - S-08 LaTeX build pipeline (plate, map)
 - S-09 Map and diagram pipeline (A12)
-- S-10 Image generation pilot (GEN hero)
+- S-10 ✓ Image generation pilot (GEN hero)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

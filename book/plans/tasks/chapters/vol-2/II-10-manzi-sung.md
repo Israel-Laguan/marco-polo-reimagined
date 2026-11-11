@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Bayan 1268 vs 1273–74; epigraph wording)
 - S-08 LaTeX build pipeline (plate, map, timeline)
 - S-09 Map and diagram pipeline (A12, B4; unassigned canal/salt diagrams)
-- S-10 Image generation pilot (GEN hero)
+- S-10 ✓ Image generation pilot (GEN hero)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

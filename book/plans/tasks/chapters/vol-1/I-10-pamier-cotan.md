@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-04 Gazetteer authority (Vocan, Pamier, Cascar, Yarcan, Cotan, Pein; missing rows; A5)
 - S-08 LaTeX build pipeline (plates, A5 figure)
 - S-09 Map and diagram pipeline (A5)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

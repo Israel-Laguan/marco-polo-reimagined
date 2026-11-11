@@ -54,8 +54,8 @@ plans/
 | [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | **closed** 2026-11-10 (I-12 not split, told as scenes; front/back role matrix; III-10 to III-12 section plans; length policy in `VOICE-GUIDE.md`) | S-01 ✓ | the affected files |
 | [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | **closed** 2026-11-10 (`tools/build/`; `registry/markdown-conventions.md`; 6×9 in, Noto Serif, endnotes per chapter, one PDF per volume) | toolchain ✓ (installed 2026-11-10) | `BLD`; `.T5`; `TBL` |
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | **closed** 2026-11-10 (`tools/media/`; pilots A1, A16, B5; visual system in `multimedia-plan.md`) | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
-| [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | open | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
-| [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | open | — | `PLT` (PD) |
+| [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | **closed** 2026-11-10 (Akool Flux Krea; Ilkhanid via Gemini chat; I-7, II-13, III-5 accepted; tasks in `PLT`) | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
+| [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | **closed** 2026-11-10 (`registry/pd-sources.md`, masters in `media/public-domain/`; 6 PD heroes, III-7 to GEN; I-2 and III-12 need a BnF licence) | — | `PLT` (PD) |
 | [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; pass A applied, pass B after S-12) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
 | [S-25](spikes/S-25-confirm-cited-works.md) | Confirm the four unconfirmed works already cited (de Rachewiltz 1997, Dutschke, Atwood, Nancun chuogeng lu) | open (prompt ready) | — | 11 citations; bib status |
 | [S-26](spikes/S-26-modern-locators.md) | Chapter locators in the five most-cited modern books (human reading) | open | S-24 pass B ✓ | locators and misattributions in the Notes |
@@ -77,7 +77,7 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 | [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 (PD candidates) | III-11, all trivia files; `DIA` B5 |
 | [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
 | [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | open | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
-| [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | open | S-22, S-10 | shortlist for deep dives; scene coverage for the 34 GEN plates |
+| [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | open | S-22, S-10 | shortlist for deep dives; scene coverage for the 35 GEN plates |
 
 All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 first (bibliography keys), then S-14 (S-06 closed without it on 2026-11-03; only its still-open rows remain). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
 
@@ -85,9 +85,9 @@ All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 fir
 
 | Wave | Spikes | Notes |
 |---|---|---|
-| 1 | S-02 ✓, S-03 ✓, S-04 ✓, S-06 ✓, S-11, S-08 ✓ | No dependencies; can run in parallel. Only S-11 remains in this wave. |
+| 1 | S-02 ✓, S-03 ✓, S-04 ✓, S-06 ✓, S-11 ✓, S-08 ✓ | No dependencies; can run in parallel. Wave complete. |
 | 2 | S-01 ✓, S-05 ✓, S-09 ✓ | S-01 is the most important spike: it unlocks the bulk of the work. Wave complete. |
-| 3 | S-07 ✓, S-10 | |
+| 3 | S-07 ✓, S-10 ✓ | |
 
 ## Ready now (no spike needed)
 
@@ -121,7 +121,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 |---|---|---|
 | [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | S-04 ✓, S-09 ✓ |
 | [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; open facts in `CHR.T7` (library; S-15) |
-| [PLT](tasks/cross/PLT-plates.md) | Drawings: 34 GEN + 7 PD heroes, secondaries, legacy retirement | S-10, S-11 |
+| [PLT](tasks/cross/PLT-plates.md) | Drawings: 35 GEN + 6 PD heroes, secondaries, legacy retirement | S-10 ✓, S-11 ✓ |
 | [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 | S-09 ✓ |
 | [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 ✓ (`TBL.T1` style done) |
 | [GAZ](tasks/cross/GAZ-gazetteer.md) | Gazetteer | S-04 |

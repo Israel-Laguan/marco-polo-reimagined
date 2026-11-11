@@ -54,7 +54,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Kiacatu, Baidu, Ghazan 1295, Baraq/Abaqa dates)
 - S-08 LaTeX build pipeline (plates, map, diagram)
 - S-09 Map and diagram pipeline (A14, C8)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

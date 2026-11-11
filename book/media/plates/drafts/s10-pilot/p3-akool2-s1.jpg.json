@@ -1,0 +1,13 @@
+{
+ "prompt": "Chola temple mural painting, Brihadishvara Thanjavur, 11th-13th century: flat ochre, red, green and black, strong dark outline, figures in profile and three-quarter view, frieze-like register, smooth plaster ground with light even weathering. Pearl divers dive head-first from small boats into a green gulf, net bags at their waists and stones in their hands; on the lead boat a Brahman priest with a sacred thread chants with raised hands while two merchants watch; stylised flat sharks circle below. Tamil coastal men in dhotis.",
+ "params": {
+  "prompt": "Chola temple mural painting, Brihadishvara Thanjavur, 11th-13th century: flat ochre, red, green and black, strong dark outline, figures in profile and three-quarter view, frieze-like register, smooth plaster ground with light even weathering. Pearl divers dive head-first from small boats into a green gulf, net bags at their waists and stones in their hands; on the lead boat a Brahman priest with a sacred thread chants with raised hands while two merchants watch; stylised flat sharks circle below. Tamil coastal men in dhotis.",
+  "scale": "4:3",
+  "resolution": "4k",
+  "negative_prompt": "text, script, inscription, writing, deity, god, crown, halo, heavy damage, peeling paint, cartoon, teeth, photograph, 3d render",
+  "_id": "6af3b09651e26737e1e1e113",
+  "model": "wavespeed-ai/flux-krea-dev-lora",
+  "credit": 4
+ },
+ "secs": 39.0
+}

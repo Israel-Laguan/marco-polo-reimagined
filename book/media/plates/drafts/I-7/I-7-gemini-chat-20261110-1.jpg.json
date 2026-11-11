@@ -1,0 +1,15 @@
+{
+ "prompt_file": "media/plates/prompts/I-7-chat.txt",
+ "params": {"generator": "Gemini app (chat)", "model": "unrecorded", "reference_image": "none", "size": "1200x896"},
+ "date": "2026-11-10",
+ "review": {
+  "script": "pass; one tiny stray 'vJ' mark inside the frame, bottom left, to retouch",
+  "period": "pass: lamellar coats, fur-trimmed hats, bows and quivers, Mongol faces; Franks in soft caps, tunics and hooded cloaks; no turbans",
+  "scene": "partial: raiders burst from the dust storm, one with a raised lance; 3 merchants match the cards; but the youngest does not look back, and all three trot calmly with hands on chest, so it reads as a procession, not flight",
+  "idiom": "good: band composition on buff paper, ribbon cloud bands, low ground line, tuft plants; cleaner and flatter than real JT (no silver, even line)",
+  "aging": "light and even; a crease or stain at bottom centre, outside the band (crop it)",
+  "artifact_risk": "low-medium: the neat line reads as modern",
+  "print": "1200x896; the band crop is ~1120x440, so it needs x1.2 or more to reach 1350 wide"
+ },
+ "verdict": "best Ilkhanid result so far; re-roll in the same chat to fix the pursuit beat"
+}

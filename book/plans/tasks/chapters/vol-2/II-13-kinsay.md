@@ -56,7 +56,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-07 Structure and length decisions (over length)
 - S-08 LaTeX build pipeline (plates, map, D table)
 - S-09 Map and diagram pipeline (A12; unassigned metrology diagram)
-- S-10 Image generation pilot (**hero is Pilot 2**; GEN secondary)
+- S-10 ✓ Image generation pilot: **hero done**, `media/plates/II-13-west-lake-barges.png` (2:1 spread); GEN secondary still to do
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

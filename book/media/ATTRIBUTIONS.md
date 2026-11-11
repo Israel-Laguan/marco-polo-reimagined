@@ -26,4 +26,14 @@ Not historical documents; project plates:
 | `drawing-indian-ocean-schematic.png` / `map-indian-ocean.png` / `.jpg` | Schematic Indian Ocean / return |
 | `drawing-kinsay-west-lake.png` / `map-hangzhou-kinsay.png` / `.jpg` | Kinsay / West Lake atmosphere plate |
 
+## Generated plates (regional idioms — S-10 onward)
+
+Modern illustrations in period manners, not historical artifacts. Full prompt, model and job id in each sidecar `.yaml`.
+
+| Local file | Plate | Tradition | Generator |
+|------------|-------|-----------|-----------|
+| `plates/I-7-carauna-escape.png` | I-7 Marco escapes the Caraunas | Ilkhanid manuscript painting | Gemini app (chat), 2026-11-10 |
+| `plates/II-13-west-lake-barges.png` | II-13 Pleasure barges on the West Lake | Song–Yuan city-genre handscroll | Akool, flux-krea-dev-lora, 2026-11-10 |
+| `plates/III-5-pearl-divers.png` | III-5 Pearl divers and the shark-charmer | Chola temple mural | Akool, flux-krea-dev-lora, 2026-11-10 |
+
 Chapter captions point here via: `(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)` or note generated plates where relevant.

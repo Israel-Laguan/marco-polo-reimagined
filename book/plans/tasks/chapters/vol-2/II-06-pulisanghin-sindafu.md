@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Juju bearing)
 - S-08 LaTeX build pipeline (plates, map)
 - S-09 Map and diagram pipeline (A10)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

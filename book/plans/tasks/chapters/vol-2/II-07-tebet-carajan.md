@@ -54,7 +54,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (1277–80 dating for the new aside)
 - S-08 LaTeX build pipeline (plates, map, chart)
 - S-09 Map and diagram pipeline (A11, C9)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

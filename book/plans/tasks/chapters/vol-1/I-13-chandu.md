@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-05 Character registry (Kublai in secondary plate)
 - S-08 LaTeX build pipeline (C16, plates, maps)
 - S-09 Map and diagram pipeline (A6, A8, C16)
-- S-10 Image generation pilot (GEN hero and secondary; C16 base)
+- S-10 ✓ Image generation pilot (GEN hero and secondary; C16 base)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

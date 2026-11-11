@@ -1,0 +1,29 @@
+plate: III-5
+title: Pearl divers and the shark-charmer
+status: pilot-accepted   # S-10 pilot 3
+tradition: Chola temple mural (Brihadishvara, Thanjavur)
+caption: >-
+  Pearl divers in the Gulf of Mannar, with the charmer on deck. Modern illustration in the
+  manner of a Chola temple mural. Not a historical artifact.
+generator: Akool direct API (POST /api/open/v4/content/image/createBySourcePrompt)
+model: wavespeed-ai/flux-krea-dev-lora
+job_id: 6af3b0f651e26737e1e1e5a9
+date: 2026-11-10
+params: {scale: "4:3", resolution: 4k, credits: 4}
+prompt: >-
+  Chola temple mural painting, Brihadishvara Thanjavur, 11th-13th century: flat ochre, red,
+  green and black, strong dark outline, figures in profile and three-quarter view, frieze-like
+  register, smooth plaster ground with light even weathering. Pearl divers dive head-first from
+  small boats into a green gulf, net bags at their waists and stones in their hands; on the lead
+  boat a Brahman priest with a sacred thread chants with raised hands while two merchants watch;
+  stylised flat sharks circle below. Tamil coastal men in dhotis.
+negative_prompt: >-
+  text, script, inscription, writing, deity, god, crown, halo, heavy damage, peeling paint,
+  cartoon, teeth, photograph, 3d render
+post: Raw 1536x1152 JPEG → PNG. Already ≥1350 px wide, so no upscale for a half-page plate.
+review:
+  idiom: fair — right palette, outline and plaster; figures are stockier and folkier than the Thanjavur line
+  period: pass — dhotis, stone weights, plain boats; no deities (round 1 put crowned figures in every seed)
+  script: none
+  artifact_risk: medium — weathering is light and even, as the guide asks
+  scene: diver with stones, raised-hand figure on deck; the sacred thread is not legible; sharks still show teeth

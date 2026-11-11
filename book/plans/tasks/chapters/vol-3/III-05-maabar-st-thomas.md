@@ -49,7 +49,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Sonder Bandi Davar (Sundara Pāṇḍya), the five royal brothers (unnamed), St Thomas the Apostle; comparative sources: Rashid al-Din, Ibn Battuta, Duarte Barbosa, Odoric, Niccolò de' Conti, Montecorvino
 
 ## Gated by spikes
-- S-01, S-02, S-03 (Ramusio flag, Notes swap, ★), S-04 (Maabar gloss, Mailapur/Kis rows, A17), S-06 (Pacauta fidelity), S-08, S-09 (A17), S-10
+- S-01, S-02, S-03 (Ramusio flag, Notes swap, ★), S-04 (Maabar gloss, Mailapur/Kis rows, A17), S-06 (Pacauta fidelity), S-08, S-09 (A17), S-10 ✓ (**hero done**: `media/plates/III-5-pearl-divers.png`)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

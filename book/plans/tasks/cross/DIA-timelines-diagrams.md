@@ -43,7 +43,7 @@ Timelines (TikZ from YAML), schematic diagrams (TikZ), data charts (Python), and
 - C12 labels "thirteen" as the Book's number; the Quanzhou wreck is not a source yet (F-14).
 
 ## Gated by spikes
-S-09 ✓ (pipeline, 2026-11-10) · S-06 ✓ (dates, closed 2026-11-03) · S-10 (cutaway bases) · S-08
+S-09 ✓ (pipeline, 2026-11-10) · S-06 ✓ (dates, closed 2026-11-03) · S-10 ✓ (cutaway bases are `PLT.C12`–`C16`, Akool route) · S-08
 
 ## Tasks
 S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (values in `tools/media/style.yaml`).
@@ -121,23 +121,23 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Do:** NE Nov–Mar / SW May–Sep; the calendar strip uses the same 1291/1292 span as B3.
 
 ### DIA.C12 — Seagoing junk cutaway
-- **Status:** backlog · **Placement:** III-1 (preview II-14) · **Depends:** S-09 ✓, S-10 base plate
+- **Status:** backlog · **Placement:** III-1 (preview II-14) · **Depends:** S-09 ✓, base plate `PLT.C12`
 - **Do:** Labels in TikZ over the plate; "thirteen" as the Book's number (F-14).
 
 ### DIA.C13 — Sewn-plank ship of Hormos
-- **Status:** backlog · **Placement:** I-7 · **Depends:** S-09 ✓, S-10 base plate
+- **Status:** backlog · **Placement:** I-7 · **Depends:** S-09 ✓, base plate `PLT.C13`
 - **Do:** Coir stitching, hide deck with horses.
 
 ### DIA.C14 — Traction vs counterweight trebuchet
-- **Status:** backlog · **Placement:** II-11 · **Depends:** S-09 ✓, S-10 base plate
+- **Status:** backlog · **Placement:** II-11 · **Depends:** S-09 ✓, base plate `PLT.C14`
 - **Do:** Two machines side by side.
 
 ### DIA.C15 — Qanat cross-section
-- **Status:** backlog · **Placement:** I-8 · **Depends:** S-09 ✓, S-10 base plate
-- **Do:** Could be pure TikZ (no plate) if S-10 is late.
+- **Status:** backlog · **Placement:** I-8 · **Depends:** S-09 ✓, base plate `PLT.C15`
+- **Do:** Could be pure TikZ (no plate) if `PLT.C15` is late.
 
 ### DIA.C16 — Cane palace roof
-- **Status:** backlog · **Placement:** I-13 · **Depends:** S-09 ✓, S-10 base plate
+- **Status:** backlog · **Placement:** I-13 · **Depends:** S-09 ✓, base plate `PLT.C16`
 - **Do:** Split bamboo tiles.
 
 ### DIA.C17 — Seasonal orbit (was map A8)

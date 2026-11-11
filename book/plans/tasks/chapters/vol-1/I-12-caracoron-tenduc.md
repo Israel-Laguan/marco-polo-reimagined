@@ -58,7 +58,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-07 Structure and length decisions (I-12 split)
 - S-08 LaTeX build pipeline (C4, D table, plates)
 - S-09 Map and diagram pipeline (A6, C4)
-- S-10 Image generation pilot (GEN hero and secondary)
+- S-10 ✓ Image generation pilot (GEN hero and secondary)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

@@ -1,0 +1,30 @@
+plate: I-7
+title: Marco escapes the Caraunas in the darkness
+status: pilot-accepted   # S-10 pilot 1
+tradition: Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14)
+caption: >-
+  Caraunas ride out of the dust-darkness on the plain of Kerman; Marco and the two elder Polos
+  flee toward a walled village. Modern illustration in the manner of Ilkhanid manuscript
+  painting. Not a historical artifact.
+generator: Gemini app (chat); model version not shown by the app
+job_id: none   # chat output; the file is the only handle
+date: 2026-11-10
+params: {size: 1200x896, reference_image: none, turns: 2}
+prompt: media/plates/prompts/I-7-chat.txt
+follow_up: >-
+  Keep this exact style, frame, palette, raiders and village. Change only the three Venetian
+  merchants: they are fleeing in alarm. All three horses at full gallop, legs stretched out,
+  manes and cloaks streaming behind. The young beardless rider in red twists round in the
+  saddle, torso and head turned back toward the raiders, one hand gripping the reins. The two
+  older men lean forward low over their horses' necks, faces anxious. Widen the gap between
+  raiders and merchants slightly. Remove the small mark near the bottom-left corner of the
+  frame. No writing anywhere.
+post: Raw 1200x896 → Lanczos ×1.125 to 1350x1008 + light unsharp (ImageMagick). Lossless PNG master.
+review:
+  idiom: good — band on buff paper, ribbon cloud and dust bands, low ground line, tuft plants; cleaner and flatter than the real JT
+  period: pass — lamellar coats, fur-trimmed hats, bows and quivers, Mongol faces; Franks in soft caps, tunics and hooded cloaks; no turbans
+  script: none (the round-1 stray mark is gone)
+  artifact_risk: low-medium — the even modern line gives it away
+  figures: Marco beardless, dark-haired, with purse, glancing back (head only, not the full twist asked for); Niccolò heavy-set and greying; Maffeo lean with a long dark beard. Niccolò's horse is hidden behind Marco's (only its grey legs show); acceptable stacking for the idiom
+  scene: pursuit reads; the raiders themselves still trot rather than charge
+  print: faces ~25 px at final size; legible as figures, no smearing

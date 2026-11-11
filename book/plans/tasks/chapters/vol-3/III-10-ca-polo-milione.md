@@ -48,7 +48,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco, Niccolò and Maffeo Polo; Donata (Badoer); daughters Fantina, Bellela, Moreta; Peter the Tartar; Thibault de Cepoy; Charles of Valois; Pietro d'Abano; Jacopo d'Acqui; Francesco Pipino; Giovanni Giustiniani (notary); Marco Bragadin; Giovanni Battista Ramusio
 
 ## Gated by spikes
-- S-01, S-02, S-03 (*[reception]* tag, ★, Comparative block), S-05 (Donata Badoer and family in the will plate), S-06 (Donata F-16; Pipino date F-18), S-07 (reception chapter; over length), S-08, S-09 (only if B5 is also placed here), S-10
+- S-01, S-02, S-03 (*[reception]* tag, ★, Comparative block), S-05 (Donata Badoer and family in the will plate), S-06 (Donata F-16; Pipino date F-18), S-07 (reception chapter; over length), S-08, S-09 (only if B5 is also placed here), S-10 ✓
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

@@ -38,14 +38,14 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found (2,294 words; scorecard verdict "Strong and faithful")
 
 ## Media hooks
-- **Hero plate:** III-1 *The 1281 typhoon wrecks the Yuan fleet* — **PD**, *Mōko Shūrai Ekotoba* (c. 1293), handscroll — see `illustration-plan.md`. Critique §4 period notes for the 1281 storm: use the scroll for samurai and Mongol/Korean ships; stone anchors from the Takashima wreck; do not depict the "false-banner capture of the capital" as history. (Critique's own ★ pick was "Saving a holed junk": the whale-strike cause is Ramusian folklore — show a reef.)
+- **Hero plate:** III-1 *Takezaki Suenaga's men board a Yuan ship, 1281* — **PD**, *Mōko Shūrai Ekotoba* (c. 1293), scroll 2, Kyushu University copy, handscroll — see `illustration-plan.md`. S-11: the scrolls have **no typhoon scene**, so the hero changed; the caption says so (`registry/pd-sources.md`). Critique §4 period notes for the 1281 storm: use the scroll for samurai and Mongol/Korean ships; stone anchors from the Takashima wreck; do not depict the "false-banner capture of the capital" as history. (Critique's own ★ pick was "Saving a holed junk": the whale-strike cause is Ramusian folklore — show a reef.)
 - **Secondary plates:** Chipangu's golden palace *as imagined* (GEN, LdM lens) — Latin manuscript-illumination idiom, not Kamakura architecture; caption as rumour
 - **Maps:** **A15** Invasions of Japan, 1274/1281 (Korean and Chinese fleets, Hakata Bay, Takashima)
 - **Timelines / diagrams / tables:** **C12** seagoing-junk cutaway (13 compartments, axial rudder, batten sails); **D** "Japan 1274/1281: Polo vs Japanese and Yuan sources" (commanders, storm, outcome, date); critique §5 item 2 links the monsoon diagram (C11) to ch-01:41 ("two winds"). Existing `drawing-manzi-junk.png`: usable with caveats (Western galleried stern, portholes, five masts) per critique, but multimedia plan retires all `drawing-*.png`. Glossary: Chipangu (Jih-pên-kuo).
 - **Characters appearing:** Marco Polo, Kublai (Cublay), Abacan, Vonsainchin; also named: Columbus; comparative sources: Niccolò de' Conti, Odoric, Ibn Battuta, Rashid al-Din
 
 ## Gated by spikes
-- S-01, S-02, S-03, S-04 (Manzi, Cheinan, A15), S-06 (m11, m12, n10 wreck F-14 open), S-08, S-09 (A15, C12), S-10 (GEN secondary, C12 base), S-11 (PD hero)
+- S-01, S-02, S-03, S-04 (Manzi, Cheinan, A15), S-06 (m11, m12, n10 wreck F-14 open), S-08, S-09 (A15, C12), S-10 ✓ (GEN secondary, C12 base), S-11 ✓ (`PLT.III-01`)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

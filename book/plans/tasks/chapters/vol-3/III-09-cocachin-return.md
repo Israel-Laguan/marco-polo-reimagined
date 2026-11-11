@@ -52,7 +52,7 @@ _Cross-ref: III-06 m10 may add the Pole Star "Cocachin-fleet landfall argument" 
 - **Character check (S-05):** at Cambaluc and Zayton (1290–91) Cocachin is a bride not yet married: braids, **no *boqta*** (the hero plate's "Cocachin in a *boqta*" is corrected in `illustration-plan.md`). The *boqta* is right for the farewell secondary (Persia, 1293–94, married to Casan). Ages: Cublay c. 75–76, Marco c. 37, Cocachin c. 17–18. Kublai is absent from every return-voyage scene. Cards: `plans/registry/character-cards.yaml`.
 
 ## Gated by spikes
-- S-01, S-02, S-03, S-04 (Negropont/Abhar rows, A16), S-05 (Polos, Kublai, Cocachin in plates; envoy names), S-06 (M1, 1291 debated F-15, n3, n4), S-08, S-09 (A16, C11), S-10
+- S-01, S-02, S-03, S-04 (Negropont/Abhar rows, A16), S-05 (Polos, Kublai, Cocachin in plates; envoy names), S-06 (M1, 1291 debated F-15, n3, n4), S-08, S-09 (A16, C11), S-10 ✓
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

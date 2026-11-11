@@ -58,7 +58,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-06 Fact verification sheet (Bolad knock-on; engineers; 1275)
 - S-08 LaTeX build pipeline (plate, map, timeline, cutaway, D tables)
 - S-09 Map and diagram pipeline (A12, B4, C14)
-- S-10 Image generation pilot (GEN hero; C14 cutaway base)
+- S-10 ✓ Image generation pilot (GEN hero; C14 cutaway base)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
