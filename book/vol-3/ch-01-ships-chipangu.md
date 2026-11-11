@@ -54,7 +54,7 @@ Thus Book III opens Volume III’s arc. The junks of Manzi — watertight rooms,
 
 [2] ✓ Manzi sea-junks of fir; multi-mast; single rudder; iron-nailed double planking; merchant cabins. Chinese junk construction broadly attested (Ibn Battuta; Jordanus; Conti). As cited in Yule: Conti [@yc, 3.3].
 
-[3] ✓ Watertight interior compartments isolating a leak. Major technical hit; Ramusio detail; Conti parallel; Needham naval China. ◇ / ✗ Whale deliberately staving ships for foam-food — folk embroidery on real bulkhead tech. As cited in Yule: Conti [@yc, 3.3].
+[3] ✓ Watertight interior compartments isolating a leak. Major technical hit; Ramusio detail; Conti parallel; Needham [-@needham1971civil] naval China. ◇ / ✗ Whale deliberately staving ships for foam-food — folk embroidery on real bulkhead tech. As cited in Yule: Conti [@yc, 3.3].
 
 [4] ✓ / ~ Lime–hemp–wood-oil caulking (*tong* oil tradition); crews 200–300; huge sweeps; tenders; layered repair to six planks. ✓ practice; ~ maxima and “six planks” as formula.
 

@@ -179,6 +179,8 @@ CONTEXT = {
     "de Rachewiltz": [(r"Secret History", "derachewiltz2004secret"), (r"Wood|presence|silence|debate|repl", "derachewiltz1997marco")],
     "Morgan": [(r"Rubruck|edition", "jackson1990mission"), (r"survey", "morgan1986mongols")],
     "Jackson": [(r"Rubruck|edition", "jackson1990mission"), (r"Mongols and the West", "jackson2005mongols")],
+    # only the volume Needham wrote: "Needham [-@tsien1985paper]" would print "Needham (1985)"; Tsien and Golas go by hand
+    "Needham": [(r"bulkhead|compartment|junk|naval|ship", "needham1971civil")],
 }
 WOOD_EXPLORER = re.compile(r"18[34]\d|Oxus|Badash|Pamir|Wakhan|lapis|Vocan|Bolor|Gordon|Trotter|Elphinstone|Moorcroft")
 WOOD_DEBATE = re.compile(r"Frances|Did Marco Polo|debate|scepti|Wood vs|Wood’s (case|thesis|questions)|sceptic|1995|silence")
@@ -224,7 +226,8 @@ def convert_names(lines, report, names):
             continue
         if not in_notes or not re.match(r"^\[\d+\]", line):
             continue
-        done, taken = set(), []          # keys cited in this Note; character spans already used
+        done = set(re.findall(r"@([\w:-]+)", line))  # keys already cited in this Note are not repeated
+        taken = []                                   # character spans already used
 
         def free(a, b):
             return all(b <= x or a >= y for x, y in taken)
@@ -272,9 +275,9 @@ def convert_names(lines, report, names):
             if key in done:
                 continue
             end = b
-            m = re.match(r"’s", line[end:])
+            m = re.match(r"’s|\*”?", line[end:])  # possessive, or the name closes an italic title (and a quote)
             if m:
-                end += 2
+                end += m.end()
             title = re.match(r",? (\(\*[^*]+\*\)|\*[^*]+\*)", line[end:])
             if title:
                 end += title.end()

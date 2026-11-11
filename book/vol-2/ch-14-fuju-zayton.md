@@ -80,7 +80,7 @@ And now you have heard all the truth about Cathay and Manzi and many other count
 
 [4] ✓ / ? Fuju = Fu-chau; key of Fo-kien “Chonka” — city ID firm; *Chonka* etymology unsettled. ~ / ✗ river ~1 mi through middle — Min width at places; “through middle” of walls soft. ✓ Indian goods reach Fuju via Zayton / Min — Geographic text sound without requiring foreign factor at Fu-chau.
 
-[5] ✓ Zayton = Quanzhou (T’swan-chau) — largely settled; gazetteer *visited*. Older Phillips Chang-chau fight superseded by Yule–Cordier, Bretschneider, Yuan *shi-po*, Rashīd, archaeology (Schottenhammer; Chen Dasheng). ✓ / ✗ one of two / the greatest world havens; 100× Alexandria pepper — order-of-magnitude greatness (Ibn Baṭṭūṭa); precise 100∶1 exaggerated. As cited in Yule: Phillips [@yc, 2.79]; Bretschneider [@yc, 2.80]; Ibn Baṭṭūṭa [@yc, 2.82].
+[5] ✓ Zayton = Quanzhou (T’swan-chau) — largely settled; gazetteer *visited*. Older Phillips Chang-chau fight superseded by Yule–Cordier, Bretschneider, Yuan *shi-po*, Rashīd, archaeology [@schottenhammer2001emporium; @chen1984quanzhou]. ✓ / ✗ one of two / the greatest world havens; 100× Alexandria pepper — order-of-magnitude greatness (Ibn Baṭṭūṭa); precise 100∶1 exaggerated. As cited in Yule: Phillips [@yc, 2.79]; Bretschneider [@yc, 2.80]; Ibn Baṭṭūṭa [@yc, 2.82].
 
 [6] ✓ / ~ import tithe 10%; freight 30–44% — high medieval freight/customs plausible. ✓ / ~ tattoo artists for Upper India visitors. ✗ / ~ Tyunju sole world porcelain source — exclusive locale wrong (Ching-tê-chên); cheap Fo-kien / re-export ware real.
 

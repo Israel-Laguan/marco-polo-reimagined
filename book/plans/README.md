@@ -56,7 +56,7 @@ plans/
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | **closed** 2026-11-10 (`tools/media/`; pilots A1, A16, B5; visual system in `multimedia-plan.md`) | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | **closed** 2026-11-10 (Akool Flux Krea; Ilkhanid via Gemini chat; I-7, II-13, III-5 accepted; tasks in `PLT`) | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | **closed** 2026-11-10 (`registry/pd-sources.md`, masters in `media/public-domain/`; 6 PD heroes, III-7 to GEN; no BnF licence, so I-2 and III-12 print from free facsimiles) | — | `PLT` (PD) |
-| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; pass A applied, pass B after S-12) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
+| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; passes A and B applied; B rerun with the S-12 map 2026-11-10) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
 | [S-25](spikes/S-25-confirm-cited-works.md) | Confirm the four unconfirmed works already cited (de Rachewiltz 1997, Dutschke, Atwood, Nancun chuogeng lu) | open (prompt ready) | — | 11 citations; bib status |
 | [S-26](spikes/S-26-modern-locators.md) | Chapter locators in the five most-cited modern books (human reading) | open | S-24 pass B ✓ | locators and misattributions in the Notes |
 
@@ -66,7 +66,7 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 
 | ID | Spike | Status | Feeds | Gates |
 |---|---|---|---|---|
-| [S-12](spikes/S-12-bibliography-editions.md) | Master bibliography, editions, translations | open | all R spikes (bib keys) | `registry/bibliography.bib`; citation policy; `BLD` biblatex |
+| [S-12](spikes/S-12-bibliography-editions.md) | Master bibliography, editions, translations | **closed** 2026-11-10 (162 entries; `sources.md`; name map handed to S-24; *Further reading* open) | all R spikes (bib keys) | `registry/bibliography.bib`; citation policy; `BLD` biblatex |
 | [S-13](spikes/S-13-scholarship-update.md) | State of the field 2013–2026 (incl. 2024 anniversary) | open | — | III-12, III-11, III-B1, I-01 |
 | [S-14](spikes/S-14-fact-verification-sweep.md) | Fact verification sweep (25 claims) | open | **S-06** | factual `.T1` in 17 files |
 | [S-15](spikes/S-15-venice-genoa-family.md) | Venice, Genoa and the Polo family record | open | S-05 | I-01, I-02, III-10; `CHR` |
@@ -208,4 +208,5 @@ A manuscript file is **done** when:
 | 2026-10-22 | People follow the S-04 naming rule: Yule's form where Polo names the person (*Cublay*, *Alaü*, *Argon*), else the modern form; gloss once per chapter; registry `registry/characters.yaml` + visual cards; plate prompts take figure lines from `tools/characters.py cue`; co-presence checked by `tools/characters.py ages` | S-05 |
 | 2026-10-22 | S-05 finalized: two people-research runs taken in (run 1 leads only; run 2 checked against Yule, DOIs and Formentin–Schiavon 2024). Settled dates are in the registry; the facts still open need library checks and moved to `CHR.T7` (family rows to S-15) | S-05 |
 | 2026-11-03 | Fact verification sheet = `registry/facts.md`: chapters state confirmed or corrected values plainly and still-open ones only in their hedge; a timeline prints only dates with a row there. Verdicts checked against `refs/`, the bibliography, the gazetteer and the CHR intakes, with no web research; the 8 open S-14 rows wait for library checks, not another search run | S-06 |
+| 2026-11-10 | Bibliography: modern editions cited beside YC are Eusebi–Burgio 2018 (F) and Burgio–Simion 2015 (Ramusio), both open access; Kinoshita 2016 for English. `registry/sources.md` is generated from the `.bib` (`tools/sources_index.py`); 3 orphan names left to the chapters' `.T4` | S-12 |
 | 2026-11-10 | Print build: pandoc + Lua filter + LuaLaTeX/biber, one PDF per volume (`tools/build/build.sh`); 6×9 in trim, 4.5×7.2 in text block; Noto Serif (Debian Junicode has no italic; Junicode upstream is an open option, `BLD.T7`), DejaVu Sans markers, Noto Serif CJK; Notes print as endnotes per chapter; base text "(YC 2.8)". Markdown shapes in `registry/markdown-conventions.md`: captions inside the image brackets, no bracketed Note numbers in prose, PNG/JPEG with true extensions and ≥ 1,350 px | user (install, fonts) + S-08 |

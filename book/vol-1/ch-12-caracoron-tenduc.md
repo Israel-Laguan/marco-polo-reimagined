@@ -70,7 +70,7 @@ Thus from Tangut’s northern gate the book has led through Caracoron’s digres
 
 [5] ✗ / ~ Chinghis chosen king in 1187; mild conqueror of eight provinces. ✗ Date wrong (birth ~1155/1162; *qaghan* 1202/1206). ~ Idealised early career colour. [@yc, 1.47].
 
-[6] ✓ / ◇ Unc Can = Toghrul Wang Khan of the Kerait under Prester John romance dress. *Secret History*; Rashid al-Din; Yule on Prester John.
+[6] ✓ / ◇ Unc Can = Toghrul Wang Khan of the Kerait under Prester John romance dress. *Secret History* [-@derachewiltz2004secret]; Rashid al-Din; Yule on Prester John.
 
 [7] ~ / ✗ Chinghis demanded Prester John’s daughter (1200); insulting refusal; camps on plain of Tanduc. ~ Garbled from failed ~1202 double marriage. ✗ As stated battle geography. [@yc, 1.48–49].
 

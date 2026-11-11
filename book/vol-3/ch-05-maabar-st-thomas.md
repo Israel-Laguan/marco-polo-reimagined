@@ -60,7 +60,7 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 [3] ~ / ✗ World’s pearls largely from this fishery — major source; exclusivity overstated. ~ / ◇ Second fishery ~300 miles in Sept–Oct — plausible sheltered site; not firmly fixed.
 
-[4] Comparative: Wassaf; Rashid; Ibn Battuta; Tennent; pearl-fishery histories (Stewart; Pridham). Yule: fishery account “still substantially correct.”. As cited in Yule: Wassaf, Tennent [@yc, 3.16].
+[4] Comparative: Wassaf; Rashid; Ibn Battuta; Tennent; pearl-fishery histories (Stewart; Pridham [-@pridham1849historical]). Yule: fishery account “still substantially correct.”. As cited in Yule: Wassaf, Tennent [@yc, 3.16].
 
 [5] ✓ / ~ Near-nakedness; no tailor craft stressed — light dress; absolute “never a tailor” soft. ✓ / ~ Royal gem collar; 104-bead prayer cord; *Pacauta* — gem display and *japā*; 104 for 108; *Bagavā* reading strong. ~ Pearl export ban; royal double-price monopoly — plausible fiscal policy.
 

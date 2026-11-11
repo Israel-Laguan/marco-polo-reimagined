@@ -78,7 +78,7 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [12] ✓ Notch harvest of white incense; trees like small firs (~ simile only; actual *Boswellia* not fir); sometimes sun-flow without notch. Birdwood on *Boswellia*; Arabian incense-route archaeology. As cited in Yule: Birdwood [@yc, 3.38].
 
-[13] ✓ / ~ Ibn Baṭṭūṭa at Dhafār: horse-trade, dirt, flies; sultan kin to Yemen. Marāṣid: death for diversion of incense. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36].
+[13] ✓ / ~ Ibn Baṭṭūṭa at Dhafār: horse-trade, dirt, flies; sultan kin to Yemen. Marāṣid [-@marasid1852]: death for diversion of incense. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36].
 
 [14] ✓ Calatu = Qalhāt; Hormuzi stronghold and refuge (Ibn Baṭṭūṭa; Teixeira; Portuguese *Calaiate*). Melic of Hormos flees hither in war — strong site and walls. Earthquake ruin later. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36]; Teixeira [@yc, 3.39].
 

@@ -54,7 +54,7 @@ Here the chapter stops short of the hunt and the litter and the traffic of a mil
 
 [4] ✓ / ~ Square gilt buffet; great gold vessel; verniques between pairs. ✓ Asiatic banquet buffet tradition (Justin’s Turks; Rubruck; Oljeitu; Odoric’s later jade jar); ~ vessel sizes and *vernique* etymology (Persian *bārnīya* / Venetian *vernegal* / Bretschneider varnished jar). As cited in Yule: Rubruck, Bretschneider [@yc, 2.13]; Odoric [@yc, 2.12].
 
-[5] ✓ Threshold taboo: strip/forfeit or blows; exit relaxed. Multiply attested (Carpini; Rubruck; Odoric; Makrizi; Mongol proverb; Michie *yourt* ropes). ✓ / ~ Ushers for foreigners; giant door-wardens with staves: ✓ *Ch’ue keng lu* athletes with clubs and jade axes (Palladius); ~ “giants” colour. As cited in Yule: Carpini, Rubruck, Makrizi, Michie [@yc, 2.13]; Odoric [@yc, 2.12].
+[5] ✓ Threshold taboo: strip/forfeit or blows; exit relaxed. Multiply attested (Carpini; Rubruck; Odoric; Makrizi; Mongol proverb; Michie *yourt* ropes). ✓ / ~ Ushers for foreigners; giant door-wardens with staves: ✓ *Ch’ue keng lu* [-@tao1959nancun] athletes with clubs and jade axes (Palladius); ~ “giants” colour. As cited in Yule: Carpini, Rubruck, Makrizi, Michie [@yc, 2.13]; Odoric [@yc, 2.12].
 
 [6] ✓ Great Barons serve muffled; music and kneel at each drink. Ming/Shah Rukh and Yuan ceremonial parallels. ✓ Post-dinner jugglers and players. Court *jongleurs* / Chinese feast entertainers widely noted (Chaucer; Odoric; Ysbrandt Ides). As cited in Yule: Shah Rukh, Chaucer, Ysbrandt Ides [@yc, 2.13]; Odoric [@yc, 2.12].
 
