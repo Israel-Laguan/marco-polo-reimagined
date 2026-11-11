@@ -74,7 +74,7 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 | [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | open | S-04 | Vol. II enrichment; `DIA`, `TBL` |
 | [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | open | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
 | [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | open | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
-| [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 (PD candidates) | III-11, all trivia files; `DIA` B5 |
+| [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 ✓ (PD candidates) | III-11, all trivia files; `DIA` B5 |
 | [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
 | [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | open | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
 | [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | open | S-22, S-10 | shortlist for deep dives; scene coverage for the 35 GEN plates |

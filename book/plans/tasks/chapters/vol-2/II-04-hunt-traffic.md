@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-08 LaTeX build pipeline (plates, map)
 - S-09 Map and diagram pipeline (A8)
 - S-10 ✓ Image generation pilot (GEN secondary)
-- S-11 Public-domain artwork sourcing and licensing (Liu Guandao)
+- S-11 ✓ Public-domain artwork sourcing and licensing (Liu Guandao: NPM open data, CC BY 4.0; replace the interim master with NPM's 6 MP file)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

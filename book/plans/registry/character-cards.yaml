@@ -83,11 +83,11 @@ cards:
   traditions:
     yuan: "as the NPM portrait and Liu Guandao; Han painters show him larger than his attendants but not a giant"
     ilkhanid: "an enthroned khan as Rashid al-Din's painters show the Great Khans: cross-legged on a wide throne, consort beside him"
-    ldm: "a crowned European king, as the Livre des merveilles draws him"
+    ldm: "an old white-bearded king in a pointed gold hat (fr. 2810 fol. 3v) or a turban before a tent (fol. 2v), as the Livre des merveilles draws him"
   avoid: ["Qing dragon robe, yellow as imperial colour, queue", "crown outside the LdM lens", "Chinggis-style armour at court"]
 
 - id: chabi
-  likeness: "the companion portrait of Chabi in the same NPM album (confirm the image in S-11)"
+  likeness: "her portrait in the NPM album of Yuan empresses, companion to the emperors' album (confirmed by S-11: Commons YuanEmpressAlbumChabi.jpg; copy in media/references/)"
   house: "round face, composed; middle-aged in the 1270s"
   attributes: ["the tall boqta headdress of a married Mongol noblewoman"]
   dress:

@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-07 Structure and length decisions (front/back roles)
 - S-08 LaTeX build pipeline (maps, tables)
 - S-09 Map and diagram pipeline (A1, A7)
-- S-11 Public-domain artwork sourcing and licensing (facsimile credits; Wikimedia mis-credits)
+- S-11 ✓ closed for plates only; facsimile credits and Wikimedia mis-credits are `MED.T1` (captions) and `MED.T2` (ATTRIBUTIONS)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

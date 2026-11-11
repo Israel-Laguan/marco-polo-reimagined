@@ -53,7 +53,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-07 Structure and length (front/back roles: missing Venice–Genoa / first-journey maps)
 - S-08 LaTeX build pipeline (tables, map figures)
 - S-09 Map and diagram pipeline (A1)
-- S-11 Public-domain artwork sourcing and licensing (kept Shepherd 1911 map; Wikimedia credits)
+- S-11 ✓ closed for plates only; the kept Shepherd 1911 map and the Wikimedia credits moved to `MED.T2`
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

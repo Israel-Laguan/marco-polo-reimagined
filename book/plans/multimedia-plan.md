@@ -159,7 +159,8 @@ book/media/
   timelines/   B*.pdf|svg   (generated)
   diagrams/    C*.pdf|svg   (generated)
   plates/      <vol>-<ch>-<slug>.png + .yaml   (see illustration plan)
-  public-domain/  real artworks + license notes
+  public-domain/  real artworks + license notes (S-11)
+  references/  period references for GEN plates, not printed (S-11)
   legacy/      current files kept for reference
 book/tools/media/   style.yaml, map.py, timeline.py + timeline.tex, data/A*.yaml (maps), data/B*.yaml (timelines); charts.py later
 ```

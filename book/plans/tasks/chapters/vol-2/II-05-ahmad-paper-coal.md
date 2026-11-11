@@ -45,7 +45,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - W4 re-voice order: Vol. II batch position 14 of 14 (last; lowest verbatim share). — content plan W4
 
 ## Media hooks
-- **Hero plate:** Printing the Kaan's paper money — GEN, Yuan woodblock (*pinghua*), landscape 4:3; must get right: mulberry-bark sheets, vermilion seal, clerks; pair with a **PD photo of a real Zhiyuan note** — see `illustration-plan.md`. Anchor ch-05:27 (surviving Zhiyuan/Zhongtong notes: grey mulberry-bark paper, Chinese plus 'Phags-pa text).
+- **Hero plate:** Printing the Kaan's paper money — GEN, Yuan woodblock (*pinghua*), landscape 4:3; must get right: mulberry-bark sheets, vermilion seal, clerks; pair with a **PD photo of a real Zhiyuan note** — see `illustration-plan.md`. S-11: PHGCOM's photograph of a 2-guan Zhiyuan note beside a printing plate, Bank of Japan Currency Museum (CC BY-SA 3.0, `media/public-domain/II-05_zhiyuan-2-guan-note-and-plate.jpg`, `PLT.II-05P`). Do not call the sheet an original note: the photograph does not say whether it is a later pull from the plate. Anchor ch-05:27 (surviving Zhiyuan/Zhongtong notes: grey mulberry-bark paper, Chinese plus 'Phags-pa text).
 - **Secondary plates:** GEN Yam runner with bells (plan's Vol. II secondaries; anchor :37, runner at a relay fort handing a slip to a clerk). Critique §4's ★ hero was Ahmad's assassination (:21; night hall, false prince on the dais, Cogatai bursting in; caption must note Ramusio's narrative vs the Chinese record of Wang Zhu striking with a bronze mace) — not adopted as hero by the plan.
 - **Maps:** — none assigned
 - **Timelines / diagrams / tables:** C1 Paper money process (bark → sheet → seals → vermilion → circulation; 3% replacement, bullion purchase; 1287 Zhiyuan 1:5 revaluation sidebar); C2 the *yam* (stations every 25–30 miles, runner forts every 3 miles, express riders 200–250 miles a day, "ten days in one" scale bar); D table II-5 Ahmad's murder: Polo vs *Yuan shi* (weapon, killer, date, "Po-lo" = Bolad).
@@ -61,7 +61,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-08 LaTeX build pipeline (plates, C1, C2, D table)
 - S-09 Map and diagram pipeline (C1, C2)
 - S-10 ✓ Image generation pilot (GEN hero and secondary)
-- S-11 Public-domain artwork sourcing and licensing (Zhiyuan note photo)
+- S-11 ✓ Public-domain artwork sourcing and licensing (Zhiyuan note photo)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

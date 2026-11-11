@@ -42,14 +42,14 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Reception chapter: **S-07 decided (2026-11-10): re-voice with a section plan, no rebuild** (see `III-11.T3`). Outline coverage: "Beats ✓ but thin on print and Jesuits" (see m13). — vol-3 §3 scorecard · ch-11
 
 ## Media hooks
-- **Hero plate:** III-11 *Columbus's annotated copy* — **PD**, postils, Biblioteca Colombina (or the 1477 Creussner woodcut), portrait; caption: annotation date debated — see `illustration-plan.md`
-- **Secondary plates:** Fra Mauro at his map (GEN; or PD of the map itself). Critique §4 option not adopted: Cresques workshop, Majorca (1370s Palma; Japan likely absent from this atlas)
+- **Hero plate:** III-11 *Columbus's annotated copy* — **PD**, a CC BY-SA photograph of the Colombina copy open at Abyssinia and Aden, with postils and a manicule (S-11; `PLT.III-11`); alternative: the 1477 Creussner woodcut in Dibdin's 1822 facsimile; portrait; caption: annotation date debated (F-19) — see `illustration-plan.md`
+- **Secondary plates:** Fra Mauro at his map (GEN; or PD of the map itself from Naya's 1873 photographic facsimile: a Marciana image carries an Italian heritage fee, S-11). Critique §4 option not adopted: Cresques workshop, Majorca (1370s Palma; Japan likely absent from this atlas)
 - **Maps:** none
 - **Timelines / diagrams / tables:** **B5** Reception, 1298 → 2013 (TikZ; pilot item in multimedia "Order of work"). Critique §5 item 5 date list — check every date before printing: 1298–99 dictation · 1305 "Milioni" · 1307 Cepoy · c. 1310s Pipino · 1324 will · Jacopo d'Acqui (1330s) · John of Ypres (c. 1350) · 1375 Catalan Atlas · c. 1450–59 Fra Mauro · 1474 Toscanelli · 1477 German print · c. 1483–85 Leeu Latin · 1492 · 1496 Venice · 1503 Santaella · 1559 Ramusio · 1602–07 Góis · 1818 Marsden · 1871/1903 Yule–Cordier · 1928 Benedetto · 1938 Moule–Pelliot · 1941 Yang Zhijiu · 1959–73 Pelliot · 1995 Wood · 1997 de Rachewiltz · 1999 Larner · 2006 Haw · 2013 Vogel
 - **Characters appearing:** Christopher Columbus; Paolo Toscanelli (to be added); Cresques Abraham; Fra Mauro; Francesco Pipino; Giovanni Battista Ramusio; Matteo Ricci; Bento de Góis (to be added); Marco Polo; Rustichello; Cocachin and Ahmad (mentioned)
 
 ## Gated by spikes
-- S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 ✓ (Fra Mauro GEN option), S-11 (PD hero; Fra Mauro PD option)
+- S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 ✓ (Fra Mauro GEN option), S-11 ✓ (PD hero; Fra Mauro PD option: Naya facsimile)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
@@ -111,6 +111,7 @@ _Created after the gating spikes close. Expected shapes:_
   - "Dispute" label in Note(s) [3]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
   - Run `python3 tools/lint.py -v vol-3/ch-11-afterlives.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-12 (2026-11-10):** Note [8] names the redactions (Tuscan, Venetian, Ramusio); cite their modern editions there: TA `bertolucci1975milione`, VA `barbieri1999milione`, Ramusio `ramusio1559navigationi` with `ramusio2015viaggi`; if F, Fr or Z are named, `eusebi2018devisement`, `menard2001devisement`, `barbieri1998milione`.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-11.T6 — Lint green and human read

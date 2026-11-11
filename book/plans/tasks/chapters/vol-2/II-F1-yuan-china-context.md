@@ -37,7 +37,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[m]** Front/back role split (frame here, narrate in chapters, shortlist plus trivia in back-01) per m12 and content plan W5; S-07 decides the final division. — vol-2 m12
 
 ## Media hooks
-- **Hero plate:** Vol. II frontispiece: portrait of Kublai, **PD**, Yuan imperial portrait album (NPM Taipei), portrait 3:4 — see `illustration-plan.md` (II-front row). Place in this file.
+- **Hero plate:** Vol. II frontispiece: portrait of Kublai, **PD**, Yuan imperial portrait album (NPM Taipei), portrait 3:4 — see `illustration-plan.md` (II-front row). Place in this file. S-11: master `media/public-domain/II-front_npm-yuan-album-khubilai.jpg` (3221 × 4018); credit "National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw"; caption in `registry/pd-sources.md` (`PLT.II-front`).
 - **Secondary plates:** — none found
 - **Maps:** — none (A7 belongs to II-F2)
 - **Timelines / diagrams / tables:** B3 Kublai's reign and the Polo calendar (1260 → 1294), placed at II-front-01 (`multimedia-plan.md`); matches critique §5 timeline (1260 accession … 1294 Kublai dies). Tags-and-markers box (M8).
@@ -52,7 +52,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-07 Structure and length decisions (front/back roles and de-duplication)
 - S-08 LaTeX build pipeline (frontispiece, timeline)
 - S-09 Map and diagram pipeline (B3)
-- S-11 Public-domain artwork sourcing and licensing (frontispiece)
+- S-11 ✓ Public-domain artwork sourcing and licensing (frontispiece: NPM open data, CC BY 4.0)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

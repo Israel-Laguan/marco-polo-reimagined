@@ -14,6 +14,8 @@ What is the verified history of the book's transmission and reception, from manu
 - `vol-3/ch-11-afterlives.md`, `vol-3/back-01-trivia-and-afterlives.md`, `vol-1/back-01`, `vol-2/back-01`
 - III-11 backlog (M4, M5, m13, n9); `multimedia-plan.md` B5
 - S-14 items 19–22 (don't duplicate; this spike widens them)
+- S-12 (closed 2026-11-10): the modern editions of each redaction and their keys are in `registry/sources.md` (F, Fr, TA, VA, Z, R). Still open there: the Gallica identifiers of BnF fr. 1116 and fr. 2810. Gallica refused automated requests, so check them in a browser, not with the research tool.
+- S-11 ✓ (`registry/pd-sources.md`): the Catalan caravan's inscription says it left "the empire of Sarai" for Cathay; Columbus's copy is photographed open at Abyssinia and Aden; the 1477 woodcut is available in Dibdin's 1822 facsimile; Fra Mauro images from the Marciana carry an Italian heritage fee (Naya's 1873 facsimile does not)
 
 ## Method
 1. Run the prompt and save the output to `research/results/S-20-raw.md`.
@@ -50,7 +52,7 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 
 ## Feedback to plan
 - `multimedia-plan.md` § B5 (timeline data source)
-- `illustration-plan.md`: reception plate captions; PD candidates passed to S-11
+- `illustration-plan.md`: reception plate captions (PD sources settled by S-11)
 
 ## Follow-up prompts
 _(add here if the results leave gaps)_
