@@ -1,6 +1,6 @@
 # S-11 — Public-domain artwork sourcing and licensing
 
-**Status:** closed 2026-11-10 (one decision left with the user: the BnF licence) · **Timebox:** 1 session · **Gates:** PD items in `PLT` (I-2, II-front, II-4, III-1, III-7, III-11, III-12) and PD photo pairings (e.g. the Zhiyuan banknote in II-5)
+**Status:** closed 2026-11-10 · **Timebox:** 1 session · **Gates:** PD items in `PLT` (I-2, II-front, II-4, III-1, III-7, III-11, III-12) and PD photo pairings (e.g. the Zhiyuan banknote in II-5)
 
 ## Question
 For each planned public-domain artwork, where is the best high-resolution copy, what are its exact reuse terms (including commercial print), and what is the correct provenance caption?
@@ -19,7 +19,7 @@ The artworks are public domain, but scans can carry holder restrictions (e.g. Bn
 
 ## Output (definition of done)
 - [x] `plans/registry/pd-sources.md` table: artwork → source URL → resolution → licence → caption → OK for commercial print? (8 rows plus the Fra Mauro secondary; captions, holder terms, leads)
-- [x] Downloaded masters in `media/public-domain/` with licence notes (`README.md` there: 8 files, 32 MB; II-4 is an interim master)
+- [x] Downloaded masters in `media/public-domain/` with licence notes (`README.md` there: 10 files, 35 MB; II-4 is an interim master; two fallbacks added in the second pass)
 
 ## Feedback to plan
 - `illustration-plan.md`: switch any blocked PD slot to GEN or to a substitute
@@ -41,12 +41,16 @@ _2026-11-10. Commons API for files, sizes and licence tags; holders' reuse pages
 - **Fra Mauro (secondary):** a Marciana image carries the Italian heritage fee (DM 108/2024). Naya's 1873 photographic facsimile and Fraser's 1804–06 copy (British Library) are PD substitutes.
 - **The II-5 note:** the photograph does not say whether the sheet is a period note or a later pull from the plate. The caption must not call it original.
 
-**Not checked here** (listed as leads in `pd-sources.md`): other Polo manuscripts with the audience scene (BL Royal 19 D I, Bodl. 264) as a BnF-free I-2; whether ColBase lists the original *Mōko* scrolls; the Gallica terms page itself (blocked here; its terms are quoted from BnF documents).
+**Second pass: BnF-free leads for I-2 and III-12** (same day, at the user's request; detail in `pd-sources.md` § Leads)
+- **I-2:** no free colour copy. BL Royal 19 D I (f. 59v, the golden tablet) has its images "currently unavailable" since the 2023 cyberattack. Bodl. 264 (f. 220r) is CC BY-NC, so a paid licence again. Omont's 1907 facsimile is free but monochrome, 1177 px wide (master saved as `I-02-alt`).
+- **III-12:** the Library of Congress's 1959 hand-coloured facsimile is free with low rights risk and big enough (3977 × 2400 crop, saved as `III-12-alt`). It is a recoloured redrawing, though, not the original's look. No 19th-century facsimile was reachable.
+
+**Not checked here:** whether ColBase lists the original *Mōko* scrolls; the Gallica terms page itself (blocked here; its terms are quoted from BnF documents); the BnF's actual rate (negotiated per project; the BnF commercial-use form computes it).
 
 ## Decision
 - Six PD heroes (I-2, II-front, II-4, III-1, III-11, III-12) and the II-5 pairing stay PD; III-7 moves to GEN. The plan is now **35 GEN + 6 PD**.
-- I-2 and III-12 print only with a BnF licence. **The user decides:** buy the two licences (and any LdM secondaries), or switch both to GEN. Until then `PLT.I-02` and `PLT.III-12` are blocked; check the BL/Bodleian lead for I-2 first.
+- **No BnF licence (user, 2026-11-10).** I-2 prints from Omont's 1907 monochrome facsimile, half width (L); III-12 from the LoC 1959 hand-coloured facsimile, credited as a facsimile. The BnF masters stay as reference only. LdM secondaries, if any, also come from the 1907 facsimile.
 - Captions and credit lines in `pd-sources.md` are the ones to print; the holder's required credit wording is part of each.
 
 ## Tasks to create on close
-- [x] `PLT.I-02`, `PLT.II-front`, `PLT.II-04`, `PLT.II-05P`, `PLT.III-01`, `PLT.III-11`, `PLT.III-12` in `tasks/cross/PLT-plates.md` (placement + caption; I-02 and III-12 blocked on the BnF decision)
+- [x] `PLT.I-02`, `PLT.II-front`, `PLT.II-04`, `PLT.II-05P`, `PLT.III-01`, `PLT.III-11`, `PLT.III-12` in `tasks/cross/PLT-plates.md` (placement + caption)

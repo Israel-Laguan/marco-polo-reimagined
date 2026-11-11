@@ -40,7 +40,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Duplication with front matter: "the conversion pledge… is the weakest clause" appears verbatim at ch-02:31 and front-01:41 (and "weak joint" at back-01:37). Fix lands in I-F1 (front-01 points forward to ch-02); ch-02 keeps the beat. — vol-1 m10 · ch-02:31
 
 ## Media hooks
-- **Hero plate:** I-2 The brothers before Kublai — **PD**, LdM miniature of the Polos at the Khan's court, P; caption "European imagining, c. 1410". Critique §4 notes for any GEN alternative: c. 1266, before Dadu (from 1267), so Kaiping/Shangdu or a palace-tent; *jisün* robes, *keshig* guards, brothers in Latin merchant dress; Prologue theatre, location not given. Anchor ch-02:27.
+- **Hero plate:** I-2 The brothers before Kublai — **PD**, LdM fol. 2v from Omont's 1907 monochrome facsimile, half-width landscape (S-11: no BnF licence; `PLT.I-02`); caption "European imagining, c. 1410". Critique §4 notes for any GEN alternative: c. 1266, before Dadu (from 1267), so Kaiping/Shangdu or a palace-tent; *jisün* robes, *keshig* guards, brothers in Latin merchant dress; Prologue theatre, location not given. Anchor ch-02:27.
 - **Secondary plates:** Golden tablet given (illustration plan; anchor ch-02:33): pre-1269 paiza carries **Uighur-Mongol script, not 'Phags-pa**. Critique-only: Envoys find the Latins at Bocara (ch-02:23; Kalyan minaret 1127 survived); Homecoming of 1269 (ch-02:41; avoid Pipino's "first sight of a son" pathos).
 - **Maps:** A3 The elder voyage (Constantinople → Soldaia → Sarai → Bolghar → Ucaca → Bocara → Kublai → Ayas → Acre → Negropont → Venice).
 - **Timelines / diagrams / tables:** C5 Paiza hierarchy (II-1 / I-2) with the 1269 script change; B1 Polo family timeline (placed I-F1; critique: "front-01 or ch-02/03"); B6 row "Elder voyage begins 1250 vs 1260" (placed I-B1).
@@ -56,7 +56,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-08 LaTeX build pipeline (plates, C5)
 - S-09 Map and diagram pipeline (A3, C5)
 - S-10 ✓ Image generation pilot (GEN secondary)
-- S-11 Public-domain artwork sourcing (PD hero, LdM)
+- S-11 ✓ Public-domain artwork sourcing (PD hero, LdM via the 1907 facsimile)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_

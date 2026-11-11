@@ -11,7 +11,7 @@ For several events, **a genuine public-domain artwork of that very subject exist
 
 **Rule clarification:** the tradition follows **where the scene takes place**, not the chapter. Example: I-3's hero is set at Kublai's court, so it uses Yuan court painting even though the chapter starts in Acre.
 
-**Licences (S-11, 2026-11-10):** sources, masters, captions and credit lines for every PD slot are in `registry/pd-sources.md`. Two slots (I-2, III-12) and every LdM secondary use BnF scans, which need a paid BnF licence for commercial print; without it they fall back to GEN. III-7 found no commercial-use source and is now GEN.
+**Licences (S-11, 2026-11-10):** sources, masters, captions and credit lines for every PD slot are in `registry/pd-sources.md`. BnF scans need a paid licence for commercial print, so I-2 and III-12 use free facsimiles instead (user's decision, 2026-11-10): Omont's 1907 monochrome reproduction for I-2, the Library of Congress's 1959 hand-coloured facsimile for III-12. III-7 found no commercial-use source and is now GEN.
 
 **Count:** 41 hero slots (40 chapters + the Vol. II frontispiece): **35 GEN + 6 PD**, plus about 25 optional secondaries. That is roughly 35–60 plates to commission, plus 5 cutaway bases for the multimedia plan (C12–C16).
 
@@ -30,7 +30,7 @@ Abbreviations:
 | Ch. | Hero scene | Src | Tradition | Fmt | Must get right | Caution in caption |
 |---|---|---|---|---|---|---|
 | I-1 | Marco dictating to Rustichello | GEN | Italian Gothic illumination | P | Rustichello a **layman**; loose quires, quill, ink-horn; a civic room, not a dungeon; *gonella* and mantle | Setting is tradition |
-| I-2 | The brothers before Kublai | **PD** (BnF fee) | LdM fol. 2v, the Polos at the Khan's court (whole folio) | P | — | European imagining, c. 1410 |
+| I-2 | The brothers before Kublai | **PD** | LdM fol. 2v, the Polos at the Khan's court, from Omont's 1907 monochrome facsimile (pl. 3) | L, half width | — | European imagining, c. 1410; credit the 1907 facsimile |
 | I-3 | "Sire, 'tis my son and your liegeman" | GEN | YC | L | Kaiping c. 1275; timber hall on a platform; oil flask and papal letters; Kublai about 60 | Prologue theatre |
 | I-4 | The quay at Layas | GEN | Cilician Armenian illumination | P | Sea castle; lateen ships; spice and cotton bales; Italian and Armenian merchants | — |
 | I-5 | Hulagu shuts the Caliph in the treasure tower | GEN | LdM marvel lens | P | Abbasid black robes; Mongol lamellar armour | Exemplum: Muslim sources differ |
@@ -79,7 +79,7 @@ Abbreviations:
 | III-9 | Kublai gives the Polos golden tablets; Cocachin and the fleet | GEN | YC | H | 'Phags-pa paiza; Cocachin **unmarried: braids, no *boqta*** (S-05); Cublay c. 75; 13 junks | Port and year (1291 vs 1292) debated |
 | III-10 | Jewels ripped from the seams of the Tartar coats | GEN | Venetian Gothic | P | 1295 Veneto-Byzantine interior; **no Salute domes** | Ramusio's legend |
 | III-11 | Columbus's annotated copy | **PD** | Postils, Biblioteca Colombina (CC BY-SA photograph); alternative: the 1477 Creussner woodcut in Dibdin's 1822 facsimile | P | — | Annotation date debated |
-| III-12 | Caravan of the Catalan Atlas (1375) | **PD** (BnF fee) | Cresques workshop | H | — | Often read as the Polos; that is uncertain. Its inscription says it left Sarai for Cathay |
+| III-12 | Caravan of the Catalan Atlas (1375) | **PD** | Cresques workshop, from the LoC 1959 hand-coloured facsimile | H | — | Often read as the Polos; that is uncertain. Its inscription says it left Sarai for Cathay. Credit as a facsimile: its colours are not the original's |
 
 ### Secondary plates (optional, about 25; pick after the heroes)
 
@@ -111,7 +111,7 @@ Abbreviations:
   - Cocachin's farewell (III-9, JT)
   - Marco's will, 1324 (III-10)
   - Fra Mauro at his map (III-11; or PD of the map itself, from Naya's 1873 photographic facsimile, since a Marciana image carries an Italian heritage fee: `registry/pd-sources.md`)
-- **Licence note (S-11):** every LdM-based secondary that reproduces a real miniature uses a BnF scan, so the BnF fee applies; GEN plates in the LdM idiom do not.
+- **Licence note (S-11):** a secondary that reproduces a real LdM miniature takes it from Omont's 1907 facsimile, which has all 265 (free, monochrome); a BnF scan would need the paid licence. GEN plates in the LdM idiom need neither.
 
 ## Pipeline
 

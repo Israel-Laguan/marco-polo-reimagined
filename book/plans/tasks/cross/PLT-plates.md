@@ -85,8 +85,8 @@ _PD plates (from S-11) are below._
 **Every PD task:** crop the master in `media/public-domain/` to the slot's format and print target (`illustration-style-guide.md` § Resolution); place it with the build's figure line, `![Caption. *(Credit.)*](../media/public-domain/<file>)`, taking caption and credit from `registry/pd-sources.md` § Captions; add an `ATTRIBUTIONS.md` row. **Done when:** the volume build places the figure without a size warning, and the credit matches the holder's required wording.
 
 ### PLT.I-02 — PD: the Polos before Kublai (LdM fol. 2v)
-- **Status:** blocked · **Depends:** the BnF licence decision (fee for commercial print)
-- **Do:** whole folio, P, in `vol-1/ch-02-house-of-polo.md`. Before paying, check the leads in `pd-sources.md` § Leads (BL Royal 19 D I, Bodl. 264). No licence: switch the slot to GEN (LdM idiom) in `illustration-plan.md`.
+- **Status:** ready (no BnF licence: user, 2026-11-10)
+- **Do:** place `I-02-alt_omont1907-pl3-fol2v-mono.jpg` as a half-width landscape figure in `vol-1/ch-02-house-of-polo.md`, with the 1907-facsimile credit from `pd-sources.md`. It is 1177 px wide (262 dpi at full width). The build sets every figure at full width (`registry/markdown-conventions.md`), and `tools/build/book.lua` warns under 1350 px whatever width is asked. So: add Pandoc's `{width=60%}` after the image (about 435 dpi), and make `book.lua` scale its 1350 px check by that width, or record the one expected warning here. Add the attribute form to the conventions table either way. If the BL restores Royal 19 D I, f. 59v is a colour option to recheck.
 
 ### PLT.II-front — PD: Kublai, Yuan portrait album
 - **Status:** ready
@@ -109,5 +109,5 @@ _PD plates (from S-11) are below._
 - **Do:** crop one page of the Colombina photograph to P, in `vol-3/ch-11-afterlives.md`; the Dibdin woodcut is the alternative. Caption keeps the F-19 hedge.
 
 ### PLT.III-12 — PD: the Catalan Atlas caravan
-- **Status:** blocked · **Depends:** the BnF licence decision
-- **Do:** H crop from the master, in `vol-3/ch-12-reliability-essay.md`. No licence: GEN, or drop the plate (it is "optional" in the style guide).
+- **Status:** ready (no BnF licence: user, 2026-11-10)
+- **Do:** H crop of `III-12-alt_loc1959-facsimile-caravan.jpg` (keep the inscription), in `vol-3/ch-12-reliability-essay.md`; credit it as the 1959 facsimile.

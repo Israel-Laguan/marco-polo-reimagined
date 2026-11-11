@@ -42,14 +42,14 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Reception/essay structure: **S-07 decided (2026-11-10): keep the nine sections; prose pass with a section plan** (see `III-12.T3`). Scorecard: "Right architecture" — all 9 sections present.
 
 ## Media hooks
-- **Hero plate:** III-12 *Caravan of the Catalan Atlas (1375)* — **PD**, Cresques workshop, handscroll; caption: often read as the Polos; that is uncertain — see `illustration-plan.md`. (Critique §4's ★ pick was Marco and Rustichello in the Genoese prison using `drawing-genoa-dictation.png`; the multimedia plan retires all drawings, one for showing Rustichello in a monk's habit.)
+- **Hero plate:** III-12 *Caravan of the Catalan Atlas (1375)* — **PD**, Cresques workshop, from the LoC 1959 hand-coloured facsimile (S-11: no BnF licence; `PLT.III-12`), handscroll; caption: often read as the Polos; that is uncertain; credit as a facsimile — see `illustration-plan.md`. (Critique §4's ★ pick was Marco and Rustichello in the Genoese prison using `drawing-genoa-dictation.png`; the multimedia plan retires all drawings, one for showing Rustichello in a monk's habit.)
 - **Secondary plates:** none in plan. Critique §4 option: "the control panel" — Rubruck, Odoric, Ibn Baṭṭūṭa, Rashid manuscripts side by side (real manuscript images; no invented portraits)
 - **Maps:** none placed (critique §5 item 8 lists `map-marco-polo-overview.*` as a fit for "front-02 / ch-12 overview"; A1 replaces it in the book body)
 - **Timelines / diagrams / tables:** **D** "Hits, misses and silences ledger" (cross-volume, ✓ ~ ✗ ◇ ? markers, cross-volume chapter refs) — must drop the Bolad hit and stele miss; **D** "Cocachin in three sources" (shared with III-09). Critique §5 item 7: a read-aloud of "things seen as seen, and things heard as heard" would suit ch-12 (print substitute per multimedia §E)
 - **Characters appearing:** Marco, Niccolò and Maffeo Polo; Rustichello; Kublai (Cublay); Cocachin; Arghun; Geikhatu; Ghazan; Ahmad; Bolad (to be added); Nayan; Li Tan (Litan); St Thomas; Jacopo d'Acqui; Francesco Pipino; Giovanni Battista Ramusio; Rashid al-Din; Columbus; control-panel travellers William of Rubruck, Odoric of Pordenone, Ibn Battuta
 
 ## Gated by spikes
-- S-01 (essay register), S-02, S-03 (*[reception]*, ledger markers), S-05 (Bolad, Jacopo; Polos in the Catalan caravan caption), S-06 (Bolad, stele, Curzola/Jacopo, Yang Zhijiu, Wood, foot-binding), S-07 (essay length and reception role), S-08 (D tables), S-11 (PD hero)
+- S-01 (essay register), S-02, S-03 (*[reception]*, ledger markers), S-05 (Bolad, Jacopo; Polos in the Catalan caravan caption), S-06 (Bolad, stele, Curzola/Jacopo, Yang Zhijiu, Wood, foot-binding), S-07 (essay length and reception role), S-08 (D tables), S-11 ✓ (`PLT.III-12`)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
