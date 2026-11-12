@@ -105,3 +105,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 11 errors · 3 warnings — failing: archaism, asides, budgets, quote_verify, verbatim, you_must_know; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-15-great-turkey-ponent.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research limit (2026-11-11)
+
+The supplied report found no directly consulted specialist assessment of how the Book IV war narratives were composed or transmitted. Do not assert a scholarly consensus about eyewitness reportage, oral tradition or literary construction. Keep chronology and claims under their existing fact-sheet qualifications; see [S-17 intake](../../../research/results/S-17-intake.md) and the [follow-up prompt](../../../research/S-17-follow-up-prompt.md).

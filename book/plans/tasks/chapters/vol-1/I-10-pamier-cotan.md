@@ -101,3 +101,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 27 errors · 8 warnings — failing: archaism, asides, budgets, markers, ramusio, scaffolding, verbatim; warnings: names, ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-10-pamier-cotan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+## S-16 handoff — T4
+
+- **Status:** backlog; apply during the existing chapter tasks. S16-E12 and S-16 closeout: Wood’s “roof” and the disputed Uzun-tatïr/Keriya identification. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

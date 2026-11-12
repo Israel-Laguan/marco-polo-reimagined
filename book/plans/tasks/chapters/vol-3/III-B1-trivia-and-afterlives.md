@@ -59,7 +59,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-23: Adam's Peak is Muslim and Buddhist "in the Book"; Hindu and Portuguese-Christian claims only as later traditions (Tennent, via Yule).
-    - F-15 (open): the Cocachin entry adds the 1290 notice "as Cleaves reports it"; neither source names the Polos.
+    - F-15: the Chinese and Persian accounts corroborate an embassy but, as Jackson reports, name no Polos; Yang’s inferred late 1290/early 1291 sailing and Yule’s 1292 remain debated.
   - **S-13 ✓ (`registry/scholarship.md` § The 2024 anniversary):** candidates, each "as reported by Orlando 2025" until the edition is seen: Agnese, a possible daughter (will of July 1319); the inventory's *bocheta* is a jewel, not the Mongol headdress; Pietro the "Tartar" may have been bought at Rialto; Madagascar owes its name to a copyist (`andreose2024textual`, read). Cut any "silver belt of a Tartar knight".
 - **Done when:** `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
@@ -88,3 +88,6 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 3 errors · 0 warnings — failing: markers, quote_verify
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 source sweep:** For the pasta legend, de Rachewiltz 1997 pp. 61–62 locates the wheat/pasta account in the Ramusian text and distinguishes his reading of *lasagne* from later translation labels (`registry/enrichment.md` S15-H5). This is a source-and-translation note, not evidence that Marco introduced pasta.

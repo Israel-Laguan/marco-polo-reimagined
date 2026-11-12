@@ -7,7 +7,7 @@ Moule,A,"I-01, I-B1, II-13, II-B1, III-02, III-10 …",moule1938description;moul
 Moule–Pelliot,A,"I-01, I-B1, II-B1, III-02, III-10, III-11 …",moule1938description,key,
 Pelliot,A,"I-01, I-B1, II-B1, III-02, III-10, III-11 …",pelliot1959notes,key,
 Benedetto,A,"I-01, I-B1, III-10, III-11, III-12",benedetto1928milione,key,
-Allsen,A,"I-F1, II-03, II-04, II-F1, III-12",allsen1997commodity;allsen2006royal,context,hunt -> royal; textiles/commodities -> commodity; other -> check
+Allsen,A,"I-F1, II-03, II-04, II-F1, III-12",allsen1997commodity;allsen2001culture;allsen2006royal,context,hunt -> royal; textiles/commodities -> commodity; cultural exchange and specialists -> culture (by hand); other -> check
 Critchley,A,"III-10, III-11, III-12",critchley1992marco,key,
 Needham,A,"II-05, III-01, III-12",needham1971civil;needham1959mathematics;tsien1985paper;golas1999mining;needham1954science,context,"S-12: ships/bulkheads -> needham1971civil (script); astronomy -> needham1959mathematics; paper money -> Tsien [-@tsien1985paper], coal -> Golas [-@golas1999mining] (by hand: not Needham's own volumes)"
 Steinhardt,A,"I-13, II-02, III-12",steinhardt1990chinese,key,

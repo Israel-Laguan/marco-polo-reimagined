@@ -105,3 +105,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 3 warnings — failing: archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim; warnings: names, ramusio, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-06-pulisanghin-sindafu.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research handoff (2026-11-11)
+
+S17-F4: Acbalec is a probable Hanzhong-area interpretation from prior Pelliot work, not a surveyed exact stop; Lugou bridge’s historical arch/lion count was not checked for this intake. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

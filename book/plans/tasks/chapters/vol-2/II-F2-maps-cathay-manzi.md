@@ -95,3 +95,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 7 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 map handoff (2026-11-11)
+
+Use `registry/facts.md` S17-F4/F6 and the [intake](../../../research/results/S-17-intake.md) when placing A9–A13. The Dadu palace plan and exact wall/gate coordinates still require a cited reconstruction; label uncertain elements. The southwest place markers are provisional regional interpretations, with Yule/Pelliot alternatives in captions. Tyunju/Dehua remains provisional pending a philological source. Follow the individual `MAP.T09`–`MAP.T13` tasks.

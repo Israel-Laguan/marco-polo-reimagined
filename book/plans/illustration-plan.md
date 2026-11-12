@@ -36,12 +36,14 @@ Abbreviations:
 | I-5 | Hulagu shuts the Caliph in the treasure tower | GEN | LdM marvel lens | P | Abbasid black robes; Mongol lamellar armour | Exemplum: Muslim sources differ |
 | I-6 | Marco questions the townsfolk at the Magi tombs of Saba | GEN | Ilkhanid (JT) | L | Brick domed tombs; Persian dress | Local tradition |
 | I-7 | Marco escapes the Caraunas in the darkness | GEN | Ilkhanid (JT) | L | **Dust storm**, not magic; mud-walled village; date palms | Uncorroborated personal claim |
-| I-8 | The Dry Tree alone on the plain | GEN | LdM marvel lens | P | A single *chinar*; passing caravan | Legendary landmark |
-| I-9 | The balas-ruby mines under royal seal | GEN | Ilkhanid (JT) | L | Badakhshan highland dress; oil lamps; officers sealing stones | — |
+| I-8 | The Dry Tree alone on the plain | GEN | LdM marvel lens | P | A solitary tree and passing caravan; plane is one interpretation, species disputed | Legendary landmark; exact site and species uncertain |
+| I-9 | The balas-ruby mines under royal seal | GEN | Ilkhanid (JT) | L | Badakhshan highland dress; oil lamps; officers sealing stones | Balas rubies are spinels; mining scene follows Polo, not a verified excavation reconstruction |
 | I-10 | Crossing the Pamier: wild sheep and a fire that won't cook | GEN | Persianate (JT) | H | *Ovis poli*; snow plateau | Omit the horn cairns (Ramusio-only) |
 | I-11 | The straggler hears spirit voices in the Lop desert | GEN | **Dunhuang Mogao murals** (Yuan caves 3 and 465) | L | Night dunes; lone rider; phantom caravan faint | Folklore; "cavalcade" is Ramusio |
 | I-12 | Cane divination before Chinggis's battle | GEN | Ilkhanid (JT) | L | Nestorian clerics, split canes, psalter; 1203 | Book theatre; site and date wrong |
 | I-13 | Mare's-milk libation as the court leaves Chandu | GEN | YC | H | White mares; shamans and lamas; cane palace with silk guy-cords and gilt dragon columns | — |
+
+**S-16 caption sources:** Alamut: distinguish Maymundiz and Alamut surrenders as Daftary dates them (`daftary2000khorshah`); identify the garden as a legend (`virani2021garden`). Shangdu: UNESCO's 25,000 ha is the protected property, not the palace footprint (`unesco2012xanadu`). The I-13 libation scene is Polo's report; detailed ritual staging remains an illustration, not independently confirmed.
 
 ### Volume II — *The Realm of Kublai*
 
@@ -52,8 +54,8 @@ Abbreviations:
 | II-2 | Elephants carry trees up the Green Mount | GEN | *jiehua* ruled-line architecture | H | Qionghua island, Taiye lake; green-tiled hall; **no Qing White Dagoba** | Polo's vignette |
 | II-3 | The White Feast procession | GEN | YC | H | Everyone in white; tribute in nines; a *handful* of elephants and camels | "5,000 elephants" inflated |
 | II-4 | Kublai hunting | **PD** | Liu Guandao, *Khubilai Khan Hunting* (1280), a hanging scroll | P | — | Secondary GEN: "Sire! Look out for Cranes!" from the elephant litter |
-| II-5 | Printing the Kaan's paper money | GEN | Yuan woodblock (*pinghua*) | L | Mulberry-bark sheets; vermilion seal; clerks | Pair with a PD photo of a real Zhiyuan note |
-| II-6 | Caravan crossing the Pulisanghin bridge | GEN | Yuan landscape / *jiehua* | H | Jin bridge, 11 arches; archaic lions | Polo says 24 arches |
+| II-5 | Printing the Kaan's paper money | GEN | Yuan woodblock (*pinghua*) | L | Mulberry-bark sheets; vermilion seal; clerks; check printing-block material for the scene | Pair with the licensed photo of a Zhiyuan plate and sheet; sheet's age unverified |
+| II-6 | Caravan crossing the Pulisanghin bridge | GEN | Yuan landscape / *jiehua* | H | Jin bridge; verify period-specific arch and lion details | Verify Polo's arch count against the selected witness |
 | II-7 | Green bamboo exploding in the night camp, Tebet marches | GEN | Dali kingdom scroll | L | Hobbled, hooded horses; Kham forest | — |
 | II-8 | Battle of Vochan: dismounted archers vs war elephants | GEN | **Pagan temple murals** | L | Howdah castles breaking into the trees; dozens, not 2,000 | Numbers inflated |
 | II-9 | Two great dogs hold a tiger at bay on the Cuiju road | GEN | Dali kingdom scroll | L | A **tiger** (the Book says "lion") | — |
@@ -77,7 +79,7 @@ Abbreviations:
 | III-7 | The rukh carrying off an elephant | GEN | Persian *'aja'ib* painting (al-Qazwini manuscripts); S-11 found no PD copy free for commercial use | P | Elephant in the bird's talons; sea and coast below | Legend; Aepyornis in caption |
 | III-8 | The wind-catchers of Hormos at noon | GEN | Baghdad school (al-Wasiti) | L | Old mainland Hormuz; *bād-gīr* towers as a type | — |
 | III-9 | Kublai gives the Polos golden tablets; Cocachin and the fleet | GEN | YC | H | 'Phags-pa paiza; Cocachin **unmarried: braids, no *boqta*** (S-05); Cublay c. 75; 13 junks | Port and year (1291 vs 1292) debated |
-| III-10 | Jewels ripped from the seams of the Tartar coats | GEN | Venetian Gothic | P | 1295 Veneto-Byzantine interior; **no Salute domes** | Ramusio's legend |
+| III-10 | Jewels ripped from the seams of the Tartar coats | GEN | Venetian Gothic | P | 1295 Veneto-Byzantine interior; **no Salute domes** | Ramusio tradition: not a documented homecoming |
 | III-11 | Columbus's annotated copy | **PD** | Postils, Biblioteca Colombina (CC BY-SA photograph); alternative: the 1477 Creussner woodcut in Dibdin's 1822 facsimile | P | — | Annotation date debated |
 | III-12 | Caravan of the Catalan Atlas (1375) | **PD** | Cresques workshop, from the LoC 1959 hand-coloured facsimile | H | — | Often read as the Polos; that is uncertain. Its inscription says it left Sarai for Cathay. Credit as a facsimile: its colours are not the original's |
 
@@ -109,7 +111,7 @@ Abbreviations:
   - Arab horses landed in Maabar (III-5)
   - Diamond valley (III-6, LdM)
   - Cocachin's farewell (III-9, JT)
-  - Marco's will, 1324 (III-10)
+  - Marco's will, 1324 (III-10): caption “Marco Polo’s will, dated 9 January 1324, provided for his family and freed Pietro, described as of the Tartars.” The manuscript survives at the Marciana, Cod. Lat. V, 58 (=2437), no. 33 (Bartoli Langeli’s 2019 edition). Do not imply Pietro came from Asia with Marco or that the pictured witnesses and setting are documented; S-15 #19.
   - Fra Mauro at his map (III-11; or PD of the map itself, from Naya's 1873 photographic facsimile, since a Marciana image carries an Italian heritage fee: `registry/pd-sources.md`)
 - **Licence note (S-11):** a secondary that reproduces a real LdM miniature takes it from Omont's 1907 facsimile, which has all 265 (free, monochrome); a BnF scan would need the paid licence. GEN plates in the LdM idiom need neither.
 
@@ -201,3 +203,7 @@ Judge each pilot plate on idiom fidelity, period errors, and whether a reader co
 - **Passed:** Pilot 2 (II-13) and Pilot 3 (III-5) with Akool Flux Krea plus a negative prompt (`media/plates/`).
 - **Failed:** Pilot 1 (I-7). The model draws Safavid-style turbaned riders, not *Jami' al-Tawarikh* Mongols, in 8 of 8 seeds.
 - **Ilkhanid, resolved the same day:** Gemini chat with `media/plates/prompts/I-7-chat.txt` plus one corrective follow-up passed (I-7 accepted). I-6, I-9, I-12, II-11, II-15 and III-9's Ilkhan half use that route.
+
+## S-17 caption and object handoff (2026-11-11)
+
+The CUHK catalog (`cuhkzhiyuanblocks`) describes *bronze* Zhiyuan printing blocks for 200 and 500 *wen*. It does not establish that an individual block was made in exactly 1287, nor identify the familiar 2-*guan* image; check a selected object's catalog and image rights before reproducing it. The Met paiza (`metpaiza1993256`) is late thirteenth-century iron with silver inlay, not Marco's identifiable personal tablet. S-17 did not verify a period-specific Lugou arch or lion count: check bridge history and restoration before a precise caption. These are caption references, not authorization to reuse images.

@@ -61,7 +61,7 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 ## Notes
 
-[1] Companion framing only — not a chapter of *Il Milione*. Historical context drawn from standard Yule–Cordier introductions, Larner’s [-@larner1999marco] reception history, and Mongol-empire surveys (Morgan [-@morgan1986mongols]; Rossabi [-@rossabi1988khubilai]; Allsen).
+[1] Companion framing only — not a chapter of *Il Milione*. Historical context drawn from standard Yule–Cordier introductions, Larner’s [-@larner1999marco] reception history, Mongol-empire surveys (Morgan [-@morgan1986mongols]; Rossabi [-@rossabi1988khubilai]), and Allsen [-@allsen2001culture] on cultural exchange.
 
 [2] ✓ Latin Mediterranean trade system mid-13th c.; Acre as Crusader port until 1291; Latin Empire of Constantinople ends 1261. Soldaia as Venetian/Crimean node corroborated by later Polo family property notices.
 
@@ -73,7 +73,7 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 [6] ✓ Venice–Genoa commercial wars; Curzola 1298 as traditional occasion of Marco’s captivity (Jacopo d’Acqui and later tradition — timing and capture details remain discussed). As cited in Yule: Jacopo [@yc, Intro. § 37].
 
-[7] ✓ Mongol courts’ recruitment of foreign specialists — Yuan administration; Ilkhanid parallels; de Rachewiltz on multilingual personnel.
+[7] ✓ Mongol courts’ recruitment of foreign specialists — Yuan administration; Ilkhanid parallels. Allsen [-@allsen2001culture, ch. 1] describes the movement of specialists and the multilingual Yuan bureaucracy.
 
 [8] ✓ / ~ Prologue: road west blocked; Bocara sojourn; envoy invitation east. War beat strong; three-year round number and exact envoy identity softer.
 

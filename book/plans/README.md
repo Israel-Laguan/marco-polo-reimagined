@@ -50,13 +50,13 @@ plans/
 | [S-03](spikes/S-03-apparatus-conventions.md) | Apparatus conventions (markers, tags, Notes, Ramusio flags) | **closed** 2026-10-22 (`VOICE-GUIDE.md` § Apparatus conventions) | — | `.T2`, `.T4`; `APP` |
 | [S-04](spikes/S-04-gazetteer-naming.md) | Gazetteer authority and naming | **closed** 2026-10-22 (`gazetteer.csv` v2, `tools/gazetteer.py`) | — | `GAZ.T5`–`T6`, `MAP`, naming items |
 | [S-05](spikes/S-05-character-registry.md) | Character registry (text + visual) | **closed, finalized** 2026-10-22 (`registry/characters.yaml`, 19 cards, `tools/characters.py`; two research runs taken in; open facts → `CHR.T7`, family rows → S-15) | chapter backlogs, S-06 | `CHR`, `PLT`, character items |
-| [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | **closed** 2026-11-03 (`registry/facts.md`, 37 rows: of S-14's 25, 17 settled in whole or part, 8 hedged; library checks listed in the spike) | — | factual `.T1` items (40 files); `DIA.T1` timelines |
+| [S-06](spikes/S-06-fact-verification.md) | Fact verification sheet | **closed** 2026-11-03; updated by S-14 2026-11-11 (`registry/facts.md`, 44 rows; unresolved components remain hedged) | — | factual `.T1` items (40 files); `DIA.T1` timelines |
 | [S-07](spikes/S-07-structure-length.md) | Structure and length (I-12 split, front/back roles, III-10 to III-12) | **closed** 2026-11-10 (I-12 not split, told as scenes; front/back role matrix; III-10 to III-12 section plans; length policy in `VOICE-GUIDE.md`) | S-01 ✓ | the affected files |
 | [S-08](spikes/S-08-latex-pipeline.md) | LaTeX build pipeline and Markdown conventions | **closed** 2026-11-10 (`tools/build/`; `registry/markdown-conventions.md`; 6×9 in, Noto Serif, endnotes per chapter, one PDF per volume) | toolchain ✓ (installed 2026-11-10) | `BLD`; `.T5`; `TBL` |
 | [S-09](spikes/S-09-map-diagram-pipeline.md) | Map and diagram pipeline | **closed** 2026-11-10 (`tools/media/`; pilots A1, A16, B5; visual system in `multimedia-plan.md`) | S-08 (fonts, trim); S-04 for full maps | `MAP`, `DIA` |
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | **closed** 2026-11-10 (Akool Flux Krea; Ilkhanid via Gemini chat; I-7, II-13, III-5 accepted; tasks in `PLT`) | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | **closed** 2026-11-10 (`registry/pd-sources.md`, masters in `media/public-domain/`; 6 PD heroes, III-7 to GEN; no BnF licence, so I-2 and III-12 print from free facsimiles) | — | `PLT` (PD) |
-| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **decided** 2026-10-22 (Chicago author-date; passes A and B applied; B rerun with the S-12 map 2026-11-10) | S-12 (pass B), S-08 | every Note's citations; epigraphs; Works cited; lint rules |
+| [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **closed** 2026-11-11 (passes A and B applied; ambiguous modern names reviewed; print apparatus and citation lint in place) | S-12 (pass B), S-08 | source-by-source review: APP.T5–T6 and chapter `.T4`; preview/EPUB: BLD.T9 |
 | [S-25](spikes/S-25-confirm-cited-works.md) | Confirm the four unconfirmed works already cited (de Rachewiltz 1997, Dutschke, Atwood, Nancun chuogeng lu) | open (prompt ready) | — | 11 citations; bib status |
 | [S-26](spikes/S-26-modern-locators.md) | Chapter locators in the five most-cited modern books (human reading) | open | S-24 pass B ✓ | locators and misattributions in the Notes |
 
@@ -68,18 +68,18 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 |---|---|---|---|---|
 | [S-12](spikes/S-12-bibliography-editions.md) | Master bibliography, editions, translations | **closed** 2026-11-10 (162 entries; `sources.md`; name map handed to S-24; *Further reading* open) | all R spikes (bib keys) | `registry/bibliography.bib`; citation policy; `BLD` biblatex |
 | [S-13](spikes/S-13-scholarship-update.md) | State of the field 2013–2026 (incl. 2024 anniversary) | **closed** 2026-11-11 (`registry/scholarship.md`: 12 open questions marked, 3 new; 57 works added; five works still to read before III-12 is rewritten) | — | III-12, III-11, III-B1, I-01 |
-| [S-14](spikes/S-14-fact-verification-sweep.md) | Fact verification sweep (25 claims) | open | **S-06** | factual `.T1` in 17 files |
-| [S-15](spikes/S-15-venice-genoa-family.md) | Venice, Genoa and the Polo family record | open | S-05 | I-01, I-02, III-10; `CHR` |
-| [S-16](spikes/S-16-overland-route.md) | Overland route: archaeology, identifications (Vol. I) | open | S-04 | Vol. I enrichment; `MAP` A3–A6 |
-| [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | open | S-04 | Vol. II enrichment; `DIA`, `TBL` |
-| [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | open | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
+| [S-14](spikes/S-14-fact-verification-sweep.md) | Fact verification sweep (25 claims) | **closed** 2026-11-11 (follow-up raw preserved; 25-claim trust intake; unresolved components recorded) | **S-06** | factual `.T1` tasks and `DIA` updated |
+| [S-15](spikes/S-15-venice-genoa-family.md) | Venice, Genoa and the Polo family record | closed, best effort done; archival follow-ups (2026-11-11) | S-05 | I-01, I-02, III-10; `CHR` |
+| [S-16](spikes/S-16-overland-route.md) | Overland route: archaeology, identifications (Vol. I) | done (best effort) | S-04 | Vol. I enrichment; `MAP` A3–A6 |
+| [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | done (best-effort intake; substantive follow-ups open) | S-04 | Vol. II enrichment; `GAZ`, `MAP`, `DIA`, `TBL` |
+| [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | done (best-effort intake; follow-ups open) | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
 | [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | open | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
 | [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 ✓ (PD candidates) | III-11, all trivia files; `DIA` B5 |
 | [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
 | [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | open | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
 | [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | open | S-22, S-10 | shortlist for deep dives; scene coverage for the 35 GEN plates |
 
-All twelve prompts can be run at once (S-23 is best after S-22). Intake S-12 first (bibliography keys), then S-14 (S-06 closed without it on 2026-11-03; only its still-open rows remain). Bring each volume's enrichment spike (S-16/17/18) in **before that volume's W4 re-voice batch**.
+The remaining prompts can be run independently (S-23 is best after S-22). S-12–S-18 have been taken in; S-15–S-18 are best-effort closures with source-specific gaps. Consult their intake records before using findings. Run the S-18 follow-up **before Vol. III's W4 re-voice batch** if possible.
 
 **Suggested waves**
 
@@ -120,7 +120,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 | Code | Area | Main gate |
 |---|---|---|
 | [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | S-04 ✓, S-09 ✓ |
-| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; open facts in `CHR.T7` (library; S-15) |
+| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; S-15 best effort done; remaining `CHR.T7` checks need library or archive access |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 35 GEN + 6 PD heroes, secondaries, legacy retirement | S-10 ✓, S-11 ✓ |
 | [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 | S-09 ✓ |
 | [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 ✓ (`TBL.T1` style done) |
@@ -208,6 +208,9 @@ A manuscript file is **done** when:
 | 2026-10-22 | People follow the S-04 naming rule: Yule's form where Polo names the person (*Cublay*, *Alaü*, *Argon*), else the modern form; gloss once per chapter; registry `registry/characters.yaml` + visual cards; plate prompts take figure lines from `tools/characters.py cue`; co-presence checked by `tools/characters.py ages` | S-05 |
 | 2026-10-22 | S-05 finalized: two people-research runs taken in (run 1 leads only; run 2 checked against Yule, DOIs and Formentin–Schiavon 2024). Settled dates are in the registry; the facts still open need library checks and moved to `CHR.T7` (family rows to S-15) | S-05 |
 | 2026-11-03 | Fact verification sheet = `registry/facts.md`: chapters state confirmed or corrected values plainly and still-open ones only in their hedge; a timeline prints only dates with a row there. Verdicts checked against `refs/`, the bibliography, the gazetteer and the CHR intakes, with no web research; the 8 open S-14 rows wait for library checks, not another search run | S-06 |
+| 2026-11-12 | S-18 follow-up taken in. Pelliot's Basman/Semenat read (page locators were right; the run's scan-number "corrections" rejected). Rudrama = Ganapati's daughter (F-31 corrected). The Motupalli charter is Ganapati's (1244–45). The Trebizond story = a ~4,000-hyperpera loss in Maffeo's will. Fleet 13/14 and survivors 8/18 are labelled by witness. | S-18 |
+| 2026-11-12 | S-18 intake closed best effort. The base text settles the footprint (a sepulchre), the fleet (13 ships), the dead (600/8 French vs 600 dead in Ramusio) and Yule's Abash chronology. No Vol. III gazetteer changes; five citations corrected; Motupalli and Abash leads wait for the follow-up. | S-18 |
+| 2026-11-11 | S-17 intake closed best effort: use only checked Yuan-China findings; retain contested place names, unresolved Nayan/Burma/Book IV questions and pending Dadu map inputs. The targeted follow-up remains available. | S-17 |
 | 2026-11-11 | State of the field: III-12 says the field has answered Wood and now asks which layer of the text is whose; each open question is marked moved / unchanged / new in `registry/scholarship.md`; sources known only by record or report are not quoted and get no page | S-13 |
 | 2026-11-10 | Bibliography: modern editions cited beside YC are Eusebi–Burgio 2018 (F) and Burgio–Simion 2015 (Ramusio), both open access; Kinoshita 2016 for English. `registry/sources.md` is generated from the `.bib` (`tools/sources_index.py`); 3 orphan names left to the chapters' `.T4` | S-12 |
 | 2026-11-10 | Print build: pandoc + Lua filter + LuaLaTeX/biber, one PDF per volume (`tools/build/build.sh`); 6×9 in trim, 4.5×7.2 in text block; Noto Serif (Debian Junicode has no italic; Junicode upstream is an open option, `BLD.T7`), DejaVu Sans markers, Noto Serif CJK; Notes print as endnotes per chapter; base text "(YC 2.8)". Markdown shapes in `registry/markdown-conventions.md`: captions inside the image brackets, no bracketed Note numbers in prose, PNG/JPEG with true extensions and ≥ 1,350 px | user (install, fonts) + S-08 |

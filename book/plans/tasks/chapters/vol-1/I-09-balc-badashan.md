@@ -104,3 +104,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 21 errors · 7 warnings — failing: archaism, asides, budgets, first_person, markers, ramusio, scaffolding, verbatim, you_must_know; warnings: names, openers, ramusio, recaps
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-09-balc-badashan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+## S-16 handoff — T4
+
+- **Status:** backlog; apply during the existing chapter tasks. S16-E11: balas spinels and Sar-e-Sang; modern mine context does not establish medieval methods. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

@@ -106,3 +106,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 13 errors · 4 warnings — failing: archaism, asides, budgets, markers, quote_verify, scaffolding, verbatim, you_must_know; warnings: names, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-09-caugigu-cuiju.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research handoff (2026-11-11)
+
+S17-F4: preserve Yule versus Pelliot on Caugigu, Anin and Toloman; do not identify Cuiju conclusively with Guiyang or treat regional reference pins as exact sites. See the six-case table in S-17 intake. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

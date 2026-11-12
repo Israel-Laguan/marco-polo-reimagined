@@ -16,7 +16,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Critique's example rewrite for ch-05:33–35: "The Christians prayed eight days and nights, he says, until an angel told a bishop to seek out a certain one-eyed cobbler — a man so chaste that, when a customer's lovely foot stirred an impure thought, he took his own awl to his eye, as the Gospel bids. 'So you can judge what a holy man he was,' the book adds." — vol-1 C3 · ch-05:33–35
 
 ### Factual / fidelity
-- Note [1] says "Malik Ṣāliḥ tortured to death 1261"; Mosul fell after a siege in **1262** (general history; not found in the refs). **S-06: still open** (F-02): the note's 1261 is Yule's own date ("surrendered to the Mongols in 1261 on promise of life", `yule-vol1.txt:15268`); 1262 has no source. Fix: keep 1261 and credit it: "surrendered in 1261, by Yule's dating, on a promise of his life, and was tortured to death". Content plan W2 still-open list. — vol-1 m11 · ch-05:57
+- Mosul: Yürekli and Jackson date the surrender to July–August 1262, against Yule’s 1261; al-Ṣāliḥ Ismāʿīl was captured and later killed. Correct Note [1]; exact death date and manner remain open (F-02, S-14).
 
 ### Dispute handling and Ramusio flags
 — none found
@@ -55,7 +55,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-03 Apparatus conventions (Notes format, ? marker)
 - S-04 Gazetteer authority (Mausul, Kisi, Bastra; A4)
 - S-05 Character registry (Hulagu and the Caliph in hero plate)
-- S-06 Fact verification sheet (m11 Mosul: Yule's 1261 kept, F-02)
+- S-06 Fact verification sheet, updated by S-14 (m11 Mosul: surrender 1262, F-02)
 - S-08 LaTeX build pipeline (D table, plates)
 - S-09 Map and diagram pipeline (A4)
 - S-10 ✓ Image generation pilot (GEN hero and secondary)
@@ -69,7 +69,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** backlog · **Depends:** S-06 ✓, `I-05.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-02 (open): Note [1] keeps Yule's 1261, credited: "surrendered in 1261, by Yule's dating, on a promise of his life, and was tortured to death". No 1262.
+    - Mosul: Yürekli and Jackson date the surrender to July–August 1262, against Yule’s 1261; al-Ṣāliḥ Ismāʿīl was captured and later killed. Correct Note [1]; exact death date and manner remain open (F-02, S-14).
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
@@ -110,3 +110,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 16 errors · 2 warnings — failing: archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-05-mausul-baudas.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+## S-16 handoff — T1 / T4
+
+- **Status:** backlog; apply during the existing chapter tasks. S16-E9: competing accounts of the caliph’s death; Muqaṭṭam as Neggaz’s comparison, not proven direct borrowing. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

@@ -30,6 +30,20 @@ For every factual correction the critique proposes from general knowledge rather
 - Chapter backlogs: replace "(unverified)" with the verdict
 
 ## Findings
+
+**S-14 intake update, 2026-11-11.** The supplied follow-up and the 25-claim trust audit are in [`S-14-raw.md`](../research/results/S-14-raw.md) and [`S-14-intake.md`](../research/results/S-14-intake.md). That follow-up alone did not inspect the requested primary sources; the following upgrades are from passages separately checked for this intake:
+
+- **F-02:** Jackson and Yürekli date Mosul’s surrender to July–August 1262; the exact day and manner of al-Ṣāliḥ’s death remain open.
+- **F-04:** Pelliot’s entry distinguishes the Temüge-line rebel from a Belgütei-line namesake.
+- **F-10:** Moule and Giles’s gazetteer translation records seven foundations, dates two to 1279 and Ta-hsing-kuo to 1281; dates and numbers must not be conflated.
+- **F-12:** Dehua is an identification with alternatives, so use “perhaps.”
+- **F-14:** the Quanzhou hull’s 12 bulkheads and 13 compartments are supported; discovery was in 1973 and excavation in 1974. The sinking date is approximate and limber holes qualify a simple watertight claim.
+- **F-15:** Jackson reports the Chinese and Persian accounts do not name the Polos; Ma reports Yang’s late-1290/early-1291 inference. The order is not the sailing date, and Cleaves’s and Haw’s exact arguments remain unread.
+- **F-17:** Jacoby’s interpretation of the 1310 will is now available; it does not prove Maffeo was a lifelong bachelor or resolve Yule’s 1309 date.
+- **F-22:** Feng and Hosne support Ricci’s Cathay identification before Góis’s mission; the alleged Jesuit comparison of Polo’s silences remains unsupported.
+- **F-24:** two institutional reports support the Ming pass’s 1372 date, but not the exact-site earlier remains.
+
+The original 2026-11-03 counts and library list below are a historical record, superseded for these rows by the current `registry/facts.md` and S-14 intake. W2 and the existing chapter backlogs have been updated; chapter changes remain part of W4. S-06 remains closed.
 _2026-11-03. No web research: each claim was read against Yule–Cordier in `refs/`, `registry/bibliography.bib` (its checked records), `gazetteer.csv`, the media file itself, and the two graded people runs. S-14's deep-research run was not used; it has not come back._
 
 **Count (S-14's 25 claims).**

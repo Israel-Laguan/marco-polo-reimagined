@@ -13,7 +13,8 @@ Pass A (base text):
     Roman locators in the narrative body are reported, not changed: they are recap
     scaffolding for the re-voice to remove.
 Without --apply it prints the changes and the report (dry run).
-Pass B (scholar names -> citation keys) waits on S-12's name -> key map.
+Pass B (scholar names -> citation keys) uses S-12's name -> key map and
+reports cases that need a reader's judgment.
 """
 import argparse
 import re
@@ -175,7 +176,7 @@ CONTEXT = {
     "Frances Wood": [(r"", "wood1995did")],
     "Moule": [(r"Quinsai|Kinsay|Hangzhou|Phoenix|palace|Palace", "moule1957quinsai"),
               (r"Christian|Nestorian|Mar Sar|Zhenjiang|Chinkiang", "moule1930christians")],
-    "Allsen": [(r"hunt", "allsen2006royal"), (r"textile|commodit|nasīj|nasij|brocade|personnel", "allsen1997commodity")],
+    "Allsen": [(r"hunt", "allsen2006royal"), (r"textile|commodit|nasīj|nasij|brocade", "allsen1997commodity")],
     "de Rachewiltz": [(r"Secret History", "derachewiltz2004secret"), (r"Wood|presence|silence|debate|repl", "derachewiltz1997marco")],
     "Morgan": [(r"Rubruck|edition", "jackson1990mission"), (r"survey", "morgan1986mongols")],
     "Jackson": [(r"Rubruck|edition", "jackson1990mission"), (r"Mongols and the West", "jackson2005mongols")],
@@ -188,7 +189,8 @@ WOOD_DEBATE = re.compile(r"Frances|Did Marco Polo|debate|scepti|Wood vs|Wood’s
 
 def load_map():
     import csv
-    rows = list(csv.DictReader(NAME_MAP.open(encoding="utf-8")))
+    with NAME_MAP.open(encoding="utf-8", newline="") as f:
+        rows = list(csv.DictReader(f))
     return {r["name_as_cited"]: r for r in rows}
 
 

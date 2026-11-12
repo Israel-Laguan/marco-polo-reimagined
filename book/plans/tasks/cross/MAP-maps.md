@@ -20,7 +20,7 @@ All geographic maps, generated as vectors from `gazetteer.csv`. City plans count
 | A10 | West road | II-6 | Cachanfu ≠ Xi'an; Kenjanfu = Xi'an (II-M2) |
 | A11 | South-west circuit | II-7 … II-9 | Caugigu ID conflict (Tonkin vs Kiang Hung) |
 | A12 | Canal spine | II-10 … II-13 | Nanghin, Saianfu dashed; two Vujus |
-| A13 | Fujian road + Zayton | II-14 | Tyunju = Dehua inset |
+| A13 | Fujian road + Zayton | II-14 | Tyunju = Dehua? inset; identification provisional |
 | A14 | Mongol horizon | II-15 | Land of Darkness dotted |
 | A15 | Invasions of Japan 1274/1281 | III-1 | — |
 | A16 | Cocachin return | III-9, III-F2 | Solid = Prologue-named; dashed = inferred; needs Abhar, Negropont |
@@ -65,8 +65,8 @@ S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format i
 - **Do:** Dadu/Shangdu, the Grand Canal, the four circuits; **inset: the Nayan theatre** (II-1, critique candidate folded in S-09).
 
 ### MAP.T09 — A9 Dadu (Cambaluc) city plan
-- **Status:** backlog · **Placement:** II-2 · **Depends:** S-09 ✓; Wall and gate coordinates from a cited plan (S-17), not from Natural Earth
-- **Do:** Lambert, no graticule; 11 gates (II-2 Note [17] gate dispute), palace city, Taiye lake, bell tower. Replaces `map-cambaluc.jpg`.
+- **Status:** backlog · **Placement:** II-2 · **Depends:** S-09 ✓; S-17 best-effort intake ✓, but wall and gate coordinates from an appropriately cited plan still need to be obtained, not inferred from Natural Earth
+- **Do:** Lambert, no graticule; 11 gates (II-2 Note [17] gate dispute), palace city, Taiye lake, bell tower. Use `xu2020dadu` as a reconstruction review; obtain a source for the specific plan and coordinates, distinguish excavated remains from reconstruction, and label uncertain palace elements. Replaces `map-cambaluc.jpg`.
 
 ### MAP.T10 — A10 The west road
 - **Status:** backlog · **Placement:** II-6 · **Depends:** S-09 ✓
@@ -74,7 +74,7 @@ S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format i
 
 ### MAP.T11 — A11 South-west circuit
 - **Status:** backlog · **Placement:** II-7 … II-9 · **Depends:** S-09 ✓
-- **Do:** Sindafu → Tebet → Carajan → Vochan → Mien; reported Bangala (no point: text label with a dotted arrow), Caugigu? (caption: Tonkin vs Kiang Hung), Cuiju?.
+- **Do:** Sindafu → Tebet → Carajan → Vochan → Mien; reported Bangala (no point: text label with a dotted arrow). Caugigu? is a disputed regional reference: attribute Yule's Kiang Hung reading and Pelliot's different Upper Red River interpretation in the caption. Anin and Coloman points also reflect one disputed regional interpretation, not confirmed sites; Cuiju? is a Guizhou regional hypothesis, not a proven Guiyang city identification. See S17-F4.
 
 ### MAP.T12 — A12 The canal spine
 - **Status:** backlog · **Placement:** II-10 … II-13 · **Depends:** S-09 ✓
@@ -82,7 +82,7 @@ S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format i
 
 ### MAP.T13 — A13 The Fujian road and Zayton
 - **Status:** backlog · **Placement:** II-14 · **Depends:** S-09 ✓
-- **Do:** Kinsay → … → Fuju → Zayton; Tyunju (Dehua) inset (a second, half-width map: `width: 2.2`). Cuju has no point: text label.
+- **Do:** Kinsay → … → Fuju → Zayton; Tyunju (Dehua?) inset (a second, half-width map: `width: 2.2`). The identification is provisional until a philological source is checked; kiln evidence alone does not establish the name. Cuju has no point: text label.
 
 ### MAP.T14 — A14 The Mongol horizon
 - **Status:** backlog · **Placement:** II-15 · **Depends:** S-09 ✓; `areas:` as A2
@@ -104,3 +104,9 @@ S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format i
 - **Status:** backlog · **Placement:** I-1 · **Depends:** S-09 ✓
 - **Do:** New in S-09 (critique candidate). Half-width (`width: 2.2`), Lambert, 1:10m. Curzola is `reported_only` (Ramusio's setting, F-34); Doria's raid as a dashed line.
 
+
+## S-16 best-effort map handoff (2026-11-11)
+
+- **A1 / A4 / A16:** Hormos? is an uncertain regional pin at modern Minab, not the archaeological site. The A1 and A16 pilots now use that label; when placing them, include the caption: “Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain.” Draw the outbound Hormos detour as reconstructed; the return landfall is a separate claim.
+- **A5:** Pein? plots the provisional Uzun-tatïr candidate and its caption names Keriya as an alternative. **A6:** Tenduc is a regional reference and Caracoron/Bargu are reported side-places; do not imply personal visits. **A4:** Tonocain's Qaen reference is not a provincial boundary, and the Dry Tree has no plotted point.
+- Full source and uncertainty decisions: [S-16 closeout](../../research/results/S-16-closeout.md). These cautions do not block map production.

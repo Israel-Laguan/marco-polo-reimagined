@@ -50,7 +50,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-02 Acceptance lint and thresholds
 - S-03 Apparatus conventions (compound tag, Gazetteer label, Ramusio flag style)
 - S-04 Gazetteer authority and naming policy (glosses, two Vujus, missing rows)
-- S-06 Fact verification sheet (Tyunju = Dehua F-12; Note [3] "local histories" F-13; 13 compartments F-14 open)
+- S-06 Fact verification sheet (Tyunju = Dehua F-12; Note [3] "local histories" F-13; 13 compartments F-14, partly confirmed)
 - S-08 LaTeX build pipeline (plates, map, diagram, cutaway)
 - S-09 Map and diagram pipeline (A13, C7, C12)
 - S-10 ✓ Image generation pilot (GEN hero, secondary; C12 cutaway base)
@@ -64,9 +64,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** backlog · **Depends:** S-06 ✓, `II-14.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-12: keep "probably Dehua" (Cordier); drop only the "sole source" boast.
+    - F-12: Tyunju is perhaps Dehua, an identification with alternatives; do not call it settled.
     - F-13: Note [3]: "Yule reports Fujian local histories crediting men from the West, in Mongol times, with teaching the art of refining; Ramusio's 'Babylonia' is Cairo."
-    - F-14 (open): no Quanzhou wreck in the Notes.
+    - F-14: the Quanzhou wreck was found in 1973 and excavated in 1974; twelve bulkheads divide thirteen compartments. The 1270s sinking date is approximate. Limber holes complicate a blanket watertight claim.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
@@ -108,3 +108,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 29 errors · 6 warnings — failing: archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, tags, verbatim, you_must_know; warnings: openers, ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-14-fuju-zayton.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research handoff (2026-11-11)
+
+S17-E6: UNESCO 2021 decision 44 COM 8B.15 describes the Quanzhou maritime system; this supports context, not an exact pepper volume or Polo’s personal visit. Tyunju = Dehua remains to check; retain S-14. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

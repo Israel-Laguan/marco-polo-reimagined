@@ -45,6 +45,18 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Do:** S-08 set **Noto Serif** because Debian's `fonts-junicode` has no italic. If a more medieval face is wanted, install Junicode 2 from upstream (OFL; it has italics, small caps and the same diacritics) into `~/.local/share/fonts` **after the user approves the download**, switch the one `\setmainfont` line in `book.latex`, and rebuild the sample and S-09's map and timeline (they share the face).
 - **Done when:** the user has chosen, and the sample build is clean with the chosen face.
 
+### BLD.T8 — Flag unresolved scholar citations
+- **Status:** partly done 2026-11-11 · **Depends:** S-24, chapter `.T4` work
+- **Do:** add the surname check proposed in S-24 to the citation lint. Use `registry/name-keys.csv` and distinguish an unkeyed modern scholar from a primary witness explicitly cited through YC; do not assume that a key anywhere in a Note supports every name. Treat common words and ambiguous names conservatively, reporting cases for review rather than assigning works automatically. Track false positives such as already-keyed Needham references.
+- **Done when:** representative keyed and unkeyed modern names, via-YC witnesses, repeated names, and ambiguous common words have been checked; severity is adopted only after the remaining manuscript debt is accounted for. The existing `cite_keys`, `roman_locators`, and `epigraph_credit` checks do not implement this rule.
+- **Done:** `unkeyed_scholars` errors when a Note names a mapped modern scholar but contains none of that name's mapped candidate keys, including context-dependent and needs-edition cases; it does not pick a work. Tests cover keyed/unkeyed and repeated names, a via-YC witness and common words. On the current 49 files it finds no such errors; the 1,014 pre-existing errors are unchanged. **Limits / left:** Hall and the bare surname Wood are too ambiguous for this check; primary witnesses handled through YC are excluded. A matching candidate key elsewhere in a Note suppresses the diagnostic even when that particular mention needs a different work. Review these cases in `.T4` / APP.T6 and improve claim-level association before relying on the check as proof that every attribution is supported.
+
+### BLD.T9 — Citation parity in previews and EPUB
+- **Status:** ready · **Depends:** S-24, the preview / EPUB build
+- **Do:** wire Pandoc citeproc with the chosen Chicago author-date CSL and ensure the YC and YC Add. sigla, locators, volume-specific *Works cited*, and abbreviations explanation survive into previews and EPUB. Verify against the print build with real examples including `[@yc, 1.61]` and `[@ycadd, on 2.23]`.
+- **Evidence:** on 2026-11-11, `printf '%s\n' 'A reference [@yc, 1.61].' | pandoc --citeproc --bibliography plans/registry/bibliography.bib -t plain` printed `(Polo 1903, 1.61)`, not `(YC 1.61)`. This default-style probe does not establish what a configured Chicago CSL can do. The PDF's biblatex shorthand configuration does not automatically carry over to citeproc.
+- **Done when:** a configured preview and EPUB render both sigla and locators correctly and list only the sources cited in the volume; any style customization is checked into the build and documented.
+
 _Still to write:_ `BLD.T3` media regeneration (one command).
 
 - `BLD.T3` wraps the two S-09 commands: `tools/media/.venv/bin/python tools/media/map.py` (all maps) and `python3 tools/media/timeline.py` (all timelines), each after its `--test`.

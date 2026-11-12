@@ -20,7 +20,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Columbus over-simplified: "owned and annotated a Latin Polo, almost certainly in the Pipino tradition" — it *is* Pipino, the c. 1483–85 Gerard Leeu printing in the Biblioteca Colombina, Seville. The chapter implies the postils fed the 1492 project; the John Day letter (1497/98) suggests Columbus obtained or annotated the copy after the first voyage; his pre-1492 Polo came chiefly through Toscanelli's 1474 letter (Quinsay, Cipangu), and Toscanelli is never named here (III-B1:37 names him); the link to the *Book of Prophecies* is loose. Fix: add the edition, add Toscanelli, add "whether the annotations precede 1492 is debated". — vol-3 M4 · ch-11:22
 - "Genoa's most famous son after — and beside — the Venetian" muddles Polo (Venetian) with Genoa. — vol-3 n9 · ch-11:22
 - Catalan Atlas probably does not show Chipangu: :14 says "Chipangu (Japan) gleams as an island of reported wealth beyond the China Sea" on the 1375 Atlas; the standard view is that Japan first appears in European cartography on Fra Mauro's map (c. 1450–59, *Zimpagu/Cimpagu*) — **S-06: still open** (F-20): Yule's survey of the Atlas names no Chipangu but does not say it is absent; "Zimpagu" is not in refs. Also hedge "commissioned for the Crown of Aragon": Yule has it "in the great Library of Paris", and Cordier calls it the Atlas of Charles V ("by 1380" not seen); "within three generations" is about 51 years after 1324. Fix: drop the Chipangu sentence from the Atlas paragraph; keep Cathay, Chanbalech and Chansay; give Fra Mauro (1459) no "first" claim until seen. — vol-3 M5 · ch-11:14
-- Jesuit paragraph omits Bento de Góis (1602–07) and Ricci's identification of Cathay with China; asserts without support that Jesuits "measure[d] silences" (tea, foot-binding) against Polo — **S-06: no source; cut** (F-22). Góis: Pamir 1603, died at Suzhou (Yule); Ricci's Cathay = China waits for a seen source. Print paragraph gives no dates: supply 1477 German (Nuremberg), 1483–84 Latin (Leeu, **Gouda**, not Antwerp), 1496 Venetian, 1502 Portuguese (Lisbon), 1503 Santaella (Seville), 1559 Ramusio, posthumous (F-21). — vol-3 m13 · ch-11:26, :28
+- F-22: Ricci identified Cathay with China before Góis’s overland journey (Feng and Hosne); Góis died at Suzhou in 1607. Cut the unsourced assertion that Jesuits measured Polo’s silences. Add the print sequence (F-21): 1477 Nuremberg, 1483–84 Gouda, 1496 Venice, 1502 Lisbon, 1503 Seville, and 1559 Ramusio. — vol-3 m13 · ch-11:26, :28
 
 ### Dispute handling and Ramusio flags
 - Cocachin corroboration: :32 and Note [11] lean on Rashid without the Yang Zhijiu 1941 *Yongle dadian* notice (three envoys, 1290) or the fact that neither source names the Polos. Fix: one sentence in [11]. — vol-3 M1 · ch-11:32, :60
@@ -63,9 +63,9 @@ _Created after the gating spikes close. Expected shapes:_
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-27: delete epigraph 2 and its echo at :22, or quote Yule III.ii ("the quantity of gold they have is endless").
     - F-19: Columbus's copy is Leeu's Latin, Gouda 1483–84, in Seville; the postils are "of debated date"; Columbus first knew Polo through Toscanelli's letters (Yule). No 1474 until seen.
-    - F-20 (open): no Chipangu on the Catalan Atlas, no "first" for Fra Mauro (1459); "later in the French royal library", not "commissioned for the Crown of Aragon".
+    - F-20 (open): remove the unsupported Chipangu claim for the Catalan Atlas; no "first" for Fra Mauro (1459); "later in the French royal library", not "commissioned for the Crown of Aragon".
     - F-21: print dates 1477 Nuremberg, 1483–84 Gouda, 1496 Venice, 1502 Lisbon, 1503 Seville, 1559 Ramusio (posthumous); no 1477 printer.
-    - F-22: Góis crossed the Pamir in 1603 and died at Suzhou (Yule); cut the Jesuits "measuring" Polo's silences; Ricci's Cathay = China only from a seen source.
+    - F-22: Ricci identified Cathay with China before Góis’s overland journey (Feng and Hosne); Góis died at Suzhou in 1607. Cut the unsourced assertion that Jesuits measured Polo’s silences.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
   - **S-13 ✓ (`registry/scholarship.md`):**
     - Add the 2024 anniversary as an event: the Palazzo Ducale exhibition (6 April – 29 September 2024), the *Codice Diplomatico Poliano*, the new editions (V, 2019; the digital edition in progress). The Foligno manuscript is press-only: leave it out until the census (`burgio2025censimento`) is seen.
@@ -80,13 +80,13 @@ _Created after the gating spikes close. Expected shapes:_
   - Verbatim already within limit; voice and structure pass only.
   - **Structure (S-07 ✓): target 2,400–2,800. The reception as events, from 1375;** the arguments belong to III-12. Section plan in `plans/spikes/S-07-structure-length.md` § 3:
     1. Open in the scene, not "Tradition has it" (:12).
-    2. Catalan Atlas (:14–16): no Chipangu; French royal library (F-20); aside :16 ≤ 80.
-    3. Fra Mauro (:18): Japan first as *Zimpagu*, hedged (F-20); cut "Anyway".
+    2. Catalan Atlas (:14–16): omit unsupported Chipangu attribution; French royal library (F-20); aside :16 ≤ 80.
+    3. Fra Mauro (:18): an early named depiction of Japan, with no unqualified first claim (F-20); cut "Anyway".
     4. Lesser charts (:20).
     5. **Add Toscanelli** (~100): the 1474 letter, hedged (F-19).
     6. Columbus (:22–24): Leeu's Gouda Latin 1483–84, the Colombina; postil dating debated (F-19); quote per F-27; n9. Aside :24 ≤ 80.
     7. Print (:26): **add the dates** 1477, 1483–84, 1496, 1502, 1503, 1559 (F-21).
-    8. Jesuits (:28): **add Góis** with Yule's facts only; cut "measured silences"; Ricci hedged (F-22).
+    8. Jesuits (:28): **add Góis** and Ricci’s identification of Cathay with China; cut "measured silences" (F-22).
     9. Modern scholarship (:30) ~250.
     10. **Wood as an event** (:32, 325 → ~120): 1995, the reaction, her central claim in one clause, the replies by date (1997, 2006, 2013); point to III-12 §6.
     11. **Cut "Why a formal retelling now"** (:34) to one forward sentence; its content belongs to III-12 §8.
@@ -124,3 +124,6 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 52 errors · 3 warnings — failing: asides, markers, quote_verify, scaffolding, tags; warnings: names, openers, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-11-afterlives.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 source sweep:** `registry/enrichment.md` S15-H2–H4, H6–H7: Bolognari's comparison of Pipino's Maffeo deathbed story and Jacopo's Marco story; the 1319 person-name and early Pipino title; the dependence of Jacopo's treasury passage on Polo textual tradition; Cigni's prisoner-copyists; and Bonaguisi's 1392 copyist's doubt via de Rachewiltz/Benedetto. Each is evidence of a specific witness or textual network, not a census of belief or independent proof of the reported Asian customs. See `research/results/S-15-other-claims-intake.md`.

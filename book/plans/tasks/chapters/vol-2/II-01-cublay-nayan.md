@@ -103,3 +103,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 4 warnings — failing: archaism, asides, budgets, recaps, scaffolding, verbatim, you_must_know; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-01-cublay-nayan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research limit (2026-11-11)
+
+The supplied report does not establish that the elephant-borne command platform or other color in the Nayan campaign is independently attested. Treat those details as Polo's account until a passage-by-passage *Yuan shi* comparison is checked; see [S-17 intake](../../../research/results/S-17-intake.md) and the [follow-up prompt](../../../research/S-17-follow-up-prompt.md). The II-1 comparison table must label its witnesses.

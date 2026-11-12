@@ -120,3 +120,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 1 warnings — failing: archaism, asides, budgets, first_person, markers, quote_verify, ramusio, scaffolding, verbatim; warnings: ramusio
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-12-caracoron-tenduc.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+## S-16 handoff — T1 / T4
+
+- **Status:** backlog; apply during the existing chapter tasks. S16-E5 and S-16 closeout: Great Hall as temple, hypothetical palace, disputed Tenduc. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

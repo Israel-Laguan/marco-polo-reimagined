@@ -98,3 +98,11 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 6 errors · 3 warnings — failing: asides, budgets, quotes; warnings: recaps
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 intake → I-01.T1/T4:** Follow `registry/facts.md` S15-F2–F3 and `research/results/S-15-raw.md` #11–15. Attribute Jacopo's 1296 Ayas account and Ramusio's Curzola story; identify Yule/Bolognari's 1294 interpretation as an argument, not a refutation of any possible later skirmish. The exact prison, shared cell, Rustichello's lay status and Meloria capture are unverified; frame composition as collaboration. Cite Bolognari 2024 and Yule for Notes.
+
+**External S-15 check:** Cigni 2017 makes a strong contextual case that Rustichello was among the Meloria prisoners, without an individual capture document. Identify this as Cigni's inference; his article supports identifying the collaborator with the Arthurian compiler. See `research/results/S-15-external-intake.md`.
+
+
+**S-15 source sweep:** Cigni 2017 discusses named Pisan prison-copyists, including Taddeus's 1288 colophon (`registry/enrichment.md` S15-H6). It is usable as a prison-writing milieu, not an individual document naming Rustichello as a Meloria captive.

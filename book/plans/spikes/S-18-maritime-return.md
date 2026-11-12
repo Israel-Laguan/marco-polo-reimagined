@@ -1,6 +1,6 @@
 # S-18 — Maritime Asia and the return voyage (Vol. III)
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** Vol. III `.T1`/`.T4` enrichment; `GAZ` rows for Vol. III (feeds S-04); `MAP` A15–A17; `DIA` (monsoon calendar, ship cross-section C12); Vol. III back-matter trivia
+**Status:** done (best-effort intake, 2026-11-12; follow-up research open) · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** Vol. III `.T1`/`.T4` enrichment; `GAZ` rows for Vol. III (feeds S-04); `MAP` A15–A17; `DIA` (monsoon calendar, ship cross-section C12); Vol. III back-matter trivia
 
 ## Question
 What do maritime archaeology and Indian Ocean history add to Polo's ships, islands, ports and return voyage? What are the best current identifications for his disputed sea-route places?
@@ -41,22 +41,42 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 ```
 
 ## Output (definition of done)
-- [ ] `research/results/S-18-raw.md` saved
-- [ ] Identifications for the uncertain Vol. III rows, handed to S-04
-- [ ] `registry/enrichment.md` § Vol. III; voyage and monsoon data in `registry/facts.md` (tag `DIA`)
+- [x] `research/results/S-18-raw.md` saved (supplied report kept verbatim; audited in the [intake](../research/results/S-18-intake.md))
+- [x] Identifications for the uncertain Vol. III rows handed to S-04 (§ S-18 handoff): no row changes
+- [x] `registry/enrichment.md` § S-18; voyage and monsoon data in `registry/facts.md` § S-18 (tag `DIA`)
 
 ## Feedback to plan
 - `multimedia-plan.md` § A (A15–A17 route) and § C (C11 monsoon, C12 junk cross-section)
 - `illustration-plan.md`: caption facts for the junk, Chipangu invasion and pearl-fishery plates
 
 ## Follow-up prompts
-_(add here if the results leave gaps)_
+The [targeted follow-up prompt](../research/S-18-follow-up-prompt.md) covers what the run left open and the base text could not answer. Pelliot's BASMAN and SEMENAT come first, then EI XII (Motupalli), Talbot on Rudrama, Moule–Pelliot on the fleet and survivor counts, the Trebizond loss in the family documents, Taddesse Tamrat on Abash 1288, the Takashima reports, Kayal and Qalhat, the Pasai gravestone, the Pandya brothers, Champa/Malaiur in Hall and Miksic, and the Konjikidō link. Items 1–3 need a person with library or Toyo Bunko access.
+
+**Follow-up run taken in (2026-11-12):** [raw](../research/results/S-18-followup-raw.md) · [intake](../research/results/S-18-followup-intake.md). It read Pelliot's BASMAN and SEMENAT, EI XII no. 22, Talbot, Moule–Pelliot vol. I with Maffeo's will, Dayalan, Rougeulle, Hall and Nilakanta Sastri. Its Pelliot "page corrections" are scan numbers and are rejected. Still open: Pelliot FERLEC/LAMBRI/PENTAN/SEILAN (scans II/0129, 0165, 0206), Orlandini, Trimingham/Pankhurst/Taddesse Tamrat, Lambourn and Guillot–Kalus read directly, Karashima, Miksic, Sasaki's chapters, CiNii on the Konjikidō.
 
 ## Findings
-_(fill while working)_
+[Supplied raw report](../research/results/S-18-raw.md) · [gap audit, base-text answers, checked findings and gazetteer handoff](../research/results/S-18-intake.md).
+
+The report is honest about its gaps but did not read Yule. The base text answers four of its open questions. (1) Polo describes a **sepulchre** on Adam's Peak, not a footprint. (2) The fleet is **13** ships, not 14. (3) "600" is two different figures: the French text has 600 embarked and 8 (G.T. 18) survivors; Ramusio has 600 dead. (4) Yule himself raised and rejected the Amda Ṣeyon parallel for the 1288 Abash war. The Book has no Trebizond robbery.
+
+The report also missed the project's Pelliot readings for Locac, Malaiur and Dagroian; Pelliot does discuss Langkasuka, and rejects it. Five citations were wrong or incomplete and are corrected from Crossref: the Nanhai I and Sen DOIs, the Talbot year, the authors of the typhoon study and of the 1964 essay. Newly checked: the Gulf of Mannar midden study, the Deng–Li monsoon calendar, the kamikaze sediment study, Kovesi's rhinoceros essay, Prange, Sen and Talbot. Leads only, not yet citable: Ganapatideva's Motupalli charter (EI XII no. 22, 1244–45) and Yagbeʾa Ṣeyon (r. 1285–94) as Polo's Abash king. Most of the report's "confirmed" rows rest on Wikipedia and stay leads.
+
+**After the follow-up:**
+- Fleet: 13 ships (Yule/Pauthier) or 14 (F, Moule–Pelliot). Survivors: 8 or 18. Deaths: 500–700 by witness.
+- F-31 is corrected: Rudrama was Ganapati's daughter, r. 1263–89 (Talbot).
+- The Motupalli charter is Ganapati's, 1244–45 (Hultzsch, EI XII).
+- The "Trebizond robbery" is a ~4,000-hyperpera *loss* in Maffeo's 1310 will.
+- Sonder Bandi: c. 1276–1292/93.
+- Qalhat grew from Polo's decade on (Rougeulle).
+- Java was an entrepôt for spices, not their producer (Hall).
+- The Pasai gravestone's date is disputed.
+- The Konjikidō link is not a scholarly identification.
 
 ## Decision
-_(fill when closing)_
+Close this timeboxed intake **best effort**. It does not claim the historical questions are settled. Use only the base-text answers and the source-checked rows in the intake; everything marked *lead* waits for the follow-up. No gazetteer row changes: the Pelliot readings already in the rows outrank the report. The monsoon panel (C11) keeps its simplified months, now with a citation. The C12 junk keeps the 13 compartments (F-14).
 
-## Tasks to create on close
-- Vol. III `.T1`/`.T4` items; `GAZ.T*`; `DIA.T*` data; `III-B1` trivia
+## Tasks created on close
+- Chapter backlog handoffs are listed in the intake under "Corrections to carry into Vol. III files": III-01, III-04, III-06, III-07, III-09, back-01. These are future Notes and re-voice work, not manuscript edits; ch-09 [14] and F-23 already carry the 8/18 survivors and the sepulchre.
+- `GAZ.T6`: S-04 § S-18 handoff (no changes; Pelliot BASMAN/SEMENAT pending).
+- `DIA`: facts S18-F1–F6 feed A15, A16, C11, C12 and the III-9 plate brief (13 ships, as it already says).
+- `III-B1` trivia candidates: S18-E1, E2, E6, E8 in `registry/enrichment.md`.

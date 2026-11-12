@@ -109,3 +109,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 13 errors · 3 warnings — failing: archaism, asides, budgets, scaffolding, verbatim; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-02-house-of-polo.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+**S-14 update (F-17):** Jacoby reads the traveller’s 1310 will as showing no wife or descendants then, but earlier marriage or children remain possible. Yule dates a last will to February 1309; the primary documents and the discrepancy remain to be checked. Do not call him a lifelong bachelor.
+
+
+**S-15 intake → I-02.T1/T4:** Follow S15-F1, F4, F9–F10 and `research/results/S-15-raw.md` #2–6, #9–10. Attribute the Book's account of his mother, hedge Fiordelisa and 1254; the Elena identification is disputed. For the uncle, Jacoby infers no wife or offspring at his 1310 will; no lifelong bachelor claim. Gullino cites 6 Feb 1310 and Yule reports Feb 1309: compare records before harmonizing; never label it merely a calendar correction. The elder brother's ship is unverified.
+
+**External S-15 check (supersedes bachelor/source instructions above):** F-17 now records Bolognari–Simion's identification of Maffeo as Marta's widower, quoted in Burgio 2024; do not claim childless because Bruno gives a conflicting account. Tanase 2025 traces Andrea of San Felice to Ramusio and finds no surviving document. For the wills, Yule explicitly has 1308 Venetian style → 1309 modern; Gullino reports 1310 modern. A simple calendar conversion does not reconcile the one-year difference. See `research/results/S-15-external-intake.md`.

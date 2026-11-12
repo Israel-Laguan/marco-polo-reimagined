@@ -75,7 +75,7 @@ _Created after the gating spikes close. Expected shapes:_
     1. Homecoming tableau (:9–17, ~740 → ~400), framed as Ramusio's tradition from its first sentence (one flag); Malipiero chain as one aside.
     2. *Il Milione* (:19) ~200.
     3. Marriage and daughters (:21–23) ~250: Donata Badoer (F-16).
-    4. Cepoy (:25) ~200; Pipino (:27) ~170, c. 1310–1314 (F-18).
+    4. Cepoy (:25) ~200; Pipino (:27) ~170, probably the 1310s; 1310–1314 remains unverified (F-18).
     5. Early readers: d'Abano, *Bauduin*, and the first half of :39, merged ~300.
     6. **Reordered:** the will (:33, ~170: trustees, San Lorenzo, Peter the Tartar, Donata, daughters) → Jacopo's deathbed line (from :39) → death 8/9 January 1324 (F-35) and burial (:35) ~150.
     7. Portraits and relics (:37) as an aside ≤ 80 words.
@@ -112,3 +112,11 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 35 errors · 1 warnings — failing: archaism, asides, length, markers, scaffolding, tags, verbatim; warnings: sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-10-ca-polo-milione.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 intake → III-10.T1/T4 (supersedes the definitive Agnese and 1309 statements above):** Follow `registry/facts.md` S15-F4–F10 and `research/results/S-15-raw.md`. Agnese's will names a Marco Polo as father; Orlando treats the identification as possible. Her birth/death years and mother remain unproven; read Bolognari 2021 before stronger wording. The inventory was made in 1324 and copied in a 1366 judgment; the reread jewel is not a Mongol headdress. Will: Marciana, Cod. Lat. V, 58 (=2437), no. 33 per Bartoli Langeli’s 2019 critical edition (replacing the earlier folio wording); Pietro's travel from Asia is unproven. Keep Ramusio's homecoming and Jacopo's deathbed testimony attributed. Give 8 or 9 January without asserting sunset reconciles the records.
+
+**External S-15 check (supersedes F-16 wording above):** Bellela married Bertuccio Querini, per Bolognari 2020 using Gallo's 1326–27 acts; Moreta married Tommaso Gradenigo after Dolfino per Gullino. Do not state Bellela's exact death year until 1326/1328 references are checked. The critical inventory edition explicitly has a gold command tablet valued at 20 lire; its interpretation as a paiza follows Burgio. See `research/results/S-15-external-intake.md`.
+
+
+**S-15 source sweep → T1/T4:** `registry/enrichment.md` S15-H1–H3. Replace the unsupported “Paduan consulting room” with a qualified setting: Bottin 2008 infers a Venice meeting c. 1300–1303; the *Conciliator* is the witness for the story, not independent proof of the sky object's identity. Bottin considers a comet and a possible Southern Cross. Bolognari 2024 compares Pipino's Maffeo deathbed testimony and Jacopo's Marco story, suggesting possible literary influence; it does not prove either event. Add the 1319 confraternity list as reported by Bolognari and distinguish person nickname from book title. Passage-by-passage access notes in `research/results/S-15-other-claims-intake.md`.

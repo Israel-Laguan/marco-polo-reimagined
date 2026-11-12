@@ -20,7 +20,7 @@ The recurring people of the book, as one source of truth for **text** (names, da
   - Maffeo's marital status (I-2; S-06 still open, F-17; `CHR.T7` → S-15).
   - Baibars's dates (I-3): `characters.yaml` bundukdar gives "1260–77" and "1 July 1277"; Yule says he reigned 1259–1276. S-06 still open, F-39; until a source is seen, the row's `dates` should read "Mamluk sultan (Yule: 1259–1276)".
   - Argon's death day, 7 or 10 March 1291 (III-9, S-05).
-  - Rustichello is a layman (I-1 plate).
+  - Rustichello’s lay or clerical status is unverified (I-1 plate; S-15).
 - Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.
 - Co-presence: `tools/characters.py ages` proves no Polos at Xiangyang (II-11), no Chabi after 1281 (II-03), no Argon at the bride's arrival (III-9 secondary). The text, not the itinerary, keeps the Polos off the Nayan field (II-01) and out of Bayan's camp (II-10).
 - Waiting on: costume entries from S-22 (headgear, hair, armour by period) for the `dress` lines; the open facts in `CHR.T7` (library checks; family rows via S-15).
@@ -47,7 +47,7 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 
 ### CHR.T4 — Contested facts to verdicts
 - **Status:** done (2026-10-22) for everything research could settle
-- **Did:** two research runs, graded in `research/results/CHR-people-intake.md` (run 1: leads only) and `CHR-people-2-intake.md` (run 2: claims read against Yule, two DOIs and the Formentin–Schiavon article; 8 of 11 hold). Settled and written into the registry: Argon's death (10 March 1291), Marco's death (8 or 9 Jan 1324), Fantina's marriage and suit, Niccolò's illegitimate sons, Maffeo's 1309 will, the Zhenjiang churches, the Arghun envoys' notice. `verify` cleared on `fantina`; the other pointers stay with the spikes that own those topics (S-14, S-15).
+- **Did:** two research runs, graded in `research/results/CHR-people-intake.md` (run 1: leads only) and `CHR-people-2-intake.md` (run 2: claims read against Yule, two DOIs and the Formentin–Schiavon article; 8 of 11 hold). Settled and written into the registry: Argon's death (10 March 1291), Marco's death (8 or 9 Jan 1324), Fantina's marriage and suit, Niccolò's illegitimate sons, Yule's report of Maffeo's 1309 will (now qualified by S-15), the Zhenjiang churches, the Arghun envoys' notice. `verify` cleared on `fantina`; the other pointers stay with the spikes that own those topics (S-14, S-15).
 - **Left over:** the facts no search run could settle moved to `CHR.T7`.
 
 ### CHR.T5 — Costume refinement from S-22
@@ -56,7 +56,7 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Done when:** each card's dress lines cite an S-22 entry or a period source.
 
 ### CHR.T7 — Library checks for the open people facts
-- **Status:** backlog · **Depends:** library or archive access; the family rows are picked up by **S-15**'s intake (listed in its *Inputs*)
+- **Status:** backlog for source-level checks · **Best-effort research:** done in S-15; further progress depends on the named editions, library or archive access. The project may proceed using the hedges in the registry.
 - **Why here:** two research runs could not settle these (`research/results/CHR-people-2-intake.md` § Still open). Each needs a specific book or record seen, not another search run.
 
   | Row | Open question | Where to look | Owner |
@@ -64,11 +64,11 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
   | `chabi` | Birth 1216 or 1227 (age blank until then) | *Yuan shi* 114 (biographies of empresses); Rossabi 1988 | CHR.T7 |
   | `dorji` | Mother (Chabi or another wife); birth year | *Yuan shi* 107 (imperial genealogy) | CHR.T7 |
   | `coja` | Did any envoy survive besides Coja? | Cleaves 1976, full text (JSTOR) | CHR.T7 |
-  | `maffeo` | Married? Children? (I-02's "bachelor") | Orlandini 1926 | S-15 |
-  | `bellela` | Her husband (Bertuccio Querini is only a lead) | Orlandini 1926; the 1324 will in Moule–Pelliot 1938 I | S-15 |
-  | `marco` | The daughter Agnese (b. 1295–99): see the article before III-10 changes; any document for 1254 | Bolognari, *Studi Medievali* 62 (2021) | S-15 |
-  | `rustichello` | Was he a layman? (the I-01 plate assumes it) | Larner 1999; scholarship on the Arthurian compilation | S-15 |
-  | `peter-the-tartar` | Shelfmark of the will, as seen | Plebani 2019; Marciana catalogue | S-15 |
+  | `maffeo` | Married to Marta per Bolognari–Simion via Burgio; children disputed; compare the original and dates | Orlandini 1926 doc. 6; 1328 act; Bolognari–Simion 2024 | CHR.T7 |
+  | `bellela` | Husband Bertuccio Querini confirmed by Bolognari 2020 citing Gallo; reconcile 1326 and 1328 references for death | Gallo 1957–58 pp. 320–21; 1328 act | CHR.T7 |
+  | `marco` | Possible daughter Agnese: see Bolognari before stronger identification or birth date; 1254 is inferred | Bolognari, *Studi Medievali* 62 (2021) | CHR.T7 |
+  | `rustichello` | Lay or clerical status remains unknown; card presents clothing as a convention | Larner 1999; scholarship on the Arthurian compilation | CHR.T7 |
+  | `peter-the-tartar` | **Settled at edition level:** Cod. Lat. V, 58 (=2437), no. 33; manuscript and live catalogue not inspected | Bartoli Langeli in Plebani 2019, edition read | done; catalogue optional |
 
 - **Do:** for each row, see the source, write the verdict into `characters.yaml` (`dates`, `relations`, `book_says`), add the work to `registry/bibliography.bib` as `confirmed`, and update the *Contested facts* table in `registry/characters.md`. Where a verdict changes an age (Chabi, Dorjé), run `tools/characters.py ages` and adjust the cards.
 - **Done when:** every row above has a seen source or an agreed hedge in the chapter text.
@@ -77,3 +77,12 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Status:** backlog · **Depends:** every narrative chapter's `.T3` (each carries a **People (S-05 ✓)** step)
 - **Do:** after each W4 batch, run `tools/characters.py chapters` and `report --md > plans/status/character-name-diff.md`. When the last narrative chapter has had its pass, make the people half of `name_policy` an error, together with `GAZ.T7`.
 - **Done when:** the report shows 0 bare variants and 0 unglossed first mentions; the rule is an error.
+
+
+### S-15 handoff — family and collaborator records (2026-11-11)
+
+**Applied:** `characters.yaml` now qualifies Agnese and her proposed dates/parentage, the two Maffeo will reports, capture, Rustichello's role and lay status, and Pietro's will identifier (no. 33 in the 2019 edition). `registry/characters.md` contested table updated. Source-by-source verdicts and unverified works: `research/results/S-15-raw.md` #6–15, #19.
+
+**CHR.T7 remains open:** read Orlandini and compare the 1309/1310 testament evidence; see Bolognari 2021 before treating Agnese as the traveller's proven daughter; check Bellela's death date in the underlying 1326–28 records; check Rustichello's lay status. Don't turn Yule's silence into proof Bellela was unmarried. The will is Cod. Lat. V, 58 (=2437), no. 33 in Bartoli Langeli’s 2019 edition; the archival original was not inspected. No precise Donata marriage year is demonstrated.
+
+**External S-15 check (2026-11-11) supersedes earlier handoff:** Bellela's husband Bertuccio Querini is supported by Bolognari 2020 citing Gallo, and Moreta's second marriage by Gullino. Maffeo married Marta per Bolognari–Simion through Burgio 2024; whether he had children is disputed. Andrea is attributed to Ramusio, not an independently seen document. See `research/results/S-15-external-intake.md`. CHR.T7 remains open for will text and death-date reconciliation.

@@ -50,7 +50,7 @@ Two independent questions, two columns.
 ## Coordinates
 
 - Latitude and longitude are **approximate modern centroids** (city, oasis, river crossing or region), rounded to four decimals. They suit maps and storytelling, not archaeology.
-- `disputed` rows carry the coordinates of the identification the chapters follow; the alternatives are in `notes`. `unfixed` rows leave them blank on purpose, as do two `disputed` rows whose candidates are too far apart to pick one (*Bangala*: Bengal or Pegu; *Cuju*).
+- `disputed` rows carry the coordinates of the identification the chapters follow; the alternatives are in `notes`. `unfixed` rows leave them blank on purpose, as do `disputed` rows where no defensible point has been selected (*Bangala* and *Cuju*). For *Hormos*, the point is a regional reference at modern Minab, not the site of Old Hormuz; every map must label it “Hormos? (Minab area)” and explain the proxy in its caption.
 - Region rows (*Persia, Cathay, Manzi, Turcomania, Rosia*, the two Hermenias) are labels, not points. Plot the cities, label the regions.
 - **Provisional points.** Many `probable` rows (small Manzi stage-towns, Brius, Camadi, Avah, Casem and the like) carry coordinates set from Yule's or Cordier's notes at the level of a county seat. They are good for a map at book scale and need checking before a close-up (see `GAZ.T6`).
 

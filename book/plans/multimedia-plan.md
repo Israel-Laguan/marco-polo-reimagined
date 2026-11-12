@@ -24,7 +24,7 @@ One file holds it: `tools/media/style.yaml`, read by both `map.py` and `timeline
 | Palette | Land parchment `#F1EBDD`, sea `#E3ECEF`, coast `#8C8A84` (0.25 pt), rivers `#9FBACB` (major only, Natural Earth `scalerank ≤ 3`). Ink `#2B2A28`, soft ink `#6E6B66`. |
 | Volume colours | Route lines and accents: **I** madder `#A8432B` (the road), **II** ochre `#B7871F` (Cathay and Manzi), **III** indigo `#1F5A85` (the seas). A leg map uses its volume's colour; A1 uses all three. |
 | Line semantics | **solid** = the Book states it; **dashed** = reconstructed or inferred; **dotted** = reported only, not travelled. 1.1 pt. Every route segment in a map's YAML names one of the three, with a comment saying why. |
-| Place markers | A grey ramp by gazetteer `reliability`, so markers never compete with route colours and survive greyscale: visited = black, probably visited = grey, reported only = white with black ring, uncertain = white with grey ring. `legendary` and `unfixed` rows are never plotted (map.py refuses them). |
+| Place markers | A grey ramp by gazetteer `reliability`, so markers never compete with route colours and survive greyscale: visited = black, probably visited = grey, reported only = white with black ring, uncertain = white with grey ring. `legendary` and `unfixed` rows are never plotted (map.py refuses them). Approximate regional reference pins carry an explicit area label and caption; **Hormos? (Minab area)** uses Minab as a proxy, not the archaeological site. |
 | Disputed places | `id_confidence = disputed` adds **?** to the label (*Pein?*); the caption names the alternative. |
 | Base map | Natural Earth (public domain) land, lakes, rivers: 1:50m for overviews (A1, A2, A16), 1:10m for regional maps. **No modern borders**: they are anachronistic on a 13th-century route; regions are labels. |
 | Projection | Equal Earth for spans over ~60° of longitude (straight parallels, honest edge labels); Lambert conformal conic for regional maps and the Dadu plan. |
@@ -58,8 +58,8 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | A1 | Series overview (generated, replaces the Wikimedia one in the book body) | Each volume's front-02 | Whole journey, three volume legs colour-coded |
 | A2 | The world in 1260 | I-front-01 | Mongol successor khanates, Mamluks, Byzantium, Venetian and Genoese trading posts |
 | A3 | The elder voyage | I-2 | Constantinople → Soldaia → Sarai → Bolghar → Ucaca → Bocara → Kublai → Ayas → Acre → Negropont → Venice |
-| A4 | Outbound: Ayas to Hormos | I-4 – I-8 | **Two variant lines** (via Tauris, or via Mausul/Baudas), both dashed: the route is a reconstruction |
-| A5 | Balc to Pein | I-9 – I-10 | Reported side-places dotted (Pashai, Keshimur, Samarcand, Bolor) |
+| A4 | Outbound: Ayas to Hormos | I-4 – I-8 | **Two variant lines** (via Tauris, or via Mausul/Baudas), both dashed: the route is a reconstruction. Hormos? is an uncertain Minab-area reference; the site and outbound visit are disputed. |
+| A5 | Balc to Pein | I-9 – I-10 | Reported side-places dotted (Pashai, Keshimur, Samarcand, Bolor); Pein? follows the disputed Uzun-tatïr point, with Keriya as alternative in caption. |
 | A6 | Lop to Chandu | I-11 – I-13 | Off-route: Camul, Chingintalas, Caracoron, Bargu |
 | A7 | Kublai's realm c. 1290 | II-front-02 | Yuan provinces, Dadu/Shangdu, the Grand Canal, the four circuits |
 | A8 | Seasonal orbit | II-4 / I-13 | Dadu ↔ Shangdu ↔ Cachar Modun, with month labels and the 28 August libation. **S-09: moves to DIA as schematic C17**: Cachar Modun and Chagannor are `unfixed`, so a geographic map cannot place them |
@@ -67,11 +67,13 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | A10 | The west road | II-6 | Cambaluc → Pulisanghin → … → Kenjanfu → Sindafu |
 | A11 | South-west circuit | II-7 – II-9 | Sindafu → Tebet → Carajan → Vochan → Mien; reported: Bangala, Caugigu, Cuiju |
 | A12 | The canal spine | II-10 – II-13 | Juju → … → Yanju → Suju → Kinsay; Nanghin and Saianfu as dashed side branches |
-| A13 | The Fujian road and Zayton | II-14 | Kinsay → … → Fuju → Zayton; Tyunju (Dehua) inset |
+| A13 | The Fujian road and Zayton | II-14 | Kinsay → … → Fuju → Zayton; Tyunju (Dehua?) inset, identification provisional |
 | A14 | The Mongol horizon | II-15 | Ilkhanate, Chagatai and Kaidu, Golden Horde, the "Land of Darkness" (dotted) |
 | A15 | Invasions of Japan, 1274/1281 | III-1 | Korean and Chinese fleets, Hakata Bay, Takashima |
-| A16 | **The Cocachin return** | III-9 + III-front-02 | Zayton → Sumatra (5-month wait) → Seilan → Maabar → Malabar → Hormos → Abhar → Tauris → Trebizond → Venice. Solid for Prologue-named stages, dashed for inferred ones; monsoon season labels |
+| A16 | **The Cocachin return** | III-9 + III-front-02 | Zayton → Sumatra (5-month wait) → Seilan → Maabar → Malabar → Hormos → Abhar → Tauris → Trebizond → Venice. Solid for Prologue-named stages, dashed for inferred ones; Hormos? is the Minab-area proxy, not the excavated site; monsoon season labels |
 | A17 | Polo's order vs the coast's order | III-5 / III-6 | Strip map of India's coasts showing where the Book's sequence crosses itself |
+
+**Map caption rule (S-16):** On every map showing Hormos, say “Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain.” The point is modern Minab, not a measured ruin. A1 and A16 pilot labels carry the same warning. A6 treats Caracoron and Bargu as reported side-places, not personal visits. Tonocain and Tenduc are regional references; do not imply precise boundaries.
 
 ## B. Timelines (6) — data YAML → TikZ (native LaTeX, same fonts)
 
@@ -91,10 +93,10 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | # | Diagram | Ch. |
 |---|---|---|
 | C1 | Paper money: bark → sheet → seals → vermilion → circulation (with the 1287 revaluation sidebar) | II-5 |
-| C2 | The *yam*: stations, runner forts, express riders, scale of "ten days in one" | II-5 |
+| C2 | The *yam*: stations, runner forts, express riders; "ten days in one" attributed to the Book | II-5 |
 | C3 | Keshig rota (Polo's 4 × 3,000 vs Palladius's 400) | II-3 |
 | C4 | Mongol decimal army (*arban → tümen* vs the Book's terms) | I-12 |
-| C5 | Paiza hierarchy (silver → gerfalcon), with the script change in 1269 | II-1 / I-2 |
+| C5 | Paiza: museum example; proposed hierarchy and script chronology need checking | II-1 / I-2 |
 | C6 | Tutia furnace process | I-8 |
 | C7 | Zayton cost stack (duty + freight = "half the investment") | II-14 |
 | C8 | Ilkhan succession: the Book vs the record | II-15 |
@@ -172,3 +174,7 @@ book/tools/media/   style.yaml, map.py, timeline.py + timeline.tex, data/A*.yaml
 3. Once the gazetteer is fixed (content W5): the remaining maps.
 4. Tables (D) are written during each chapter's W4 rewrite, since they draw on the same facts.
 5. Diagrams and timelines in volume order.
+
+## S-17 research handoff (2026-11-11)
+
+`registry/facts.md` S17-F1–F6 supplies C1/C2/C5, A9 and the II-13 comparison table. Label 1287's currency ratio as official; show both old and new notes in circulation. The ratio has one scholarly source so far: check an independent source or the primary text before printing the number. The museum paiza is a late-thirteenth-century example, not Polo's personal tablet. Do not invent postal station numbers or a definitive Dadu palace plan. The current A11 Caugigu point represents Yule's tentative reading; show it as a disputed region and mention Pelliot's different Upper Red River reading. A13 Tyunju = Dehua remains an unverified philological identification: label the inset provisional until a specialist source is checked. Kinsay numbers are witness-specific, not a single verified census or bridge count.

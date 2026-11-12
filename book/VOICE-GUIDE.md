@@ -127,7 +127,7 @@ Style: *Chicago Manual of Style*, 18th ed., **author-date**, used inside the Not
 | A locator in a modern work | `[@haw2006marco, ch. 4]`; a page only if someone has seen it | (Haw 2006, chap. 4) |
 
 1. **Sigla.** `YC` = Yule–Cordier 1903; `YC Add.` = Cordier 1920. Locators are book.chapter in Arabic numerals (Yule's Book I, ch. LXI = 1.61; Prologue = Prol.). Each volume's front matter has a *List of abbreviations*.
-2. **Keys** live in `plans/registry/bibliography.bib`. The lint rejects a key that isn't there. Keys are `authorYEARword` (S-12); the base text uses its siglum (`yc`, `ycadd`).
+2. **Keys** live in `plans/registry/bibliography.bib`. The lint rejects a key that isn't there and flags many modern scholars named in a Note without a matching mapped key. This is a check for omissions, not proof that a work supports a claim: ambiguous names, sources cited through Yule, and which work belongs to each claim still need a reader's review (BLD.T8, APP.T6). Keys are `authorYEARword` (S-12); the base text uses its siglum (`yc`, `ycadd`).
 3. **No page numbers you haven't seen.** Book/chapter locators for primary texts are always fine.
 4. **Old books are cited by their print edition.** A digitisation (Project Gutenberg, Internet Archive…) goes in the bibliography entry as the access route, never as the work's date.
 5. **Epigraph credit**, one form: `> — Marco Polo, Book 2, ch. 12 (Yule–Cordier)`; ranges `chs. 9–11`; `Prologue, ch. 3` / `Prologue, preamble`; a Ramusio-only epigraph adds the source: `(Ramusio; Yule–Cordier)`. A non-Polo epigraph names its author, work and year. A paraphrase ends in *(adapted)*; a later tradition in *(tradition)*. `tools/cite_convert.py --pass A` sets Polo credits from the quotation itself.

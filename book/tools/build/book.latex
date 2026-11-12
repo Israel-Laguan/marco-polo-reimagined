@@ -77,10 +77,24 @@ $endfor$
 % Note markers ✓ ~ ✗ ◇ ? at clause start
 \newcommand\mk[1]{{\markerfont\char#1}}
 
+% Put the reader's locator key inside the heading of the generated shorthand list.
+\defbibheading{abbreviations}[Abbreviations]{%
+  \chapter*{#1}%
+  \textbf{YC} refers to Henry Yule's translation of Marco Polo, third edition,
+  revised by Henri Cordier (1903). \textbf{YC Add.} refers to Cordier's
+  \emph{Notes and Addenda} (1920). The Project Gutenberg editions are the copies
+  consulted, not the dates of the original books.\par\medskip
+  In a reference such as \textbf{YC 1.61}, the first number is the book and the
+  second is the chapter: this is Book I, Chapter LXI in Yule's text.
+  \textbf{YC Prol. 17--18} means Prologue chapters XVII--XVIII. An \textbf{n.}
+  followed by a number refers to Yule's note to that chapter; \textbf{Intro. §}
+  refers to a section of his Introduction.\par\medskip
+}
+
 \begin{document}
 \frontmatter
 \tableofcontents
-\printbiblist[title={Abbreviations}]{shorthand}
+\printbiblist[heading=abbreviations,title={Abbreviations}]{shorthand}
 \mainmatter
 $body$
 \backmatter

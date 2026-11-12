@@ -65,3 +65,13 @@ _Closed 2026-10-22._
 - [x] `GAZ.T1`–`T4` (schema, Yule forms and aliases, missing rows, conflicts) are **done in this spike**. `GAZ.T5` front-02 tables regeneration, `GAZ.T6` coordinate and identification verification (after S-16/17/18 intake), `GAZ.T7` promote `name_policy` to an error: in `tasks/cross/GAZ-gazetteer.md`.
 - [x] Naming item in every chapter's task file: the narrative chapters' `.T3` (re-voice) carries a **Naming (S-04 ✓)** step with that file's bare variants and unglossed first mentions; the front/back files and the essay (no `.T3`) get a new `<ID>.T1 — Names to the S-04 policy`. Each *Naming and gazetteer* backlog section links to it.
 - [x] `MAP` and `GLO` task files note that S-04 no longer gates them (S-08/S-09 still do).
+
+## S-17 handoff to GAZ.T6 (2026-11-11)
+
+The six Vol. II decisions and source limits are in [S-17 intake](../research/results/S-17-intake.md#six-gazetteer-cases--s-04--gazt6) and `registry/facts.md` S17-F4. Preserve existing confidence levels: Acbalec/Hanzhong and Cacanfu/Hejian are probable readings, while Caugigu, Anin, Coloman and Cuiju remain disputed. Existing points are references for one interpretation, not precise confirmed sites; show alternatives or uncertainty on maps. Pelliot differs from Yule on Caugigu, Anin and Toloman; the raw report did not account for the earlier direct readings already recorded in the gazetteer.
+
+## S-18 handoff to GAZ.T6 (2026-11-12)
+
+The five Vol. III decisions are in [S-18 intake](../research/results/S-18-intake.md#uncertain-vol-iii-rows--handoff-to-s-04--gazt6) and `registry/facts.md` S18-F7. The report brought nothing that outranks the Pelliot readings already in the rows, so **no row changes**: `locac`, `malaiur`, `basma` and `semenat` stay `probable`, and `dagroian` stays `disputed`. Pelliot's BASMAN (I 86–87) and SEMENAT (II 830) are still unread (Toyo Bunko blocked); they are item 1 of the [follow-up prompt](../research/S-18-follow-up-prompt.md).
+
+**Follow-up (2026-11-12):** both are now read (OCR fragments) and noted in the rows: Basman is in northern Sumatra between Ferlec and Samudra; Semenat is Pelliot's *Somenat* = Somnath. Statuses unchanged. The locator pages (I 86–87, II 830) were right; a scan-number mix-up made the run claim otherwise ([follow-up intake](../research/results/S-18-followup-intake.md)).

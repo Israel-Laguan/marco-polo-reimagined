@@ -45,8 +45,8 @@ Written in the build's figure form: `![Caption. *(Credit.)*](../media/public-dom
 **II-4.** Kublai, in white fur over a red robe, rides out with a woman usually identified as Chabi and his hunting party; one rider carries a hunting cheetah behind his saddle. Liu Guandao, dated 1280. *(National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw.)*
 - The plan's secondary GEN ("Sire! Look out for Cranes!") stays.
 
-**II-5 pairing.** A Zhiyuan note of two strings of cash (*guan*), the issue of 1287, beside a printing plate. *(Currency Museum, Bank of Japan, Tokyo. Photograph: PHGCOM, CC BY-SA 3.0.)*
-- Do not call the sheet "an original note": the photographer does not say whether it is a period note or a later pull from the plate.
+**II-5 pairing.** A Zhiyuan two-*guan* note design and printing plate; the Zhiyuan issue began in 1287. *(Currency Museum, Bank of Japan, Tokyo. Photograph: PHGCOM, CC BY-SA 3.0.)*
+- Do not call the sheet "an original note": the photographer does not say whether it is a period note or a later pull from the plate. The 1287 issue date alone does not date the individual plate. S-17 identifies different 200/500-*wen* bronze blocks in the CUHK catalog; it does not authenticate this 2-*guan* object.
 
 **III-1.** Takezaki Suenaga's men board a Yuan ship during the second invasion, 1281. The scroll he commissioned paints the fighting, not the storm. *(Mōko Shūrai Ekotoba, scroll 2, from the Edo-period copy in Kyushu University Library Collections; original in the Museum of the Imperial Collections, Tokyo.)*
 - **Content check:** the scrolls contain no typhoon scene. The plan's hero ("The 1281 typhoon wrecks the Yuan fleet") is changed to this boarding scene.

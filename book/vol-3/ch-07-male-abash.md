@@ -96,4 +96,4 @@ Thus the western wonder-run from Male and Female stands in this chapter as the b
 
 [21] ✓ / ~ Giraffes, ostriches, fine cotton buckrams in Abash — ✓ fauna and cloth fame; ~ detail level. Victual: flesh, rice, milk, sesame.
 
-**Comparative:** Yule–Cordier III.xxxi–xxxv and App. on Rukh; Ibn Baṭṭūṭa (Makdashau, East Africa, Aden); Masʿūdī; Kazwini; Idrīsī; Cosmas (Socotra); Conti; Fra Mauro; De Barros; Barbosa; Bruce / Salt / Rüppell Abyssinian chronologies; Huntingford; Chinese Ming notices of Mu-ku-tu-su / Pu-la-wa.
+**Comparative:** Yule–Cordier III.xxxi–xxxv and App. on Rukh; Ibn Baṭṭūṭa (Makdashau, East Africa, Aden); Masʿūdī; Kazwini; Idrīsī; Cosmas (Socotra); Conti; Fra Mauro; De Barros; Barbosa; Bruce / Salt / Rüppell Abyssinian chronologies; Chinese Ming notices of Mu-ku-tu-su / Pu-la-wa.

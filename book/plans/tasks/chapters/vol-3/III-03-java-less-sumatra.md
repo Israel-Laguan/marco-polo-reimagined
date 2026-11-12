@@ -101,3 +101,6 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 37 errors · 6 warnings — failing: archaism, asides, budgets, markers, ramusio, scaffolding, tags, verbatim, you_must_know; warnings: names, ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-03-java-less-sumatra.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 source sweep:** Bottin 2008 (`registry/enrichment.md` S15-H1) discusses Polo's southern-sky report in Pietro d'Abano's *Conciliator* and possible interpretations. His presumed meeting in Venice and possible Southern Cross identification are inferences; neither settles the separate North Star visibility calculation in Note [1]. See `research/results/S-15-other-claims-intake.md`.

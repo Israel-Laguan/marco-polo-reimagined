@@ -80,7 +80,7 @@ The itinerary in `character-cards.yaml` is coarse on purpose (regions, by year).
 | 1293–94 | Cocachin to Casan; Kiacatu at Tauris | 39–40 | Cublay d. Feb 1294 (news reaches them in Persia) |
 | 1295 | Venice | 41 | Donata not yet married to Marco |
 | 1298–99 | (Venice) | 44, Genoa prison | Rustichello writes; release 1299 |
-| by 1300 | Niccolò dead | marries Donata c. 1300 | — |
+| by 1300 | Niccolò dead | marriage to Donata, date uncertain | — |
 | 1307 | — | 53 | Cepoy copy (August) |
 | 1309–18 | Maffeo dies | — | — |
 | 1324 | — | will, 9 Jan; dies | Peter the Tartar freed |
@@ -100,14 +100,14 @@ These go to S-06 (and S-14 / S-15 for the research). A chapter states them only 
 | Achmath / Bolad | The annals' "Po-lo" is Bolad | settled (Yule–Cordier addenda); HOT.3 | II-05, II-11, III-12 |
 | Argon | Death 10 March 1291 (Yule = 7 Rabīʿ I 690; "7 March" is the Hijri day misread) | **settled** (CHR-people-2) | III-09 |
 | Oulatay, Apusca, Coja | Named in the 1290 Yongle dadian notice (with 160 people); the Polos not named; nothing on who survived, so "only Coja" is the Book's alone | S-14 #15 (Cleaves 1976 reported, not seen) | III-09, III-12 |
-| Maffeo | Last will Feb 1309, death before 1318 (Yule: settled); married? no evidence either way | S-15 (marriage) | I-02, III-10 |
-| Donata | Badoer, daughter of Vitale; married c. 1300; dead 1333–36 (Yule); Loredano rests on an "Agnes Loredano, her sister"; a 1312 dowry act (Hart, reported) | S-15 | III-10 |
+| Maffeo | Bolognari–Simion call him widower of Marta (via Burgio); Bruno alleges two natural daughters, conflicting with Jacoby and Bolognari–Simion. Yule's 1309 modern vs Gullino's 1310 modern will dates remain unresolved. | S-15 external intake; will check open | I-02, III-10 |
+| Donata | Identified as Badoer, daughter of Vitale, by Gullino; marriage date uncertain; Yule gives death 1333–36. | S-15 external intake | III-10 |
 | Niccolò | Second wife probably Fiordelisa (Trevisan?) (Yule's conjecture); illegitimate Stefano and Zannino (Yule: settled); death before end of 1300 | S-15 (the wife) | III-10 |
-| Rustichello | Identity with the Arthurian compiler (accepted); Meloria is Yule's "perhaps"; "layman" not yet sourced | S-15 #4 | I-01, III-12 |
-| Marco | Birth 1254 (no document); capture: Curzola 1298 (Ramusio; Yule) vs Ayas (Jacopo, impossible: May 1294); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024: settled); a daughter Agnese (b. 1295–99) from a 2021 find | S-15 (birth, capture, Agnese) | I-01, I-02, III-10 |
+| Rustichello | Identification with Arthurian compiler supported by manuscript comparison; Cigni favors Meloria captivity, an inference. Lay or clerical status remains unsourced. | S-15 external intake | I-01, III-12 |
+| Marco | Birth c. 1254 inferred; capture disputed, Ayas 1296 per Jacopo vs Curzola 1298 per Ramusio; died 8 or 9 Jan 1324. Agnese may be his daughter, not established; dates and parentage of mother unproven. | S-15 #8–12 | I-01, I-02, III-10 |
 | Sigatay | Kublai's uncle, d. 1242 (the Book: brother) | settled (Yule's own note) | I-07, I-10 |
 
-**Research intake, run 2 (2026-10-22).** A stricter run (`research/results/CHR-people-2-raw.md`, graded in `CHR-people-2-intake.md`) cited real works; its claims were checked against Yule in `refs/`, two resolved DOIs and the open-access Formentin–Schiavon article. Settled: Argon's 10 March, Marco's death on 8 or 9 January 1324, Fantina's marriage, Niccolò's illegitimate sons, Maffeo's 1309 will. New: Marco's daughter Agnese (2021 find, not yet seen). Three of its claims overstated their sources and were not taken (Dorjé's mother and birth year; Maffeo's will "1300"; Bellela's husband).
+**Research intake, run 2 (2026-10-22).** A stricter run (`research/results/CHR-people-2-raw.md`, graded in `CHR-people-2-intake.md`) cited real works; its claims were checked against Yule in `refs/`, two resolved DOIs and the open-access Formentin–Schiavon article. Settled in that intake: Argon's 10 March, Marco's death on 8 or 9 January 1324, Fantina's marriage and Niccolò's illegitimate sons. Its Maffeo and Agnese conclusions are qualified by S-15 above. Three of its claims overstated their sources and were not taken (Dorjé's mother and birth year; Maffeo's will "1300"; Bellela's husband).
 
 **Research intake, run 1 (2026-10-22).** A first search-based run (`research/results/CHR-people-raw.md`, graded in `CHR-people-intake.md`) gave leads only: its sources are Wikipedia and pages that copy Yule, so nothing above is upgraded and no `verify` pointer is removed. What it changed: Chabi's birth year is contested (1216 or 1227), so her age is blank; Maffeo's "daughter Fiordelisa" is a mix-up with Niccolò's second wife, Fiordelisa Trevisan; and new leads are recorded as leads (Bellela's husband, Niccolò's sons, a 1312 dowry document for Donata, a 2022 report of a daughter Agnese). A stricter second prompt for the open rows is in the intake note.
 
@@ -148,3 +148,5 @@ Kublai spans **c. 50 (I-02) to c. 76 (III-09)**, not 78: he was 78 when he died 
 2. Take the `traditions` line for the plate's tradition into `[STYLE]`. It says how *that* tradition draws this person (a Frank in Ilkhanid painting, a western foreigner in Yuan painting, a French gentleman in the LdM lens).
 3. At review, check the card's attributes. They are what keeps a figure recognisable across idioms: Marco is always the youngest of the three Latins before 1291, always has the belt-purse, and carries a paiza only from 1275. Cublay is carried after 1280.
 4. `house` lines are our conventions, not facts. A caption never states them.
+
+**S-15 external intake (2026-11-11):** Bellela married Bertuccio Querini (Bolognari 2020, citing Gallo); Moreta's second husband was Tommaso Gradenigo per Gullino. Andrea of San Felice is reported by Ramusio, not established by a surviving document per Tanase. Maffeo's marriage to Marta is reported by Burgio quoting Bolognari–Simion; his alleged daughters need an edition check. Details: `research/results/S-15-external-intake.md`.

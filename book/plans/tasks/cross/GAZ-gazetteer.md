@@ -34,7 +34,7 @@
 - ch-11 mentions a "little Caiju" opposite Coiganju; Yule's only Caiju is Kwa-chau (flag for II-11's naming pass).
 
 ## Gated by spikes
-S-04 ✓ · S-09 (map styling of `disputed`/`unfixed`) · S-16, S-17, S-18 (identification checks per volume)
+S-04 ✓ · S-09 (map styling of `disputed`/`unfixed`) · S-16 and S-17 best-effort intakes ✓; S-18 open (Vol. III identification checks)
 
 ## Tasks
 ### GAZ.T1 — Schema v2
@@ -55,7 +55,7 @@ S-04 ✓ · S-09 (map styling of `disputed`/`unfixed`) · S-16, S-17, S-18 (iden
 - **Done when:** the tables in the three front-02 files equal the generated output and the lint shows no new errors.
 
 ### GAZ.T6 — Verify provisional coordinates and identifications
-- **Status:** in progress (2026-10-22: first research pass taken in, `research/results/GAZ-intake.md`; 123 points agree with Wikipedia, 4 moved, `coord_check` and `wikipedia` columns added; no `id_confidence` changed) · **Depends:** S-16 (Vol. I), S-17 (Vol. II), S-18 (Vol. III) — their deep-research output (`research/results/`) did not exist when S-04 closed
+- **Status:** in progress (2026-10-22: first research pass taken in, `research/results/GAZ-intake.md`; 123 points agree with Wikipedia, 4 moved, `coord_check` and `wikipedia` columns added; no `id_confidence` changed) · **Depends:** S-16 (Vol. I) and S-17 (Vol. II) best-effort intakes ✓; S-18 (Vol. III) open. Their research output did not exist when S-04 closed; remaining disputed sites and precise coordinates still require review
 - **Do:** when each run is taken in, check the `probable` and `disputed` rows against a second source (Cordier's notes, Pelliot, a modern gazetteer) and move each to `firm` or record why not. Priority: Brius, Camadi, Avah, Casem, Pashai, Erguiul, Egrigaia, Bargu, Linju, Vughin, Changshan, Unken, Mutfili, Soer.
 - **Done when:** no row's `notes` says "approximate" without a source, and `disputed` rows name their candidates.
 
@@ -63,3 +63,15 @@ S-04 ✓ · S-09 (map styling of `disputed`/`unfixed`) · S-16, S-17, S-18 (iden
 - **Status:** backlog · **Depends:** the naming pass in every chapter (`.T3` / `.T1` items)
 - **Do:** change the `name_policy` severity in `tools/lint.py` from warning to error and rebaseline.
 - **Done when:** `python3 tools/lint.py` reports no `name_policy` errors on the 49 files.
+
+
+## S-16 best-effort handoff to GAZ.T6 (2026-11-11)
+
+- **Hormos:** approximate uncertain pin is modern Minab as a regional reference; it is not the K-103 site. Label “Hormos? (Minab area)” and state the proxy in captions.
+- **Tonocain:** Qaen is a regional reference, not a provincial boundary; **Arbre Sec** is unlocated and has no point.
+- **Pein:** provisional Uzun-tatïr with Keriya as named alternative; **Tenduc:** Hohhot region marker only, not a city identification. Preserve `disputed` and do not conflate Sichintingiu.
+- See [S-16 closeout](../../research/results/S-16-closeout.md). Remaining checks are optional future work, not a block to the current best-effort maps; GAZ.T6 remains in progress for other volumes.
+
+## S-17 handoff to GAZ.T6 (2026-11-11)
+
+Use `registry/facts.md` S17-F4 and [the six-case table](../../research/results/S-17-intake.md#six-gazetteer-cases--s-04--gazt6). Existing locations are provisional regional reference points. Label Yule and Pelliot's competing Caugigu, Anin and Coloman interpretations separately; Cuiju is not an established Guiyang city identification. Do not silently upgrade the six confidence grades or move pins without a source and synchronized map review.

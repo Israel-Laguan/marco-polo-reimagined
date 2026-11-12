@@ -58,17 +58,17 @@ cards:
     ldm: "as Niccolò"
     ilkhanid: "as Marco"
     yuan: "as Marco"
-  avoid: ["a wife or family in any scene: his marriage is unverified"]
+  avoid: ["depicting Marta or children as present on a journey without scene evidence; his marriage is reported by Bolognari and Simion via Burgio, children disputed"]
 
 - id: rustichello
   likeness: "none"
   house: "older than Marco (in his fifties in 1298), clean-shaven or short grey beard, a writer's stoop"
   attributes: ["loose parchment quires, quill, ink-horn, penknife", "a writing board on his knee"]
   dress:
-    - {from: 1298, to: 1299, where: "Genoa", dress: "a layman's tunic and mantle, Pisan, sober colours; a coif"}
+    - {from: 1298, to: 1299, where: "Genoa", dress: "a sober tunic and mantle, with coif; dress is a visual convention, clerical or lay status unverified"}
   traditions:
-    gothic: "a lay scribe at work, as in Gothic author-portraits, but not in a monk's habit"
-  avoid: ["monk's habit or tonsure", "chains or a dungeon (the prison circumstances are tradition)"]
+    gothic: "a scribe at work, as in Gothic author-portraits; no claim of religious or lay status"
+  avoid: ["habit or tonsure presented as documented", "chains or a dungeon presented as documented"]
 
 - id: kublai
   likeness: "Yuan imperial portrait album (National Palace Museum, Taipei): face and court dress. Liu Guandao, Khubilai Khan Hunting (1280): body at 65, white fur over a red robe"

@@ -119,3 +119,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 24 errors · 0 warnings — failing: archaism, asides, budgets, length, markers, ramusio, recaps, verbatim
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-05-ahmad-paper-coal.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 source sweep:** Bolognari 2024 pp. 43–45 compares Jacopo's account of the Khan's treasury and paper money with the LB Polo text (`registry/enrichment.md` S15-H4). This is evidence for the story's transmission and adaptation, not independent confirmation of Yuan monetary practice.
+
+## S-17 research handoff (2026-11-11)
+
+S17-E3/E4 and S17-F1/F3: 1260 Zhongtong; 1287 official 1 Zhiyuan guan = 5 Zhongtong guan with old notes still circulating. The conversion is currently supported by one scholarly source; check a second independent source or the primary passage before printing the number. Museum blocks are bronze; issue year is not the date of an individual specimen. Keep existing S-14 findings and limits. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

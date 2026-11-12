@@ -27,10 +27,10 @@ people:
   gloss: ""
   born: 1254
   died: 1324
-  dates: "born 1254 by inference from the Book (no document): the Book makes him fifteen in 1269 (Moule–Pelliot 1938 I, seen); captured in a sea-fight with the Genoese (Jacopo d'Acqui), at Curzola 1298 by Ramusio's tradition, which Yule accepts (Jacopo's Ayas is impossible: that battle was May 1294); will 9 Jan 1324 (1323 m.v.); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024, seen)"
+  dates: "born 1254 by inference from the Book (no document): the Book makes him fifteen in 1269 (Moule–Pelliot 1938 I, seen); capture: Jacopo places an encounter near Ayas in 1296, while Ramusio gives Curzola 1298; Yule and Bolognari connect Jacopo to the 1294 Ayas battle, a disputed identification; will 9 Jan 1324 (1323 m.v.); died 8 or 9 Jan 1324 (Formentin–Schiavon 2024, seen)"
   group: polo
-  role: "the traveller; in the Kaan's service 1275–91; dictated the Book in a Genoese prison, 1298–99"
-  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (c. 1300); father of Fantina, Bellela, Moreta, and of Agnese (b. 1295–99, d. 1319, wife of Nicolò Calbo), known from her will of 7 July 1319 (ASVe, Notarile Testamenti, b. 830, n. 36; Bolognari 2021, reported, not seen)"
+  role: "the traveller; in the Kaan's service 1275–91 in the Book; associated with Rustichello in the composition of the Book during Genoese imprisonment"
+  relations: "son of Niccolò; nephew of Maffeo; husband of Donata (marriage date uncertain); father of Fantina, Bellela and Moreta; possibly father of Agnese, wife of Nicolò Calbo, whose 7 July 1319 will names a father Marco Polo (ASVe, Notarile Testamenti, b. 830, n. 36, f. 11r; Bolognari 2021 reported by Ca' Foscari; identification qualified by Orlando 2025)"
   book_says: []
   verify: [S-15]
   chapters: "I-F1;I-F2;I-01;I-02;I-03;I-04;I-05;I-06;I-07;I-08;I-09;I-10;I-11;I-12;I-13;I-B1;II-F1;II-F2;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-08;II-09;II-10;II-11;II-12;II-13;II-14;II-15;II-B1;III-F2;III-01;III-02;III-03;III-04;III-05;III-06;III-07;III-08;III-09;III-10;III-11;III-12;III-B1"
@@ -44,7 +44,7 @@ people:
   dates: "birth unknown (an adult merchant in 1260, so before c. 1235); died before the end of 1300 (Yule; a lead: Feb–Aug 1300)"
   group: polo
   role: "Marco's father; with Maffeo on both journeys (1260–69, 1271–95)"
-  relations: "son of Andrea; father of Marco; Marco's mother died before 1269; his second wife was probably Fiordelisa (Trevisan?), mother of the younger Maffeo, whose will of 1300 is extant (Yule's conjecture from Marco the Elder's 1280 will); two illegitimate sons, Stefano and Zannino (Giovannino) (Yule)"
+  relations: "son of Andrea according to Ramusio (not independently documented; Tanase 2025); father of Marco; Marco's mother died before 1269; his second wife was probably Fiordelisa (Trevisan?), mother of the younger Maffeo, whose will of 1300 is extant (Yule's conjecture from Marco the Elder's 1280 will); two illegitimate sons, Stefano and Zannino (Giovannino) (Yule)"
   book_says: []
   verify: [S-15]
   chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
@@ -55,11 +55,11 @@ people:
   gloss: ""
   born: null
   died: 1318
-  dates: "birth unknown; last will February 1309 (not extant; known from a later act); died between February 1309 and 1318 (Yule)"
+  dates: "birth unknown; Yule reports a last will of February 1309 from a later act; Gullino cites an extant will dated 6 February 1310; relationship between these dates unresolved; dead by 1318 (Yule)"
   group: polo
   role: "Niccolò's brother and partner on both journeys"
-  relations: "son of Andrea; uncle of Marco; no evidence of a wife or children (the 'daughter Fiordelisa' of one lead belongs to the younger Maffeo, Niccolò's son)"
-  book_says: ["I-02:9 'so far as the book tells, remained a bachelor': the Book says nothing of it; marital status unverified"]
+  relations: "son of Andrea according to Ramusio; uncle of Marco; Bolognari and Simion describe him as widower of Marta in 1310 (via Burgio 2024); number of children disputed: Jacoby says none, Bruno 2023 alleges two natural daughters; check the 1310 will"
+  book_says: ["I-02:9 'so far as the book tells, remained a bachelor': the Book says nothing of it; Bolognari and Simion describe him as widower of Marta (via Burgio 2024)"]
   verify: [S-15, S-14]
   chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
 - id: andrea
@@ -69,10 +69,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "known from Venetian documents only; of San Felice"
+  dates: "Ramusio reports old records naming Andrea of San Felice; Tanase 2025 finds no surviving documentation for Andrea"
   group: polo
-  role: "Marco's grandfather; father of Marco the elder, Niccolò and Maffeo"
-  relations: "grandfather of Marco"
+  role: "in Ramusio’s account, grandfather of Marco and father of the three brothers"
+  relations: "grandfather of Marco according to Ramusio; the reported records have not been independently located (Tanase 2025)"
   book_says: []
   verify: [S-15]
   chapters: "I-02"
@@ -83,11 +83,11 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "fl. c. 1270–1298; compiled an Arthurian romance from a book of the future Edward I (c. 1270–73); a prisoner in Genoa, 'perhaps' since Meloria (1284): Yule's conjecture, not a document"
+  dates: "fl. c. 1270–1298; compiled an Arthurian romance from a book of the future Edward I (c. 1270–73); a prisoner in Genoa, perhaps since Meloria (1284): Cigni 2017 strongly favors this reconstruction; no individual capture record seen"
   group: venice
-  role: "Pisan romance-writer who wrote the Book down from Marco's dictation, Genoa 1298–99"
-  relations: "Marco's fellow prisoner and scribe"
-  book_says: ["legacy plate drawing-genoa-dictation shows him as a monk in chains: he was a layman"]
+  role: "Pisan collaborator named by the Book; identified by scholars with the Arthurian compiler Rusticien"
+  relations: "named with Marco in the Book's account of Genoese imprisonment; shared cell and exact method of composition not established"
+  book_says: ["legacy plate drawing-genoa-dictation shows him as a monk in chains: lay or clerical status is unverified"]
   verify: [S-15]
   chapters: "I-F1;I-01;I-02;I-04;I-05;I-B1;II-09;II-10;II-11;II-15;III-02;III-11;III-12"
 - id: donata
@@ -97,7 +97,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "married Marco c. 1300 (Yule: 'early in the 14th century'); a dowry act of 17 March 1312 is reported by Hart (1942); outlived him; dead between 1333 and 1336 (Yule)"
+  dates: "marriage date unestablished (Yule: 'early in the 14th century'); a dowry act of 17 March 1312 is reported by Hart (1942); outlived him; dead between 1333 and 1336 (Yule)"
   group: polo
   role: "Marco's wife"
   relations: "Badoer, daughter of Vitale (modern identification); Yule's Loredano guess rests only on an 'Agnes Loredano, sister of the Lady Donata' in two acts; wife of Marco; mother of Fantina, Bellela, Moreta"
@@ -113,7 +113,7 @@ people:
   died: null
   dates: "the eldest daughter; married by 1324"
   group: polo
-  role: "Marco's eldest daughter; principal heir"
+  role: "one of Marco's three heirs; eldest among the three daughters named in his will"
   relations: "daughter of Marco and Donata; married Marco Bragadin, who died at Candia on 13 July 1360; won her suit against his executors on 13 July 1366 (Formentin–Schiavon 2024, seen; Yule)"
   book_says: []
   verify: []
@@ -125,10 +125,10 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "married by 1324; dead by 1333 (Yule)"
+  dates: "married by 1324; dead by 1333 (Yule); Burgio gives 1326 but a 1328 reference in Gullino needs reconciliation"
   group: polo
-  role: "Marco's second daughter"
-  relations: "daughter of Marco and Donata; her husband's name 'does not appear' (Yule); 'Bertuccio Querini' is a lead, perhaps from the Bertuccio Quirino who brought a claim against Donata"
+  role: "one of Marco's three daughters named in his will"
+  relations: "daughter of Marco and Donata; wife of Bertuccio Querini (Bolognari 2020, citing 1326–27 documents published by Gallo; Gullino 2015 and Burgio 2024); Yule had not identified him"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -141,8 +141,8 @@ people:
   died: null
   dates: "unmarried at the 1324 will (a dowry is left her); married by 1333 (Yule)"
   group: polo
-  role: "Marco's youngest daughter"
-  relations: "daughter of Marco and Donata; married Ranuzzo Dolfino (Yule); a lead adds a second husband, Tommaso Gradenigo"
+  role: "one of Marco's three daughters named in his will"
+  relations: "daughter of Marco and Donata; married Ranuzzo Dolfino (Yule), then Tommaso Gradenigo (Gullino 2015; underlying act not seen)"
   book_says: []
   verify: [S-15]
   chapters: "III-10"
@@ -153,7 +153,7 @@ people:
   gloss: ""
   born: null
   died: null
-  dates: "freed by the will of January 1324 (Biblioteca Nazionale Marciana, Cod. Lat. V, 58–59 (coll. 2437–2438), fol. 33 or 35 (OCR unclear), per Moule–Pelliot 1938 I, seen; bought from the Svajer library in 1794. The clause 'absoluo petrum famulum meum de genere tartarorum ab omni vinculo seruitutis' is in Moule–Pelliot's transcription, seen; Yule's English is in refs/yule-vol1.txt; Plebani 2019 not seen); when he came to Venice is not known"
+  dates: "freed by the will of January 1324 (Biblioteca Nazionale Marciana, Cod. Lat. V, 58 (=2437), no. 33 per Bartoli Langeli’s 2019 edition; V, 58–59 (=2437–2438) is the assembled volume; bought from the Svajer library in 1794. The clause 'absoluo petrum famulum meum de genere tartarorum ab omni vinculo seruitutis' is in Moule–Pelliot's transcription, seen; Yule's English is in refs/yule-vol1.txt; Bartoli Langeli's critical edition in Plebani 2019 read; original not inspected); when he came to Venice is not known"
   group: polo
   role: "Marco's Tatar servant, freed and given a legacy in the will"
   relations: "household of Marco"

@@ -67,7 +67,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-08: drop the Bolad "hit" (:36) and open question 5 (:114).
-    - F-15 (open): Notes [9]–[10] add the 1290 notice "as Cleaves reports it"; 1291 vs 1292 debated.
+    - F-15: Jackson reports that the Chinese and Persian embassy accounts do not name the Polos; Ma reports Yang’s late-1290/early-1291 inference, against Yule’s early 1292. Attribute the report, distinguish evidence of the embassy from evidence of the Polos’ presence, and keep the date debated.
     - F-32: the Xi'an stele was found in 1625: cut it from the "misses" (:44, Note [6]).
     - F-34: :30 and Note [4]: Jacopo puts the capture at Ayas; Curzola is Ramusio's tradition.
   - **Scholarship since 2013 (S-13 ✓, `registry/scholarship.md`):**
@@ -84,7 +84,7 @@ _Created after the gating spikes close. Expected shapes:_
   0. Cut the opening recap (:9–11); open on the method line of the epigraph.
   1. What kind of book (:15–21) → ~380.
   2. Method, MS types, Ramusio (:25–27) → ~300; **home of the manuscript-families topic**; Curzola/Jacopo per F-34.
-  3. Hits (:31–37) → ~400: no Bolad hit (F-08); fold :35 into :33; Cocachin with Yang Zhijiu as Cleaves reports it (F-15).
+  3. Hits (:31–37) → ~400: no Bolad hit (F-08); fold :35 into :33; Cocachin with Yang Zhijiu as Jackson and Ma report the evidence (F-15).
   4. Misses and silences (:41–45) → ~330: no Xi'an stele (F-32); foot-binding hedged (F-37); **home of the silences topic**.
   5. Stress-points (:49–59) → ~330; Saianfu chronology credited to Wood's case; absorbs open question 4.
   6. **Rebuild Wood and the replies (:63–69) → ~450; home of the debate (M13).** Her case in full (no Chinese or Persian record names the Polos; Persianised place-names; Saianfu chronology; silences), then the replies by date (de Rachewiltz 1997, Haw 2006, Vogel 2013) and Yang Zhijiu's notice with its limit. Delete :69.
@@ -118,3 +118,6 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 81 errors · 1 warnings — failing: length, markers, quote_verify, scaffolding, tags; warnings: sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-12-reliability-essay.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 source sweep:** de Rachewiltz 1997 reports the Vilioni family's 1342 and 1344 Yangzhou tombstones (`registry/enrichment.md` S15-H5); they show the presence of others and do not independently locate Polo in the city. Identify this as de Rachewiltz reporting Rudolph rather than a stone examined here.

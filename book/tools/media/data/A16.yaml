@@ -40,7 +40,7 @@ label:
   seilan: se
   maabar: e
   melibar: w
-  hormos: sw
+  hormos: {pos: sw, text: "Hormos? (Minab area)"}
   abhar: e
   tauris: ne
   trebizond: n

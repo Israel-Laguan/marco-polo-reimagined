@@ -1,6 +1,6 @@
 # S-14 — Fact verification sweep (feeds S-06)
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** S-06 closure; factual `.T1` items in I-02, I-05, I-11, I-12, I-F2, II-01, II-02, II-05, II-11, II-12, II-14, II-15, III-01, III-09, III-10, III-11, III-B1
+**Status:** closed 2026-11-11 · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** S-06 closure; factual `.T1` items in I-02, I-05, I-11, I-12, I-F2, II-01, II-02, II-05, II-11, II-12, II-14, II-15, III-01, III-09, III-10, III-11, III-B1
 
 ## Question
 For each correction the critique made from general knowledge, and each item marked (unverified), what is the verified value and its source?
@@ -58,22 +58,22 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 ```
 
 ## Output (definition of done)
-- [ ] `research/results/S-14-raw.md` saved
-- [ ] `registry/facts.md` with all 25 claims graded, each with a source key
-- [ ] S-06 *Findings* filled from this sheet
+- [x] `research/results/S-14-raw.md` saved (the supplied 12-question follow-up, not the original 25-question run)
+- [x] `registry/facts.md` has all 25 claims graded with source keys; `research/results/S-14-intake.md` audits the source support and records unresolved components
+- [x] S-06 *Findings* updated; W2 and affected chapter backlogs carry the revised findings and remaining hedges
 
 ## Feedback to plan
 - `content-revision-plan.md` § W2: overturned rows corrected; unverified list emptied or reduced to hedged items
 - Chapter backlogs: "(unverified)" replaced by the verdict
 
 ## Follow-up prompts
-_(add here if the results leave gaps)_
+See `research/results/S-14-intake.md` § Unresolved work and follow-up. The supplied external follow-up did not inspect the core primary texts; do not treat its absence findings as disproof.
 
 ## Findings
-_(fill while working)_
+The supplied run assessed 12 follow-up questions and left nearly all source-specific questions open. Its raw text was preserved. The 25-row intake adds checked sources: Mosul surrendered in 1262 (F-02); the translated Zhenjiang gazetteer supplies dates for some Mar Sargis foundations (F-10); the Quanzhou hull has 12 bulkheads and 13 compartments (F-14); and the Ming pass of Jiayuguan dates to 1372 (F-24). Jackson and Ma strengthen the attributed embassy evidence (F-15), while the exact departure arguments remain unread. Ricci’s Cathay identification is supported (F-22). Pelliot clarifies the Nayan namesake (F-04); the Dehua identification remains disputed (F-12). Each finding is bounded in `registry/facts.md` and the intake.
 
 ## Decision
-_(fill when closing)_
+Closed: the 25 claims are graded in `registry/facts.md`, the supplied output and intake are saved, S-06 and W2 have been updated, and affected chapter backlogs carry actionable corrections. Closure is of the research intake, not a declaration that the outstanding archival questions or chapter edits are complete. Execute factual changes in W4 under the existing chapter gates.
 
 ## Tasks to create on close
-- Hands off to S-06, which writes the factual `.T1` tasks
+- [x] Handed off to the already-closed S-06 and its existing factual `.T1` tasks; no duplicate tasks created.

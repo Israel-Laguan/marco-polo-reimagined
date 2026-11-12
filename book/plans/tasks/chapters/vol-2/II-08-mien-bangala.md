@@ -103,3 +103,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 20 errors · 5 warnings — failing: archaism, asides, budgets, ramusio, recaps, scaffolding, tags, verbatim, you_must_know; warnings: ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-08-mien-bangala.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research limit (2026-11-11)
+
+The Vochan/Ngasaunggyan identification and Pagan chronology still need direct specialist and primary-source comparisons. Attribute battle details and numbers to their sources, and do not infer a settled scholarly reconstruction from the supplied report; see [S-17 intake](../../../research/results/S-17-intake.md) and the [follow-up prompt](../../../research/S-17-follow-up-prompt.md).

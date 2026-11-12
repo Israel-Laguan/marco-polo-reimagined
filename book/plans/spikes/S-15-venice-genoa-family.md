@@ -1,6 +1,6 @@
 # S-15 — Venice, Genoa and the Polo family record
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** I-01, I-02, III-10 `.T1`/`.T4`; `CHR` registry (family members); `PLT` will-plate caption; `DIA` B-timelines (family dates)
+**Status:** closed with documented follow-ups (2026-11-11) · **Phase:** R (research + intake) · **Timebox:** 1 external run + 1 intake session · **Gates:** I-01, I-02, III-10 `.T1`/`.T4`; `CHR` registry (family members); `PLT` will-plate caption; `DIA` B-timelines (family dates)
 
 ## Question
 What does the documentary record say about Marco Polo, his family, his capture, his collaborator and his last years? Which of the book's biographical statements rest on documents, which on Ramusio's later stories, and which on modern inference?
@@ -48,23 +48,36 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 ```
 
 ## Output (definition of done)
-- [ ] `research/results/S-15-raw.md` saved
-- [ ] Family and biography rows in `registry/facts.md`, each with an evidence class
-- [ ] Anecdotes in `registry/enrichment.md` (I-01, I-02, III-10), each with an evidence class
-- [ ] Person records handed to S-05
+- [x] `research/results/S-15-raw.md` saved
+- [x] Family and biography rows in `registry/facts.md`, each with an evidence class
+- [x] Anecdotes in `registry/enrichment.md` (I-01, I-02, III-10), each with an evidence class
+- [x] Person records handed to S-05
 
 ## Feedback to plan
 - `illustration-plan.md`: captions for the will and homecoming plates
 - `tasks/cross/CHR-characters.md`: family entries
 
 ## Follow-up prompts
-_(add here if the results leave gaps)_
+Best-effort research is complete; no further general search or deep-research run is needed. Remaining source-level checks are Maffeo’s 1309/1310 will dates and possible children, Agnese’s identification, Bellela’s exact death date, Rustichello’s lay status, the Famagusta/1298 chronology, and the full Malibran report. These require the named editions, archival documents, or library access; use the hedges in `registry/facts.md` and `research/results/S-15-final-intake.md` meanwhile. The 2024 inventory edition does contain the gold command tablet (S15-F8); its identification as a paiza is attributed to Burgio.
 
 ## Findings
-_(fill while working)_
+See `research/results/S-15-raw.md` and `registry/facts.md` S15-F1–F10. Distinguish reports, records, narrative witnesses and inference. Agnese’s identification is possible, not established; 1324 inventory survives in the 1366 judgment; the will is Cod. Lat. V, 58 (=2437), no. 33 in the 2019 critical edition; 1309 and 1310 will evidence needs comparison.
 
 ## Decision
-_(fill when closing)_
+**Best effort done; S-15 is closed.** The final external run did not obtain the decisive documents, and the remaining archival questions stay unresolved rather than blocking the project. Use the explicit hedges and evidence classes; `CHR.T7` retains source-level checks if the named works become available. Chapter, plate, timeline and character backlogs have received the findings; narrative revisions remain their existing downstream tasks.
 
 ## Tasks to create on close
-- `I-01.T1`, `I-02.T1`, `III-10.T1` (biography by evidence class); `CHR.T*` family rows; `DIA` B-timeline data
+- Existing `I-01.T1`, `I-02.T1`, `III-10.T1`/`.T4` updated; `CHR.T7` retains open source checks; `DIA` B-timeline and plate caption handoffs added.
+
+
+## External research intake (2026-11-11)
+
+User-supplied research preserved as `research/results/S-15-external-raw.md`; source checks and accepted/rejected claims are in `S-15-external-intake.md`. Corrects the initial intake on Maffeo's marriage (Marta, via Burgio), Bellela's husband (Bertuccio Querini, Bolognari 2020 citing Gallo), Andrea's Ramusian provenance, and the gold tablet in the 2024 critical edition. Children and 1309/1310 remain unresolved; the external report's calendar-only explanation does not match Yule's stated 1308 Venetian-style date. Relevant registries and backlogs updated.
+
+## Final targeted research and source sweep
+
+The copy-ready follow-up is `research/S-15-final-deep-research-prompt.md`: it asks for direct readings of the uncle's will, Agnese and Bellela documents, disputed 1298/1293–94 chronology, and a small number of archival checks. The check of other useful sources is `research/results/S-15-other-claims-intake.md`; findings S15-H1–H7 are in `registry/enrichment.md` and relevant chapter and timeline backlogs.
+
+## Final external run intake
+
+The final tool found none of the priority editions in its retrieval context; `research/results/S-15-final-intake.md` compares that limited result with sources previously seen here. During intake we located Bartoli Langeli's 2019 will edition: the original is cited as Marciana Cod. Lat. V, 58 (=2437), **no. 33**. This corrects our earlier “folio 33” wording. The uncle's will, Agnese, Bellela death-date and Famagusta questions remain open for source-level inspection.

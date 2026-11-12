@@ -67,7 +67,7 @@ The prompts are independent, so you can run them in any order or all at once. In
 
 1. **S-12 first** (closed 2026-11-10). It set the bibliography keys the others reuse: look a work up in `registry/sources.md` before adding a new entry.
 2. **S-14 next.** It closes most of S-06 and unblocks the factual `.T1` items.
-3. The rest in any order. A volume's enrichment spike (S-16, S-17, S-18) should come in **before that volume's W4 re-voice batch**, so the new material goes in during the rewrite rather than after it.
+3. The rest in any order. S-16, S-17 and S-18 have been taken in on a best-effort basis; use their checked results and keep their open questions open. Run the S-18 follow-up before the Vol. III W4 re-voice batch if possible.
 
 | Spike | Prompt focus | Main consumers |
 |---|---|---|
@@ -76,8 +76,8 @@ The prompts are independent, so you can run them in any order or all at once. In
 | [S-14](../spikes/S-14-fact-verification-sweep.md) | The unverified-claims list | S-06; factual `.T1` in 15 files |
 | [S-15](../spikes/S-15-venice-genoa-family.md) | Venetian and Genoese documents, the family, Rustichello, Pipino | I-01, I-02, III-10, `CHR` |
 | [S-16](../spikes/S-16-overland-route.md) | Overland route: archaeology and identifications (Vol. I) | Vol. I chapters; `GAZ`; `MAP` |
-| [S-17](../spikes/S-17-yuan-china.md) | Yuan institutions, cities and corroborations (Vol. II) | Vol. II chapters; `DIA`; `TBL` |
-| [S-18](../spikes/S-18-maritime-return.md) | Ships, ports and the return voyage (Vol. III) | Vol. III chapters; `MAP`; `DIA` |
+| [S-17](../spikes/S-17-yuan-china.md) | Yuan institutions, cities and corroborations (Vol. II); **best-effort intake done**, [follow-up](S-17-follow-up-prompt.md) available | Vol. II chapters; `GAZ`; `MAP`; `DIA`; `TBL` |
+| [S-18](../spikes/S-18-maritime-return.md) | Ships, ports and the return voyage (Vol. III); **best-effort intake done**, [follow-up](S-18-follow-up-prompt.md) available | Vol. III chapters; `MAP`; `DIA` |
 | [S-19](../spikes/S-19-primary-comparanda.md) | Comparative primary sources: best translations and citable passages | every Comparative clause; III-12 |
 | [S-20](../spikes/S-20-reception-afterlives.md) | Manuscripts, print history, cartography, myths, modern afterlives | III-11, III-B1, I-B1, II-B1 |
 | [S-21](../spikes/S-21-natural-history-marvels.md) | Natural history, commodities and marvels | trivia back matter; asides; `PLT` captions |

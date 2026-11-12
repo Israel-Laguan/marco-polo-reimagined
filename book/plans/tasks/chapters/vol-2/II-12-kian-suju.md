@@ -14,7 +14,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[C]** Near-transcription of Yule: 62% (critique C2 text prints 63%). Highest count of first-person Book lines in the volume: 11 of 38. Example :65 "Now let us quit Suju… so we shall now proceed". The city strings are named among the catalogue passages to turn "into modern storyteller summary". Scorecard: 9 hinges, "You must know" ×4. Fix: convert first-person Book lines to reported speech or marked quotation. — vol-2 C2, §3 · ch-12:65
 
 ### Factual / fidelity
-- **[m]** Under-corroborated: the Mar Sarghis aside cites only Yule's single 1281 temple notice. The Zhenjiang local gazetteer (*Zhishun Zhenjiang zhi*, 1332; translated by Moule, *Christians in China before 1550*) records Mar Sargis founding several Christian monasteries from 1278, "among the best Chinese corroborations in the book". Fix: upgrade Note [5] to ✓. **S-06: confirmed in part** (F-10): Cordier's addenda credit Mar Sarghis with seven churches in China, one at Kinsay; the gazetteer's Zhenjiang details and dates are reported, not seen, so the ✓ waits for Moule 1930. — vol-2 m8 · ch-12:41, Note [5] ch-12:81; content plan W2 still-open list
+- Mar Sargis: Moule and Giles translate the gazetteer as attributing seven monasteries to him, with two dated 1279 and Ta-hsing-kuo dated 1281. The Book reports two churches in 1278; keep the reports distinct and do not date all seven to 1279 (F-10, S-14).
 - **[N]** "Su-chau of the silk and the tea districts, the Paris of later China": a stray tea mention given that the volume flags tea as a silence, and "Paris" is anachronistic and unsourced. Fix: cut it. — vol-2 N8 · ch-12:67
 - **[N]** (S-05) Polo gives Mar Sarghis **two** churches at Chinghianfu; Cordier's addendum in Yule counts **seven** built in China, one of them at Kinsay (Moule 1930 has the gazetteer text: reported). An aside can set Polo's two against the record. — registry `mar-sarghis`
 
@@ -64,7 +64,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** backlog · **Depends:** S-06 ✓, `II-12.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-10 (in part): Note [5] cites Cordier's seven churches in China, one at Kinsay, against the Book's two at Chinghianfu; the ✓ upgrade and the Zhenjiang dates wait for Moule 1930.
+    - Mar Sargis: Moule and Giles translate the gazetteer as attributing seven monasteries to him, with two dated 1279 and Ta-hsing-kuo dated 1281. The Book reports two churches in 1278; keep the reports distinct and do not date all seven to 1279 (F-10, S-14).
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 

@@ -30,3 +30,12 @@ S-08 ✓ (table markup; closed 2026-11-10) · S-06 ✓ (facts) · S-03 ✓ (mark
 
 ## Tasks
 _Folded into each chapter's `.T5`._ `TBL.T1` shared table style: **done by S-08** (pipe table with a header row and no caption line; `booktabs`, small type, columns sized by the build; a verdict column may use the five markers; see `registry/markdown-conventions.md`). `TBL.T2` the cross-volume ledger (III-12).
+
+## S-17 table handoff (2026-11-11)
+
+- **II-1 Nayan:** the direct *Yuan shi* comparison and independent evidence for the elephant platform remain open. Label the Book's details as its account; do not fill an independent-source column from a Polo-derived retelling.
+- **II-5 Ahmad / II-11 Saianfu and Yanju:** retain the separately checked S-14 findings and limits; S-17 did not re-adjudicate them. Chang's review reports Vogel's proposed Yangzhou office, not proof of an appointment.
+- **II-8 Mien:** exact comparators and the Vochan/Ngasaunggyan/Pagan chronology need specialist sources; do not treat unsupported numbers as settled.
+- **II-13 Kinsay:** `registry/facts.md` S17-F5: 12,000 bridges and 100 miles are Yule-based Book figures; attribute the reported Chinese figures of 347 and 35 *li* to Mascherpa, whose underlying Chinese source was not independently checked. Verify each other traveller's witness and possible textual dependence before making an independent comparison.
+
+[Checked S-17 intake and follow-up priorities](../../research/results/S-17-intake.md); tables remain chapter `.T5` work.

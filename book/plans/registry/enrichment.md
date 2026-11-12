@@ -248,3 +248,142 @@ A sweep of all three volumes for places where a **verified** item or a new key s
 | E31 / E32 (Caro I) | I-F1 front matter, "War of Saint Sabas (1256–1270)" | | Once a second source is read (Madden 2019): the Pisa–Venice league of 18 July 1257 and the Tower of Flies, 16 Aug. 1267, as timeline points. Still claimed. |
 
 **Checked, no extra slot:** E29 (no other chapter names Wujiang, Wuxi, Jiqing or Cheli beyond II-09 / II-11 / II-12), E33 (III-04's "porphyry" is the Buddha's dish, unrelated), E35 (no chapter names Chandrabhānu yet), E47, E55, E56.
+
+
+## S-15 — Biographical anecdotes and provenance
+
+Source notes, confidence and bibliography: [S-15 research](../research/results/S-15-raw.md). These are source-attribution verdicts, not confirmation of anecdotes.
+
+| Item | Evidence class | Editorial use |
+|---|---|---|
+| Polos return unrecognized in Tatar clothes; jewels cut from seams at the feast | **Ramusio tradition** (1559) | III-10 homecoming plate and I-02: attribute explicitly; do not present as archival fact. |
+| Deathbed request to correct the Book and reply that he had not told half | **Early testimony** (Jacopo d'Acqui) | III-10 and I-01: attribute; do not append an invented reason to the spoken reply. |
+| Nickname due to talk of millions | **Ramusio tradition**; other explanations **early testimony / modern inference** | III-10: competing derivations; neither hyperbole nor Emilione proved. |
+| The uncle's ship took the brothers from Constantinople | **Modern inference / unverified** | I-02: no such ship established in sources checked; omit assertion. |
+| Palazzo San Giorgio and a shared prison cell | **Modern inference / unverified tradition** | I-01 image and caption: no exact prison or shared cell documented here. |
+| A surviving authentic portrait | **Modern inference / not found** | III-10: later likenesses are imaginative; avoid a documentary likeness claim. |
+| Marco carried Pietro back from Asia | **Modern inference / not established** | III-10 and will plate: will identifies Pietro as of the Tartars and frees him; itinerary not specified. |
+
+### S-15 external-source update
+
+- **Ramusio tradition:** Andrea of San Felice and his relation to the three brothers are reported by Ramusio as based on old documents, but Tanase 2025 finds no independent surviving record. I-02 should attribute this genealogy.
+- **Modern inference:** Cigni 2017 strongly favors Rustichello’s capture at Meloria; no individual capture document was seen. I-01 may present it as his reconstruction, not as a documented fact.
+- **Modern tradition / scholarship:** Orlić 2013 traces a Korčulan origin claim to an 1856 reference and studies its later use in tourism; she does not adjudicate Polo’s birthplace or establish the date of the first exact birth claim. III-B1.
+
+
+## S-15 — Checked sources for other claims
+
+For passage-level access, historical limits and downstream tasks see [S-15 other-claims intake](../research/results/S-15-other-claims-intake.md). These are research findings for review during W4, not text inserted into the manuscript.
+
+| ID | Finding | Source and status | Use |
+|---|---|---|---|
+| S15-H1 | Pietro d'Abano reports Polo's southern-sky description; Bottin infers a Venice meeting c. 1300–1303 and discusses comet vs Southern Cross. The III-10 draft's Paduan consulting room is unsupported by Bottin. | `bottin2008pietro`, pp. 428–429, 436–440, article passages seen; meeting place and identification are scholarly inferences | III-10 Note [11]; III-03 Note [1] |
+| S15-H2 | Pipino reports the elder Maffeo's deathbed assurance to a confessor; Bolognari proposes a possible textual influence on Jacopo's deathbed narrative of Marco. | `bolognari2024chronica`, pp. 36–38, seen; early testimony and modern inference | III-10, III-11; no claim either event independently verified |
+| S15-H3 | Bolognari reports a 1319 confraternity list naming Marco Polo Milion and a Florence manuscript of Pipino dated c. 1325–1350 titled *Liber qui dicitur Milion*. | `bolognari2024chronica`, pp. 38–39, seen; Pozza 2006 / manuscript not directly inspected | III-10 Note [5], III-11 and B5; do not call 1319 the earliest possible record |
+| S15-H4 | Jacopo's paper-money and Tibetan marriage accounts are compared with Polo versions; Bolognari argues textual dependence or related source traditions. | `bolognari2024chronica`, pp. 43–45, 55–57, seen | II-05, II-07, III-11; reception evidence, not independent corroboration |
+| S15-H5 | De Rachewiltz reports Antonio Vilioni's Yangzhou tombstone (1344), and argues the wheat-pasta passage is Ramusio's version with varying translations of *lasagne*. | `derachewiltz1997marco`, pp. 40, 61–62, seen; tombstone and original R passage not inspected here | II-11, III-12, III-B1; not proof Polo lived at Yangzhou |
+| S15-H6 | Named Pisan prisoner-copyists left colophons in Genoa, including Taddeus in 1288. | `cigni2017rustichello`, seen; colophons reported | I-01, III-11: distinguish them from the hypothetical capture of Rustichello at Meloria |
+| S15-H7 | A 1392 copyist, Amelio Bonaguisi, voiced doubt while acknowledging the account might be true. | `derachewiltz1997marco`, p. 37 n. 4, seen quoting Benedetto; manuscript and Benedetto not inspected | III-11: one reader, not evidence of general Venetian disbelief |
+
+
+## S-16 — Overland route candidates (partial intake, 2026-11-11)
+
+[Evidence and limitations](../research/results/S-16-intake.md). Verified means the cited text or official site description was opened; it does not mean Polo's presence is independently confirmed. Choose at most 2–3 items per chapter; respect the aside budget.
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S16-E1 | Derbent's fortifications belonged to the Sasanian frontier system; distinguish that history from Alexander traditions. | `unesco2003derbent` | verified | I-04 Note on the Iron Gate; Polo's exact identification still to check |
+| S16-E2 | Old Hormuz lay in the Minab region before the move to Jarun around 1300; the exact archaeological site remains a hypothesis. | `floor2004hormuz`, `potts2022minab` | verified | I-07 Note, map caption; outbound stop contested |
+| S16-E3 | Alamut surrendered in December 1256; Polo's paradise-garden story is a later legend in Virani's analysis. | `daftary2000khorshah`, `virani2021garden` | verified | I-08 Note and Alamut plate caption |
+| S16-E4 | UNESCO describes 492 preserved Mogao caves with murals and sculptures from many periods; Library Cave discovered 1900. | `unesco1987mogao` | verified | I-11 Note or back matter; no implication Polo visited the caves |
+| S16-E5 | The excavated Great Hall at Karakorum is identified as a Buddhist temple, not the khan's palace; a palace beneath Erdene Zuu remains a hypothesis. | `bemmann2021karakorum`, `dai2015hall` | verified | I-12 Note on Karakorum |
+| S16-E6 | Shangdu's UNESCO property includes nested cities, encampment evidence and a hunting enclosure; 25,000 ha describes the full property. | `unesco2012xanadu` | verified | I-13 site-plan Note or plate caption; cane palace separately covered in E1/E2/E7 |
+
+
+### S-16 — Second-pass candidates (2026-11-11)
+
+[Research table and qualifications](../research/results/S-16-second-research.md); sources opened at relevant passages unless otherwise noted. These are candidate Notes or back matter, subject to the per-chapter selection budget.
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S16-E7 | In 1271–72 a royal letter mentions the imminent arrival of a Venetian bailie at Ayas; this is context, not a Polo record. | `pogossian2024armenia` | verified as historian's report | I-03 Note on the port |
+| S16-E8 | Tenth-century sources already mention Baku naphtha, including its transport to Gilan, as reported by Floor. | `floor2005lighting` | verified as reported; originals not inspected | I-04 Note on oil; no eyewitness claim |
+| S16-E9 | The caliph's treasure and starvation ending is one of several accounts of his death; Neggaz traces its motifs and possible Persian precursor. | `neggaz2020deaths` | verified as scholarly analysis | I-05 Note on the story |
+| S16-E10 | Reused boat planks from the Red Sea show sewing and nailing in the wider Indian Ocean tradition; their exact original date is uncertain. | `blue2011ships` | verified | I-07 Note on ships, no implication all boats lacked nails |
+| S16-E11 | Balas rubies are spinels; Kuh-i-Lal is a major Badakhshan source, in modern Tajikistan. Sar-e-Sang's blue lapis contains lazurite and pyrite. | `vertriest2019field`, `wyart1981lapis` | verified | I-09 Note and ruby-mine plate caption; no asserted thirteenth-century working method |
+| S16-E12 | “Roof of the World” in Yule occurs in a quotation from John Wood, not Polo's translated narrative. | `yc` I.32 Note 2 | verified | I-10 Note; do not claim origin of the phrase |
+| S16-E13 | Earlier translated Chinese pilgrim accounts describe evil spirits in the desert; no direct dependence or physical explanation established. | `weerawardane2009journey`, `wriggins2004xuanzang` | verified as translated reports, originals not inspected | I-11 Note on desert voices |
+| S16-E14 | Kozlov reached Khara-Khoto in 1908 and returned with Tangut manuscripts and Buddhist objects. | `idp1995kharakhoto` | verified as institutional account | I-11 Note or back matter |
+
+
+### S-16 — External-run intake (2026-11-11)
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S16-E15 | Pelliot translates the name “Lone Tree” and argues against Yule's “Sun Tree”; he distinguishes the Dry Tree's Alexander connection from the question of the name's meaning. | `pelliot1959notes` vol. II, p. 628 | verified as Pelliot's reading; manuscript not inspected | I-08 Note on the name; avoid identifying a specific physical tree |
+| S16-E16 | Sykes's conjecture that the travellers feared Hormuz ships occurs in Cordier's quotation of Sykes, not Yule's introductory account. | `yc` introduction and footnote 13 | verified | I-07 Note or MAP legend: route and motive are reconstructions |
+
+
+### S-16 — Final report audit (2026-11-11)
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S16-E17 | Arnold of Lübeck's pre-Polo account, as translated and analyzed by Lincoln, includes an intoxicant and deceptive visions. Polo's garden sequence is distinct; neither text proves the practices occurred. | `lincoln2006terrorism`, pp. 250–52; `daftary1994introduction` | verified as scholarly treatment and quoted translation; medieval edition not independently checked | I-08 Note on the legend; no claim of direct borrowing or hashish as identified substance |
+
+
+### S-16 — Closeout candidate for I-06
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S16-E18 | Bernardini reports Genoese merchants in Tabriz from 1280 and a later silk trade; the date is after the proposed 1270s passage and does not prove an earlier consulate or Polo visit. | `bernardini2000genoa` | verified as historian's report; underlying documents not inspected | I-06 Note on commercial context |
+
+## S-17 — Yuan China candidates (2026-11-11)
+
+[Checked intake and gaps](../research/results/S-17-intake.md); [supplied report](../research/results/S-17-raw.md). Verified denotes the specific source statement, not independent proof of Polo's personal presence. Select 2–3 per chapter maximum.
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S17-E1 | Xu Bin reviews evidence and competing reconstructions of Dadu; the Yuan palace plan and transition to Ming Beijing need care. | `xu2020dadu` | verified as research review | II-02 Note; A9 reconstruction legend |
+| S17-E2 | A late-thirteenth-century safe-conduct *paiza* survives in the Met: iron with silver inlay, 18.1 × 11.4 cm; it is not Marco's identified tablet. | `metpaiza1993256` | verified catalog | II-04 Note; paiza caption |
+| S17-E3 | Yuan Zhongtong notes date from 1260; the official 1287 reform rated 1 *guan* Zhiyuan at 5 *guan* Zhongtong while old notes continued to circulate. | `guan2024yuan` | verified as scholarly reconstruction; official, not market value | II-05 Note; C1 |
+| S17-E4 | The CUHK Art Museum describes Zhiyuan bronze printing blocks and seals for 200 and 500 *wen*, with Chinese and 'Phags-pa inscriptions. | `cuhkzhiyuanblocks` | verified catalog; exact date of individual objects not established | II-05; printing illustration caption |
+| S17-E5 | Chang's review reports Vogel's detailed comparison of paper, salt and fiscal claims with Chinese evidence; Yangzhou office remains a hypothesis. | `chang2014vogel` | verified as review; Vogel not read in this intake | II-05 / II-11 Notes; retain S-14 safeguards |
+| S17-E6 | Quanzhou's 2021 UNESCO property comprises religious, administrative, production and transport sites of the Song–Yuan maritime system. | `unesco2021quanzhoudecision` | verified designation and broad context | II-14 Note or back matter; not proof of personal visit |
+| S17-E7 | Yule's Kinsay description attributes the bridge and circuit numbers to a claimed queen's written account; the text alone does not establish the letter or numbers. S-13 already reports Mascherpa's Chinese comparison, attributed to him. | `columbiapoloquinsai`; `mascherpa2024quinsai` | verified textual witness; Mascherpa via prior intake | II-13 Note and comparison table |
+
+## S-18 — Maritime Asia and the return (2026-11-12)
+
+[Checked intake and gaps](../research/results/S-18-intake.md); [supplied report](../research/results/S-18-raw.md). "Verified" means only that the source says this; it does not prove Polo was there. Pick 2–3 per chapter at most. Rows marked *lead* rest on tertiary or unread sources: open the named work before using them.
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S18-E1 | Polo's Adam's Peak holds a **sepulchre** with teeth, hair and a dish, reached by iron chains. The footprint is in later writers (Ma Huan, Tennent), not in the Book. | `yc` vol. 2 | verified (base text) | III-04 aside; F-23 |
+| S18-E2 | Two counts of the dead. French text: 600 embarked (mariners not counted), 8 survived (G.T.: 18). Ramusio: 600 died, Coja alone of the three envoys, one lady. | `yc` vol. 1, Note 5 | verified (base text) | III-09 aside, C11 strip |
+| S18-E3 | Kiacatu's **four** gold tablets (two gerfalcon, one lion, one plain) and escorts of up to 200 horsemen. | `yc` vol. 1 | verified (base text) | III-09 caption |
+| S18-E4 | Yule already argued that the Sumatra stop "must" fall in the SW monsoon, and that the Polos reached Hormuz about November 1293. | `yc` vol. 1 Preface | verified (Yule's inference) | III-09 Note; A16 |
+| S18-E5 | Monsoon calendar: South China Sea NE Oct–Mar, SW May–Aug; Indian Ocean NE Dec–Feb, SW late Apr–Sep; fleets wait at mid-route ports. Ming-era study, used as an analogy. | `deng2011monsoons` | verified citation | C11; III-front-01 |
+| S18-E6 | Lake sediments in Japan record typhoon layers at the 1274/1281 dates, within a longer stormy period. That makes the "divine wind" a real storm, not a one-off miracle. | `woodruff2015kamikaze` NEW | verified citation (metadata) | III-01 aside; A15 caption |
+| S18-E7 | Gulf of Mannar middens: pearl oyster dominant, a fishery dated from the first millennium CE to the colonial era; no 13th-century date, no shark-charmers. | `siriwardana2024pearl` NEW | verified citation | III-05 Note; pearl plate caption |
+| S18-E8 | Polo's "unicorn" read as the Sumatran rhinoceros, seen through unicorn expectations (Eco's "background books"). | `kovesi2025rhinoceros` NEW | verified (essay, not peer-reviewed) | III-03 aside; III-B1 |
+| S18-E9 | The Motupalli merchant-protection pillar is **Ganapatideva's**, Śaka 1166 (1244–45), *EI* XII no. 22 (Hultzsch). Kings used to seize wrecked cargo; now everything beyond the fixed duty goes to the merchants. Renewed in 1358 (search-level). | `hultzsch1913motupalli`; `talbot2001precolonial` | verified (OCR of EI XII; follow-up FU-4) | III-06; F-31 |
+| S18-E10 | Abash 1288: a modern candidate king is Yagbeʾa Ṣeyon (r. 1285–94), with "Aden" read as Adal. Yule had already rejected Amda Ṣeyon on dates. | Wikipedia (Trimingham, Pankhurst); `yc` | *lead* | III-07 [18]–[19] |
+| S18-E11 | Nanhai I porcelain: micro-provenance of the Dehua-style wares in the cargo. | `xu2025nanhai` NEW | verified citation | III-01 / II-14 junk caption |
+| S18-E12 | The Takashima wreck site (Matsuura, Nagasaki): KOSUWA (Hayashida) from 1991, a 2001 hull with a bulkhead fragment; Ikeda's 2011 keel (~12 m). His storm case rests on anchors pointing south, and he notes a Goryeo record that 80% of the Eastern Route Army got home. Hull origin is southern Chinese per Conlan's review; Sasaki's publisher hedges. | `ikeda2019takashima`, `conlan2017sasaki`, `sasaki2015origins` | *lead* (magazine/review level; follow-up FU-12) | III-01; A15 |
+| S18-E13 | Overviews for III-F1: Prange 2018 (Malabar), Sen 2014 (maritime Southeast Asia), Talbot 2001 (Kakatiya Andhra), plus Chaudhuri 1985 already in the bib. | `prange2018monsoon` NEW, `sen2014maritime` NEW, `talbot2001precolonial` | verified records; content not read | III-F1 reading list |
+| S18-E14 | Leads from the report, not imported: Indravarman V and the Champa campaign; the Java expedition and Majapahit; Malik al-Ṣāliḥ's 1297 gravestone; the Thangassery Chinese coins (Kollam); Ezhimala; Socotra's Christians; the Qalhat excavations; Aden in the Geniza (Margariti 2007); the Kayal port survey (Dayalan 2019). | [raw](../research/results/S-18-raw.md) rows 16–21, 28, 45, 51, 54, 58, 65, 68 | *lead* | see follow-up prompt |
+
+### S-18 — Follow-up intake (2026-11-12)
+
+[Follow-up intake](../research/results/S-18-followup-intake.md); [supplied report](../research/results/S-18-followup-raw.md).
+
+| # | Finding | Source | Status | Suggested slot |
+|---|---|---|---|---|
+| S18-E15 | Maffeo Polo's will (1310) records a loss of about 4,000 hyperpera "by the lord Comnenus of Trebizond", part repaid by Venice (about 1,000 lire to Marco). The only document behind the "Trebizond robbery". | `moule1938description`; `orlandini1926marco` | verified as M&P's Latin; wording "loss", not "robbery" | III-09 or III-10 aside; III-B1 |
+| S18-E16 | Death toll by manuscript: 500, 600, 700, "600 and 100 women". A neat example of how the Book's numbers drift between copies. | `moule1938description` I p. 91 | verified (OCR apparatus) | III-09 aside; III-12 essay |
+| S18-E17 | Rudrama Devi was Ganapati's daughter and ruled 1263–89 under a masculine persona. Yule had her as a widow. | `talbot2001precolonial` | verified | III-06 Note |
+| S18-E18 | Polo's Java "producing all spices" is an overstatement: Java was an entrepôt, trading its rice for eastern spices. | `hall2011history` pp. 226–227 | verified | III-02 Note |
+| S18-E19 | Sonder Bandi's regnal year 17 falls in 1292–93, the year of Polo's passage; Waṣṣāf dates his death to AH 692. | `nilakantasastri1929pandyan` | verified (OCR) | III-05 Note |
+| S18-E20 | Qalhat began its great growth in Polo's decade: new quarters, kilns and walls from the late 13th century; Rougeulle calls it the only Omani port Polo names. | `rougeulle2017qalhat` | verified | III-08 Note; caption |
+| S18-E21 | Kayal yielded a coin of Peter of Aragon (1276) among Chinese wares, in Caldwell's 1861 hoard. | `dayalan2019seaports` | verified (date link to Polo is ours) | III-05 aside |
+| S18-E22 | The Pasai sultan's gravestone (d. 1297) may be a later replacement: Lambourn (reported) vs Ismail et al. 2022. | Ismail et al. 2022 (secondary) | disputed | III-03 Note, hedged |
+| S18-E23 | The golden palace of Chipangu as a literary trope (Favi). Ōkubo argues a Chūson-ji rumour reached China; no mainstream Polo scholar names the Konjikidō. | `favi2018self`; `okubo2000mining` | verified | III-01 aside; ch-12 |

@@ -105,3 +105,6 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 18 errors · 1 warnings — failing: archaism, budgets, markers, ramusio, recaps, scaffolding, verbatim; warnings: openers
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-07-tebet-carajan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+
+**S-15 source sweep:** Bolognari 2024 pp. 55–57 compares Jacopo's Tibetan-marriage passage with F, Z and VA (`registry/enrichment.md` S15-H4). A parallel in Jacopo is part of a connected textual tradition, not an independent ethnographic attestation. Preserve the existing hedges on Note [3].

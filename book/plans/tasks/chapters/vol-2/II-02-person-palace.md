@@ -74,7 +74,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-06 (open): ch-02:21 "in the winter of 1285–86" → "in the mid-1280s"; Note [6] drops "To verify (S-06)" and says the *Yuan shi* date is not yet seen.
-    - F-24, F-37: ch-02:49 and Note [20] keep the three silences (Yule) but drop the unsourced parts: the Ming date of the Wall, tea "known to Persian writers of his time", foot-binding "mostly among elite families, largely in the south". Hedge: "tea was the everyday drink of China; Odoric, a little later, noticed the women's bound feet".
+    - F-24: the Ming Jiayuguan pass dates to 1372, but exact-site remains in Polo’s day remain open. F-37: keep Yule’s three silences; cut the unsourced claims about Persian tea writers and the social/geographic range of foot-binding.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
@@ -108,3 +108,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 0 errors · 0 warnings
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-02-person-palace.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research handoff (2026-11-11)
+
+S17-E1: use Xu Bin on Dadu as a research review; distinguish excavated remains from hypothesized palace layouts and the later Ming city. A9 must mark reconstruction. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

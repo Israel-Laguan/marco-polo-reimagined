@@ -90,3 +90,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research handoff (2026-11-11)
+
+Select, within the chapter budget, the 1287 official money conversion, surviving museum paiza, or Quanzhou’s serial heritage property from S17-E2–E6. Distinguish contemporary objects from Polo’s own possessions or personal presence. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

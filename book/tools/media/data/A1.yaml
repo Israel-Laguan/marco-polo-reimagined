@@ -20,8 +20,11 @@ routes:
     style: inferred          # A4: via Tauris or via Mausul/Baudas; this is the Tauris variant
     path: [ayas, savast, arziron, tauris, saba, kashan, yasdi, kerman]
   - vol: I
-    style: stated            # down to Hormos and back by another road, then the desert of Cobinan
-    path: [kerman, camadi, reobarles, hormos, kerman, cobinan, tonocain, sapurgan, balc, taican, badashan,
+    style: inferred          # Yule reconstructs an outbound detour; Minab is a regional reference
+    path: [kerman, camadi, reobarles, hormos, kerman]
+  - vol: I
+    style: stated            # the Book continues from Kerman; this sequence is not proof of each visit
+    path: [kerman, cobinan, tonocain, sapurgan, balc, taican, badashan,
            vocan, pamier, cascar, yarcan, cotan, pein, charchan, lop, sachiu, sukchur, campichu, chandu, cambaluc]
   # Volume II: the Khan's realm
   - vol: II
@@ -61,7 +64,7 @@ label:
   trebizond: n
   tauris: e
   kerman: w
-  hormos: sw
+  hormos: {pos: se, text: "Hormos? (Minab area)"}
   balc: n
   cascar: n
   cotan: s

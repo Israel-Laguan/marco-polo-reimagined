@@ -54,7 +54,7 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 | `PLT.II-1` | Kublai on the elephant tower, Nayan battle | YC (Liu Guandao manner) | H | Akool | ready |
 | `PLT.II-2` | Elephants carry trees up the Green Mount | *jiehua* | H | Akool, first of its tradition | ready |
 | `PLT.II-3` | The White Feast procession | YC | H | Akool | ready |
-| `PLT.II-5` | Printing the Kaan's paper money | Yuan woodblock (*pinghua*) | L | Akool, first of its tradition | ready |
+| `PLT.II-5` | Printing the Kaan's paper money | Yuan woodblock (*pinghua*) | L | Akool, first of its tradition; check block material for the scene | ready |
 | `PLT.II-6` | Caravan on the Pulisanghin bridge | Yuan landscape / *jiehua* | H | Akool | ready |
 | `PLT.II-7` | Exploding bamboo in the night camp | Dali kingdom scroll | L | Akool, first of its tradition | ready |
 | `PLT.II-8` | Battle of Vochan | Pagan temple murals | L | Akool, first of its tradition | ready |
@@ -98,7 +98,7 @@ _PD plates (from S-11) are below._
 
 ### PLT.II-05P — PD pairing: Zhiyuan note
 - **Status:** ready
-- **Do:** half-page inset beside the II-5 GEN hero in `vol-2/ch-05-ahmad-paper-coal.md`; crop to the note, or keep the plate if the layout allows. Photographer credit, CC BY-SA 3.0. Do not call the sheet an original note.
+- **Do:** half-page inset beside the II-5 GEN hero in `vol-2/ch-05-ahmad-paper-coal.md`; crop to the note, or keep the plate if the layout allows. Photographer credit, CC BY-SA 3.0. Do not call the sheet an original note; do not date the individual plate solely from the 1287 issue. The S-17 CUHK catalog describes different bronze blocks (200/500 *wen*), not this 2-*guan* plate.
 
 ### PLT.III-01 — PD: Suenaga boards a Yuan ship, 1281
 - **Status:** ready

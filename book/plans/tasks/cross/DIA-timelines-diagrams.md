@@ -40,7 +40,7 @@ Timelines (TikZ from YAML), schematic diagrams (TikZ), data charts (Python), and
   - monsoon reuse in III-1, III-5 and III-7 (extend C11);
   - reception timeline reuse in III-10 and III-B1 (extend B5).
 - Timeline data must come from the S-06 fact sheet; several dates are corrections (Ghazan 1295, Bayan 1274, etc.). The dates per timeline are in `registry/facts.md` § Timeline data (S-06 ✓).
-- C12 labels "thirteen" as the Book's number; the Quanzhou wreck is not a source yet (F-14).
+- C12 labels “thirteen” as the Book’s number; the Quanzhou hull’s thirteen compartments are a separate archaeological comparison (F-14), with limber holes qualifying any blanket watertight claim.
 
 ## Gated by spikes
 S-09 ✓ (pipeline, 2026-11-10) · S-06 ✓ (dates, closed 2026-11-03) · S-10 ✓ (cutaway bases are `PLT.C12`–`C16`, Akool route) · S-08
@@ -58,7 +58,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 
 ### DIA.B2 — Mongol politics, 1206–1295
 - **Status:** backlog · **Placement:** I-F1 · **Depends:** S-09 ✓, DIA.T1
-- **Do:** Axis break between 1206 and 1255 if the decades are empty; Mosul only as "1261 (Yule)".
+- **Do:** Axis break between 1206 and 1255 if the decades are empty; Mosul’s surrender may be shown as 1262 (F-02); the death date remains open.
 
 ### DIA.B3 — Kublai's reign and the Polo calendar
 - **Status:** backlog · **Placement:** II-F1 · **Depends:** S-09 ✓, DIA.T1
@@ -78,11 +78,11 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 
 ### DIA.C1 — Paper money
 - **Status:** backlog · **Placement:** II-5 · **Depends:** S-09 ✓, schematic build
-- **Do:** Bark → sheet → seals → vermilion → circulation; 1287 revaluation sidebar.
+- **Do:** Bark → sheet → seals → vermilion → circulation; 1287 revaluation sidebar. S17-F1/F3: label the 1 Zhiyuan to 5 Zhongtong *guan* conversion as official; both issues continued circulating. This is one scholarly source: verify a second independent source or the primary passage before printing the number, per the Phase R number rule. CUHK bronze blocks are not dated to 1287 solely by the issue date.
 
 ### DIA.C2 — The yam
 - **Status:** backlog · **Placement:** II-5 · **Depends:** S-09 ✓, schematic build
-- **Do:** Stations, runner forts, express riders; "ten days in one" to scale.
+- **Do:** Stations, runner forts, express riders; attribute “ten days in one” to Polo, not a verified travel rate. S17-F2: a museum paiza illustrates a general safe-conduct pass; exact station counts remain unchecked.
 
 ### DIA.C3 — Keshig rota
 - **Status:** backlog · **Placement:** II-3 · **Depends:** S-09 ✓, schematic build
@@ -94,7 +94,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 
 ### DIA.C5 — Paiza hierarchy
 - **Status:** backlog · **Placement:** II-1 / I-2 · **Depends:** S-09 ✓, schematic build
-- **Do:** Silver → gerfalcon; the 1269 script change.
+- **Do:** Proposed silver → gerfalcon hierarchy and 1269 script change require independent source checks before the diagram asserts ranks or dates. S17-F2 supplies one dated iron-and-silver paiza, not proof of a hierarchy.
 
 ### DIA.C6 — Tutia furnace
 - **Status:** backlog · **Placement:** I-8 · **Depends:** S-09 ✓, schematic build
@@ -149,8 +149,20 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Status:** backlog · **Depends:** S-06 ✓, S-09 (the YAML schema)
 - **Do:**
   - Write each timeline's YAML from `registry/facts.md` § Timeline data only; each event carries its row id (`F-07`) as its source.
-  - Still-open dates are drawn as spans or left out, never as points: Chingkim "mid-1280s" (F-06), the fleet's sailing 1291–92 (F-15), Pipino "1310s" (F-18), Mosul only as "1261 (Yule)" (F-02).
+  - Still-open dates are drawn as spans or left out, never as points: Chingkim "mid-1280s" (F-06), the fleet's sailing 1291–92 (F-15), Pipino "1310s" (F-18).
   - B5 reception takes the print dates (F-21), the Leeu copy and postils (F-19), the Catalan Atlas 1375 with no Chipangu, and Fra Mauro 1459 (F-20); S-20 adds the later rows.
   - B6 "Book date vs history" rows: Baidu and Casan 1294 vs 1295 (F-05); Bayan 1268 vs 1274 (F-29); Alaü's victory vs Hulagu's rout (F-01).
   - A date not in the sheet gets a row there first (S-06 method), then goes on the timeline.
 - **Done when:** every event in the B1–B6 YAML has a `facts.md` row id, and no still-open row is drawn as a point.
+
+
+**S-15 → DIA B1/B5 data:** `registry/facts.md` S15-F1, F4, F6–F8; `research/results/S-15-raw.md`. Plot Marco's c. 1254 birth as inferred, capture as disputed (1296 Jacopo / 1298 Ramusio), 1324 will 9 Jan and death 8 or 9 Jan; inventory 1324, judgment 1366. Mark uncle Maffeo's reported 1309 and 6 Feb 1310 will dates as unresolved and do not join them as one fact. Agnese's 1319 will is documented via report; parentage remains an identification.
+
+**External S-15 check:** For Maffeo's will, Yule reports 6 February 1308 Venetian style = 1309 modern; Gullino's extant will is 6 February 1310 modern. Do not merge them by calendar conversion without comparison. The inventory is probably February 1324, not an exact date established here. Details in `research/results/S-15-external-intake.md`.
+
+
+**S-15 source sweep → B5:** Bolognari 2024 reports the 1319 *Marco Polo Milion* confraternity entry and discusses a Florence manuscript dated c. 1325–1350 with the title *Milion*. Label byname and book title separately; do not treat 1305's disputed identification as certain or 1319 as necessarily the first usage. `registry/enrichment.md` S15-H3.
+
+## S-17 data handoff (2026-11-11)
+
+Use `registry/facts.md` S17-F1–F6 and the [checked intake](../../research/results/S-17-intake.md). C1: the 1287 **official** conversion was 1 *guan* Zhiyuan = 5 *guan* Zhongtong; both circulated. C2/C5: museum paiza as a dated object, not Polo's own; station numbers remain unchecked. A9: label reconstruction and avoid an invented complete palace plan. II-13 comparison: attribute each number to its textual witness; Mascherpa's Chinese source has not itself been checked. No speculative station totals or ranked paiza hierarchy are authorized by this intake.

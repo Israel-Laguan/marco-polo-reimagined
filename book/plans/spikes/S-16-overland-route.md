@@ -1,6 +1,6 @@
 # S-16 — The overland route: archaeology and identifications (Vol. I)
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** Vol. I `.T1`/`.T4` enrichment; `GAZ` rows for Vol. I (feeds S-04); `MAP` A3–A6; Vol. I back-matter trivia
+**Status:** done (best effort, 2026-11-11) · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** Vol. I `.T1`/`.T4` enrichment; `GAZ` rows for Vol. I (feeds S-04); `MAP` A3–A6; Vol. I back-matter trivia
 
 ## Question
 For each place and episode on the outbound road, from Ayas to Shangdu: what does modern archaeology, history and geography add to or correct in Yule's identifications? Which disputed identifications have a current best answer?
@@ -44,22 +44,34 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 ```
 
 ## Output (definition of done)
-- [ ] `research/results/S-16-raw.md` saved
-- [ ] Identifications for the uncertain Vol. I gazetteer rows, with rationale, handed to S-04
-- [ ] `registry/enrichment.md` § Vol. I: candidates per chapter, each with a slot and a source key
+- [x] `research/results/S-16-raw.md` saved (supplied result; incomplete)
+- [x] Identifications for uncertain Vol. I gazetteer rows handed to S-04 / GAZ, with alternatives and uncertainty retained
+- [x] `registry/enrichment.md` § Vol. I: sourced candidates and chapter slots; I-06 is contextual background, not proof of an outbound visit
 
 ## Feedback to plan
 - `multimedia-plan.md` § A (route reconstruction for A3–A6)
 - `illustration-plan.md`: caption facts for the Vol. I plates (Alamut, Shangdu)
 
 ## Follow-up prompts
-_(add here if the results leave gaps)_
+
+Optional future source work is listed in the [closeout](../research/results/S-16-closeout.md); none blocks this best-effort closure. Any later research should update the relevant GAZ or chapter task and preserve evidence classes.
 
 ## Findings
-_(fill while working)_
+
+**Partial intake, 2026-11-11:** [final external report and checked intake](../research/results/S-16-final-external-intake.md); [two external runs and checked intake](../research/results/S-16-external-intake.md); [second independent research pass](../research/results/S-16-second-research.md); [supplied raw result](../research/results/S-16-raw.md) and [checked findings, bibliography and open questions](../research/results/S-16-intake.md). The supplied answer truncates at Xanadu; subsequent checks add material but do not cover every question. The [closeout](../research/results/S-16-closeout.md) records the editorial decisions and remaining uncertainties.
+
+- Yule's Hormuz detour and abortive sea plan are hypotheses; Sykes, quoted in Cordier's note, proposed fear of the ships as the motive; scholars disagree whether the Kerman–Hormuz passage reflects the outward or return journey. Map route segments accordingly.
+- Old Hormuz was on the mainland near Minab before the move to Jarun. The map pin is an explicitly uncertain regional reference at modern Minab, not an archaeological point; K-103 is a possible site.
+- Pelliot preferred Uzun-tatïr for Pem; Bernardini also considers it possible while citing him. Tenduc's city remains disputed, as do the precise Tonocain and Dry Tree locations. Do not present Pelliot's view as current consensus.
+- Excavation reclassified Karakorum's supposed palace hall as a Buddhist temple; the palace location remains hypothetical. The garden-of-assassins story is a legend, not evidence of actual recruitment.
+- UNESCO's 25,000 hectares refers to the full Xanadu protected property, not the walled city. See registry candidates and S-04 handoff in the intake.
+- The final external report contains unsupported coordinates, inconsistent witness matrices and unreliable bibliographic entries; do not use it without the checked intake. Lincoln identifies a pre-Polo account of an intoxicant and visions, contrary to the report's claimed origin of the drug motif.
+- The second pass checks Baku oil references predating Polo; competing traditions about Baghdad's caliph; sewn-boat archaeology; balas spinels and Sar-e-Sang lapis; desert-spirit parallels; and Tangut finds at Khara-Khoto. It identifies Yule's source for “Roof of the World” as a quotation from John Wood. It also distinguishes Atwood's proposed Sichintingiu/Olon Süme identification from Tenduc itself. Many topics remain unresolved; the closeout records which hedges to use.
 
 ## Decision
-_(fill when closing)_
 
-## Tasks to create on close
-- Vol. I `.T1` (corrections) and `.T4` (Notes enrichment) items; `GAZ.T*` rows; `I-B1` trivia items
+Close the research intake as **best effort**, with disputed identifications and missing evidence explicitly retained, not converted into confirmed facts. Plot Hormos as an uncertain Minab-area reference point with a caption explaining that it is not the archaeological site; use the named alternatives and uncertainties for Pein, Tenduc, Tonocain, the route and other claims. Arbre Sec remains unlocated. [Closeout and chapter handoffs](../research/results/S-16-closeout.md).
+
+## Tasks created on close
+- Existing Vol. I chapter `.T1` / `.T4` backlogs now carry S-16 handoffs; `I-B1` carries trivia and route caveats. These are future manuscript tasks, not completed edits.
+- `GAZ.T6` carries the identification decisions; multimedia plan A1/A3–A6/A16 and illustration plan carry map and caption cautions.

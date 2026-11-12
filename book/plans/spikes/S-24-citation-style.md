@@ -1,6 +1,6 @@
 # S-24 — Citation and bibliography style
 
-**Status:** decided 2026-10-22; pass A done; pass B done (rerun 2026-11-10 with the S-12 map) · **Timebox:** 1 session to decide + a scripted conversion in two passes · **Depends:** S-12 (bibliography keys, for pass B); S-08 (biblatex in the build) · **Gates:** every Note's citations; epigraph attributions; the back-matter bibliography; lint rules for citations
+**Status:** closed 2026-11-11; residual source verification and preview/EPUB rendering assigned below · **Timebox:** 1 session to decide + a scripted conversion in two passes · **Depends:** S-12 (bibliography keys, for pass B); S-08 (biblatex in the build) · **Gates:** every Note's citations; epigraph attributions; the back-matter bibliography; lint rules for citations
 
 ## Question
 Which modern citation style replaces "cite modern scholars by well-known position"? How do we cite the base text, a 1903/1920 book that we read through a 2004 digitisation? And how do we convert the existing ~700 Notes with as little hand work as possible?
@@ -63,9 +63,9 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 ## Output (definition of done)
 - [x] Decision approved (style, sigla, epigraph form, bibliography placement)
 - [x] `VOICE-GUIDE.md`: Notes rule 2 and § Apparatus rewritten for the new style
-- [ ] `tools/cite_convert.py` (pass A ✓; pass B after S-12) and the lint rules ✓
-- [ ] Pass A applied ✓; pass B applied after S-12; ambiguous list resolved
-- [ ] Front-matter *List of abbreviations*; back-matter *Works cited* wired into the build (with S-08). **Wired 2026-11-10 (S-08):** one PDF per volume prints its *Abbreviations* (`\printbiblist{shorthand}`) and *Works cited*; the base text prints "(YC 2.8)"; no `refsection` needed. Left: the explanatory prose of the abbreviations page (APP)
+- [x] `tools/cite_convert.py` passes A and B and citation lint rules; check limitations and remaining claim-level review are recorded in BLD.T8.
+- [x] Passes A and B applied; the remaining named ambiguous modern citations reviewed or removed. Via-YC and other claim-level checks remain assigned to APP.T5–T6 and chapter `.T4` work.
+- [x] Front-matter *List of abbreviations*; back-matter *Works cited* wired into the build (with S-08). **Wired 2026-11-10 (S-08):** one PDF per volume prints its *Abbreviations* (`\printbiblist{shorthand}`) and *Works cited*; the base text prints "(YC 2.8)"; no `refsection` needed. The explanatory prose was added and checked in all three volume builds on 2026-11-11 (APP.T7).
 
 ## Feedback to plan
 - `VOICE-GUIDE.md` lines 98 and 153: "by well-known position only" becomes "by position, with a citation key; no unseen page numbers". Line 150: the base-text wording (already corrected 2026-10-22, see Findings).
@@ -147,6 +147,21 @@ The most-named sources: Wood 110 (both Woods), Larner 29, Vogel 29, Haw 26, Pall
 
 ## Tasks to create on close
 - **Created 2026-10-22, from the citation sweep:** `APP.T5` (a YC locator on every Note), `APP.T6` (per-work keys for the "As cited in Yule" names), `BLD.T5` (audit tool); spikes **S-25** (confirm the four unconfirmed works already cited) and **S-26** (chapter locators in the five most-cited modern books). **S-13** (scholarship since 2013) is the next Phase R run for the references.
-- `BLD.T*`: `cite_convert.py`, lint rules, biblatex wiring
-- `APP.T*`: List of abbreviations, Works cited pages
-- Each chapter's `.T4`: residual citation conversion (checked by the lint)
+- `BLD.T8`: claim-level lint limitations; `BLD.T9`: preview and EPUB citeproc parity. Print wiring and the List of abbreviations prose are in place.
+- Each chapter's `.T4`: residual citation conversion and source verification. The lint cannot establish that every named source supports the claim.
+
+## Current handoff, 2026-11-11
+
+- Pass A's dry run proposes no edits. It reports three dated non-Polo credits because their quotations occur in Yule's Introduction rather than the main text; these credits are already permitted by the epigraph lint and are not evidence of unconverted Polo epigraphs.
+- Pass B's dry run proposes no edits. It reports 1,020 via-YC occurrences, including repeated mentions within the same Note, not 1,020 distinct unresolved sources. These still need the source-by-source review in APP.T6 and the chapter `.T4` tasks; the old `pass-b-worklist.md` is a 2026-10-22 snapshot, not a current count.
+- The unmatched modern names and needs-edition cases reported before the 2026-11-11 review are addressed below. No work is assigned merely because its author is in the map.
+- APP.T7 holds the reader-facing abbreviation explanation, added to the build and checked in all three volume PDFs. BLD.T8 adds a lint error for mapped modern scholars without a candidate key in the Note, including context-dependent and needs-edition names; its limitations are recorded there. Residual claim-level verification is not fully checked by lint.
+- Preview/EPUB citeproc has not yet been wired or verified. A default citeproc probe produced `(Polo 1903, 1.61)` rather than `(YC 1.61)`; BLD.T9 owns a configured Chicago CSL and siglum-parity check.
+
+**Ambiguous modern names reviewed, 2026-11-11.** Cambridge University Press's [title page and imprint](https://assets.cambridge.org/97805218/03359/frontmatter/9780521803359_frontmatter.pdf) and [introduction](https://assets.cambridge.org/97805218/03359/excerpt/9780521803359_excerpt.pdf) confirm Thomas T. Allsen, *Culture and Conquest in Mongol Eurasia* (2001), and its discussion of diverse and multilingual personnel in Yuan administration (ch. 1). The publisher's [chapter listing](https://www.cambridge.org/core/books/culture-and-conquest-in-mongol-eurasia/7C029340250BEA313F58D0997E47892E/listing) places Polo among cultural intermediaries in ch. 9; only the displayed opening was read, not the whole chapter. Added `allsen2001culture` and cited these specific points in I-F1, I-02 and III-12. I-02 no longer attributes an unspecified interpretation of the embassy's motives to de Rachewiltz: the Allsen citation gives background, not proof of motive. III-12 no longer presents Allsen's contextual work as an independently verified reply to Wood. Jackson in III-12 and Needham in II-05 were already keyed.
+
+The unsupported bare names Elverskog and Allsen were removed from II-03 Note 15, Subrahmanyam from III-05 Note 19, and Huntingford from the comparative list in III-07. They remain research leads, not confirmed sources for those claims; in particular, Huntingford's *Glorious Victories* (1965) and *Periplus* (1980) are possible but not shown to be the intended work. The remaining comparative names and their YC references still require chapter-level checking.
+
+Pass B now reports no proposed additions, but still reports Allsen, Jackson and Needham as "by hand" even in Notes where they already have appropriate keys; these are report noise. The unsafe Allsen match from the broad word `personnel` to the textile book was removed and regression-tested; textile-specific matches still work. BLD.T8 and chapter review retain ownership of context-sensitive checks.
+
+**Closeout verification, 2026-11-11:** five focused citation/build tests pass. Both conversion dry runs propose no changes. All three volumes built with the explanatory abbreviations page and *Works cited*; a subsequent build of the six edited files rendered the new Allsen citations. The 49-file lint reports no citation-rule errors and has the same overall baseline as before this closeout: 1 of 49 files passes, with 1,014 errors and 614 warnings across all checks. The outstanding via-YC and claim-level work and the preview/EPUB mismatch are not represented as complete.
