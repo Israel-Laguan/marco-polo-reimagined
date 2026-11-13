@@ -46,6 +46,9 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 - `illustration-plan.md`: caption facts for natural-history secondaries
 
 ## Follow-up prompts
+
+[Targeted stricter rerun for passes 1 and 2](../research/S-21-passes-targeted-rerun-prompt.md) — publication-critical witness checks and unresolved evidence, required after both spot checks fell below 80%.
+
 [Remaining high-priority pass 1](../research/S-21-high-priority-pass1-prompt.md) — customs, animals, metals and money.
 
 [Remaining high-priority pass 2](../research/S-21-high-priority-pass2-prompt.md) — pearls, goods, trade and marvels.
@@ -57,6 +60,9 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 **Latest follow-up:** The supplied [critical source audit](../research/results/S-21-followup-raw.md) has been preserved. Its remaining gaps are classified, with manuscript-specific fallbacks, in [S-21 research priorities](../research/S-21-research-priorities.md). This is editorial triage, not an independent verification intake; report-only findings are not promoted. High-priority work targets existing claims and source inspection; low-priority work is optional unless a particular detail is selected.
 
 ## Findings
+
+**Pass 1 and pass 2 returned:** [raw pass 1](../research/results/S-21-pass1-raw.md), [raw pass 2](../research/results/S-21-pass2-raw.md), and [checked intake](../research/results/S-21-pass1-pass2-intake.md). Ten purposively selected claim-level citation checks per report yielded **7/10** and **6/10** respectively; access limitations and metadata errors count as misses, and these are not random error-rate estimates. The project rule calls for a stricter rerun below 80%. Pass 2 falsely denies the diamond-valley story and misses Yule’s Ramusio attribution of the full whale-hunt paragraph. Pass 1 misidentifies a crocodilian article and overlooks Kunz–Stevenson’s 1885 statement; pass 2 misidentifies the 2024 Mannar article’s authors and title. Corrected, scoped candidates are in the enrichment registry. The full chapter register and table remain incomplete.
+
 
 **High-priority first tranche:** [raw report](../research/results/S-21-high-priority-raw.md) and [checked intake](../research/results/S-21-high-priority-intake.md). Ten targeted source checks: 8/10 support the narrow proposition, with a wrong author initial and a digitized viewer not accessible in this environment; this is not a random error-rate estimate. Eusebi’s F-text edition independently supports the narrow textual distinction between the Basma description and the Fansur “we ate” passage; it is not a fresh manuscript collation. Most requested groups remain unattempted, so the spike stays open and the remaining prompts split their scope.
 

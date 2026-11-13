@@ -74,7 +74,7 @@ Here the chapter stops short of the bridge of Pulisanghin (Lugou / Marco Polo Br
 
 [6] ✓ / ~ Body dug up, cast to dogs; sons flayed; treasure seized. ✓ Desecration and confiscation in Chinese notices; ~ flaying colour. ✓ / ~ Post-Ahmad restrictions on Muslim marriage and *ḥalāl* slaughter: Rashīd al-Dīn parallels on throat-cutting bans and court friction.
 
-[7] ✓ / ? Polo “upon the spot”; Chinese annals name Polo explaining Ahmad’s crimes. ✓ De Mailla/Gaubil notice is a presence pillar [@vogel2013marco; @haw2006marco; @rossabi1988khubilai]; ? Wood-sceptic challenges to name/office transmission. Soft transition to Mint. As cited in Yule: De Mailla, Gaubil [@yc, 2.23].
+[7] ✓ / ? Polo “upon the spot”; Chinese annals name Polo explaining Ahmad’s crimes. ✓ De Mailla/Gaubil notice is a presence pillar [@vogel2013marco; @haw2006marco]; ? Wood-sceptic challenges to name/office transmission. Soft transition to Mint. As cited in Yule: De Mailla, Gaubil [@yc, 2.23].
 
 [8] ✓ Paper money from tree bast; vermilion seal; death for forgery. Yuan *chao*; surviving Ming analogues; mulberry vs *Broussonetia* botanical nicety. Chinese paper currency from 9th c.; Kin notes; Mongol issues from 1236; Kublai 1260 series.
 
@@ -96,7 +96,7 @@ Here the chapter stops short of the bridge of Pulisanghin (Lugou / Marco Polo Br
 
 [17] ✓ Black stones dug and burnt for fuel (coal). Famous ethnographic hit; Ibn Baṭṭūṭa; Rashīd; Richthofen on Shanxi fields. ~ Bathing frequency requiring coal over wood: bath culture real; universal thrice-weekly claim rhetorical. As cited in Yule: Ibn Baṭṭūṭa [@yc, 2.24]; Richthofen [@yc, 2.30].
 
-[18] Coal as hit against silence arguments (Wood [-@wood1995did] debate). Soft transition to granaries.
+[18] Wood [-@wood1995did, ch. 8] acknowledges Polo’s accurate description of coal while questioning his account on other grounds. Soft transition to granaries.
 
 [19] ✓ / ~ State granaries buying cheap, issuing ~¼ price. ✓ Ever-normal granary type (*Yuan shi*; Bretschneider; Archbishop of Soltania); ~ exact ratio. As cited in Yule: Yuan shi [@yc, 2.34]; Bretschneider [@yc, 2.24].
 
@@ -108,4 +108,4 @@ Here the chapter stops short of the bridge of Pulisanghin (Lugou / Marco Polo Br
 
 [23] ~ / ◇ Ornate polite speech; filial-punishment office; triennial branded release; gambling ban; quiet approach; spittoons; white leather buskins. Ramusio manners ethnography; mixed Chinese–court observation. *Sbattendo i denti* almost certainly scribal error for brow-striking (Yule).
 
-[24] Soft landing only to Pulisanghin and the west–southwest circuit (II-6). Comparative: *Yuan shi* (Ahmad; granaries; calendar); Gaubil; De Mailla; Franke [-@franke1994china]; Vogel [-@vogel2013marco] on money and salt; Needham’s *Science and Civilisation in China* (coal: Golas [-@golas1999mining]; astronomy: Needham [-@needham1959mathematics]—selective); Haw [-@haw2006marco]; Wood [-@wood1995did] vs critics; Rashīd al-Dīn (*Sing*; coal); Pegolotti; Odoric; Ibn Baṭṭūṭa; Palladius; Bretschneider; Richthofen; Rossabi [-@rossabi1988khubilai]; Yule–Cordier notes passim. As cited in Yule: Yuan shi [@yc, 2.34]; Gaubil, De Mailla [@yc, 2.23]; Pegolotti, Odoric, Ibn Baṭṭūṭa, Palladius, Bretschneider [@yc, 2.24]; Richthofen [@yc, 2.30].
+[24] Soft landing only to Pulisanghin and the west–southwest circuit (II-6). Comparative: *Yuan shi* (Ahmad; granaries; calendar); Gaubil; De Mailla; Franke [-@franke1994china]; Vogel [-@vogel2013marco, p. xxiv] on money and salt; Needham’s *Science and Civilisation in China* (coal: Golas [-@golas1999mining]; astronomy: Needham [-@needham1959mathematics]—selective); Haw [-@haw2006marco]; Wood [-@wood1995did, chs. 8, 11, conclusion] vs critics; Rashīd al-Dīn (*Sing*; coal); Pegolotti; Odoric; Ibn Baṭṭūṭa; Palladius; Bretschneider; Richthofen; Rossabi [-@rossabi1988khubilai, ch. 7]; Yule–Cordier notes passim. As cited in Yule: Yuan shi [@yc, 2.34]; Gaubil, De Mailla [@yc, 2.23]; Pegolotti, Odoric, Ibn Baṭṭūṭa, Palladius, Bretschneider [@yc, 2.24]; Richthofen [@yc, 2.30].

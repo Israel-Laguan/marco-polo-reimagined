@@ -66,4 +66,4 @@ Volume III will trade canal marvels for monsoon logic, Chipangu gold, and Cocach
 
 [6] Gazetteer volume=2 reliability column; chapter [V]/[R]/[M] tags.
 
-[7] Pointers to III-11 afterlives and III-12 reliability essay; Frances Wood [-@wood1995did] debate.
+[7] Pointers to III-11 afterlives and III-12 reliability essay; Frances Wood [-@wood1995did, conclusion] debate.

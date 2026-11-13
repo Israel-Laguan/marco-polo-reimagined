@@ -40,7 +40,24 @@ Where, chapter by chapter (or page, if seen), do the five most-cited modern book
 - Chapter backlogs: the "different" and "not found" cases, if they are not fixed directly
 
 ## Findings
-_(fill while working)_
+
+- 2026-11-13: the [locator registry](../registry/locators.md) inventories
+  all 65 citation occurrences. Wood and Rossabi have now been checked against
+  readable 1996 and 2009 editions respectively, using chapter locators. Their
+  24 original citation occurrences are recorded, including corrections. Vogel’s
+  author preface supports two general references to his fiscal research. The
+  remaining 39 await passage-level checks. The 1996/2009 chapter locations
+  should still be checked against the cited 1995/1988 editions.
+- Wood accepts the interpretation that Marco stayed rather than governed at
+  Yangzhou (ch. 15), and describes his coal account as accurate (ch. 8). The
+  Notes now reflect both points. Rossabi cites Polo on court feasts rather than
+  supplying independent corroboration; the Note makes that dependence clear.
+- Rossabi's 1988 biography predates Wood's 1995 thesis. It has been moved out
+  of a list framed as replies, and removed from the claim that Chinese annals
+  name Polo in the Ahmad episode: his account of Ahmad does not say that.
+- The other passages have chapter search leads in the registry. Tables of
+  contents and summaries do not by themselves establish the claims. The remaining
+  passages and affected Notes still need the same direct check.
 
 ## Decision
 _(fill when closing)_

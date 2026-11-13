@@ -64,8 +64,16 @@ def main():
         for k in set(re.findall(r"@([\w:-]+)", p.read_text(encoding="utf-8"))):
             used.setdefault(k, []).append(cid)
     rows, counts = [], Counter()
+    group, prev = "", 0
     for m in ENTRY.finditer(text):
-        comment = " ".join(l.lstrip("% ").strip() for l in m.group(1).splitlines()) or "no status comment"
+        # a "% ---- section ----" divider ends the previous group note; skip it as a status
+        if re.search(r"^%\s*-", text[prev:m.end(1)], re.M):
+            group = ""
+        prev = m.end()
+        own = " ".join(c for l in m.group(1).splitlines() if not (c := l.lstrip("% ").strip()).startswith("-"))
+        # an entry without its own comment inherits the note above the first entry of its group
+        group = own or group
+        comment = own or (group and f"(group note) {group}") or "no status comment"
         cls = CLASS.get(re.match(r"\(?(\w+)", comment).group(1).lower(), "see note")
         counts[cls] += 1
         f = {k: v for k, v in FIELD.findall(m.group(4))}

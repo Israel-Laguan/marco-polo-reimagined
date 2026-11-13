@@ -78,6 +78,6 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 [9] ? Arbre Sec location — legendary landmark broadly NE Persian desert.
 
-[10] ? Great Wall silence — major modern debate (Wood [-@wood1995did] vs Haw [-@haw2006marco], Larner [-@larner1999marco], de Rachewiltz [-@derachewiltz1997marco], et al.); seeded here, argued later.
+[10] ? Great Wall silence — major modern debate (Wood [-@wood1995did, ch. 11] vs Haw [-@haw2006marco], Larner [-@larner1999marco], de Rachewiltz [-@derachewiltz1997marco], et al.); seeded here, argued later.
 
 [11] Gazetteer `/workspace/marco-polo/gazetteer.csv` volume=1 reliability tags.

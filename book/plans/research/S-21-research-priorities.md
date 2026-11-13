@@ -4,6 +4,10 @@ This is an editorial triage of the [supplied follow-up audit](results/S-21-follo
 
 **High priority (H):** a gap can change an existing assertion, its interpretation, or the accuracy of a planned Note/table; research only until a supported claim or safe fallback is available. **Low priority (L):** optional enrichment, exact attribution, or a narrower identification when accurate qualified prose already works. Escalate a low-priority item if it is selected for a specific caption, trivia entry or stronger claim. Neither class implies the opposite of an unverified claim is true.
 
+## Update after passes 1 and 2 (2026-11-13)
+
+The [checked intake](results/S-21-pass1-pass2-intake.md) supersedes the initial report-only status for the precise claims it checks; the table below remains the overall scope and safe-fallback ledger. Pass 1 and pass 2 scored 7/10 and 6/10 in targeted checks, so use the [stricter rerun](S-21-passes-targeted-rerun-prompt.md) for the unresolved publication-critical questions. Preserve the Yule diamond-valley episode in III-06; flag the entire Socotra whale-hunt paragraph as Yule’s Ramusio-derived text in III-07. Correct the crocodilian and Mannar bibliographic conflations, and distinguish the documented 1908 statement on 1885 employment from the unresolved 1856 claim. H6, H7, H9, H10, H12, H13 and selective H15 remain high for any stronger claims; later institutional chronology and motif genealogy can stay low if omitted or attributed.
+
 ## Check the report and routing first
 
 - Its chapter IDs are often wrong. For example, it routes the Mutfili diamond valley to II-03 in B.8.5, while the draft has it in [III-06](../../vol-3/ch-06-mutfili-kesmacoran.md); the pearl fishery and horse trade are in [III-05](../../vol-3/ch-05-maabar-st-thomas.md), not III-07. Use draft locations and named Yule passages, not the report's IDs, as pointers. Check the actual source version before treating a draft paraphrase as a critical text.
