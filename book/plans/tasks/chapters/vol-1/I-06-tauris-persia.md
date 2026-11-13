@@ -48,6 +48,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** D (I-6) Eight kingdoms of Persia: book name → identification → confidence (Yule's).
 - **Characters appearing:** Marco Polo, the Three Magi (Jaspar, Melchior, Balthasar; legend), Hulagu (passing); the Ilkhan (unnamed)
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Persian court and town c. 1280–1300: BSB Cod.arab. 464 (Qazwini, 1280; open IIIF, images not yet viewed); BnF Suppl. persan 205 (Juvaini, 8 Dec 1290, frontispiece ff. 1v–2, Gallica `btv1b84149955`); Morgan M.500 (1297–1300; **avoid** the restored folios listed in the register). Takht-i Sulayman: Naumann 1976 (free PDF, `naumann1976takht`).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds

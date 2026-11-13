@@ -28,6 +28,8 @@ The plan calls for 17 maps, 6 timelines and 16 diagrams. Each built ad hoc means
 - `multimedia-plan.md` § Principles, § Toolchain; drop or merge any assets the pilot shows are low-value
 
 ## Findings
+
+**S-20 follow-through, 2026-11-13:** the B5 pilot now uses an approximate mid-15th-century span for the surviving Fra Mauro map, distinguishes the 1603 Pamir crossing from Góis’s 1607 death, and labels Columbus-circle notes as undated. The SVG and PDF were regenerated; B5’s later expansion and layout review remain DIA.B5. See [S-20 closure](../research/results/S-20-closure.md). The pilot-era status below is historical.
 - **Toolchain.** matplotlib 3.11 + cartopy 0.26 in a local venv (`tools/media/.venv`, pinned in `requirements.txt`; no system packages). Natural Earth downloads on first run into `tools/media/.cache/` (git-ignored). TeX Live, pandoc and latexmk are the system ones S-08 uses; `pdftocairo` (poppler) makes the timeline SVG, so `dvisvgm` is not needed.
 - **Font.** The pilot started on Junicode and hit the same wall S-08 did: the Debian Junicode has no italic, so the timeline's italic notes fell back to upright. Both now use **Noto Serif**, the body face S-08 settled on. The maps and timeline embed it (PDF) or outline it (SVG).
 - **Projection.** Lambert conic over 114° of longitude curves the parallels so much that the edge labels lie (Venice sat beside "30°N"). Wide maps (A1, A2, A16, A14) use **Equal Earth**; regional maps keep Lambert.

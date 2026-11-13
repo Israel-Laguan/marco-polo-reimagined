@@ -42,6 +42,12 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Kublai (Cublay Kaan), Nayan, Caidu (Kaidu), Chinghis Khan, Möngke, Belgutai / Temüge Otchigin (ancestry), Niccolò and Maffeo Polo (mentioned), Marco Polo, Rustichello ("a Pisan scribe"); travellers discussed: Rubruck, Monte Corvino, Marignolli, Ibn Battuta
 - **Character check (S-05):** Cublay c. 72 (1287), carried, not mounted; Nayan c. 30, at a distance under a cross banner (the Book makes him a Christian). **No Polos on the field**: the text does not place them there. Cards: `plans/registry/character-cards.yaml`.
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Mongol arms dated 1281 (Takashima): Matsuura City Report 4 (2011) has helmets (figs. 83–86, pls. 19–20; a deep bowl helmet with brow band, neck guard and riveted crest fitting), swords, bows, crossbows, arrows and red-lacquered lamellae. Matsuura Report 2 (2008) has colour photos. See the register's text facts. These are text facts, not yet cues.
+- Mōko Shūrai Ekotoba: **avoid** the five Mongol figures added after 1709 (winged helmets, short robes, black boots) and the bomb explosion (Conlan 2013, `conlan2013myth`).
+- S-23 closing: draft **C49**, a laced lamellar helmet bowl (Met 1999.158, viewed; 13th–15th c.), matches the Takashima helmet type.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -97,6 +103,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-2/ch-01-cublay-nayan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-01.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

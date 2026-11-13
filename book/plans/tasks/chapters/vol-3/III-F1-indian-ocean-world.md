@@ -14,7 +14,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Misquoted epigraph: "And when the ships had been made ready…" — Yule has "had been equipt". Fix: restore the exact wording (W1.1 lists front-01 among the 13 epigraph files). — vol-3 C1 · front-01:4
 
 ### Factual / fidelity
-- "Bent the Atlantic" overstates Columbus's debt to Polo and contradicts ch-11's own caution. Fix: tone it down, in step with the III-11 Columbus fixes (Leeu Latin copy, Toscanelli 1474, annotation dating debated). — vol-3 M4 · front-01:27
+- "Bent the Atlantic" overstates Columbus's debt to Polo and contradicts ch-11's own caution. Fix: tone it down, in step with the III-11 Columbus fixes (Leeu Latin copy; notes undated; Toscanelli correspondence contested). — vol-3 M4 · front-01:27
 
 ### Dispute handling and Ramusio flags
 — none found
@@ -57,7 +57,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
   - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-19: tone "bent the Atlantic" down to match III-11: Columbus's annotated Latin (Gouda, 1483–84) and Toscanelli's letters.
+    - F-19 / S-20: tone "bent the Atlantic" down to match III-11. The Seville Latin copy has notes by Columbus and his circle of uncertain date; do not present it as evidence of pre-1492 use. Omit the Toscanelli link or attribute the disputed correspondence.
 - **Done when:** `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-F1.T3 — De-duplicate to the S-07 role matrix

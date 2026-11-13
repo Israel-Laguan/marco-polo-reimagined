@@ -73,11 +73,11 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 | [S-16](spikes/S-16-overland-route.md) | Overland route: archaeology, identifications (Vol. I) | done (best effort) | S-04 | Vol. I enrichment; `MAP` A3–A6 |
 | [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | done (best-effort intake; substantive follow-ups open) | S-04 | Vol. II enrichment; `GAZ`, `MAP`, `DIA`, `TBL` |
 | [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | done (best-effort intake; follow-ups open) | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
-| [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | open | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
-| [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | open | S-11 ✓ (PD candidates) | III-11, all trivia files; `DIA` B5 |
+| [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | closed best effort 2026-11-12 (direct checks done; lead rows open) | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
+| [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | closed 2026-11-13 (qualified handoff) | S-11 ✓ (PD candidates) | III-11, all trivia files; `DIA` B5 |
 | [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
-| [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | open | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
-| [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | open | S-22, S-10 | shortlist for deep dives; scene coverage for the 35 GEN plates |
+| [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | closed 2026-11-13, best effort ([follow-up prompt](research/S-22-follow-up-prompt.md) available) | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
+| [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | closed 2026-11-13 (best effort) | S-22, S-10 | shortlist for deep dives; scene coverage for the 35 GEN plates |
 
 The remaining prompts can be run independently (S-23 is best after S-22). S-12–S-18 have been taken in; S-15–S-18 are best-effort closures with source-specific gaps. Consult their intake records before using findings. Run the S-18 follow-up **before Vol. III's W4 re-voice batch** if possible.
 
@@ -196,6 +196,7 @@ A manuscript file is **done** when:
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-11-13 | Modern media (manga, anime, film, games, reconstruction art) are viewing aids for content only: style-guide rules 8–12. Plate cues are worded from period objects that have been looked at; eight cues (C1–C8) are in the illustration plan; reference images live in `media/reference/s22/` and are never generator inputs. Armour, ger-cart, Dadu, South China, ships, Venice, Southeast Asia and South India wait on the S-22 follow-up prompt | S-22 |
 | 2026-10-21 | Markdown now, LaTeX for the final print version; multimedia is static | user |
 | 2026-10-21 | Illustrations in regional period styles; real public-domain artworks preferred over generated imitations | user; illustration plan |
 | 2026-10-21 | Edition lives in tracked `book/`; `input/` stays the pristine original; branch `refine-edition` | user |

@@ -44,6 +44,12 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco Polo, Rustichello of Pisa, Lamba Doria, Andrea Dandolo, Jacopo d'Acqui, Prince Edward of England; Niccolò and Maffeo Polo (passing)
 - **Character check (S-05):** Marco c. 44 (1298); Rustichello older, a **layman** (no habit, no chains). Cards: `plans/registry/character-cards.yaml`.
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Genoese civic room and lay dress: draft cues **C43** (counting house, Cocharelli f. 8r, c. 1330–40) and **C45** (consuls in council, Annales Ianuenses p. 231, by the 1230s). Images are in media/references/README.md § Added 2026-11-13; Cocharelli is edit OK outside the UK, the Annales are look only.
+- Curzola galleys: Cocharelli f. 5r has galleys and round ships (**C44**); for ships of c. 1270, Pryor's 1268 contracts are text (`pryor1984crusader`).
+- Sea-chart prop for the dictation table: **C48** (Carte Pisane crop).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard (this chapter is the reference)
 - S-02 Acceptance lint and thresholds

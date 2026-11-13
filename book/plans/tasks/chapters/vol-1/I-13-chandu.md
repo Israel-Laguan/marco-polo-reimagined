@@ -47,6 +47,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** C16 Cane palace roof cutaway (split bamboo tiles). Critique §5 "Yuan seasonal migration" diagram is covered by A8.
 - **Characters appearing:** Kublai (Cublay), Chinggis (privilege origin), Marco Polo
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Shangdu: UNESCO nomination file 1389 (2011; plans and plates of the palace foundations; blocked to scripts, so download by hand). Watt 2010 (Google Books, viewer only) has Shangdu on pp. x, xv, 5, 49, 71–73 and 310. Yuan stone shot found at Shangdu is compared with Takashima's in Nagasaki Pref. Report 25 (2018), pp. 41–47.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -96,6 +100,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-1/ch-13-chandu.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-13.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

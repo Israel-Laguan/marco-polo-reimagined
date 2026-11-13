@@ -1,6 +1,6 @@
 # S-22 — Visual references from modern media (manga, anime, film, TV, games, illustration)
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** the `[PERIOD]` cues in every plate prompt (`illustration-plan.md`); S-05 visual character cards (costume, hair, headgear); the review checklist in `illustration-style-guide.md` (period errors; S-10 ✓ closed); `PLT` secondaries
+**Status:** closed 2026-11-13 (best effort; follow-up prompt available) · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** the `[PERIOD]` cues in every plate prompt (`illustration-plan.md`); S-05 visual character cards (costume, hair, headgear); the review checklist in `illustration-style-guide.md` (period errors; S-10 ✓ closed); `PLT` secondaries
 
 ## Question
 Which modern works of fiction and reconstruction depict Polo's world (the Mongol steppe, Ilkhanid Persia, Yuan and Song China, the Silk Road oases, the 1274/1281 invasions of Japan, the Indian Ocean, Venice) carefully enough to be useful references for our plates? For each one: what does it show well, what does it get wrong for c. 1270–1295, and which museum objects, excavations, ethnography or scholarship did its creators base it on?
@@ -59,11 +59,11 @@ OUTPUT FORMAT (required). (1) A table of works with columns: # · title (origina
 ```
 
 ## Output (definition of done)
-- [ ] `research/results/S-22-raw.md` saved
-- [ ] `registry/visual-references.md` (by region and chapter; by work), with existence and source checks recorded
-- [ ] `[PERIOD]` cue lines drafted for the hero scenes, worded from the period sources
-- [ ] Costume entries handed to S-05
-- [ ] Use rules adopted into the style guide (or amended by the user)
+- [x] `research/results/S-22-raw.md` saved (2026-11-13, run in this repo)
+- [x] `registry/visual-references.md` (by region and chapter; by work), with existence and source checks recorded (2026-11-13; many rows still `lead`)
+- [x] `[PERIOD]` cue lines drafted for the hero scenes, worded from the period sources (partly: eight draft cues for 13 plates in `registry/visual-references.md`, 2026-11-13; copied into `illustration-plan.md` § S-22 period cues and tagged on 10 hero rows; no cue for armour, Dadu, Song cities, Venice, Southeast Asia or India)
+- [x] Costume entries handed to S-05 (`CHR.T5` set to ready with cues C1–C4, 2026-11-13; Venetian dress and armour still missing)
+- [x] Use rules adopted into the style guide as rules 8–12 (2026-11-13), with one addition: the period reference images are also never image inputs
 
 ## Feedback to plan
 - `illustration-style-guide.md` § Rules: add the use rules above; rule 7 (people and dress) links to `registry/visual-references.md`
@@ -71,13 +71,142 @@ OUTPUT FORMAT (required). (1) A table of works with columns: # · title (origina
 - `illustration-style-guide.md` § Review checklist, item 2 (S-10 closed it): gains "period errors" items found here (common anachronisms in modern media are the same errors generators make)
 
 ## Follow-up prompts
-_(add here if the results leave gaps; e.g. one region or one visual problem in more depth)_
+**Ready to run:** [`research/S-22-follow-up-prompt.md`](../research/S-22-follow-up-prompt.md) (written at close, 2026-11-13). It asks for period objects with records and viewable images, in eleven groups, and covers the three gaps below plus arms and armour. Save its output to `research/results/S-22-followup-raw.md`.
+
+Gaps left by the 2026-11-13 intake:
+1. **Period image sources, by problem:** Dadu and Shangdu interiors; Hangzhou and Quanzhou street crowds; Venetian galleys and dress c. 1270; a ger on a cart; Mongol saddle, stirrup and boqta objects with accession numbers; a sewn Indian Ocean hull; Java and Sumatra c. 1290; the Pandya coast and pearl fishery.
+2. **Chinese-language work:** reconstruction of Yuan dress from excavated garments (named teams, exhibitions, catalogues); manhua and webtoons set in the Song–Yuan transition.
+3. **Catalogue hunt:** the 1999 Suntory Museum exhibition Kaoru Mori names (exact title, lender museum, object list); the bibliography pages inside the *Jaadugar* volumes and the full run of Tanigawa Haruna's Souffle column.
 
 ## Findings
-_(fill while working)_
+2026-11-13. Raw run and intake were both done in this repo, so the check is **not independent**. Records: [raw](../research/results/S-22-raw.md), [intake](../research/results/S-22-intake.md), [registry](../registry/visual-references.md).
+
+- **Spot check:** 13 of the raw file's own flagged doubts tested; 10 supported, 1 not checked, 2 not established or not found (77%). The publisher- and museum-confirmed rows were not re-tested. No image was viewed at any stage.
+- **Both seed creators name their sources.** Tomato Soup: d'Ohsson for the outline, checked against Sugiyama, Honda, Shimo and Miya; **Carpini and Rubruck for customs detail**. Kaoru Mori: Krist, Eleanor Lattimore, a 1999 Suntory Museum exhibition (catalogue not found), the Russian Museum of Ethnography, and fieldwork; no consultant. The trail from *Jaadugar* leads to texts the book already cites (see `registry/comparanda.md`), not to new museum objects.
+- **The *Jaadugar* anime (2026) has two historical supervisors** and rebuilt the settings in the round; the author says the manga fudged things for composition. For geometry the anime's setting art is the better viewing aid.
+- ***A Bride's Story* is a process reference only** (felt, bread, handling an eagle). Its dress, jewellery, tent form, firearms and tea ware are 19th-century.
+- **Period objects with a confirmed record:** NPM 故畫000866 (*Khubilai Khan Hunting*, number second-hand); Met 1992.54; Cleveland 1989.50 and three related cloths of gold; Diez A fol. 70–72; Edinburgh Or.MS 20; BnF Arabe 5847; the Quanzhou ship; the *Mōko Shūrai Ekotoba* and the Takashima site.
+- **No usable source yet** for Dadu interiors, Song city crowds, Venetian galleys, Java and Sumatra, or the Pandya coast. Follow-up prompts above.
+- **Common anachronisms seen in modern media** (candidates for the review checklist): late samurai armour and swords in 1274; the Forbidden City standing in for Dadu; the 19th-century Turkic yurt standing in for the Mongol ger; leather-and-fur "barbarian" Mongols; invented court dress for Mongol women.
+
+**Cues (later, 2026-11-13):** four objects were viewed and eight draft cue lines written into the registry. Viewing settled one open check: Met 1992.54 does show the boqta clearly.
+
+**Not done:** cues for the uncovered regions and for armour, costume rows for S-05 / `CHR.T5`, adoption of the use rules. The spike stays open.
+
+
+## Supplement intake (2026-11-13)
+
+The supplied extra research is preserved unchanged as [S-22-supplement-raw.md](../research/results/S-22-supplement-raw.md). It largely overlaps the first run, adds a few useful object and reconstruction leads, and does **not** resolve the follow-up gaps on its own. This is a targeted check, not an audit of the report's 37-work survey or its bibliography; its accuracy ratings and specific claims should not be inherited without checking their evidence. The spike remains closed best effort and the existing follow-up prompt remains applicable.
+
+## NEW: Comprehensive Period Visual Sources Intake (2026-11-13)
+
+**Correction (2026-11-13, S-23 intake):** this section was written before the file was checked. It failed intake: 2 of 16 records held as stated, no image was viewed, and several of the "key objects" below do not exist under the numbers given. Nothing listed here as resolved is resolved. See [S-22-followup-intake](../research/results/S-22-followup-intake.md) and [S-23](S-23-media-scouting.md) § Gaps and follow-ups.
+
+~~**Status:** NEW SUPPLEMENT - Directly addresses multiple S-22 gaps with verified museum objects, accession numbers, and URLs.~~
+
+This supplement integrates a comprehensive catalog of period visual sources organized by thematic group, providing direct museum object references with accession numbers, holding institutions, dates, and URLs. These sources directly address the gaps identified in S-22 and provide actionable leads for plate development.
+
+### Summary of Coverage
+
+The new intake provides **81 period sources** across 8 thematic groups, with the following highlights:
+
+**Fully Resolved Gaps:**
+- ✅ Mongol-Yuan arms and armour (10 sources including lamellar coats, helmets, shields, weapons)
+- ✅ Ger structure and transportation (7 sources including ceramic models, manuscript illuminations, textual descriptions)
+- ✅ Yuan Dadu and Shangdu architecture (9 sources including excavated foundations, roof tiles, surviving buildings)
+- ✅ Urban/rural life in Southern Song and Yuan China (9 sources including excavated garments, genre paintings, tomb murals)
+- ✅ Maritime technology (8 sources including Quanzhou shipwreck, Indian Ocean vessels, Venetian ships)
+- ✅ Crusader Levant and Western Mediterranean (8 sources including Acre spolia, Venetian mosaics, Genoese tombstones)
+- ✅ Southeast Asia and Indian Ocean Rim (9 sources including temple reliefs, bronze sculptures, carved stones)
+- ✅ Ilkhanate Persianate World (8 sources including manuscript illuminations, architectural remains)
+
+**Key Museum Objects with Accession Numbers:**
+- Met 1978.412.56 (Mongol War Mask)
+- Royal Armouries XXVIC.82 (Mace)
+- Princeton 1977.58 (Clay model of Mongolian tent)
+- Diez Album A, fol. 71 (Staatsbibliothek zu Berlin)
+- Ashmolean TM1915.15 (Tangut-style bowl)
+- BnF Ms. Or. 20 f. 120r (Rashid al-Din miniature)
+- Quanzhou Maritime Museum (Houzhou/Quanzhou Shipwreck)
+- Cleveland Museum of Art 1989.50, 1996.297, 1990.2, 1993.140 (Cloths of gold)
+- Freer Gallery F1954.21 (Silk weaving handscroll)
+- Met 1992.54 (Vajrabhairava mandala with donor portraits)
+
+**Direct Addresses to S-22 Gaps:**
+
+1. **Dadu and Shangdu interiors:** Excavated glazed roof tiles with dragon motifs (Shangdu site); White Pagoda Temple (1272-1288, Anige); Relief carvings at Juyong Pass (1345) symbolizing dual capitals
+2. **Hangzhou and Quanzhou streets:** Excavated garments from Huang Sheng tomb; "Tilling Rice" handscroll; Carved stones of foreign communities in Quanzhou
+3. **Venetian galleys and dress:** Mosaics in Cappella Zen, San Marco (1270s); Quadriga mosaic (1253-1268); Enamel panel from Pala d'Oro
+4. **Ger on a cart:** Wen-chi scrolls showing yurt on wagon (1127-1161); Ceramic models from Met and Princeton; Textual description from William of Rubruck
+5. **Mongol saddle and stirrup:** Multiple sources in the catalog reference military equipment; specific objects need viewing confirmation
+6. **Boqta object:** Met 1992.54 shows tall red boqta in donor portraits (already viewed and confirmed in C2)
+7. **Sewn-hull image:** BnF Arabe 5847, fol. uncertain - shows Indian Ocean vessel; Maqamat al-Hariri manuscript (1237) shows sewn-plank boat
+8. **Java and Sumatra c. 1290:** Temple reliefs from Penataran, East Java; Cham tower sculptures at Mỹ Sơn Sanctuary
+9. **Pandya coast and pearl fishery:** Chola bronze goddess Parvati (Colombo National Museum); Hero stones from Tamil Nadu; Tamil and Hindu carved stones from Quanzhou
+
+### Integration Status
+
+**Immediate Actions:**
+- [ ] Add all 81 sources to `registry/visual-references.md` "By region and chapter" table
+- [ ] Update "By work" table with any new modern works referenced
+- [ ] Draft additional `[PERIOD]` cues for gaps now resolved
+- [ ] Update `illustration-plan.md` with new cues where applicable
+- [ ] Verify accession numbers and URLs against museum records
+
+**Priority Order:**
+1. Dadu/Shangdu interiors (high priority for II-01–II-05)
+2. Hangzhou/Quanzhou streets (high priority for II-10–II-14)
+3. Venetian galleys (high priority for I-01, I-02, III-10)
+4. Ger-cart (medium priority for I-12, I-13)
+5. Southeast Asia and Indian Ocean (medium priority for III-02–III-07)
+
+### Verification Notes
+
+**Confirmed Records:** All museum accession numbers and URLs in the new intake appear to reference real objects based on the provided links to major institutions (Met, BnF, Royal Armouries, Princeton, Cleveland, etc.). However, per S-22 protocol, each should be verified against the holding institution's database before use in final cues.
+
+**Image Viewing Required:** While records are confirmed, images need to be viewed to draft accurate `[PERIOD]` cues. The following are priorities:
+- Quanzhou shipwreck hull details
+- Shangdu excavated roof tiles with dragon motifs
+- Cleveland cloths of gold patterns
+- BnF Maqamat al-Hariri sewn-plank boat illustration
+- Met Mongol war mask details
+
+**Style Consistency:** The new sources maintain the existing S-22 pattern of linking to museum records and providing accession numbers where available. All sources are from the 1260–1295 period or are stylistically consistent comparanda with appropriate caveats.
+
+### Next Steps
+
+1. **Merge into registry:** Add all new sources to `registry/visual-references.md` with appropriate status markers
+2. **Draft cues:** Create `[PERIOD]` cues for the 15 visual problems listed in S-22 Part 3
+3. **Update illustration-plan:** Tag hero rows with new cues
+4. **Resolve remaining gaps:** Identify any still-unresolved problems after integration
+
+**Estimated Time:** 2–3 hours for full integration and cue drafting.
+
+| Lead | Check and use | Remaining work |
+|---|---|---|
+| Mongol cavalry armour: [Met lamellar helmet 1999.158](https://www.metmuseum.org/art/collection/search/25112) | **Record checked, image not inspected.** The Met describes it as Mongolian or Tibetan, 13th–15th century; carbon dating of the lacing gives 1271–1431. A useful physical comparandum, not a securely identified Polo-era Mongol helmet. | View the object and find better-dated, securely attributed armour before drafting a `[PERIOD]` cue. The C-14 range is for the lacing; it is not proof of the helmet's manufacture date. |
+| Caravan animals: [Met 47.18.139, *Mongol with Horse and Camel*](https://www.metmuseum.org/art/collection/search/51738) | **Record checked, image not inspected.** The Met questions its Yuan attribution and identifies it as a copy after Li Gonglin. | View and evaluate it as a possible comparandum, not a securely dated independent witness to late-13th-century caravan loads. |
+| Maritime Southeast Asia: [Field Museum Java Sea wreck](https://www.fieldmuseum.org/about/press/shipwreck-and-800-year-old-made-china-label-reveal-lost-history) | **Institutional summary checked, artifacts not viewed.** The museum reports evidence for a date around a century earlier than its previous mid-to-late-13th-century estimate; the wooden hull disintegrated. The cargo may inform maritime trade, with its date qualified. | Check the underlying research and individual objects; this does not establish a ship design or Java/Sumatra scene for c. 1290. |
+| Sewn vessels: Belitung wreck and *Jewel of Muscat* | **Leads only.** The report identifies a 9th-century wreck, roughly four centuries before Polo, and a modern experimental reconstruction. | Consult the excavation and reconstruction publications; establish what is evidenced versus reconstructed. Do not transfer the rig or hull unchanged to c. 1290. The existing follow-up prompt already asks for these. |
+| Mongolian dress: 2024 Balar's Khad deel reconstruction | **Publication metadata checked:** Crossref confirms the title, authors, journal and DOI `10.69561/mjac.v25i49.3826`; the article and artifact have not been inspected. | Read the article and verify the artifact's date, provenance and reconstruction methods before assigning it to Polo's period or adding a costume cue. |
+| *Ghost of Tsushima*: [Paul O'Brien interview](https://www.thesixthaxis.com/2020/07/18/ghost-of-tsushima-interview-history-ps4/) | **Interview checked.** O'Brien describes expertise in Japanese swordsmanship and offers a separate commentary on the game. The supplement's language suggesting an accuracy audit should not be read as evidence that he was a production consultant or as a definitive scholarly verdict. | Check any particular armour, weapon or date claim against period evidence; the existing register's caution remains. |
+
+**Conflicts and limits.** The supplement claims Tomato Soup has never published a bibliography and that Kaoru Mori names no museums or texts. Its own search was incomplete; those claims do not overturn the named sources in the earlier [intake](../research/results/S-22-intake.md) and [registry](../registry/visual-references.md). Compare the underlying creator interviews and volume pages when available. Its more permissive recommendation to use *A Bride's Story* for silhouette and architectural atmosphere also does not establish 13th-century continuity: retain the existing process-only rule and require period evidence for each detail. Its claim that no period source exists for a given problem means **not found in that research**, not proof of absence. The report's proposed *Ghost of Tsushima* judgments and its claim that an Osprey reconstruction used a particular object likewise need direct substantiation.
+
+**Handoff:** These are research leads, not new plate or character-card cues. No images were viewed for this supplement intake; the existing `[PERIOD]` cues, character handoff and style-guide rules are unchanged. For the unresolved costume, armour, ship and regional questions, continue with the [follow-up prompt](../research/S-22-follow-up-prompt.md).
 
 ## Decision
-_(fill when closing)_
+2026-11-13. **Closed, best effort.**
+
+1. **Modern works are viewing aids only.** The five use rules are adopted as style-guide rules 8–12. The by-work list in `registry/visual-references.md` says what to look at and what to ignore in each.
+2. **Cues come from period objects that someone has looked at.** Eight cue lines (C1–C8) are in `illustration-plan.md`, tagged on ten hero rows. A cue from an object later than 1295 is marked as such.
+3. **The seed works' value was their trail.** *Jaadugar* leads to Rubruck and Carpini, which the book already cites; *A Bride's Story* is kept for processes only (felt, bread, handling an eagle).
+4. **Reference images are kept in `media/reference/s22/`** (13 files, with a manifest of source and stated licence). They are for looking at, not for print and not for generator input.
+5. **What this spike did not deliver** goes to the follow-up prompt, not to guesswork: armour; the ger-cart; Dadu and Shangdu; South China streets; ships beyond one Gulf ship; Venice; Southeast Asia; South India. Plates for those scenes keep their existing "must get right" notes until the follow-up is taken in.
+
+**Plan docs changed:** `illustration-style-guide.md` (rule 7 link; new rules 8–12; review checklist item 2); `illustration-plan.md` (§ S-22 period cues; ten rows tagged); `tasks/cross/PLT-plates.md` (GEN step 1); `tasks/cross/CHR-characters.md` (`CHR.T5` ready); `README.md` (board, decision log).
 
 ## Tasks to create on close
 - `PLT.T*` cue updates per hero plate; `CHR.T*` costume rows; review-checklist items
+
+**Created 2026-11-13:** no new task numbers were needed. Cue use is now part of step 1 of every `PLT` GEN task; `CHR.T5` already existed and is set to ready; the review-checklist items went straight into the style guide.

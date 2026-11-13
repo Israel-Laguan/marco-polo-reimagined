@@ -14,6 +14,11 @@ Event illustrations: 35 generated (GEN) hero plates, 6 public-domain (PD) heroes
   - `drawing-genoa-dictation` (monk's habit, chains);
   - `drawing-manzi-junk` (Western galleried stern, portholes);
   - `drawing-kinsay-west-lake`, `drawing-indian-ocean-schematic` (mislabelled as maps).
+- **Gap-source ledger (2026-11-13):** new period sources for GEN prompts and two print leads:
+  - **I-1 inset:** Cocharelli f. 8r, counting house. PD outside the UK, but only 1200 px via IIIF, so order a master from the BL.
+  - **Annales Ianuenses** council and Savona siege: Gallica, **fee** for print.
+  - **Cues and avoid lines:** `registry/visual-references.md` § Gap-source ledger.
+  - **Reference images and use rights:** `media/references/README.md` § Added 2026-11-13.
 - Each plate: sidecar `.yaml` (prompt, negative, model, job id or seed, date, tradition, caption, review) → an `ATTRIBUTIONS.md` row.
 
 ## Gated by spikes
@@ -21,7 +26,7 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 
 ## Tasks
 **Every GEN task** (S-10):
-1. Write `media/plates/prompts/<id>.txt` from the scene row (`illustration-plan.md`) and the template, with the tradition's `NEGATIVE:` line, plus `tools/characters.py cue` lines for recurring figures.
+1. Write `media/plates/prompts/<id>.txt` from the scene row (`illustration-plan.md`) and the template, with the tradition's `NEGATIVE:` line, plus `tools/characters.py cue` lines for recurring figures, and the S-22 cue lines the row names (`illustration-plan.md` § S-22 period cues; a card line wins where they differ). No modern title or reference image goes into the prompt (style guide rules 8–12).
 2. Generate by the route in the table (`plans/image-generation-guide.md`):
    - **Akool:** `python3 tools/plate_gen.py … --n 4`.
    - **Gemini chat:** copy the shape of `prompts/I-7-chat.txt`, with one corrective follow-up turn.
@@ -75,6 +80,8 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 | `PLT.III-9` | Golden tablets; Cocachin and the fleet | YC (+ Ilkhan court: JT) | H | Akool (YC) + Gemini (JT) | ready |
 | `PLT.III-10` | Jewels ripped from the Tartar coats | Venetian Gothic | P | Akool | ready |
 
+**No modern reference found (S-23, 2026-11-13):** I-7, I-8, I-9, II-5, II-6, II-7, II-9, III-3, III-4, III-5, III-6, III-7, III-8. These rest on period art and scholarship alone: expect more rounds, as for "first of its tradition". III-5 is already done; review it if a source turns up.
+
 **Also from GEN:**
 - `PLT.S*` for secondaries, picked after the heroes.
 - `PLT.C12`–`PLT.C16`, the cutaway base plates for `DIA`. They take the Akool route; C15 may be pure TikZ instead.
@@ -106,7 +113,7 @@ _PD plates (from S-11) are below._
 
 ### PLT.III-11 — PD: Columbus's copy (postils)
 - **Status:** ready
-- **Do:** crop one page of the Colombina photograph to P, in `vol-3/ch-11-afterlives.md`; the Dibdin woodcut is the alternative. Caption keeps the F-19 hedge.
+- **Do:** crop one page of the Colombina photograph to P, in `vol-3/ch-11-afterlives.md`; the Dibdin woodcut is the alternative. Use the proposed [S-20 caption](../../research/results/S-20-closure.md): notes by Columbus and others, dates uncertain; do not imply pre-1492 use. Confirm crop and photographer credit at production.
 
 ### PLT.III-12 — PD: the Catalan Atlas caravan
 - **Status:** ready (no BnF licence: user, 2026-11-10)

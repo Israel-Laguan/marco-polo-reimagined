@@ -40,11 +40,16 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found (1,814 words; "Solid and lean")
 
 ## Media hooks
+- **S-22 maritime research lead:** `niziolek2018revisiting` and `registry/enrichment.md` S22-E1: the Java Sea wreck cargo can be investigated as a regional trade comparison. Its reassessed date may be earlier than Polo; it does not establish a port, route or ship design for his voyage. Read the study before using a Note.
 - **Hero plate:** III-2 *Junks lift their rudders in the shoal strait* — GEN, Javanese temple relief, landscape; must get right: raisable axial rudders, mangrove coast, Malay perahu — see `illustration-plan.md` (critique §4 anchor: "great ships in passing this channel have to lift their rudders", Bintan coast)
 - **Secondary plates:** none in plan. Critique §4 alternative not adopted: Elephant tribute from Chamba (Cham dress, brick *kalan* towers; caution: the pity-tale softens a brutal 1282–85 war)
 - **Maps:** none placed here (A16 passes Chamba as "possible")
 - **Timelines / diagrams / tables:** none
 - **Characters appearing:** Marco Polo, Kublai (Great Kaan), Sagatu (Sogetu), Accambale (king of Chamba), Tughan (Toghan), Rustichello; comparative sources: Odoric, Niccolò de' Conti, Ibn Battuta, Duarte Barbosa
+
+### Period sources (gap-source ledger, 2026-11-13)
+- Java: Singhasari temple dress, draft **C47** (Wereldmuseum RV-1403-1623, -1624, -1682; late 13th c. per CKC 2023, `ckc2023singasari`; returned to Indonesia in 2023). Images in media/references, look only.
+- Register: `registry/visual-references.md § Gap-source ledger`.
 
 ## Gated by spikes
 - S-01, S-02, S-03, S-04 (Sondur/Condur row), S-06 (n8), S-08, S-10 ✓
@@ -86,6 +91,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.
 - **Done when:** `python3 tools/lint.py -v vol-3/ch-02-chamba-java.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
+**S-21 research handoff (2026-11-13):** During T3/T4, preserve the Book’s claim that Java produces the listed spices as an attributed claim. Yule proposes a market for nutmeg and cloves; do not present re-export or absence of local cultivation as conclusively established for 1290. Wang et al. discuss a much earlier Javan clove find while leaving its source unresolved. See `research/results/S-21-high-priority-intake.md` and S21-E13.
+
 ### III-02.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-02.T3` (re-voice renumbers Notes)
 - **Now:** 13 Notes · 3 ★ · 4 without a lead marker · tag [R/M]
@@ -97,6 +104,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-3/ch-02-chamba-java.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### III-02.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

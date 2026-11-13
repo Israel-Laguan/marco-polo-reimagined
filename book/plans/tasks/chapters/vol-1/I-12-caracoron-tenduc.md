@@ -48,6 +48,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** C4 Mongol decimal army (*arban → tümen* vs the Book's *Guz / Toman / Tuc*). D (I-12) Kaan succession: the Book vs the record (Ögedei omitted; Batu and Hülegü inserted). B6 rows "Chinggis made king 1187 vs 1206" and "Prester John war 1200 vs 1203" (B6 placed I-B1; critique: "high-value sidebar for ch-12 or back-01").
 - **Characters appearing:** Chinggis (Chinghis), Aung Khan / Unc Can (Toghrul Wang Khan of the Kerait) as "Prester John", King George of Tenduc (Önggüd), Güyük, Batu, Hülegü, Möngke, Ögedei, Kublai, Marco Polo
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Ger on a cart: searched again 2026-11-13; **no image before 1350 exists** in any source found. Text only (Rubruck). Keep the existing `[AVOID]` on the Turkic yurt.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -114,6 +118,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-1/ch-12-caracoron-tenduc.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-12.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

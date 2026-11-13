@@ -11,6 +11,7 @@ The print replacement for the audio ideas: a back-of-volume glossary giving book
   - Sagamoni Borcan, Cocachin/Kököchin, Kiacatu/Geikhatu, Casan/Ghazan;
   - paiza, kumis, bakhshi, Natigay;
   - Toscaol, Bularguchi, naqqāra, bād-gīr, *Milione*, and others.
+  - *Milione*: document the name and attribute competing explanations; do not define it as “million lies” or assert a chronology for that interpretation (S20-E27/E43; [closure](../../research/results/S-20-closure.md)).
 - Characters' name forms come from `CHR`: `registry/characters.yaml` `book_name` → `gloss` (S-05 ✓), one entry per person with a gloss (`CHR.T3`).
 
 - **Decided 2026-10-22:** place entries are book form → modern form → respelling → origin line → Wikipedia link (`gazetteer.csv` `wikipedia`). Respellings are house suggestions reviewed by a person (draft in `research/results/GAZ-names-raw.md`; rejected origin lines listed in `GAZ-intake.md`). Offer both an anglicised and an Italian reading where the Yule form is Italianate.

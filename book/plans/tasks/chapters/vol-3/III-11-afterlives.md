@@ -17,9 +17,9 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Meta-reference: "restated from the outline's preface" (:34). Fix: delete. — vol-3 C2 · ch-11:34
 
 ### Factual / fidelity
-- Columbus over-simplified: "owned and annotated a Latin Polo, almost certainly in the Pipino tradition" — it *is* Pipino, the c. 1483–85 Gerard Leeu printing in the Biblioteca Colombina, Seville. The chapter implies the postils fed the 1492 project; the John Day letter (1497/98) suggests Columbus obtained or annotated the copy after the first voyage; his pre-1492 Polo came chiefly through Toscanelli's 1474 letter (Quinsay, Cipangu), and Toscanelli is never named here (III-B1:37 names him); the link to the *Book of Prophecies* is loose. Fix: add the edition, add Toscanelli, add "whether the annotations precede 1492 is debated". — vol-3 M4 · ch-11:22
+- Columbus over-simplified: "owned and annotated a Latin Polo, almost certainly in the Pipino tradition" — it *is* Pipino, the c. 1483–85 Gerard Leeu printing in the Biblioteca Colombina, Seville. The chapter implies the surviving postils fed the 1492 project, but their dates are uncertain. The John Day letter (1497/98) mentions a Polo book without identifying the surviving exemplar; it neither dates its acquisition nor its postils. The authenticity and influence of the alleged Toscanelli correspondence are disputed, and the link to the *Book of Prophecies* is loose. Fix: identify the edition and state that the dates of notes by Columbus and others are unknown; treat Toscanelli as contested or omit the link. See [S-20 closure](../../../research/results/S-20-closure.md). — vol-3 M4 · ch-11:22
 - "Genoa's most famous son after — and beside — the Venetian" muddles Polo (Venetian) with Genoa. — vol-3 n9 · ch-11:22
-- Catalan Atlas probably does not show Chipangu: :14 says "Chipangu (Japan) gleams as an island of reported wealth beyond the China Sea" on the 1375 Atlas; the standard view is that Japan first appears in European cartography on Fra Mauro's map (c. 1450–59, *Zimpagu/Cimpagu*) — **S-06: still open** (F-20): Yule's survey of the Atlas names no Chipangu but does not say it is absent; "Zimpagu" is not in refs. Also hedge "commissioned for the Crown of Aragon": Yule has it "in the great Library of Paris", and Cordier calls it the Atlas of Charles V ("by 1380" not seen); "within three generations" is about 51 years after 1324. Fix: drop the Chipangu sentence from the Atlas paragraph; keep Cathay, Chanbalech and Chansay; give Fra Mauro (1459) no "first" claim until seen. — vol-3 M5 · ch-11:14
+- Catalan Atlas Chipangu claim unverified: :14 says "Chipangu (Japan) gleams as an island of reported wealth beyond the China Sea" on the 1375 Atlas. An unqualified first appearance on Fra Mauro is also unsupported — **S-06: still open** (F-20): Yule's survey of the Atlas names no Chipangu but does not say it is absent; "Zimpagu" is not in refs. Also hedge "commissioned for the Crown of Aragon": Yule has it "in the great Library of Paris", and Cordier calls it the Atlas of Charles V ("by 1380" not seen); "within three generations" is about 51 years after 1324. Fix: drop the Chipangu sentence from the Atlas paragraph; keep Cathay, Chanbalech and Chansay; give Fra Mauro's surviving map a mid-15th-century date, no "first" claim until seen. Its connection to a map sent for Portugal by April 1459 is debated ([S-20 audit](../../../research/results/S-20-followup-audit.md)). — vol-3 M5 · ch-11:14
 - F-22: Ricci identified Cathay with China before Góis’s overland journey (Feng and Hosne); Góis died at Suzhou in 1607. Cut the unsourced assertion that Jesuits measured Polo’s silences. Add the print sequence (F-21): 1477 Nuremberg, 1483–84 Gouda, 1496 Venice, 1502 Lisbon, 1503 Seville, and 1559 Ramusio. — vol-3 m13 · ch-11:26, :28
 
 ### Dispute handling and Ramusio flags
@@ -43,14 +43,15 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Media hooks
 - **Hero plate:** III-11 *Columbus's annotated copy* — **PD**, a CC BY-SA photograph of the Colombina copy open at Abyssinia and Aden, with postils and a manicule (S-11; `PLT.III-11`); alternative: the 1477 Creussner woodcut in Dibdin's 1822 facsimile; portrait; caption: annotation date debated (F-19) — see `illustration-plan.md`
-- **Secondary plates:** Fra Mauro at his map (GEN; or PD of the map itself from Naya's 1873 photographic facsimile: a Marciana image carries an Italian heritage fee, S-11). Critique §4 option not adopted: Cresques workshop, Majorca (1370s Palma; Japan likely absent from this atlas)
+- **Secondary plates:** Fra Mauro at his map (GEN; or PD of the map itself from Naya's 1873 photographic facsimile: a Marciana image carries an Italian heritage fee, S-11). Critique §4 option not adopted: Cresques workshop, Majorca (1370s Palma; whether Japan is represented on the Atlas remains unverified)
 - **Maps:** none
-- **Timelines / diagrams / tables:** **B5** Reception, 1298 → 2013 (TikZ; pilot item in multimedia "Order of work"). Critique §5 item 5 date list — check every date before printing: 1298–99 dictation · 1305 "Milioni" · 1307 Cepoy · c. 1310s Pipino · 1324 will · Jacopo d'Acqui (1330s) · John of Ypres (c. 1350) · 1375 Catalan Atlas · c. 1450–59 Fra Mauro · 1474 Toscanelli · 1477 German print · c. 1483–85 Leeu Latin · 1492 · 1496 Venice · 1503 Santaella · 1559 Ramusio · 1602–07 Góis · 1818 Marsden · 1871/1903 Yule–Cordier · 1928 Benedetto · 1938 Moule–Pelliot · 1941 Yang Zhijiu · 1959–73 Pelliot · 1995 Wood · 1997 de Rachewiltz · 1999 Larner · 2006 Haw · 2013 Vogel
+- **Timelines / diagrams / tables:** **B5** Reception, 1298 → 2013 (TikZ; pilot item in multimedia "Order of work"). Critique §5 item 5 date list — check every date before printing: 1298–99 dictation · 1307 Cepoy · c. 1310s Pipino · 1319 "Milion" (Pozza via Vogel/Bolognari; do not equate 1305 namesake with the traveller without qualification) · 1324 will · Jacopo d'Acqui (1330s) · John of Ypres (c. 1350) · 1375 Catalan Atlas · c. 1450–59 Fra Mauro · alleged Toscanelli correspondence dated 1474 (disputed; omit unless attributed) · 1477 German print · c. 1483–85 Leeu Latin · 1492 · 1496 Venice · 1503 Santaella · 1559 Ramusio · 1602–07 Góis · 1818 Marsden · 1871/1903 Yule–Cordier · 1928 Benedetto · 1938 Moule–Pelliot · 1941 Yang Zhijiu · 1959–73 Pelliot · 1995 Wood · 1997 de Rachewiltz · 1999 Larner · 2006 Haw · 2013 Vogel
 - **Characters appearing:** Christopher Columbus; Paolo Toscanelli (to be added); Cresques Abraham; Fra Mauro; Francesco Pipino; Giovanni Battista Ramusio; Matteo Ricci; Bento de Góis (to be added); Marco Polo; Rustichello; Cocachin and Ahmad (mentioned)
 
 ## Gated by spikes
 - S-01, S-02, S-03 (*[reception]*, ★, Notes), S-05 (Columbus in hero; added names and dates), S-06 (M4, M5, m13, n9; F-19–F-22, F-27), S-07 (reception chapter), S-08, S-09 (B5), S-10 ✓ (Fra Mauro GEN option), S-11 ✓ (PD hero; Fra Mauro PD option: Naya facsimile)
 - S-13 ✓ (2026-11-11): `registry/scholarship.md`; items in this file's `.T1`/`.T4`
+- S-20 ✓ (2026-11-13): [closure decisions](../../../research/results/S-20-closure.md); integrate qualified research in `.T1`, `.T3`, `.T4`, B5 and PLT. Closure does not complete those tasks.
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
@@ -62,13 +63,13 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-27: delete epigraph 2 and its echo at :22, or quote Yule III.ii ("the quantity of gold they have is endless").
-    - F-19: Columbus's copy is Leeu's Latin, Gouda 1483–84, in Seville; the postils are "of debated date"; Columbus first knew Polo through Toscanelli's letters (Yule). No 1474 until seen.
-    - F-20 (open): remove the unsupported Chipangu claim for the Catalan Atlas; no "first" for Fra Mauro (1459); "later in the French royal library", not "commissioned for the Crown of Aragon".
+    - F-19 / S-20: Columbus's copy is Leeu's Latin, Gouda 1483–84, in Seville; notes by Columbus and others in his circle are of uncertain date. Do not infer use of that copy before 1492. Treat the alleged Toscanelli correspondence and its influence as disputed or omit them; do not assert it was Columbus's first source.
+    - F-20 (open): remove the unsupported Chipangu claim for the Catalan Atlas; no "first" for Fra Mauro (mid-15th century); "later in the French royal library", not "commissioned for the Crown of Aragon".
     - F-21: print dates 1477 Nuremberg, 1483–84 Gouda, 1496 Venice, 1502 Lisbon, 1503 Seville, 1559 Ramusio (posthumous); no 1477 printer.
     - F-22: Ricci identified Cathay with China before Góis’s overland journey (Feng and Hosne); Góis died at Suzhou in 1607. Cut the unsourced assertion that Jesuits measured Polo’s silences.
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
   - **S-13 ✓ (`registry/scholarship.md`):**
-    - Add the 2024 anniversary as an event: the Palazzo Ducale exhibition (6 April – 29 September 2024), the *Codice Diplomatico Poliano*, the new editions (V, 2019; the digital edition in progress). The Foligno manuscript is press-only: leave it out until the census (`burgio2025censimento`) is seen.
+    - Add the 2024 anniversary as an event: the Palazzo Ducale exhibition (6 April – 29 September 2024), the *Codice Diplomatico Poliano*, the new editions (V, 2019; the digital edition in progress). The Foligno manuscript may be included as a 2024 project announcement of a 145th known codex, attributed and without asserting the current total (S20-E1); omit it if the timeline is crowded.
     - Doubters before Wood (Green 1747; Magalhães's five proofs, 1688) and readership (`gadrat2015lire`): only after `gadrat2026marco` and `gadrat2024read` are read directly.
     - Z among the Venetian Dominicans (`andreose2024textual`, read): Calò and Filippino da Ferrara used it before 1347.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
@@ -83,8 +84,8 @@ _Created after the gating spikes close. Expected shapes:_
     2. Catalan Atlas (:14–16): omit unsupported Chipangu attribution; French royal library (F-20); aside :16 ≤ 80.
     3. Fra Mauro (:18): an early named depiction of Japan, with no unqualified first claim (F-20); cut "Anyway".
     4. Lesser charts (:20).
-    5. **Add Toscanelli** (~100): the 1474 letter, hedged (F-19).
-    6. Columbus (:22–24): Leeu's Gouda Latin 1483–84, the Colombina; postil dating debated (F-19); quote per F-27; n9. Aside :24 ≤ 80.
+    5. **Toscanelli, if included** (~100): present the alleged 1474 letter and its influence as disputed (F-19; S-20-E42), or omit the causal link.
+    6. Columbus (:22–24): Leeu's Gouda Latin 1483–84, the Colombina; notes by Columbus and others, with dates uncertain and no claim the surviving notes fed the 1492 voyage (F-19); quote per F-27; n9. Aside :24 ≤ 80.
     7. Print (:26): **add the dates** 1477, 1483–84, 1496, 1502, 1503, 1559 (F-21).
     8. Jesuits (:28): **add Góis** and Ricci’s identification of Cathay with China; cut "measured silences" (F-22).
     9. Modern scholarship (:30) ~250.
@@ -127,3 +128,6 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-15 source sweep:** `registry/enrichment.md` S15-H2–H4, H6–H7: Bolognari's comparison of Pipino's Maffeo deathbed story and Jacopo's Marco story; the 1319 person-name and early Pipino title; the dependence of Jacopo's treasury passage on Polo textual tradition; Cigni's prisoner-copyists; and Bonaguisi's 1392 copyist's doubt via de Rachewiltz/Benedetto. Each is evidence of a specific witness or textual network, not a census of belief or independent proof of the reported Asian customs. See `research/results/S-15-other-claims-intake.md`.
+
+
+**S-20 five-claim intake:** `gil2006marcocristobal`, pp. 25–27, 30–34, attributes gold and pearl notes on fol. 57v and an Alfaeto note on fol. 59v to Columbus, and argues that the Day book is the Seville copy read in 1497–98. Attribute both the hand and the date to Gil; the letter does not itself identify the copy and no universal date is proven. For the Atlas, `liscak2018atlas`, pp. 5–7, attributes the Great Khan and Chanbalech legends to Polo based on earlier transcriptions; neither exclusive borrowing nor absence of Japan follows. [Intake](../../../research/results/S-20-five-claims-intake.md). The selected plate shows a different opening.

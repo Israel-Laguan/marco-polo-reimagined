@@ -44,6 +44,12 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** **C12** seagoing-junk cutaway (13 compartments, axial rudder, batten sails); **D** "Japan 1274/1281: Polo vs Japanese and Yuan sources" (commanders, storm, outcome, date); critique §5 item 2 links the monsoon diagram (C11) to ch-01:41 ("two winds"). Existing `drawing-manzi-junk.png`: usable with caveats (Western galleried stern, portholes, five masts) per critique, but multimedia plan retires all `drawing-*.png`. Glossary: Chipangu (Jih-pên-kuo).
 - **Characters appearing:** Marco Polo, Kublai (Cublay), Abacan, Vonsainchin; also named: Columbus; comparative sources: Niccolò de' Conti, Odoric, Ibn Battuta, Rashid al-Din
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Takashima 1281: helmet, sword, bow, crossbow and arrow drawings are in Matsuura City Report 4 (2011), pp. 130–148 and pls. 18–22, with the seal of 1277 on pp. 8 and 42–45. Colour seabed photos: Matsuura Report 2 (2008), plates from PDF p. 284. Wreck photogrammetry and sonar: Nagasaki Pref. Report 25 (2018), pp. 1 and 82.
+- Ekotoba: **avoid** the 18th-century additions (five Mongol figures and the bomb explosion; Conlan 2013). Use the boarding scenes and the plain brown-armoured infantry.
+- S-23 closing: **C49** (lamellar helmet, Met 1999.158) and **C50** (Goryeo inlaid celadon, Met 11.8.4, late 13th c.). C50 matches the Goryeo inlaid bowl found at Takashima (Matsuura Report 4, pl. 4-10).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01, S-02, S-03, S-04 (Manzi, Cheinan, A15), S-06 (m11, m12, n10 wreck F-14, partly confirmed), S-08, S-09 (A15, C12), S-10 ✓ (GEN secondary, C12 base), S-11 ✓ (`PLT.III-01`)
 
@@ -56,6 +62,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** backlog · **Depends:** S-06 ✓, `III-01.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
+    - S-20 / F-19: :25 and Notes [6]–[7] link Chipangu’s gold to Columbus’s margins. Gil 2006 p. 30 attributes gold and red-pearl notes on fol. 57v to Columbus (S20-E46); the actual copy was not inspected here. Attribute any use to Gil or omit the assertion; do not imply the surviving annotations predate 1492. The copy’s notes are by Columbus and others and remain undated. [Closure](../../../research/results/S-20-closure.md).
     - The Quanzhou wreck (discovered 1973, excavated 1974) has twelve bulkheads and thirteen compartments; use it as archaeological comparison in Note [3] if space permits, with a late-13th-century date, not an exact 1274 sinking. Limber holes complicate any blanket watertight claim (F-14, S-14).
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
@@ -95,6 +102,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-3/ch-01-ships-chipangu.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### III-01.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

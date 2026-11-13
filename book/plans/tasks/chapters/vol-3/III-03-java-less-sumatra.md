@@ -39,11 +39,16 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found (2,202 words)
 
 ## Media hooks
+- **S-22 maritime research lead:** `niziolek2018revisiting` and `registry/enrichment.md` S22-E1: Java Sea wreck cargo could contextualize trade, but its reassessed date may be earlier than Polo and the wreck does not prove his route or a c. 1290 vessel design. Read the study before adding a Note.
 - **Hero plate:** III-3 *Five months stranded at Samara* — GEN, Javanese / Sumatran relief, landscape; must get right: junks at anchor, toddy-tappers, monsoon sky, a **modest** camp; caption: stockade and 2,000 men are Ramusio-only — see `illustration-plan.md`
 - **Secondary plates:** The "unicorn" split panel — LdM unicorn vs a Sumatran rhino (critique §4: the Sumatran rhino is hairy and two-horned; the Book says one horn — note the discrepancy). Critique §4 alternative not adopted: toddy-tapping (gomuti/sugar palm)
 - **Maps:** none placed here (A16 shows the Samara wait as a Prologue-certain stage)
 - **Timelines / diagrams / tables:** **C10** Pole Star altitude chart (III-3 / III-6; Sumatra "not seen" point, about 5°N); critique §5 item 2 links the monsoon diagram (C11) to the Sumatra wait
 - **Characters appearing:** Marco Polo (detained five months at Samara), Kublai (Great Kaan), Cocachin (mentioned); comparative sources: Odoric, Ibn Battuta, Niccolò de' Conti, Duarte Barbosa, Rashid al-Din
+
+### Period sources (gap-source ledger, 2026-11-13)
+- Sumatra: no in-window image; the Malik al-Salih gravestone (1297) has no free verified image. For Java, see III-02 (C47).
+- Register: `registry/visual-references.md § Gap-source ledger`.
 
 ## Gated by spikes
 - S-01, S-02, S-03 (Ramusio flag style, Notes), S-04 (glosses, Basma), S-06 (Ramusian stockade correction), S-08, S-09 (C10), S-10 ✓
@@ -84,6 +89,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.
 - **Done when:** `python3 tools/lint.py -v vol-3/ch-03-java-less-sumatra.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
+**S-21 research handoff (2026-11-13):** During T3/T4 and any unicorn plate caption, remove the unqualified assertion that Marco personally saw the Basma rhinoceros: the inspected Yule and F-edition descriptions do not explicitly say so. Attribute competing species interpretations, including Talbot, and keep the tongue detail tied to its textual version. The Fansur flour passage separately claims the travelers ate it; this does not prove the event. See `research/results/S-21-high-priority-intake.md` and S21-E9/E11–E12.
+
 ### III-03.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-03.T3` (re-voice renumbers Notes)
 - **Now:** 18 Notes · 9 ★ · 4 without a lead marker · tag [V/M]
@@ -95,6 +102,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-3/ch-03-java-less-sumatra.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### III-03.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

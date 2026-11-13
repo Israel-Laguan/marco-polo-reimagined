@@ -51,7 +51,9 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Left over:** the facts no search run could settle moved to `CHR.T7`.
 
 ### CHR.T5 — Costume refinement from S-22
-- **Status:** backlog · **Depends:** S-22 intake
+- **Supplement leads:** Met helmet 1999.158 is Mongolian or Tibetan and dated broadly 13th–15th century; the lacing date does not establish manufacture in Polo's years. `chuluun2024reconstruction` concerns a Balar's Khad deel, but its artifact date and methods remain to be checked. See `registry/visual-references.md` § Supplement; do not add either as a card cue yet.
+- **Status:** ready (S-22 closed 2026-11-13) · **Depends:** —
+- **Handed over by S-22:** cues C1 (court men), C2 (married court women, *boqta*), C3 (Cublay outdoors, from the 1280 hunting scroll) and C4 (a court woman riding: braids, no *boqta*) in `illustration-plan.md` § S-22 period cues; the images behind them in `media/reference/s22/` (the Khubilai and Chabi bust portraits are there too, not yet looked at closely). **Nothing yet** for Venetian dress or for Ilkhanid and Yuan armour: those wait on `research/S-22-follow-up-prompt.md`, so leave those `dress` lines as they are.
 - **Do:** take S-22's costume entries (Mongol court robes, *boqta*, Venetian dress c. 1270–1324, Ilkhanid and Yuan armour) into the cards' `dress` and `avoid` lines. Content only: no actor's or manga character's likeness (S-22 rule 3).
 - **Done when:** each card's dress lines cite an S-22 entry or a period source.
 

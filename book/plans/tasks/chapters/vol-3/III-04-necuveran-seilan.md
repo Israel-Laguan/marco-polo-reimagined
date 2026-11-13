@@ -38,11 +38,16 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found (2,614 words). Scorecard: "Best material (the Buddha passage) but near-verbatim Yule with first-person 'I'. Re-voice."
 
 ## Media hooks
+- **Secondary candidate, S-22:** Khalili *Jāmiʿ al-tawārīkh* MSS 727 fol. 34a, catalogued 1314–15, depicts a Buddhist subject (Shakyamuni offering fruit to the devil). Record checked; image and rights not inspected. Consider only if editorially relevant after viewing; it does not prove a connection to Polo's version. See `registry/enrichment.md` S22-E3.
 - **Hero plate:** III-4 *Pilgrims climbing Adam's Peak on iron chains* — GEN, Polonnaruwa murals, portrait; Buddhist and Muslim pilgrims together; caption: dual tradition, don't resolve it — see `illustration-plan.md` (critique §4: 13th-c. Sinhalese and Arab pilgrim dress; chains attested by Ibn Battuta)
 - **Secondary plates:** Relics arrive at Cambaluc (1284) — Yuan court, Tibetan and Chinese Buddhist clergy; caution: the Book's "Adam" framing; embassy plausible but unconfirmed. Critique §4 options not adopted: the prince meets death and age (localised wrongly in Ceylon; choose Indic or Latin idiom and say which); dog-headed men (reproduce the *Livre des Merveilles* miniature only; never show as ethnography)
 - **Maps:** none placed here
 - **Timelines / diagrams / tables:** none. Glossary: Sagamoni Borcan (Śākyamuni Burqan)
 - **Characters appearing:** Sagamoni Borcan (the Buddha), Adam, Kublai (Great Kaan; relic embassy); comparative sources: Ibn Battuta, Odoric, Rashid al-Din, Niccolò de' Conti
+
+### Period sources (gap-source ledger, 2026-11-13)
+- Adam's Peak and pilgrims: **no in-window image** found (searched 2026-11-13).
+- Register: `registry/visual-references.md § Gap-source ledger`.
 
 ## Gated by spikes
 - S-01, S-02, S-03 (★ conversion), S-04 (Necuveran gloss, Gauenispola row), S-05 (Kublai in the relics plate), S-06 (Sendemain, F-44), S-08, S-10 ✓
@@ -95,6 +100,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-3/ch-04-necuveran-seilan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### III-04.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

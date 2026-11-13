@@ -48,6 +48,10 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** D table II-13 Kinsay numbers (Polo / Odoric / Ibn Battuta / Wassaf). Critique §5 also proposes a "Kinsay revenue metrology" diagram (tomans, *saggi*, tael, *ting*); no C-ID in `multimedia-plan.md`.
 - **Characters appearing:** Facfur (the last Song ruler, as the Book names him), the Queen (Facfur's consort), Bayan, Kublai (the Kaan), Marco Polo; traveller discussed: Odoric
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Southern Song dress: see II-10 (Huang Sheng 1243 and Zhao Bowen 1216 tombs). Deshou Palace site museum, Hangzhou (2022): foundations and column bases, no garments.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -94,8 +98,10 @@ _Created after the gating spikes close. Expected shapes:_
   - Tag line `**[V]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
   - Run `python3 tools/lint.py -v vol-2/ch-13-kinsay.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-  - **S-13 ✓ (`registry/scholarship.md` Q11):** the Note on the figures may set Mascherpa's Chinese counts beside the Book's (347 bridges; 35 *li*; a lake of 6 miles), as his (`mascherpa2024quinsai`, read; one source). The Ramusio-only label on the long Kinsay additions: "from a fuller Latin text now lost" (same source).
+  - **S-13 ✓ (`registry/scholarship.md` Q11):** the Note on the figures may set Mascherpa's Chinese counts beside the Book's (347 bridges; 35 *li*; a lake of 6 miles), as his (`mascherpa2024quinsai`, read; one source). For the Ramusio-only Kinsay additions, attribute a proposed fuller Z-related source to Mascherpa; his reconstruction of family notes and a Ghisi-related exemplar is a hypothesis, with another interpolation possibility (S20-E34; `mascherpa2018fonte`, pp. 62–63). Do not present a particular lost manuscript or Polo’s authorship as proven.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-13.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

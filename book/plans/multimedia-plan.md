@@ -83,7 +83,7 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | B2 | Mongol politics, 1206–1295 | I-front-01 |
 | B3 | Kublai's reign and the Polo calendar (1260 → 1294) | II-front-01 |
 | B4 | The Song endgame, 1268–1279 | II-10 / II-11 |
-| B5 | Reception, 1298 → 2013 (manuscripts, print, Columbus, Ramusio, Yule, Wood debate) | III-11 |
+| B5 | Reception, 1298 onward (manuscripts, print, Columbus, Ramusio, Yule, modern scholarship); [S-20 selection](research/results/S-20-closure.md), with unverified dates and claims omitted | III-11 |
 | B6 | **Book date vs history** (a table-timeline, e.g. Baudas 1255 vs 1258; Chinghis 1187 vs 1206) | I-back-01 |
 
 ## C. Explanatory diagrams (16)
@@ -119,6 +119,8 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | C14 | Traction vs counterweight trebuchet | II-11 |
 | C15 | Qanat cross-section | I-8 |
 | C16 | Cane palace roof (split bamboo tiles) | I-13 |
+
+**C13 source check (S-22 supplement):** `registry/enrichment.md` S22-E2 points to Vosmer 2019 as a research lead. Its full text and any period-specific evidence for coir, hide decking and horse transport still need checking before the diagram fixes those features; *Jewel of Muscat* reconstructs a ninth-century wreck. C12 represents a different Chinese vessel tradition.
 
 ## D. Comparison tables (14) — plain LaTeX `booktabs`, cheapest and highest value
 

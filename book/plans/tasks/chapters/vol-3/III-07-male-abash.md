@@ -100,6 +100,8 @@ _Created after the gating spikes close. Expected shapes:_
   - **S-12 (2026-11-10):** "Huntingford" in the Comparative line (:99) has no work behind it. Candidates: *The Glorious Victories of ʿĀmda Ṣeyon* (Clarendon, 1965), which fits the Abyssinian chronology, or the *Periplus* (Hakluyt, 1980). Pick one and add it to the `.bib`, or drop the name.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
+
 ### III-07.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 20 errors · 2 warnings — failing: archaism, asides, budgets, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know; warnings: ramusio, recaps

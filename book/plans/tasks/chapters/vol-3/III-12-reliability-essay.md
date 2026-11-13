@@ -49,7 +49,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco, Niccolò and Maffeo Polo; Rustichello; Kublai (Cublay); Cocachin; Arghun; Geikhatu; Ghazan; Ahmad; Bolad (to be added); Nayan; Li Tan (Litan); St Thomas; Jacopo d'Acqui; Francesco Pipino; Giovanni Battista Ramusio; Rashid al-Din; Columbus; control-panel travellers William of Rubruck, Odoric of Pordenone, Ibn Battuta
 
 ## Gated by spikes
-- S-01 (essay register), S-02, S-03 (*[reception]*, ledger markers), S-05 (Bolad, Jacopo; Polos in the Catalan caravan caption), S-06 (Bolad, stele, Curzola/Jacopo, Yang Zhijiu, Wood, foot-binding), S-07 (essay length and reception role), S-08 (D tables), S-11 ✓ (`PLT.III-12`)
+- S-01 (essay register), S-02, S-03 (*[reception]*, ledger markers), S-05 (Bolad, Jacopo; the Catalan caravan caption must not identify its travellers as the Polos), S-06 (Bolad, stele, Curzola/Jacopo, Yang Zhijiu, Wood, foot-binding), S-07 (essay length and reception role), S-08 (D tables), S-11 ✓ (`PLT.III-12`)
 - S-13 ✓ (2026-11-11): `registry/scholarship.md`; items in this file's `.T1`/`.T4`
 
 ## Tasks
@@ -71,7 +71,7 @@ _Created after the gating spikes close. Expected shapes:_
     - F-32: the Xi'an stele was found in 1625: cut it from the "misses" (:44, Note [6]).
     - F-34: :30 and Note [4]: Jacopo puts the capture at Ayas; Curzola is Ramusio's tradition.
   - **Scholarship since 2013 (S-13 ✓, `registry/scholarship.md`):**
-    - §6: add a "since Vogel" paragraph. The field has answered Wood (three surveys: `orlando2025novita`, `ma2025chinese`, `gadrat2026marco`); no sceptic since 2013 was found; the question is now which layer of the text is whose. Date the new works (2015–2026).
+    - §6: add a "since Vogel" paragraph. Attribute the responses to the checked surveys (`orlando2025novita`, `ma2025chinese`; `gadrat2026marco` summary only). A search that found no sceptic since 2013 does not establish unanimity; textual layers and attribution remain active questions. Date the new works (2015–2026).
     - §9, open questions: rewrite 1 (layers, not one original), 2 (three positions on the languages), 4 (merchant-partner, guardsman or official), 8 (Mogadishu), 10 (a lost fuller Z behind Ramusio), 11 (Mascherpa's pairs); 5 goes (F-08) and II-05 gains the two titles; add the two new questions (Polo's status; the end of the Genoa prison).
     - Do not use the "silver belt of a Tartar knight" as evidence (`haw2024kesig`).
     - Read first: the five items listed at the end of `registry/scholarship.md`. Record-only and via sources are not quoted and get no page.
@@ -113,6 +113,10 @@ _Created after the gating spikes close. Expected shapes:_
   - **S-12 (2026-11-10):** the *Core comparative set* (:159) becomes keyed citations and says which texts the book follows: Yule–Cordier as base, the F text in `eusebi2018devisement`, Ramusio in `ramusio2015viaggi` (both open access), Kinoshita 2016 for English. `research/results/S-12-raw.md` § Task D ranks 15 core works. The sentence at :93 ("Scholars are cited by well-known works and positions") predates S-24: rewrite it to say Notes cite by position with a key and no unseen page numbers.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
+- **S-19 retry:** For Kököchin, `registry/comparanda.md` now records the translated Rashid extract in `boyle1970rashidfranks`, p. 66, and Yule–Cordier Prologue XVIII n. 6. Attribute Boyle’s proposed identification of the unnamed companions to Boyle; the translated passage does not itself name the Polos or the sea route. The Thackston p. 606 and Jahn p. 40 locators were read on page scans (S-19 close, 2026-11-12): paraphrase them, since neither is public domain; no quotation from the 1970 translation under the PD-only policy.
+- **Correction:** Note [11] currently pairs Rashid al-Din with `boyle1958history` (Juvaini); use `boyle1971successors` only after checking the Rashid passage and its locator.
+
 ### III-12.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 81 errors · 1 warnings — failing: length, markers, quote_verify, scaffolding, tags; warnings: sentence
@@ -121,3 +125,6 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-15 source sweep:** de Rachewiltz 1997 reports the Vilioni family's 1342 and 1344 Yangzhou tombstones (`registry/enrichment.md` S15-H5); they show the presence of others and do not independently locate Polo in the city. Identify this as de Rachewiltz reporting Rudolph rather than a stone examined here.
+
+
+**S-20 source reuse (2026-11-13):** S20-E34 / `mascherpa2018fonte`, pp. 62–63, supplies a named reconstruction and alternative for the long Quinsai material; present both as hypotheses in §2 if useful. S20-E40 identifies Yang’s 1941 article via Ma while F-15 and Zhang locate the notice in the *Yongle dadian*; neither Chinese nor Persian notice names the Polos. Do not treat the correspondence as direct proof of their presence. [Closure](../../../research/results/S-20-closure.md).

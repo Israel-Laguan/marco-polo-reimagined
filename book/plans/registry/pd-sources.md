@@ -53,7 +53,7 @@ Written in the build's figure form: `![Caption. *(Credit.)*](../media/public-dom
 - The original was retouched after it was made, and parts were later added; captions should not lean on any single figure as eyewitness detail.
 - Better master if found: the original via ColBase (Sannomaru Shōzōkan items are there, CC BY-compatible, commercial use allowed); whether these scrolls are listed was not confirmed.
 
-**III-11.** Columbus's copy of Marco Polo: Pipino's Latin version, printed at Gouda by Gerard Leeu about 1483–84. In the margins, notes on ships, spices, Alexandria and incense, and a pointing hand. *(Seville, Biblioteca Capitular y Colombina. Photograph: Hispalois, CC BY-SA 4.0.)*
+**III-11.** A surviving copy of Marco Polo's book in Pipino's Latin translation, printed by Gerard Leeu at Gouda in 1483–84. Its margins carry notes made by Columbus and others in his circle; the dates of the annotations are uncertain. *(Seville, Biblioteca Capitular y Colombina. Photograph: Hispalois, CC BY-SA 4.0.)* The selected photograph shows the Abyssinia/Aden opening; confirm the final crop and visible details during production. Neither the visible hand nor a pre-1492 date is established. [S-20 closure](../research/results/S-20-closure.md).
 - Who wrote each note, and when, is debated (`facts.md` F-19). Gouda, not Antwerp (F-19).
 
 **III-11 alternative.** Marco Polo as a Nuremberg gentleman: the title woodcut of the first printed edition of his book (German, Nuremberg, 1477), as re-cut for Dibdin in 1822. *(T. F. Dibdin, Aedes Althorpianae, 1822.)*
@@ -70,6 +70,7 @@ Written in the build's figure form: `![Caption. *(Credit.)*](../media/public-dom
 - **Kyushu University Library.** [Reuse page](https://www.lib.kyushu-u.ac.jp/en/reuse): public-domain images reusable without application or fee since October 2018, commercial use and modification included; credit the source and note modifications. The IIIF manifest states "Public Domain" and the attribution "Kyushu University Library Collections".
 - **ColBase** (national museums and the Museum of the Imperial Collections): commercial and non-commercial use without application, credit required; government standard terms 2.0, CC BY-compatible ([bunka.go.jp](https://www.bunka.go.jp/prmagazine/rensai/bunkazai/bunkazai_119.html)).
 - **Wikimedia Commons, CC BY-SA.** Commercial use allowed. Credit the photographer and the licence beside the image. Share-alike binds the image (and any edit of it), not the book it sits in.
+- **British Library (Cocharelli, Add MS 27695).** The IIIF manifest's usage terms read "Public Domain in most countries other than the UK" (checked 2026-11-13; rights statement bl.uk/rights/raqs/16.2/20170119). Anonymous IIIF requests return at most about 1200 px wide, below the 1350 px target. For a print master, order an image from the BL; for a UK edition, check BL terms first.
 - **Biblioteca Nazionale Marciana** (and every Italian state collection). Codice dei beni culturali art. 108 with DM 108 of 21 March 2024: commercial publication needs a concession and fee ([Marciana](https://bibliotecanazionalemarciana.cultura.gov.it/en/services/photoreproductions/reproduction-rights/)). The Naya or Fraser copies avoid this.
 
 ## Leads not taken
@@ -89,3 +90,6 @@ Written in the build's figure form: `![Caption. *(Credit.)*](../media/public-dom
   - **Buchon and Tastu 1839** (*Notices et extraits* XIV): the Commons and Google copy has the text only; the facsimile plates are not scanned.
   - **Not reached:** Santarém's *Atlas* (1842–53) and the 1883 *Choix de documents géographiques*. Neither is on Internet Archive or Commons, and the Library of Congress site blocked automated search.
 - **III-11 woodcut, other copies.** The BSB digitisation (`urn:nbn:de:bvb:12-bsb00004552-7`) is reported as CC BY-NC-SA; Columbia's and the Morgan's copies could not be checked (bot block). The Dibdin facsimile avoids the question.
+- **I-1 period image (2026-11-13).** Two leads:
+  - **Cocharelli f. 8r** (BL Add MS 27695, Genoa c. 1330–40), a counting house with clerks, coins and townswomen. It is the strongest free candidate for an I-1 secondary or inset: PD outside the UK, but only 1200 px from the IIIF service (see Holder terms).
+  - **Annales Ianuenses, BnF lat. 10136**: the consuls in council (PDF p. 231) and the siege of Savona with labelled *trabucos* (pp. 289–290). These are Gallica scans, so **fee** for print (BnF terms above). Reference copies and use rights are in `media/references/README.md` § Added 2026-11-13.

@@ -1,6 +1,6 @@
 # S-21 — Natural history, commodities and marvels
 
-**Status:** open · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** asides and Notes on animals, plants, minerals and marvels in all volumes; the three trivia back-matter files; `PLT` caption facts; `TBL` commodity tables
+**Status:** open · **Phase:** R (follow-up deep research) · **Timebox:** initial external run + intake complete; targeted follow-up needed · **Gates:** asides and Notes on animals, plants, minerals and marvels in all volumes; the three trivia back-matter files; `PLT` caption facts; `TBL` commodity tables
 
 ## Question
 For each animal, plant, mineral, trade good and marvel Polo describes, what is it in modern terms? What explains his description (accurate, misunderstood, hearsay, ancient legend)? And what one vivid, checkable fact would a reader enjoy?
@@ -37,7 +37,7 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 ```
 
 ## Output (definition of done)
-- [ ] `research/results/S-21-raw.md` saved
+- [x] `research/results/S-21-raw.md` saved (exact supplied attachment)
 - [ ] `registry/enrichment.md` § natural history, grouped by chapter
 - [ ] Candidate rows for the `TBL` commodity tables
 
@@ -46,10 +46,26 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 - `illustration-plan.md`: caption facts for natural-history secondaries
 
 ## Follow-up prompts
-_(add here if the results leave gaps)_
+[Remaining high-priority pass 1](../research/S-21-high-priority-pass1-prompt.md) — customs, animals, metals and money.
+
+[Remaining high-priority pass 2](../research/S-21-high-priority-pass2-prompt.md) — pearls, goods, trade and marvels.
+
+[High-priority research prompt](../research/S-21-high-priority-prompt.md) — standalone external-agent run; see the separate low-priority first pass below.
+
+[S-21 follow-up deep research prompt](../research/S-21-follow-up-prompt.md) — stricter claim-level rerun, prioritized by impact; includes a coverage ledger for unresolved items.
+
+**Latest follow-up:** The supplied [critical source audit](../research/results/S-21-followup-raw.md) has been preserved. Its remaining gaps are classified, with manuscript-specific fallbacks, in [S-21 research priorities](../research/S-21-research-priorities.md). This is editorial triage, not an independent verification intake; report-only findings are not promoted. High-priority work targets existing claims and source inspection; low-priority work is optional unless a particular detail is selected.
 
 ## Findings
-_(fill while working)_
+
+**High-priority first tranche:** [raw report](../research/results/S-21-high-priority-raw.md) and [checked intake](../research/results/S-21-high-priority-intake.md). Ten targeted source checks: 8/10 support the narrow proposition, with a wrong author initial and a digitized viewer not accessible in this environment; this is not a random error-rate estimate. Eusebi’s F-text edition independently supports the narrow textual distinction between the Basma description and the Fansur “we ate” passage; it is not a fresh manuscript collation. Most requested groups remain unattempted, so the spike stays open and the remaining prompts split their scope.
+
+**Low-priority first pass:** [source checks and research ledger](../research/results/S-21-low-priority-research.md) covers L1–L14, with partial answers and explicit unattempted items. Ten purposive checks of sources cited by the follow-up report found 6/10 fully supported the particular proposition checked; four fell short or contained metadata/routing errors. This is not a random error-rate estimate. The stricter [high-priority prompt](../research/S-21-high-priority-prompt.md) is ready; it has not been run externally. The pass directly inspected Talbot’s composite-rhinoceros argument, sourced an earlier seasonal-separation parallel and corrected several passage locations; remaining questions and proposed wording are in the ledger.
+**S-20 carryover — Pamir sheep:** S20-E17 records Blyth’s 1841 printed use of *Ovis Polii*, citing Polo, and Yang et al.’s use of *Ovis ammon polii*. [ITIS](https://www.itis.gov/servlet/SingleRpt/SingleRpt?print_version=SCR&search_topic=TSN&search_value=898792) gives 1840 for the original name, so do not call the 1841 publication its first appearance without resolving the bibliographic discrepancy. The [Mammal Diversity Database](https://www.mammaldiversity.org/taxon/1006203/) treats *polii* within *Ovis ammon* and notes other taxonomic treatments. This supports an attributed naming-history note in I-10; it does not independently establish that Polo observed the animal. S-21 remains open for its wider natural-history work.
+
+Initial report preserved as [raw](../research/results/S-21-raw.md); see the [intake](../research/results/S-21-intake.md) for source checks and candidate table rows. Ten purposively selected report sources were tested against narrow propositions: **3/10 supported the proposition tested at the inspection level available**. This is not an error-rate estimate; seven failures include inaccessible, indirect or non-specific evidence, not proof of falsehood. The research README requires a stricter rerun below 80%; the follow-up prompt provides it.
+
+The report covers 59 topics but often conflates an underlying modern phenomenon with Polo’s precise observation, place or century. The first intake corrects a pearl-fishery continuity overclaim, supplies the ambergris paper citation, flags the unsupported Java entrepôt explanation and spots the misplaced Lambri brazil passage. A few scoped facts are in `registry/enrichment.md`; the full chapter register and TBL rows remain incomplete.
 
 ## Decision
 _(fill when closing)_

@@ -48,6 +48,10 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** critique §5 item 2 links the monsoon diagram (C11) to ch-05:39 (rains June–August). Glossary: Abraiaman, *Pacauta*
 - **Characters appearing:** Sonder Bandi Davar (Sundara Pāṇḍya), the five royal brothers (unnamed), St Thomas the Apostle; comparative sources: Rashid al-Din, Ibn Battuta, Duarte Barbosa, Odoric, Niccolò de' Conti, Montecorvino
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Pearl diving and the Pandya coast: **no in-window image** found (searched 2026-11-13). Ship hero stones (`tripati2006hero`) are dated only by dynasty.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01, S-02, S-03 (Ramusio flag, Notes swap, ★), S-04 (Maabar gloss, Mailapur/Kis rows, A17), S-06 (Pacauta fidelity), S-08, S-09 (A17), S-10 ✓ (**hero done**: `media/plates/III-5-pearl-divers.png`)
 
@@ -99,6 +103,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-12 (2026-11-10):** "Subrahmanyam" in Note [19] (St Thomas traditions) has no work behind it: name the work and add it to the `.bib`, or drop the name.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### III-05.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

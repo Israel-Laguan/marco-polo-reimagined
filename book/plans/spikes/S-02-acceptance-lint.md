@@ -111,3 +111,6 @@ _Closed 2026-10-21._
 - [x] `BLD.T1` pre-commit hook in `tasks/cross/BLD-build-tooling.md`: block regressions against the baseline, not baseline debt.
 - Follow-up for S-03 and S-04: when they close, update the provisional rules in `tools/lint.py`, then regenerate the baseline.
 
+
+## S-19 follow-up (2026-11-12)
+The `refs/` directory now includes comparative texts, but `tools/yule.py` still explicitly loads only its two Polo volumes. Keep its 7-gram metric Yule-only. Source-aware comparative quotation checks, including source boundaries and OCR/scan verification, are assigned to `BLD.T10`; they are not implemented yet. See `S-19` and `registry/comparanda.md`.

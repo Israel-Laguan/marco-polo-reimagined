@@ -48,6 +48,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** none
 - **Characters appearing:** Marco Polo, Kaidu (Caidou), Chagatai (Sigatay), Kublai
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Pamir: no in-window image. The nearest is Stein's photographs of 1906–16 (Digital Silk Road, BL Photo 392), terrain only.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -106,3 +110,8 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E12 and S-16 closeout: Wood’s “roof” and the disputed Uzun-tatïr/Keriya identification. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+
+## S-20 source reuse — I-10 sheep
+
+S20-E17 and `blyth1841ovis` p. 195 record Blyth’s 1841 use of *Ovis Polii* with an explicit reference to Polo and a modern account’s *Ovis ammon polii* classification. This is useful for Note [3] or the aside, within the existing space budget. ITIS dates the original name to 1840; avoid claiming 1841 as its first publication until reconciled. Taxonomic rank varies, and the eponym is not independent proof of Polo’s observation. See [natural-history handoff](../../../spikes/S-21-natural-history-marvels.md) and S20-E17.

@@ -41,11 +41,16 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Scorecard: outline coverage "Full but turn-back over-asserted" (see M2). — vol-1 §3 · ch-07
 
 ## Media hooks
+- **S-22 sewn-boat lead:** `vosmer2019sewn` and `registry/enrichment.md` S22-E2 are candidates for the Hormuz ship account and diagram C13. The full article and period-specific evidence for construction and cargo details still need checking; the ninth-century *Jewel of Muscat* reconstruction is an earlier analogy.
 - **Hero plate:** I-7 Marco escapes the Caraunas in the darkness — GEN, Ilkhanid (JT), L. **Illustration-plan Pilot 1.** Must get right: **dust storm**, not magic; mud-walled village (Canosalmi); date palms; Jiroft plain. Caption: uncorroborated personal claim. Anchor ch-07:25.
 - **Secondary plates:** Stitched ships of Hormos (anchor ch-07:33): sewn-plank hulls, coir lashings, single mast, quarter-rudder, horses on hides over cargo. Critique-only: Neck-deep against the simoom (ch-07:35); do **not** illustrate the baked-army anecdote (Ramusian hyperbole).
 - **Maps:** A4 Outbound: Ayas to Hormos (Camadi/Reobarles, Hormuz, return to Kerman).
 - **Timelines / diagrams / tables:** C13 Sewn-plank ship of Hormos cutaway (coir stitching, hide deck with horses). D (I-7 / I-9 / I-11) Geographic text vs Ramusio side by side (here: the Kerman army).
 - **Characters appearing:** Marco Polo, Nogodar (Negüder), Chagatai, Asedin Soldan, Ruomedam Ahomet (Rukn al-Dīn Maḥmūd) of Hormos, the Great Kaan (Kublai); the Kutlugh-Khanids (dynasty)
+
+### Period sources (gap-source ledger, 2026-11-13)
+- Town and caravan life: no in-window image of a Persian caravan or bazaar was found. The nearest dated figures are in BSB Cod.arab. 464 (1280) and Morgan M.500 (1297–1300), with M.500's restored folios excluded. Gulf ships: see III-08.
+- Register: `registry/visual-references.md § Gap-source ledger`.
 
 ## Gated by spikes
 - S-01 Voice standard
@@ -102,6 +107,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-1/ch-07-kerman-hormos.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-07.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

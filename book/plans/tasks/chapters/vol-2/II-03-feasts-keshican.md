@@ -41,6 +41,10 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Kublai (the Great Kaan), Marco Polo, Möngke and Güyük (earlier khans, mentioned); travellers discussed: Rubruck, Carpini, Odoric
 - **Character check (S-05):** a White Feast plate set after 1281 must not show Chabi (d. 1281); the senior consort is then Nambui. Cublay c. 67–75, heavy. Cards: `plans/registry/character-cards.yaml`.
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Banquet vessels: Watt 2010 pages on the jade wine bowl (pp. 49, 296, 328, 332, 338) and on Zhiyuan-dated objects (pp. 38, 41, 55, 332–333, 340). Chabi's *gugu*: p. 82. Yelü Zhu tomb (d. 1285): p. 16.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -91,6 +95,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-12 (2026-11-10):** "Elverskog on Mongol ritual" in Note [15] has no work behind it (`registry/name-keys.csv`): name the work and add it to the `.bib`, or drop the name.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-03.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

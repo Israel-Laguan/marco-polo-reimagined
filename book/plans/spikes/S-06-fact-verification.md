@@ -121,3 +121,6 @@ _Closed 2026-11-03._
 ## Tasks created on close
 - [x] Factual `.T1` items in the 40 chapter files that carry an S-06 tag. 30 narrative files get a new `.T1 — Critical and factual fixes` block, each with its **Facts (S-06 ✓)** rows. The 10 front/back and essay files already use `.T1` for the S-04 names task, so they get the same **Facts (S-06 ✓)** bullet there (I-F1, I-F2, I-B1, II-F1, II-F2, II-B1, III-12, III-F1, III-F2, III-B1). Files whose S-06 items all cite Yule get a one-line note saying no verdict was needed.
 - [x] `DIA.T1`: timeline data for B1–B6 from `facts.md` § Timeline data (reception dates for B5 included).
+
+
+**S-20 follow-through, 2026-11-13:** F-19/F-20 now carry the final qualified handoff: Columbus-circle postils are undated, the Toscanelli correspondence is disputed, the Atlas Chipangu claim is unverified, and the surviving Fra Mauro map is dated broadly mid-15th century. See [closure](../research/results/S-20-closure.md). This updates the decision without reopening the historical fact-sweep spike.

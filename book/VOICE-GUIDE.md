@@ -107,7 +107,7 @@ One system, four parts: **Notes** (numbered, at the chapter's end), **markers** 
 ### Notes
 
 1. **One Note per citation, one citation per anchor.** A Note opens with the verdict on the anchored passage: one marker, or a pair "core / detail" when they differ ("✓ / ~ …"). Clauses after it carry their own markers. More than four marker clauses means the anchor is doing too much: split the sentence and add a citation.
-2. Shape: `[n] ✓ The claim in a few words. Evidence and corroboration. Comparative witnesses.` Sources are cited as § Citations below says; no invented page numbers.
+2. Shape: `[n] ✓ The claim in a few words. Evidence and corroboration. Comparative witnesses.` Sources are cited as § Citations below says; no invented page numbers. Where a comparative witness adds evidence, say what that witness reports and give a checked location; use a short quotation only from a cleared public-domain translation, checked against its scan and attributed to that translation. Otherwise paraphrase and cite the edition consulted. Open access alone does not make a translation public domain. Do not treat a parallel account as proof that Polo was present. See `plans/registry/comparanda.md` for checked passages and unresolved leads (S-19).
 3. **No placeholder Notes** ("see [5]", "soft transition", "companion framing only"). A Note that only points to another Note is merged into it and its citation is dropped.
 4. **No duplicate Notes** on one claim: "★ Dispute:" fragments and "Dispute hook / Dispute stance:" labels are merged into the Note they belong to.
 5. **No scaffolding or tooling language** (`/workspace`, gazetteer labels like *visited*, "outline", "drafter"). Facts awaiting verification are marked **To verify (S-06)**.

@@ -60,3 +60,8 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 _Still to write:_ `BLD.T3` media regeneration (one command).
 
 - `BLD.T3` wraps the two S-09 commands: `tools/media/.venv/bin/python tools/media/map.py` (all maps) and `python3 tools/media/timeline.py` (all timelines), each after its `--test`.
+
+### BLD.T10 — Source-aware verification for comparative quotations (S-19)
+- **Status:** ready · **Depends:** S-19 best-effort intake
+- **Do:** Preserve the current two-volume Yule-only 7-gram verbatim metric, Ramusio detection and their baselines. Add an explicit, source-aware quotation lookup for individually identified, rights-cleared comparison texts in `refs/`; never silently match a quotation against any source merely because the words occur somewhere in a combined corpus. Separate each source from editorial notes and other authors, and avoid matching across file boundaries. Report the named source and unresolved/misquoted text; handle epigraphs and marked quotes as appropriate without inventing a source. The S-19 files contain uncorrected OCR and some include multiple authors, so scan-check and attribution remain editorial requirements. Exclude the 1733 *Ancient Accounts* until its translation rights are checked. See `registry/comparanda.md`.
+- **Done when:** representative exact, ellipsis and wrong-source matches, OCR mismatch and a mixed-source segment are tested; Yule-only quotation behavior and 7-gram baseline stay unchanged, and an attribution cannot pass solely on another author's text or an editor's annotation. Decide and document the manuscript syntax and migration path before making non-Yule quotations a blocking lint requirement.

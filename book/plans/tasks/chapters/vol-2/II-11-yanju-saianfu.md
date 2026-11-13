@@ -49,6 +49,11 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco Polo, Niccolò Polo, Maffeo Polo, Kublai (the Kaan), Alawating / Alawading and Ysemain / Isma'il (the Muslim engineers), the Ilkhan Abaqa, Mar Sarghis (mentioned), Rustichello; an unnamed German and a Nestorian (Ramusio's engine-builders); traveller discussed: Odoric
 - **Character check (S-05):** the siege ended in 1273, two years before the Polos reached the court; `tools/characters.py ages` proves their absence from this plate. No Venetians in the scene.
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Trebuchet: no image of the Xiangyang engine exists from 1250–1300. Engine frame comparandum: **C46**, the siege of Savona in 1227 (Annales Ianuenses pp. 289–290), with two trestle engines labelled *Trabucos* and a striped tent camp. Ammunition: Yuan stone shot of about 8 cm/0.8 kg, 11 cm/1.7 kg and 15 cm/3 kg+ (Nagasaki Pref. Report 25, pp. 41–47).
+- Date: Report 25 puts the 回回砲 at Xiangyang–Fancheng in 至元11 (1274), against the usual 1273; Chevedden dates the engine to 1272. Check which the text uses.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -106,6 +111,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-2/ch-11-yanju-saianfu.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-11.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

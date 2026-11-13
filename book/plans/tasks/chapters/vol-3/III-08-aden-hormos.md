@@ -40,11 +40,16 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found (2,080 words; scorecard: "Accurate")
 
 ## Media hooks
+- **S-22 sewn-boat research lead:** `vosmer2019sewn` reviews archaeological, historical and ethnographic evidence; its abstract and bibliography were checked, not the full study. See `registry/enrichment.md` S22-E2. Read period-specific evidence before adding a Note or using a reconstruction as a boat design for Polo's Hormuz.
 - **Hero plate:** III-8 *The wind-catchers of Hormos at noon* — GEN, Baghdad school (al-Wasiti), landscape; old mainland Hormuz; *bād-gīr* towers as a type (surviving towers are later) — see `illustration-plan.md`
 - **Secondary plates:** none in plan. Critique §4 options not adopted: cattle fed on dried fish (Hadramawt coast); tapping frankincense at Dufar (*Boswellia*, not fir)
 - **Maps:** none placed here
 - **Timelines / diagrams / tables:** none. Glossary: *bād-gīr*
 - **Characters appearing:** the Soldan of Aden (Rasulid sultan of Yemen), the Soldan of Babylon (Mamluk sultan of Egypt), the Melic of Hormos; Cocachin (mentioned); comparative sources: Ibn Battuta, Duarte Barbosa
+
+### Period sources (gap-source ledger, 2026-11-13)
+- Gulf ships 1250–1300: **no securely dated image**. C7 (Arabe 5847, 1237) stays the nearest. Red Sea trade context: Burke 2021, *The Sheikh's House at Quseir al-Qadim* (free PDF, `burke2021quseir`).
+- Register: `registry/visual-references.md § Gap-source ledger`.
 
 ## Gated by spikes
 - S-01, S-02, S-03 (tag line, ★, Comparative block), S-04 (Calatu, Kis, glosses), S-06 (n7), S-08, S-10 ✓
@@ -96,6 +101,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-3/ch-08-aden-hormos.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### III-08.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

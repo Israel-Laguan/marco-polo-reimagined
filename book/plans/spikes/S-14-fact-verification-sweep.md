@@ -77,3 +77,6 @@ Closed: the 25 claims are graded in `registry/facts.md`, the supplied output and
 
 ## Tasks to create on close
 - [x] Handed off to the already-closed S-06 and its existing factual `.T1` tasks; no duplicate tasks created.
+
+
+**S-20 follow-through, 2026-11-13:** F-19/F-20 now carry the final qualified handoff: Columbus-circle postils are undated, the Toscanelli correspondence is disputed, the Atlas Chipangu claim is unverified, and the surviving Fra Mauro map is dated broadly mid-15th century. See [closure](../research/results/S-20-closure.md). This updates the decision without reopening the historical fact-sweep spike.

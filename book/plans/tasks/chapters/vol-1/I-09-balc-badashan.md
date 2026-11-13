@@ -49,6 +49,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** D (I-7 / I-9 / I-11) Geographic text vs Ramusio (here: Marco's illness).
 - **Characters appearing:** Marco Polo, Alexander and Darius (legend), Roxana (Note), Chinggis, Hulagu (passing)
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Ruby, lapis and silver mines of Badakhshan: **no in-window image exists** in any source found (searched 2026-11-13). Use text (Wood 1838) and modern geology (`wyart1981lapis`) for terrain only.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds

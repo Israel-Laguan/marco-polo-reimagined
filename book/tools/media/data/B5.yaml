@@ -1,6 +1,6 @@
 # B5 — Reception, 1298 onward (III-11). Pilot for S-09.
 # Every date here must have a row in plans/registry/facts.md (§ "Dates a timeline may print"); `fact` names it.
-# Not yet printable: Yule's 1st edition (1871), Benedetto (1928), Moule–Pelliot (1938), Wood (1995), Vogel (2013).
+# Pilot only; S-20 closure supplies later candidates. Extend through DIA.B5 after layout review.
 id: B5
 file: B5-reception
 axis:
@@ -12,13 +12,14 @@ events:
   - {from: 1310, to: 1320, date_label: "1310s", kind: text, label: "Pipino's Latin translation", note: "in Marco's lifetime; Yule suggests 1315", fact: F-18}
   - {date: 1324, kind: text, label: "Marco dies, 8 or 9 January", fact: F-35}
   - {date: 1375, kind: map, label: "Catalan Atlas: Cathay on the map", fact: F-20}
-  - {date: 1459, kind: map, label: "Fra Mauro's world map", fact: F-20}
+  # Approximate visual span for "mid-15th century", not a documented completion interval.
+  - {from: 1440, to: 1460, date_label: "c. 1450", kind: map, label: "Fra Mauro's surviving world map", fact: F-20}
   - {date: 1477, kind: print, label: "First printed edition: German, Nuremberg", fact: F-21}
-  - {from: 1483, to: 1484, kind: print, label: "Pipino's Latin printed at Gouda", note: "Columbus's annotated copy; when he wrote his notes is debated", fact: F-19}
+  - {from: 1483, to: 1484, kind: print, label: "Pipino's Latin printed at Gouda", note: "surviving copy has undated notes by Columbus and his circle", fact: F-19}
   - {date: 1496, kind: print, label: "Venice (Sessa)", fact: F-21}
   - {date: 1502, kind: print, label: "Lisbon: Portuguese, from Pipino", fact: F-21}
   - {date: 1503, kind: print, label: "Seville: Castilian (Santaella)", fact: F-21}
   - {date: 1559, kind: print, label: "Ramusio's Navigationi, vol. 2", note: "posthumous: Ramusio died in 1557", fact: F-21}
-  - {date: 1603, kind: journey, label: "Bento de Góis crosses the Pamir", note: "held at Sukchur (Jiuquan), and dies there", fact: F-22}
-  - {date: 1903, kind: text, label: "Yule–Cordier, 3rd edition", note: "the text this retelling follows", fact: facts.md § Sources}
+  - {date: 1603, kind: journey, label: "Bento de Góis crosses the Pamir", note: "dies at Suzhou (Jiuquan) in 1607", fact: F-22}
+  - {date: 1903, kind: text, label: "Yule–Cordier, 3rd edition", note: "the text this retelling follows", fact: "B5 Reception — editions and literature"}
 legend: true

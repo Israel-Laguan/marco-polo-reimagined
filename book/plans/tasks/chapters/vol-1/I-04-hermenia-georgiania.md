@@ -44,6 +44,13 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** none
 - **Characters appearing:** Marco Polo (as narrator), the Polos, David Melic (King David of Georgia), Baibars (Bundukdar), the Hetumid kings of Cilicia (dynasty), Alexander (legend)
 
+### Period sources (gap-source ledger, 2026-11-13)
+- I-4 quay at Layas: **C44** (harbour, galleys, round ships; Cocharelli f. 5r, late) and **C48** (Carte Pisane chart idiom). The site layout comes from CHARLVAR Album 227, R. W. Edwards 1974: Land Castle, Island Castle, harbour, medieval town and bridge (© CHARLV; look only).
+- Name: on the Carte Pisane, Ayas is **probably** the red *[l]aiaso*, read between *alexandreta* and red *terſſo* (a fold line runs through it). Later dated charts give *laiaza* (1313), *laiazo* (132[1]) and *Laiacium* (c. 1321) (Lin 2019). The red box at the bend reads *Leuante*: it is the east-wind label, not a port.
+- Full ledger: reports/Period sources for Polo plates.md, G4.
+- Ayas deeds edition confirmed: Balletto (ed.), *Notai genovesi in Oltremare: atti rogati a Laiazzo…* (1989), `balletto1989laiazzo` (publisher unconfirmed).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -90,6 +97,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-1/ch-04-hermenia-georgiania.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-04.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

@@ -120,9 +120,9 @@ Expected effect: I-B1 1,229 → about 700, II-B1 862 → about 550, III-B1 761 �
 | § | Content (lines) | Action |
 |---|---|---|
 | 1 | Homecoming tableau (:9–17, ~740) | **Rewrite, ~400.** Frame as Ramusio's tradition from the first sentence (one Ramusio flag for the whole tableau). Malipiero source chain as one ≤ 80-word aside. Worst verbatim block :15 (83%). |
-| 2 | *Il Milione* (:19, 257) | Keep, ~200: wealth nickname vs "million lies" reading. |
+| 2 | *Il Milione* (:19, 257) | Keep, ~200: competing attributed explanations; use the 1319 traveller identification via Bolognari/Vogel and do not assert a chronology for “million lies” (S20-E27/E43). |
 | 3 | Merchant life, marriage, daughters (:21–23, 371) | Rewrite, ~250. **Donata Badoer**, married early 14th c.; the daughters per F-16. |
-| 4 | Manuscript trail: Cepoy (:25, 355); Pipino (:27, 223) | Cepoy → ~200; Pipino → ~170, "in Marco's lifetime, probably c. 1310–1314" (F-18). |
+| 4 | Manuscript trail: Cepoy (:25, 355); Pipino (:27, 223) | Cepoy → ~200; Pipino → ~170, "in Marco's lifetime, probably the 1310s" (F-18). |
 | 5 | Early readers: d'Abano, *Bauduin*, distrust and delight (:29–31, :39 first half) | Merge, ~300. |
 | 6 | The will, deathbed, death, burial (:33–35, :39 Jacopo) | **Reorder:** will (433 → ~170: trustees, San Lorenzo, Peter the Tartar freed, Donata, daughters) → Jacopo's deathbed "not told one half" → death 8/9 January 1324 (F-35) and burial (~150). |
 | 7 | Portraits and relics (:37) | ≤ 80-word aside. |
@@ -130,14 +130,16 @@ Expected effect: I-B1 1,229 → about 700, II-B1 862 → about 550, III-B1 761 �
 
 **III-11 (2,629 → target 2,400–2,800)**
 
+S-20 closed 2026-11-13; the [qualified handoff](../research/results/S-20-closure.md) supersedes older reception assumptions in this plan.
+
 | § | Content (lines) | Action |
 |---|---|---|
 | 1 | Opening "Tradition has it…" (:12) | Rewrite: open in the scene (Paris, the Atlas). |
-| 2 | Catalan Atlas (:14–16) | Keep; **no Chipangu**; in the French royal library (F-20). Aside :16 (166) → ≤ 80. |
-| 3 | Fra Mauro (:18) | Keep; cut "Anyway"; Japan's first European appearance as *Zimpagu*, hedged (F-20). |
+| 2 | Catalan Atlas (:14–16) | Keep; omit the unsupported Chipangu claim; whether Japan is represented remains unverified; in the French royal library (F-20). Aside :16 (166) → ≤ 80. |
+| 3 | Fra Mauro (:18) | Keep; cut "Anyway"; describe Fra Mauro's surviving map as mid-15th century, without an unqualified first or exact Japan-label spelling (F-20). |
 | 4 | Lesser charts (:20) | Keep. |
-| 5 | **Add: Toscanelli** | New, ~100: the 1474 letter (Quinsay, Cipangu) as Columbus's pre-1492 Polo, hedged per F-19. |
-| 6 | Columbus (:22–24) | Rewrite: Leeu's Latin, Gouda 1483–84, in the Colombina; "whether the annotations precede 1492 is debated" (F-19); epigraph and :22 quote per F-27; fix n9 ("Genoa's most famous son"). Aside :24 (227) → ≤ 80. |
+| 5 | **Add: Toscanelli** | Optional, ~100: attribute the contested correspondence and its disputed influence, or omit the causal link (F-19; S20-E42). |
+| 6 | Columbus (:22–24) | Rewrite: Leeu's Latin, Gouda 1483–84, in the Colombina; annotations by Columbus and his circle with dates uncertain; do not imply this copy or its postils fed the 1492 voyage (F-19); epigraph and :22 quote per F-27; fix n9 ("Genoa's most famous son"). Aside :24 (227) → ≤ 80. |
 | 7 | Print (:26) | **Add the dates** (F-21): 1477 Nuremberg German; Gouda Latin; 1496 Venice; 1502 Lisbon; 1503 Castilian; 1559 Ramusio. |
 | 8 | Missionaries and Jesuits (:28) | **Add Góis** with Yule's facts only (Pamir 1603; Suzhou; died there); cut "measured silences"; Ricci hedged (F-22). |
 | 9 | Modern scholarship (:30, 321) | Keep, ~250: Yule, Cordier, Pelliot, Moule–Pelliot. |

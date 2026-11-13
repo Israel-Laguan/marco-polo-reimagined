@@ -91,3 +91,5 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-15 source sweep:** For the pasta legend, de Rachewiltz 1997 pp. 61–62 locates the wheat/pasta account in the Ramusian text and distinguishes his reading of *lasagne* from later translation labels (`registry/enrichment.md` S15-H5). This is a source-and-translation note, not evidence that Marco introduced pasta.
+
+**S-20 closed (2026-11-13):** apply the [myth and afterlife decisions](../../../research/results/S-20-closure.md), preserving attributed second-hand accounts and omitting unverified claims. The planned duplicate Columbus/Toscanelli passage is still slated for removal; do not imply the Seville copy was used before 1492.

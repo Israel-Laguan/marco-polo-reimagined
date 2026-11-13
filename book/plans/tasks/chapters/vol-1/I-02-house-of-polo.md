@@ -46,6 +46,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** C5 Paiza hierarchy (II-1 / I-2) with the 1269 script change; B1 Polo family timeline (placed I-F1; critique: "front-01 or ch-02/03"); B6 row "Elder voyage begins 1250 vs 1260" (placed I-B1).
 - **Characters appearing:** Niccolò Polo, Maffeo Polo, Marco Polo, Andrea Polo, Baldwin II, Michael Palaeologus, Berke (Barca), Hulagu (Aláu), Barac (Borrak) of Bocara, Sartak (conjectured link), Kublai, Pope Clement IV, Tedaldo Visconti (Gregory X)
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Ships and harbour of the 1260s–70s: no dated in-window image found. Use **C44** (Cocharelli f. 5r, c. 1330–40) with a lateness caveat, and Pryor's 1268 ship specifications (text).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds

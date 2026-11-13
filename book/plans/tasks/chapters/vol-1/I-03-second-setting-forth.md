@@ -46,6 +46,11 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Characters appearing:** Marco Polo, Niccolò Polo, Maffeo Polo, Kublai (Cublay), Tedaldo Visconti / Gregory X, Clement IV (death), Baibars (Bundukdar), Friar Nicolas of Vicenza, Friar William of Tripoli, the Master of the Temple (unnamed), Cocachin (forward reference)
 - **Character check (S-05):** at Kemenfu/Chandu (1275) Cublay c. 60, Marco c. 21 (short beard), the brothers a generation older; the paiza is not Marco's yet. Cards: `plans/registry/character-cards.yaml`.
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Ayas departure: see I-04. The Genoese notarial deeds drawn up at Ayas in 1274–79 (Federico di Piazzalunga, Pietro di Bargone; via Lin 2019, `lin2019cilician`) show the port in use in exactly these years.
+- Edition of those deeds: `balletto1989laiazzo` (1989).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds

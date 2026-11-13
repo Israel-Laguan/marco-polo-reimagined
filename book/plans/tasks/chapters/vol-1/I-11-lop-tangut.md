@@ -46,6 +46,10 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** D (I-7 / I-9 / I-11) Geographic text vs Ramusio (here: the Lop cavalcade). Critique §5 also proposes an asbestos-processing diagram (no C-ID assigned) and a "singing sands" soundscape (multimedia plan E: audio becomes the printed pronunciation glossary).
 - **Characters appearing:** Marco Polo, Möngke (Mangu Kaan), Zurficar (Zu'lfikār), Kublai (passing), Chinggis (passing)
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Lop desert: no in-window image. Stein's photographs (1906–16) are terrain only. Mogao Cave 465's Yuan date is contested (`kogou2020mogao465`).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds

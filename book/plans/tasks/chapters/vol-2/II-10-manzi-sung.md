@@ -46,6 +46,10 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** B4 The Song endgame, 1268–1279 (II-10 / II-11). Critique §5 also proposes diagrams "Canal summit split at Sinjumatu" and "salt-earth leaching" for ch-10; neither has a C-ID in `multimedia-plan.md`.
 - **Characters appearing:** Bayan Chincsan ("Hundred-Eyes"), Faghfur / Facfur (Song emperor Duzong, "Tu Tsong"), the Queen (Empress Dowager Xie, "Siechi"), the child emperor Gong ("Chaohien"), Kublai (the Kaan), Litan (Li Tan), Aguil and Mongotay, Hulagu (mentioned), Marco Polo, Rustichello; traveller discussed: Odoric
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Southern Song dress dated by tomb: Huang Sheng (d. 1243, Fuzhou, excavated 1975; Fujian Museum) and Zhao Bowen (d. 1216, Huangyan, excavated 2016). Both were shown in 「打开南宋的衣橱」, China National Silk Museum, 2026 (NEW). This is press coverage; no object numbers yet. See `registry/visual-references.md` § S-23 closing intake.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds

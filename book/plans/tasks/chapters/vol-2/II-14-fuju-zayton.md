@@ -45,6 +45,10 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** C7 Zayton cost stack (10% duty plus 30–44% freight = "half the investment"); C12 seagoing junk cutaway (placed in III-1, "preview in II-14"; critique: Quanzhou ship cross-section).
 - **Characters appearing:** Marco Polo, Kublai (the Kaan); travellers and clerics discussed: Odoric, Ibn Battuta, Andrew of Perugia
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Ships: no sewn hull or lifting-rudder image dated 1250–1300 exists in any source found (S-23 closing, B1). Quanzhou hull: `green1998quanzhou`, with the 1997 report already in the register.
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
@@ -102,6 +106,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-2/ch-14-fuju-zayton.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-14.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

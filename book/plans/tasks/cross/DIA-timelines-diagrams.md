@@ -69,8 +69,8 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Do:** Xiangyang siege as a span; the last battle unnamed (F-41).
 
 ### DIA.B5 — Reception, 1298 onward
-- **Status:** piloted (S-09); extension open · **Placement:** III-11 (reused in III-10, III-B1) · **Depends:** S-09 ✓, S-20 for the post-1603 rows
-- **Do:** **Piloted in S-09** (`data/B5.yaml`, 13 events to 1903). Extend when S-20 adds facts rows for Yule 1871, Benedetto 1928, Moule–Pelliot 1938, Wood 1995, Vogel 2013; then add a second axis break.
+- **Status:** piloted (S-09); extension open · **Placement:** III-11 (reused in III-10, III-B1) · **Depends:** S-09 ✓, S-20 ✓ (qualified selection); layout and extension still open
+- **Do:** **Piloted in S-09** (`tools/media/data/B5.yaml`, 13 events to 1903). S-20 closed with a [qualified B5 selection](../../research/results/S-20-closure.md); choose later items with source rows and add an axis break if needed. The pilot now marks Fra Mauro approximately mid-15th century, dates Góis’s death separately in its note, and does not date Columbus-circle annotations. Review the rendered layout and citations before production.
 
 ### DIA.B6 — Book date vs history
 - **Status:** backlog · **Placement:** I-B1 · **Depends:** S-09 ✓, DIA.T1
@@ -150,7 +150,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Do:**
   - Write each timeline's YAML from `registry/facts.md` § Timeline data only; each event carries its row id (`F-07`) as its source.
   - Still-open dates are drawn as spans or left out, never as points: Chingkim "mid-1280s" (F-06), the fleet's sailing 1291–92 (F-15), Pipino "1310s" (F-18).
-  - B5 reception takes the print dates (F-21), the Leeu copy and postils (F-19), the Catalan Atlas 1375 with no Chipangu, and Fra Mauro 1459 (F-20); S-20 adds the later rows.
+  - B5 reception takes print dates (F-21), the Leeu printing with undated Columbus-circle postils (F-19), and the Catalan Atlas without the unsupported Chipangu claim; represent Fra Mauro’s surviving map as mid-15th century and distinguish the disputed 1459 dispatch (F-20). The [S-20 selection](../../research/results/S-20-closure.md) supplies later candidates.
   - B6 "Book date vs history" rows: Baidu and Casan 1294 vs 1295 (F-05); Bayan 1268 vs 1274 (F-29); Alaü's victory vs Hulagu's rout (F-01).
   - A date not in the sheet gets a row there first (S-06 method), then goes on the timeline.
 - **Done when:** every event in the B1–B6 YAML has a `facts.md` row id, and no still-open row is drawn as a point.

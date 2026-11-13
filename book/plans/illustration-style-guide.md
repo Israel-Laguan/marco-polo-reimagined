@@ -60,7 +60,14 @@ Front matter (`front-*`) and back matter (`back-*`) use maps and diagrams (see t
 4. **No legible script or inscriptions in the image.** Models garble Arabic, Persian, Chinese, Armenian and Latin. Leave cartouches and colophons blank, and put all text in the LaTeX caption.
 5. **No imitated signatures or seals.** Do not reproduce a named artist's seal, signature, or a specific folio composition. The goal is the *idiom*, not a copy.
 6. **Religious figures:** no depiction of the Prophet Muhammad. Buddhist and Christian sacred iconography only when the scene itself is religious (e.g. St Thomas's shrine, Sakyamuni on Seilan), never as decoration.
-7. **People:** dress, hair and arms must fit the date and region. Mongol court dress (*jisün* robes, *boqta* headdress for married noblewomen) differs from Song Chinese dress, which differs from Persian. Each scene entry in the plan carries its own accuracy notes.
+7. **People:** dress, hair and arms must fit the date and region. Mongol court dress (*jisün* robes, *boqta* headdress for married noblewomen) differs from Song Chinese dress, which differs from Persian. Each scene entry in the plan carries its own accuracy notes. Period objects to check against, and the cue lines drawn from them: `registry/visual-references.md`; reference images: `media/reference/s22/`.
+
+**Modern works as references** (S-22, adopted 2026-11-13). Manga, anime, films, games and reconstruction art may be consulted, under five rules:
+8. **Content, not style.** A modern work may inform *what* is shown (objects, dress, gear, staging). The plate is still drawn in its scene's period tradition.
+9. **Never in a prompt.** No modern title, artist or character name goes into a generation prompt, and no frame, page or still is used as an image input. The same holds for the period reference images in `media/reference/`: they are for looking at. Prompts describe the object in words, from the period source.
+10. **No character likenesses.** Recurring figures come from the S-05 cards and period portraits, never from an actor's or a drawn character's look.
+11. **Period check.** A detail taken from a work or object later than c. 1295 needs a period source of its own before it is used. A cue line built on a later object says so (`illustration-plan.md` § S-22 period cues).
+12. **Nothing is reproduced.** Frames, panels and stills stay out of the book. Only our generated plates and public-domain art appear.
 
 **Consistency across traditions.** Because the styles vary, the *frame* is the constant:
 - Every plate sits in the same LaTeX float: a thin rule border, a numbered caption (`Plate II.4`), and the tradition credit line.
@@ -119,7 +126,7 @@ Negatives that worked:
 Generate 4, pick 1. Reject the image if any **hard** line fails.
 
 1. **Hard: no script.** Zoom every cartouche, border, banner and corner. Pseudo-calligraphy and red seal stamps count as script.
-2. **Hard: period.** Check dress, headgear, architecture and ships against the scene row's "must get right" column. Common misses: Safavid turbans in an Ilkhanid scene, Ming/Qing roofs in Song scenes, crowned deity figures in Chola scenes.
+2. **Hard: period.** Check dress, headgear, architecture and ships against the scene row's "must get right" column. Common misses: Safavid turbans in an Ilkhanid scene, Ming/Qing roofs in Song scenes, crowned deity figures in Chola scenes. From S-22 (the errors modern media make are the ones generators make): late samurai armour and curved katana in 1274; the Forbidden City or a yellow-tiled Ming hall for Dadu; a bent-pole Turkic yurt for a Mongol ger; fur-and-leather "barbarian" dress on Mongol nobles; loose hair or a tiara on a Mongol court woman where the scene calls for the *boqta* or braids. Where the row names S-22 cues, check the plate against those lines.
 3. **Hard: scene.** The people and action named in `[SCENE]` are present: count them. Recurring figures match their card attributes (`tools/characters.py cue`).
 4. **Hard: rule 6.** No sacred figure used as decoration.
 5. **Idiom.** It reads as *this* tradition, not a neighbour (generic "Persian miniature" ≠ Ilkhanid).

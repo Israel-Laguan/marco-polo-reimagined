@@ -51,6 +51,11 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Timelines / diagrams / tables:** — none assigned
 - **Characters appearing:** Kublai (Cublay), Chingkim (Chinkin), Dorjé, Temür, Chinghis Khan, Nayan (mentioned), Bayan (mentioned), Marco Polo; the Kungurat (Ungrat) consorts, unnamed
 
+### Period sources (gap-source ledger, 2026-11-13)
+- Palace and Green Mount: Watt 2010 (Google Books, Met permission) has "jade wine bowl" on pp. 49, 296, 328, 332 and 338 (the Dushan dayuhai of 1265), Dadu on pp. 21, 41, 43, 52, 69, 324, 328 and 332, and Chabi's *gugu* headdress on p. 82. NPM open-data portrait leaves: Khubilai item 15489, Chabi 15495 (CC0 at 1 MP, CC BY 4.0 at 6 MP).
+- Dated court-circle anchor: the tomb of Yelü Zhu (1221–1285) and his wife, Beijing, excavated 1998. It held a stone horse on clouds and a stone dog (Watt p. 16, figs. 25–26; Capital Museum).
+- Register: `registry/visual-references.md § Gap-source ledger`.
+
 ## Gated by spikes
 - S-01 Voice standard (**this chapter is the pilot**)
 - S-02 Acceptance lint and thresholds
@@ -102,6 +107,8 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-2/ch-02-person-palace.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-02.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓

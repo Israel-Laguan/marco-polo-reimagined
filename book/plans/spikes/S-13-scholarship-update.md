@@ -112,3 +112,8 @@ Marco Polo studies, five narrow questions. For each, name the scholar, the work 
 ## Tasks to create on close
 - `III-12.T1` (update the debate), `III-11.T1` (2024 reception), `III-B1.T1` (trivia), `I-01.T4` (composition Notes)
 - **On close (2026-11-11):** no new task IDs. An "S-13 ✓" item was added to each of those four tasks, and to `III-10.T1`, `I-02.T1`, `II-05.T1`, `II-13.T4` and `III-07.T1`, which the findings also touch.
+
+
+## S-20 cross-reference (2026-11-13)
+
+S20-E34 supplies Mascherpa 2017/online 2018, pp. 62–63: his Quinsai family-notes reconstruction and competing interpolation hypothesis are interpretations, not proof of a specific physical manuscript or author. S20-E40 and F-15 identify Yang’s 1941 article through Ma and the Chinese notice through Zhang; the Chinese and Persian notices do not name the Polos. The [S-20 closure](../research/results/S-20-closure.md) supersedes any stronger claims in older notes. S-13 remains closed.

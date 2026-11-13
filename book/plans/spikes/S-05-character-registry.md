@@ -61,3 +61,7 @@ Run 2 (`CHR-people-2-intake.md`) cited real works and was checked claim by claim
 - [x] `CHR.T1` registry and `CHR.T2` first 19 cards: **done in this spike**. `CHR.T3` glossary entries (with `GLO`), `CHR.T4` contested facts to verdicts (after S-06/S-15), `CHR.T5` costume refinement (after S-22), `CHR.T6` consistency sweep and promotion to error: in `tasks/cross/CHR-characters.md`.
 - [x] **People (S-05 ✓)** step in every narrative chapter's `.T3` (37 files, with that file's bare variants and unglossed first mentions; the two reception chapters get the exemption note).
 - [x] Character fixes in the chapter backlogs' *Factual / fidelity* (II-15, III-9, III-10) and **Character check** lines in the Media hooks of I-01, I-03, II-01, II-03, II-11, II-15, III-09, for each chapter's `.T1` and `.T5` when those are written.
+
+## S-22 supplement handoff (2026-11-13)
+
+`CHR.T5` has two additional research leads in [visual references](../registry/visual-references.md#supplement-additional-sources-and-leads-2026-11-13): Met helmet 1999.158 (broad date and Mongolian-or-Tibetan attribution) and Chuluun et al.'s 2024 Balar's Khad deel reconstruction (artifact dating and methods not yet checked). Neither is a character-card dress cue until the object or article is inspected and its relevance to a specific figure and period established.

@@ -81,3 +81,8 @@ The copy-ready follow-up is `research/S-15-final-deep-research-prompt.md`: it as
 ## Final external run intake
 
 The final tool found none of the priority editions in its retrieval context; `research/results/S-15-final-intake.md` compares that limited result with sources previously seen here. During intake we located Bartoli Langeli's 2019 will edition: the original is cited as Marciana Cod. Lat. V, 58 (=2437), **no. 33**. This corrects our earlier “folio 33” wording. The uncle's will, Agnese, Bellela death-date and Famagusta questions remain open for source-level inspection.
+
+
+## S-20 cross-reference (2026-11-13)
+
+The 1319 confraternity entry is identified as the traveller by Pozza as reported independently by Bolognari and Vogel (S15-H3; S20-E43). The 1305 namesake is not an unqualified identification, and neither attestation establishes the nickname’s origin. The explanations in S20-E27/E43 are attributed and the “million lies” chronology is unverified. For the Korčula claim, Orlić studies a modern invented tradition rather than proving a medieval birthplace (S20-E19). See [S-20 closure](../research/results/S-20-closure.md); S-15 remains closed.
