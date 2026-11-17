@@ -15,6 +15,8 @@ Kept as gaps by your choice, so no prompt: S-18 archive and image-access items, 
 
 ## R-1. The S-25 works: do they say what the Notes cite them for? (task APP.T8)
 
+**Run 2026-11-17, partial:** see the [intake](results/R-1-intake.md). A rerun limited to de Rachewiltz 1997 itself, the Tao 骨朵 passage and Dutschke is still useful.
+
 ```text
 I am checking endnote citations in a commercial English retelling of Marco Polo (base text Yule–Cordier, 1903). Four works are cited; their existence and bibliographic details are already confirmed. I need to know whether each work actually supports the specific claim it is cited for. For each item, read the cited work (or the specific passage), give the locator (page, chapter or entry), a short faithful paraphrase or a quotation of no more than 25 words, and a verdict: supports / supports in part / does not support / NOT SEEN. Do not infer from the work's general reputation.
 
@@ -41,6 +43,8 @@ OUTPUT AND SOURCE RULES
 ```
 
 ## R-2. S-13 reading still outstanding
+
+**Run 2026-11-17:** see the [intake](results/R-2-intake.md). The inventory is answered; Haw 2023, Haw 2024 and the 2023 *Lingua e stile* article are still unread (abstracts only), and need a library or the author.
 
 ```text
 I am updating the scholarship section of a commercial Marco Polo retelling. Read these works in full where you can (the author's uploads, a library copy, or publisher access) and summarize their specific arguments with page locators. If you can only see an abstract, say so and stop there; do not reconstruct arguments from the abstract.

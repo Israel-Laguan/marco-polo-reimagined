@@ -128,3 +128,8 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-15 source sweep → T1/T4:** `registry/enrichment.md` S15-H1–H3. Replace the unsupported “Paduan consulting room” with a qualified setting: Bottin 2008 infers a Venice meeting c. 1300–1303; the *Conciliator* is the witness for the story, not independent proof of the sky object's identity. Bottin considers a comet and a possible Southern Cross. Bolognari 2024 compares Pipino's Maffeo deathbed testimony and Jacopo's Marco story, suggesting possible literary influence; it does not prove either event. Add the 1319 confraternity list as reported by Bolognari and distinguish person nickname from book title. Passage-by-passage access notes in `research/results/S-15-other-claims-intake.md`.
+
+## R-2 source handoff (2026-11-17)
+
+From the [R-2 intake](../../../research/results/R-2-intake.md) (12 checks, 12 hits). If III-10 or III-B1 mentions the 1324 inventory, use F-60 and cite `formentin2024sentenza` (pp. 217–221). The inventory lists two plain silver belts and a gold jewel (*bocheta*), not a "Tartar knight's belt" or a *boghta* headdress. It does list a large gold *tola de comandamento* (a paiza, its most valuable item), Tartar-work quilts, a Tartar-style garment, musk, aloe wood and rhubarb. Do not present the objects as proof that Marco travelled. Enrichment, not a correction: the current text does not mention the inventory.
+

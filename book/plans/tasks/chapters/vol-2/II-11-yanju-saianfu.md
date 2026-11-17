@@ -131,3 +131,7 @@ S17-E5: Chang reports Vogel’s possible Yangzhou office; this is not proof of g
 ## S-17 priority return (2026-11-16)
 
 [Checked intake](../../../research/results/S-17-priority-return-2026-11-16-intake.md): Vogel's authorized Chinese-translation excerpt reports Peng Hai's audit-commissioner and Zhu Jiang's darughachi proposals as inferences and judges high office credible, while noting Peng's link to the *Yuan shi* cannot be fully proved. Peng's and Zhu's publications were not read. Keep Vogel's position distinct from a documented appointment or a universal claim about all Chinese sources. Check the excerpt's conflicting Zhiyuan 20 / 1280 date against the English and a dated source before use. Mar Sargis is identified as vice-darughachi in the relevant excerpt; verify any stronger title claim.
+
+## R-1 source handoff (2026-11-17)
+
+From the [R-1 intake](../../../research/results/R-1-intake.md) (12 checks, 11 hits). Note [5] holds. Optional: credit the *séjourna* reading to Yang Zhijiu, as Wood does (ch. 15), and add her caveat that a foreign sojourner would still likely appear in the Yangzhou gazetteers. Inputs to `.T4`, not completed edits.

@@ -120,3 +120,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H11 (Lop voices: reported), H14 (rhubarb, asbestos at commodity level; L7).
+
+## R-1 source handoff (2026-11-17)
+
+From the [R-1 intake](../../../research/results/R-1-intake.md) (12 checks, 11 hits). Note [17]: if expanded, state Wood's Great Wall position accurately: the 13th-century form is uncertain and the brick-facing later, but earthen walls survived and would have been visible (ch. 11). Keep the de Rachewiltz reply attributed only in general terms until his article is read. Inputs to `.T4`, not completed edits.

@@ -74,3 +74,5 @@ S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs
 - **Status:** ready · **Depends:** S-25 ✓ · **Origin:** spike audit 2026-11-17
 - **Do:** S-25 confirmed that the four works exist; it did not check what they say. For each of the 12 Notes that cite `derachewiltz1997marco` (6), `tao1959nancun` (3), `dutschke1993francesco` (2) and `atwood2004encyclopedia` (1), read the passage behind the claim. Then add a locator, correct the claim, or drop the citation, and log each outcome as `registry/locators.md` does.
 - **Done when:** every one of the 12 has a recorded outcome, and there are no unread `pending` rows.
+- **Progress 2026-11-17 ([R-1 intake](../../research/results/R-1-intake.md)):** Atwood supports the I-13 citation, for Shangdu only. Tao's Palm Hall is consistent with I-13 Note [4] (Dadu, not Shangdu). Wood's own positions are checked (F-59), but de Rachewiltz 1997 itself, the Tao 骨朵 passage (II-03 [5]) and Dutschke (I-01 [15], III-12 [4]) are still unread. **Status:** in progress.
+
