@@ -108,3 +108,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 39 errors · 3 warnings — failing: archaism, asides, budgets, first_person, markers, scaffolding, tags, verbatim, you_must_know; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-04-necuveran-seilan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H3, H4 (dog-heads: reported motif, Laufer attributed, S21-E14), H10 (Socotra cross-references).

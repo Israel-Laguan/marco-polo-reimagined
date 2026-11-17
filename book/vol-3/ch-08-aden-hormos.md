@@ -24,7 +24,7 @@ A great deal of white incense grows in this country, and brings in a great reven
 
 And he must tell another very strange thing. Their sheep have no ears, but where the ear ought to be they have a little horn — pretty little beasts. And all their cattle, including horses, oxen, and camels, live upon small fish and nought besides, for ’tis all they get to eat. In all this country there is no grass or forage of any kind; it is the driest country on the face of the earth. The fish given to the cattle are very small, and during March, April, and May are caught in such quantities as would astonish you. They are then dried and stored, and the beasts are fed on them from year’s end to year’s end. The cattle will also readily eat these fish all alive and just out of the water. The people likewise have many other kinds of large fish, exceedingly cheap; these they cut in pieces of about a pound each, dry in the sun, and store and eat all the year through, like so much biscuit. [9]
 
-— The frankincense monopoly and the fish-fed cattle are among the stronger ethnographic hits of the Arabian chapters. Sheḥr–Dhafār hills are the true ancient source of white *lubān*, with Somali *peratic* supply beside; Ichthyophagi report runs continuous from Mekran to the Gulf in Edrisi, Sidi ʿAli, and Ibn Baṭṭūṭa at Dhafār. The “earless” sheep are likely a small-eared or multi-horn breed misread. [10] Soft rise now: five hundred miles further along the same coast, to Dufar, where the tree itself is shown.
+— The frankincense monopoly and the fish-fed cattle are among the stronger ethnographic hits of the Arabian chapters. Sheḥr–Dhafār hills are the true ancient source of white *lubān*, with Somali *peratic* supply beside; Ichthyophagi report runs continuous from Mekran to the Gulf in Edrisi, Sidi ʿAli, and Ibn Baṭṭūṭa at Dhafār. The “earless” sheep are likely a small-eared or multi-horn breed misread. [10] five hundred miles further along the same coast, to Dufar, where the tree itself is shown.
 
 Dufar (Dhafār / Dhofar), according to the book, is a great and noble and fine city, some five hundred miles to the north-west of Esher. The people are Saracens and have a Count for their chief, subject to the Soldan of Aden; for this city still belongs to the Province of Aden. It stands upon the sea and has a very good haven, so that there is a great traffic of shipping between this and India; and the merchants take hence great numbers of Arab horses to that market. [11]
 
@@ -54,7 +54,7 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 ## Notes
 
-[1] ✓ Aden as major Indian Ocean–Red Sea entrepôt (Ibn Baṭṭūṭa; Makrizi; long Islamic–China and India trade). Saracen; hatred of Christians; many towns. Gazetteer: *reported_only*. As cited in Yule: Ibn Baṭṭūṭa, Makrizi [@yc, 3.36].
+[1] ✓ Aden as major Indian Ocean–Red Sea entrepôt (Ibn Baṭṭūṭa; Makrizi; long Islamic–China and India trade). Saracen; hatred of Christians; many towns. Reported only. As cited in Yule: Ibn Baṭṭūṭa, Makrizi [@yc, 3.36].
 
 [2] ✓ / ~ Spice path Aden → small craft → camel → Nile → Alexandria. ✓ overall corridor; ~ exact 7-day / 30-day stages and landing (Suakin / ʿAidhāb / Kosseir variants). Marino Sanudo’s Aden–Nile transit useful comparison.
 
@@ -94,6 +94,6 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [20] ✓ / ~ Kis (Kish) ~500 miles W–NW of Calatu — ✓ island entrepôt real; ~ bearing/distance sketchy. Brief omit-repair; no more said (cf. Book I).
 
-[21] ✗ / ~ Bearings Aden→Hormos cascade as geography — ✗ as survey; ~ as schematic coast-sequence. Distances inconsistent ★. Soft hinge out of the Indian Ocean toward the Cocachin return in this Volume’s arc.
+[21] ✗ / ~ Bearings Aden→Hormos cascade as geography — ✗ as survey; ~ as schematic coast-sequence. Distances inconsistent ★.
 
 **Comparative:** Yule–Cordier III.xxxvi–xl; Ibn Baṭṭūṭa (Aden, Dhafār, Qalhāt, Hormuz); Barbosa; Marino Sanudo (Aden–Nile transit); Makrizi; Joinville on Acre; Arabian incense-route archaeology / Birdwood on *Boswellia*; Yule on Kalhát; chronicles of Acre’s fall; Della Valle / Figueroa / Fryer on wind-catchers.

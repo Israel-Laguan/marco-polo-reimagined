@@ -2,6 +2,8 @@
 
 **File:** `vol-1/ch-12-caracoron-tenduc.md` · **Status:** backlog · **Kind:** narrative
 
+**U-1A (2026-11-17):** the funeral passage and Notes 12–13 now attribute Yule's report instead of treating Rashid as direct confirmation; Möngke's 20,000 and the sacrifices' timing remain open. Preserve these limits in re-voice; see the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md).
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,037 | 16% | — (n/a in Vol. I) | ok; [3] and [13] duplicates | no (S-07: stays one chapter) |
@@ -131,3 +133,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T1 / T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E5 and S-16 closeout: Great Hall as temple, hypothetical palace, disputed Tenduc. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## U-3 source handoff (2026-11-17)
+
+From the [U-3 intake](../../../research/results/U-3-intake.md) (10 checks, 10 hits). F-56. **Applied 2026-11-17** (body l. 39 and Note [15]). Was: body l. 39 "Natigay—Etügen—" stated a disputed identification as fact. Soften to "Natigay (often linked with the earth goddess Etügen)". Note [15]: cite `[@pelliot1959notes, vol. 2, "Natigai"]` for the Etügen/Itoga link and `ragagnin2017natigay` for Mostaert's *Načigai* (1312). These are inputs to the chapter's `.T1`/`.T4`/`.T3` work, not completed edits.

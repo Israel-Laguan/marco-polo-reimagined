@@ -32,9 +32,9 @@ Volume III ends the travel and opens the echo. Trivia here covers the ocean book
 
 **Cocachin / Kökechin embassy.** That a Yuan princess travelled by sea toward an Ilkhanid marriage in this generation is grounded in cross-tradition historical discussion. Exact onomastics, passenger lists, and how neatly Polo’s role matches Persian notices remain scholarly matching work. High escort mortality is book tradition. Treat the political frame as strong and the novelistic detail as tradition. [3]
 
-**Personal landings vs periplus report.** Chamba and Sumatran wintering lean visited; Great Java interior, many Arabian and African coasts, dog-headed Andaman ethnography lean reported or legendary. Chapter tags and the gazetteer are the guide. [4]
+**Personal landings vs periplus report.** Chamba and Sumatran wintering lean visited; Great Java interior, many Arabian and African coasts, dog-headed Andaman ethnography lean reported or legendary. Chapter tags and Notes are the guide. [4]
 
-**Columbus and the westward misreading.** Columbus used Polo (and Toscanelli’s geography) inside a smaller-earth theory that could make Chipangu seem reachable by sailing west. That is reception history: Polo did not tell him to find the Caribbean. Pointer: chapter III-11. [5]
+**Columbus and the westward misreading.** Columbus’s smaller-earth theory could make Chipangu seem reachable by sailing west; whether Polo’s Book directly shaped that project is disputed. That is reception history: Polo did not tell him to find the Caribbean. Pointer: chapter III-11. [5]
 
 **Frances Wood and the “never went to China” debate.** Wood’s sceptical popular argument leans on silences (Great Wall, tea, footbinding, Chinese script, etc.) and on the possibility of second-hand compilation. Responses by Haw, Larner, de Rachewiltz, Vogel, and others defend a core of autopsy mixed with report, manuscript complexity, and genre expectations. This series’ closing essay (III-12) is the full method statement; here only the pointer belongs. [6]
 
@@ -58,9 +58,9 @@ If you want the long form, read III-11 and III-12. If you want the pocket form, 
 
 [3] ✓ / ~ Ilkhanid marriage embassy by sea; ~ Polo’s exact role and passenger mortality details.
 
-[4] Gazetteer volume=3 reliability tags; chapter [V]/[R]/[M].
+[4] Chapter tags [V]/[R]/[M] and the chapter Notes mark what is visited, reported or mixed.
 
-[5] ✓ Columbus’s annotated Polo and westward project — standard reception history (Larner [-@larner1999marco]; III-11).
+[5] ✓ / ? Columbus’s annotated Polo — ✓ his annotated Latin copy survives (III-11). ? Its part in the westward project: the usual view dates most postils before 1492, but Larner [-@larner1999marco, ch. 9] argues that this copy probably reached Columbus only around 1497–98, that some postils postdate the Second Voyage, and that the first-voyage *Diario* gives no decisive sign he had read Polo.
 
 [6] ? Wood [-@wood1995did, conclusion] (1995) vs answering literature — see III-12 for series method; no fabricated page cites here.
 

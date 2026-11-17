@@ -8,18 +8,18 @@ State of the field for the reliability essay (III-12) and the reception chapters
 
 | III-12 list | Question | Status | In one line |
 |---|---|---|---|
-| 1 | Stemma; a recoverable original | **moved** | Not one original but a Genoa text of 1298 and a Venetian rewriting in stages; no agreed stemma yet |
+| 1 | Stemma; a recoverable original | **moved** | A Genoa text of 1298; successive Venetian rewriting is one reconstruction, and the stemma remains disputed |
 | 2 | Polo's "four" languages | **moved** (now disputed) | Persian only (Luo, after Yang and Cai); not even Persian proven (Haw); some Chinese (Atwood) |
 | 3 | Hormuz outbound | **unchanged** | Nothing new found |
 | 4 | Yanju: what office | **unchanged** | No record; the debate has moved to Polo's status: merchant-partner, guardsman or official |
 | 5 | Ahmad and the "Polo" of the Chinese record | **moved** (settled) | Bolod, not Marco; and Ramusio's Cenchu and Vanchu are the titles *qianhu* and *wanhu* |
 | 6 | Yunnan and the south-west: seen or heard | **unchanged** | New Chinese studies exist; not read |
 | 7 | Champa on the return | **unchanged** | Nothing new found |
-| 8 | Madagascar or Mogadishu | **moved** | Mogadishu; *Madeigascar* is a copying error that only Z escapes |
-| 9 | Book IV's source | **moved** a little | One Golden Horde passage is datable to after 1298, so it entered in Venice |
-| 10 | Ramusio-only passages | **moved** | Mostly from a lost, fuller Z; part of the school reads them as Polo's own additions |
+| 8 | Madagascar or Mogadishu | **moved** | Andreose argues for Mogadishu and a textual corruption; V also has an intermediate form |
+| 9 | Book IV's source | **moved** a little | A late-dated passage invites a later textual layer; the circumstances of its addition remain a reconstruction |
+| 10 | Ramusio-only passages | **moved** | A fuller Z-related source is a scholarly reconstruction; the status of additions is disputed |
 | 11 | Kinsay figures | **moved** a little | Chinese counts are now set beside the Book's (347 bridges against 12,000) |
-| 12 | Readership before print | **moved** | A full study exists (Gadrat-Ouerfelli 2015); not read |
+| 12 | Readership before print | **moved** | Gadrat-Ouerfelli 2024 has now been read; her 2015 monograph remains unread |
 | — | Date of departure | **unchanged** | End of 1290 or first days of 1291 (Yang Zhijiu); no one found arguing 1292 |
 | — | The silences | **unchanged** | Answered in detail by Huang Shijian; the doubt itself is traced back to 1747 |
 | new | What was Polo in China? | **new** | Three positions, none with a document |
@@ -88,7 +88,7 @@ Nothing new was found, by the main run or the follow-up. What the base text give
 
 ## Q8. Madagascar or Mogadishu — moved
 
-Andreose (`andreose2024textual`, read): the chapter "does not indicate the modern Madagascar … but the peninsula of Mogadishu". *Madeigascar* is an error shared by F and most versions; F's own chapter index keeps *Mogclasio*, a slip for *Mogdasio*; Z alone escapes it. He builds on Grandidier (1892) and Pelliot. **For the book:** III-07's Note can state this as the philologists' reading, with the nice consequence that the island took its name from a scribe's mistake. Check the wording against Pelliot before print.
+Andreose (`andreose2024textual`, pp. 76–77, reread 2026-11-17) argues that the passage refers to Mogadishu and that *Madeigascar* is a corruption; Z reads *Mogdaxo* and V has the intermediate *Madaschor*. F's chapter index has *Mogclasio*, which he interprets as a misreading of *Mogdasio*. He also asserts a connection with the later island name. **For the book:** attribute these as Andreose's textual and historical reconstruction; the witnesses and Pelliot were not independently checked in this pass. Avoid saying simply that Z is the sole variant or treating the naming history as independently demonstrated.
 
 ## Q9. Where Book IV came from — moved a little
 
@@ -103,11 +103,11 @@ Mascherpa (`mascherpa2024quinsai`, read) argues that Ramusio used Z, P, VB, L an
 
 ## Q11. The Kinsay figures — moved a little
 
-Mascherpa (`mascherpa2024quinsai`, read) sets Chinese counts beside the Book's: 347 bridges, not 12,000; a circuit of 35 *li*, about 20 miles, not 100; West Lake 6 miles round, not 30. His three explanations: sources misread, copying, or deliberate praise in the manner of a city eulogy. He takes the Book's Chinese "writing" to be the Song empress's dispatch of 1276. Wang Yidan (2019) tests the bridges against Persian texts (via Ma). **For the book:** II-13 may print the pairs as Mascherpa's. His own source for the Chinese counts was not seen, so they are one source, not two (trust rule for numbers).
+Mascherpa (`mascherpa2024quinsai`, p. 138, reread 2026-11-16) sets these counts beside the Book's: 347 bridges, not 12,000; a circuit of 35 *li*, about 20 miles, not 100; West Lake 6 miles round, not 30. His three explanations: sources misread, copying, or deliberate praise in the manner of a city eulogy. He takes the Book's Chinese "writing" to be the Song empress's dispatch of 1276. Wang Yidan (2019) tests the bridges against Persian texts (via Ma). **For the book:** attribute these figures to Mascherpa; the original Chinese sources, dates and boundaries remain unverified. Pochmalicki separately reports Moule's 347 as including 117 in the city and 230 in the environs, but Moule was not read for that claim. The 2026 return checked a different 2017 Mascherpa article and does not refute the 2024 attribution; see [intake](../research/results/S-17-priority-return-2026-11-16-intake.md).
 
 ## Q12. Readership before print — moved
 
-`gadrat2015lire` is the standard study; `gadrat2024read` restates it in English; `gadrat2022dominicans` and `conte2020consolationem` cover the Dominican readers. None was read. **For the book:** III-11 should cite Gadrat-Ouerfelli beside Larner once the 2024 chapter (open access) is read.
+`gadrat2024read` was read in the indexed open-access PDF on 2026-11-17, pp. 201–211 (argument) and 212–214 (references); underlying inventories and manuscripts were not independently inspected. Gadrat-Ouerfelli identifies manuscript ownership among merchants and diverse courtly, clerical and scholarly audiences, but stresses that ownership does not establish reading or motive. In her assessment the surviving merchant evidence does not demonstrate commercial use (pp. 205, 208–209). She also describes the Book's use in maps, histories and religious works (pp. 209–211). Her `gadrat2015lire` monograph and the works `gadrat2022dominicans` and `conte2020consolationem` remain unread in this pass. **For the book:** cite the 2024 chapter for the qualified reception picture, without claiming that every medieval reader believed Polo or that merchants used the work as a practical guide. See the [source check](../research/results/S-13-open-access-source-check-2026-11-17.md).
 
 ## The date of departure — unchanged
 
@@ -146,8 +146,8 @@ Huang Shijian answered each: tea (1993, 1994), the Great Wall (with Gong Yingyan
 
 ## Still to read before the chapters are rewritten
 
-1. `haw2023departure` and `haw2024anachronisms` (both *ZDMG*, paywalled). Three tools could not open either.
-2. `gadrat2026marco` and `gadrat2024read` directly (both open access).
+1. `haw2023departure` and `haw2024anachronisms` (both *ZDMG*, paywalled). Three tools could not open either. **2026-11-17:** both publisher abstracts read ([note](../research/results/kept-gaps-indirect-routes-2026-11-17.md)). The 2024 paper treats the *Boluo*-is-Polo hypothesis and the Great Wall expectation as anachronisms and re-examines the Yangzhou "governor" question; the 2023 paper dates the envoys' arrival and departure and rejects Java = Borneo. The full texts are on Haw's Academia.edu (login required) and are still unread.
+2. `gadrat2026marco` directly: open access in principle, but the publisher's automated-access challenge blocked this attempt; only its summary is available. `gadrat2024read` was read as indexed PDF text on 2026-11-17, with the qualification above.
 3. `cleaves1976chinese`, for the source of the 1290 notice and the departure date.
 4. `formentin2023inventario`, for the belt and the *bocheta*.
 5. The rest of `andreose2024textual` (the single-redaction camp's names).

@@ -61,7 +61,7 @@ OUTPUT FORMAT (required). (1) A table of works with columns: # · title (origina
 ## Output (definition of done)
 - [x] `research/results/S-22-raw.md` saved (2026-11-13, run in this repo)
 - [x] `registry/visual-references.md` (by region and chapter; by work), with existence and source checks recorded (2026-11-13; many rows still `lead`)
-- [x] `[PERIOD]` cue lines drafted for the hero scenes, worded from the period sources (partly: eight draft cues for 13 plates in `registry/visual-references.md`, 2026-11-13; copied into `illustration-plan.md` § S-22 period cues and tagged on 10 hero rows; no cue for armour, Dadu, Song cities, Venice, Southeast Asia or India)
+- [ ] `[PERIOD]` cue lines drafted for all hero scenes from checked period sources. The initial handoff was partial: eight draft cues for 13 plates, copied and tagged on 10 hero rows; subsequent S-23 work adds more, with significant gaps still open. See the S-23 gap ledger.
 - [x] Costume entries handed to S-05 (`CHR.T5` set to ready with cues C1–C4, 2026-11-13; Venetian dress and armour still missing)
 - [x] Use rules adopted into the style guide as rules 8–12 (2026-11-13), with one addition: the period reference images are also never image inputs
 
@@ -91,96 +91,18 @@ Gaps left by the 2026-11-13 intake:
 
 **Cues (later, 2026-11-13):** four objects were viewed and eight draft cue lines written into the registry. Viewing settled one open check: Met 1992.54 does show the boqta clearly.
 
-**Not done:** cues for the uncovered regions and for armour, costume rows for S-05 / `CHR.T5`, adoption of the use rules. The spike stays open.
+**At this interim stage:** cues for the uncovered regions and armour, costume rows for S-05 / `CHR.T5`, and adoption of the use rules were not done. Later work and the best-effort close are recorded below.
 
 
 ## Supplement intake (2026-11-13)
 
 The supplied extra research is preserved unchanged as [S-22-supplement-raw.md](../research/results/S-22-supplement-raw.md). It largely overlaps the first run, adds a few useful object and reconstruction leads, and does **not** resolve the follow-up gaps on its own. This is a targeted check, not an audit of the report's 37-work survey or its bibliography; its accuracy ratings and specific claims should not be inherited without checking their evidence. The spike remains closed best effort and the existing follow-up prompt remains applicable.
 
-## NEW: Comprehensive Period Visual Sources Intake (2026-11-13)
+## Failed period-source follow-up and subsequent leads
 
-**Correction (2026-11-13, S-23 intake):** this section was written before the file was checked. It failed intake: 2 of 16 records held as stated, no image was viewed, and several of the "key objects" below do not exist under the numbers given. Nothing listed here as resolved is resolved. See [S-22-followup-intake](../research/results/S-22-followup-intake.md) and [S-23](S-23-media-scouting.md) § Gaps and follow-ups.
+The supplied follow-up is preserved in [the raw report](../research/results/S-22-followup-raw.md). Its [intake](../research/results/S-22-followup-intake.md) checked 16 deliberately selected records: only 2 held as stated, and no image was viewed. Its claimed 81 sources, resolved gaps, confirmed records and resulting C9–C22 cue text are not reliable. The intake documents the errors and retains eight leads for independent checking. The stricter subsequent work and remaining gaps are in [S-23](S-23-media-scouting.md); do not infer that an unlocated source does not exist.
 
-~~**Status:** NEW SUPPLEMENT - Directly addresses multiple S-22 gaps with verified museum objects, accession numbers, and URLs.~~
-
-This supplement integrates a comprehensive catalog of period visual sources organized by thematic group, providing direct museum object references with accession numbers, holding institutions, dates, and URLs. These sources directly address the gaps identified in S-22 and provide actionable leads for plate development.
-
-### Summary of Coverage
-
-The new intake provides **81 period sources** across 8 thematic groups, with the following highlights:
-
-**Fully Resolved Gaps:**
-- ✅ Mongol-Yuan arms and armour (10 sources including lamellar coats, helmets, shields, weapons)
-- ✅ Ger structure and transportation (7 sources including ceramic models, manuscript illuminations, textual descriptions)
-- ✅ Yuan Dadu and Shangdu architecture (9 sources including excavated foundations, roof tiles, surviving buildings)
-- ✅ Urban/rural life in Southern Song and Yuan China (9 sources including excavated garments, genre paintings, tomb murals)
-- ✅ Maritime technology (8 sources including Quanzhou shipwreck, Indian Ocean vessels, Venetian ships)
-- ✅ Crusader Levant and Western Mediterranean (8 sources including Acre spolia, Venetian mosaics, Genoese tombstones)
-- ✅ Southeast Asia and Indian Ocean Rim (9 sources including temple reliefs, bronze sculptures, carved stones)
-- ✅ Ilkhanate Persianate World (8 sources including manuscript illuminations, architectural remains)
-
-**Key Museum Objects with Accession Numbers:**
-- Met 1978.412.56 (Mongol War Mask)
-- Royal Armouries XXVIC.82 (Mace)
-- Princeton 1977.58 (Clay model of Mongolian tent)
-- Diez Album A, fol. 71 (Staatsbibliothek zu Berlin)
-- Ashmolean TM1915.15 (Tangut-style bowl)
-- BnF Ms. Or. 20 f. 120r (Rashid al-Din miniature)
-- Quanzhou Maritime Museum (Houzhou/Quanzhou Shipwreck)
-- Cleveland Museum of Art 1989.50, 1996.297, 1990.2, 1993.140 (Cloths of gold)
-- Freer Gallery F1954.21 (Silk weaving handscroll)
-- Met 1992.54 (Vajrabhairava mandala with donor portraits)
-
-**Direct Addresses to S-22 Gaps:**
-
-1. **Dadu and Shangdu interiors:** Excavated glazed roof tiles with dragon motifs (Shangdu site); White Pagoda Temple (1272-1288, Anige); Relief carvings at Juyong Pass (1345) symbolizing dual capitals
-2. **Hangzhou and Quanzhou streets:** Excavated garments from Huang Sheng tomb; "Tilling Rice" handscroll; Carved stones of foreign communities in Quanzhou
-3. **Venetian galleys and dress:** Mosaics in Cappella Zen, San Marco (1270s); Quadriga mosaic (1253-1268); Enamel panel from Pala d'Oro
-4. **Ger on a cart:** Wen-chi scrolls showing yurt on wagon (1127-1161); Ceramic models from Met and Princeton; Textual description from William of Rubruck
-5. **Mongol saddle and stirrup:** Multiple sources in the catalog reference military equipment; specific objects need viewing confirmation
-6. **Boqta object:** Met 1992.54 shows tall red boqta in donor portraits (already viewed and confirmed in C2)
-7. **Sewn-hull image:** BnF Arabe 5847, fol. uncertain - shows Indian Ocean vessel; Maqamat al-Hariri manuscript (1237) shows sewn-plank boat
-8. **Java and Sumatra c. 1290:** Temple reliefs from Penataran, East Java; Cham tower sculptures at Mỹ Sơn Sanctuary
-9. **Pandya coast and pearl fishery:** Chola bronze goddess Parvati (Colombo National Museum); Hero stones from Tamil Nadu; Tamil and Hindu carved stones from Quanzhou
-
-### Integration Status
-
-**Immediate Actions:**
-- [ ] Add all 81 sources to `registry/visual-references.md` "By region and chapter" table
-- [ ] Update "By work" table with any new modern works referenced
-- [ ] Draft additional `[PERIOD]` cues for gaps now resolved
-- [ ] Update `illustration-plan.md` with new cues where applicable
-- [ ] Verify accession numbers and URLs against museum records
-
-**Priority Order:**
-1. Dadu/Shangdu interiors (high priority for II-01–II-05)
-2. Hangzhou/Quanzhou streets (high priority for II-10–II-14)
-3. Venetian galleys (high priority for I-01, I-02, III-10)
-4. Ger-cart (medium priority for I-12, I-13)
-5. Southeast Asia and Indian Ocean (medium priority for III-02–III-07)
-
-### Verification Notes
-
-**Confirmed Records:** All museum accession numbers and URLs in the new intake appear to reference real objects based on the provided links to major institutions (Met, BnF, Royal Armouries, Princeton, Cleveland, etc.). However, per S-22 protocol, each should be verified against the holding institution's database before use in final cues.
-
-**Image Viewing Required:** While records are confirmed, images need to be viewed to draft accurate `[PERIOD]` cues. The following are priorities:
-- Quanzhou shipwreck hull details
-- Shangdu excavated roof tiles with dragon motifs
-- Cleveland cloths of gold patterns
-- BnF Maqamat al-Hariri sewn-plank boat illustration
-- Met Mongol war mask details
-
-**Style Consistency:** The new sources maintain the existing S-22 pattern of linking to museum records and providing accession numbers where available. All sources are from the 1260–1295 period or are stylistically consistent comparanda with appropriate caveats.
-
-### Next Steps
-
-1. **Merge into registry:** Add all new sources to `registry/visual-references.md` with appropriate status markers
-2. **Draft cues:** Create `[PERIOD]` cues for the 15 visual problems listed in S-22 Part 3
-3. **Update illustration-plan:** Tag hero rows with new cues
-4. **Resolve remaining gaps:** Identify any still-unresolved problems after integration
-
-**Estimated Time:** 2–3 hours for full integration and cue drafting.
+The following later supplement leads were checked separately at the stated level; they are not new approved cues.
 
 | Lead | Check and use | Remaining work |
 |---|---|---|
@@ -199,7 +121,7 @@ The new intake provides **81 period sources** across 8 thematic groups, with the
 2026-11-13. **Closed, best effort.**
 
 1. **Modern works are viewing aids only.** The five use rules are adopted as style-guide rules 8–12. The by-work list in `registry/visual-references.md` says what to look at and what to ignore in each.
-2. **Cues come from period objects that someone has looked at.** Eight cue lines (C1–C8) are in `illustration-plan.md`, tagged on ten hero rows. A cue from an object later than 1295 is marked as such.
+2. **Cues are based on period objects or identified museum descriptions.** C1–C7 were viewed; C8 is based on a museum description and its object was not viewed. Eight cue lines (C1–C8) are in `illustration-plan.md`, tagged on ten hero rows. A cue from an object later than 1295 is marked as such.
 3. **The seed works' value was their trail.** *Jaadugar* leads to Rubruck and Carpini, which the book already cites; *A Bride's Story* is kept for processes only (felt, bread, handling an eagle).
 4. **Reference images are kept in `media/reference/s22/`** (13 files, with a manifest of source and stated licence). They are for looking at, not for print and not for generator input.
 5. **What this spike did not deliver** goes to the follow-up prompt, not to guesswork: armour; the ger-cart; Dadu and Shangdu; South China streets; ships beyond one Gulf ship; Venice; Southeast Asia; South India. Plates for those scenes keep their existing "must get right" notes until the follow-up is taken in.
@@ -210,3 +132,5 @@ The new intake provides **81 period sources** across 8 thematic groups, with the
 - `PLT.T*` cue updates per hero plate; `CHR.T*` costume rows; review-checklist items
 
 **Created 2026-11-13:** no new task numbers were needed. Cue use is now part of step 1 of every `PLT` GEN task; `CHR.T5` already existed and is set to ready; the review-checklist items went straight into the style guide.
+
+**Priority visual return, 2026-11-16:** [Intake](../research/results/S-22-priority-return-2026-11-16-intake.md) sampled ten cited claims: **8/10** held at the stated access level; two overstated or misstated their source. The protocol's strict-rerun threshold is not triggered. The return is not a replacement for prior project image viewing or Takashima/Quanzhou report checks. New official NPM catalog/rights data, the Deji Gate record, and qualified Ayas/Kota Cina leads are in the visual register. The spike's best-effort closure remains; [optional targeted research](../research/S-22-visual-priority-targeted-follow-up-2026-11-16.md) addresses open gaps.

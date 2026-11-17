@@ -6,11 +6,11 @@
 
 This directory holds drafted chapters of Volume III (ships of Manzi; Chipangu; the southern Ocean road through Champa, Java, and Sumatra; Nicobars–Andamans–Seilan; Maabar and western India; the wonder-coasts of Male/Female, Scotra, Madeigascar, Zanghibar, Abash, and Aden; Arabian ports; the Cocachin return; Venice reception; afterlives of the Book; closing reliability essay).
 
-**Status:** Volume III draft chapters **complete** — Chapters III-1 through III-12 all drafted here. Storyteller-voice rewrite complete for the volume (see `/workspace/marco-polo/VOICE-GUIDE.md` and series status). **Front/back matter added** (Indian Ocean context, seas/return maps, trivia and afterlives).
+**Status:** Volume III draft chapters **complete** — Chapters III-1 through III-12 all drafted here. Storyteller-voice rewrite complete for the volume (see `../VOICE-GUIDE.md` and series status). **Front/back matter added** (Indian Ocean context, seas/return maps, trivia and afterlives).
 
 ## Drafting conventions
 
-- **Voice (mandatory for rewrites):** Storyteller recounting what Marco Polo / *Il Milione* narrates — oral, clear, intelligent, publishable English that sounds spoken. Typical hinges: “Marco Polo starts by narrating…,” “He says that…,” “According to the book…,” “Next he mentions…,” “Then Polo describes….” Not high-literary third-person epic; not slangy; not help-desk; not archaic pastiche. III-12 (closing essay) may be more expository than travel chapters while keeping the same elevated register. Full rules: **`/workspace/marco-polo/VOICE-GUIDE.md`**.
+- **Voice (mandatory for rewrites):** Storyteller recounting what Marco Polo / *Il Milione* narrates — oral, clear, intelligent, publishable English that sounds spoken. Typical hinges: “Marco Polo starts by narrating…,” “He says that…,” “According to the book…,” “Next he mentions…,” “Then Polo describes….” Not high-literary third-person epic; not slangy; not help-desk; not archaic pastiche. III-12 (closing essay) may be more expository than travel chapters while keeping the same elevated register. Full rules: **`../VOICE-GUIDE.md`**.
 - **Inline dispute notes:** When something is contested, inaccurate, second-hand, or exaggerated, interrupt briefly in the flow (“…as he narrates [3] — though this is disputed… — anyway, next he mentions…”), then resume. Keep asides short; don’t kill momentum.
 - **Citations + Notes:** Numbered citations in the narrative ([1], [2], …). After the narrative, a single **## Notes** section listing each number with brief explanation (source / why disputed / comparative witness). This **replaces** the old “Source notes” + “Reliability” split. Markers ✓ ~ ✗ ◇ ? may still appear inside Notes entries.
 - **Naming:** Medieval / book form first; modern equivalent in parentheses on first mention in a chapter (e.g. Chipangu (Japan)). Prefer gazetteer book names thereafter.
@@ -30,7 +30,7 @@ This directory holds drafted chapters of Volume III (ships of Manzi; Chipangu; t
 | *(chapters III-1–III-12 below)* | Narrative, reception, closing essay |
 | `back-01-trivia-and-afterlives.md` | Trivia + Chipangu gold / Cocachin / Columbus / Wood debate pointers |
 
-Series index: `/workspace/marco-polo/FRONT-BACK-MATTER.md`. Media credits: `/workspace/marco-polo/media/ATTRIBUTIONS.md`.
+Series index: `../FRONT-BACK-MATTER.md`. Media credits: `../media/ATTRIBUTIONS.md`.
 
 ## Chapters
 
@@ -49,4 +49,4 @@ Series index: `/workspace/marco-polo/FRONT-BACK-MATTER.md`. Media credits: `/wor
 | `ch-11-afterlives.md` | III-11 — *Afterlives: Maps, Columbus, and the Making of a Witness* **[reception / historiography]** | Storyteller + ## Notes |
 | `ch-12-reliability-essay.md` | III-12 — *Closing Essay: Reliability, Silence, and the Art of the Book* **[closing essay / method]** | Storyteller + ## Notes |
 
-Volume III chapter drafts follow the working outline in `/workspace/marco-polo/outline-volumes.md` from Book III (ships and Chipangu onward) through return, reception, and the reliability essay. Front/back companions slot before III-1 and after III-12.
+Volume III chapter drafts follow the working outline in `../outline-volumes.md` from Book III (ships and Chipangu onward) through return, reception, and the reliability essay. Front/back companions slot before III-1 and after III-12.

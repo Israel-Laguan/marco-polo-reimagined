@@ -24,7 +24,7 @@ You must know that the Kaan keeps an immense stud of white horses and mares—mo
 
 During the three months of every year that the Lord resides at that place, if it should happen to be bad weather, there are certain crafty enchanters and astrologers in his train, adepts in necromancy and the arts that Latins call diabolic, who are able—so the book insists—to prevent any cloud or storm from passing over the spot on which the Emperor’s Palace stands. The sorcerers who do this are called Tebet and Kesimur—Tibet and Kashmir—which are the names of two nations of Idolaters. Whatever they do in this way is by the help of the Devil, says the book’s Christian voice; but they make those people believe that it is compassed by dint of their own sanctity and the help of God. They always go, the text adds with Latin distaste, in a state of dirt and uncleanness, unwashed, unkempt, and sordidly attired. [9]
 
-— Weather magic is a cultural fact among Mongols and Inner Asians—jade *yada* stones, shamanic rain-making, European medieval parallels alike. Whether these court workers truly kept storms off the palace, or whether Latin diabolism is simply the frame for a performance the court valued, remains open. Narrate the marvel; weigh the frame. [10] Anyway, next he mentions a darker custom.
+— Weather magic is a cultural fact among Mongols and Inner Asians—jade *yada* stones, shamanic rain-making, European medieval parallels alike. Whether these court workers truly kept storms off the palace, or whether Latin diabolism is simply the frame for a performance the court valued, remains open: the marvel is the Book’s, the frame is Latin. [10] Anyway, next he mentions a darker custom.
 
 These people also have a custom which must be told. If a man is condemned to death and executed by the lawful authority, they take his body and cook and eat it. But if any one die a natural death, then they will not eat the body. So the book ascribes cannibalism to Tibetan and Kashmiri wonder-workers at the summer court; later chapters will repeat similar charges against other highland peoples. The ascription is prejudice speaking with a traveller’s mouth—kept here as the book states it, and weighed in the notes. Oriental writers are often silent or contradictory; Frankish fear of Tartar cannibalism was already a stock topos. [11]
 
@@ -46,7 +46,7 @@ For the great state and wonderful magnificence of the Great Lord of Lords—that
 
 ## Notes
 
-[1] ✓ / ~ Three days from Chagannor NE/N to Chandu (Shangdu / Kaipingfu), built by Kublai. ✓ Corridor and staging attested; firm ID. ~ Exact day-count schematic. [@yc, 1.61]; gazetteer Shangdu *visited*; UNESCO ruins. Same summer orbit as Prologue Kemenfu.
+[1] ✓ / ~ Three days from Chagannor NE/N to Chandu (Shangdu / Kaipingfu), built by Kublai. ✓ Corridor and staging attested; firm ID. ~ Exact day-count schematic. [@yc, 1.61]; Shangdu: visited; UNESCO ruins. Same summer orbit as Prologue Kemenfu.
 
 [2] ✓ Two roads Peking–Shangtu with *nabo* staging (Palladius / Chinese route researches: Tu-shi-k’ow east, Ye-hu ling west). Chagannor palace dated 1280 (*Siu t’ung kien*). As cited in Yule: Palladius [@yc, 1.61].
 
@@ -64,7 +64,7 @@ For the great state and wonderful magnificence of the Great Lord of Lords—that
 
 [9] ~ / ◇ / ? Weather-conjurers (Tebet/Kesimur) keep storms off the palace; Latin Devil-frame vs their claim of sanctity; dirt and squalor. ~ Weather magic cultural fact (jade *yada*; shamanic rain-making). ◇ This court feat. ? Interpretive frame. [@yc, 1.61].
 
-[10] Dispute hook: court performance / shamanic craft vs Latin diabolism—narrate the Book’s marvel, weigh the frame (Yule Note 8; Palladius). As cited in Yule: Palladius [@yc, 1.61].
+[10] In dispute: court performance / shamanic craft vs Latin diabolism—the Book’s marvel, weighed against the frame (Yule Note 8; Palladius). As cited in Yule: Palladius [@yc, 1.61].
 
 [11] ✗ / ◇ Tebet/Kesimur (or Bacsi) eat executed criminals, not natural dead. Prejudice topos; Oriental silence or contradiction (Yule Note 9); stock Frankish fear. Retain as *what the book says*. [@yc, 1.61].
 
@@ -78,4 +78,4 @@ For the great state and wonderful magnificence of the Great Lord of Lords—that
 
 [16] ✓ / ~ Buddhist–Daoist rivalry colours “heretic” label; *Patarin* = Polo’s Lombard Cathar gloss; Tao-sze monasteries at Shangtu (city and suburb). Ramusian expansions on Sensin secondary to Geographic French.
 
-[17] ✓ Soft hinge to person of Cublay / Vol. II—explicit close of YC 1.61. ✓ / ~ Young Marco’s arrival at this summer wonder (Prologue Kemenfu/Shangdu landing; Book I geography as later itinerary overlay). Cachar Modun = later hunting horizon only. Coleridge’s “Xanadu” = Vol. III reception history, not developed here. Comparative: Bushell; Shangdu archaeology / UNESCO; Yuan Shi; Gaubil; Rashid; Odoric; Rubruck; Rossabi [-@rossabi1988khubilai, ch. 2]; Steinhardt [-@steinhardt1990chinese] on Yuan capitals; Haw [-@haw2006marco]; Atwood [-@atwood2004encyclopedia]. As cited in Yule: Bushell, Odoric, Rubruck [@yc, 1.61].
+[17] ✓ Explicit close of YC 1.61. ✓ / ~ Young Marco’s arrival at this summer wonder (Prologue Kemenfu/Shangdu landing; Book I geography as later itinerary overlay). Cachar Modun = later hunting horizon only. Coleridge’s “Xanadu” = Vol. III reception history, not developed here. Comparative: Bushell; Shangdu archaeology / UNESCO; Yuan Shi; Gaubil; Rashid; Odoric; Rubruck; Rossabi [-@rossabi1988khubilai, ch. 2]; Steinhardt [-@steinhardt1990chinese] on Yuan capitals; Haw [-@haw2006marco, ch. 5]; Atwood [-@atwood2004encyclopedia]. As cited in Yule: Bushell, Odoric, Rubruck [@yc, 1.61].

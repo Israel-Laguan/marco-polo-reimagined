@@ -118,3 +118,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E18: later Genoese trade in Tabriz, not proof of a 1270s consulate or Polo visit. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## U-3 source handoff (2026-11-17)
+
+From the [U-3 intake](../../../research/results/U-3-intake.md) (10 checks, 10 hits). F-54. Note [12] holds. Optional: in Polo's day Great and Little Lur were ruled by local atabegs whom the Ilkhans confirmed, deposed or executed (`spuler1987atabakan`). These are inputs to the chapter's `.T1`/`.T4`/`.T3` work, not completed edits.

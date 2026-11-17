@@ -57,9 +57,10 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Evidence:** on 2026-11-11, `printf '%s\n' 'A reference [@yc, 1.61].' | pandoc --citeproc --bibliography plans/registry/bibliography.bib -t plain` printed `(Polo 1903, 1.61)`, not `(YC 1.61)`. This default-style probe does not establish what a configured Chicago CSL can do. The PDF's biblatex shorthand configuration does not automatically carry over to citeproc.
 - **Done when:** a configured preview and EPUB render both sigla and locators correctly and list only the sources cited in the volume; any style customization is checked into the build and documented.
 
-_Still to write:_ `BLD.T3` media regeneration (one command).
-
-- `BLD.T3` wraps the two S-09 commands: `tools/media/.venv/bin/python tools/media/map.py` (all maps) and `python3 tools/media/timeline.py` (all timelines), each after its `--test`.
+### BLD.T3 — Media regeneration (one command)
+- **Status:** ready · **Depends:** S-09 ✓
+- **Do:** one entry point (e.g. `tools/build/build.sh media`) that runs `tools/media/.venv/bin/python tools/media/map.py --test` then `map.py` (all maps), and `python3 tools/media/timeline.py --test` then `timeline.py` (all timelines), stopping on the first failure.
+- **Done when:** the one command regenerates every `tools/media/data/*.yaml` figure into `media/maps/` and `media/timelines/` from a clean checkout.
 
 ### BLD.T10 — Source-aware verification for comparative quotations (S-19)
 - **Status:** ready · **Depends:** S-19 best-effort intake

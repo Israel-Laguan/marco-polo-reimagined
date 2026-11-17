@@ -115,3 +115,11 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-20 source reuse — I-10 sheep
 
 S20-E17 and `blyth1841ovis` p. 195 record Blyth’s 1841 use of *Ovis Polii* with an explicit reference to Polo and a modern account’s *Ovis ammon polii* classification. This is useful for Note [3] or the aside, within the existing space budget. ITIS dates the original name to 1840; avoid claiming 1841 as its first publication until reconciled. Taxonomic rank varies, and the eponym is not independent proof of Polo’s observation. See [natural-history handoff](../../../spikes/S-21-natural-history-marvels.md) and S20-E17.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H11 (Pamir fire: reported, no proven cause); L2 (sheep figures optional).
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). F-50. Note [10]: the conversion stays unverified. Add that the hanging-pillar legend also appears in Liang Hsiang's inscription for a Mar Sargis church at Chên-chiang, probably Polo's informant (`[@pelliot1959notes, vol. 2, "Marsarchis"]`). Do not date that inscription to 1281. These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

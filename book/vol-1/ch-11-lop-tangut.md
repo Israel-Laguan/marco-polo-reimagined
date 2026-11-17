@@ -46,9 +46,9 @@ Thus the Venetian itinerary has brought the reader from jade country across the 
 
 ## Notes
 
-[1] ✓ / ~ Charchan (Cherchen/Qiemo): sandy oasis, jade rivers sold into Cathay, bitter water, flight into sand before armies. ✓ Cherchen/jade/salt-water ethnography (Johnson, Shaw, Grenard). ~ Exact “five days” and army-escape colour. [@yc, 1.38]; gazetteer *likely_visited*. As cited in Yule: Johnson, Shaw, Grenard [@yc, 1.38].
+[1] ✓ / ~ Charchan (Cherchen/Qiemo): sandy oasis, jade rivers sold into Cathay, bitter water, flight into sand before armies. ✓ Cherchen/jade/salt-water ethnography (Johnson, Shaw, Grenard). ~ Exact “five days” and army-escape colour. [@yc, 1.38]; Likely visited. As cited in Yule: Johnson, Shaw, Grenard [@yc, 1.38].
 
-[2] ✓ / ? City of Lop as staging post; week’s rest; month’s supplies. ✓ Lob/Charklik (Ruoqiang) tradition firm. ? Exact medieval town site (Charkalyk vs Ouash Shahri). [@yc, 1.39]; gazetteer *visited*.
+[2] ✓ / ? City of Lop as staging post; week’s rest; month’s supplies. ✓ Lob/Charklik (Ruoqiang) tradition firm. ? Exact medieval town site (Charkalyk vs Ouash Shahri). [@yc, 1.39]; Visited.
 
 [3] ✓ / ~ Desert least breadth ~one month; sparse wells (~28 good, 4 brackish); no forage. ✓ Gobi/Lop hardship. ~ “Year and more” length and well-count schematic. [@yc, 1.39].
 
@@ -62,7 +62,7 @@ Thus the Venetian itinerary has brought the reader from jade country across the 
 
 [8] ✗ / ✓ “All Idolaters in the world burn their dead” — ✓ customs real; ✗ as universal Buddhist rule. Door/wall exit widely paralleled (Chinese, Tibetan, Umbrian “Door of the Dead,” Samoyedes).
 
-[9] ✓ / ◇ Camul (Hami) between deserts; easy living; oasis produce. ✓ Hami oasis character. ◇ Marco’s personal visit doubtful (digression off main road). [@yc, 1.41]; gazetteer *reported_only*.
+[9] ✓ / ◇ Camul (Hami) between deserts; easy living; oasis produce. ✓ Hami oasis character. ◇ Marco’s personal visit doubtful (digression off main road). [@yc, 1.41]; Reported only.
 
 [10] ✓ / ~ / ◇ Sexual hospitality; husband as willing wittol; Mangu’s failed ban; petition and “keep your shame.” ✓ Custom-type paralleled (Hung Hao on Uighúrs; Ibn Muhalhal; Chukchi/Koryak; Polo’s own E. Tibet notice). ~ Mangu anecdote. ◇ Moralising Latin heat (*bozzi*/wittols). [@yc, 1.41]. As cited in Yule: Ibn Muhalhal [@yc, 1.41].
 
@@ -72,10 +72,10 @@ Thus the Venetian itinerary has brought the reader from jade country across the 
 
 [13] ✓ / ◇ / ? Salamander as mineral fibre, not fire-beast — famous demystification. ◇ / ? Kaan’s napkin at Rome unverified (Cordier: Vatican asbestos fragment is pagan Appian-Way find, not Kublai’s gift).
 
-[14] ✓ Sukchur (Suhchau/Jiuquan); Tangut; mountain rhubarb exported worldwide; poisonous pasture; brown complexion; healthy. ✓ Firm ID (Rashīd *Sukchú*); *Rheum palmatum*; toxic pasture parallels (*Stipa inebrians* / Ericaceae). ~ “Lose hoofs” may compress lameness/poisoning. [@yc, 1.43]; gazetteer Succiu *visited*.
+[14] ✓ Sukchur (Suhchau/Jiuquan); Tangut; mountain rhubarb exported worldwide; poisonous pasture; brown complexion; healthy. ✓ Firm ID (Rashīd *Sukchú*); *Rheum palmatum*; toxic pasture parallels (*Stipa inebrians* / Ericaceae). ~ “Lose hoofs” may compress lameness/poisoning. [@yc, 1.43]; Succiu: visited.
 
-[15] ✓ Campichu (Kanchau/Zhangye) capital of Tangut; three Christian churches; vast gilt idols; recumbent great idols (ten paces) with attendants; five monthly fast days; polygamy and cousin/stepmother marriage. ✓ Nirvana Buddha type confirmed by Shah Rukh, Hajji Mahomed, *Wo-fo-sze*. ✓ / ~ Buddhist fast days; Inner Asian matrimonial patterns. [@yc, 1.44]; gazetteer *visited*. As cited in Yule: Shah Rukh [@yc, 1.41].
+[15] ✓ Campichu (Kanchau/Zhangye) capital of Tangut; three Christian churches; vast gilt idols; recumbent great idols (ten paces) with attendants; five monthly fast days; polygamy and cousin/stepmother marriage. ✓ Nirvana Buddha type confirmed by Shah Rukh, Hajji Mahomed, *Wo-fo-sze*. ✓ / ~ Buddhist fast days; Inner Asian matrimonial patterns. [@yc, 1.44]; Visited. As cited in Yule: Shah Rukh [@yc, 1.41].
 
 [16] ~ / ◇ Maffeo and Marco spent a year at Campichu on a mission. Textual variants (with/without Nicolo; “legation” vs private business); not independently confirmed.
 
-[17] ✓ (silence) / ? (import) Great Wall never named though Suhchau sits just within its NW angle and Campichu commands the Hexi Corridor. ✓ Textual silence real. ? Whether silence undermines presence — Frances Wood [-@wood1995did, ch. 11], vs replies [@derachewiltz1997marco; @haw2006marco; @larner1999marco; @vogel2013marco]. Planted here; fuller essay in Vol. III.
+[17] ✓ (silence) / ? (import) Great Wall never named though Suhchau sits just within its NW angle and Campichu commands the Hexi Corridor. ✓ Textual silence real. ? Whether silence undermines presence — Frances Wood [-@wood1995did, ch. 11], vs replies [@derachewiltz1997marco; @haw2006marco, ch. 4; @larner1999marco, ch. 3; @vogel2013marco, chs. 1, 4]. Planted here; fuller essay in Vol. III.

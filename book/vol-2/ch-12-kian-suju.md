@@ -86,4 +86,4 @@ Thus Suju — Su-chau of the silk and the tea districts, the Paris of later Chin
 
 [8] ✗ rhubarb in Suzhou mountains — botanical error; Tangut/Upper Yangzi product; possible Suh-chau (Gansu) confusion. ~ / ? cheap fresh ginger — regional trade real; local mountain production doubted. ✗ / ~ Suju = “Earth,” Kinsay = “Heaven” — ✗ as Chinese etymology; ~ foreign misunderstanding of Su–Hang paradise proverb.
 
-[9] ~ / ? Vuju / Vughin / Changan ≈ Hu-chau / Wu-kiang / Kiahing. Soft IDs; G.T. trio; route not strictly linear.
+[9] ~ / ? Vuju / Vughin / Changan ≈ Hu-chau / Wu-kiang / Kiahing. Tentative identifications; G.T. trio; route not strictly linear.

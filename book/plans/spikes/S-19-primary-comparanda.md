@@ -51,9 +51,9 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 
 ## Output (definition of done)
 - [x] `research/results/S-19-raw.md` saved
-- [x] Available public-domain texts in `refs/`, each with a source and licence header; 1733 *Ancient Accounts* retained as a rights-pending research copy
+- [x] Available public-domain texts in `refs/`, each with a source and licence header. The 1733 *Ancient Accounts* was subsequently cleared on the basis recorded in Findings; other lead rows and rights questions remain open.
 - [x] `registry/comparanda.md` (checked passages separated from leads; gaps remain)
-- [x] Decision on the lint (handed to `BLD.T10`). The corpus is a fixed list (`CORPUS` in `tools/yule.py`), so new texts in `refs/` are invisible to the lint until they are added there. Decide whether they join the quotation check only, or the 7-gram verbatim check as well.
+- [x] Lint decision handed to `BLD.T10`: keep the Yule-only 7-gram corpus and add source-aware comparative quotation checks separately. Implementation remains open.
 
 ## Feedback to plan
 - `VOICE-GUIDE.md` § Notes: the Comparative clause shape (paraphrase, or a short PD quotation with its location)
@@ -122,7 +122,7 @@ OUTPUT
 
 ## Decision
 
-**2026-11-12.** Use the register's checked locations for editorial work; check lead and open rows before making claims. Keep the S-19 follow-up open: the definition's comprehensive passage matching is not met. Chapter `.T4` handoffs and Notes guidance are in place, but no manuscript claims or quotations have been silently rewritten. Public domain is the project's quotation policy, distinct from open access or potential legal quotation exceptions.
+**2026-11-12, earlier decision (superseded by best-effort close below).** Use the register's checked locations for editorial work; check lead and open rows before making claims. Comprehensive passage matching is not met. Chapter `.T4` handoffs and Notes guidance are in place. Public domain is the project's quotation policy, distinct from open access or potential legal quotation exceptions.
 
 **Lint:** keep the existing Yule-only 7-gram verbatim and Ramusio corpus unchanged. Add explicitly source-aware comparative quotation verification as `BLD.T10`, with per-source boundaries, no cross-author/editorial false matches, OCR cautions and wrong-source tests. Nothing newly downloaded is currently linted. Changes recorded in `VOICE-GUIDE.md`, S-02, BLD, relevant chapter `.T4`s, and the research/spike boards.
 
@@ -130,4 +130,6 @@ OUTPUT
 
 ## Tasks to create on close
 
-- `BLD.T10` and affected `.T4` handoffs created as best-effort follow-through. Full close is deferred until remaining passage-level and rights gaps are resolved or explicitly disposed of.
+- `BLD.T10` and affected `.T4` handoffs created as best-effort follow-through. The intake is closed best effort; comprehensive passage matching and any remaining rights checks are still open production work.
+
+**Priority-return intake 2026-11-16.** A focused sample of ten citations/claims produced **6/10 hits**, below the intake threshold; see the [audit](../research/results/S-19-priority-return-2026-11-16-intake.md) and [stricter rerun prompt](../research/S-19-priority-strict-follow-up-2026-11-16.md). This does not reopen or negate the earlier best-effort spike closure: it means the new return cannot establish its proposed endnotes or new rights clearances. Independently checked corrections and still-open chapter-level source work are recorded in the comparanda register.

@@ -2,6 +2,8 @@
 
 **File:** `vol-2/ch-15-great-turkey-ponent.md` · **Status:** backlog · **Kind:** narrative
 
+**U-1A (2026-11-17):** the Nomoghan passage and Note 3 now distinguish Polo's two battles from the later capture; its identification with the second battle is unresolved, and Pelliot's objection to Yule is attributed. See the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md); preserve these distinctions in re-voice.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,143 | 52% | [R] | 10/10; Note [6] mismatches body (1294 vs 1295) | no |
@@ -40,7 +42,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Media hooks
 - **Hero plate:** Aijaruc throws the prince — GEN, Ilkhanid (*Jami' al-Tawarikh*), landscape 4:3; must get right: Kaidu's court, wagered horses; caption: folkloric; historical name Khutulun — see `illustration-plan.md`. Anchor ch-15:23.
 - **Secondary plates:** GEN Dog-sledge post (plan; anchor :39, six dogs to a sledge, bear-skin for the courier). Critique §4 candidate: Land of Darkness raid (:41; legendary geography).
-- **Maps:** A14 The Mongol horizon (Ilkhanate, Chagatai and Kaidu, Golden Horde, "Land of Darkness" dotted). Existing `map-asia-mongol-empire.jpg` / `map-mongol-empire.gif` suggested by critique §5; the multimedia plan **replaces** them (too small; a 1206–1294 animation whose static print shows 1206, F-25).
+- **Maps:** A14 The Mongol horizon (Ilkhanate, Chagatai and Kaidu, Golden Horde, "Land of Darkness" dotted). Existing `map-asia-mongol-empire.png` (1294 frame) / `map-mongol-empire.gif` suggested by critique §5; the multimedia plan **replaces** them (too small; a 1206–1294 animation whose static print shows 1206, F-25).
 - **Timelines / diagrams / tables:** C8 Ilkhan succession: the Book vs the record (critique timeline: Abaqa d. 1282; Tegüder 1282–84; Arghun 1284–91; Geikhatu 1291–95; Baidu 1295; Ghazan 1295). Critique §5 also lists a "Golden Horde khan list (Book vs actual)" table; it has no D-row in `multimedia-plan.md`.
 - **Characters appearing:** Caidu (Kaidu), Aijaruc (Khutulun), Kublai (Cublay), Chinghis Khan, Argon (Arghun), Abaga (Abaqa), Acomat (Tegüder Ahmad), Kiacatu (Geikhatu), Baidu, Casan (Ghazan), Barac (Baraq), Alau (Hülegü), Barca (Berke), Batu, Toctai (Tokhta), Nogai, Conchi, Nomogan (Nomukhan), Cocachin (mentioned), Marco Polo, Rustichello
 - **Character check (S-05):** Aijaruc c. 20–30, very tall, unmarried in the scene (braids, no *boqta*); Caidu c. 45–55. Cards: `plans/registry/character-cards.yaml`.
@@ -111,3 +113,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research limit (2026-11-11)
 
 The supplied report found no directly consulted specialist assessment of how the Book IV war narratives were composed or transmitted. Do not assert a scholarly consensus about eyewitness reportage, oral tradition or literary construction. Keep chronology and claims under their existing fact-sheet qualifications; see [S-17 intake](../../../research/results/S-17-intake.md) and the [follow-up prompt](../../../research/S-17-follow-up-prompt.md).
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). F-48. Note [3] (current wording) holds. Optional additions: the princes who seized Nomoghan at Almaliq in 1277 acted without Qaidu (`[@yuanshi1370, juan 12]`); Pelliot suggests Polo put George in place of his father Ai-buqa (`[@pelliot1959notes, vol. 2, "Nomogan"; "Giorge"]`). These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

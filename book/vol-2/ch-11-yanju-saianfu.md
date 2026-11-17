@@ -28,7 +28,7 @@ Again, leaving Tiju, you ride another day towards the south-east, and at the end
 
 Nanghin, according to the book, is a very noble Province towards the west. The people are Idolaters (and so forth) and live by trade and manufactures. They have silk in great abundance, and they weave many fine tissues of silk and gold. They have all sorts of corn and victuals very cheap, for the province is a most productive one. Game also is abundant, and lions too are found there — tigers, in Polo’s usual loose fauna. The merchants are great and opulent, and the Emperor draws a large revenue from them, in the shape of duties on the goods which they buy and sell. [6]
 
-So Nanghin stands as a western silk province of duties and cheap grain. Yule preferred Ngan-king (Anqing) on the Kiang over the later name Nan-king, which the city of Jiankang did not yet bear in Polo’s day; the project gazetteer lists Nanghin as Nanjing — a soft ID. Either way, the Book uses it as a hinge toward a siege that, in the telling, outlasted a kingdom.
+So Nanghin stands as a western silk province of duties and cheap grain. Yule preferred Ngan-king (Anqing) on the Kiang over the later name Nan-king, which the city of Jiankang did not yet bear in Polo’s day; Nanghin is often given as Nanjing, but the identification is tentative. Either way, the Book uses it as a hinge toward a siege that, in the telling, outlasted a kingdom.
 
 And now, Polo narrates, the Book will tell of the very noble city of Saianfu (Xiangyang), which well deserves a place in our book, for there is a matter of great moment to tell about it.
 
@@ -62,9 +62,9 @@ Thus the twin cities at the Han’s hinge fall in the Book’s telling as an epi
 
 [4] ✓ Yanju = Yang-chau (Yangzhou); commercial/military importance; harness; garrison. ~ “27” cities formulaic. ~ brief early *Sing* / later *Lu*; ✗ if read as lasting provincial *Sing* under a Polo baron. Odoric later: Franciscan house + 3 Nestorian churches; Catalan Map *Iangio*. As cited in Yule: Odoric [@yc, 2.68].
 
-[5] ? Marco Polo governed Yanju three full years. ★★★ contested. MS variants: G.T. *seingneurie… trois anz*; MS C / Bern *séjourna… iii ans*; Ramusio *governo… in luogo di un dei detti Baroni* (likely gloss). No Chinese confirmation. Narrower senses possible (*Lu* circuit head, salt/tax commission, temporary residency); Yule conjectured ~1282–1287/88. Wood [-@wood1995did, ch. 15] prefers a reading in which Polo stayed rather than governed; de Rachewiltz [-@derachewiltz1997marco] / Haw [-@haw2006marco] / Vogel [-@vogel2013marco] stress foreign service possible without Chinese biography. Not used here as proven office.
+[5] ? Marco Polo governed Yanju three full years. ★★★ contested. MS variants: G.T. *seingneurie… trois anz*; MS C / Bern *séjourna… iii ans*; Ramusio *governo… in luogo di un dei detti Baroni* (likely gloss). No Chinese confirmation. Narrower senses possible (*Lu* circuit head, salt/tax commission, temporary residency); Yule conjectured ~1282–1287/88. Wood [-@wood1995did, ch. 15] prefers a reading in which Polo stayed rather than governed; de Rachewiltz [-@derachewiltz1997marco] / Haw [-@haw2006marco, chs. 11–12] / Vogel [-@vogel2013marco, chs. 1, 5] stress foreign service possible without Chinese biography. Not used here as proven office.
 
-[6] ✓ / ? Nanghin = Ngan-king (Anqing) on Yule/Pauthier reading; gazetteer Nanjing anachronistic for period name (then Jiankang). ✗ / ~ “lions” = tigers / fauna looseness. Silk province and duties plausible. As cited in Yule: Pauthier [@yc, 2.68].
+[6] ✓ / ? Nanghin = Ngan-king (Anqing) on Yule/Pauthier reading; the Nanjing identification is anachronistic for the period name (then Jiankang). ✗ / ~ “lions” = tigers / fauna looseness. Silk province and duties plausible. As cited in Yule: Pauthier [@yc, 2.68].
 
 [7] ✓ Saianfu = Siang-yang (+ Fan-ch’eng complex); Rashīd name match; twin cities at Han confluence. ✓ siege ~3 years; waters; approach chiefly north (1268–73).
 

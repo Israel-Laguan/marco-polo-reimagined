@@ -110,6 +110,7 @@ _Created after the gating spikes close. Expected shapes:_
   - 3 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
   - Run `python3 tools/lint.py -v vol-2/ch-11-yanju-saianfu.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [5]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Wood accepts the stayed-rather-than-governed reading; preserve that distinction.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -126,3 +127,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-E5: Chang reports Vogel’s possible Yangzhou office; this is not proof of governorship or a named post. Antonio Vilioni’s 1344 memorial is later evidence of a Latin presence, not Polo’s presence. Retain S-14 safeguards. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-17 priority return (2026-11-16)
+
+[Checked intake](../../../research/results/S-17-priority-return-2026-11-16-intake.md): Vogel's authorized Chinese-translation excerpt reports Peng Hai's audit-commissioner and Zhu Jiang's darughachi proposals as inferences and judges high office credible, while noting Peng's link to the *Yuan shi* cannot be fully proved. Peng's and Zhu's publications were not read. Keep Vogel's position distinct from a documented appointment or a universal claim about all Chinese sources. Check the excerpt's conflicting Zhiyuan 20 / 1280 date against the English and a dated source before use. Mar Sargis is identified as vice-darughachi in the relevant excerpt; verify any stronger title claim.

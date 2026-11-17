@@ -40,7 +40,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Media hooks
 - **Hero plate:** Zayton harbour: junks unloading pepper — GEN, Song–Yuan city-genre scroll, handscroll 3:1; must get right: Quanzhou ship type, Kaiyuan stone pagodas, Arab and Tamil merchants; caption: 100:1 ratio is rhetoric — see `illustration-plan.md`. Anchor ch-14:49 (Quanzhou ship excavated 1974, V-hull, 13 bulkheads; twin pagodas 1228–50; Qingjing mosque).
-- **Secondary plates:** GEN Silkie fowls at Kelinfu (plan; anchor :31). Critique §4 candidate: tattooists for Indian visitors (:55). Existing `drawing-manzi-junk.png` named by critique for ch-14; the multimedia plan retires all `drawing-*.png`.
+- **Secondary plates:** GEN Silkie fowls at Kelinfu (plan; anchor :31). Critique §4 candidate: tattooists for Indian visitors (:55). Existing `drawing-manzi-junk.jpg` named by critique for ch-14; the multimedia plan retires all `drawing-*.png`.
 - **Maps:** A13 The Fujian road and Zayton (Kinsay → Tanpiju → Vuju (Jinhua) → Ghiuju → Changshan → Cuju → Kelinfu → Unken → Fuju → Zayton; Tyunju (Dehua) inset).
 - **Timelines / diagrams / tables:** C7 Zayton cost stack (10% duty plus 30–44% freight = "half the investment"); C12 seagoing junk cutaway (placed in III-1, "preview in II-14"; critique: Quanzhou ship cross-section).
 - **Characters appearing:** Marco Polo, Kublai (the Kaan); travellers and clerics discussed: Odoric, Ibn Battuta, Andrew of Perugia
@@ -118,3 +118,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-E6: UNESCO 2021 decision 44 COM 8B.15 describes the Quanzhou maritime system; this supports context, not an exact pepper volume or Polo’s personal visit. Tyunju = Dehua remains to check; retain S-14. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H13 (porcelain: Qingbai link proposed only; pepper ratio is the Book's).

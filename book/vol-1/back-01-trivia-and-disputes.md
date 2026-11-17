@@ -44,7 +44,7 @@ Volume I ends at Chandu, but readers usually leave with pockets full of question
 
 **Great Wall silence (seed).** Polo never describes the Great Wall as modern tourists expect. That silence becomes a major quarrel in later volumes’ afterlives and in Frances Wood’s scepticism. Volume I only plants the seed: the outbound road enters Cathay through Tangut oases and court circuits, not through a single stone curtain set-piece. Full argument waits for Volume III’s reception chapters and the reliability essay. Do not let the seed grow into a verdict early. [10]
 
-**Visited vs reported in Book I.** Mausul, Baudas marvels, Camul customs, Caracoron history, Assassin legend — these often read as report layered into an itinerary. Balkh, Badakhshan, Pamir, Tarim oases, Lop, Tangut towns, Chandu read stronger as travel. The gazetteer’s reliability column is the cheat-sheet; chapter Notes use ✓ ~ ✗ ◇ ? for the same honesty in motion. [11]
+**Visited vs reported in Book I.** Mausul, Baudas marvels, Camul customs, Caracoron history, Assassin legend — these often read as report layered into an itinerary. Balkh, Badakhshan, Pamir, Tarim oases, Lop, Tangut towns, Chandu read stronger as travel. The split is a judgement, not a record; chapter Notes use ✓ ~ ✗ ◇ ? for the same honesty in motion. [11]
 
 **Numbers and days’ journeys.** Forty days of desert, three years at Bocara, one year to the Khan — round literary numbers do real narrative work. Some will be roughly right; few should be sworn as a surveyor’s chain. Medieval days’-journeys compress with fear and expand with memory.
 
@@ -64,7 +64,7 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 [2] ✓ Manuscript family typology — Benedetto [-@benedetto1928milione]; Moule–Pelliot [-@moule1938description]; Yule–Cordier introductions. Working base: Yule–Cordier, Geographic Old French lean.
 
-[3] ~ Rustichello collaboration — traditional; degree of literary shaping contested (Larner [-@larner1999marco]; modern textual scholarship).
+[3] ~ Rustichello collaboration — traditional; degree of literary shaping contested (Larner [-@larner1999marco, ch. 3]; modern textual scholarship).
 
 [4] ? Curzola capture — strong late tradition; operational particulars not independently documented like a muster roll.
 
@@ -78,6 +78,6 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 [9] ? Arbre Sec location — legendary landmark broadly NE Persian desert.
 
-[10] ? Great Wall silence — major modern debate (Wood [-@wood1995did, ch. 11] vs Haw [-@haw2006marco], Larner [-@larner1999marco], de Rachewiltz [-@derachewiltz1997marco], et al.); seeded here, argued later.
+[10] ? Great Wall silence — major modern debate (Wood [-@wood1995did, ch. 11] vs Haw [-@haw2006marco, ch. 4], Larner [-@larner1999marco, ch. 3], de Rachewiltz [-@derachewiltz1997marco], et al.); seeded here, argued later.
 
-[11] Gazetteer `/workspace/marco-polo/gazetteer.csv` volume=1 reliability tags.
+[11] ~ The split between travel and report is a reading of the text, place by place; it is argued in each chapter's Notes.

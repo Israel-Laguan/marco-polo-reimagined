@@ -2,6 +2,8 @@
 
 **File:** `vol-2/ch-10-manzi-sung.md` · **Status:** backlog · **Kind:** narrative
 
+**U-1A (2026-11-17):** Li Tan's passage and Note 6 now distinguish the annals' pardon for those coerced from Polo's broader pardon and leave the commanders' identities uncertain. The reported 1272 variant was not independently verified; see the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md). Preserve the qualification in re-voice.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,103 | 69% | [M] | 13/13; ★★★ in Note [6]; "Gazetteer:" tooling in [1] | no |
@@ -111,3 +113,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 25 errors · 7 warnings — failing: archaism, asides, budgets, first_person, markers, quote_verify, ramusio, recaps, scaffolding, verbatim, you_must_know; warnings: names, ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-10-manzi-sung.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). **Applied 2026-11-17 to the Note** (body text unchanged). F-45. Note [6] (current wording) holds. Change "the identification of Polo's Aguil remains uncertain" to Aguil = Aju, son of Uriyangqadai (`[@pelliot1959notes, vol. 1, "Agiul"]`; `[@yuanshi1370, juan 128]`). Optional: the execution date, 6 August 1262, and Polo's setting at Tundinfu (Pelliot, "Liitan sangon", "Mongatai"). These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

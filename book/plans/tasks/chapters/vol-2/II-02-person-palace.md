@@ -106,6 +106,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Tag line `**[M]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
   - Run `python3 tools/lint.py -v vol-2/ch-02-person-palace.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [20]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Rossabi’s omission discussion is in ch. 5; the court context is in ch. 6. Larner’s modern reply is in ch. 3.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -119,3 +120,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-E1: use Xu Bin on Dadu as a research review; distinguish excavated remains from hypothesized palace layouts and the later Ming city. A9 must mark reconstruction. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-17 priority return (2026-11-16)
+
+[Checked intake](../../../research/results/S-17-priority-return-2026-11-16-intake.md): Xu Bin's Dadu review is dated **2019**, *Gugong xuekan* vol. 20, pp. 44–55; the existing bibliography key `xu2020dadu` is retained. It is a review, not the 2024 excavation report. Keep excavated remains separate from reconstructed hall layouts; the latter report was not read.

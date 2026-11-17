@@ -56,6 +56,38 @@ The [targeted follow-up prompt](../research/S-18-follow-up-prompt.md) covers wha
 
 **Follow-up run taken in (2026-11-12):** [raw](../research/results/S-18-followup-raw.md) · [intake](../research/results/S-18-followup-intake.md). It read Pelliot's BASMAN and SEMENAT, EI XII no. 22, Talbot, Moule–Pelliot vol. I with Maffeo's will, Dayalan, Rougeulle, Hall and Nilakanta Sastri. Its Pelliot "page corrections" are scan numbers and are rejected. Still open: Pelliot FERLEC/LAMBRI/PENTAN/SEILAN (scans II/0129, 0165, 0206), Orlandini, Trimingham/Pankhurst/Taddesse Tamrat, Lambourn and Guillot–Kalus read directly, Karashima, Miksic, Sasaki's chapters, CiNii on the Konjikidō.
 
+## Priority return (2026-11-16)
+
+[Raw return](../research/results/S-18-priority-return-2026-11-16-raw.md) · [independent intake](../research/results/S-18-priority-return-2026-11-16-intake.md) · [stricter follow-up](../research/S-18-priority-strict-follow-up-2026-11-16.md). **5/10 sampled checks hit**; three misses reflect inaccessible Pelliot images, not established errors. The best-effort closure below is not upgraded to full verification. Lambourn and Ismail et al. are now read directly, and Yule's Abash conjectures are checked. At that intake, Pelliot entry contents, Guillot–Kalus on the specific stone, Trimingham/Pankhurst, Sasaki 2015, Ikeda 2019 and Orlandini remained open; see the later library update below for passages subsequently read. Keep Trebizond will dating qualified in light of the S-15 discrepancy.
+
+## Strict follow-up return (2026-11-16)
+
+[Raw](../research/results/S-18-strict-follow-up-2026-11-16-raw.md) · [intake](../research/results/S-18-strict-follow-up-2026-11-16-intake.md) · [library-targeted follow-up](../research/S-18-library-targeted-follow-up-2026-11-16.md). Direct Toyo Bunko OCR independently confirms the return's Lambri and first-page Pentan content at the limited access level stated in the intake; the Ferlec passage remains inaccessible, although the edition's index supports its p. 725 locator. Two of three content checks hit, with one inaccessible, so the strict follow-up threshold is not met. This does not erase previous direct readings of sources the new return could not access; closure remains best effort.
+
+## Library follow-up returns (2026-11-16)
+
+[Two-return intake](../research/results/S-18-library-returns-2026-11-16-intake.md) · [remaining archive questions](../research/S-18-remaining-library-checks-2026-11-16.md). **10/10 targeted claims** in the second return were checked at the intake's stated access levels. The first return's Pelliot OCR beyond the passages we previously saw remains reported, with no page images checked. Independently read: Yatim 1985 thesis OCR, Trimingham pp. 69–70 images, Ikeda et al. 2019 publisher PDF, and Orlandini's edited Latin OCR. These findings supersede earlier entries below saying those works were unread; the 1328 act and notarial original, Pankhurst, Guillot–Kalus, and Sasaki 2015 remain open. The historic 1308/1309 Venetian-style discrepancy is unresolved.
+
+## Remaining-library return (2026-11-16)
+
+[Raw](../research/results/S-18-remaining-library-return-2026-11-16-raw.md) · [source-check intake](../research/results/S-18-remaining-library-return-2026-11-16-intake.md) · [focused archive rerun](../research/S-18-archive-specific-rerun-2026-11-16.md). **5/10 targeted checks hit**: four claims are incorrect or overconfident and one passage remains inaccessible. PENTAN is a numbered entry; Sasaki 2008 is an MA thesis; Gullino's two Treccani articles are not independent archival corroboration; and two separate 1,000-lire amounts must not be conflated. Loiseau 2019 supplies a source-specific modern account of the 1290 Ethiopian embassy; the Arabic source and its connection to Polo's bishop remain open. Do not upgrade this best-effort close to full verification.
+
+## Archive rerun return (2026-11-16)
+
+[Raw](../research/results/S-18-archive-rerun-2026-11-16-raw.md) · [intake](../research/results/S-18-archive-rerun-2026-11-16-intake.md) · [targeted verification](../research/S-18-targeted-archive-verification-2026-11-16.md). A purposive check found **5/11 supported, four erroneous or unsupported and two inaccessible**. The return's NOT SEEN sources remain at the access levels recorded in previous project intakes: Orlandini OCR and Loiseau 2019 were read, while the original Venetian instruments and Ibn ʿAbd al-Ẓāhir's Arabic passage were not. Sasaki's 2015 book is the requested authored work, not an unrelated edited volume; its chapters remain unseen. No new manuscript correction follows.
+
+## Targeted archive return (2026-11-17)
+
+[Raw](../research/results/S-18-targeted-archive-return-2026-11-17-raw.md) · [intake](../research/results/S-18-targeted-archive-return-2026-11-17-intake.md) · [source-access follow-up](../research/S-18-source-access-followup-2026-11-17.md). **5/10 targeted claims checked out**; three errors repeat one confusion between archive image indices and printed page numbers, and two passages could not be independently checked. A separately located online extraction of Cook's 2020 translation of Ibn ʿAbd al-Ẓāhir describes the 1290 embassy and an envoy's death at ʿAydhāb; Cook suggests a connection to Polo. The Arabic, translation page images and identity of the story remain open. Researcher's claimed Sasaki 2015 passages could not be reopened here. Best-effort status remains.
+
+## Source-access return (2026-11-17)
+
+[Raw](../research/results/S-18-source-access-return-2026-11-17-raw.md) · [intake](../research/results/S-18-source-access-return-2026-11-17-intake.md) · [library-access-only checks](../research/S-18-library-access-only-2026-11-17.md). **5/10 targeted claims supported:** three are errors or unsupported assertions and two could not be independently checked. The new return's Pelliot pixel claim is not clearly supported by its OCR-only breakdown, 0207 remains unverified here, and Pankhurst 1982 is an existing *book*, not a presumed Polo article. Cook's translation matches prior extraction on several points, but the claimed archive scan is dark here and its pagination needs an image check; his note is an interpretation. Best-effort status and earlier direct readings remain unchanged.
+
+## Library-access return (2026-11-17)
+
+[Raw](../research/results/S-18-library-access-return-2026-11-17-raw.md) · [intake](../research/results/S-18-library-access-return-2026-11-17-intake.md). Of four cited Pelliot source pages with substantive claims, **two were independently confirmed at OCR level and two could not be reopened**; unverified is not false. The report did not reach Cook's target pages or any other requested library works and explicitly says its Pelliot access was OCR, not page-image pixels. Previously read sources retain their earlier access levels. The user chose to retain the access-dependent issues as gaps and move on; best-effort status is unchanged.
+
 ## Findings
 [Supplied raw report](../research/results/S-18-raw.md) · [gap audit, base-text answers, checked findings and gazetteer handoff](../research/results/S-18-intake.md).
 

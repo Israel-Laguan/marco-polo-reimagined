@@ -6,15 +6,15 @@
 
 This directory holds drafted chapters of Volume II (person and puissance of Cublay; court and Cambaluc; administration; western and southwestern circuits; Manzi and Kinsay; Zayton; reported Mongol wars as imperial horizon).
 
-**Status:** Volume II draft chapters **complete** — Chapters II-1 through II-15 all drafted here (Book II + compressed Book IV as imperial horizon). **All Volume II chapters (II-1–II-15) are in storyteller voice** (see `/workspace/marco-polo/VOICE-GUIDE.md`). **Front/back matter added** (Yuan context, Cathay/Manzi maps, trivia). Volume III is not begun in this folder.
+**Status:** Volume II draft chapters **complete** — Chapters II-1 through II-15 all drafted here (Book II + compressed Book IV as imperial horizon). **All Volume II chapters (II-1–II-15) are in storyteller voice** (see `../VOICE-GUIDE.md`). **Front/back matter added** (Yuan context, Cathay/Manzi maps, trivia). Volume III is not begun in this folder.
 
 ## Drafting conventions
 
-Follow `/workspace/marco-polo/VOICE-GUIDE.md` and the pilot voice of Vol. I ch. 2 (`vol-1/ch-02-house-of-polo.md`).
+Follow `../VOICE-GUIDE.md` and the pilot voice of Vol. I ch. 2 (`vol-1/ch-02-house-of-polo.md`).
 
 - **Voice:** Storyteller recounting what Marco Polo / *Il Milione* narrates — clear, oral, intelligent, readable. Warm storyteller. Not epic pastiche, not dry encyclopedia, not help-desk phrasing.
 - **Typical hinges:** “Marco Polo starts by narrating that…” / “He says that…” / “According to the book…” / “Next he mentions…” / “Anyway, next he mentions…” (after a short aside).
-- **Naming:** Medieval / book form first; modern equivalent in parentheses on first mention in a chapter (e.g. Cambaluc (Khanbaliq / Beijing)). Prefer gazetteer book names thereafter (`/workspace/marco-polo/gazetteer.csv`).
+- **Naming:** Medieval / book form first; modern equivalent in parentheses on first mention in a chapter (e.g. Cambaluc (Khanbaliq / Beijing)). Prefer gazetteer book names thereafter (`../gazetteer.csv`).
 - **Chapter shape:** (1) title + optional short epigraph; (2) brief **[V]** / **[R]** / **[M]** head tag if present; (3) continuous storyteller narrative (~1,800–3,200 words) with **inline numbered citations** [1], [2]… and short dispute asides in the flow; (4) single **## Notes** section listing those numbers (source / why disputed / comparative witness). No separate “Source notes” + “Reliability” split. No “## Narrative” heading unless needed for tooling.
 - **Visited / reported tags:** **[V]** largely or partly from personal travel/service; **[R]** chiefly report, embassy hearsay, or court intelligence; **[M]** mixed. Tags are provisional writing guides, not final judgements.
 - **Note markers (inside ## Notes entries):** ✓ corroborated · ~ plausible · ✗ likely wrong/exaggerated · ◇ second-hand · ? contested
@@ -31,7 +31,7 @@ Follow `/workspace/marco-polo/VOICE-GUIDE.md` and the pilot voice of Vol. I ch. 
 | *(chapters II-1–II-15 below)* | Narrative |
 | `back-01-trivia-and-disputes.md` | Trivia + Yanju / Saianfu / coal / paper money / Kinsay numbers disputes |
 
-Series index: `/workspace/marco-polo/FRONT-BACK-MATTER.md`. Media credits: `/workspace/marco-polo/media/ATTRIBUTIONS.md`.
+Series index: `../FRONT-BACK-MATTER.md`. Media credits: `../media/ATTRIBUTIONS.md`.
 
 ## Chapters
 
@@ -53,4 +53,4 @@ Series index: `/workspace/marco-polo/FRONT-BACK-MATTER.md`. Media credits: `/wor
 | `ch-14-fuju-zayton.md` | II-14 — *Fuju, Zayton, and the Haven of the World* **[V/M]** |
 | `ch-15-great-turkey-ponent.md` | II-15 — *Great Turkey, Caidu’s Daughter, and the Wars of the Ponent* **[R]** |
 
-Volume II chapter drafts follow the working outline in `/workspace/marco-polo/outline-volumes.md` from Book II through the compressed Book IV horizon. Front/back companions slot before II-1 and after II-15.
+Volume II chapter drafts follow the working outline in `../outline-volumes.md` from Book II through the compressed Book IV horizon. Front/back companions slot before II-1 and after II-15.

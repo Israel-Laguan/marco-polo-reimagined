@@ -1,5 +1,7 @@
 # I-02 — The House of Polo and the Elder Voyage
 
+**2026-11-16 partial correction:** The unsupported bachelor clause was removed from the manuscript; Note [1] now attributes the Marta report to Gullino. The date comparison, his alleged children, and the remaining `.T1` work are still open. See [intake](../../../research/results/S-15-priority-return-2026-11-16-intake.md).
+
 **File:** `vol-1/ch-02-house-of-polo.md` · **Status:** backlog · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
@@ -106,6 +108,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-02-house-of-polo.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [3]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Haw dates the first journey through Golden Horde and Chaghadaid chronology; do not attribute the manuscript “1250” or Ilkhanid/Yuan synchronisms to him.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-02.T6 — Lint green and human read

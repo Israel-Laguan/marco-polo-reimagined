@@ -6,7 +6,7 @@
 
 ---
 
-Volume III’s maps are wet. One chart should hold the monsoon necklace from Fujian down through island Southeast Asia to Seilan and India’s coasts; another should sketch the return logic — sea to Hormuz, then land toward Trebizond and the Black Sea homecoming. Place tables use gazetteer rows with volume = 3. Image paths point at `../media/` placeholders. [1]
+Volume III’s maps are wet. One chart should hold the monsoon necklace from Fujian down through island Southeast Asia to Seilan and India’s coasts; another should sketch the return logic — sea to Hormuz, then land toward Trebizond and the Black Sea homecoming. The tables below list the places Volume III names. [1]
 
 ### How to see the maritime book
 
@@ -16,17 +16,15 @@ Chipangu sits off the main sailing line as a northward marvel island — on the 
 
 ### Indian Ocean and Southeast Asian seas
 
-![Indian Ocean and Southeast Asian coasts of Polo’s Book III](../media/map-indian-ocean.jpg)
+![An imagined Indian Ocean scene for Polo’s Book III](../media/map-indian-ocean.jpg)
 
-*Caption:* Monsoon-world schematic — Zayton to Sumatra, Seilan, Maabar/Malabar, and the western approaches toward Aden and Hormuz. *(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+*Caption:* The monsoon world as a modern illustrator imagines it. A generated picture for atmosphere; its coastlines are not geography. *(Modern generated illustration — see media/ATTRIBUTIONS.md)*
 
-Use this map while reading III-1 through III-8. When a name goes soft (Locac, Dagroian, Sememant), the map’s job is orientation, not false precision.
+For the real coastlines while reading III-1 through III-8, use the overview map in Volume I’s map guide and the tables below. When a name goes soft (Locac, Dagroian, Sememant), the job is orientation, not false precision.
 
 ### Return route — sea, Hormuz, and the Black Sea gate
 
-![Return from the eastern seas via Hormuz toward Trebizond and Venice](../media/map-return-route.jpg)
-
-*Caption:* Return schematic — Cocachin voyage landfall logic at Hormuz (Hormos), Ilkhanid delivery, overland toward Trebizond, Black Sea passage, Venice. *(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+The return is the sea loop of the overview map in Volume I’s map guide: from Quanzhou past Sumatra, Ceylon and India to Hormuz, then overland by Tabriz to Trebizond and on to Venice.
 
 The return map is political as much as nautical: a bridal embassy’s success condition is Persia, not tourism.
 
@@ -36,7 +34,7 @@ The return map is political as much as nautical: a bridal embassy’s success co
 |-----------|--------|------------------|
 | Chamba (Champa) | Central Vietnam coast | Early fleet touch on the southern road |
 | Java | Java, Indonesia | Great Java wealth — largely reported |
-| Locac | Malay Peninsula (S. Thailand/Malaysia) | Soft peninsula ID |
+| Locac | Malay Peninsula (S. Thailand/Malaysia) | Tentative identification |
 | Pentam | Bintan / Riau Islands | Near Singapore Strait approaches |
 | Java the Less (Sumatra) | Sumatra, Indonesia | Five-month monsoon wait |
 | Ferlec | Perlak, Aceh, Sumatra | Muslim conversion noted |
@@ -69,11 +67,11 @@ The return map is political as much as nautical: a bridal embassy’s success co
 | Trebizond | Trabzon, Turkey | Black Sea embarkation on the way home |
 | Chipangu | Japan | Gold-island hearsay; not visited |
 
-*(Hormuz / Hormos and Tauris also serve the return; their main gazetteer rows sit in volume 1 because of the outbound itinerary, but Volume III reuses them as landfall and road home.)*
+*(Hormuz / Hormos and Tauris also serve the return; their main table rows sit in Volume I because of the outbound itinerary, but Volume III reuses them as landfall and road home.)*
 
 ### Map cautions
 
-**Java vs Java the Less:** Great Java is the island of that name in modern speech, mostly hearsay in Polo; Java the Less is Sumatra, where the wintering claim sits. **Madeigascar** mixes a name-first with African-coast marvels — do not force every sentence onto the modern island’s interior. **Islands of Men and Women** stay legendary (coordinates blank in the gazetteer on purpose). **Chipangu** is a reception magnet, not a landfall. [3]
+**Java vs Java the Less:** Great Java is the island of that name in modern speech, mostly hearsay in Polo; Java the Less is Sumatra, where the wintering claim sits. **Madeigascar** mixes a name-first with African-coast marvels — do not force every sentence onto the modern island’s interior. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall. [3]
 
 Monsoon arrows matter more than straight rhumb lines. If a chapter feels like it pauses, it probably should.
 
@@ -83,8 +81,8 @@ Anyway, with these charts in hand, the storyteller can say *next he mentions Sei
 
 ## Notes
 
-[1] Gazetteer `volume=3`; media placeholders `map-indian-ocean.jpg`, `map-return-route.jpg` — credits in `media/ATTRIBUTIONS.md`.
+[1] ✓ The place tables give each place's book name, its modern name and its role in Volume III; identifications follow Yule–Cordier unless a chapter Note says otherwise. Image credits are in the media attributions.
 
 [2] ✓ / ~ Periplus reading of Book III — standard in Yule; visited vs reported tags prevent over-claiming autopsy.
 
-[3] ? Soft and legendary toponyms — see gazetteer reliability; III back matter on Chipangu / Cocachin / Columbus.
+[3] ? Uncertain and legendary toponyms — see the chapter Notes; III back matter on Chipangu / Cocachin / Columbus.

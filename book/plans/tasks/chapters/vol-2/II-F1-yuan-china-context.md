@@ -92,6 +92,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [1], [9] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [2]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### II-F1.T6 — Lint green and human read
@@ -102,4 +103,4 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-17 research handoff (2026-11-11)
 
-S17-E1/E3: Xu’s 2020 review surveys Dadu reconstructions; Guan, Palma and Wu (2024) provide an accessible economic-history study of Yuan currency. These supplement, not replace, the overview works. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+S17-E1/E3: Xu’s 2019 review surveys Dadu reconstructions; Guan, Palma and Wu (2024) provide an accessible economic-history study of Yuan currency. These supplement, not replace, the overview works. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.

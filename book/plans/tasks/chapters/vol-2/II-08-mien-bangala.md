@@ -109,3 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research limit (2026-11-11)
 
 The Vochan/Ngasaunggyan identification and Pagan chronology still need direct specialist and primary-source comparisons. Attribute battle details and numbers to their sources, and do not infer a settled scholarly reconstruction from the supplied report; see [S-17 intake](../../../research/results/S-17-intake.md) and the [follow-up prompt](../../../research/S-17-follow-up-prompt.md).
+
+## S-17 priority return (2026-11-16)
+
+[Checked intake](../../../research/results/S-17-priority-return-2026-11-16-intake.md): The *Yuan shi* j. 210 transcription describes a third-month 1277 elephant engagement under Hudu and companions and a separate tenth-month expedition under Nasr al-Din. Yule II.LI–LII gives 1272, Nescradin, 2,000 elephants, 60,000 enemy horse and foot, and 12,000 Yuan horse. The chronicle's roughly 700 versus 40,000–50,000 and 800 elephants describe opposing sides in the earlier engagement; compare like with like and attribute all numbers. Their correspondence to Polo's narrative and the location remain scholarly questions. Burmese witnesses were not inspected.

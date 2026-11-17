@@ -16,6 +16,6 @@ Docs that describe the manuscript rather than being part of it: `SERIES-STATUS.m
 None to start. Final wording after S-02 (baseline numbers).
 
 ## Tasks
-- `DOC.T1` **(ready now)** Replace the `/workspace` paths with repo-relative paths.
-- `DOC.T2` Rewrite SERIES-STATUS truthfully, pointing to `plans/README.md` for live status.
-- `DOC.T3` Repo `README.md`: what this is, layout, how to build.
+- `DOC.T1` **done 2026-11-17.** Replaced the `/workspace` paths with repo-relative ones in SERIES-STATUS, FRONT-BACK-MATTER, outline-summary and the three volume READMEs. The reader-facing Notes (I-F1 [10], I-F2 [1], I-B1 [11], II-F2 [1], III-F2 [1]) were rewritten without tooling paths or placeholder language. The false status claims in those docs remain `DOC.T2`.
+- `DOC.T2` **done 2026-11-17.** SERIES-STATUS rewritten: draft complete, refinement in progress (4/49 files pass lint), pointing to `plans/README.md` for live status.
+- `DOC.T3` **done 2026-11-17.** Repo `README.md`: what this is, layout, lint/test/build commands, licence.

@@ -112,6 +112,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [3], [18], [24] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-2/ch-05-ahmad-paper-coal.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [7], [18], [24]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Yuan annals do not name Polo in the Ahmad episode; Rossabi was removed from that naming claim. Wood also acknowledges the coal description as accurate.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -128,3 +129,11 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-E3/E4 and S17-F1/F3: 1260 Zhongtong; 1287 official 1 Zhiyuan guan = 5 Zhongtong guan with old notes still circulating. The conversion is currently supported by one scholarly source; check a second independent source or the primary passage before printing the number. Museum blocks are bronze; issue year is not the date of an individual specimen. Keep existing S-14 findings and limits. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H8 (coal: the Book's claim; corroboration of the practice ≠ witness).
+
+## U-3 source handoff (2026-11-17)
+
+From the [U-3 intake](../../../research/results/U-3-intake.md) (10 checks, 10 hits). **Applied 2026-11-17.** F-56. Note [22]: cite Yule's own note that the passage is "more or less interpolated" and that the "Most High" may be the ancestral tablet (`[@yc, 2.34, note 3]`). Natigai's identity is disputed (Pelliot: Etügen/Itoga; Mostaert, Ragagnin: Načigai, attested 1312). These are inputs to the chapter's `.T1`/`.T4`/`.T3` work, not completed edits.

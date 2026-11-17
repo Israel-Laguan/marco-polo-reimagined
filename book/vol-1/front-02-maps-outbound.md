@@ -6,7 +6,7 @@
 
 ---
 
-Maps cannot replace Polo’s words, but they keep the ear honest. Volume I runs from the Adriatic to the Mongol summer court: roughly Venice to Chandu (Shangdu), with a long Persian–Central Asian bend and a desert that still frightens readers who have never seen sand. What follows is a map guide — how to look at the outbound route — plus place tables drawn from the project gazetteer (volume = 1). Image files live under `../media/`; captions below use placeholders until those files are filled. [1]
+Maps cannot replace Polo’s words, but they keep the ear honest. Volume I runs from the Adriatic to the Mongol summer court: roughly Venice to Chandu (Shangdu), with a long Persian–Central Asian bend and a desert that still frightens readers who have never seen sand. What follows is a map guide — how to look at the outbound route — plus tables of the places Volume I names. [1]
 
 ### How to read the outbound arc
 
@@ -22,17 +22,17 @@ On a modern wall map this looks like a crooked ribbon from Italy to Beijing via 
 
 ### Overview map — Venice to the Khan
 
-![Overview of Marco Polo’s outbound world, Venice to Mongol China](../media/map-marco-polo-overview.jpg)
+![The Polos’ journey out and back, Venice to China and home by sea](../media/map-marco-polo-overview.jpg)
 
-*Caption:* Schematic overview of the Polo outbound corridor from the Mediterranean to Yuan China, marking principal hinges (Acre, Tauris, Hormuz, Pamir, Lop, Shangdu/Cambaluc). *(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+*Caption:* A modern reconstruction of the whole round trip: overland out by Ayas, Tabriz, Hormuz, Balkh and the Silk Road to Xanadu and Peking, and back by sea from Quanzhou past Sumatra and India to Hormuz, then overland by Tabriz and Trebizond. The labels are in German (Venedig = Venice, Trapezunt = Trebizond). One reconstruction among several. *(Map: Maximilian Dörrbecker (Chumwa), Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
 
 Use this map to keep the whole arc in one glance. Do not treat every coastal label as a personal landing; Volume I is mostly land travel after Ayas.
 
 ### Asia under the Mongol umbrella
 
-![Asia and the Mongol successor realms in the later thirteenth century](../media/map-asia-mongol-empire.jpg)
+![Asia and the Mongol successor realms in the later thirteenth century](../media/map-asia-mongol-empire.png)
 
-*Caption:* The Mongol world of Polo’s generation — Yuan, Ilkhanate, Golden Horde, Chagatai — as the political weather system of Volume I. *(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+*Caption:* The Mongol successor realms c. 1294 — Yuan, Ilkhanate, Golden Horde, Chagatai — the political weather of Volume I. *(Map: Astrokey44, 1294 frame of an animated Wikimedia Commons map — credit in media/ATTRIBUTIONS.md)*
 
 This second map is political weather more than itinerary. When the book says a road was shut by war, look here for which ulus borders were burning.
 
@@ -97,7 +97,7 @@ Anyway, the maps are here so you can look up when the storyteller says *next he 
 
 ## Notes
 
-[1] Place data filtered from `/workspace/marco-polo/gazetteer.csv` where `volume=1`. Image files are expected under `/workspace/marco-polo/media/`; see `media/ATTRIBUTIONS.md` for license lines when files arrive.
+[1] ✓ The place tables give each place's book name, its modern name and its role in Volume I; identifications follow Yule–Cordier unless a chapter Note says otherwise. Image credits are in the media attributions.
 
 [2] ✓ Elder voyage geography in outline — Constantinople, Soldaia, Sarai/Bolghar, Bocara — Prologue tradition with Yule date correction.
 
@@ -105,4 +105,4 @@ Anyway, the maps are here so you can look up when the storyteller says *next he 
 
 [4] ✓ Pamir–Tarim–Lop–Tangut–Chandu sequence as Volume I’s eastern climax; Cambaluc fully opens in Volume II court chapters.
 
-[5] ? Soft IDs: Arbre Sec, Tenduc, Pem, parts of Baudas marvel overlay. Prefer gazetteer `reliability` column (visited / likely_visited / reported_only / uncertain).
+[5] ? Arbre Sec, Tenduc, Pem, parts of Baudas marvel overlay. Each chapter’s Notes say whether a place was visited, likely visited, only reported, or is uncertain.

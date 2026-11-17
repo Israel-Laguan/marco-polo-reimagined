@@ -15,7 +15,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ### Factual / fidelity
 - **[M]** Place table row "Cachanfu | Xi'an (Chang'an) | Kenjanfu; Nestorians noted" is wrong twice: Cachanfu is Puzhou/Hezhong (II-06 Note [8]), and "Nestorians noted" contradicts ch-06:33, which makes the *silence* about the Nestorian stele its dispute hook. Fix: add a Kenjanfu row (Xi'an, Prince Mangala's seat), set Cachanfu to Puzhou/Hezhong, delete "Nestorians noted". — vol-2 M2 · front-02:41
-- **[M]** `map-hangzhou-kinsay.jpg` shown as a map ("Kinsay and neighbours — Suju, Ganpu, and the estuary approaches") and credited to "Wikimedia Commons"; it is the AI-generated West Lake plate (same md5 as `drawing-kinsay-west-lake.png`; ATTRIBUTIONS lists it under "Generated illustrations"). Credit and labelling error. Fix: re-caption "Generated plate — West Lake atmosphere, not a map". Multimedia plan: **drop** the file. — vol-2 M8 · front-02:27–29; multimedia "Existing media triage"
+- **[M]** `map-hangzhou-kinsay.jpg` shown as a map ("Kinsay and neighbours — Suju, Ganpu, and the estuary approaches") and credited to "Wikimedia Commons"; it is the AI-generated West Lake plate (same md5 as `map-hangzhou-kinsay.jpg (generated drawing)`; ATTRIBUTIONS lists it under "Generated illustrations"). Credit and labelling error. Fix: re-caption "Generated plate — West Lake atmosphere, not a map". Multimedia plan: **drop** the file. — vol-2 M8 · front-02:27–29; multimedia "Existing media triage"
 
 ### Dispute handling and Ramusio flags
 - — none found
@@ -40,7 +40,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Media hooks
 - **Hero plate:** — none (map page)
 - **Secondary plates:** — none
-- **Maps:** A1 series overview (each volume's front-02, replaces the Wikimedia one); A7 Kublai's realm c. 1290 (II-front-02). Existing files: `map-china-yuan.jpg` is a duplicate of `map-yuan-1294.png` (dedupe; multimedia plan: **replace** with generated map, too small); `map-cambaluc.jpg` (**replace** with redrawn A9 Dadu plan); `map-caugigu.jpg` (keep as small facsimile, superseded by A11); `map-hangzhou-kinsay.*` (**drop**). Multimedia "Order of work" step 1: fix these mis-captions now.
+- **Maps:** A1 series overview (each volume's front-02, replaces the Wikimedia one); A7 Kublai's realm c. 1290 (II-front-02). Existing files: `map-china-yuan.png` (deduped 2026-11-17, MED.T3; multimedia plan: **replace** with generated map, too small); `map-cambaluc.jpg` (**replace** with redrawn A9 Dadu plan); `map-caugigu.jpg` (keep as small facsimile, superseded by A11); `map-hangzhou-kinsay.*` (**drop**). Multimedia "Order of work" step 1: fix these mis-captions now.
 - **Timelines / diagrams / tables:** place tables (regenerate from gazetteer, W5)
 - **Characters appearing:** Marco Polo (claims at Yanju/Saianfu); Prince Mangala (in critique's Kenjanfu row fix only)
 

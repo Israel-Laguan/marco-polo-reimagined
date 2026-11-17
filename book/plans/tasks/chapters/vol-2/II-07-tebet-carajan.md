@@ -98,6 +98,7 @@ _Created after the gating spikes close. Expected shapes:_
   - 3 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
   - Run `python3 tools/lint.py -v vol-2/ch-07-tebet-carajan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [7]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### II-07.T6 — Lint green and human read
@@ -108,3 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-15 source sweep:** Bolognari 2024 pp. 55–57 compares Jacopo's Tibetan-marriage passage with F, Z and VA (`registry/enrichment.md` S15-H4). A parallel in Jacopo is part of a connected textual tradition, not an independent ethnographic attestation. Preserve the existing hedges on Note [3].
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H4, H6, H8, H14. **Draft conflict (fixed 2026-11-17; re-voice must keep the fix):** the closing sentence “The core is crocodile” and Note [11] “✓ Crocodile core” become “usually identified as a crocodilian”, species open, Note marker ~. No Yunnan record appears among the 20 historical crocodilian records tabulated by Iijima et al.; Wen 1980 itself remains unread (S21-E38); *Hanyusuchus* is optional south-east background only (S21-E29). Gall medicine is the Book's claim. II-07's salt-cake “strong evidence of presence” must be attributed (H8).

@@ -101,6 +101,7 @@ _Created after the gating spikes close. Expected shapes:_
   - "Dispute" label in Note(s) [16]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
   - Run `python3 tools/lint.py -v vol-1/ch-09-balc-badashan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [16]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Haw citation on Kashmir was removed as not found; do not restore it without a checked passage.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-09.T6 — Lint green and human read
@@ -113,3 +114,11 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E11: balas spinels and Sar-e-Sang; modern mine context does not establish medieval methods. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H14 (Badakhshan stones, Sapurgan melons: S21-E7, no cultivar).
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). Lead, not a finding: Pelliot reads "Dogana" as **"Dogava"** (F, L *dogaua*) and reviews Pauthier's and Yule's identifications (*Notes* II, entry 210). Check before Note [4] is rewritten. These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

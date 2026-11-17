@@ -113,3 +113,15 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-15 source sweep:** Bottin 2008 (`registry/enrichment.md` S15-H1) discusses Polo's southern-sky report in Pietro d'Abano's *Conciliator* and possible interpretations. His presumed meeting in Venice and possible Southern Cross identification are inferences; neither settles the separate North Star visibility calculation in Note [1]. See `research/results/S-15-other-claims-intake.md`.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H2, H3, H4, H14. **Draft conflict (fixed 2026-11-17; re-voice must keep the fix):** the aside at `vol-3/ch-03-java-less-sumatra.md:25` says “Marco *sees* the beast”. Drop the eyewitness claim (S21-E11); the rhinoceros reading stays attributed, species open (Talbot, S21-E9).
+
+## S-18 priority source handoff (2026-11-16)
+
+Pasai: the 1297 inscription postdates the proposed c. 1292 visit. Lambourn dates the extant markers 1470s–1520s; Ismail et al. argue contemporaneity with death. Attribute both and do not claim Marco saw the stone. See [intake](../../../research/results/S-18-priority-return-2026-11-16-intake.md).
+
+**S-18 strict return:** Pelliot entry 270 in [Toyo Bunko OCR](https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page/0165.html.en) places Lambri in northwest Sumatra near future Acheh; Lamreh is a possible site reported through Yule, not an assured exact location. See [intake](../../../research/results/S-18-strict-follow-up-2026-11-16-intake.md).
+
+**S-18 library follow-up:** Yatim 1985 thesis p. 94 offers a dating error or replacement as alternatives; its OCR was independently read. Neither possibility proves replacement. Lambourn and Ismail directly read as already recorded. See [source-check intake](../../../research/results/S-18-library-returns-2026-11-16-intake.md).

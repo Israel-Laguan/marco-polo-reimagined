@@ -46,15 +46,15 @@ Now, says the book, let us go back to our journey. Beyond Tonocain the road will
 
 [2] ✓ / ~ Cattle scouring / dying from bad desert water. Plausible; intensity may be heightened. No habitations, no beasts for lack of food: ✓ desert description.
 
-[3] ✓ / ◇ Underground fresh stream with openings for access (*qanāt*-type). ✓ Persian *qanāt*/*kārēz* real (Polybius already on Persian subterranean conduits); ◇ Ramusian passage (Yule defends necessity). Then four days of similar desert with wild asses; end of Kerman kingdom at Cobinan. Gazetteer: Cobinan *likely_visited* outbound.
+[3] ✓ / ◇ Underground fresh stream with openings for access (*qanāt*-type). ✓ Persian *qanāt*/*kārēz* real (Polybius already on Persian subterranean conduits); ◇ Ramusian passage (Yule defends necessity). Then four days of similar desert with wild asses; end of Kerman kingdom at Cobinan. Cobinan: likely visited outbound.
 
 [4] ✓ / ~ Cobinan = Kuh-Banan; iron, steel, *ondanique*, steel mirrors. ✓ Place and metalworking district attested (Moḳaddasi; Yāḳūt; Abbott); ~ “large town” and mirror superlatives inflated. ✓ *Tutia* / *spodium* furnace process with iron grating: strong technical notice; zinc-oxide / collyrium tradition well paralleled (Galen on *pompholyx*; Teixeira; Gulf trade of Kermān tutia). One of Polo’s stronger technological passages. As cited in Yule: Moḳaddasi, Abbott, Galen, Teixeira [@yc, 1.21].
 
-[5] ✓ / ~ Eight-day arid desert Cobinan → Tonocain. ✓ Desert corridor real; ~ duration and exact line (Tabbas vs more easterly) debated. ✓ / ~ Tonocain as Tun-o-Kain / northern extremity of Persia: Tun-o-Kain identification sound; “extremity of Persia” and inclusion of wider Khorasan loose. ~ / ◇ Temperate climate; fine people; “surpassingly beautiful” women: conventional ethnographic praise. Gazetteer: Tonocain / Arbre Sec *uncertain*.
+[5] ✓ / ~ Eight-day arid desert Cobinan → Tonocain. ✓ Desert corridor real; ~ duration and exact line (Tabbas vs more easterly) debated. ✓ / ~ Tonocain as Tun-o-Kain / northern extremity of Persia: Tun-o-Kain identification sound; “extremity of Persia” and inclusion of wider Khorasan loose. ~ / ◇ Temperate climate; fine people; “surpassingly beautiful” women: conventional ethnographic praise. Tonocain / Arbre Sec: uncertain.
 
 [6] ~ / ? Solitary Arbre Sol / Arbre Sec as described (plane-like fruit/wood). ~ *Chīnār* botany plausible (Marsden; Olearius parallels); ? individual tree and “100 miles” isolation. ◇ / ✗ Locals’ claim: Alexander–Darius battle at the tree—folklore; ✗ as historical battlefield marker. ✓ Arbre Sec names drawn from Alexander romance / Christian Dry Tree lore (*Pseudo-Callisthenes*; *Chanson d’Alixandre*; Maundevile): romance topography pasted onto eastern Iran. As cited in Yule: Marsden, Pseudo-Callisthenes, Maundevile [@yc, 1.22].
 
-[7] ✓ Mulehet = country of the *Mulāḥidah* (Ismā‘īlī “heretics”). Standard medieval Muslim epithet (Yule); not a corruption of Alamūt as toponym. Book explicitly frames as hearsay (“heard from several natives”). Gazetteer: Old Man / Alamūt *reported_only*.
+[7] ✓ Mulehet = country of the *Mulāḥidah* (Ismā‘īlī “heretics”). Standard medieval Muslim epithet (Yule); not a corruption of Alamūt as toponym. Book explicitly frames as hearsay (“heard from several natives”). Old Man / Alamūt: reported only.
 
 [8] ◇ / ~ / ✗ Old Man Aloadin; paradise garden fashioned after Mahommet’s Paradise. ◇ Widespread legend (Latin, Chinese, Arabic parallels; Odoric echo); ~ real fortress culture of the Nizārīs; ✗ if garden-as-erotic-paradise taken as institutional fact. Crusader stereotype vs Ismā‘īlī history (Juvainī; Rashīd al-Dīn; Farhad Daftary [-@daftary1990ismailis]). As cited in Yule: Odoric [@yc, 1.22]; Juvainī [@yc, 1.24].
 

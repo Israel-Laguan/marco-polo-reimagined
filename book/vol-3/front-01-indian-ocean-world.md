@@ -52,7 +52,7 @@ The road became a sea-road. The sea-road, under a princess’s commission, becam
 
 [2] ✓ Monsoon sailing constraints — standard Indian Ocean history (Hall [-@hall1985maritime]; Chaudhuri [-@chaudhuri1985trade]; maritime archaeology overviews); Polo’s Sumatran winter wait fits the pattern.
 
-[3] Gazetteer volume=3; many maritime rows tagged reported_only or uncertain by design.
+[3] Many maritime places in Volume III are reported only, or their identification is uncertain.
 
 [4] ~ Polo’s “India” as periplus cosmology — Yule’s Book III organisation; comparative travellers for custom, not always for autopsy.
 
@@ -62,4 +62,4 @@ The road became a sea-road. The sea-road, under a princess’s commission, becam
 
 [7] ~ High mortality on the escort voyage — book tradition; survivors’ overland finish via Ilkhanid realm and Trebizond.
 
-[8] ◇ Legendary ethnography and wonder-islands — flagged legendary/reported in gazetteer; kept as book content, not modern geography.
+[8] ◇ Legendary ethnography and wonder-islands — treated as legendary or reported; kept as book content, not modern geography.

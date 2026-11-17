@@ -109,7 +109,7 @@ _Closed 2026-10-21._
 ## Tasks created on close
 - [x] `<ID>.T6` in all 49 chapter task files, each with its baseline error/warning count and failing checks.
 - [x] `BLD.T1` pre-commit hook in `tasks/cross/BLD-build-tooling.md`: block regressions against the baseline, not baseline debt.
-- Follow-up for S-03 and S-04: when they close, update the provisional rules in `tools/lint.py`, then regenerate the baseline.
+- [x] Follow-up for S-03 and S-04: provisional rules updated in `tools/lint.py` and baseline regenerated (2026-10-22).
 
 
 ## S-19 follow-up (2026-11-12)

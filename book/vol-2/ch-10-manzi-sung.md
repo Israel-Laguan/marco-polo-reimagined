@@ -22,11 +22,11 @@ This, you must know, is a very great city, and in old times was the seat of a gr
 
 Here the itinerary’s silk-and-water cadence thickens into history. For the Book has a rebellion to tell, and it tells it at Tadinfu though the notes will restore the scene to Chinangli’s Jinan.
 
-Now you must know that in the year of Christ 1273 — so the texts run; the notes will prefer 1262 — the Great Kaan had sent a certain Baron called Liytan Sangon (Li Tan), with some eighty thousand horse, to this province and city, to garrison them. And after the said captain had tarried there a while, he formed a disloyal and traitorous plot, and stirred up the great men of the province to rebel against the Great Kaan. And so they did; for they broke into revolt against their sovereign lord, and made this Liytan, whom their sovereign had sent thither for their protection, to be the chief of their revolt.
+Now you must know that in the year of Christ 1273 — so Yule’s text runs; the notes will prefer 1262 — the Great Kaan had sent a certain Baron called Liytan Sangon (Li Tan), with some eighty thousand horse, to this province and city, to garrison them. And after the said captain had tarried there a while, he formed a disloyal and traitorous plot, and stirred up the great men of the province to rebel against the Great Kaan. And so they did; for they broke into revolt against their sovereign lord, and made this Liytan, whom their sovereign had sent thither for their protection, to be the chief of their revolt.
 
 When the Great Kaan heard thereof he straightway despatched two of his Barons, one of whom was called Aguil and the other Mongotay, giving them a hundred thousand horse and a great force of infantry. But the affair was a serious one, for the Barons were met by the rebel Liytan with more than a hundred thousand horse and a large force of foot. Nevertheless in the battle Liytan and his party were utterly routed. When the news came to the Great Kaan he was right well pleased, and ordered that all the chiefs who had rebelled should be put to a cruel death, but that those of lower rank should receive a pardon. And so it was done. And thenceforward they conducted themselves with loyalty towards their lord.
 
-So the Book tells Litan’s revolt: a Chinese *Tsiang-kiun* — Sangon — turned traitor; amnesty for the rank and file. Chinese annals confirm the kernel and correct the year and the city that was besieged — early 1262; Litan declared for Sung, fortified T’si-nan; four-month blockade; taken alive and executed; amnesty for non-chiefs confirmed. This is among the Book’s checkable pillars. [6]
+So the Book tells Litan’s revolt: a Chinese *Tsiang-kiun* — Sangon — turned traitor; amnesty for the rank and file. The Chinese annals place the revolt in early 1262 and the siege at T’si-nan: Li Tan was taken alive and executed, while separate edicts pardoned some who had been coerced into following him. The Book’s episode can be compared with those records, though its account does not match them in every detail. [6]
 
 On leaving Tadinfu, Polo narrates, you travel three days towards the south through noble and populous towns flourishing with trade and manufactures, and come to the noble city of Sinjumatu (Jining), a rich and fine place. The people are Idolaters and subjects of the Great Kaan, and have paper-money, and they have a river which brings them great gain.
 
@@ -74,9 +74,9 @@ You must know that the Queen was conducted to the Great Kaan, who gave her an ho
 
 ## Notes
 
-[1] ✓ / ~ Southward canal itinerary from Juju opens Book II Part III toward Manzi. ✓ Corridor among Polo’s firmest Cathay routes. Gazetteer: Changlu *likely_visited*; Cacanfu *uncertain*; Coiganju held for II-11.
+[1] ✓ / ~ Southward canal itinerary from Juju opens Book II Part III toward Manzi. ✓ Corridor among Polo’s firmest Cathay routes. Changlu: likely visited; Cacanfu: uncertain; Coiganju held for II-11.
 
-[2] ✓ / ~ / ◇ Cacanfu ≈ Ho-kien fu (Hejian); silk and gold stuffs; Christians with a church (Ramusio only). ✓ Pauthier/Yule ID strong. ~ Gazetteer also lists Henan candidates. ◇ Nestorians plausible in North China. As cited in Yule: Pauthier [@yc, 2.60].
+[2] ✓ / ~ / ◇ Cacanfu ≈ Ho-kien fu (Hejian); silk and gold stuffs; Christians with a church (Ramusio only). ✓ Pauthier/Yule ID strong. ~ Henan candidates have also been proposed. ◇ Nestorians plausible in North China. As cited in Yule: Pauthier [@yc, 2.60].
 
 [3] ✓ Changlu / Ch’ang-lu salt by leaching salt earth; boiled in iron cauldrons to fine white grain. Cangzhou–Yen-shan salt district; process paralleled near Yangzi mouth (Duhalde; *Lettres Édifiantes*). As cited in Yule: Duhalde [@yc, 2.60].
 
@@ -84,11 +84,11 @@ You must know that the Queen was conducted to the Great Kaan, who gave her an ho
 
 [5] ✓ / ~ / ? Chinangli = T’si-nan fu (Jinan); Tadinfu = Yen-chau (Kin Tai-ting). ✓ Name and position; Shandong silk ancient. ~ “Noblest” + 11 cities better suit Jinan — conflation. Sangon = Chinese *Tsiang-kiun*.
 
-[6] ✓ / ✗ Litan (Li Tan) revolt vs Kublai. ★★★ Chinese annals 1262; T’si-nan siege (Gaubil; De Mailla; D’Ohsson; Pauthier). ✗ Year corrupt (1273 for 1262); captains Aguil & Mongotay exist (Agul distant cousin of Kublai; Mangkutai under Bayan) but annals name Apiché & Ssetienché. ✓ Amnesty for lower ranks, chiefs executed. As cited in Yule: Gaubil, De Mailla, D’Ohsson [@yc, 2.65]; Pauthier [@yc, 2.60].
+[6] ✓ / ~ Li Tan’s revolt: the *Yuan shi* annals place its outbreak in the second month of Zhongtong 3 (1262), record the investment of Jinan in the fourth month and his execution in the seventh, and name Prince Hebichi and Shi Tianze among the commanders [@yuanshi1370, juan 5; @yc, 2.61]. Separate edicts pardoned people described as coerced; this is not the single blanket pardon in the Book. The annals also name Aju among those sent against Li Tan; Polo’s Aguil is Aju, son of Uriyangqadai, whose biography records his march against Li Tan in 1262 [@pelliot1959notes, vol. 1, “Agiul”; @yuanshi1370, juan 128]. Pelliot reads Mongotay as a common name, Manghutai, and disputes Yule’s identifications [@pelliot1959notes, vol. 2, “Mongatai”]. Yule’s narrative gives 1273; the reported variant 1272 has not been independently checked here.
 
 [7] ✓ / ~ Sinjumatu = T’si-ning (Jining); river split to Cathay and Manzi; immense vessel traffic. ✓ Canal summit logic; Odoric’s Sunzumatu; *ma-t’ou* = jetty. ~ Lin-t’sing alternative for “from the south” (Cordier/Gandar). Wen and Sse diverted NW/SE; confluence at Nan-wang as summit. As cited in Yule: Odoric [@yc, 2.61]; Gandar [@yc, 2.62].
 
-[8] ✓ / ~ / ? Linju soft ID (Lingiu / Lin-ch’ing / Odoric’s Lenzin). ✓ Piju = Pei-chau at Manzi entrance — secure. ✓ / ~ Siju = Su-t’sien; wheat plains; old name *Si-chau*. As cited in Yule: Odoric [@yc, 2.61].
+[8] ✓ / ~ / ? Linju tentative identification (Lingiu / Lin-ch’ing / Odoric’s Lenzin). ✓ Piju = Pei-chau at Manzi entrance — secure. ✓ / ~ Siju = Su-t’sien; wheat plains; old name *Si-chau*. As cited in Yule: Odoric [@yc, 2.61].
 
 [9] ~ / ✗ / ✓ Caramoran here >1 mile wide, navigable for sea craft; sea 1 day off; ~15,000 Kaan vessels × 15 horses. ~ Polo-period southern mouth snapshot. ✗ Vs later/modern regimen; vessel census payroll/rhetoric. ✓ Coiganju = Hwai-ngan; ? Caiju lost to river change. Manzi = Sung South / *Man-tzŭ*; Rashīd: Cathay / Máchín divided by Karamoran. Deep-time shifts: Shang dual outlets; Mongol-age swing to Huai mouth (Polo’s crossing); 1851–53 return north.
 

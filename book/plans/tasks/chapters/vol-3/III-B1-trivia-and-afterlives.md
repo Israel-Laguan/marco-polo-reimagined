@@ -81,6 +81,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [1], [4] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [5], [6]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Keep the body and Note aligned: Larner disputes whether Polo’s Book directly shaped Columbus’s westward project; the surviving annotated copy is not proof of pre-1492 use.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-B1.T6 — Lint green and human read
@@ -93,3 +94,7 @@ _Created after the gating spikes close. Expected shapes:_
 **S-15 source sweep:** For the pasta legend, de Rachewiltz 1997 pp. 61–62 locates the wheat/pasta account in the Ramusian text and distinguishes his reading of *lasagne* from later translation labels (`registry/enrichment.md` S15-H5). This is a source-and-translation note, not evidence that Marco introduced pasta.
 
 **S-20 closed (2026-11-13):** apply the [myth and afterlife decisions](../../../research/results/S-20-closure.md), preserving attributed second-hand accounts and omitting unverified claims. The planned duplicate Columbus/Toscanelli passage is still slated for removal; do not imply the Seville copy was used before 1492.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: Trivia: Tennent's Catholic hereditary charmer (S21-E36) and the 1559 floating cask (S21-E33) are checked candidates.

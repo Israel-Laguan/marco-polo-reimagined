@@ -2,6 +2,8 @@
 
 **Status:** closed 2026-11-11 · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** III-12 `.T1`/`.T4` (reliability essay), III-11, III-B1, I-01 Notes on composition; `registry/scholarship.md`
 
+**2026-11-17 source-check update:** [open-access reading and corrections](../research/results/S-13-open-access-source-check-2026-11-17.md) qualify the historical findings below. The original closed status records completion of the timeboxed intake, not verification of every source or an agreed answer to each disputed question. In particular, do not repeat the claims of settled unanimity, a proven Venetian rewriting, or Z as the only variant without the qualifications in the current registry.
+
 ## Question
 What has changed in Marco Polo studies since Vogel's *Marco Polo Was in China* (2013)? That covers new arguments, documents, archaeology, editions, and anything that came out of the 700th anniversary of his death (2024). Which of the book's "open questions" (III-12 Note [13]) have moved?
 

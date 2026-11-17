@@ -83,6 +83,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [1], [6], [7] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [2], [7]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### II-B1.T6 — Lint green and human read
@@ -94,3 +95,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 Select, within the chapter budget, the 1287 official money conversion, surviving museum paiza, or Quanzhou’s serial heritage property from S17-E2–E6. Distinguish contemporary objects from Polo’s own possessions or personal presence. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: Trivia: use only checked S21-E rows; L items optional.

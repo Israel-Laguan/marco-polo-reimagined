@@ -1,0 +1,13 @@
+# S-18 source-access follow-up — paste-ready
+
+```text
+Please do this only if you can access actual archival or library copies. Return NOT SEEN when you cannot, without substituting search snippets. For every passage specify edition and page/shelfmark, give a stable holdings link, and identify whether you saw pixels, OCR, a published translation, an editor's summary, or an original manuscript.
+
+1. Ibn ʿAbd al-Ẓāhir, Tashrīf al-ayyām, Cairo 1961, ed. Murād Kāmil and Muḥammad ʿAlī al-Najjār, pp. 170–174: compare the Arabic image with David Cook's English translation, Chronicles of Qalāwūn and His Son al-Ashraf Khalīl (Routledge, 2020), pp. 175–178. The online extraction of Cook reports a 689/1290 Ethiopian embassy and an envoy dying at ʿAydhāb; Cook's note 280 proposes a connection to Polo. Verify exact wording, whether any particular person is a bishop and whether the Arabic actually mentions forced circumcision, retaliation or the envoy's identity. Distinguish Cook's interpretation from the chronicle; do not claim a general silence based only on this passage.
+2. Pelliot Notes II, actual images 0129, 0165–0166, 0206–0207 and index: photograph or view image headers for printed pagination (archive navigation numbers are scan indexes, not printed pages). On 0207 check the precise Talamasi/Ṭawālisī passage and whether it belongs within 313 PENTAN or a distinct numbered entry. Verify FERLEC 231 and relevant SEILAN/SAGAMONI BORCAN index entries. Attribute any uninspected material to OCR only.
+3. Sasaki, The Origins of the Lost Fleet of the Mongol Empire (2015, ISBN 9781623491949): open a verifiable authorized edition and inspect the book's timber, fire and storm pages. A previous return cited archive.org item Book_1137, but it is currently marked dark and we cannot reproduce the reading. Record specific pages, the exact observed evidence and author's causal arguments; distinguish from Sasaki's 2008 MA thesis and Ikeda et al. 2019.
+4. Venice: inspect ASVe Notarile testamenti, Pietro Pagano, b.830 prog.5 and the actual March 1328 Domini Advocatores proceeding. Compare original dates, will identity and conditions of the imprestiti bequest; Orlandini's and Moule–Pelliot's editions were already read in OCR. Do not confuse the bequest of 1,000 lire with Marco's separate payment of 1,000 lire for several losses.
+5. If available, read Guillot–Kalus 2008 on the specific Malik al-Salih grave and Pankhurst 1982 on Polo's Ethiopian story. Give actual passages rather than references to them.
+
+Return a per-source table, including negative results only for the passages actually searched and the limits of that search. Keep scholarly reconstructions distinct from what medieval texts state.
+```

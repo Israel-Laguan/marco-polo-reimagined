@@ -110,3 +110,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-F4: preserve Yule versus Pelliot on Caugigu, Anin and Toloman; do not identify Cuiju conclusively with Guiyang or treat regional reference pins as exact sites. See the six-case table in S-17 intake. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H4 (customs: state what the text alleges; no ethnic IDs).

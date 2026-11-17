@@ -1,6 +1,6 @@
 # S-21 — Natural history, commodities and marvels
 
-**Status:** open · **Phase:** R (follow-up deep research) · **Timebox:** initial external run + intake complete; targeted follow-up needed · **Gates:** asides and Notes on animals, plants, minerals and marvels in all volumes; the three trivia back-matter files; `PLT` caption facts; `TBL` commodity tables
+**Status:** closed 2026-11-13 (qualified handoff) · **Phase:** R (follow-up deep research) · **Timebox:** spent; remaining library checks are optional · **Gates:** asides and Notes on animals, plants, minerals and marvels in all volumes; the three trivia back-matter files; `PLT` caption facts; `TBL` commodity tables
 
 ## Question
 For each animal, plant, mineral, trade good and marvel Polo describes, what is it in modern terms? What explains his description (accurate, misunderstood, hearsay, ancient legend)? And what one vivid, checkable fact would a reader enjoy?
@@ -38,14 +38,23 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 
 ## Output (definition of done)
 - [x] `research/results/S-21-raw.md` saved (exact supplied attachment)
-- [ ] `registry/enrichment.md` § natural history, grouped by chapter
-- [ ] Candidate rows for the `TBL` commodity tables
+- [x] `registry/enrichment.md` § natural history (S21-E1–E40); routed to chapters in the [closure](../research/results/S-21-closure.md#chapter-handoffs), not a full 59-row register
+- [x] Candidate rows for the `TBL` commodity tables (four drafts, with limits)
 
 ## Feedback to plan
 - `multimedia-plan.md` § D (commodity tables)
 - `illustration-plan.md`: caption facts for natural-history secondaries
 
 ## Follow-up prompts
+
+[Optional archival checks after 16 November audit](../research/S-21-primary-audit-open-questions-prompt.md) — a stricter source-specific rerun if a stronger historical claim is selected; the spike remains closed with qualified handoff. **Run as best effort, 2026-11-16:** [record](../research/results/S-21-optional-archival-best-effort-2026-11-16.md). Twynam, Wen 1980 and Weisgerber 2004 were still not read; for Twynam, only metadata-level hits (p. 24 "shark charmers"). All fallbacks are unchanged.
+
+
+[Remaining selected-source checks](../research/S-21-narrow-open-questions-prompt.md) — stricter follow-up for the 1856/1885 records, historical Yunnan evidence and the Weisgerber chapter; the Socotra barrel float is now attested in a scholarly transcription.
+
+
+[Narrow source-inspection rerun](../research/S-21-targeted-rerun-2-prompt.md) — 1856/1885, Socotra witnesses, historical Yunnan crocodilians, and Weisgerber; required after the latest purposive check fell below 80%.
+
 
 [Targeted stricter rerun for passes 1 and 2](../research/S-21-passes-targeted-rerun-prompt.md) — publication-critical witness checks and unresolved evidence, required after both spot checks fell below 80%.
 
@@ -61,6 +70,18 @@ OUTPUT FORMAT (required). (1) A findings table with columns: # · claim or topic
 
 ## Findings
 
+**16 November source audit:** [raw report](../research/results/S-21-primary-source-audit-2026-11-16-raw.md) and [intake](../research/results/S-21-primary-source-audit-2026-11-16-intake.md). All eight distinct cited works were tested; **5/8** supported the particular propositions and access levels checked, not a random estimate of overall report accuracy. A stricter optional prompt is recorded per the research protocol. The report’s proposed Burgio–Fornasiero p. 130 / F 199 correction comes from a pre-publication draft: the published volume has p. 133 / F CLXXXIX, which stands. The project has already inspected Ostroff and the Ramusio 1559 facsimile; the report’s own access limits do not undo those findings. Ostroff says “employed” after 1859, not explicitly “state employment”; H9 has been corrected.
+
+
+**2026-11-13 — closed.** [Closure: decisions by item](../research/results/S-21-closure.md). The [remaining-source checks](../research/results/S-21-remaining-checks-intake.md) were run in this repo. They confirm the Socotra *bottesella* in the 1559 print (II fol. 57v). They find no historical Yunnan crocodilian among the 20 records Iijima et al. tabulate from Wen et al. 1980. They trace the Shahr-i Babak mine to Yule's own “probably” (via Ouseley's *Shebavek*). And they reduce the shark-charmer dates to attributed accounts: Tennent 1859, Ostroff's 1859, Kunz 1908 and Smith 1912 for the mid-1880s, and Fernando's 1856. Three external AI answers supplied by the user were checked; the Jinchi/Yongchang crocodile record they asserted is unsupported. Twynam 1902, Wen 1980 and Weisgerber 2004 stay unread. Every high-priority item now has a decision or a fallback; the draft conflicts are routed to chapter task files.
+
+
+**Narrow follow-up:** [raw Consensus return](../research/results/S-21-narrow-followup-raw.md) and [intake](../research/results/S-21-narrow-followup-intake.md). The report states it did not inspect originals; that does not undo this project’s earlier checks. All nine bibliography works were checked against narrow propositions: **6/9 hits**, including one inaccessible passage and one metadata/locator error; this is not a random error-rate estimate. A stricter rerun is recorded for selected unresolved questions. Independently, Burgio and Fornasiero’s 2011 scholarly comparison, p. 133, quotes Ramusio’s *bottesella* (small cask) attached to the whale-hunting line and casks of oil, and compares Z; this corrects our earlier statement that no line cask had been found. Manuscript images and the 1559 print were not directly inspected.
+
+
+**Targeted rerun returned:** [intake and ten checks](../research/results/S-21-targeted-rerun-intake.md), with three preserved attachments linked there. Two are progress logs; the third is the finished audit. The purposive claim-level check found **7/10 hits**; this is not an error-rate estimate, and the project protocol calls for a stricter rerun below 80%. The disputed 1856 and 1885 shark-charmer dates now have named sources; GIA’s Weisgerber reference is identified but its intended date remains open. An 1980 Wen forestry entry is not a crocodile study, while a separate crocodilian paper remains unread. The Socotra cask wording appears in an English rendering but not in the Yule text Srinivasan cites. See the intake for safe manuscript wording and unresolved witness checks.
+
+
 **Pass 1 and pass 2 returned:** [raw pass 1](../research/results/S-21-pass1-raw.md), [raw pass 2](../research/results/S-21-pass2-raw.md), and [checked intake](../research/results/S-21-pass1-pass2-intake.md). Ten purposively selected claim-level citation checks per report yielded **7/10** and **6/10** respectively; access limitations and metadata errors count as misses, and these are not random error-rate estimates. The project rule calls for a stricter rerun below 80%. Pass 2 falsely denies the diamond-valley story and misses Yule’s Ramusio attribution of the full whale-hunt paragraph. Pass 1 misidentifies a crocodilian article and overlooks Kunz–Stevenson’s 1885 statement; pass 2 misidentifies the 2024 Mannar article’s authors and title. Corrected, scoped candidates are in the enrichment registry. The full chapter register and table remain incomplete.
 
 
@@ -74,7 +95,17 @@ Initial report preserved as [raw](../research/results/S-21-raw.md); see the [int
 The report covers 59 topics but often conflates an underlying modern phenomenon with Polo’s precise observation, place or century. The first intake corrects a pearl-fishery continuity overclaim, supplies the ambergris paper citation, flags the unsupported Java entrepôt explanation and spots the misplaced Lambri brazil passage. A few scoped facts are in `registry/enrichment.md`; the full chapter register and TBL rows remain incomplete.
 
 ## Decision
-_(fill when closing)_
+**2026-11-13.** Natural-history passages report the Book's claim in the witness that carries it; identifications and explanations are attributed and hedged as the [closure table](../research/results/S-21-closure.md#decisions-by-item) sets out; no efficacy claims. Specifically:
+- the Carajan “serpents” are *usually identified as a crocodilian*, species open, and no Yunnan record is claimed;
+- Kerman turquoise is the province's, and any mine is Yule's probable identification;
+- the Socotra whale hunt is Ramusio's (1559 II fol. 57v), flagged;
+- shark-charmer history is attributed, with the abolition in the mid-1880s per Kunz and Smith and no single ban year;
+- the Basma rhinoceros has no eyewitness claim.
+
+Fallbacks stand for H2–H5, H8 and H11–H14; Moule–Pelliot is not a gate.
+
+**Feedback to plan:** `multimedia-plan.md` § D is unchanged in structure; the commodity rows go to `TBL-tables.md` as drafts with limits. Natural-history caption facts for `illustration-plan.md` must come from checked S21-E rows; no plan text changed.
 
 ## Tasks to create on close
 - Per-chapter `.T4` Note upgrades; `I-B1`, `II-B1`, `III-B1` trivia items; `TBL.T*` rows
+- **Done (2026-11-13):** an `S-21 source handoff` section was added to 21 gated chapter task files and to `TBL-tables.md`. The existing chapter tasks remain open; these handoffs are inputs to their prose and Notes work. The concrete draft conflicts are I-07, II-07, III-03, III-05 and III-07.

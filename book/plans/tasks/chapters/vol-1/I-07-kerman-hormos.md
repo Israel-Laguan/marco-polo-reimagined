@@ -106,6 +106,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-07-kerman-hormos.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [16]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Vogel citation on Hormuz was removed as not found; do not restore it without a checked passage.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -120,3 +121,11 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T1 / T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E2/E10/E16: Minab regional proxy, sewn-boat parallels and Yule/Sykes route inferences. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H5 (humped cattle: Book's claim), H7. **Draft conflict (fixed 2026-11-17; re-voice must keep the fix):** Note [2] ticks “mines … attested (Shahr-i-Bābak / Pārīz…)”. Name no mine; Polo says the province's mountains. If a mine is wanted, attribute it to Yule's “probably” Shahr-i-Babek (from Ouseley's *Shebavek*). S21-E40.
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). **Applied 2026-11-17 to the Note** (body text unchanged). F-46. Body l. 23 "Nigūdarī bands are historically attested" can stay, sourced to Pelliot ("Caraunas": first mention 1270). Note [7]: the genealogy (Chagatai's nephew) is the Book's, with no nephew Negüder found; Dalivar = Lahore (Marsden, Yule) or Delhi (Pelliot); Asedin = Ghiyāth al-Dīn, sultan of Delhi. Cite `[@pelliot1959notes, vol. 1, "Caraunas"; vol. 2, "Dilivar"]`. Aubin and Jackson are leads only. These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

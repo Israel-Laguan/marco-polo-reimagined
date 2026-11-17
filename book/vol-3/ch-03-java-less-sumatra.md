@@ -10,7 +10,7 @@
 
 From Pentam and the shoal throat of the Malay world, Marco Polo narrates, a hundred miles more of sailing bring the voyage to an island the Book names Java the Less — though for all that lesser name it has a circuit of two thousand miles or more. This is Sumatra under an older Archipelago name the Arabs and Malays still shared: *Jawa*, *Jawi*, applied both to the great southern island and to this northern giant. Beyond Malaiur’s market the southern Ocean road does not yet open India; it opens eight crowned kings, eight tongues, treasure and spice, and a latitude so far toward the midday sun that the North Star, little or much, is never to be seen. [1]
 
-Upon this Island, he says, there are eight kingdoms and eight crowned kings. The people are all Idolaters — save where Saracen merchants have already begun their work, as Ferlec will show — and every kingdom has a language of its own. The Island hath great abundance of treasure, with costly spices, lign-aloes and spikenard, and many others that never come into our parts. Of the eight, six lie at this side or end of the Island — the northern run — and of those six the Book will speak. Of the other two, on the farther side, Messer Marco Polo never was there, and so the telling will leave them in silence. Soft premise here: not a wonder-catalogue of Chipangu’s gold roof, but a merchant’s and a castaway’s Sumatra. [2]
+Upon this Island, he says, there are eight kingdoms and eight crowned kings. The people are all Idolaters — save where Saracen merchants have already begun their work, as Ferlec will show — and every kingdom has a language of its own. The Island hath great abundance of treasure, with costly spices, lign-aloes and spikenard, and many others that never come into our parts. Of the eight, six lie at this side or end of the Island — the northern run — and of those six the Book will speak. Of the other two, on the farther side, Messer Marco Polo never was there, and so the telling will leave them in silence. Not a wonder-catalogue of Chipangu’s gold roof, but a merchant’s and a castaway’s Sumatra. [2]
 
 When you leave the Island of Pentam and sail about a hundred miles, you reach Java the Less, and first among its kingdoms the Book sets Ferlec.
 
@@ -22,7 +22,7 @@ When you quit the kingdom of Ferlec, Polo continues, you enter upon that of Basm
 
 They have hair like that of a buffalo, feet like those of an elephant, and a horn in the middle of the forehead, which is black and very thick. They do no mischief, however, with the horn, but with the tongue alone; for this is covered all over with long and strong prickles, and when savage with any one they crush him under their knees and then rasp him with their tongue. The head resembles that of a wild boar, and they carry it ever bent towards the ground. They delight much to abide in mire and mud. ’Tis a passing ugly beast to look upon, and is not in the least like that which our stories tell of as being caught in the lap of a virgin; in fact, ’tis altogether different from what we fancied. [6]
 
-— That unicorn is a rhinoceros seen by a Venetian eye and named by a Latin memory. Marco *sees* the beast and *rejects* the Physiologus maiden legend, yet keeps the name and “one horn” — though Sumatra’s *Rhinoceros sumatranus* is typically two-horned. The tongue-prickle belief is old and wide. Anyway, next he mentions monkeys and a trade fraud. [7]
+— That unicorn is a rhinoceros seen by a Venetian eye and named by a Latin memory. The Book describes the beast and *rejects* the Physiologus maiden legend, yet keeps the name and “one horn” — though Sumatra’s *Rhinoceros sumatranus* is typically two-horned. The tongue-prickle belief is old and wide. Anyway, next he mentions monkeys and a trade fraud. [7]
 
 There are also monkeys here in great numbers and of sundry kinds; and goshawks as black as crows. And when people bring home pygmies which they allege to come from India, ’tis all a lie. For those little men are manufactured on this Island: a kind of monkey which is very small and has a face just like a man’s; they pluck out all the hair except beard and breast, dry and stuff them, and daub them with saffron until they look like men. But nowhere in India nor anywhere else were there ever men seen so small as these pretended pygmies. [8]
 
@@ -48,7 +48,7 @@ The people have no wheat, but have rice which they eat with milk and flesh. They
 
 There is now no more to relate of those six kingdoms that lie at this side of the Island. Of the other two on the farther side the Book will tell nothing, for the said Messer Marco Polo never was there. Howbeit the greater part of Java the Less has been told; so now the voyage may quit it, toward a very small Island that is called Gauenispola, and afterward toward the Nicobar and Andaman chain that Volume III has not yet opened.
 
-Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hills; Basma’s elephant and the unicorn that is a rhinoceros; Samara’s five-month stockade under a starless north; Dagroian’s funerary cannibal charge; Lambri’s brazil seed that would not grow in Venice, and tailed mountain men; Fansur’s gold-weight camphor and the sago tree whose flour the party ate as bread. Soft close here: the monsoon that held two thousand men at Samara is the same logic of fair and foul wind that will one day delay a princess’s fleet; the Kaan’s name claimed without tribute is the polite fiction of distance; and Java the Less, more accurately measured than Java the Great, has been entered under the mixed tag of sight, detention, and report.
+Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hills; Basma’s elephant and the unicorn that is a rhinoceros; Samara’s five-month stockade under a starless north; Dagroian’s funerary cannibal charge; Lambri’s brazil seed that would not grow in Venice, and tailed mountain men; Fansur’s gold-weight camphor and the sago tree whose flour the party ate as bread. The monsoon that held two thousand men at Samara is the same logic of fair and foul wind that will one day delay a princess’s fleet; the Kaan’s name claimed without tribute is the polite fiction of distance; and Java the Less, more accurately measured than Java the Great, has been entered under the mixed tag of sight, detention, and report.
 
 ---
 
@@ -60,7 +60,7 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 [3] ✓ Ferlec = Perlak; coastal Islam from Saracen merchants. Strong toponym and conversion timing (Malay Chronicle; Rashid *Barlak*; Diamond Point). ✓ / ~ Hill-people cannibalism inland — Batta ritual anthropophagy long attested; Book’s “beasts” framing. ◇ Morning-object worship — wide ethnographic topos. As cited in Yule: Malay Chronicle [@yc, 3.9].
 
-[4] Gazetteer: Ferlec *likely_visited*. Comparative: Junghuhn; Anderson; Conti *Batech*; Barbosa; De Barros; Arab *Relations* (Al-Ramni). As cited in Yule: Junghuhn, Conti, Barbosa, De Barros [@yc, 3.9].
+[4] Ferlec: likely visited. Comparative: Junghuhn; Anderson; Conti *Batech*; Barbosa; De Barros; Arab *Relations* (Al-Ramni). As cited in Yule: Junghuhn, Conti, Barbosa, De Barros [@yc, 3.9].
 
 [5] ✓ / ? Basma = Pasai / Pacem. Usual ID; Schlegel Pasěman alternative noted. ✓ / ~ Nominal Kaan subjecthood without tribute — Chinese tribute lists 1286; polite fiction of distance. ✓ Wild elephants in northern Sumatra. As cited in Yule: Schlegel [@yc, 3.9].
 
@@ -70,22 +70,22 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 [8] ~ Stuffed-monkey “pygmies” as trade fraud. Plausible cheat; hard to corroborate specifically.
 
-[9] ✓ / ~ Samara = Samudra; Marco detained five months. ✓ place and monsoon logic; ~ exact five months and 2,000 men. Gazetteer: *visited*.
+[9] ✓ / ~ Samara = Samudra; Marco detained five months. ✓ place and monsoon logic; ~ exact five months and 2,000 men. Visited.
 
 [10] ~ Stockades / ditches against man-eaters; locals supply food — plausible castaway practice; timber coast real. ✓ Palm toddy (gomuti) and coconuts as described.
 
 [11] ★★★ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering; will recur for Cocachin fleet (Vol. III-9). Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment. As cited in Yule: Odoric [@yc, 3.9].
 
-[12] ◇ / ? Dagroian funerary cannibal complex. Report-type; site and literal accuracy vs ritual/topos mix. Soft ID near Pedir / Chinese tattooed-face kingdom.
+[12] ◇ / ? Dagroian funerary cannibal complex. Report-type; site and literal accuracy vs ritual/topos mix. Tentative identification near Pedir / Chinese tattooed-face kingdom.
 
 [13] ◇ / ~ Ransomless foreigners eaten — stock Ocean-island charge; Batta parallels exist. Worms-and-soul rationale may preserve ritual logic under atrocity framing.
 
 [14] ★ Dispute: cannibal customs — topos vs ritual misreading (Dagroian; Ferlec hills; Batta). Parallels: Herodotus Paddaei; Odoric Dondin; Conti; Raffles. As cited in Yule: Herodotus [@yc, 3.10]; Odoric, Conti [@yc, 3.9].
 
-[15] ✓ Lambri = Lamuri near Aceh headland. Chinese *Nanwuli* 1286 tribute; Malay Chronicle; Odoric Lamori; De Barros Lambrij. ✓ / ~ Brazil cultivated and transplanted as told. ~ Brazil seed sown at Venice failed — personal anecdote; climate reason plausible. Gazetteer: *likely_visited*. As cited in Yule: Malay Chronicle, Odoric, De Barros [@yc, 3.9].
+[15] ✓ Lambri = Lamuri near Aceh headland. Chinese *Nanwuli* 1286 tribute; Malay Chronicle; Odoric Lamori; De Barros Lambrij. ✓ / ~ Brazil cultivated and transplanted as told. ~ Brazil seed sown at Venice failed — personal anecdote; climate reason plausible. Likely visited. As cited in Yule: Malay Chronicle, Odoric, De Barros [@yc, 3.9].
 
 [16] ✗ / ◇ Tailed men in Lambri mountains. Marvel; Archipelago commonplace (Kazwini; Marsden *Orang Gugu*; Ctesias; Ptolemy Satyrs); soft ethnographic core (interior peoples; costume) under wonder-label. ★ Dispute: tailed / hairy men — marvel ◇. As cited in Yule: Kazwini, Marsden, Ptolemy [@yc, 3.9]; Ctesias [@yc, 3.11].
 
-[17] ✓ Fansur = Barus; *Canfora Fansuri* best, gold-weight price. Arab *Fansūrī* camphor from 9th c. (*Relations*; Masʿūdī; Avicenna) — ★★★ trade-fact. Gazetteer: *reported_only*. As cited in Yule: Masʿūdī, Avicenna [@yc, 3.11].
+[17] ✓ Fansur = Barus; *Canfora Fansuri* best, gold-weight price. Arab *Fansūrī* camphor from 9th c. (*Relations*; Masʿūdī; Avicenna) — ★★★ trade-fact. Reported only. As cited in Yule: Masʿūdī, Avicenna [@yc, 3.11].
 
-[18] ✓ / ~ Sago “flour trees”; party ate bread. ✓ sago technology (*Metroxylon* / palm pith starch); ~ whether tasted at Fansur or during Samara wait. Soft close toward Gauenispola and Nicobar–Andaman–Seilan arc.
+[18] ✓ / ~ Sago “flour trees”; party ate bread. ✓ sago technology (*Metroxylon* / palm pith starch); ~ whether tasted at Fansur or during Samara wait.

@@ -1,7 +1,7 @@
 # Marco Polo Retelling — Executive Summary (Volume / Chapter Map)
 
 **Series:** *The Book of the Million* — polished formal retelling on the Yule–Cordier / *Il Milione* base.  
-**Full outline:** `/workspace/marco-polo/outline-volumes.md`  
+**Full outline:** `outline-volumes.md`  
 **Density:** long-book blueprint (40 narrative chapters + closing essay); trim map included if stricter band counts are required.
 
 ---
@@ -50,7 +50,7 @@
 
 | Output | Path | Chapters |
 |--------|------|----------|
-| Full outline | `/workspace/marco-polo/outline-volumes.md` | I: **13** · II: **15** · III: **11 + essay** |
-| This summary | `/workspace/marco-polo/outline-summary.md` | — |
+| Full outline | `outline-volumes.md` | I: **13** · II: **15** · III: **11 + essay** |
+| This summary | `outline-summary.md` | — |
 
 Trim-to-band options (I 11 / II 13 / III 12) are noted at the end of the full outline if production requires the narrower locked ranges.

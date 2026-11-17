@@ -26,7 +26,7 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 
 ## Tasks
 **Every GEN task** (S-10):
-1. Write `media/plates/prompts/<id>.txt` from the scene row (`illustration-plan.md`) and the template, with the tradition's `NEGATIVE:` line, plus `tools/characters.py cue` lines for recurring figures, and the S-22 cue lines the row names (`illustration-plan.md` § S-22 period cues; a card line wins where they differ). No modern title or reference image goes into the prompt (style guide rules 8–12).
+1. Before prompt writing, check the scene's period-source handoff in its chapter task and the current S-23 gap ledger. **Ready** in the table means the production task can be started, not that every depicted detail has been sourced. Research, omit, or explicitly qualify details for which no suitable source has been checked. C9–C22 are rejected cue IDs and must not be used. Then write `media/plates/prompts/<id>.txt` from the scene row (`illustration-plan.md`) and the template, with the tradition's `NEGATIVE:` line, plus `tools/characters.py cue` lines for recurring figures, and the applicable checked cue lines (`illustration-plan.md` § S-22 period cues; a card line wins where they differ). No modern title or reference image goes into the prompt (style guide rules 8–12).
 2. Generate by the route in the table (`plans/image-generation-guide.md`):
    - **Akool:** `python3 tools/plate_gen.py … --n 4`.
    - **Gemini chat:** copy the shape of `prompts/I-7-chat.txt`, with one corrective follow-up turn.
@@ -118,3 +118,5 @@ _PD plates (from S-11) are below._
 ### PLT.III-12 — PD: the Catalan Atlas caravan
 - **Status:** ready (no BnF licence: user, 2026-11-10)
 - **Do:** H crop of `III-12-alt_loc1959-facsimile-caravan.jpg` (keep the inscription), in `vol-3/ch-12-reliability-essay.md`; credit it as the 1959 facsimile.
+
+**Priority visual intake, 2026-11-16:** Before I-4 / II-14 / III-3, consult the [updated visual register](../../registry/visual-references.md#2026-11-16-priority-visual-source-intake) for Ayas fortress phases, the excavated Deji Gate and Kota Cina sample limits. For II-4's hunting scroll the NPM now states CC0 / CC BY 4.0 terms for specified files; confirm the exact downloaded file, credit and print resolution before placement. No plate or prompt was changed by the intake.

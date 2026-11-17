@@ -63,11 +63,13 @@ Every prompt ends with the same contract, so results come back in a shape the in
 
 ## Run order
 
+For hedged claims that no earlier pass researched (found 2026-11-17), use the [unresearched-claims prompts](2026-11-17-unresearched-claims-prompts.md), U-1 to U-3. For the remaining gaps identified in the 16 November spike audit, use the [prioritized, copy-ready prompts](2026-11-16-priority-research-prompts.md). They distinguish questions already answered from the checks still worth running and note which requests need library or archive access.
+
 The prompts are independent, so you can run them in any order or all at once. Intake order matters a little:
 
 1. **S-12 first** (closed 2026-11-10). It set the bibliography keys the others reuse: look a work up in `registry/sources.md` before adding a new entry.
 2. **S-14 next.** It closes most of S-06 and unblocks the factual `.T1` items.
-3. The rest in any order. S-16, S-17 and S-18 have been taken in on a best-effort basis; use their checked results and keep their open questions open. Run the S-18 follow-up before the Vol. III W4 re-voice batch if possible.
+3. The rest in any order. S-16, S-17 and S-18 have been taken in on a best-effort basis; use their checked results and keep their open questions open. By user decision, defer further S-18 access-dependent follow-ups; consult its intakes before the Vol. III W4 re-voice batch.
 
 | Spike | Prompt focus | Main consumers |
 |---|---|---|
@@ -76,8 +78,8 @@ The prompts are independent, so you can run them in any order or all at once. In
 | [S-14](../spikes/S-14-fact-verification-sweep.md) | The unverified-claims list | S-06; factual `.T1` in 15 files |
 | [S-15](../spikes/S-15-venice-genoa-family.md) | Venetian and Genoese documents, the family, Rustichello, Pipino | I-01, I-02, III-10, `CHR` |
 | [S-16](../spikes/S-16-overland-route.md) | Overland route: archaeology and identifications (Vol. I) | Vol. I chapters; `GAZ`; `MAP` |
-| [S-17](../spikes/S-17-yuan-china.md) | Yuan institutions, cities and corroborations (Vol. II); **best-effort intake done**, [follow-up](S-17-follow-up-prompt.md) available | Vol. II chapters; `GAZ`; `MAP`; `DIA`; `TBL` |
-| [S-18](../spikes/S-18-maritime-return.md) | Ships, ports and the return voyage (Vol. III); **best-effort intake done**, [follow-up](S-18-follow-up-prompt.md) available | Vol. III chapters; `MAP`; `DIA` |
+| [S-17](../spikes/S-17-yuan-china.md) | Yuan institutions, cities and corroborations (Vol. II); **best-effort intake done**; the older [follow-up](S-17-follow-up-prompt.md) is largely superseded by the 2026-11-16 priority prompt §1 (return taken in, 8/10) | Vol. II chapters; `GAZ`; `MAP`; `DIA`; `TBL` |
+| [S-18](../spikes/S-18-maritime-return.md) | Ships, ports and the return voyage (Vol. III); **best-effort intake done**; access-dependent gaps retained and further follow-ups deferred by user choice | Vol. III chapters; `MAP`; `DIA` |
 | [S-19](../spikes/S-19-primary-comparanda.md) | Comparative primary sources: best translations and citable passages (**closed best effort 2026-11-12; Rashid bride embassy and Yuan shi Xiangyang/Burma entries checked on scans; Cleaves 1976 and lead rows open**) | `registry/comparanda.md`; Comparative clauses; III-12; BLD.T10 |
 | [S-20](../spikes/S-20-reception-afterlives.md) | Manuscripts, print history, cartography, myths, modern afterlives (**closed with qualified handoff**; [decisions](results/S-20-closure.md)) | III-11, III-B1, I-B1, II-B1 |
 | [S-21](../spikes/S-21-natural-history-marvels.md) | Natural history, commodities and marvels | trivia back matter; asides; `PLT` captions |

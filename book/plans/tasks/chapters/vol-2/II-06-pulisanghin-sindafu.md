@@ -109,3 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-F4: Acbalec is a probable Hanzhong-area interpretation from prior Pelliot work, not a surveyed exact stop; Lugou bridge’s historical arch/lion count was not checked for this intake. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## U-3 source handoff (2026-11-17)
+
+From the [U-3 intake](../../../research/results/U-3-intake.md) (10 checks, 10 hits). **Applied 2026-11-17.** F-55. Note [6]: add Pelliot's Jiangzhou 絳州 to the site list, with his caveat that the distances fit no site (`[@pelliot1959notes, vol. 1, "Caiciu"]`); Kiai-chau is Marsden's, adopted by Wylie and Richthofen. Note [7]: "no Jin-history match" is Wylie's search of the Liao and Kin histories and Cordier's of Harlez (both via Yule). These are inputs to the chapter's `.T1`/`.T4`/`.T3` work, not completed edits.

@@ -192,26 +192,7 @@ Worded only from objects **viewed** on 2026-11-13, at the image named. They were
 - C7: no stitching is visible on the hull at this resolution. Do not write "sewn" from this image.
 - No cue here covers armour. The hunt scene shows none, and Or.MS 20 was not viewed.
 
-**NEW Draft `[PERIOD]` cues from comprehensive supplement (2026-11-13)**
-
-**Not cues. Do not use.** Worded from the raw file's text about unviewed objects; C12 describes reliefs that do not exist and C14 contradicts the viewing of Arabe 5847 recorded above. Kept only until the re-run replaces them.
-
-| Cue | For plates | Source | Status | Line |
-|---|---|---|---|---|
-| C9 | Dadu palace foundation | Palace Museum, Beijing, west of Longzong Gate | lead | `[PERIOD] Yuan palace foundation: rammed earth bases layered with crushed bricks and compacted clay, typical of Yuan construction methods.` |
-| C10 | Shangdu roof tiles | Site of Xanadu (Shangdu), excavated 1992-present | lead | `[PERIOD] Shangdu glazed roof tiles: dragon motifs and carved white marble column base with lotus flower design, confirming traditional Chinese imperial symbols.` |
-| C11 | White Pagoda Temple | Beijing, built 1272-1288 | confirmed | `[PERIOD] White Pagoda Temple: stupa-style pagoda designed by Nepalese architect Anige; only surviving Yuan-era building in Beijing.` |
-| C12 | Juyong Pass reliefs | Beijing, built 1345 | lead | `[PERIOD] Juyong Pass reliefs: contrast rigid orthogonal grid of sedentary Dadu with fluid landscape-like park of nomadic Shangdu; intentionally designed to represent Yuan cultural duality.` |
-| C13 | Quanzhou ship hull | Quanzhou Maritime Museum, dated c. 1277 | confirmed | `[PERIOD] Quanzhou ship: preserved hull of three-masted junk, 34.6m long, with 12 internal bulkheads dividing into 13 compartments; plank seams sealed with resin.` |
-| C14 | Maqamat sewn boat | BnF Arabe 5847, dated 1237 | lead | `[PERIOD] Indian Ocean sewn-plank boat: visible stitching lines running along hull where planks are joined with twine or cord; validates Marco Polo's description.` |
-| C15 | Cappella Zen mosaic | San Marco Basilica, Venice, 1270s | lead | `[PERIOD] Cappella Zen mosaic: St. Mark sailing with turbaned men; contemporary Venetian depiction of international travel and Muslim merchants.` |
-| C16 | Venetian galleys | St Mark's Basilica mosaics, 13th c. | lead | `[PERIOD] Venetian galley: lateen sail and hook-like calcet at masthead interpreted as blockmast; Byzantine-influenced Venetian maritime representation.` |
-| C17 | Ger-cart | Wen-chi scrolls, 1127-1161 | lead | `[PERIOD] Yurt on wagon: two-wheeled cart pulled by oxen, showing trellis-walled yurt; pre-Yuan but serves as excellent comparative evidence for Yuan period practice.` |
-| C18 | Penataran reliefs | Penataran Temple, East Java, Early Majapahit | lead | `[PERIOD] Royal procession: elaborately dressed nobles and courtiers, royal audiences, boat types; stylistically contemporary to Polo's period.` |
-| C19 | Chola Parvati bronze | Colombo National Museum, late 13th c. | lead | `[PERIOD] Chola-period goddess: conventional dress and jewelry of Pandya/Chola coast; 56.5 cm high bronze discovered near Polonnaruwa.` |
-| C20 | Quanzhou foreign stones | Quanzhou Maritime Museum, Yuan Dynasty | lead | `[PERIOD] Tamil and Hindu carved stones: depict Hindu gods and Tamil script; evidence of South Indian merchant community in major Yuan port.` |
-| C21 | Ilkhanid court scene | BnF Suppl. persan 205, 1290 | lead | `[PERIOD] Tarikh-i jahan-gusha frontispiece: Chinese-style peony-like flowers and clouds with flaming pearl motif; earliest Ilkhanid manuscript featuring Chinese elements.` |
-| C22 | Takht-e Solayman tiles | Site of Takht-e Solayman, Iran, 1291 | lead | `[PERIOD] Glazed tiles: dragons and phoenixes alongside traditional geometric and figural designs; demonstrates fusion of Mongol, Persian, and Chinese artistic traditions.` |
+**Rejected cue drafts C9–C22.** Removed from the active cue list after the source report failed intake; no cue is approved under these IDs. The [intake](../research/results/S-22-followup-intake.md) records the errors and preserves the link to the raw report. Independently checked later objects and their limits appear below.
 
 **Viewed for S-23 (2026-11-13): Met 1973.120.3, *Eighteen Songs of a Nomad Flute* (Lady Wenji), all 18 sections at small size and sections 4, 10 and 13 enlarged** (the Met's open-access images DP-17359-001 to -019). It is an early-15th-century copy of a 12th-century composition, and the nomads wear Khitan dress.
 
@@ -464,3 +445,13 @@ From [S-23-raw](../research/results/S-23-raw.md): 72 candidates, 53 with a recor
 **Count: 0 good, 22 thin, 13 none.**
 
 **After the first four deep dives (2026-11-13):** still 0 good. No modern work was opened; the dives reached press reports, reviews and one museum object. They produced one viewed comparandum (C23), one disproof (C17) and the avoid-list candidates above. Files: [Gorelik](../research/results/S-23-gorelik-raw.md) (blocked), [ships](../research/results/S-23-yuan-ships-raw.md), [Dadu and Shangdu](../research/results/S-23-dadu-shangdu-raw.md), [Khubilai Khan, Met](../research/results/S-23-khubilai-met-raw.md).
+
+## 2026-11-16 priority visual-source intake
+
+The [new return and audit](../research/results/S-22-priority-return-2026-11-16-intake.md) produced **8/10** for a purposive ten-citation sample. Do not replace earlier viewed/source-checked evidence with the return's own access failures or adopt its categorical negative claims. Key handoffs:
+
+- **Liu Guandao hunting scroll:** [NPM's official record](https://digitalarchive.npm.gov.tw/Collection/Detail/745?dep=P) confirms 故畫000866N000000000 and an artist inscription dated 1280. Its stated low-resolution image is CC0; the 6-megapixel file is CC BY 4.0 with museum attribution. These terms apply to the specified museum files; check the actual selected download and print resolution. The previously viewed Commons crop remains the basis of C3–C5, not a new image inspection. Its upper landscape was not viewed. Metadata prints 至正 while the transcribed signature reads 至元十七年: preserve the discrepancy.
+- **Ayas:** [Edwards's ChArLv record](https://charlvarchive.org/Site/76) distinguishes the multiperiod land circuit from an island castle with masonry he describes as Armenian. The return's categorical claim that all standing remains are Ottoman is unsupported. Features, phases, plans and 13th-century appearance remain to be checked.
+- **Quanzhou:** [UNESCO/ICOMOS evaluation](https://whc.unesco.org/document/189212), records excavated Deji Gate, built 1230 and later repaired; and Shunji Bridge, built 1211. Neither is yet a viewed illustration cue, nor is every visible element securely pre-1295. The same document records Qingjing Mosque built 1009, restored 1310.
+- **Kota Cina:** [NUS excavation report](https://epress.nus.edu.sg/sitereports/samis/content/5.%20Kota%20Cina), note 11, calls Wk-33765 probably a boat timber and dates the sampled wood 1155–1270 cal CE (95.4%), 1170–1225 (68.2%). Not a securely 1290 hull or image.
+- Prior project checks of Takashima armor finds and the Quanzhou hull still stand within their own documented bounds. [Targeted follow-up prompt](../research/S-22-visual-priority-targeted-follow-up-2026-11-16.md) for open questions.

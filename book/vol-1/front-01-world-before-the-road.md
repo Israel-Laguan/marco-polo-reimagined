@@ -61,7 +61,7 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 ## Notes
 
-[1] Companion framing only — not a chapter of *Il Milione*. Historical context drawn from standard Yule–Cordier introductions, Larner’s [-@larner1999marco] reception history, Mongol-empire surveys (Morgan [-@morgan1986mongols]; Rossabi [-@rossabi1988khubilai, chs. 1–2]), and Allsen [-@allsen2001culture] on cultural exchange.
+[1] Companion framing only — not a chapter of *Il Milione*. Historical context drawn from standard Yule–Cordier introductions, Larner’s [-@larner1999marco, chs. 9–10] reception history, Mongol-empire surveys (Morgan [-@morgan1986mongols]; Rossabi [-@rossabi1988khubilai, chs. 1–2]), and Allsen [-@allsen2001culture] on cultural exchange.
 
 [2] ✓ Latin Mediterranean trade system mid-13th c.; Acre as Crusader port until 1291; Latin Empire of Constantinople ends 1261. Soldaia as Venetian/Crimean node corroborated by later Polo family property notices.
 
@@ -79,6 +79,6 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 [9] ? Prologue embassy letter and conversion pledge — no Mongol original; oil-of-Sepulchre request fits Latin piety; blanket conversion promise widely doubted (Yule; modern diplomatic readings).
 
-[10] Gazetteer companion: `/workspace/marco-polo/gazetteer.csv` volume=1; visited / reported / uncertain tags guide how heavily to lean on autopsy vs hearsay.
+[10] Which places Polo saw and which he only heard of is judged place by place; the chapter Notes mark it with ✓ ~ ✗ ◇ ?, so the reader knows how far to trust eyewitness over hearsay.
 
 [11] ~ Multilingual commercial sphere — standard; Polo’s relative silence on Chinese script is a later debate seed (see Vol. I back matter / Vol. III essay).

@@ -98,6 +98,7 @@ _Created after the gating spikes close. Expected shapes:_
   - "Dispute" label in Note(s) [4], [8], [15], [24]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
   - Run `python3 tools/lint.py -v vol-3/ch-06-mutfili-kesmacoran.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [25]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Vogel citation on Kesmacoran was removed as not found; do not restore it without a checked passage.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -107,3 +108,11 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 42 errors · 2 warnings — failing: archaism, asides, budgets, first_person, length, markers, ramusio, scaffolding, verbatim, you_must_know; warnings: ramusio, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-06-mutfili-kesmacoran.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H12 (diamond valley stays: S21-E22), H13 (Coilum indigo: Book's process).
+
+## S-18 source-access handoff (2026-11-17)
+
+Pelliot entry 271 LAR, Toyo Bunko image 0166 OCR, treats Lār/Lāṭa as the likely name but notes its difficult fit with a route west of Madras. He follows Yule’s possible Brahman/Banyan merchant confusion. Do not describe him as rejecting Lār. See [intake](../../../research/results/S-18-source-access-return-2026-11-17-intake.md).

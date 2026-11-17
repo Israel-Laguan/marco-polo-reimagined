@@ -1,6 +1,6 @@
 # S-25 — Confirm the unconfirmed works the Notes already cite
 
-**Status:** closed 2026-11-13 · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** the Notes that cite these four keys (11 citations); `registry/bibliography.bib` status comments
+**Status:** closed 2026-11-13 · **Phase:** R (deep research) · **Timebox:** 1 external run + 1 intake session · **Gates:** the Notes that cite these four keys (12 citations as of 2026-11-17; 11 at close); `registry/bibliography.bib` status comments
 **Origin:** the citation sweep after S-24 (2026-10-22): of 104 bibliography entries, four that are marked unconfirmed are already cited in the Notes.
 
 ## Question
@@ -49,14 +49,16 @@ Rules: do not invent volume numbers, page ranges, ISBNs, dissertation numbers or
 - Chapter backlogs: only if a citation has to change or be dropped
 
 ## Findings
-- **de Rachewiltz 1997:** *Zentralasiatische Studien* 27 (1997): 34–92, from the author's own ANU posting (hdl.handle.net/1885/41883), matched by three bibliographies. Added `pages`. Corrections in *ZAS* 28 (1998): 177 (not cited). No catalogue or table of contents found; no DOI.
+- **de Rachewiltz 1997:** *Zentralasiatische Studien* 27 (1997): 34–92, from the author's own ANU posting (hdl.handle.net/1885/41883), matched by three bibliographies. Added `pages`. Corrections in *ZAS* 28 (1998): 177 (not cited). No catalogue or table of contents found; no DOI located.
 - **Dutschke 1993:** the title, UCLA and 1993 in the bib were right (WorldCat OCLC 494165759, Innsbruck Marco Polo bibliography). No UMI number found; Chicago does not need it.
 - **Atwood 2004:** New York: Facts on File, 2004, x + 678 pp., ISBN 978-0-8160-4671-3 (Open Library OL11359625M, CiNii BA69362002). Added `isbn`.
 - **Tao 1959:** Zhonghua shuju, Feb. 1959, 元明史料筆記叢刊, 13 + 385 pp. (NDL a1000034269, CiNii BA36769092). The 1997 and 2004 printings reprint the same edition, so 1959 stays the date to cite.
-- Side note: `tools/sources_index.py` already crashes on HEAD (a status comment its regex can't parse), so `registry/sources.md` was not regenerated.
+- Historical note: `tools/sources_index.py` crashed at the original intake. On 2026-11-16 it ran successfully and regenerated `registry/sources.md` from the current bibliography; this does not establish claim-level support for the citations.
 
 ## Decision
 All four works are confirmed. The Notes keep all 11 citations unchanged, and no chapter tasks are needed.
+
+**Correction (2026-11-17 audit).** The manuscript now has 12 citations of these keys (`derachewiltz1997marco` 6, `tao1959nancun` 3, `dutschke1993francesco` 2, `atwood2004encyclopedia` 1). Bibliographic confirmation does not show that each Note's claim is in the cited work, so a claim-level check of these 12 is now `APP.T8` (`tasks/cross/APP-apparatus.md`).
 
 ## Tasks to create on close
 - None expected, unless a citation has to change (then the chapter's `.T4`)

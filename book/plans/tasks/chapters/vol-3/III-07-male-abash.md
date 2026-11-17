@@ -107,3 +107,15 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 20 errors · 2 warnings — failing: archaism, asides, budgets, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know; warnings: ramusio, recaps
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-07-male-abash.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H10, H12. **Draft conflict (fixed 2026-11-17; re-voice must keep the fix):** `vol-3/ch-07-male-abash.md:15` gives the Socotra whale hunt as Polo's narration. Add the inline Ramusio flag and the “Ramusio-only.” Note label (S-03), citing Ramusio 1559 II fol. 57v (*bottesella*, a small floating cask; S21-E33). Ambergris origin: sperm-whale intestine, mechanism tentative (S21-E1). Roc: no elephant-bird or raffia causation.
+
+## S-18 priority source handoff (2026-11-16)
+
+Yule proposed the Aden/Adel identification and Yikunno Amlak c. 1278; keep these attributed. Tamrat p. 127 does not substantiate assigning the bishop story to Yagbeʾa Ṣeyon; Trimingham was subsequently read as noted below, while Pankhurst remains unread. See [intake](../../../research/results/S-18-priority-return-2026-11-16-intake.md).
+
+**S-18 library follow-up:** Trimingham p. 69 and note 3 identifies the king as Yagbeʾa Ṣeyon (1285–94), with Aden meaning Adal, cautiously conditional on Polo; Yule proposed Yikunno Amlak c. 1278. Loiseau 2019 pp. 642–43 and 652–53 reports a 1290 embassy and cites Ibn ʿAbd al-Ẓāhir; the underlying Arabic remains unread and the embassy is not proven to be Polo’s bishop. See [source-check intake](../../../research/results/S-18-library-returns-2026-11-16-intake.md).
+
+**S-18 translation follow-up (2026-11-17):** An online text extraction of Cook’s 2020 translation pp. 175–178 gives Ibn ʿAbd al-Ẓāhir’s account of the 1290 embassy and an envoy’s death at ʿAydhāb; note 280 suggests a connection to Polo. The chronicle passage itself does not identify Polo’s bishop or describe the alleged circumcision and war. Check a reliable edition image and the Arabic before relying on exact wording. See [intake](../../../research/results/S-18-targeted-archive-return-2026-11-17-intake.md).

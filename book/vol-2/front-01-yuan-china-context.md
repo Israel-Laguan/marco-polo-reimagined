@@ -73,4 +73,4 @@ You are entering a world where a Venetian could watch a Mongol emperor feast in 
 
 [8] ✓ / ~ Ahmad (Ahmad Fanakati) as powerful finance minister and his assassination — Chinese sources outline the fall; Polo’s chapter is vivid partisan memory.
 
-[9] Gazetteer volume=2 for china-leg places; Volume II ch. 15 holds compressed Book IV wars as reported horizon.
+[9] Volume II covers the China-leg places; Volume II ch. 15 holds compressed Book IV wars as reported horizon.

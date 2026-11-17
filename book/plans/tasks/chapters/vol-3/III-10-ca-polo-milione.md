@@ -1,5 +1,7 @@
 # III-10 — Ca' Polo, *Milione*, and the City That Would Not Believe
 
+**2026-11-16 partial correction:** The manuscript and Note [8] now identify Bellela’s husband as Bertuccio Querini, attributing the 1326–27 evidence through Bolognari and flagging Gallo/primary acts as unseen. The original critical/factual tasks, exact death-date question and re-voice remain open. The earlier backlog language below that calls the husband unknown is superseded. See [intake](../../../research/results/S-15-priority-return-2026-11-16-intake.md).
+
 **File:** `vol-3/ch-10-ca-polo-milione.md` · **Status:** backlog · **Kind:** narrative (reception)
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
@@ -42,7 +44,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Media hooks
 - **Hero plate:** III-10 *Jewels ripped from the seams of the Tartar coats* — GEN, Venetian Gothic, portrait; 1295 Veneto-Byzantine interior; **no Salute domes**; caption: Ramusio's legend — see `illustration-plan.md`
 - **Secondary plates:** Marco's will, 1324 (critique §4: sick Marco, the notary Giovanni Giustiniani, Donata and daughters, Peter the Tartar; 1320s Venetian domestic setting; the will is extant, Marciana). Critique §4 option not adopted: the Cepoy copy, 1307 (French knightly dress c. 1307)
-- **Existing media:** `drawing-venetian-galley.png` — skyline shows domes like the 17th-c. Santa Maria della Salute and a later Ducal Palace, anachronistic for 1295 (critique §5 item 8); multimedia plan retires all drawings
+- **Existing media:** `drawing-venetian-galley.jpg` — skyline shows domes like the 17th-c. Santa Maria della Salute and a later Ducal Palace, anachronistic for 1295 (critique §5 item 8); multimedia plan retires all drawings
 - **Maps:** none
 - **Timelines / diagrams / tables:** critique §5 item 5 says the reception timeline feeds ch-10 (multimedia plan places **B5** at III-11). Glossary: *Milione*
 - **Characters appearing:** Marco, Niccolò and Maffeo Polo; Donata (Badoer); daughters Fantina, Bellela, Moreta; Peter the Tartar; Thibault de Cepoy; Charles of Valois; Pietro d'Abano; Jacopo d'Acqui; Francesco Pipino; Giovanni Giustiniani (notary); Marco Bragadin; Giovanni Battista Ramusio
@@ -110,6 +112,7 @@ _Created after the gating spikes close. Expected shapes:_
   - 5 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
   - Run `python3 tools/lint.py -v vol-3/ch-10-ca-polo-milione.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [10]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Larner’s discussion of named early readers includes ch. 7; preserve the chs. 6–7 locator.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-10.T6 — Lint green and human read

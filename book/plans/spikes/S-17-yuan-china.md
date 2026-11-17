@@ -68,3 +68,7 @@ Close this timeboxed intake **best effort**, not as a claim that all original hi
 ## Tasks created on close
 - Chapter backlog handoffs for II-02, II-04–06, II-09, II-11, II-13–14, II-F1 and II-B1; these are future Notes/re-voice work, not manuscript edits. Other chapters remain covered by their existing tasks and the follow-up gaps above.
 - `GAZ.T6` and S-04 carry all six identification decisions with confidence and coordinate caveats; `DIA` and media plans carry checked data and unresolved inputs.
+
+## Priority return intake (2026-11-16)
+
+The user supplied the first priority-prompt return; [raw](../research/results/S-17-priority-return-2026-11-16-raw.md) and [checked intake](../research/results/S-17-priority-return-2026-11-16-intake.md) are preserved. Ten purposive source checks yielded 8/10 at the tested scope; several report-specific conclusions need correction or remain inaccessible. Mascherpa's 2024 chapter does give 347 bridges and 35 li, despite their absence in his different 2017 article; source and boundaries remain open. Xu Bin's review is 2019, not 2020. The *Yuan shi* Nayan and Burma passages were checked against accessible transcriptions, and the Vogel Yangzhou excerpt against its authorized Chinese translation; the specific Persian elephant passage remains unread. Chapter and table handoffs were updated. Best-effort closure remains; research and manuscript tasks remain open.

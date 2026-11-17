@@ -103,6 +103,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-11-lop-tangut.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [17]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-11.T6 — Lint green and human read
@@ -115,3 +116,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T1 / T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E4/E13/E14: Mogao context, pilgrim parallels and Khara-Khoto without asserting direct transmission or Polo’s cave visit. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H11 (Lop voices: reported), H14 (rhubarb, asbestos at commodity level; L7).

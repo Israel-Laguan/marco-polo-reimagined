@@ -70,7 +70,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter.
   - **S-13 ✓ (`registry/scholarship.md`):**
     - Add the 2024 anniversary as an event: the Palazzo Ducale exhibition (6 April – 29 September 2024), the *Codice Diplomatico Poliano*, the new editions (V, 2019; the digital edition in progress). The Foligno manuscript may be included as a 2024 project announcement of a 145th known codex, attributed and without asserting the current total (S20-E1); omit it if the timeline is crowded.
-    - Doubters before Wood (Green 1747; Magalhães's five proofs, 1688) and readership (`gadrat2015lire`): only after `gadrat2026marco` and `gadrat2024read` are read directly.
+    - Readership: `gadrat2024read` is now read in indexed PDF text, pp. 201–211; cite its qualified evidence of merchant, courtly, clerical and scholarly ownership and use. Ownership does not prove reading or a commercial motive. The manuscript now reflects this; retain the distinction during re-voice. Doubters before Wood (Green 1747; Magalhães 1688) remain contingent on reading `gadrat2026marco` directly; it was blocked by the publisher's access challenge in this pass. [Source check](../../../research/results/S-13-open-access-source-check-2026-11-17.md).
     - Z among the Venetian Dominicans (`andreose2024textual`, read): Calò and Filippino da Ferrara used it before 1347.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
@@ -118,6 +118,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Run `python3 tools/lint.py -v vol-3/ch-11-afterlives.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-12 (2026-11-10):** Note [8] names the redactions (Tuscan, Venetian, Ramusio); cite their modern editions there: TA `bertolucci1975milione`, VA `barbieri1999milione`, Ramusio `ramusio1559navigationi` with `ramusio2015viaggi`; if F, Fr or Z are named, `eusebi2018devisement`, `menard2001devisement`, `barbieri1998milione`.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [10], [11]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The annotated Columbus copy’s connection to the 1492 project remains disputed; align this chapter with III-B1 and the S-20/F-19 handoff.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-11.T6 — Lint green and human read

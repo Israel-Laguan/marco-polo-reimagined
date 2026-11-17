@@ -1,7 +1,7 @@
 # Front and Back Matter — Index
 
 **Series:** *The Book of the Million: A Formal Retelling of Marco Polo*  
-**Voice:** Companion chapters follow `/workspace/marco-polo/VOICE-GUIDE.md` (oral storyteller; inline [n]; ## Notes) — history / maps / trivia register, not travel narrative.
+**Voice:** Companion chapters follow `VOICE-GUIDE.md` (oral storyteller; inline [n]; ## Notes) — history / maps / trivia register, not travel narrative.
 
 These files slot **before** and **after** each volume’s numbered chapters. They are optional reading aids: context, maps, trivia, and dispute pointers. They do not replace the narrative chapters or Volume III’s closing reliability essay.
 
@@ -45,10 +45,10 @@ Each volume also gets two generated pages, built from the citation keys that vol
 
 | File | Role |
 |------|------|
-| `/workspace/marco-polo/FRONT-BACK-MATTER.md` | This index |
-| `/workspace/marco-polo/media/ATTRIBUTIONS.md` | Expected media files + license template |
-| `/workspace/marco-polo/gazetteer.csv` | Place authority for map tables |
-| `/workspace/marco-polo/VOICE-GUIDE.md` | Voice rules for narrative and companions |
+| `FRONT-BACK-MATTER.md` | This index |
+| `media/ATTRIBUTIONS.md` | Expected media files + license template |
+| `gazetteer.csv` | Place authority for map tables |
+| `VOICE-GUIDE.md` | Voice rules for narrative and companions |
 
 ## Image note
 

@@ -112,3 +112,17 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 27 errors · 4 warnings — failing: asides, budgets, length, markers, quote_verify, ramusio, scaffolding, tags, verbatim, you_must_know; warnings: ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-02-chamba-java.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H3 (Java spice list: Book's claim; re-export attributed; S21-E4, E13).
+
+**S-18 strict return:** Pelliot entry 313 in [Toyo Bunko OCR](https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page/0206.html.en) identifies Pentan with Bintan and proposes a Singapore Strait route; attribute both as his interpretations, not proof of Polo’s personal course. See [intake](../../../research/results/S-18-strict-follow-up-2026-11-16-intake.md).
+
+## U-2 source handoff (2026-11-17)
+
+From the [U-2 intake](../../../research/results/U-2-intake.md) (14 checks against the *Yuan shi*, 13 hits). These are inputs to `.T1`/`.T4`, not completed edits.
+
+- **Applied 2026-11-17.** **F-51, Note [3]:** keep the body (it tells the Book's story); correct the Note. No 1278 expedition: that year Sogetu opened relations and the king was invested (j. 210). The war ran 1282–84 and ended in withdrawal; the recall request, the tribute promise and three elephants came after it (j. 13). No twenty-elephant tribute is recorded for Champa (twenty tame elephants a year is Burma's 1297 offer). Sogetu died in the Annam war, 1285. Cite `[@yuanshi1370, juan 13, 129, 210]`; "Polo compresses" is interpretation.
+- **Applied 2026-11-17 (Note [8]; body l. 27 unchanged).** **F-52, Note [8] and body l. 27:** "loss ~3,000" becomes "more than 3,000 dead by the return to Quanzhou (Shi Bi's biography)". The envoy is Meng Qi only in Gao Xing's biography; "branded" holds. The force is 20,000 in 500 or 1,000 ships, and only 5,000 went. Optional: the commanders were caned and fined a third, Gao Xing excepted. Cite `[@yuanshi1370, juan 17, 162, 210]`.
+

@@ -39,7 +39,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Hero plate:** Kublai hunting — **PD**, Liu Guandao, *Khubilai Khan Hunting* (1280), hanging scroll, portrait (S-11; `PLT.II-04`) — see `illustration-plan.md`.
 - **Secondary plates:** GEN "Sire! Look out for Cranes!" from the elephant litter (plan's Vol. II secondaries; critique §4 ★ scene, anchor :33: roof of the timber chamber thrown open, gerfalcon cast, Toscaol watchers in pairs; spring marshes south-east of Dadu). Critique §4 further candidates: red and blue hound corps (:21; caution: 10,000 men per brother inflated); tiger hunt (:15; "label it a tiger").
 - **Maps:** A8 Seasonal orbit (Dadu ↔ Shangdu ↔ Cachar Modun, month labels, 28 August libation; II-4 / I-13).
-- **Timelines / diagrams / tables:** — none assigned. Existing `drawing-chandu-palace.png` is suggested for ch-04 by critique §5 ("if not already used in Vol. I ch-13"), but the multimedia plan retires all `drawing-*.png` (wrong style, too small; period errors include "a Renaissance villa at Shangdu").
+- **Timelines / diagrams / tables:** — none assigned. Existing `drawing-chandu-palace.jpg` is suggested for ch-04 by critique §5 ("if not already used in Vol. I ch-13"), but the multimedia plan retires all `drawing-*.png` (wrong style, too small; period errors include "a Renaissance villa at Shangdu").
 - **Characters appearing:** Kublai (the Great Kaan), Baian and Mingan (the two brother Masters of the hounds), Marco Polo, Achmath / Ahmad (mentioned)
 
 ## Gated by spikes
@@ -99,6 +99,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [7], [10], [14], [21] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-2/ch-04-hunt-traffic.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [21]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -112,3 +113,11 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research handoff (2026-11-11)
 
 S17-E2 / S17-F2: the Met late-thirteenth-century iron-and-silver paiza is a safe-conduct example, not Marco’s own. Station totals and the Nayan elephant platform are not independently established by this intake. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H6 (hunting cats, falcons: ordinary names; Book's figures, S21-E5).
+
+## U-3 source handoff (2026-11-17)
+
+From the [U-3 intake](../../../research/results/U-3-intake.md) (10 checks, 10 hits). F-53. **Applied 2026-11-17** (body l. 41 and Note [15]). Was: body l. 41 "Beyond that term, however—to wit from March to October—everybody may take these animals" inverts Yule ("Beyond the term I have mentioned … to wit that from March to October"). Make it "Outside that season, however—that is, outside March to October—everybody may take these animals as he list." Note [15]: Pétis gives the same months, not the reverse; "reverse" is Yule's remark (`[@yc, 2.20, note 9]`). Change "✓ Imperial game law type (*Yasa* / Yuan)" to ~, since Yuan law was not checked. These are inputs to the chapter's `.T1`/`.T4`/`.T3` work, not completed edits.

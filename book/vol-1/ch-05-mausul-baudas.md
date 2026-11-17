@@ -58,7 +58,7 @@ Thus Chapter I-5 holds two registers in one hand: the merchant’s Mausul and Ba
 
 [2] ✓ / ~ Jatolic (Catholicos) appointing prelates to India, Baudas, Cathay. ✓ Nestorian/Jacobite hierarchies and Asian reach; ~ “just like the Pope” as analogy. ◇ Oriental Christians “come short” of Roman Faith — Latin confessional framing (Nestorians’ two-Persons stereotype; Jacobites’ Monophysitism), not ethnography.
 
-[3] ✓ / ~ *Mosolins*: rich silk-and-gold cloths made at Mosul. ✓ Mosul textile fame; ~ exact medieval referent of *mosolin* debated (silk vs later cotton). ? / ◇ *Mosolins* as a class of great spice/pearl merchants — sparse parallels (Innocent IV’s 1244 *Mosolini*); unclear. ✓ / ~ Mus & Merdin (Mush, Mardin): cotton, buckram; Tartar subjects.
+[3] ✓ / ~ *Mosolins*: rich silk-and-gold cloths made at Mosul. ✓ Mosul textile fame; ~ *mosolin* is the word muslin, named after Mosul; muslin is usually a fine cotton, and Pelliot suspects “of silk and gold” crept in from the merchants’ goods a line later by a copyist’s slip. ✓ / ~ *Mosolins* as merchants: *Mosolini* (or *Mosseliti*) is the name of the people of Mosul in papal lists of 1244, 1258 and 1291; Pelliot suggests their trade abroad made them known in the West [@pelliot1959notes, vol. 2, “Mosul”]. ✓ / ~ Mus & Merdin (Mush, Mardin): cotton, buckram; Tartar subjects.
 
 [4] ✓ / ~ Kurds: mixed Christian/Saracen; plunder merchants. ✓ highland pastoral control and mixed confession notices (Mas‘udi); ~ “evil generation” stereotype (Ricold). As cited in Yule: Ricold [@yc, 1.5].
 
@@ -84,4 +84,4 @@ Thus Chapter I-5 holds two registers in one hand: the merchant’s Mausul and Ba
 
 [15] ◇ / ✗ Closing tirade that Islamic law commands universal mischief vs Christians. Polemical commonplace; not a fair reading of law or practice. ~ Ramusio’s commemorative feast — later colour.
 
-[16] ? Whole Mausul–Baudas block personally traversed by Marco. Gazetteer flags both as *reported_only*. Pegolotti-type roads and some missionary itineraries did run Sivas–Mardin–Mosul–Baghdad; whether the Polos personally lingered is open. Textile and date notices smell of mercantile intelligence; the miracle cycle and moralised sack smell of received tale.
+[16] ? Whole Mausul–Baudas block personally traversed by Marco. Both reported only. Pegolotti-type roads and some missionary itineraries did run Sivas–Mardin–Mosul–Baghdad; whether the Polos personally lingered is open. Textile and date notices smell of mercantile intelligence; the miracle cycle and moralised sack smell of received tale.

@@ -102,6 +102,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Tag line `**[M]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
   - Run `python3 tools/lint.py -v vol-2/ch-01-cublay-nayan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [19]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -115,3 +116,11 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-17 research limit (2026-11-11)
 
 The supplied report does not establish that the elephant-borne command platform or other color in the Nayan campaign is independently attested. Treat those details as Polo's account until a passage-by-passage *Yuan shi* comparison is checked; see [S-17 intake](../../../research/results/S-17-intake.md) and the [follow-up prompt](../../../research/S-17-follow-up-prompt.md). The II-1 comparison table must label its witnesses.
+
+## S-17 priority return (2026-11-16)
+
+[Checked intake](../../../research/results/S-17-priority-return-2026-11-16-intake.md): *Yuan shi* j. 14, 154 and 162 report imperial command, fighting and Li Ting's actions, but do not make the report's Persian elephant-litter passage independently verified. The Pelliot scan and Rashid passage remain unread in this check; do not claim the four-elephant platform is exclusively Polo's on an incomplete search. Note [8]'s crupper-transport corroboration needs a source-dependence check: Gaubil's report may not be independent of Polo. Verify the full Pelliot argument before making that claim. Correct the existing Belgutai genealogy per F-04 in the planned factual work.
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). F-49. Note [12]'s "thinly documented at this date" holds: Loewe reports *Yuan shi* mentions of Jews only under 1329, 1340 and 1354, in a fiscal context (`loewe1987jewish`). Check whether the gibe passage is Ramusio-only. These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

@@ -113,3 +113,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T1 / T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E3/E15/E17: attributed Alamut chronology, disputed tree interpretation and earlier intoxicant-and-visions legend. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H7 (tutty and spodium in general terms; no chemistry asserted), H12 (Dry Tree: reported marvel), H14.

@@ -6,7 +6,7 @@
 
 ---
 
-Volume II needs a different map habit than Volume I. You are no longer dragging a caravan from Ayas to Lop; you are circling a court, then riding circuits west, southwest, and south through canal country to the Fujian havens. The images below are placeholders for files in `../media/`. Place tables come from the gazetteer filtered to volume = 2. [1]
+Volume II needs a different map habit than Volume I. You are no longer dragging a caravan from Ayas to Lop; you are circling a court, then riding circuits west, southwest, and south through canal country to the Fujian havens. The tables below list the places Volume II names. [1]
 
 ### How the Volume II map hangs together
 
@@ -16,19 +16,19 @@ Politically you are inside Yuan China after the Mongol conquest of the north and
 
 ### China under the Yuan
 
-![Yuan-period China with Cathay and Manzi circuits marked](../media/map-china-yuan.jpg)
+![The Yuan empire in 1294](../media/map-china-yuan.png)
 
-*Caption:* Yuan China schematic for Volume II — Dadu/Shangdu gravity, western/southwestern circuit, and the Manzi–Grand Canal corridor toward Zayton. *(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+*Caption:* The extent of the Yuan empire in 1294, the year Kublai died. The map shows the borders only; Polo’s circuits are traced in the tables below. *(Map: Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
 
-Use this map to keep court, west circuit, and south circuit from collapsing into one spaghetti line.
+Use this map for the size of the realm; use the tables below to keep court, west circuit, and south circuit from collapsing into one spaghetti line.
 
 ### Kinsay and the Jiangnan approach
 
-![Hangzhou (Kinsay) and the nearby canal cities](../media/map-hangzhou-kinsay.jpg)
+![An imagined view of Kinsay (Hangzhou) and its lake](../media/map-hangzhou-kinsay.jpg)
 
-*Caption:* Kinsay (Hangzhou) and neighbours — Suju (Suzhou), Ganpu, and the estuary approaches Polo loads with numbers and marvels. *(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+*Caption:* Kinsay (Hangzhou) and the West Lake as a modern illustrator imagines them. A generated picture, not a historical map or view. *(Modern generated illustration — see media/ATTRIBUTIONS.md)*
 
-Kinsay earns its own frame because Book II’s city description is the longest urban set-piece in the whole work. When numbers of bridges or houses feel incredible, look back at the lake-and-canal geography: the wonder is density, not magic.
+Kinsay earns its own frame because Book II’s city description is the longest urban set-piece in the whole work. When numbers of bridges or houses feel incredible, remember the lake-and-canal setting: the wonder is density, not magic.
 
 ### Place table — capital approaches and west / southwest circuit
 
@@ -45,8 +45,8 @@ Kinsay earns its own frame because Book II’s city description is the longest u
 | Yachi | Kunming, Yunnan | Usually identified with Kunming |
 | Zardandan | Baoshan / Tengchong area | “Gold-Teeth” ethnonym region |
 | Mien (Burma) | Bagan / Pagan kingdom, Myanmar | Elephant battle — largely reported |
-| Caugigu | Northern Vietnam / Tonkin region | Soft ID (Jiaozhi links debated) |
-| Cuiju | Guizhou region | Soft highland geography |
+| Caugigu | Northern Vietnam / Tonkin region | Tentative identification (Jiaozhi links debated) |
+| Cuiju | Guizhou region | Approximate (highland geography) |
 
 ### Place table — Manzi corridor to the haven
 
@@ -68,7 +68,7 @@ Kinsay earns its own frame because Book II’s city description is the longest u
 
 **Yanju / Yangzhou** is a solid city identification; Polo’s claim to have governed it is the quarrel, not the pin on the map. **Saianfu** is solidly Xiangyang; whether the Polos’ engineers truly delivered the decisive mangonels is the quarrel. **Caugigu, Anin, Coloman, Cuiju** are ethnonym-heavy and soft — good for reading Yule’s footnotes, bad for pretending precision. **Tibet** in Polo is eastern marches and musk country more than a Lhasa travel diary. [3]
 
-Cambaluc itself also appears in Volume I’s gazetteer row because the elder brothers and Marco’s arrival share the capital; Volume II is where the city becomes a full machine on the page.
+Cambaluc itself also appears in Volume I’s place tables because the elder brothers and Marco’s arrival share the capital; Volume II is where the city becomes a full machine on the page.
 
 Anyway, keep these maps nearby when the storyteller says *next he mentions Sindafu* or *then Polo describes Kinsay*. The circuits are long; the book’s memory is longer.
 
@@ -76,8 +76,8 @@ Anyway, keep these maps nearby when the storyteller says *next he mentions Sinda
 
 ## Notes
 
-[1] Gazetteer filter: `volume=2` in `/workspace/marco-polo/gazetteer.csv`. Media placeholders: `map-china-yuan.jpg`, `map-hangzhou-kinsay.jpg`.
+[1] ✓ The place tables give each place's book name, its modern name and its role in Volume II; identifications follow Yule–Cordier unless a chapter Note says otherwise. Image credits are in the media attributions.
 
-[2] ✓ Dual-circuit reading of Book II — west/southwest vs Manzi/coast — matches outline-volumes structure for II-6 through II-14.
+[2] ✓ Dual-circuit reading of Book II — west/southwest vs Manzi/coast — shapes II-6 through II-14.
 
-[3] ? Soft IDs and disputed service claims — see `back-01-trivia-and-disputes.md` in this volume.
+[3] ? Tentative identifications and disputed service claims — see `back-01-trivia-and-disputes.md` in this volume.

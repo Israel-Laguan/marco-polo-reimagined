@@ -4,6 +4,26 @@ This is an editorial triage of the [supplied follow-up audit](results/S-21-follo
 
 **High priority (H):** a gap can change an existing assertion, its interpretation, or the accuracy of a planned Note/table; research only until a supported claim or safe fallback is available. **Low priority (L):** optional enrichment, exact attribution, or a narrower identification when accurate qualified prose already works. Escalate a low-priority item if it is selected for a specific caption, trivia entry or stronger claim. Neither class implies the opposite of an unverified claim is true.
 
+## Closed (2026-11-13)
+
+S-21 is closed with a qualified handoff: [decisions by item](results/S-21-closure.md). This ledger stays as the record of fallbacks; an L item, or a stronger claim beyond its fallback, still needs a source check before use.
+
+## Update after remaining-source checks (2026-11-13)
+
+See the [in-repo intake](results/S-21-remaining-checks-intake.md). The 1559 Ramusio print, fol. 57v, confirms *bottesella* on the whale line at facsimile level. Ostroff pp. 133–134 adds 1859 (no charmers employed) and 1885 (system dissolved), citing Twynam 1902, p. 24, which remains unread; keep shark-charmer end dates unprinted or attributed. Wen et al. 1980 (a 马来鳄 study) and Weisgerber 2004 are confirmed citations but were not read; the II-07 and I-07 fallbacks stand. Follow-up: H. M. Smith (*National Geographic*, Feb. 1912) also puts the charmers' abolition about 25 years earlier (c. 1885–87), after a period of government salary. An external claim of a Jinchi/Yongchang record in Wen et al. is unsupported. Iijima et al. 2022 (*Hanyusuchus*) is a new lead for II-07 background.
+
+## Update after 16 November audit
+
+The [source-audit intake](results/S-21-primary-source-audit-2026-11-16-intake.md) preserves the closed S-21 decisions while correcting Ostroff’s 1859 wording: he says no charmers were employed according to some reports, without expressly saying state employment. The new report’s proposed Burgio–Fornasiero p. 130 and F 199 correction applies to a pre-publication draft, not the typeset p. 133 / F CLXXXIX that the project cited. The [stricter optional prompt](S-21-primary-audit-open-questions-prompt.md) targets sources needed only for stronger selected claims. It was [run as best effort](results/S-21-optional-archival-best-effort-2026-11-16.md) and none of the three originals could be read, so the fallbacks stand. Twynam's title page reads "1899", printed 1902, while Herdman cites a Colombo 1900 printing.
+
+## Update after narrow follow-up (2026-11-13)
+
+See the [new intake](results/S-21-narrow-followup-intake.md). The returned report’s access limits do not erase this project’s direct prior checks. Burgio and Fornasiero’s 2011 transcription quotes a small cask as Ramusio’s whale-line float and compares Z, correcting the earlier no-cask finding; Yule’s “buoy” remains a supported functional description. The 1856/1885 dispute, Yuan-era Yunnan crocodilian evidence and Weisgerber chapter remain open where selected. The [stricter prompt](S-21-narrow-open-questions-prompt.md) targets those specific sources; a 1559/Z image-level comparison is optional if the project needs it.
+
+## Update after targeted rerun (2026-11-13)
+
+The [latest intake](results/S-21-targeted-rerun-intake.md) checks the final audit and preserves both progress logs. High-priority manuscript decisions remain H6, H7, H9, H10, H12 and H13 where their stronger claims are retained; exact shark-charmer end dates and transmission genealogy are optional if omitted. Fernando 2022 states 1856; Kunz and Stevenson 1908 state 1885, but the records needed to explain the apparent conflict were not inspected. The GIA 2021 bibliography identifies the Weisgerber 2004 Nishapur chapter; the 1390–1430 referent remains unresolved. The purported 1980 Wen crocodile lead on pp. 1–44 is about forests; a separate 1980 crocodile paper remains an unchecked lead. The [stricter narrow rerun](S-21-targeted-rerun-2-prompt.md) follows the 7/10 result.
+
 ## Update after passes 1 and 2 (2026-11-13)
 
 The [checked intake](results/S-21-pass1-pass2-intake.md) supersedes the initial report-only status for the precise claims it checks; the table below remains the overall scope and safe-fallback ledger. Pass 1 and pass 2 scored 7/10 and 6/10 in targeted checks, so use the [stricter rerun](S-21-passes-targeted-rerun-prompt.md) for the unresolved publication-critical questions. Preserve the Yule diamond-valley episode in III-06; flag the entire Socotra whale-hunt paragraph as Yule’s Ramusio-derived text in III-07. Correct the crocodilian and Mannar bibliographic conflations, and distinguish the documented 1908 statement on 1885 employment from the unresolved 1856 claim. H6, H7, H9, H10, H12, H13 and selective H15 remain high for any stronger claims; later institutional chronology and motif genealogy can stay low if omitted or attributed.

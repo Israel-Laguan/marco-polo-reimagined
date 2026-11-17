@@ -24,7 +24,7 @@ BOOK = yule.BOOK
 MANIFEST = BOOK / "tools" / "ramusio-manifest.json"
 BASELINE_COMMIT = "1204156"  # first-draft import; source for the Ramusio manifest
 
-# Thresholds. PROVISIONAL values wait on S-03 (apparatus) and S-04 (gazetteer).
+# Thresholds. S-03 (apparatus) and S-04 (gazetteer) values applied 2026-10-22; S-07 lengths.
 T = {
     "verbatim_pct": 15, "ngram": 7,
     "anyway": 1, "hinges": 3, "attribution_verb": 4,

@@ -6,11 +6,11 @@
 
 This directory holds drafted chapters of Volume I (prologue through arrival at Chandu / Shangdu).
 
-**Status:** Volume I draft chapters (I-1 through I-13) complete. **All Vol. I chapters rewritten in storyteller voice** (see `/workspace/marco-polo/VOICE-GUIDE.md`). **Front/back matter added** (context, maps, trivia).
+**Status:** Volume I draft chapters (I-1 through I-13) complete. **All Vol. I chapters rewritten in storyteller voice** (see `../VOICE-GUIDE.md`). **Front/back matter added** (context, maps, trivia).
 
 ## Drafting conventions
 
-- **Voice (mandatory for rewrites):** Storyteller recounting what Marco Polo / *Il Milione* narrates — oral, clear, intelligent, publishable English that sounds spoken. Typical hinges: “Marco Polo starts by narrating…,” “He says that…,” “According to the book…,” “Next he mentions…,” “Then Polo describes….” Not high-literary third-person epic; not slangy; not help-desk; not archaic pastiche. Full rules: **`/workspace/marco-polo/VOICE-GUIDE.md`**.
+- **Voice (mandatory for rewrites):** Storyteller recounting what Marco Polo / *Il Milione* narrates — oral, clear, intelligent, publishable English that sounds spoken. Typical hinges: “Marco Polo starts by narrating…,” “He says that…,” “According to the book…,” “Next he mentions…,” “Then Polo describes….” Not high-literary third-person epic; not slangy; not help-desk; not archaic pastiche. Full rules: **`../VOICE-GUIDE.md`**.
 - **Inline dispute notes:** When something is contested, inaccurate, second-hand, or exaggerated, interrupt briefly in the flow (“…as he narrates [3] — though this is disputed… — anyway, next he mentions…”), then resume. Keep asides short; don’t kill momentum.
 - **Citations + Notes:** Numbered citations in the narrative ([1], [2], …). After the narrative, a single **## Notes** section listing each number with brief explanation (source / why disputed / comparative witness). This **replaces** the old “Source notes” + “Reliability” split. Markers ✓ ~ ✗ ◇ ? may still appear inside Notes entries.
 - **Naming:** Medieval / book form first; modern equivalent in parentheses on first mention in a chapter (e.g. Curzola (Korčula)). Prefer gazetteer book names thereafter.
@@ -29,7 +29,7 @@ This directory holds drafted chapters of Volume I (prologue through arrival at C
 | *(chapters I-1–I-13 below)* | Narrative |
 | `back-01-trivia-and-disputes.md` | Trivia + disputed claims (Curzola, mountain miracle, Assassins, Great Wall silence seed, etc.) |
 
-Series index: `/workspace/marco-polo/FRONT-BACK-MATTER.md`. Media credits: `/workspace/marco-polo/media/ATTRIBUTIONS.md`.
+Series index: `../FRONT-BACK-MATTER.md`. Media credits: `../media/ATTRIBUTIONS.md`.
 
 ## Chapters
 
@@ -49,4 +49,4 @@ Series index: `/workspace/marco-polo/FRONT-BACK-MATTER.md`. Media credits: `/wor
 | `ch-12-caracoron-tenduc.md` | I-12 — *Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords* | Storyteller + ## Notes |
 | `ch-13-chandu.md` | I-13 — *Chandu: Bamboo Palace, White Horses, Bacsi and Sensin* | Storyteller + ## Notes |
 
-Volume I chapter drafts follow the working outline in `/workspace/marco-polo/outline-volumes.md` through arrival at Chandu. Front/back companions slot before I-1 and after I-13.
+Volume I chapter drafts follow the working outline in `../outline-volumes.md` through arrival at Chandu. Front/back companions slot before I-1 and after I-13.

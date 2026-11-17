@@ -115,3 +115,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T1 / T4
 
 - **Status:** backlog; apply during the existing chapter tasks. S16-E9: competing accounts of the caliph’s death; Muqaṭṭam as Neggaz’s comparison, not proven direct borrowing. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+
+## U-1 source handoff (2026-11-17)
+
+From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). Lead, not a finding: Pelliot's "Mosul" entry (*Notes* II, entry 289) lists separate manuscript readings for the *mosolin* merchants and the cloth. Read it before Note [3]'s merchants question is settled. These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.

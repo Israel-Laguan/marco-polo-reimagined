@@ -56,7 +56,7 @@ Volume III will trade canal marvels for monsoon logic, Chipangu gold, and Cocach
 
 [1] Synthesises dispute flags from Vol. II chapter Notes; companion only.
 
-[2] ? Yangzhou governorship — Larner [-@larner1999marco], Moule–Pelliot [-@moule1938description] discussions; no consensus appointment diploma.
+[2] ? Yangzhou governorship — Larner [-@larner1999marco, ch. 3], Moule–Pelliot [-@moule1938description] discussions; no consensus appointment diploma.
 
 [3] ? / ◇ Saianfu mangonels — siege ✓; Polo family as decisive engineers contested against named court engineers in Chinese records.
 
@@ -64,6 +64,6 @@ Volume III will trade canal marvels for monsoon logic, Chipangu gold, and Cocach
 
 [5] ✓ Paper money institution; ~ Polo’s frictionless picture; fiscal stress clearer in Yuan sources.
 
-[6] Gazetteer volume=2 reliability column; chapter [V]/[R]/[M] tags.
+[6] Chapter tags [V]/[R]/[M] and the chapter Notes mark what is visited, reported or mixed.
 
 [7] Pointers to III-11 afterlives and III-12 reliability essay; Frances Wood [-@wood1995did, conclusion] debate.

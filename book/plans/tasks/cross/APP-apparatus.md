@@ -70,3 +70,7 @@ S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs
 - **Done when:** the explanation and generated list appear together in each volume's front matter and the shorthand list and bibliography still contain only that volume's cited works.
 - **Verified 2026-11-11:** a focused PDF build test passes; all three full-volume PDFs place the explanation and shorthand list on their abbreviations page and include *Works cited*. The existing one-PDF-per-volume citation scope is unchanged. Broader front/back layout and human page review remain with BLD.T4.
 
+### APP.T8 — Claim-level check of the S-25 keys
+- **Status:** ready · **Depends:** S-25 ✓ · **Origin:** spike audit 2026-11-17
+- **Do:** S-25 confirmed that the four works exist; it did not check what they say. For each of the 12 Notes that cite `derachewiltz1997marco` (6), `tao1959nancun` (3), `dutschke1993francesco` (2) and `atwood2004encyclopedia` (1), read the passage behind the claim. Then add a locator, correct the claim, or drop the citation, and log each outcome as `registry/locators.md` does.
+- **Done when:** every one of the 12 has a recorded outcome, and there are no unread `pending` rows.

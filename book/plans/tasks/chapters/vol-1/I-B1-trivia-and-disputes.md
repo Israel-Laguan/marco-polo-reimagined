@@ -90,6 +90,7 @@ _Created after the gating spikes close. Expected shapes:_
   - Notes with no lead marker: [1], [11] (fill, merge or rewrite; none may be a placeholder or pointer).
   - Run `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [3], [10]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-B1.T6 — Lint green and human read
@@ -102,3 +103,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-16 handoff — T1 / trivia
 
 - **Status:** backlog. Choose from S16-E9/E12/E15/E17 or the Hormuz route dispute, with attribution and without duplicating chapter notes. See [S-16 closeout](../../../research/results/S-16-closeout.md).
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: Trivia: use only checked S21-E rows; L items optional.

@@ -54,7 +54,7 @@ There is nothing more to mention about this country, so the Book will quit it, a
 
 ## Notes
 
-[1] ✓ / ◇ Battle “forgotten” after Zardandan discourse; Vochan = Yung-ch’ang / Baoshan plain. Core event of a frontier clash is the chapter’s strongest near-autopsy colour; set-piece polish is Book theatre. Gazetteer: Mien *reported_only*.
+[1] ✓ / ◇ Battle “forgotten” after Zardandan discourse; Vochan = Yung-ch’ang / Baoshan plain. Core event of a frontier clash is the chapter’s strongest near-autopsy colour; set-piece polish is Book theatre. Mien: reported only.
 
 [2] ✗ / ✓ Date given as 1272. ✗ Chinese fix 1277 (clerical MCCLXXII ← MCCLXXVII). ✓ Mongol force posted to Carajan / Vochan; frontier garrisoning real. ~ Relative timing vs Hügechi / Isentimur.
 

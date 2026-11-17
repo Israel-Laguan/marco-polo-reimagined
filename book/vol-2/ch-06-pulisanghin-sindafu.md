@@ -54,15 +54,15 @@ Here the chapter stops short of those marches. For the present it has done what 
 
 [2] ✓ / ✗ Pulisanghin = Lugou / Marco Polo Bridge over the Sanggan–Yongding. ✓ Scale, lion parapet, marble balustrade (Magaillans; Lecomte; Bretschneider). ✗ Arch-count: Polo’s 24 vs historical ~11–13; possible confusion with a neighbouring crossing. *Pul-i-Sangīn* = Persian “Stone Bridge”; Rashīd *Sangīn*. As cited in Yule: Magaillans, Lecomte, Bretschneider [@yc, 2.35].
 
-[3] ✓ Juju (Zhuozhou) ~30 miles west; silk/sendals; hostelries; road-fork west = Cathay, SE = Manzi. Rashīd *Jújú*; persistent highway bifurcation; structural hinge of Book II. Gazetteer: *likely_visited*.
+[3] ✓ Juju (Zhuozhou) ~30 miles west; silk/sendals; hostelries; road-fork west = Cathay, SE = Manzi. Rashīd *Jújú*; persistent highway bifurcation; structural hinge of Book II. Likely visited.
 
 [4] ◇ / ~ Acbaluc hunting-preserve terminus; hare-plague Court hunt. Ramusio only; site ≈ Zhengding (*Chaghan Balghasun*) plausible; anecdote colour.
 
 [5] ✓ / ~ Taianfu = Taiyuan; army stores; vines/wine; silk; Pianfu = Pingyang (Linfen). ✓ Taiyuan and Pingyang; wine fame Tang–Yuan. ~ “Only wine in Cathay” as absolute; ~ India-trade claim as merchant horizon.
 
-[6] ? / ~ Castle Caichu of the Golden King; portrait hall; girls’ carriage (Ramusio). ? Site (Kiai-chau / Ki-chau / Taiching-kwan). ~ Jin (*Altun Khan*, Golden Dynasty) memory behind *Roi d’Or* (Marsden). As cited in Yule: Marsden [@yc, 2.35].
+[6] ? / ~ Castle Caichu of the Golden King; portrait hall; girls’ carriage (Ramusio). ? Site: Jiangzhou (Pelliot, “confident”, though the text’s distances fit no site) [@pelliot1959notes, vol. 1, “Caiciu”]; Kiai-chau (Marsden, then Wylie and Richthofen); Ki-chau (Yule); Taiching-kwan. ~ Jin (*Altun Khan*, Golden Dynasty) memory behind *Roi d’Or* (Marsden). As cited in Yule: Marsden, Wylie, Richthofen [@yc, 2.38].
 
-[7] ◇ / ✗ Golden King romance with Prester John (capture; cattle; restoration). Romance; no Jin-history match; possible Kushlug / Qara-Khitai echo. Prester John again as portable antagonist.
+[7] ◇ / ✗ Golden King romance with Prester John (capture; cattle; restoration). Romance; no match in the Liao or Jin histories (Wylie) or in Harlez’s Kin history (Cordier) [@yc, 2.38]; possible Kushlug / Qara-Khitai echo. Prester John again as portable antagonist.
 
 [8] ✓ / ~ Caramoran = *Qara Mören* / Yellow River; unbridgeable; to Ocean; cheap pheasants; great canes. ✓ Name (Odoric; Marignolli; Rashīd). ~ “No bridge” and ocean rhetoric. Cachanfu ≈ Hezhong / Puchau at the great elbow — bank/side geography tangled. As cited in Yule: Odoric, Marignolli [@yc, 2.40].
 
@@ -72,8 +72,8 @@ Here the chapter stops short of those marches. For the present it has done what 
 
 [11] ✓ / ✗ Cuncun mountains: forests, game, hostelries, wearisome road = Hanzhong / Pillar Road (*Chien-tao*). ✓ Richthofen; used by Tolui, Köten, Möngke. ✗ / ~ Majority MSS ~20 days inflated; MS C’s 8 nearer truth. Name *Cuncun* imperfect for Hanzhong. As cited in Yule: Richthofen [@yc, 2.37].
 
-[12] ✓ / ? Acbalec Manzi = “White City of the Manzi Frontier”; ginger plain; then mountains with musk to Sindafu. ✓ Sense of name and Han-plain ginger (Ramusio preserves sense). ? Exact town (Hanzhong itself as Tartar “White City,” or other — unsettled). Gazetteer: *uncertain*.
+[12] ✓ / ? Acbalec Manzi = “White City of the Manzi Frontier”; ginger plain; then mountains with musk to Sindafu. ✓ Sense of name and Han-plain ginger (Ramusio preserves sense). ? Exact town (Hanzhong itself as Tartar “White City,” or other — unsettled). Uncertain.
 
 [13] ✓ / ? Sindafu (Chengdu) ~20 miles compass; tripartite walls from three sons; Great Kaan’s conquest. ✓ Great city. ? Three-sons legend vs older administrative wards.
 
-[14] ✓ / ✗ River Kian-suy (Min Jiang system joining Yangtze); shipping like a sea; roofed stone bridge; morning wooden shops; *Comercque*; ≥1,000 gold/day. ✓ Bridge markets and tolls strong local colour ★★; Min/Yangtze traffic. ✗ Half-mile width, 80–100 days to Ocean, and daily thousand gold as theatre. Gazetteer: Sindafu *visited*.
+[14] ✓ / ✗ River Kian-suy (Min Jiang system joining Yangtze); shipping like a sea; roofed stone bridge; morning wooden shops; *Comercque*; ≥1,000 gold/day. ✓ Bridge markets and tolls strong local colour ★★; Min/Yangtze traffic. ✗ Half-mile width, 80–100 days to Ocean, and daily thousand gold as theatre. Sindafu: visited.

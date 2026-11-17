@@ -62,7 +62,7 @@ OUTPUT FORMAT (required). (1) An element table with columns: # · element · wha
 ## Output (definition of done)
 - [x] `research/results/S-23-raw.md` saved, with the existence-check hit rate recorded (53 of 72 with a record found; see Findings)
 - [x] `registry/visual-references.md`: scouted works merged (the 12 shortlisted; the rest stay in the raw file); scene-coverage table for all 35 GEN hero scenes
-- [x] Shortlist agreed with the user (2026-11-13: the 12 accepted, top four first); a deep dive run and taken in for each shortlisted work. **Best effort:** dives 1–4 were run in-repo; 5–12 and Gorelik were done as short checks in the closing run ([raw](../research/results/S-23-closing-raw.md); intake in `registry/visual-references.md` § S-23 closing intake). None reached the works' interiors
+- [ ] Shortlist agreed with the user (2026-11-13: the 12 accepted, top four first); a substantive deep dive into each shortlisted work. **Partial:** checks 1–4 were run in-repo; 5–12 and Gorelik were short checks in the closing run ([raw](../research/results/S-23-closing-raw.md); intake in `registry/visual-references.md` § S-23 closing intake). None reached the works' interiors; the spike was closed best effort, not on completion of this original criterion.
 - [x] Scenes with no coverage flagged in `PLT-plates.md` (one note under the table, 13 scenes)
 
 ## Feedback to plan
@@ -161,15 +161,17 @@ A deep-research run on period sources (not modern works) plus follow-up checks w
 
 ## Gaps and follow-ups
 
+Updated 2026-11-16 against the later gap-source ledger and Decision. Check the current visual registry before scheduling work; individual objects and sources have different access and dating limits.
+
 ### High priority (each blocks plate work or leaves a wrong fact in a plan file)
 
 | # | Gap | Why high | Follow-up |
 |---|---|---|---|
-| H1 | ~~The S-23 scouting run has not been run.~~ **Done in-repo 2026-11-13** (above). What is left of it: the user's choice of shortlist, then one deep dive per work. | The deep dives are the only way any scene becomes *good*. | Run the scouting prompt above (scene list now fixed). First add to its "I already have" line the S-22 supplement's titles not yet there: *Angolmois: Hakata-hen*, *The Legend of Kublai Khan* (2013), *God of War* (MBC 2012), *The Fall of Otrar*, *Aravt*, *Age of Empires IV*, the BD *Marco Polo* (Adam, Clot, Convard, Bono) and *Temudjin*, *The Voyages of Marco Polo* board game. Save to `research/results/S-23-raw.md`. |
-| H2 | **Period sources for five groups are still absent**, and the answer on file is unreliable: (a) ger and ger-cart, I-12, I-13; (b) Dadu and Shangdu buildings, I-3, I-13, II-2, II-3; (c) armour and the trebuchet, I-5, II-1, II-8, II-11; (d) ship rig, rudder hoist and a hull shown sewn, II-12, II-14, III-2, III-6, III-8, III-9; (e) Venice, Genoa and Ayas c. 1270–1298, I-1, I-4, III-10. | 18 of 35 hero scenes touch one of these. Their `PLT` rows say "ready" while the hard content has no source. | Re-run the S-22 follow-up, groups 1, 2, 3, 5 and 6 only, with the stricter block under *Follow-up prompts*. |
-| H5 | **Get the sources the deep dives could not open**: a copy of Gorelik 2002; Green and Burningham, IJNA 27.4 (1998); the 2024 Dadu report; the Met catalogue PDF (Denney, Steinhardt and Sun's essays). | Three of the four dives stopped at a paywall or a missing book. These four items hold the armour, rig, gate and dress detail the plates need. | User supplies PDFs or library access; then one intake session per item. The Met PDF is free and only needs a manual download. |
-| H3 | **View the eight kept leads** (intake, last table): Princeton y1951-34, Freer F1954.20 and .21, BnF Suppl. persan 205, ~~Met 1973.120.3~~ (viewed: no tent on a cart), the Mokpo Sinan hull, Huang Sheng, Cocharelli, plus Met 1999.158 and 47.18.139 from the S-22 supplement, and Met 2012.399, 1997.33.1–.6, 2020.122, 11.8.4 and 2015.500.1.21 (late 13th century or 1294, public domain, reachable through the Met API). | Cheapest route to real cues: records exist, most are open access. One session in this repo. | Intake session: open each image, write a cue only from what is seen, as on 2026-11-13. |
-| H4 | **C9–C20 still sit in `illustration-plan.md`**, now marked "not cues". | A marked trap is still a trap for a tool that pastes the table. | Delete the twelve rows once H2 or H3 gives replacements; until then no prompt may take a cue above C8. User's call whether to delete now. |
+| H1 | **Scouting and shortlist checks completed best effort; no shortlisted work was opened beyond publisher or press material.** | The 35-scene inventory remains 0 good / 22 thin / 13 none for modern media. | When a named work becomes accessible, inspect its interior and verify any proposed visual detail against period evidence. |
+| H2 | **Period coverage remains partial** for ger-carts, Yuan halls, armour, ships, Venice/Genoa/Ayas, and several Asian regions. | Some scenes still lack suitable, viewed evidence for their hardest details. Later finds include Takashima armour reports and dated comparanda; see the gap-source ledger above for what they actually establish. | Check that ledger and the visual registry scene by scene; seek or inspect suitable sources, or omit and qualify unsupported details. |
+| H5 | **Some source texts remain unavailable:** Gorelik 2002, Green and Burningham 1998, and the 2024 Dadu report. The Met catalogue essays are now readable page by page. | The missing works may add armour, ship or gate evidence; catalogue access does not settle those details automatically. | Obtain the named works through library access where the detail is needed, then record passage and access limits. |
+| H3 | **Some object leads still need viewing:** Princeton y1951-34, Freer F1954.20 and .21, BnF Suppl. persan 205, the Mokpo Sinan hull, Huang Sheng, and Met 1999.158, 47.18.139 and 11.8.4. | A checked catalogue record is not a viewed image or a period attribution for a specific detail. Cocharelli and several Met objects have since been viewed. | Consult the gap-source ledger above and view each needed object before writing a visual cue, retaining date and attribution limits. |
+| H4 | **Resolved 2026-11-16:** rejected cue text C9–C20 removed from the active illustration table and C9–C22 from the registry table. | The rejected raw research remains available for audit, not as prompt material. | Create replacements only from independently checked sources and record the evidence and limits. |
 
 ### Low priority (useful, nothing waits on them)
 
@@ -179,8 +181,8 @@ A deep-research run on period sources (not modern works) plus follow-up checks w
 | L2 | Persia and the caravan roads beyond the 1290 frontispiece (wind-towers, caravanserais, Badakhshan, Pamir, Mogao and Yulin donor caves by number): I-6 to I-11, III-8. | The Ilkhanid route already passed in S-10 on style; content needs are small (I-8, I-9, I-10 are landscape-led). | S-22 follow-up group 9, strict block. |
 | L3 | Yuan dress reconstructions from excavated garments (China National Silk Museum, Inner Mongolia Museum, Zhangxian tombs; Mongolian work). | Feeds `CHR.T5` costume rows; C1–C5 already cover court dress from viewed objects. | S-22 follow-up question 10 as a stand-alone prompt. |
 | L4 | The 1999 Suntory exhibition catalogue. | Only documents *A Bride's Story*'s trail; that work is 19th-century and a process reference only. | Drop unless a deep dive on Mori is chosen. |
-| L5 | Scenes that will probably stay *none* for modern media: I-8, I-9, I-10, II-7, II-9, III-4, III-7. | S-23 already says *none* is acceptable; they fall back to period art and scholarship. | After H1, flag their `PLT` rows "expect more rounds". Not flagged today: the coverage table is provisional. |
-| L6 | Region reruns of the scouting prompt (China, Korea, Mongolia in the native language) and the per-work deep dives. | They depend on H1's shortlist. | Decide with the user after H1. |
+| L5 | Scenes with no modern-media coverage: I-7, I-8, I-9, II-5, II-6, II-7, II-9, III-3, III-4, III-5, III-6, III-7 and III-8. | Modern-media coverage is distinct from period-source coverage. | PLT already flags these for more rounds; source each scene detail from suitable period evidence and scholarship. |
+| L6 | Region reruns of the scouting prompt (China, Korea, Mongolia in the native language) and fuller per-work dives. | The initial shortlist was checked best effort, without opening the works' interiors. | Run selectively when an accessible work or a scene-specific need justifies it. |
 
 ## Decision
 **Closed 2026-11-13, best effort.** Protocol: one external closing run, intake, one last targeted search, close.
@@ -202,11 +204,11 @@ The modern-media coverage verdict stays **0 good / 22 thin / 13 none**. That is 
 - a Venetian, Genoese or Ayas image dated 1270–98 other than coinage;
 - Sumatra, Sri Lanka, the Pandya coast, the pearl fishery, Badakhshan, the Pamir and Lop.
 
-**Left to the user:** H4, whether to delete the false cues C9–C20 from `illustration-plan.md` now that C43–C50 exist.
+**2026-11-16 audit:** the rejected C9–C20 prompt text was removed from the active illustration plan and C9–C22 from the registry's active cue list; the failed raw report and intake retain the audit trail. C43–C50 remain subject to their individual source and adoption limits.
 
 **Reopen only if** a named item arrives: the 2024 Dadu report, Gorelik 2002, the *I mondi* catalogue, or library access to `green1998quanzhou`. Each would get one intake session in a new spike, not a reopened S-23.
 
 ## Tasks to create on close
 - `PLT.T*` reference pointers per hero plate: the period sources are now in each chapter task's *Period sources* block; copy them into the plate rows when the plates are built
 - `PLT` difficulty flags: scenes left with no period source (list above) are "first of its tradition, expect more rounds"
-- `illustration-plan.md`: accept or reject the draft cues C43–C50, and decide H4 (C9–C20)
+- `illustration-plan.md`: accept or reject the draft cues C43–C50 after checking each source and limit; rejected C9–C20 have been removed.

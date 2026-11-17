@@ -41,7 +41,7 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Hero plate:** III-1 *Takezaki Suenaga's men board a Yuan ship, 1281* — **PD**, *Mōko Shūrai Ekotoba* (c. 1293), scroll 2, Kyushu University copy, handscroll — see `illustration-plan.md`. S-11: the scrolls have **no typhoon scene**, so the hero changed; the caption says so (`registry/pd-sources.md`). Critique §4 period notes for the 1281 storm: use the scroll for samurai and Mongol/Korean ships; stone anchors from the Takashima wreck; do not depict the "false-banner capture of the capital" as history. (Critique's own ★ pick was "Saving a holed junk": the whale-strike cause is Ramusian folklore — show a reef.)
 - **Secondary plates:** Chipangu's golden palace *as imagined* (GEN, LdM lens) — Latin manuscript-illumination idiom, not Kamakura architecture; caption as rumour
 - **Maps:** **A15** Invasions of Japan, 1274/1281 (Korean and Chinese fleets, Hakata Bay, Takashima)
-- **Timelines / diagrams / tables:** **C12** seagoing-junk cutaway (13 compartments, axial rudder, batten sails); **D** "Japan 1274/1281: Polo vs Japanese and Yuan sources" (commanders, storm, outcome, date); critique §5 item 2 links the monsoon diagram (C11) to ch-01:41 ("two winds"). Existing `drawing-manzi-junk.png`: usable with caveats (Western galleried stern, portholes, five masts) per critique, but multimedia plan retires all `drawing-*.png`. Glossary: Chipangu (Jih-pên-kuo).
+- **Timelines / diagrams / tables:** **C12** seagoing-junk cutaway (13 compartments, axial rudder, batten sails); **D** "Japan 1274/1281: Polo vs Japanese and Yuan sources" (commanders, storm, outcome, date); critique §5 item 2 links the monsoon diagram (C11) to ch-01:41 ("two winds"). Existing `drawing-manzi-junk.jpg`: usable with caveats (Western galleried stern, portholes, five masts) per critique, but multimedia plan retires all `drawing-*.png`. Glossary: Chipangu (Jih-pên-kuo).
 - **Characters appearing:** Marco Polo, Kublai (Cublay), Abacan, Vonsainchin; also named: Columbus; comparative sources: Niccolò de' Conti, Odoric, Ibn Battuta, Rashid al-Din
 
 ### Period sources (gap-source ledger, 2026-11-13)
@@ -101,6 +101,7 @@ _Created after the gating spikes close. Expected shapes:_
   - "Dispute" label in Note(s) [7]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
   - Run `python3 tools/lint.py -v vol-3/ch-01-ships-chipangu.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [11]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
@@ -110,3 +111,20 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 30 errors · 4 warnings — failing: archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know; warnings: ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/ch-01-ships-chipangu.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H12 (Chipangu stones: reported marvel).
+
+## S-18 priority source handoff (2026-11-16)
+
+Separate Sasaki 2008 thesis from the 2015 book and 2011 discovery. A dated seal does not by itself date an individual hull, and fire traces do not disprove a storm. See [intake](../../../research/results/S-18-priority-return-2026-11-16-intake.md).
+
+**S-18 library follow-up:** Ikeda, Sasaki and Kimura 2019 pp. 1635–38 report discovery of Takashima No. 1 in 2011 and No. 2 in 2014 and interpret both as Chinese-built from their construction. Historical sources supply the storm account; do not infer which vessel Polo saw. See [source-check intake](../../../research/results/S-18-library-returns-2026-11-16-intake.md).
+
+**S-18 return (2026-11-17):** A researcher reports reading parts of Sasaki 2015 via archive item `Book_1137`; the item is marked dark here, so we could not reproduce the claimed pages or storm interpretation. Keep the book chapters unverified pending an accessible edition. See [intake](../../../research/results/S-18-targeted-archive-return-2026-11-17-intake.md).
+
+## Indirect-route update (2026-11-17)
+
+Sasaki 2015's pages could not be reproduced, but its basis, Sasaki's 2008 MA thesis (Texas A&M OAKTrust, open access), and his open conference paper "The Archaeological Investigation of 'Kamikaze'" can be cited for the timber evidence instead. That evidence: about forty scorched timbers, possibly from Japanese attacks; species mix (camphor 32.8%, pine 22.4%, China fir 14.9% of 174 hull samples); and signs of repair or reuse. Sasaki also cautions that one poor mast step does not prove hasty construction. See the [note](../../../research/results/kept-gaps-indirect-routes-2026-11-17.md). Fire traces still do not disprove the storm.
+

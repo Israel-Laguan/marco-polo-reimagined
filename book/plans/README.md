@@ -57,8 +57,8 @@ plans/
 | [S-10](spikes/S-10-image-generation-pilot.md) | Image generation pilot | **closed** 2026-11-10 (Akool Flux Krea; Ilkhanid via Gemini chat; I-7, II-13, III-5 accepted; tasks in `PLT`) | generator choice; S-05 cards; S-08 sizes | `PLT` (GEN) |
 | [S-11](spikes/S-11-public-domain-sourcing.md) | Public-domain sourcing and licensing | **closed** 2026-11-10 (`registry/pd-sources.md`, masters in `media/public-domain/`; 6 PD heroes, III-7 to GEN; no BnF licence, so I-2 and III-12 print from free facsimiles) | — | `PLT` (PD) |
 | [S-24](spikes/S-24-citation-style.md) | Citation and bibliography style (Chicago author-date, base-text sigla, conversion of ~700 Notes) | **closed** 2026-11-11 (passes A and B applied; ambiguous modern names reviewed; print apparatus and citation lint in place) | S-12 (pass B), S-08 | source-by-source review: APP.T5–T6 and chapter `.T4`; preview/EPUB: BLD.T9 |
-| [S-25](spikes/S-25-confirm-cited-works.md) | Confirm the four unconfirmed works already cited (de Rachewiltz 1997, Dutschke, Atwood, Nancun chuogeng lu) | open (prompt ready) | — | 11 citations; bib status |
-| [S-26](spikes/S-26-modern-locators.md) | Chapter locators in the five most-cited modern books (human reading) | open | S-24 pass B ✓ | locators and misattributions in the Notes |
+| [S-25](spikes/S-25-confirm-cited-works.md) | Confirm the four unconfirmed works already cited (de Rachewiltz 1997, Dutschke, Atwood, Nancun chuogeng lu) | **closed** 2026-11-13 (bibliographic records checked with stated limits; not a claim-level citation audit; claim check is `APP.T8`) | — | 12 citations (11 at close); bib status |
+| [S-26](spikes/S-26-modern-locators.md) | Chapter locators in the five most-cited modern books (human reading) | **closed** 2026-11-16 (`registry/locators.md`: 65 rows; 44 confirmed, 18 corrected, 3 removed, 0 unresolved) | S-24 pass B ✓ | locators and misattributions in the Notes |
 
 ### Phase R — references and enrichment (deep research)
 
@@ -66,20 +66,20 @@ Twelve spikes whose research step runs **outside** this repo. Each holds a paste
 
 | ID | Spike | Status | Feeds | Gates |
 |---|---|---|---|---|
-| [S-12](spikes/S-12-bibliography-editions.md) | Master bibliography, editions, translations | **closed** 2026-11-10 (162 entries; `sources.md`; name map handed to S-24; *Further reading* open) | all R spikes (bib keys) | `registry/bibliography.bib`; citation policy; `BLD` biblatex |
+| [S-12](spikes/S-12-bibliography-editions.md) | Master bibliography, editions, translations | **closed** 2026-11-10 (162 entries at close, 369 by 2026-11-17; `sources.md`; name map handed to S-24; *Further reading* open) | all R spikes (bib keys) | `registry/bibliography.bib`; citation policy; `BLD` biblatex |
 | [S-13](spikes/S-13-scholarship-update.md) | State of the field 2013–2026 (incl. 2024 anniversary) | **closed** 2026-11-11 (`registry/scholarship.md`: 12 open questions marked, 3 new; 57 works added; five works still to read before III-12 is rewritten) | — | III-12, III-11, III-B1, I-01 |
 | [S-14](spikes/S-14-fact-verification-sweep.md) | Fact verification sweep (25 claims) | **closed** 2026-11-11 (follow-up raw preserved; 25-claim trust intake; unresolved components recorded) | **S-06** | factual `.T1` tasks and `DIA` updated |
-| [S-15](spikes/S-15-venice-genoa-family.md) | Venice, Genoa and the Polo family record | closed, best effort done; archival follow-ups (2026-11-11) | S-05 | I-01, I-02, III-10; `CHR` |
-| [S-16](spikes/S-16-overland-route.md) | Overland route: archaeology, identifications (Vol. I) | done (best effort) | S-04 | Vol. I enrichment; `MAP` A3–A6 |
-| [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | done (best-effort intake; substantive follow-ups open) | S-04 | Vol. II enrichment; `GAZ`, `MAP`, `DIA`, `TBL` |
-| [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | done (best-effort intake; follow-ups open) | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
+| [S-15](spikes/S-15-venice-genoa-family.md) | Venice, Genoa and the Polo family record | closed (best effort) 2026-11-11; archival follow-ups open | S-05 | I-01, I-02, III-10; `CHR` |
+| [S-16](spikes/S-16-overland-route.md) | Overland route: archaeology, identifications (Vol. I) | closed (best effort) 2026-11-11 | S-04 | Vol. I enrichment; `MAP` A3–A6 |
+| [S-17](spikes/S-17-yuan-china.md) | Yuan China: institutions, cities (Vol. II) | closed (best effort) 2026-11-11; substantive follow-ups open | S-04 | Vol. II enrichment; `GAZ`, `MAP`, `DIA`, `TBL` |
+| [S-18](spikes/S-18-maritime-return.md) | Maritime Asia and the return voyage (Vol. III) | closed (best effort) 2026-11-12; follow-ups open | S-04 | Vol. III enrichment; `MAP` A15–A17; `DIA` |
 | [S-19](spikes/S-19-primary-comparanda.md) | Comparative primary sources: translations, passages | closed best effort 2026-11-12 (direct checks done; lead rows open) | S-02 (lint corpus) | Comparative clauses; `refs/` additions |
 | [S-20](spikes/S-20-reception-afterlives.md) | Reception, print, maps, myths | closed 2026-11-13 (qualified handoff) | S-11 ✓ (PD candidates) | III-11, all trivia files; `DIA` B5 |
-| [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | open | — | asides, trivia, captions; `TBL` |
+| [S-21](spikes/S-21-natural-history-marvels.md) | Natural history, commodities, marvels | closed 2026-11-13 (qualified handoff; [closure](research/results/S-21-closure.md)) | — | asides, trivia, captions; `TBL` |
 | [S-22](spikes/S-22-media-visual-references.md) | Visual references from modern media (manga, film, games, reconstruction art) | closed 2026-11-13, best effort ([follow-up prompt](research/S-22-follow-up-prompt.md) available) | S-05, S-10 | plate `[PERIOD]` cues; costume cards. Used for content, never for style |
 | [S-23](spikes/S-23-media-scouting.md) | Scouting more media references: all languages, all media, by hero scene; plus a per-work deep-dive template | closed 2026-11-13 (best effort) | S-22, S-10 | shortlist for deep dives; scene coverage for the 35 GEN plates |
 
-The remaining prompts can be run independently (S-23 is best after S-22). S-12–S-18 have been taken in; S-15–S-18 are best-effort closures with source-specific gaps. Consult their intake records before using findings. Run the S-18 follow-up **before Vol. III's W4 re-voice batch** if possible.
+These are research-intake closures, not claims that all original questions or downstream work are complete. S-15–S-19 and S-22–S-23 have best-effort limits; S-20–S-21 have qualified handoffs. Consult the [spike audit](status/spike-audit-2026-11-16.md) and each intake before using findings. The S-18 follow-up was run and taken in; its remaining source-specific checks should inform Vol. III's W4 re-voice, with the recorded fallbacks where sources remain unavailable.
 
 **Suggested waves**
 
@@ -95,11 +95,11 @@ These are reader-facing errors with concrete fixes already in the critique. Safe
 
 | Task | What |
 |---|---|
-| `MED.T1` | Correct the mis-captioned images in I-F2, II-F2, III-F2 ([MED](tasks/cross/MED-existing-media.md)) |
-| `DOC.T1` | Replace `/workspace/...` paths ([DOC](tasks/cross/DOC-status-docs.md)) |
-| `HOT.1` | Replace the invented or misquoted epigraphs. The critique gives verified Yule replacements with line numbers (content plan W1.1). **Check each replacement against the existing chapter epigraphs.** Three of the Vol. II suggestions duplicate the ch-01, ch-10 and ch-13 epigraphs, so pick other verified lines for those. After fixing a quotation, run `python3 tools/cite_convert.py --pass A --apply <file>`: the credit is set from where the quotation sits in Yule (S-24). |
-| `HOT.2` | Strip the scaffolding leaks: "Soft …:" labels, instructions to self, pasted outline lists, meta lines (W1.3) |
-| `HOT.3` | Fix "Po-lo" = Bolad in II-5, II-11 and III-12. The correction is in Yule–Cordier's own addenda, so S-06 is not needed (W1.2). |
+| `MED.T1` | **Done 2026-11-17.** Correct the mis-captioned images in I-F2, II-F2, III-F2 ([MED](tasks/cross/MED-existing-media.md)) |
+| `DOC.T1` | **Done 2026-11-17.** Replace `/workspace/...` paths ([DOC](tasks/cross/DOC-status-docs.md)) |
+| `HOT.1` | **Done** (verified 2026-11-17: all 13 epigraphs in the listed files are verbatim Yule–Cordier, checked against `refs/`). Replace the invented or misquoted epigraphs. The critique gives verified Yule replacements with line numbers (content plan W1.1). **Check each replacement against the existing chapter epigraphs.** Three of the Vol. II suggestions duplicate the ch-01, ch-10 and ch-13 epigraphs, so pick other verified lines for those. After fixing a quotation, run `python3 tools/cite_convert.py --pass A --apply <file>`: the credit is set from where the quotation sits in Yule (S-24). |
+| `HOT.2` | **Done 2026-11-17** (lint `scaffolding` check now 0 in all 49 files). Strip the scaffolding leaks: "Soft …:" labels, instructions to self, pasted outline lists, meta lines (W1.3) |
+| `HOT.3` | **Done 2026-11-17** (II-05 body and Note [7], III-12 open question 5 and Note [13]; II-11 had no Po-lo claim left). Fix "Po-lo" = Bolad in II-5, II-11 and III-12. The correction is in Yule–Cordier's own addenda, so S-06 is not needed (W1.2). |
 
 The re-voice will later rewrite these chapters anyway. The hotfixes are worth it because they remove errors a reader could quote, and they keep later diffs clean.
 
@@ -160,7 +160,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 **Closing a spike** (checklist):
 1. Fill in **Findings** and **Decision**, with the date.
 2. Edit every plan doc listed under *Feedback to plan*, and record the change in the spike.
-3. Write the tasks into every gated file and set those files to `ready`.
+3. Write or update the downstream tasks or handoffs in every gated file. Set a file to `ready` only when its other dependencies are satisfied; record unresolved research and safe fallbacks explicitly.
 4. Update the spike board above and the decision log below.
 
 ## Definition of done (S-02)
@@ -196,6 +196,8 @@ A manuscript file is **done** when:
 
 | Date | Decision | Source |
 |---|---|---|
+| 2026-11-16 | Modern-work citation locators: S-26 checked 65 original citations, corrected misattributions and locators, and removed unsupported references. Retain checked scope when Notes are rewritten; chapter `.T4` tasks and the locator registry carry the handoff. Columbus’s annotated copy does not establish pre-1492 use. | [S-26](spikes/S-26-modern-locators.md) |
+| 2026-11-13 | Natural history (S-21): the Book's claim is told in the witness that carries it; identifications are attributed and hedged per the closure table; no efficacy claims. Carajan “serpents” are usually identified as a crocodilian (none among the 20 records tabulated by Iijima et al.; Wen 1980 unread); the Kerman turquoise mine is Yule's probable identification; the Socotra whale hunt is Ramusio's (1559 II fol. 57v); shark-charmers were abolished in the mid-1880s per Kunz and Smith, with no single ban year. Fallbacks stand for the rest; Twynam, Wen 1980 and Weisgerber stay optional library checks | S-21 |
 | 2026-11-13 | Modern media (manga, anime, film, games, reconstruction art) are viewing aids for content only: style-guide rules 8–12. Plate cues are worded from period objects that have been looked at; eight cues (C1–C8) are in the illustration plan; reference images live in `media/reference/s22/` and are never generator inputs. Armour, ger-cart, Dadu, South China, ships, Venice, Southeast Asia and South India wait on the S-22 follow-up prompt | S-22 |
 | 2026-10-21 | Markdown now, LaTeX for the final print version; multimedia is static | user |
 | 2026-10-21 | Illustrations in regional period styles; real public-domain artworks preferred over generated imitations | user; illustration plan |
