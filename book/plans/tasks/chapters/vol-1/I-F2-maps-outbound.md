@@ -63,7 +63,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-F2.T6` Lint pass and human voice read
 
 ### I-F2.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Hormuz → Hormos ×3, Iran → Persia ×1, Old Hormuz → Hormos ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1, Wakhan → Vocan ×1, Pamir → Pamier ×1, Kashgar → Cascar ×1 (+4 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
@@ -97,3 +97,5 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 9 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+**Targeted continuity pass (2026-11-17), applied to `I-F2.T1`:** M2 only: :17, the Hormuz place-table row and Note [3] now give the turn back to Kerman as the Book’s and the abandoned sea plan as Yule’s inference. The m1 route difference (Tauris vs Baghdad), captions and names are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

@@ -1,4 +1,4 @@
-# I-07 — Kerman, Camadi, Hormos: Heat, Stitched Ships, and Turning Back
+# I-07 — Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman
 
 **File:** `vol-1/ch-07-kerman-hormos.md` · **Status:** backlog · **Kind:** narrative
 
@@ -69,7 +69,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-07.T6` Lint pass and human voice read
 
 ### I-07.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-07.T3` (W2: applied in the re-voice pass)
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-06 ✓, `I-07.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-36: Sigatay is the Kaan's uncle (d. 1242), not his brother.
@@ -129,3 +129,5 @@ S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). A
 ## U-1 source handoff (2026-11-17)
 
 From the [U-1 intake](../../../research/results/U-1-intake.md) (12 checks, 11 hits). **Applied 2026-11-17 to the Note** (body text unchanged). F-46. Body l. 23 "Nigūdarī bands are historically attested" can stay, sourced to Pelliot ("Caraunas": first mention 1270). Note [7]: the genealogy (Chagatai's nephew) is the Book's, with no nephew Negüder found; Dalivar = Lahore (Marsden, Yule) or Delhi (Pelliot); Asedin = Ghiyāth al-Dīn, sultan of Delhi. Cite `[@pelliot1959notes, vol. 1, "Caraunas"; vol. 2, "Dilivar"]`. Aubin and Jackson are leads only. These are inputs to the chapter's `.T1`/`.T4` work, not completed edits.
+
+**Targeted continuity pass (2026-11-17), applied to `I-07.T1`:** M2 only: the chapter is retitled “…and the Road Back to Kerman” (also in `vol-1/README.md` and `outline-volumes.md`); :43 attributes the abandoned sea plan to Yule; Note [15] is now `~` (narrative return, no stated refusal); Note [16] no longer calls the outbound sea plan the Book’s. The other factual items and the re-voice are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

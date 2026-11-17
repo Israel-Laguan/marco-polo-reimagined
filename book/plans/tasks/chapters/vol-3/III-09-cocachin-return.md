@@ -60,7 +60,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-09.T6` Lint pass and human voice read
 
 ### III-09.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `III-09.T3` (W2: applied in the re-voice pass)
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-06 ✓, `III-09.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-15: Jackson reports that the Chinese and Persian embassy accounts do not name the Polos. Ma reports Yang’s late-1290/early-1291 inference; Yule proposed early 1292. Attribute these and distinguish preparation from sailing; do not attribute an exact date to Cleaves or Haw without reading them.
@@ -118,3 +118,5 @@ Moule–Pelliot gives edited Latin and translation for a loss involving Comnenus
 **S-18 library follow-up:** Orlandini’s edited OCR supports the same February 1309 Venetian-style / 1310 modern will as Moule–Pelliot, which describes losses involving Comnenus and his district. The 1,000 lire also concerns other affairs. His violence narrative is an interpretation; Yule’s different year comes through an unseen 1328 act, and the relationship needs investigation. See [source-check intake](../../../research/results/S-18-library-returns-2026-11-16-intake.md).
 
 **S-18 source correction:** The 1,000 lire in *imprestiti* conditionally bequeathed to Marcolino and the separate 1,000 lire Marco received for losses are different sums. Similarity of bequests does not establish that Yule’s 1328 report refers to this exact will. See [intake](../../../research/results/S-18-remaining-library-return-2026-11-16-intake.md).
+
+**Targeted continuity pass (2026-11-17), applied to `III-09.T1`:** Applied: M1/F-15 (:31 aside and Note [12] rewritten: the embassy is corroborated, the Polos are not named; Yang’s inference as Ma reports; Jackson pp. 98–99; preparations distinguished from sailing at :27 and Note [10]); n4 (:29 and Note [11]: Ramusio names no port; Hormos is Yule’s); the M7 stockade hedge (:25, Note [9]); Rashid’s undated Abhar marriage (:29, Note [11]); Cocachin’s death date attributed to Yule, with 1299 noted (:33, Note [13]); “flagship” removed (:43). Not done: n3 (Note [17] arithmetic), the Coja-survival wording, the ★ in Note [3], and a person’s check. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

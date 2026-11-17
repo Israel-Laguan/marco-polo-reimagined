@@ -60,7 +60,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-12.T6` Lint pass and human voice read
 
 ### III-12.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** n/a — the lint `name_policy` check skips the reception chapters
 - **Do:**
   - Modern forms are fine where this chapter discusses modern scholarship. Where it names Polo's own places (Zayton, Kinsay, Chipangu, …) it uses the book form from `gazetteer.csv`, glossed once on first mention.
@@ -129,3 +129,5 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-20 source reuse (2026-11-13):** S20-E34 / `mascherpa2018fonte`, pp. 62–63, supplies a named reconstruction and alternative for the long Quinsai material; present both as hypotheses in §2 if useful. S20-E40 identifies Yang’s 1941 article via Ma while F-15 and Zhang locate the notice in the *Yongle dadian*; neither Chinese nor Persian notice names the Polos. Do not treat the correspondence as direct proof of their presence. [Closure](../../../research/results/S-20-closure.md).
+
+**Targeted continuity pass (2026-11-17), applied to `III-12.T1`:** Facts only: F-08 (the Ahmad hit at :33 and Note [5] no longer reads the annals’ “Po-lo” as Marco; open question 5 already matched II-05), F-32 (stele cut from :41 and Note [6]), F-34 (:27 and Note [4]: Jacopo’s Ayas under 1296 vs Ramusio’s Curzola, with `bolognari2024chronica`), F-15 (:33, :81, Notes [5], [11]; Cocachin dropped from the closing list of presence hits). Note [11]’s Boyle 1958 now goes with Juvaini; Kököchin cites `boyle1970rashidfranks` p. 66. Not done: the §6/§9 scholarship items and the person’s gazetteer read. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

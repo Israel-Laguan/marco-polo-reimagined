@@ -151,7 +151,7 @@
 
 ---
 
-### Ch. I-7 — *Kerman, Camadi, Hormos: Heat, Stitched Ships, and Turning Back*
+### Ch. I-7 — *Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman*
 **Beats (Book I.xvi–xix)**
 - Kerman: turquoise, *ondanique* (Indian steel), manufactures, falcons
 - Camadi in ruins; Carauna robbers; fear on the road

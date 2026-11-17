@@ -30,7 +30,7 @@ Volume III ends the travel and opens the echo. Trivia here covers the ocean book
 
 **Chipangu gold.** Japan exists; Mongol invasion attempts existed; roofs of gold are marvel speech. The dispute is not “did Polo invent Japan?” but “how far did hearsay and rhetorical gold reshape a real archipelago for European desire?” Columbus’s westward hope is the loudest consequence. [2]
 
-**Cocachin / Kökechin embassy.** That a Yuan princess travelled by sea toward an Ilkhanid marriage in this generation is grounded in cross-tradition historical discussion. Exact onomastics, passenger lists, and how neatly Polo’s role matches Persian notices remain scholarly matching work. High escort mortality is book tradition. Treat the political frame as strong and the novelistic detail as tradition. [3]
+**Cocachin / Kökechin embassy.** The embassy is on record outside the Book: Rashid al-Din has Arghun’s envoys bring Kököchin to Ghazan, and a Chinese notice of 1290 names three envoys whom Yang Zhijiu matched to the Book’s. Neither names the Polos. The sea passage as told, the passenger list and the high mortality are the Book’s. The sailing date (end of 1290 or early 1291 for Yang, early 1292 for Yule) is still argued. [3]
 
 **Personal landings vs periplus report.** Chamba and Sumatran wintering lean visited; Great Java interior, many Arabian and African coasts, dog-headed Andaman ethnography lean reported or legendary. Chapter tags and Notes are the guide. [4]
 
@@ -56,11 +56,11 @@ If you want the long form, read III-11 and III-12. If you want the pocket form, 
 
 [2] ◇ / ✗ Chipangu gold roofs as description; ✓ Japan as real target of Mongol fleets; reception ✓ via Columbus et al.
 
-[3] ✓ / ~ Ilkhanid marriage embassy by sea; ~ Polo’s exact role and passenger mortality details.
+[3] ✓ / ? Embassy corroborated (Rashid; the 1290 notice as Ma reports Yang [@ma2025chinese]); ? Polos unnamed in both [@jackson1998travels, pp. 98–99]; sailing date debated; mortality is the Book’s claim (III-9 [10], [12]).
 
 [4] Chapter tags [V]/[R]/[M] and the chapter Notes mark what is visited, reported or mixed.
 
-[5] ✓ / ? Columbus’s annotated Polo — ✓ his annotated Latin copy survives (III-11). ? Its part in the westward project: the usual view dates most postils before 1492, but Larner [-@larner1999marco, ch. 9] argues that this copy probably reached Columbus only around 1497–98, that some postils postdate the Second Voyage, and that the first-voyage *Diario* gives no decisive sign he had read Polo.
+[5] ✓ / ? Columbus’s annotated Polo — ✓ his annotated Latin copy survives (III-11). ? Its part in the westward project: when the postils were written is uncertain. Larner [-@larner1999marco, ch. 9] argues that this copy probably reached Columbus only around 1497–98, that some postils postdate the Second Voyage, and that the first-voyage *Diario* gives no decisive sign he had read Polo; Gil [-@gil2006marcocristobal, pp. 25–27, 30–34] also argues for a 1497–98 reading. Not evidence of pre-1492 use.
 
 [6] ? Wood [-@wood1995did, conclusion] (1995) vs answering literature — see III-12 for series method; no fabricated page cites here.
 

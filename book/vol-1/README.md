@@ -41,7 +41,7 @@ Series index: `../FRONT-BACK-MATTER.md`. Media credits: `../media/ATTRIBUTIONS.m
 | `ch-04-hermenia-georgiania.md` | I-4 — *Lesser and Greater Hermenia; Turcomania; Georgiania* | Storyteller + ## Notes |
 | `ch-05-mausul-baudas.md` | I-5 — *Mausul, Baudas, and the Mountain That Moved* | Storyteller + ## Notes |
 | `ch-06-tauris-persia.md` | I-6 — *Tauris, Persia of the Three Kings, and the Eight Kingdoms* | Storyteller + ## Notes |
-| `ch-07-kerman-hormos.md` | I-7 — *Kerman, Camadi, Hormos: Heat, Stitched Ships, and Turning Back* | Storyteller + ## Notes |
+| `ch-07-kerman-hormos.md` | I-7 — *Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman* | Storyteller + ## Notes |
 | `ch-08-arbre-sec-old-man.md` | I-8 — *Cobinan, the Arbre Sec, and the Old Man of the Mountain* | Storyteller + ## Notes |
 | `ch-09-balc-badashan.md` | I-9 — *Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys* | Storyteller + ## Notes |
 | `ch-10-pamier-cotan.md` | I-10 — *Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country* | Storyteller + ## Notes |

@@ -82,7 +82,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### III-03.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `III-03.T3` (the flags are written during the re-voice pass)
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-03 ✓, `III-03.T3` (the flags are written during the re-voice pass)
 - **Now:** 5 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -125,3 +125,5 @@ Pasai: the 1297 inscription postdates the proposed c. 1292 visit. Lambourn dates
 **S-18 strict return:** Pelliot entry 270 in [Toyo Bunko OCR](https://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/page/0165.html.en) places Lambri in northwest Sumatra near future Acheh; Lamreh is a possible site reported through Yule, not an assured exact location. See [intake](../../../research/results/S-18-strict-follow-up-2026-11-16-intake.md).
 
 **S-18 library follow-up:** Yatim 1985 thesis p. 94 offers a dating error or replacement as alternatives; its OCR was independently read. Neither possibility proves replacement. Lambourn and Ismail directly read as already recorded. See [source-check intake](../../../research/results/S-18-library-returns-2026-11-16-intake.md).
+
+**Targeted continuity pass (2026-11-17), applied to `III-03.T2`:** Partly applied (the M7 stockade item only): :31 now flags the 2,000-man landing and stockade, and the wood and victuals, as Ramusio’s; :33 and :51 no longer use them as established detail; Note [10] carries “Ramusio-only.” with `[@yc, 3.10]`. Still unflagged: the bracketed coconut-liquor praise and the other Ramusian passages the lint lists (Ramusio 2/5). Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

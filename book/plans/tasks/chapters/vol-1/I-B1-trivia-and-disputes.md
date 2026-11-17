@@ -63,7 +63,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-B1.T6` Lint pass and human voice read
 
 ### I-B1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** bare variants: Pamir → Pamier ×4, Hormuz → Hormos ×2, Baghdad → Baudas ×1, Old Hormuz → Hormos ×1, Dry Tree → Arbre Sec ×1, Alamut → Old Man of the Mountain ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1 (+1 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
@@ -107,3 +107,5 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: Trivia: use only checked S21-E rows; L items optional.
+
+**Targeted continuity pass (2026-11-17), applied to `I-B1.T1`:** F-34 and M2: :15 hedged (“traditionally after Curzola”); :33 and Note [4] separate Jacopo d’Acqui’s Ayas (under 1296) from Ramusio’s Curzola, after I-01 [5]; :19 is now “Did Hormuz turn them around?” with the plan as Yule’s inference and no “bad faith”. The shortlist rewrite and names are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

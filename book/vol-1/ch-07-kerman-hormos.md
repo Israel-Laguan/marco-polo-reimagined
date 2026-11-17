@@ -1,5 +1,5 @@
 # Chapter I-7
-## Kerman, Camadi, Hormos: Heat, Stitched Ships, and Turning Back
+## Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman
 
 > *“Their ships are wretched affairs… They have one mast, one sail, and one rudder.”*
 > — Marco Polo, Book 1, ch. 19 (Yule–Cordier)
@@ -40,7 +40,7 @@ The people sow their wheat and barley and other corn in the month of November, a
 
 Now, says the book, we will quit this country. I shall not, however, now go on to tell you about India; but when time and place shall suit we shall come round from the north and tell you about it. For the present, let us return by another road to the aforesaid city of Kerman, for we cannot get at those countries that I wish to tell you about except through that city. King Ruomedam Ahomet of Hormos, which we are leaving, is a liegeman of the King of Kerman. On the road by which we return from Hormos to Kerman you meet with some very fine plains, and you also find many natural hot baths; you find plenty of partridges on the road; and there are towns where victual is cheap and abundant, with quantities of dates and other fruits. The wheaten bread, however, is so bitter, owing to the bitterness of the water, that no one can eat it who is not used to it. The baths have excellent virtues; they cure the itch and several other diseases. [15]
 
-Thus the Gulf chapter closes not with embarkation but with refusal. The ships are stitched and perilous; the heat kills armies; the diet of dates and fish is a stranger’s ordeal; the sea to India is postponed until the book can approach it from another quarter. The Polos turn inland. The next marches will seek Cobinan and the deserts—the wearisome Lut-country and the tutia of the hills—because the Ocean Sea at Hormos has been weighed and found unsuitable for the venture they had in mind. Whether that judgment was the elders’ outbound caution, the homeward sailor’s memory of the same harbour, or both fused in a single dictation, the itinerary’s logic is clear: from the stitched ships and the simoom, the road bends north again toward Kerman, and beyond Kerman toward the dry tree and the mountains of the Assassins’ fame. [16]
+Thus the Gulf chapter closes not with embarkation but with a road back. The ships are stitched and perilous; the heat kills armies; the diet of dates and fish is a stranger’s ordeal; and the book only announces a return by another road to Kerman, since the countries it means to tell of lie beyond that city. Yule read the turn as the Polos’ own: a plan to sail from Hormos to India, weighed and given up. The book does not say so, and whether this Hormos belongs to the outbound road, the homeward one, or both fused in a single dictation is still argued. The next marches seek Cobinan and the deserts—the wearisome Lut-country and the tutia of the hills—and beyond Kerman the dry tree and the mountains of the Assassins’ fame. [16]
 
 ---
 
@@ -74,6 +74,6 @@ Thus the Gulf chapter closes not with embarkation but with refusal. The ships ar
 
 [14] ~ Four-year mourning with hired wailers. Plausible ritual intensity; duration may be stylised. Nov–Mar grain, May dates: ✓ seasonal calendar.
 
-[15] ✓ Explicit refusal of sea route; return inland via Kerman toward Cobinan (Book’s own narrative hinge, I.xix→xx). Hot baths, bitter bread, cheap victual on the return road.
+[15] ~ The Book’s narrative return to Kerman (“let us return by another road”) toward Cobinan, I.xix→xx; it states no refusal of the sea route. Yule infers an abandoned plan to sail from Hormos. Hot baths, bitter bread, cheap victual on the return road.
 
-[16] ? Marco personally at Hormuz on the *outbound* journey. Classic route problem: outbound, return, or both—Book sequence ≠ settled biography. Hormos figures as both the outbound abortive sea plan and the return landfall from India. Comparative: Ibn Baṭṭūṭa and later Gulf visitors confirm heat, date culture, and sewn shipping; Yule’s Kerman–Hormuz itinerary maps; Haw [-@haw2006marco, ch. 3] on Persian segments. As cited in Yule: Ibn Baṭṭūṭa [@yc, 1.18].
+[16] ? Marco personally at Hormuz on the *outbound* journey. Classic route problem: outbound, return, or both—Book sequence ≠ settled biography. Hormos figures in the Book’s order before the road back to Kerman and again on the coast from India; the abandoned outbound sea plan is Yule’s inference, not the Book’s statement. Comparative: Ibn Baṭṭūṭa and later Gulf visitors confirm heat, date culture, and sewn shipping; Yule’s Kerman–Hormuz itinerary maps; Haw [-@haw2006marco, ch. 3] on Persian segments. As cited in Yule: Ibn Baṭṭūṭa [@yc, 1.18].

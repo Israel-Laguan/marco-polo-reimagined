@@ -17,7 +17,7 @@ Olschki,A,III-12,olschki1960marco,key,
 Franke,A,II-05,franke1994china,key,
 Dutschke,A,"I-01, III-12",dutschke1993francesco,key,unconfirmed title
 Morgan,A,"I-F1, III-12",morgan1986mongols;jackson1990mission,context,'Rubruck (Jackson/Morgan edition)' -> jackson1990mission
-Jackson,A,III-12,jackson2005mongols;jackson1990mission,context,as above
+Jackson,A,"III-09, III-11, III-12, III-F1, III-B1",jackson2005mongols;jackson1990mission;jackson1998travels,context,as above; jackson1998travels for the 1290 embassy (F-15)
 Atwood,A,I-13,atwood2004encyclopedia,key,
 Chaudhuri,A,III-F1,chaudhuri1985trade,key,
 Hall,A,"III-02, III-F1",hall1985maritime,key,identification medium
@@ -31,7 +31,7 @@ Gernet,A,II-13,gernet1962daily,key,
 Huntingford,A,III-07,,needs-edition,S-12 candidates: Glorious Victories of Amda Seyon (Clarendon 1965) or Periplus (Hakluyt 1980); choose at III-07 .T4
 Subrahmanyam,A,III-05,,needs-edition,S-12: no work matches the St Thomas context; choose one at III-05 .T4 or drop the name
 Thackston,A,"III-09, III-12",thackston1998rashiduddin,key,the Notes name the translator: cite the translation
-Boyle,A,"III-09, III-12",boyle1958history,key,the Notes name the translator: cite the translation
+Boyle,A,"III-09, III-12",boyle1958history;boyle1970rashidfranks,key,the Notes name the translator: cite the translation; boyle1970rashidfranks for Kököchin
 Gibb,A,III-12,gibb1958travels,key,the Notes name the translator: cite the translation
 Odoric,B,"I-06, I-08, I-12, I-13, II-02, II-03 …",yule1913cathay;marchisio2016relatio,via-yc,Yule's own translation in Cathay; cite [@yule1913cathay] when quoting Odoric; critical Latin: marchisio2016relatio
 Rashid,B,"I-02, I-03, I-05, I-06, I-12, I-13 …",thackston1998rashiduddin,context,most Notes report Rashid via Yule -> via-yc unless Thackston is named

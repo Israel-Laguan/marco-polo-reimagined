@@ -12,11 +12,11 @@ Volume I ends at Chandu, but readers usually leave with pockets full of question
 
 **The book has many books.** What English readers call Marco Polo is a family of manuscripts — Franco-Italian, Old French “Geographic” texts, Tuscan, Latin Pipino, and later Ramusio’s Italian print tradition. Benedetto and Moule–Pelliot mapped that family; Yule–Cordier still mediates it for many Anglophone readers. This retelling leans on Yule–Cordier while staying eclectic toward the Geographic Old French line; Ramusio’s banquet-and-jewels colour is marked when it appears, never silently absorbed as early fact. [2]
 
-**Rustichello of Pisa** is the prison collaborator named by tradition: a romance writer who helped turn Marco’s memories into a dictated book during the Genoa captivity after Curzola (Korčula), 1298. How much polish is Rustichello’s chivalric ear and how much is Marco’s merchant memory remains a live scholarly sport. The collaboration explains why the Book sometimes sounds like a courtly “ye must know” and sometimes like a ledger of days and duties. [3]
+**Rustichello of Pisa** is the prison collaborator named by tradition: a romance writer who helped turn Marco’s memories into a dictated book during a Genoese captivity in 1298, traditionally after Curzola (Korčula). How much polish is Rustichello’s chivalric ear and how much is Marco’s merchant memory remains a live scholarly sport. The collaboration explains why the Book sometimes sounds like a courtly “ye must know” and sometimes like a ledger of days and duties. [3]
 
 **Niccolò and Maffeo went first.** Young Marco did not invent the family’s eastern career. The elder voyage — Soldaia, Berke’s country, Bocara, the first audience, the golden *paiza*, the unfinished papal errand — is the Prologue’s spine. Marco inherits a commission, a household story, and a boyhood wait on the lagoon, not a blank map.
 
-**Hormuz turned them around.** The outbound plan to take ship at Hormos fails in the book: stitched hulls, deadly summer wind, bad faith in the haven. That abort sends them back into the Persian deserts and eventually toward the Pamir. Without that failure, Volume I’s high-road chapters might never exist in this shape. Old Hormuz is mainland near Minab — not the later island city.
+**Did Hormuz turn them around?** Yule inferred that the Polos meant to take ship at Hormos and gave it up; the book itself only says “let us return by another road to Kerman.” The stitched hulls and the deadly summer wind make the inference attractive, not certain. If they did turn back, that choice sent them through the Persian deserts toward the Pamir. Old Hormuz is mainland near Minab — not the later island city.
 
 **Pamir enters Europe’s ear.** Polo is one of the first widely read Latin sources to make the Pamir plateau a named place for European audiences. Climbers and geographers still argue which cols fit his days’ journeys; the name’s European career is clearer than any single saddle.
 
@@ -30,7 +30,7 @@ Volume I ends at Chandu, but readers usually leave with pockets full of question
 
 ### Disputed claims — a short list
 
-**Curzola and the prison frame.** That Marco was captured in the 1298 Venice–Genoa fighting near Curzola and dictated the book in Genoa is strong tradition (Jacopo d’Acqui and later tellings). Exact capture circumstances, how long he sat, and whether every folio was born in one winter remain discussed. The prison frame is how Europe received the book; treat operational details as tradition, not as a naval logbook. [4]
+**Curzola and the prison frame.** That Marco dictated the book in a Genoese prison in 1298 is the book’s own claim. Curzola as the battle is later tradition (Ramusio), which Yule accepted as the best fit for the year; Jacopo d’Acqui, the nearest witness, puts the capture at Ayas, under 1296. Exact capture circumstances, how long he sat, and whether every folio was born in one winter remain discussed. The prison frame is how Europe received the book; treat operational details as tradition, not as a naval logbook. [4]
 
 **Manuscript date “1250” for the elder crossing.** Many texts say 1250; that cannot stand beside a 1269 return and Marco aged fifteen. Yule’s correction to about 1260 is the working chronology here. Chronology quarrels will return whenever round years meet Ilkhanid or Yuan synchronisms. [5]
 
@@ -66,7 +66,7 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 [3] ~ Rustichello collaboration — traditional; degree of literary shaping contested (Larner [-@larner1999marco, ch. 3]; modern textual scholarship).
 
-[4] ? Curzola capture — strong late tradition; operational particulars not independently documented like a muster roll.
+[4] ? Curzola capture — Ramusio’s tradition, accepted by Yule; Jacopo d’Acqui places it at Ayas under 1296, usually read as the 1294 battle there, before the Polos’ return (I-1 [5]). No muster roll or prison register names Marco. As cited in Yule: Jacopo [@yc, Intro. § 37].
 
 [5] ✗ / ~ “1250” crossing date — untenable; ~1260 working date (Yule).
 

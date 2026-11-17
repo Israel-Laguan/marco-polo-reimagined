@@ -24,11 +24,11 @@ If Volume II taught you to hear Cathay and Manzi as foreigner’s halves of Chin
 
 ### Chipangu and the gold rumour
 
-Before the fleet’s real southern road, Book III opens with ships and the island of Chipangu — Japan as gold-roof hearsay. Polo did not go there. Mongol invasion attempts against Japan (1274 and 1281) are historical; the book’s gold and idol splendour are the marvel dial turned up for European ears. Columbus later leaned on that dial hard enough to bend the Atlantic. Volume III’s first chapter is therefore half naval technology, half the most consequential rumour in the book’s afterlife. [5]
+Before the fleet’s real southern road, Book III opens with ships and the island of Chipangu — Japan as gold-roof hearsay. Polo did not go there. Mongol invasion attempts against Japan (1274 and 1281) are historical; the book’s gold and idol splendour are the marvel dial turned up for European ears. Columbus later underlined that dial in a Latin copy, though when he did so is uncertain. Volume III’s first chapter is therefore half naval technology, half the most consequential rumour in the book’s afterlife. [5]
 
 ### Ilkhanid marriage politics — why Cocachin matters
 
-The homeward push is not only homesickness. In the book’s frame, the Polos obtain leave to depart by joining a maritime embassy: a bride for the Ilkhanate. **Cocachin** (Kökechin) is to travel by sea to Persia for marriage into the line of Arghun. Ilkhanid–Yuan marriage diplomacy is a real feature of Mongol politics; Persian historians give parallel witness to a princess sent by sea in this generation, even where names and details need careful matching. [6]
+The homeward push is not only homesickness. In the book’s frame, the Polos obtain leave to depart by joining a maritime embassy: a bride for the Ilkhanate. **Cocachin** (Kökechin) is to travel by sea to Persia for marriage into the line of Arghun. Ilkhanid–Yuan marriage diplomacy is a real feature of Mongol politics. Rashid al-Din records Arghun’s envoys bringing Kököchin from the Kaan’s court to marry Ghazan, and a Chinese notice of 1290 names three envoys whom Yang Zhijiu matched to the Book’s; neither names the Polos. The sea passage and the deaths are the Book’s telling. [6]
 
 That political errand explains the shape of Volume III’s ending better than a tourist’s whim. The same ocean that carries pepper and camphor carries a woman whose wedding is statecraft. Many of the escort die on the passage, according to the book; the Polos survive to deliver their charge and continue overland via Trebizond (Trabzon) toward the Black Sea and Venice. Without Cocachin, the return is a merchant’s wish; with her, it is an imperial commission that happens to point home. [7]
 
@@ -56,9 +56,9 @@ The road became a sea-road. The sea-road, under a princess’s commission, becam
 
 [4] ~ Polo’s “India” as periplus cosmology — Yule’s Book III organisation; comparative travellers for custom, not always for autopsy.
 
-[5] ✓ Mongol invasions of Japan 1274/1281; ✗ / ◇ Chipangu gold roofs as travel fact; huge reception history (Columbus).
+[5] ✓ Mongol invasions of Japan 1274/1281; ✗ / ◇ Chipangu gold roofs as travel fact; reception history includes Columbus’s annotated Latin copy, whose notes are undated (III-11 [6]).
 
-[6] ✓ / ~ Yuan–Ilkhanid bride embassy by sea — Persian historical parallels discussed in Yule and modern Mongolists; exact name-matching continues to be scholarly craft.
+[6] ✓ / ? Yuan–Ilkhanid bride embassy: ✓ Rashid [@thackston1998rashiduddin, p. 606] and the 1290 *Yongle dadian* notice, matched by Yang Zhijiu as Ma reports [@ma2025chinese]; ? neither names the Polos [@jackson1998travels, pp. 98–99], and Rashid mentions no ship or sea route. Sailing date debated (III-9 [10]).
 
 [7] ~ High mortality on the escort voyage — book tradition; survivors’ overland finish via Ilkhanid realm and Trebizond.
 

@@ -14,7 +14,7 @@ Think of Volume I as three nested journeys, not one straight line.
 
 **First, the elder brothers’ prologue road** (before young Marco leaves Venice): Constantinople (Istanbul) → Soldaia (Sudak) → Sarai / Bolghar country → Bocara (Bukhara) → long ride to the Great Khan → return via Ayas (Lajazzo) and Acre (Akko) to Venice. That arc is the family’s apprenticeship in Mongol logistics. [2]
 
-**Second, the family setting-forth with Marco** (early 1270s): Acre and the papal business with Tedaldo / Gregory X → Ayas → the Anatolian–Armenian highlands → Tauris (Tabriz) and the Persian cities → Kerman → Hormuz (Hormos), where the sea plan fails → inland again past the Arbre Sec country toward Balkh and Badakhshan. [3]
+**Second, the family setting-forth with Marco** (early 1270s): Acre and the papal business with Tedaldo / Gregory X → Ayas → the Anatolian–Armenian highlands → Tauris (Tabriz) and the Persian cities → Kerman → Hormuz (Hormos) and back to Kerman (Yule infers an abandoned plan to sail from there) → inland again past the Arbre Sec country toward Balkh and Badakhshan. [3]
 
 **Third, the high road into Cathay:** Wakhan and Pamir → Kashgar, Yarkand, Khotan and the southern Tarim string → City of Lop and the Desert of Lop → Tangut oases (Succiu, Campichu) → the approach past Caracoron’s memory and Tenduc’s legends → Chandu, then the threshold of Cambaluc (Khanbaliq / Beijing). [4]
 
@@ -62,7 +62,7 @@ This second map is political weather more than itinerary. When the book says a r
 | Saba (Saveh) | Saveh, Iran | Magi tombs tradition |
 | Yazd | Yazd, Iran | Silk / desert-edge city toward Kerman |
 | Kerman | Kerman, Iran | Hub; turquoise, steel, desert routes |
-| Hormuz (Hormos) | Old Hormuz near Minab, Iran | Abortive sea plan; later return landfall |
+| Hormuz (Hormos) | Old Hormuz near Minab, Iran | Book returns to Kerman (abandoned sea plan is Yule’s inference); later return landfall |
 
 ### Place table — deserts, high valleys, Tarim, Tangut, court
 
@@ -101,7 +101,7 @@ Anyway, the maps are here so you can look up when the storyteller says *next he 
 
 [2] ✓ Elder voyage geography in outline — Constantinople, Soldaia, Sarai/Bolghar, Bocara — Prologue tradition with Yule date correction.
 
-[3] ✓ / ~ Second setting-forth via Acre–Ayas–Persia–Hormuz abort — core Book I itinerary; exact day-stages vary by manuscript and commentary.
+[3] ✓ / ~ Second setting-forth via Acre–Ayas–Persia–Hormuz and back to Kerman (the abandoned sea plan is Yule’s inference) — core Book I itinerary; exact day-stages vary by manuscript and commentary.
 
 [4] ✓ Pamir–Tarim–Lop–Tangut–Chandu sequence as Volume I’s eastern climax; Cambaluc fully opens in Volume II court chapters.
 

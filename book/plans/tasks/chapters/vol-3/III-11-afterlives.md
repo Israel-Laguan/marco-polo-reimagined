@@ -59,7 +59,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-11.T6` Lint pass and human voice read
 
 ### III-11.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `III-11.T3` (W2: applied in the re-voice pass)
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-06 ✓, `III-11.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-27: delete epigraph 2 and its echo at :22, or quote Yule III.ii ("the quantity of gold they have is endless").
@@ -132,3 +132,5 @@ _Created after the gating spikes close. Expected shapes:_
 
 
 **S-20 five-claim intake:** `gil2006marcocristobal`, pp. 25–27, 30–34, attributes gold and pearl notes on fol. 57v and an Alfaeto note on fol. 59v to Columbus, and argues that the Day book is the Seville copy read in 1497–98. Attribute both the hand and the date to Gil; the letter does not itself identify the copy and no universal date is proven. For the Atlas, `liscak2018atlas`, pp. 5–7, attributes the Great Khan and Chanbalech legends to Polo based on earlier transcriptions; neither exclusive borrowing nor absence of Japan follows. [Intake](../../../research/results/S-20-five-claims-intake.md). The selected plate shows a different opening.
+
+**Targeted continuity pass (2026-11-17), applied to `III-11.T1`:** F-19, F-20 and M1: the Catalan Atlas is no longer “commissioned for the Crown of Aragon” and makes no Chipangu claim (:14, Note [2], with `[@yc, Intro. § 84]` and `liscak2018atlas`); Fra Mauro’s link to the 1459 Portuguese map is disputed (:18, Note [4]); Columbus’s copy is the Gouda 1483–84 Latin with undated notes, Gil’s 1497–98 argument attributed, no pre-1492 use implied, and the *Book of Prophecies* link dropped (:22, :24, Notes [6], [7]); the Wood replies no longer count the Ahmad “echo” or Cocachin as presence pillars (:32, Note [11]). Toscanelli is omitted (S-20 allows this). m13, n9 and the re-voice are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

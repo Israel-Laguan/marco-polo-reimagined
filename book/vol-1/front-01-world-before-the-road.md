@@ -26,7 +26,7 @@ Anyway, next it helps to name the four great Mongol successor realms the reader 
 
 ### Venice and Genoa — rivalry as weather
 
-While Mongol roads opened inland, the Italian sea republics fought for the water. Venice and Genoa were not friendly competitors. They were commercial enemies whose wars shaped where a Venetian merchant could safely berth. The War of Saint Sabas (1256–1270) around Acre and later clashes culminating near Curzola (Korčula) in 1298 are the background weather of the book’s frame: Marco dictating in a Genoese prison after a Venetian defeat. [6]
+While Mongol roads opened inland, the Italian sea republics fought for the water. Venice and Genoa were not friendly competitors. They were commercial enemies whose wars shaped where a Venetian merchant could safely berth. The War of Saint Sabas (1256–1270) around Acre and later clashes culminating near Curzola (Korčula) in 1298 are the background weather of the book’s frame: Marco dictating in a Genoese prison in 1298, traditionally after the Venetian defeat at Curzola. [6]
 
 That rivalry matters for tone as well as fact. A Venetian telling Genoese captors about the East is already performing under pressure. The book’s boasts, its careful wonder, its occasional silence — all sit inside that civic enmity. Genoa had its own eastern networks, from Pera to the Crimea and beyond; Venice had Soldaia interests, Acre connections, and a habit of treating the lagoon as the centre of the map. Neither city owned the Mongol roads. Both wanted the profits that rode them. When you hear prison and dictation in Chapter I-1, remember it is not a monastery scriptorium. It is enemy hospitality with a scribe.
 
@@ -51,7 +51,7 @@ That bias explains some silences you will meet later (Chinese writing, tea ritua
 
 ### What the outbound road will ask of you
 
-Volume I will take the reader from Venice’s parish gossip to Chandu and the threshold of Cambaluc (Khanbaliq / Beijing). The route is not a straight silk ribbon. It bends through Cilician Armenia and Ayas (Lajazzo), the Persian cities around Tauris and Kerman, an abortive plan for Hormuz (Hormos) shipping, the high valleys of Badakhshan, the Pamir, the Tarim oases, and the Desert of Lop with its spirit voices. Some places Polo visited; some he reports; a few — Baudas marvels, Assassin legends, Prester John colour at Tenduc — arrive as story layered on itinerary. [10]
+Volume I will take the reader from Venice’s parish gossip to Chandu and the threshold of Cambaluc (Khanbaliq / Beijing). The route is not a straight silk ribbon. It bends through Cilician Armenia and Ayas (Lajazzo), the Persian cities around Tauris and Kerman, Hormuz (Hormos), where Yule inferred a plan to take ship that was given up, the high valleys of Badakhshan, the Pamir, the Tarim oases, and the Desert of Lop with its spirit voices. Some places Polo visited; some he reports; a few — Baudas marvels, Assassin legends, Prester John colour at Tenduc — arrive as story layered on itinerary. [10]
 
 Keep three habits in mind as you read. Book-name first, modern name in parentheses on first meeting in a chapter. Believe institutions — *paiza*, posts, markets — more readily than marvel numbers and round years. And when the storyteller interrupts with a short aside — “though this is disputed…” — that interruption is part of the honesty of the retelling, not a failure of nerve. The map companion that follows will pin the hinges; the trivia chapter at the volume’s end will pocket the quarrels.
 
@@ -71,7 +71,7 @@ The world before the road was already connected: galleys on the Middle Sea, *yam
 
 [5] ✓ Ulus wars (Berke–Hulagu 1262; later Kaidu–Kublai) as corridor blockers — Persian and Chinese historiography; Polo Prologue’s war beat. Carpini and Rubruck as prior Latin corridor tests. As cited in Yule: Carpini [@yc, Intro. § 16].
 
-[6] ✓ Venice–Genoa commercial wars; Curzola 1298 as traditional occasion of Marco’s captivity (Jacopo d’Acqui and later tradition — timing and capture details remain discussed). As cited in Yule: Jacopo [@yc, Intro. § 37].
+[6] ✓ Venice–Genoa commercial wars; Curzola 1298 as traditional occasion of Marco’s captivity (Ramusio and later tradition; Jacopo d’Acqui names Ayas — timing and capture details remain discussed). As cited in Yule: Jacopo [@yc, Intro. § 37].
 
 [7] ✓ Mongol courts’ recruitment of foreign specialists — Yuan administration; Ilkhanid parallels. Allsen [-@allsen2001culture, ch. 1] describes the movement of specialists and the multilingual Yuan bureaucracy.
 

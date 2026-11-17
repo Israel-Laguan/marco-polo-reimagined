@@ -24,7 +24,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - "Anyway, next it helps to name…": the narrative hinge is misused in expository front matter. — vol-1 nit 7 · front-01:25
 
 ### Notes and apparatus
-- Citations out of order: [11] appears in the body before [10]. Fix: renumber. Content plan W5. — vol-1 m3 · front-01:48–54
+- Citations out of order: [11] appears in the body before [10]. Fix: renumber. Content plan W5. — vol-1 m3 · front-01:48–54 Tracked for completion in `APP.T9` (2026-11-17).
 - Production scaffolding in a reader-facing Note: `/workspace/marco-polo/gazetteer.csv` path and visited/reported/uncertain tag language. Fix: strip the path, keep the reliability idea in plain words. — vol-1 m6 · front-01:82 (Note [10])
 - Content plan W5 asks for a 150-word "How to read this book" box in Vol. I front matter defining the tags ([V]/[R]/[M], compound forms) and markers; which front file hosts it is open. — content-revision-plan W5 (Tags)
 
@@ -59,7 +59,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-F1.T6` Lint pass and human voice read
 
 ### I-F1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Cilician Armenia → Lesser Hermenia ×1, Hormuz → Hormos ×1, Badakhshan → Badashan ×1, Pamir → Pamier ×1
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
@@ -98,3 +98,5 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 5 errors · 1 warnings — failing: citations, markers, quote_verify, scaffolding; warnings: names
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+**Targeted continuity pass (2026-11-17), applied to `I-F1.T1`:** F-34 and M2 only: :29 now says the captivity is traditionally after Curzola; Note [6] credits Curzola to Ramusio and later tradition and says Jacopo d’Acqui names Ayas; :54 presents the Hormos sea plan as Yule’s inference. Names, the m1 route difference and the [10]/[11] order (now `APP.T9`) are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

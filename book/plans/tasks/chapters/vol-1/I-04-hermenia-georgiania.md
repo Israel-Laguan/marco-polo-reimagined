@@ -26,7 +26,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - Long dash-aside: 136 words. Fix: ~60–80 words, one key fact + Note cross-ref. — vol-1 M11 · ch-04:17
 
 ### Notes and apparatus
-- Orphan Note [15] ("Whole Caucasian block personally traversed"): body cites [1]–[14] only, last marker [14] at line 35. Fix: at ch-04:37, "…is a question the notes must keep open. [15]". Content plan W5. — vol-1 M10 · ch-04:71
+- Orphan Note [15] ("Whole Caucasian block personally traversed"): body cites [1]–[14] only, last marker [14] at line 35. Fix: at ch-04:37, "…is a question the notes must keep open. [15]". Content plan W5. — vol-1 M10 · ch-04:71 Tracked for completion in `APP.T9` (2026-11-17).
 
 ### Naming and gazetteer
 - "Mosul (Mausul)" reverses the book-form-first rule. — vol-1 nit 2 · ch-04:21

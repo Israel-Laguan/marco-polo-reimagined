@@ -62,7 +62,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-08.T6` Lint pass and human voice read
 
 ### I-08.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-08.T3` (W2: applied in the re-voice pass)
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-06 ✓, `I-08.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
@@ -117,3 +117,5 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H7 (tutty and spodium in general terms; no chemistry asserted), H12 (Dry Tree: reported marvel), H14.
+
+**Targeted continuity pass (2026-11-17), applied to `I-08.T1`:** M2 only: :9 now reads “Having brought the reader back from Hormos to Kerman…”. The other items are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

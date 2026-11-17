@@ -51,7 +51,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-F1.T6` Lint pass and human voice read
 
 ### III-F1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
 - **Now:** bare variants: Hormuz → Hormos ×2, South China → Manzi ×1, Japan → Chipangu ×1, Champa → Chamba ×1, Sumatra → Java the Less ×1, Coromandel → Maabar ×1, Malabar → Melibar ×1, Gujarat → Gozurat ×1 (+1 more)
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
@@ -85,3 +85,5 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+**Targeted continuity pass (2026-11-17), applied to `III-F1.T1`:** F-19 and F-15: “bend the Atlantic” is gone (:27 now says the Latin copy’s notes are undated; Note [5]); :31 and Note [6] say Rashid and the 1290 notice corroborate the embassy, name no Polos, and that Rashid mentions no sea route. Toscanelli is not mentioned in this file. Names and the de-duplication are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

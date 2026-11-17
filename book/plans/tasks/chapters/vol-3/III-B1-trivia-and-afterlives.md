@@ -52,7 +52,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-B1.T6` Lint pass and human voice read
 
 ### III-B1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
+- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, S-06 ✓
 - **Now:** bare variants: Japan → Chipangu ×1, Sumatra → Java the Less ×1, Andaman → Angamanain ×1, Malabar → Melibar ×1, Madagascar → Madeigascar ×1
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
@@ -98,3 +98,5 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: Trivia: Tennent's Catholic hereditary charmer (S21-E36) and the 1559 floating cask (S21-E33) are checked candidates.
+
+**Targeted continuity pass (2026-11-17), applied to `III-B1.T1`:** F-15 and F-19: the Cocachin entry (:33, Note [3]) now separates the corroborated embassy from the unnamed Polos and gives the debated sailing date; Note [5] drops “the usual view dates most postils before 1492” and attributes the 1497–98 arguments to Larner and Gil. Shortlist and names are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.
