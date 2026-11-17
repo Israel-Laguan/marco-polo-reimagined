@@ -121,3 +121,5 @@ S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). A
 ## U-3 source handoff (2026-11-17)
 
 From the [U-3 intake](../../../research/results/U-3-intake.md) (10 checks, 10 hits). F-53. **Applied 2026-11-17** (body l. 41 and Note [15]). Was: body l. 41 "Beyond that term, however—to wit from March to October—everybody may take these animals" inverts Yule ("Beyond the term I have mentioned … to wit that from March to October"). Make it "Outside that season, however—that is, outside March to October—everybody may take these animals as he list." Note [15]: Pétis gives the same months, not the reverse; "reverse" is Yule's remark (`[@yc, 2.20, note 9]`). Change "✓ Imperial game law type (*Yasa* / Yuan)" to ~, since Yuan law was not checked. These are inputs to the chapter's `.T1`/`.T4`/`.T3` work, not completed edits.
+
+**FINAL-ACCESS (2026-11-17):** *Yuan dianzhang* j. 38, 捕獵 summary table (CADAL/PKU scan, page image): 「正月為頭至七月廿日…不得打捕」, the 20th, not the 28th. Confirms Note [15]; the full article 禁治打捕月日 was not located. [FINAL-ACCESS intake](../../../research/results/FINAL-ACCESS-intake.md)

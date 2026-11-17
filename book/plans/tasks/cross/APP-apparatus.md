@@ -71,8 +71,9 @@ S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs
 - **Verified 2026-11-11:** a focused PDF build test passes; all three full-volume PDFs place the explanation and shorthand list on their abbreviations page and include *Works cited*. The existing one-PDF-per-volume citation scope is unchanged. Broader front/back layout and human page review remain with BLD.T4.
 
 ### APP.T8 — Claim-level check of the S-25 keys
-- **Status:** ready · **Depends:** S-25 ✓ · **Origin:** spike audit 2026-11-17
+- **Status:** done (best effort) · **Depends:** S-25 ✓ · **Origin:** spike audit 2026-11-17
 - **Do:** S-25 confirmed that the four works exist; it did not check what they say. For each of the 12 Notes that cite `derachewiltz1997marco` (6), `tao1959nancun` (3), `dutschke1993francesco` (2) and `atwood2004encyclopedia` (1), read the passage behind the claim. Then add a locator, correct the claim, or drop the citation, and log each outcome as `registry/locators.md` does.
 - **Done when:** every one of the 12 has a recorded outcome, and there are no unread `pending` rows.
 - **Progress 2026-11-17 ([R-1 intake](../../research/results/R-1-intake.md)):** Atwood supports the I-13 citation, for Shangdu only. Tao's Palm Hall is consistent with I-13 Note [4] (Dadu, not Shangdu). Wood's own positions are checked (F-59), but de Rachewiltz 1997 itself, the Tao 骨朵 passage (II-03 [5]) and Dutschke (I-01 [15], III-12 [4]) are still unread. **Status:** in progress.
+- **Closed best effort 2026-11-17 ([FINAL-ACCESS intake](../../research/results/FINAL-ACCESS-intake.md)):** de Rachewiltz: the 1997 article stays unread, but his 2002 ANU paper (`derachewiltz2002wood`, read), which summarises it, confirms the replies the six Notes attribute (Wall after Waldron; Yangzhou: never governor, perhaps a temporary inspector or commissioner); added to II-11 [5] and I-11 [17]. Tao: II-03 [5] corrected (clubs and the tall guard are separate entries; no jade axes in juan 1). Dutschke: catalogue record only; I-01 [15] and III-12 [4] keep their hedged wording. **Status:** done (best effort).
 

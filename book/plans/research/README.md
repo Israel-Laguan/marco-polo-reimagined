@@ -63,7 +63,7 @@ Every prompt ends with the same contract, so results come back in a shape the in
 
 ## Run order
 
-For hedged claims that no earlier pass researched (found 2026-11-17), use the [unresearched-claims prompts](2026-11-17-unresearched-claims-prompts.md), U-1 to U-3. For the remaining gaps identified in the 16 November spike audit, use the [prioritized, copy-ready prompts](2026-11-16-priority-research-prompts.md). They distinguish questions already answered from the checks still worth running and note which requests need library or archive access.
+**Final pass (done 2026-11-17):** the [final access check](2026-11-17-final-access-check-prompt.md) gathered every item still blocked by access; its [intake](results/FINAL-ACCESS-intake.md) closes what it could not reach as best effort. No further access passes are planned. For hedged claims that no earlier pass researched (found 2026-11-17), use the [unresearched-claims prompts](2026-11-17-unresearched-claims-prompts.md), U-1 to U-3. For the remaining gaps identified in the 16 November spike audit, use the [prioritized, copy-ready prompts](2026-11-16-priority-research-prompts.md). They distinguish questions already answered from the checks still worth running and note which requests need library or archive access.
 
 The prompts are independent, so you can run them in any order or all at once. Intake order matters a little:
 

@@ -55,10 +55,10 @@ people:
   gloss: ""
   born: null
   died: 1318
-  dates: "birth unknown; Yule reports a last will of February 1309 from a later act; Gullino cites an extant will dated 6 February 1310; relationship between these dates unresolved; dead by 1318 (Yule)"
+  dates: "birth unknown; will of 6 February 1310 modern, dated more veneto 1309 (Orlandini 1926 doc. 6, OCR read; Yule's February 1309 is the Venetian year); dead by 1318 (Yule)"
   group: polo
   role: "Niccolò's brother and partner on both journeys"
-  relations: "son of Andrea according to Ramusio; uncle of Marco; Bolognari and Simion describe him as widower of Marta in 1310 (via Burgio 2024); number of children disputed: Jacoby says none, Bruno 2023 alleges two natural daughters; check the 1310 will"
+  relations: "son of Andrea according to Ramusio; uncle of Marco; widower of Marta (the 1310 will: \"condam Marthe uxori mee\"); the will's Juliana and Clara are nuns of Santa Caterina di Mazzorbo, \"filiabus anime mee\" (spiritual daughters), so it does not support Bruno 2023's two natural daughters (Orlandini 1926 doc. 6, OCR read; FINAL-ACCESS intake)"
   book_says: ["I-02:9 'so far as the book tells, remained a bachelor': the Book says nothing of it; Bolognari and Simion describe him as widower of Marta (via Burgio 2024)"]
   verify: [S-15, S-14]
   chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"

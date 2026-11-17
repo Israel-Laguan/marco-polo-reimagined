@@ -95,12 +95,12 @@ These go to S-06 (and S-14 / S-15 for the research). A chapter states them only 
 |---|---|---|---|
 | Alaü / Barca | Outcome of the 1262–63 war (the Book has it backwards) | S-14 #1 | I-02 |
 | Nayan | Descent from Temüge Otchigin, not Belgutai; 1287 not 1286 | S-14 #4 | II-01 |
-| Chinkin | Death: Jan 1286 (*Yuan shi*) vs Yule's 1284–85; Dorjé the elder son (Yule), his mother disputed | S-14 #6 (Dorjé's mother: open) | II-02 |
+| Chinkin | Death: Jan 1286 (*Yuan shi*) vs Yule's 1284–85; Dorjé the elder son (Yule), his mother disputed | S-14 #6 (Dorjé's mother: open; *Yuan shi* 107 and 114 name none, FINAL-ACCESS) | II-02 |
 | Kiacatu, Baidu, Casan | Brother, cousin, accession 1295 | S-14 #5 | II-15 |
 | Achmath / Bolad | The annals' "Po-lo" is Bolad | settled (Yule–Cordier addenda); HOT.3 | II-05, II-11, III-12 |
 | Argon | Death 10 March 1291 (Yule = 7 Rabīʿ I 690; "7 March" is the Hijri day misread) | **settled** (CHR-people-2) | III-09 |
 | Oulatay, Apusca, Coja | Named in the 1290 Yongle dadian notice (with 160 people); the Polos not named; nothing on who survived, so "only Coja" is the Book's alone | S-14 #15 (Cleaves 1976 reported, not seen) | III-09, III-12 |
-| Maffeo | Bolognari–Simion call him widower of Marta (via Burgio); Bruno alleges two natural daughters, conflicting with Jacoby and Bolognari–Simion. Yule's 1309 modern vs Gullino's 1310 modern will dates remain unresolved. | S-15 external intake; will check open | I-02, III-10 |
+| Maffeo | Widower of Marta. The will is dated *more veneto* 1309, i.e. 6 Feb 1310 modern, which reconciles Yule's 1309 and Gullino's 1310. Its Juliana and Clara are nuns of Santa Caterina di Mazzorbo, "filiabus anime mee" (spiritual daughters), so it does not support Bruno's two natural daughters. | Orlandini 1926 doc. 6 (OCR read; FINAL-ACCESS intake); clause page unchecked | I-02, III-10 |
 | Donata | Identified as Badoer, daughter of Vitale, by Gullino; marriage date uncertain; Yule gives death 1333–36. | S-15 external intake | III-10 |
 | Niccolò | Second wife probably Fiordelisa (Trevisan?) (Yule's conjecture); illegitimate Stefano and Zannino (Yule: settled); death before end of 1300 | S-15 (the wife) | III-10 |
 | Rustichello | Identification with Arthurian compiler supported by manuscript comparison; Cigni favors Meloria captivity, an inference. Lay or clerical status remains unsourced. | S-15 external intake | I-01, III-12 |

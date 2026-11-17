@@ -36,7 +36,7 @@ Items 13–15 of the III-12 list are the book's own to-do items, not questions f
 
 **The frame has changed.** Ma's formula is the one to borrow: the Book is "a complex product of personal memory, co-authorship, and medieval literary conventions". The question is no longer "did he go?" but "what in this layered text is his, and from when?".
 
-**For the book.** III-12 can describe the responses to Wood and attribute the checked survey positions; `gadrat2026marco` was available only as a summary. It should keep Wood's case stated in full (it is what a reader has heard of) and add that the doubt is older than Wood (see *The silences*). Before the rewrite, read `haw2024anachronisms`: only its title is known.
+**For the book.** III-12 can describe the responses to Wood and attribute the checked survey positions; `gadrat2026marco` has since been read in full (§§1–23, 2026-11-17). It should keep Wood's case stated in full (it is what a reader has heard of) and add that the doubt is older than Wood (see *The silences*). Before the rewrite, read `haw2024anachronisms`: only its title is known.
 
 ## Q1. The stemma and the "original" — moved
 
@@ -147,7 +147,7 @@ Huang Shijian answered each: tea (1993, 1994), the Great Wall (with Gong Yingyan
 ## Still to read before the chapters are rewritten
 
 1. `haw2023departure` and `haw2024anachronisms` (both *ZDMG*, paywalled). Three tools could not open either. **2026-11-17:** both publisher abstracts read ([note](../research/results/kept-gaps-indirect-routes-2026-11-17.md)). The 2024 paper treats the *Boluo*-is-Polo hypothesis and the Great Wall expectation as anachronisms and re-examines the Yangzhou "governor" question; the 2023 paper dates the envoys' arrival and departure and rejects Java = Borneo. The full texts are on Haw's Academia.edu (login required) and are still unread.
-2. `gadrat2026marco` directly: open access in principle, but the publisher's automated-access challenge blocked this attempt; only its summary is available. `gadrat2024read` was read as indexed PDF text on 2026-11-17, with the qualification above.
+2. `gadrat2026marco` **read 2026-11-17** (OpenEdition HTML, CC BY 4.0; [FINAL-ACCESS intake](../research/results/FINAL-ACCESS-intake.md)): reading the deathbed anecdotes (Pipino's uncle, Jacopo d'Acqui's "non scripsi medietatem") as contemporary doubt is "un contresens" (§4); Ramusio's banquet story and "Milione" later hurt Polo's credit (§§8–9); John Green (Astley IV, 1747, pp. 582–583) seems the first to note the missing Wall (§18); Wood's case rests on that long tradition, and sinologists (Haw 2006, Vogel 2013) did most to refute it (§§22–23). `gadrat2024read` was read as indexed PDF text on 2026-11-17, with the qualification above.
 3. `cleaves1976chinese`, for the source of the 1290 notice and the departure date.
 4. `formentin2023inventario`, for the belt and the *bocheta*. **2026-11-17:** answered through the open-access companion edition `formentin2024sentenza` (F-60; [R-2 intake](../research/results/R-2-intake.md)): no "Tartar knight" belt; *bocheta* is a jewel. The 2023 article itself is still unread.
 5. The rest of `andreose2024textual` (the single-redaction camp's names).

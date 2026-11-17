@@ -455,3 +455,26 @@ The [new return and audit](../research/results/S-22-priority-return-2026-11-16-i
 - **Quanzhou:** [UNESCO/ICOMOS evaluation](https://whc.unesco.org/document/189212), records excavated Deji Gate, built 1230 and later repaired; and Shunji Bridge, built 1211. Neither is yet a viewed illustration cue, nor is every visible element securely pre-1295. The same document records Qingjing Mosque built 1009, restored 1310.
 - **Kota Cina:** [NUS excavation report](https://epress.nus.edu.sg/sitereports/samis/content/5.%20Kota%20Cina), note 11, calls Wk-33765 probably a boat timber and dates the sampled wood 1155–1270 cal CE (95.4%), 1170–1225 (68.2%). Not a securely 1290 hull or image.
 - Prior project checks of Takashima armor finds and the Quanzhou hull still stand within their own documented bounds. [Targeted follow-up prompt](../research/S-22-visual-priority-targeted-follow-up-2026-11-16.md) for open questions.
+
+## 2026-11-17 R-3 period-source pass (V-1)
+
+From the [V-1 ledger](../research/results/V-1-visual-evidence-ledger-2026-11-17.md) and its [intake](../research/results/R-3-intake.md) (10 checks, 8 hits, 1 partial, 1 miss). **No image was viewed**: every item below is a **record**, not a viewed cue, and none shows that Polo was present.
+
+| Scene | New period record | Use and limits |
+|---|---|---|
+| I-7 Caraunas raid | Great Mongol Shahnama: Harvard 1955.167 (c. 1330–40); Nelson-Atkins 55-103 (c. 1335; Commons crops of the Mongol back-flap hat) | Ilkhanid court dress and arms, 40–70 years after the scene and in an epic, not a Kerman event. Village: BnF Arabe 5847 (Iraq, 1237) as a Mesopotamian proxy |
+| I-9 ruby mines; I-10 Pamir | none found | Label as reconstruction |
+| I-11 Lop desert | Mogao 3 and 465 **rejected** (crafts; Tibetan esoteric painting). BnF Arabe 5847: no laden caravan (ff. 10r, 19r, 101r checked 2026-11-17: seated men by a couched camel; a mounted procession; a camel herd) | Probably dromedaries, not Bactrian camels |
+| II-5 paper money | CUHK 1988.0028, bronze blocks and seals for Zhiyuan notes (late 13th–early 14th c.); National Museum of China copperplate (no number seen) | The museum flags possible forgers' blocks. No workshop image |
+| II-6 Pulisanghin bridge | none (Jin 1189–92; Kangxi rebuild 1698) | Eleven arches with lions, no Qing stelae; parapet date unattested |
+| II-7 Kham dress | lead only: a Riwoche mahasiddha painting, c. 1350 (Met, *Sacred Visions*) | Monastic dress, not lay |
+| II-8 Vochan | none | Do not use Persian elephants for Pagan howdahs |
+| II-10 Song surrender | Zhao Boyun tomb (Huangyan, buried 1216): an eighth-rank official's burial dress (Feng et al. 2023) | 60 years early; Huang Sheng (1243) is women's dress |
+| II-12 trackers | Freer F1954.21 **rejected** (*Tilling Rice*). Leads: Freer F1916.539; Xia Gui (NPM); Li Song | Unverified |
+| III-3 Samara camp | Amoghapasa, Padang Roco, 1286 (D.198-6469; base D.198-6468): **made in Java**; Malik al-Salih gravestone 1297 (Gujarati style) | No boats, houses or dress |
+| III-4 Adam's Peak | Polo III.15 reports the iron chains (hearsay); Ibn Battuta; UNESCO text (Devaprathiraja, 1236–71) | Pilgrim dress not found. **Do not repeat** UNESCO's claim that Polo climbed it in 1286 |
+| III-6 Malabar corsairs | BnF Arabe 5847, f. 119v (Gulf ship, 634 AH / 1236–37; folio confirmed on Gallica f248) | Not Malabar; check on Gallica |
+
+## 2026-11-17 final access check (BnF Arabe 5847)
+
+[FINAL-ACCESS intake](../research/results/FINAL-ACCESS-intake.md) BnF metadata: copied in 634 AH / 1236–37 "par le peintre lui-même", 167 folios (catalogue ark:/12148/cc328777); the colophon page itself not viewed; 635 AH is not supported. Gallica page images: **f. 10r** (view f29) three seated men under a tree beside a couched camel; **f. 19r** (f47) a mounted procession with banners, long trumpets and drums (horsemen, not camels); **f. 101r** (f211) a herd of about nine camels with a herdsman; **f. 119v** (f248) the ship, confirmed; **f. 138r** (f285) the village, confirmed (Maqama number not verified). None of the three is a laden caravan: use f. 101r for camels and f. 19r for a mounted escort only. Still unread, best effort: the Met *Legacy of Genghis Khan* catalogue numbers (free PDF not opened) and Luce's Pagan murals (no authorised copy).

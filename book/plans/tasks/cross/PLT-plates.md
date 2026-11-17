@@ -120,3 +120,13 @@ _PD plates (from S-11) are below._
 - **Do:** H crop of `III-12-alt_loc1959-facsimile-caravan.jpg` (keep the inscription), in `vol-3/ch-12-reliability-essay.md`; credit it as the 1959 facsimile.
 
 **Priority visual intake, 2026-11-16:** Before I-4 / II-14 / III-3, consult the [updated visual register](../../registry/visual-references.md#2026-11-16-priority-visual-source-intake) for Ayas fortress phases, the excavated Deji Gate and Kota Cina sample limits. For II-4's hunting scroll the NPM now states CC0 / CC BY 4.0 terms for specified files; confirm the exact downloaded file, credit and print resolution before placement. No plate or prompt was changed by the intake.
+
+## R-3 period-source handoff (2026-11-17)
+
+See `registry/visual-references.md` § 2026-11-17 R-3 period-source pass. In short:
+- New records for II-5 (CUHK 1988.0028 blocks), II-10 (Zhao Boyun tomb dress) and I-7 (Great Mongol Shahnama dress).
+- Two leads rejected: Mogao 3 and 465 for I-11, and Freer F1954.21 for II-12.
+- I-9, I-10, II-7 and II-8 still have no period source: prompt them as reconstruction, and say so in the caption.
+- Before using BnF Arabe 5847 for I-7, I-11 or III-6, confirm the folios on Gallica. **Done 2026-11-17** ([FINAL-ACCESS intake](../../research/results/FINAL-ACCESS-intake.md)): f. 119v ship confirmed; ff. 10r, 19r, 101r are not caravans (seated men by a camel; a mounted procession; a camel herd); dated 634 AH / 1236–37.
+- III-4: the chains are in Polo's own text. Do not repeat UNESCO's "Polo climbed it in 1286".
+

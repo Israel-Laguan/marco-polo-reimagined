@@ -61,6 +61,8 @@ OUTPUT AND SOURCE RULES
 
 ## R-3. Period visual sources for the hero scenes that still have none
 
+**Run 2026-11-17:** see the [V-1 ledger](results/V-1-visual-evidence-ledger-2026-11-17.md) and [intake](results/R-3-intake.md). Records found for 7 scenes; I-9, I-10, II-7 and II-8 are not found; no image was viewed.
+
 ```text
 I am preparing illustrated scenes for a commercial retelling of Marco Polo, set c.1260–1295. Artists need dated period evidence (objects, paintings, archaeology) for what things looked like. For each scene below, find one to three individually dated or securely attributed items, ideally 1200–1350 and from the region, that show the listed detail. For each give: the holding institution and inventory number (or excavation report and find number), date and how it is dated, place of origin, a stable record URL, whether you actually saw an image, and what the image shows that an illustrator could use. Say NOT FOUND rather than substitute a later or distant object without saying so. Modern films, games and reconstruction paintings are out of scope.
 
@@ -86,6 +88,8 @@ OUTPUT AND SOURCE RULES
 ```
 
 ## R-4. Small checks: the Chughi yogis, and Yuan hunting law
+
+**Run 2026-11-17:** see the [ledger](results/CHUGHI-HUNT-ledger-2026-11-17.md) and [intake](results/R-4-intake.md). Hunting law answered (II-04 updated); Chughi answered in part.
 
 ```text
 Two narrow source checks for endnotes in a commercial Marco Polo retelling. Use primary texts or specialist scholarship you can open; say NOT SEEN otherwise.

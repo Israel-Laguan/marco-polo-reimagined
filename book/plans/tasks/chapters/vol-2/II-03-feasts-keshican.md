@@ -104,3 +104,5 @@ _Created after the gating spikes close. Expected shapes:_
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 36 errors · 3 warnings — failing: archaism, asides, budgets, markers, ramusio, recaps, scaffolding, verbatim, you_must_know; warnings: ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-03-feasts-keshican.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+**FINAL-ACCESS (2026-11-17), applied:** Note [5] corrected. *Nancun chuogeng lu* juan 1 (Wikisource) has the club (骨朶) bearers as the 雲都赤 attendants and, in a separate entry, the tall picked guard (鎮殿將軍, "大漢"); no jade axes in juan 1 (Palladius's paraphrase, cited by Yule, adds them; a jade 劈正斧 is a separate entry elsewhere). [FINAL-ACCESS intake](../../../research/results/FINAL-ACCESS-intake.md)
