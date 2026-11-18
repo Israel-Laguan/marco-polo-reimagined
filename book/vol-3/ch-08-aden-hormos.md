@@ -72,7 +72,7 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [9] ✓ Fish-fed cattle (horses, oxen, camels) on arid coast — Edrisi; Ibn Baṭṭūṭa; continuous Ichthyophagi report from Mekran to Gulf. ✓ / ~ Earless / horn-eared sheep — ✓ small-eared / multi-horn breeds exist; ~ “no ears” wording. Dried fish stored like biscuit. As cited in Yule: Edrisi [@yc, 3.37]; Ibn Baṭṭūṭa [@yc, 3.36].
 
-[10] ★★★ Frankincense economy strong — monopoly pricing, notch-harvest, white *lubān*, Sheḥr–Dhafār hills as true ancient source (with Somali *peratic* supply). Fish-cattle ★★★ ethnographic hit.
+[10] ✓ Frankincense economy strong — monopoly pricing, notch-harvest, white *lubān*, Sheḥr–Dhafār hills as true ancient source (with Somali *peratic* supply). ✓ Fish-cattle: ethnographic hit.
 
 [11] ✓ Dufar = Dhofar frankincense plain; Saracen; Count under Soldan of Aden; good haven; India traffic; Arab horses. Classical and modern olibanum country. Site debate: Haffer ruins vs eastern plain / Merbāṭ. Ming *Tsafarh*; Camoens’ fragrant Dofar.
 
@@ -94,6 +94,6 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [20] ✓ / ~ Kis (Kish) ~500 miles W–NW of Calatu — ✓ island entrepôt real; ~ bearing/distance sketchy. Brief omit-repair; no more said (cf. Book I).
 
-[21] ✗ / ~ Bearings Aden→Hormos cascade as geography — ✗ as survey; ~ as schematic coast-sequence. Distances inconsistent ★.
+[21] ✗ / ~ Bearings Aden→Hormos cascade as geography — ✗ as survey; ~ as schematic coast-sequence. Distances inconsistent.
 
 **Comparative:** Yule–Cordier III.xxxvi–xl; Ibn Baṭṭūṭa (Aden, Dhafār, Qalhāt, Hormuz); Barbosa; Marino Sanudo (Aden–Nile transit); Makrizi; Joinville on Acre; Arabian incense-route archaeology / Birdwood on *Boswellia*; Yule on Kalhát; chronicles of Acre’s fall; Della Valle / Figueroa / Fryer on wind-catchers.

@@ -70,7 +70,7 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [3] ◇ Flesh–eagle–serpent valley gathering — ancient migratory legend, not mining fact (Epiphanius; Edrisi; Kazwini; Sindbad; Conti). ✗ / ~ Diamonds unique to Mutfili; flower to Great Kaan — exclusivity false; elite gem drain eastward plausible. ✓ Spider-web buckrams of Mutfili — long muslin fame (Masulipatam / Masalia Periplus). As cited in Yule: Epiphanius, Edrisi, Kazwini, Conti, Periplus [@yc, 3.19].
 
-[4] ★ Dispute: diamond-gathering legend ◇ over mining fact ★★.
+[4] ◇ / ~ Diamond-gathering legend over a mining fact.
 
 [5] ? / ~ Lar as Brahman homeland west of St Thomas — Lāṭ geography real; fit to Madras “west” poor. ~ Abraiaman as world’s most truthful merchants — ideal + Banyan conflation; medieval chorus of praise. ✓ Sacred thread; vegetarian chastity — standard Brahman marks.
 
@@ -78,7 +78,7 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [7] ✓ / ~ Chughi mercury–sulphur longevity drink — rasāyana tradition; 150–200 years soft. ✓ / ~ Naked ox-ascetics; cow-dung ash; dry leaves only — jogi / Digambara-adjacent report.
 
-[8] ◇ / ~ Novice chastity-test with temple girls — traveller topos; possible. ★ Dispute: Brahman portrait — admiration (truth, chastity, longevity) mixed with Latin puzzlement and “devilry” close; merchant-Brahman conflation.
+[8] ◇ / ~ Novice chastity-test with temple girls — traveller topos; possible. ~ / ✗ Brahman portrait — admiration (truth, chastity, longevity) mixed with Latin puzzlement and “devilry” close; merchant-Brahman conflation.
 
 [9] Comparative for Lar/Chughi: Yule–Cordier III.xx; Caldwell; al-Bīrūnī background. As cited in Yule: Caldwell [@yc, 3.20]; al-Bīrūnī [@yc, Intro. § 82].
 
@@ -92,7 +92,7 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [14] ✓ / ~ Comari: Pole Star ~1 cubit offshore — latitude sense; cubit measure soft. Cape Comorin / Kumārī; Abulfeda limit Malabar–Maʿbar. As cited in Yule: Abulfeda [@yc, 3.20].
 
-[15] ★ Dispute: geographic dislocations (Coilum before Comari; Melibar/Gozurat order). Key for Cocachin-fleet landfall argument (Vol. III-9).
+[15] ✗ Geographic dislocations (Coilum before Comari; Melibar/Gozurat order). Key for Cocachin-fleet landfall argument (Vol. III-9).
 
 [16] ✓ Eli roadstead; storm-ship plunder custom — Mt Dely / Ezhimala; Abdurrazzāk parallel; Calicut exception. ✓ / ~ Manzi wooden anchors hold better — Chinese ironwood-anchor tradition. Likely visited.
 
@@ -110,6 +110,6 @@ Thus the western run from Mutfili’s diamond valleys stands in this chapter: a 
 
 [23] ~ / ◇ Semenat as trading Idolater kingdom, not pirate nest — port real; “cruel Idolaters” Latin heat; Albiruni pirates differ. Semenat = Somnath / Verāwal–Pattan coast.
 
-[24] ★ Dispute: Somnath “gates” — later communal mythography (Ellenborough); keep medieval port scale. Outside Polo’s narrative; Notes only.
+[24] ◇ Somnath “gates” — later communal mythography (Ellenborough); keep medieval port scale. Outside Polo’s narrative; Notes only.
 
 [25] ✓ Kesmacoran = Kij-Makran; last of India west/northwest. Mixed Idolater/Saracen traders; rice, corn, flesh, milk. ✓ Greater India = Maabar–Kesmacoran seaboard (Book’s own definition). ✓ Interior kingdoms omitted deliberately. Comparative: Yule–Cordier III.xix–xxx; Rashid; Wassaf; Ibn Battuta; Abulfeda; Barbosa; Conti; Caldwell on Kāyal; al-Bīrūnī; Ma Huan (later Ming). As cited in Yule: Wassaf [@yc, 3.26]; Abulfeda, Caldwell, Ma Huan [@yc, 3.20]; Barbosa [@yc, 3.21]; Conti [@yc, 3.19]; al-Bīrūnī [@yc, Intro. § 82].

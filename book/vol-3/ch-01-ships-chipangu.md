@@ -62,7 +62,7 @@ Thus Book III opens Volume III’s arc. The junks of Manzi — watertight rooms,
 
 [6] ✗ / ◇ Palace roofed, floored, and windowed in gold slabs. Old yarn (Amyot; Kaempfer parallels); feeds later Columbus expectancy. ~ / ◇ Rose pearls; pearl in mouth of cremated dead — pearls exist; funerary detail as report. As cited in Yule: Amyot [@yc, 3.2].
 
-[7] ★ Dispute: gold of Japan exaggerated as architectural fantasy. Yule: abundance/low price real until modern opening; palace description = “old yarn.” Columbus postils amplify (see Vol. III-11).
+[7] ✗ Gold of Japan exaggerated as architectural fantasy. Yule: abundance/low price real until modern opening; palace description = “old yarn.” Columbus postils amplify (see Vol. III-11).
 
 [8] ✓ Kublai sent great fleets from Zayton/Kinsay against Japan (1274 and especially 1281). ~ Abacan / Vonsainchin as named co-commanders — plausibly Argan/Asikan and Fan Wen-hu (*tsiang-kiun*).
 
@@ -70,7 +70,7 @@ Thus Book III opens Volume III’s arc. The junks of Manzi — watertight rooms,
 
 [10] ✗ / ? Survivors seize Japanese ships and take the capital by false banners; hold seven months; year 1279; both generals executed. Yule rejects capital occupation; Japanese sources: slaughter/enslavement. Date compresses (historical climax 1281; earlier probe 1274). ~ / ◇ court-punishment motifs for the generals.
 
-[11] ★★ Polo vs Japanese/Chinese sources: storm = *kamikaze* typhoon tradition; capital ruse and 1279 dating contested. Comparative: Titsingh; Gaubil; De Mailla; *Yuan shi*; Rossabi [-@rossabi1988khubilai, chs. 4, 8] on Kublai. As cited in Yule: Titsingh, Gaubil, De Mailla [@yc, 3.3].
+[11] ✓ / ? Polo vs Japanese/Chinese sources: storm = *kamikaze* typhoon tradition; capital ruse and 1279 dating contested. Comparative: Titsingh; Gaubil; De Mailla; *Yuan shi*; Rossabi [-@rossabi1988khubilai, chs. 4, 8] on Kublai. As cited in Yule: Titsingh, Gaubil, De Mailla [@yc, 3.3].
 
 [12] ◇ Charm-stones under skin make wearers proof against steel. Widespread amulet practice (Odoric, Conti, Burma gold pellets); wonder framing. As cited in Yule: Odoric [@yc, 3.1]; Conti [@yc, 3.3].
 

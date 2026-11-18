@@ -66,7 +66,7 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 [6] ✓ “Unicorn” = rhinoceros seen from life — mud, hair, boar-head, horn as field sketch. ~ / ✗ Exactly one horn; tongue as chief weapon — one-horn rhetoric; Sumatran rhino typically two-horned; tongue-prickle folklore. ✓ Rejection of virgin-captured unicorn legend — Marco vs Physiologus, notable.
 
-[7] ★ Dispute: unicorn = rhinoceros misread through Physiologus — yet Marco rejects the maiden fable.
+[7] ✓ Unicorn = rhinoceros misread through Physiologus — yet Marco rejects the maiden fable.
 
 [8] ~ Stuffed-monkey “pygmies” as trade fraud. Plausible cheat; hard to corroborate specifically.
 
@@ -74,18 +74,18 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 [10] ~ Ramusio-only. Landing with about 2,000 men; ditches and timber stockades against man-eaters; plenty of wood; locals supply food [@yc, 3.10]. The French and the older texts keep the five months and the fear of man-eaters, not the camp, its size or its hosts. Plausible as castaway practice, but not established detail. ✓ Palm toddy (gomuti) and coconuts as described.
 
-[11] ★★★ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering; will recur for Cocachin fleet (Vol. III-9). Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment. As cited in Yule: Odoric [@yc, 3.9].
+[11] ✓ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering; will recur for Cocachin fleet (Vol. III-9). Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment. As cited in Yule: Odoric [@yc, 3.9].
 
 [12] ◇ / ? Dagroian funerary cannibal complex. Report-type; site and literal accuracy vs ritual/topos mix. Tentative identification near Pedir / Chinese tattooed-face kingdom.
 
 [13] ◇ / ~ Ransomless foreigners eaten — stock Ocean-island charge; Batta parallels exist. Worms-and-soul rationale may preserve ritual logic under atrocity framing.
 
-[14] ★ Dispute: cannibal customs — topos vs ritual misreading (Dagroian; Ferlec hills; Batta). Parallels: Herodotus Paddaei; Odoric Dondin; Conti; Raffles. As cited in Yule: Herodotus [@yc, 3.10]; Odoric, Conti [@yc, 3.9].
+[14] ◇ Cannibal customs — topos vs ritual misreading (Dagroian; Ferlec hills; Batta). Parallels: Herodotus Paddaei; Odoric Dondin; Conti; Raffles. As cited in Yule: Herodotus [@yc, 3.10]; Odoric, Conti [@yc, 3.9].
 
 [15] ✓ Lambri = Lamuri near Aceh headland. Chinese *Nanwuli* 1286 tribute; Malay Chronicle; Odoric Lamori; De Barros Lambrij. ✓ / ~ Brazil cultivated and transplanted as told. ~ Brazil seed sown at Venice failed — personal anecdote; climate reason plausible. Likely visited. As cited in Yule: Malay Chronicle, Odoric, De Barros [@yc, 3.9].
 
-[16] ✗ / ◇ Tailed men in Lambri mountains. Marvel; Archipelago commonplace (Kazwini; Marsden *Orang Gugu*; Ctesias; Ptolemy Satyrs); soft ethnographic core (interior peoples; costume) under wonder-label. ★ Dispute: tailed / hairy men — marvel ◇. As cited in Yule: Kazwini, Marsden, Ptolemy [@yc, 3.9]; Ctesias [@yc, 3.11].
+[16] ✗ / ◇ Tailed men in Lambri mountains. Marvel; Archipelago commonplace (Kazwini; Marsden *Orang Gugu*; Ctesias; Ptolemy Satyrs); soft ethnographic core (interior peoples; costume) under wonder-label. As cited in Yule: Kazwini, Marsden, Ptolemy [@yc, 3.9]; Ctesias [@yc, 3.11].
 
-[17] ✓ Fansur = Barus; *Canfora Fansuri* best, gold-weight price. Arab *Fansūrī* camphor from 9th c. (*Relations*; Masʿūdī; Avicenna) — ★★★ trade-fact. Reported only. As cited in Yule: Masʿūdī, Avicenna [@yc, 3.11].
+[17] ✓ Fansur = Barus; *Canfora Fansuri* best, gold-weight price. Arab *Fansūrī* camphor from 9th c. (*Relations*; Masʿūdī; Avicenna) — established trade fact. Reported only. As cited in Yule: Masʿūdī, Avicenna [@yc, 3.11].
 
 [18] ✓ / ~ Sago “flour trees”; party ate bread. ✓ sago technology (*Metroxylon* / palm pith starch); ~ whether tasted at Fansur or during Samara wait.

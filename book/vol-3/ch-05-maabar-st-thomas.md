@@ -54,7 +54,7 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 ## Notes
 
-[1] ✓ Maabar = Coromandel / Maʿbar coast; India the Greater. Standard Arabic geography (Abulfeda; Wassaf: “key of Hind”). ~ ~60 miles west from Seilan — orientation compressed; ferry distance order-of-magnitude. ✓ / ~ Five royal brothers — plural Pāṇḍya/coast powers; exact “five brothers” neatness. ✓ / ? Sonder Bandi Davar = a Sundara Pāṇḍya — name match; which Sundara contested. ★ Topographic order of Indian chapters partly dislocated (Yule). Visited. As cited in Yule: Abulfeda, Wassaf [@yc, 3.16].
+[1] ✓ Maabar = Coromandel / Maʿbar coast; India the Greater. Standard Arabic geography (Abulfeda; Wassaf: “key of Hind”). ~ ~60 miles west from Seilan — orientation compressed; ferry distance order-of-magnitude. ✓ / ~ Five royal brothers — plural Pāṇḍya/coast powers; exact “five brothers” neatness. ✓ / ? Sonder Bandi Davar = a Sundara Pāṇḍya — name match; which Sundara contested. ✗ Topographic order of Indian chapters partly dislocated (Yule). Visited. As cited in Yule: Abulfeda, Wassaf [@yc, 3.16].
 
 [2] ✓ Pearl fishery in Manar gulf; April–mid-May; 4–12 fathoms. Enduring fishery; depth correct. ✓ / ~ Bettelar as fishery rendezvous (Patlam type). ✓ / ~ Tenth to king; Abraiaman shark-charmers; day-only charm — royalty + charm office; Brahman label and night-dissolution colour. Tamul *Kaḍal-Kaṭṭi*; Tennent; still paid into British period. As cited in Yule: Tennent [@yc, 3.16].
 
@@ -66,13 +66,13 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 [6] Caldwell on *Bagavā*; Vaishnava rosary of 108 — Book’s near-miss. As cited in Yule: Caldwell [@yc, 3.16].
 
-[7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ★ Dispute: suttee / companions-in-death — corroborable, rhetorical heat. As cited in Yule: Abu Zaid, Masʿūdī, Barbosa, Firishta [@yc, 3.17]; Wassaf [@yc, 3.16].
+[7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ✓ / ~ Suttee and companions-in-death — corroborable, with rhetorical heat. As cited in Yule: Abu Zaid, Masʿūdī, Barbosa, Firishta [@yc, 3.17]; Wassaf [@yc, 3.16].
 
-[8] ✓ No horse breeding; massive Gulf imports; high mortality. Wassaf/Rashid corroboration ★★★. ~ Merchants bar farriers to protect sales — sharp Polo observation; economically plausible cartel. As cited in Yule: Wassaf [@yc, 3.16].
+[8] ✓ No horse breeding; massive Gulf imports; high mortality. Wassaf/Rashid corroboration. ~ Merchants bar farriers to protect sales — sharp Polo observation; economically plausible cartel. As cited in Yule: Wassaf [@yc, 3.16].
 
 [9] ✓ / ~ Boiled rice/meat feeding kills horses; blood stock produces only “weeds” in Maabar — mismanagement theme; climate/management breeding failure observed.
 
-[10] ★★★ Dispute: horse-breeding failure in S. India — sharp economic observation. Gulf horse exports and prices agree with Wassaf and Rashid; the breeding failure and its causes are the Book's claim, not independently corroborated.
+[10] ~ Horse-breeding failure in S. India — sharp economic observation. Gulf horse exports and prices agree with Wassaf and Rashid; the breeding failure and its causes are the Book's claim, not independently corroborated.
 
 [11] ✓ / ~ Criminal self-sacrifice with knives for an idol — vow-suicide type (Jordanus; Ibn Battuta); exact twelve-knife parade soft. As cited in Yule: Jordanus [@yc, 3.17].
 
@@ -86,7 +86,7 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 [16] ✓ Consecrated temple damsels (devadāsī type) — long-attested institution. Ramusio fuller on god–goddess quarrel aetiology.
 
-[17] ✓ Mailapur shrine of St Thomas; dual pilgrimage. Geographic ID; Montecorvino contemporary (1292–93 church). ✓ *Avarian* = holy man / apostle (*Ḥawārī*). ✓ / ◇ Red earth of tomb cures fever — ritual use attested (*ḥanānā*); cure claims soft. ★ Dispute: St Thomas traditions — faith-history vs merchant shrine tourism; Polo’s value is early geographic fix + living cult report, not adjudication of apostolic fact.
+[17] ✓ Mailapur shrine of St Thomas; dual pilgrimage. Geographic ID; Montecorvino contemporary (1292–93 church). ✓ *Avarian* = holy man / apostle (*Ḥawārī*). ✓ / ◇ Red earth of tomb cures fever — ritual use attested (*ḥanānā*); cure claims soft. ? St Thomas traditions — faith-history vs merchant shrine tourism; Polo’s value is early geographic fix + living cult report, not adjudication of apostolic fact.
 
 [18] ◇ 1288 fork-miracle vs rice-hoarding Baron — local miracle story of the keepers. Coconut rents six groats/tree/month to a brother-king — book detail.
 

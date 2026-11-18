@@ -68,7 +68,7 @@ Thus the western wonder-run from Male and Female stands in this chapter as the b
 
 [7] ✓ / ✗ Madeigascar named as great southern island — first clear European naming of Madagascar ✓; four sheikhs, camel flesh daily, elephants/ivory, lions/leopards/bears ✗ for Madagascar fauna/diet, ✓ for Magadoxo / Somali / Zanj complex.
 
-[8] ★ Madagascar vs Magadoxo (Mogadishu) confusion. Ibn Baṭṭūṭa: hundreds of camels slaughtered daily at Makdashau; Brava twelve-shaikh oligarchy; ivory staple. Arab colonisation traces on Madagascar real but incomplete fit. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.32].
+[8] ? Madagascar vs Magadoxo (Mogadishu) confusion. Ibn Baṭṭūṭa: hundreds of camels slaughtered daily at Makdashau; Brava twelve-shaikh oligarchy; ivory staple. Arab colonisation traces on Madagascar real but incomplete fit. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.32].
 
 [9] ✓ / ~ Strong southward current; Maabar ships 20 days out / >3 months return. ✓ Mozambique Channel / Cape Corrientes tradition (Kazwini; De Barros); ~ all-season permanence needs monsoon correction. As cited in Yule: Kazwini [@yc, 3.31]; De Barros [@yc, 3.32].
 

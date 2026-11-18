@@ -52,7 +52,7 @@ Chamba’s elephants and claimed year; Java’s overstated circuit and the Kaan�
 
 [5] ~ / ? Marco personally in Champa in 1285 (MSS also 1280 / 1288). Book asserts presence; return or Indian-seas mission plausible. ◇ / ~ 326 royal children (150+ warriors) — stock marvel; Odoric’s “good two hundred” same type. ✓ lignaloes abundant in Champa (classic eagle-wood seat). ✓ / ~ *bonus* = ebony (Pers. *abnūs*); chessmen and pen-cases (~ *ḳalamdān*). As cited in Yule: Odoric [@yc, 3.5].
 
-[6] ★ Dispute: personal presence in Champa possible on return voyage or ~1290 Indian-seas mission. ★ Persian vocabulary for SE Asian goods — linguistic stratum of Ocean-road lexicon filtered through Persianate merchant speech at Zayton.
+[6] ? Personal presence in Champa possible on return voyage or ~1290 Indian-seas mission. ~ Persian vocabulary for SE Asian goods — linguistic stratum of Ocean-road lexicon filtered through Persianate merchant speech at Zayton.
 
 [7] ✓ Java the Great = Java; independent; major spice mart; Zayton trade. ✗ circumference >3,000 (or 5,000) miles — roughly double; Arab/pilot tradition; Odoric–Conti same figure. ✗ / ~ nutmegs and cloves as *produced* on Java — ✗ native; ~ re-export mart. ~ / ◇ endless treasure / gold rhetoric (Barbosa echo). As cited in Yule: Barbosa [@yc, 3.6].
 
@@ -62,7 +62,7 @@ Chamba’s elephants and claimed year; Java’s overstated circuit and the Kaan�
 
 [10] ✓ / ~ / ? Locac on mainland; rich; brazil, gold, elephants, cowries; closed to strangers. ✓ products and mainland; ? exact = Lo-hoh / Ligor / east-peninsula still contested. ~ Locac independent of the Kaan — plausible for the moment; regional politics fluid.
 
-[11] ★ Dispute: Locac = southern Siam / Lo-hoh / peninsula east coast — still discussed. Rāma Khamhaeng inscription ~1292–93 almost coeval. Phantom Australia from misread “Java” departure (Major). As cited in Yule: Major [@yc, 3.7].
+[11] ? Locac = southern Siam / Lo-hoh / peninsula east coast — still discussed. Rāma Khamhaeng inscription ~1292–93 almost coeval. Phantom Australia from misread “Java” departure (Major). As cited in Yule: Major [@yc, 3.7].
 
 [12] ✓ Pentam = Bintan at eastern Malacca Strait approaches. ✓ Shallow ~60-mile channel; junks lift rudders — Singapore Strait depths and Chinese rudder practice. ~ / ? Malaiur a fine spice-trading kingdom/city near the strait — Malay trade centre real; ? Palembang vs Singapore-orbit vs other. ✗ Malacca as Malaiur — city not yet founded in Polo’s years.
 

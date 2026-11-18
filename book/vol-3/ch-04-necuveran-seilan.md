@@ -56,11 +56,11 @@ Thus the western run from Lambri stands in order: Necuveran’s naked woods and 
 
 [4] ✓ / ? Angamanain = Andamans; Arabic dual form. ✓ place; ? etymology (Schlegel). ✗ / ◇ Dog-headed men (mastiff faces) — geographic myth; possible soft core in alien physiognomy. ◇ / ? Andamanese cannibalism — persistent report; modern rejection after settlement; wreck-murder better attested. ✗ Rice and milk as Andaman staples (Yule: they have not). As cited in Yule: Schlegel [@yc, 3.12].
 
-[5] ★ Dispute: dog-headed Andamanese — ancient geographic myth (Ctesias; Jordanus; Ibn Battuta on Arakan/Pegu coast; Nicobar canine-descent tale). As cited in Yule: Ctesias, Jordanus [@yc, 3.13].
+[5] ◇ Dog-headed Andamanese — ancient geographic myth (Ctesias; Jordanus; Ibn Battuta on Arakan/Pegu coast; Nicobar canine-descent tale). As cited in Yule: Ctesias, Jordanus [@yc, 3.13].
 
 [6] ✓ Seilan = Ceylon / Sri Lanka; firm island ID. ✗ Circuit 2,400 (once 3,600) miles — real <700; antique chart inflation; Book half-aware. ✓ / ~ Northern shore low; landfall late — low northern coasts; ~ wind-submersion aetiology.
 
-[7] ★ Dispute: dimensions of Ceylon exaggerated. Comparative: Hiuen Tsang; Valentyn; Tennent. As cited in Yule: Hiuen Tsang [@yc, 3.12]; Valentyn, Tennent [@yc, 3.14].
+[7] ✗ Dimensions of Ceylon exaggerated. Comparative: Hiuen Tsang; Valentyn; Tennent. As cited in Yule: Hiuen Tsang [@yc, 3.12]; Valentyn, Tennent [@yc, 3.14].
 
 [8] ~ / ? King Sendemain independent — Parākramabāhu III / Tamul-Malay chiefs; exact name soft. ✓ Best brazil; rice, sesamum, palm wine; mid-cover dress. ✓ Rubies and other gems of Ceylon. ✗ / ◇ Unique world source of rubies; palm-sized royal ruby — exclusivity false; great-ruby topos (Cosmas–Hayton–Jordanus). ~ / ◇ Kaan failed embassy to buy the ruby — plausible Yuan gem diplomacy; story-type. ~ People unwarlike; hire Saracen troops.
 
@@ -70,11 +70,11 @@ Thus the western run from Lambri stands in order: Necuveran’s naked woods and 
 
 [11] ✓ / ~ Corpse and aged man encounters; resolve to seek Him Who dieth not. Standard Departure sequence in Buddhist narrative tradition.
 
-[12] ✓ Latin praise: would have been a saint of Christ — textual; cultural moment ★★★. ✗ / ~ Death, golden image, “first idol” aetiology and locale erroneous (Buddha dies ~80 at Kuśinagara).
+[12] ✓ Latin praise: would have been a saint of Christ — textual; a notable cultural moment. ✗ / ~ Death, golden image, “first idol” aetiology and locale erroneous (Buddha dies ~80 at Kuśinagara).
 
 [13] ✗ / ~ Eighty-four animal rebirths as told — aetiology and numerology popularised; not precise doctrine. Scene wrongly localised in Ceylon (Kapilavastu / Magadha).
 
-[14] ★★★ Dispute: Buddha life — remarkable sympathy for “idolater” saint. ★ Barlaam & Josaphat parallel — Christianised Buddha romance (John of Damascus; Golden Legend); annotate, don’t flatten: Polo’s tale is Indian/Buddhist report filtered by Latin categories, not a retelling of Barlaam. As cited in Yule: Golden Legend [@yc, 3.15].
+[14] ✓ Buddha life — remarkable sympathy for “idolater” saint. ✓ Barlaam & Josaphat parallel — Christianised Buddha romance (John of Damascus; Golden Legend); annotate, don’t flatten: Polo’s tale is Indian/Buddhist report filtered by Latin categories, not a retelling of Barlaam. As cited in Yule: Golden Legend [@yc, 3.15].
 
 [15] ✓ Dual claim on teeth, hair, dish; Book’s own Latin correction that Adam’s tomb is not in Seilan. ✓ Scripture places Adam’s sepulchre elsewhere — Book’s honest aside.
 

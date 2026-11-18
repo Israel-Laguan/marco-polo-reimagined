@@ -50,7 +50,7 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 [2] ✓ Bulughan’s death (7 April 1286) on the Kur in Georgia; Bayaut kinship; dying wish for Bayaut successor-bride (Hammer / Ilkhanid chronology). ✓ / ~ Arghun’s embassy of Uladai, Apushka, Koja — ✓ embassy pattern and names plausible in Mongol record (Rashid knows an Apushka of the Urnaut sent envoy to the Great Kaan); ~ all three as a fixed trio only in Polo. As cited in Yule: Hammer [@yc, Prol. 18].
 
-[3] ✓ Cocachin (Kukachin) chosen from Cathay, kin of Bulughan — ★★★ Rashid al-Din; Hammer. ~ / ◇ Maiden about seventeen; *moult bele dame et avenant* — age and beauty-formula are Book colour; not independently fixed. As cited in Yule: Hammer [@yc, Prol. 18].
+[3] ✓ Cocachin (Kukachin) chosen from Cathay, kin of Bulughan — Rashid al-Din; Hammer. ~ / ◇ Maiden about seventeen; *moult bele dame et avenant* — age and beauty-formula are Book colour; not independently fixed. As cited in Yule: Hammer [@yc, Prol. 18].
 
 [4] ✓ / ~ Ramusian land-abort after ~eight months; wars among Tartar princes closed the roads — ✓ steppe wars endemic; ~ eight-month abort as exact. Yule treats as authentic expansion; not in all French lines.
 
