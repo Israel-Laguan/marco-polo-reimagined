@@ -68,9 +68,9 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 [7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ✓ / ~ Suttee and companions-in-death — corroborable, with rhetorical heat. As cited in Yule: Abu Zaid, Masʿūdī, Barbosa, Firishta [@yc, 3.17]; Wassaf [@yc, 3.16].
 
-[8] ✓ No horse breeding; massive Gulf imports; high mortality. Wassaf/Rashid corroboration. ~ Merchants bar farriers to protect sales — sharp Polo observation; economically plausible cartel. As cited in Yule: Wassaf [@yc, 3.16].
+[8] ✓ / ? Massive Gulf imports; high mortality — Wassaf/Rashid corroboration. ? No horse breeding — the Book’s claim, not independently corroborated (see [10]). ~ Merchants bar farriers to protect sales — sharp Polo observation; economically plausible cartel. As cited in Yule: Wassaf [@yc, 3.16].
 
-[9] ✓ / ~ Boiled rice/meat feeding kills horses; blood stock produces only “weeds” in Maabar — mismanagement theme; climate/management breeding failure observed.
+[9] ✓ / ? Boiled rice/meat feeding kills horses; blood stock produces only “weeds” in Maabar — mismanagement theme; the climate/management explanation of breeding failure is the Book’s, not independently corroborated.
 
 [10] ~ Horse-breeding failure in S. India — sharp economic observation. Gulf horse exports and prices agree with Wassaf and Rashid; the breeding failure and its causes are the Book's claim, not independently corroborated.
 

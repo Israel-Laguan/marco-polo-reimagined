@@ -52,7 +52,7 @@ So the southwestern long circuit closes not with a new wonder but with a return.
 
 ## Notes
 
-[1] ✗ / ◇ Entire stretch likely reported, not witnessed. Yule: personal route only late if at all; Cordier concurs for Caugigu / Bangala / probably Anin. Useful as Yuan frontier ethnography even if not autopsy. Caugigu, Anin, Coloman, Cuiju all: uncertain.
+[1] ✗ / ◇ Entire stretch likely reported rather than witnessed. Yule: personal route only late if at all; Cordier concurs for Caugigu / Bangala / probably Anin. Useful as Yuan frontier ethnography even if not autopsy. Caugigu, Anin, Coloman, Cuiju all: uncertain.
 
 [2] ◇ / ✓ / ~ Caugigu: tributary kingdom; ≥300 wives; gold and spices cheap far from sea; elephants; whole-body tattoo. ◇ Reported; harem topos. ✓ Inland Lao–Shan trade logic; domestic elephants of Laos; Thai–Burmese tattoo cultures (Kiang Hung strong). ~ “Whole body” vs typical lower-body male work; Chinese *Papesifu* “800 wives” folk-etymology echo.
 

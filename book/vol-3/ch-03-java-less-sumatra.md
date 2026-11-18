@@ -74,7 +74,7 @@ Thus the Sumatran kingdoms stand in order: Ferlec’s Saracen towns and beast-hi
 
 [10] ~ Ramusio-only. Landing with about 2,000 men; ditches and timber stockades against man-eaters; plenty of wood; locals supply food [@yc, 3.10]. The French and the older texts keep the five months and the fear of man-eaters, not the camp, its size or its hosts. Plausible as castaway practice, but not established detail. ✓ Palm toddy (gomuti) and coconuts as described.
 
-[11] ✓ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering; will recur for Cocachin fleet (Vol. III-9). Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment. As cited in Yule: Odoric [@yc, 3.9].
+[11] ✓ Monsoon delay logic — same as Sung Zayton→*Lanli* wintering. ? Recurrence for the Cocachin fleet (Vol. III-9) depends on the reconstructed identification of the Prologue’s “Java” stop with Samara. Odoric *Sumoltra* still branding faces ~1323; Ibn Battuta ~1346 at zealous court — Polo’s pagan picture = earlier moment. As cited in Yule: Odoric [@yc, 3.9].
 
 [12] ◇ / ? Dagroian funerary cannibal complex. Report-type; site and literal accuracy vs ritual/topos mix. Tentative identification near Pedir / Chinese tattooed-face kingdom.
 
