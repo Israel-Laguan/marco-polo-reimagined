@@ -119,6 +119,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 ### DIA.C11 — Monsoon panels + Cocachin calendar
 - **Status:** backlog · **Placement:** III-F1, III-9 (reused in III-1, III-5, III-7) · **Depends:** S-09 ✓, charts.py or a map variant of A16
 - **Do:** NE Nov–Mar / SW May–Sep; the calendar strip uses the same 1291/1292 span as B3.
+- **2026-11-17 review:** F-15 reports a late-1290/early-1291 inference as well as Yule's 1292 reconstruction. Verify and label any range or alternatives in both B3 and C11; do not present the Samara wait or death-before-sailing as independently documented fleet events. [Handoff](../../status/critique-text-media-handoff-2026-11-17.md).
 
 ### DIA.C12 — Seagoing junk cutaway
 - **Status:** backlog · **Placement:** III-1 (preview II-14) · **Depends:** S-09 ✓, base plate `PLT.C12`

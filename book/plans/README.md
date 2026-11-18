@@ -2,6 +2,8 @@
 
 This folder runs the refinement of the manuscript on three fronts: **content**, **multimedia** and **illustrations**. It is the single place to see what is decided, what is open, and what is ready to work on.
 
+The [2026-11-17 critique follow-up review](status/critique-followup-review-2026-11-17.md) records the targeted fixes, remaining contradictions, and their task owners.
+
 ## How it works
 
 ```mermaid

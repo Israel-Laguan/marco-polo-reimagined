@@ -2,6 +2,8 @@
 
 **File:** `vol-1/ch-01-genoa-prison.md` · **Status:** backlog · **Kind:** narrative
 
+> **2026-11-17 source handoff:** Reconcile Jacopo's 1296 with the proposed 1294 emendation and Ramusio's Curzola tradition; the 2026 archival lead remains unresolved. See the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) before the prose, Notes and capture-map passes.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,011 | 7% | — (n/a in Vol. I) | ok [1–15] | no |

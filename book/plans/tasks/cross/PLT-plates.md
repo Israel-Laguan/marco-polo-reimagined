@@ -19,6 +19,7 @@ Event illustrations: 35 generated (GEN) hero plates, 6 public-domain (PD) heroes
   - **Annales Ianuenses** council and Savona siege: Gallica, **fee** for print.
   - **Cues and avoid lines:** `registry/visual-references.md` § Gap-source ledger.
   - **Reference images and use rights:** `media/references/README.md` § Added 2026-11-13.
+- **2026-11-17 review:** For III-3 and III-9, follow the [text and media handoff](../../status/critique-text-media-handoff-2026-11-17.md): the Samara camp is not Ramusio-only, no direct period Samara camp image has been checked, and the ship count, clothing and tablet references need their stated qualifications.
 - Each plate: sidecar `.yaml` (prompt, negative, model, job id or seed, date, tradition, caption, review) → an `ATTRIBUTIONS.md` row.
 
 ## Gated by spikes

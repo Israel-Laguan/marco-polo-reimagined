@@ -2,6 +2,8 @@
 
 **File:** `vol-3/ch-03-java-less-sumatra.md` · **Status:** backlog · **Kind:** narrative
 
+> **2026-11-17 source correction:** The historical critique below incorrectly treats all Samara camp details as Ramusio-only. F and V include wooden defences; Z also gives the 2,000 men and ditches. Apply the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) before T2–T5. The coconut comparison's distribution remains unverified.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,202 | 64% | [V/M] | issues: Note [4] placeholder; Note [7] duplicates [6] | no |

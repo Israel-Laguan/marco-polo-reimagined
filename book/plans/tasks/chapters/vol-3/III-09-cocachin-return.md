@@ -2,6 +2,8 @@
 
 **File:** `vol-3/ch-09-cocachin-return.md` · **Status:** backlog · **Kind:** narrative
 
+> **2026-11-17 source correction:** The historic backlog and the prior targeted-pass note below overstate Samara's Ramusio exclusivity and the fleet's chronology. Apply the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) to the chapter, Notes and media before T1–T5; the corrections are not yet implemented.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,767 | 38% | — (missing; README gives [V/M]) | issues: Note [12] one-sided; Note [17] arithmetic | no |

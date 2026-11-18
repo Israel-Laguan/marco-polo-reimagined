@@ -23,6 +23,8 @@ Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *
 | III-9/III-12 | Cocachin in three sources |
 | III-12 | Hits, misses and silences ledger (cross-volume) |
 
+**2026-11-17 evidence handoff:** For the Cocachin and capture tables, separate each witness's claim from independent evidence and modern inference; do not infer the Polos' presence from the envoy match. See [text and media handoff](../../status/critique-text-media-handoff-2026-11-17.md).
+
 **S-21 commodity rows (closed 2026-11-13, [handoff](../../research/results/S-21-closure.md#commodity-table-tbl-handoff)):** draft rows for ambergris (III-7), sappan/brazil (III-3, III-4), pearls (III-5) and porcelain (II-14), each with its stated limit. Any new commodity row needs a checked `S21-E` registry ID.
 
 **Candidates without an ID yet** (from the critique, not in the multimedia plan): Madeigascar vs Magadoxo (III-7); return-mortality variants 600 / 8 / 18 (III-9); Golden Horde khan list, Book vs actual (II-15). Decide when writing those chapters' `.T5`.

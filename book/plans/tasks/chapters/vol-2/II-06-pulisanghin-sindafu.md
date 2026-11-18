@@ -2,6 +2,8 @@
 
 **File:** `vol-2/ch-06-pulisanghin-sindafu.md` · **Status:** backlog · **Kind:** narrative
 
+> **2026-11-17 source handoff:** Revisit the stele omission and F-32 without claiming a proven burial date, guaranteed invisibility or exhaustive scholarly consensus. See the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md).
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,066 | 64% | [V] | 14/14; ★★ in Note [14]; "Gazetteer:" tooling in [3], [12], [14] | no |

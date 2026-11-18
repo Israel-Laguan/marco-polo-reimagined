@@ -2,6 +2,8 @@
 
 **File:** `vol-3/front-02-maps-seas-and-return.md` · **Status:** backlog · **Kind:** front
 
+> **2026-11-17 source correction:** The old media hook below treats the Samara stop as certain. Apply the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md), including A1/A16 review, before using or placing the pilot maps.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 790 | n/a | — | ok (3/3) | no |

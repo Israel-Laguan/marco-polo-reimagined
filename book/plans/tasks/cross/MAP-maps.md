@@ -37,7 +37,7 @@ S-04 ✓ (rows, names) · S-09 ✓ (pipeline, visual system, 2026-11-10) · S-08
 S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format in `tools/media/map.py`'s header; copy `A16.yaml`), give each route segment `stated | inferred | reported` with a comment saying why, run `map.py --test` then `map.py <A#>`, proof the PNG in `tools/media/.cache/`, then link the `.svg` from the chapter with a caption that names every disputed alternative. **Done when:** the asset is in `media/maps/` at 4.5 in (or 2.2 in) wide and no taller than 5.4 in, the chapter links it, and `--test` passes. A8 moved to DIA as C17 (its places are `unfixed`).
 
 ### MAP.T01 — A1 Series overview
-- **Status:** asset **done** (S-09 pilot); placement open · **Placement:** each F2 · **Depends:** S-09 ✓
+- **Status:** S-09 pilot exists; **revision and placement open** (2026-11-17 evidence review) · **Placement:** each F2 · **Depends:** S-09 ✓
 - **Do:** Placed in each volume's front-02 replacing `map-marco-polo-overview.png` in the body (keep that as a facsimile); caption: the whole round trip, by volume.
 
 ### MAP.T02 — A2 The world in 1260
@@ -93,8 +93,9 @@ S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format i
 - **Do:** Korean and Chinese fleets, both in the volume's indigo, told apart by labels; dates on the lines.
 
 ### MAP.T16 — A16 The Cocachin return
-- **Status:** asset **done** (S-09 pilot); placement open · **Placement:** III-9, III-F2 · **Depends:** S-09 ✓
+- **Status:** S-09 pilot exists; **revision and placement open** (2026-11-17 evidence review) · **Placement:** III-9, III-F2 · **Depends:** S-09 ✓
 - **Do:** Placed in III-9 and III-front-02 (replacing the dropped `map-indian-ocean.jpg` and `map-return-route.jpg`); caption gives the 1291/1292 debate (F-15) and says which stages are inferred.
+- **2026-11-17 review:** The pilot is **not ready for placement**: A16 and A1 source data mark Chamba → Samara as stated, although this identification and course are reconstructed. Correct both data files and regenerate/visually check their assets; align captions and uncertainty with the [text and media handoff](../../status/critique-text-media-handoff-2026-11-17.md). The named western sequence does not establish the exact drawn path.
 
 ### MAP.T17 — A17 Polo's order vs the coast's order
 - **Status:** backlog · **Placement:** III-5, III-6 · **Depends:** S-09 ✓; A strip-map layout (one coastline unrolled): a new `layout: strip` mode in map.py, or a TikZ schematic if that is simpler

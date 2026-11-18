@@ -72,7 +72,7 @@ Abbreviations:
 |---|---|---|---|---|---|---|
 | III-1 | Takezaki Suenaga's men board a Yuan ship, 1281 | **PD** | *Mōko Shūrai Ekotoba* (c. 1293), scroll 2, Kyushu University copy | H | — | The scroll paints the fighting, not the typhoon (S-11: no storm scene exists). Secondary GEN: Chipangu's golden palace *as imagined* (LdM lens) |
 | III-2 | Junks lift their rudders in the shoal strait | GEN | Javanese temple relief | L | Raisable axial rudders; mangrove coast; Malay perahu | — |
-| III-3 | Five months stranded at Samara | GEN | Javanese / Sumatran relief | L | Junks at anchor; toddy-tappers; monsoon sky; a **modest** camp | Stockade and 2,000 men are Ramusio-only |
+| III-3 | Five months stranded at Samara | GEN | Javanese / Sumatran relief | L | Junks at anchor; toddy-tappers; monsoon sky; a **modest** camp | Wooden defences appear in F and V; 2,000 men and ditches appear in Z and Ramusio. The scene illustrates textual accounts; no period Samara camp reference is established. |
 | III-4 | Pilgrims climbing Adam's Peak on iron chains | GEN | Polonnaruwa murals | P | Buddhist and Muslim pilgrims together | Dual tradition; don't resolve it |
 | III-5 | Pearl divers and the shark-charmer | GEN | Chola temple mural | L | Gulf of Mannar boats; stone weights; Brahman charmer on deck | The charm is belief |
 | III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Smoke-signal relay; families aboard | — |

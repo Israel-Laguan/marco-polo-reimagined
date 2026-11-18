@@ -15,6 +15,8 @@ Series-wide reader apparatus: reliability markers, [V]/[R]/[M] tags, the "How to
 ## Decided (S-03, closed 2026-10-22)
 Convention: `VOICE-GUIDE.md` § Apparatus conventions. Markers ✓ ~ ✗ ◇ ?; ★ retired; compound tags fold into [M]; [reception] for III-10 to III-12; Ramusio flag = inline words + "Ramusio-only." Note label (provenance, not a marker). The lint enforces tags, lead markers, "Dispute:" labels and the Ramusio label (`tools/lint.py`).
 
+**2026-11-17 source review:** Yule's brackets identify the source used by his edition, not necessarily exclusivity across manuscript witnesses. Samara's checked F and Z readings disprove the old blanket assumption for that passage. Assess the implications for the convention, manifest and lint passage by passage; preserve provenance enforcement. See the [text and media handoff](../../status/critique-text-media-handoff-2026-11-17.md).
+
 ## Gated by spikes
 S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs footnotes)
 

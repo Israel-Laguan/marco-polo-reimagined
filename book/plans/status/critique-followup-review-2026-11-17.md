@@ -1,0 +1,36 @@
+# Critique follow-up — review and action list
+
+**Reviewed:** 2026-11-17 · **Baseline:** `fbdf92d` (targeted factual and continuity pass) · **Scope:** review of that pass and its four priority areas, with a fresh series lint. This is a focused review, not a new full fact-check of the book. The critique files remain historical evidence; chapter and cross-cutting tasks own implementation. No manuscript edits were made in this review.
+
+**Research update:** the [provisional intake](../research/results/critique-followup-2026-11-17-intake.md) and [subsequent source-audit intake](../research/results/critique-followup-source-audit-2026-11-17-intake.md) check selected claims and flag source-access limits. Neither is a completed ten-citation Phase R audit; the later returned report itself records a 25/36 claim-level rate for its error-targeted sample.
+
+**Manuscript and media handoff:** [affected passages, maps, illustrations and reference limits](critique-text-media-handoff-2026-11-17.md).
+
+## Highest priority — resolve contradictions before calling the pass complete
+
+1. **Departure versus Arghun's death — III-09.T1.** In `vol-3/ch-09-cocachin-return.md` paragraphs beginning “Quitting this Island” and “And when they got thither”, Yang's reported late-1290/early-1291 sailing is followed by the categorical claim that Arghun died on 10 March 1291 before the fleet left; Note [11] repeats it. An early sailing could precede his death. Keep the death date distinct from the disputed sailing date; qualify or remove the relative ordering in both places. Check F-15/F-33 and Note [10], and sweep the chapter for the same implication. The new date qualification exposes a contradiction in text already present before this pass; it does not establish which chronology is correct.
+2. **Samara, witnesses and elapsed time — III-09.T1/T3, III-03.T2.** III-09 acknowledges that the identification of the Prologue's island stop with Samara is Yule's inference, then presents the five-month monsoon wait as the fleet's established stop. Yule presents inclusion of the five months in the 18 as an alternative reconstruction; the Prologue says 18 months more. Distinguish both. **Correct the manuscript's “Ramusio-only” claim:** checked editions of F and Z show wooden defences in F, and the 2,000 and ditches in Z. Yule's brackets indicate his textual source, not exclusivity across witnesses. Check the coconut comparison separately before attributing it. See the [provisional intake](../research/results/critique-followup-2026-11-17-intake.md).
+3. **Stele treatment — II-06.T1/T3 and F-32.** The essay removes the stele from its list of omissions, but II-06 still calls it a “famous silence”. F-32 overstates what the seventeenth-century discovery establishes about its visibility in Polo's lifetime. Reconcile the prose, Note [10], task and registry with the checked evidence; do not claim a certain burial date or visibility history. A search that finds no such argument is not proof that no scholar made one.
+4. **Return-route geography — III-F2.T1/T3 and III-09.T1/T3.** `vol-3/front-02-maps-seas-and-return.md` describes a route through Hormuz, and III-09's closing recap presents Zayton departure and Gulf landfall as settled, even though III-09 now identifies the departure and landfall as inferences. Check the route guide, place table, recap, and Notes [8]–[10] against F-15 and the Yule inference recorded in III-09 [11]. Label inferred stops and the Samara match consistently. Coordinate map captions and placement with `MAP.T16`; a completed map asset is not a verified manuscript placement.
+5. **Jacopo's date — I-01.T3/T4, I-B1.T1 and F-34.** I-01 and F-34 still call Jacopo's Ayas date “impossible”; Bolognari's checked edition prints 1296 and treats confusion with the 1294 battle as a possibility. Reconcile the text and registry. A 2026 Bolognari publication presents a newly identified archival lead on the captivity window; its witness identification and implications need review before changing the conclusion. Keep the Curzola tradition separately attributed to Ramusio.
+
+## Remaining work already owned by tasks
+
+- **III-09.T1:** Fix Note [17]'s “twenty-six years” arithmetic and verify what period the Prologue describes; present Coja as the sole surviving envoy as Ramusio's claim, not independent confirmation. Both were explicitly left open by the targeted pass.
+- **III-09.T1/T4:** Check differing ship counts, survivor counts and provisions against the named witnesses before choosing numbers; the returned source audit reports conflicts but its OCR-based readings need verification.
+- **III-12.T1/T3/T4:** Complete Wood and replies fairly, including the checked absence-of-names and Persian-language arguments, qualifications on foot-binding, and the post-2013 scholarship handoff. Address the chapter-count wording, length and human prose read. The Bolad and stele fixes in this essay are applied, not the whole task.
+- **APP.T9, with I-04.T4, I-F1.T4, APP.T1 and APP.T2:** Resolve the orphan Note [15], out-of-order I-front-01 citations, marker sweep and reader-facing apparatus explanation. Respect the existing locator-preservation and human-review requirements; APP.T9 tracks these owners rather than replacing them.
+- **Chapter `.T2`–`.T6` and media tasks:** Re-voice, provenance, naming, media placement, lint and human reading remain open according to each chapter's own status. APP.T5/T6 remain separate citation work. Research closure is best effort, not evidence that each cited work was read or applied.
+- **Documentation follow-up — DOC:** `SERIES-STATUS.md` says every chapter needs a re-voice even though II-02.T3 is recorded as done; `content-revision-plan.md` describes outdated status and says S-18 remains open. Align these statements with the spike board and pilot record without marking whole chapters complete.
+
+## Confirmed progress
+
+- III-12's Ahmad hit no longer identifies Marco with Bolad, and the essay's stele omission was removed. III-09 distinguishes the corroborated embassy from evidence of the Polos. Its categorical description of Samara details as Ramusio-only is contradicted by the checked F and Z editions; correction is open above.
+- The reviewed Curzola/Ayas, Hormuz, Columbus, Catalan Atlas and Donata passages carry the targeted qualifications; check the remaining cross-file inconsistencies above before treating their broader work as complete.
+- APP.T9 exists and links the requested apparatus items to their existing owners. II-02 is the approved voice pilot; a passing lint does not by itself mean a chapter is complete.
+
+## Verification and limits
+
+- `python3 tools/lint.py --json` on 2026-11-17: **4/49** files pass; 36 files have verbatim errors, 28 have Ramusio errors, and 27 have marker errors (categories overlap). The two citation errors are I-04's orphan Note [15] and I-F1's out-of-order citations, already tracked by APP.T9. Lint does not establish historical accuracy.
+- `python3 -m pytest -q`: **5 passed**.
+- Source comparison here used the repository's manuscript, research intake and registries; unread primary or scholarly works remain unread. No new external historical verification, PDF build, or human voice review was performed.

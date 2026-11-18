@@ -70,7 +70,7 @@ Existing captions in front-02 (all volumes) must be corrected now, whatever happ
 | A13 | The Fujian road and Zayton | II-14 | Kinsay → … → Fuju → Zayton; Tyunju (Dehua?) inset, identification provisional |
 | A14 | The Mongol horizon | II-15 | Ilkhanate, Chagatai and Kaidu, Golden Horde, the "Land of Darkness" (dotted) |
 | A15 | Invasions of Japan, 1274/1281 | III-1 | Korean and Chinese fleets, Hakata Bay, Takashima |
-| A16 | **The Cocachin return** | III-9 + III-front-02 | Zayton → Sumatra (5-month wait) → Seilan → Maabar → Malabar → Hormos → Abhar → Tauris → Trebizond → Venice. Solid for Prologue-named stages, dashed for inferred ones; Hormos? is the Minab-area proxy, not the excavated site; monsoon season labels |
+| A16 | **The Cocachin return** | III-9 + III-front-02 | A reconstructed route with the Prologue's “Java” and named western sequence distinguished from inferred identifications and stops. Samara's five-month stop is not explicitly tied to the embassy; Hormos? is the Minab-area proxy, not the excavated site. Review both A16 and A1 source data and captions before placement; see the [text and media handoff](status/critique-text-media-handoff-2026-11-17.md). |
 | A17 | Polo's order vs the coast's order | III-5 / III-6 | Strip map of India's coasts showing where the Book's sequence crosses itself |
 
 **Map caption rule (S-16):** On every map showing Hormos, say “Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain.” The point is modern Minab, not a measured ruin. A1 and A16 pilot labels carry the same warning. A6 treats Caracoron and Bargu as reported side-places, not personal visits. Tonocain and Tenduc are regional references; do not imply precise boundaries.
