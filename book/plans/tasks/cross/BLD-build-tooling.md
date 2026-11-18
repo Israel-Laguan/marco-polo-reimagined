@@ -21,14 +21,16 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Done when:** a commit that adds an "Anyway" tic or a "Soft …:" label to a green file is rejected, and a commit to a still-red chapter that doesn't make it worse goes through.
 
 ### BLD.T5 — Update `tools/cite_audit.py` for the S-24 forms
-- **Status:** ready · **Depends:** S-24 ✓
+- **Status:** done 2026-11-17 · **Depends:** S-24 ✓
 - **Do:** classify epigraph credits in the new form (`Marco Polo, Book 2, ch. 12 (Yule–Cordier)`, `Prologue, preamble`, dated non-Polo credits) as converted, not "free text"; count `[@key]` citations, "As cited in Yule" sentences and Notes with no source, so the audit reports what is still left to do.
 - **Done when:** a run on the current manuscript reports 0 unconverted epigraph credits and gives the counts from the 2026-10-22 sweep (398 Notes with no citation key, 427 without a YC locator).
+- **Done:** S-24 credits (`cite_rules.POLO_CREDIT` / `OTHER_CREDIT`) classify as converted; a new first line reports what is left. Current manuscript: 0 unconverted epigraph credits, 376 Notes with no citation key, 420 without a YC locator, 566 `[@…]` citations, 242 “As cited in Yule”. The same run on 204034b (end of 2026-10-22) gives the sweep's 398 / 427; the drop since is APP.T5 work. Test: `tests/test_cite_audit.py`.
 
 ### BLD.T2 — Volume builds
-- **Status:** ready · **Depends:** S-08 ✓
+- **Status:** done 2026-11-17 · **Depends:** S-08 ✓
 - **Do:** a `make`-style entry (`tools/build/build.sh vol1|vol2|vol3` with no file list) that takes each volume's files in reading order (front-01, front-02, ch-01…, back-01) and writes `build/vol1.pdf` … `vol3.pdf`. Add a half-title and title page per volume from `outline-volumes.md`, and the front-matter order: contents, *Abbreviations*, F1, F2. Fail the build on a "Missing character" or an undefined citation; report placeholders, undersized rasters and overfull lines as a summary, not a wall of log.
 - **Done when:** the three commands build; Vol. II and III match the S-08 smoke builds (170 and 143 pp. before content changes); a deliberate bad key fails the build.
+- **Done:** `build.sh vol1|vol2|vol3` (titles from `outline-volumes.md`). `book.lua` now emits `\mainmatter` before the first `# Chapter`, so F1/F2 keep roman page numbers after contents and *Abbreviations*. A one-line summary (placeholders, undersized rasters, overfull ≥ 10pt, pages) replaces the log grep; a missing glyph or an undefined key fails the build (both checked with a throwaway file). Pages now: I 161, II 173, III 151. II and III are +3 and +8 against the smoke builds: the half-title and title page add pages, and III has had content changes since. The sample's self-check and `test_abbreviations_build` still pass. *Abbreviations* is not in the contents yet (BLD.T4).
 
 ### BLD.T4 — Front and back matter, index, glossary layout
 - **Status:** backlog · **Depends:** BLD.T2, APP (List of abbreviations prose), GLO
@@ -36,9 +38,10 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Done when:** one volume builds with every front and back element in place and a person has checked the pages.
 
 ### BLD.T6 — Lint rules for the build conventions
-- **Status:** ready · **Depends:** S-08 ✓
+- **Status:** done 2026-11-17 · **Depends:** S-08 ✓
 - **Do:** add to `tools/lint.py`: a `*Caption:*` paragraph after a figure is an **error** ("caption goes in the image brackets", `markdown-conventions.md`); a file whose first two headings are not `# Chapter …` / `# Front Matter …` / `# Back Matter …` + `## Title` is a **warning**. The bracketed Note reference needs no new rule (the `citations` sequence check catches it); media type and size stay in the build.
 - **Done when:** the three F2 files show the caption error until their `.T5` fixes them; no other file changes status.
+- **Done:** `captions` (error) and `headings` (warning) in every profile. Against the pre-change run, only the three F2 files change: I-F2 0→2 errors, II-F2 0→2, III-F2 0→1. `plans/status/lint-baseline.md` is not regenerated, so BLD.T1 must add these when it reads the baseline. Test: `tests/test_build_lint.py`.
 
 ### BLD.T7 — Text face: Noto Serif or Junicode
 - **Status:** backlog · **Depends:** user decision
@@ -52,17 +55,20 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Done:** `unkeyed_scholars` errors when a Note names a mapped modern scholar but contains none of that name's mapped candidate keys, including context-dependent and needs-edition cases; it does not pick a work. Tests cover keyed/unkeyed and repeated names, a via-YC witness and common words. On the current 49 files it finds no such errors; the 1,014 pre-existing errors are unchanged. **Limits / left:** Hall and the bare surname Wood are too ambiguous for this check; primary witnesses handled through YC are excluded. A matching candidate key elsewhere in a Note suppresses the diagnostic even when that particular mention needs a different work. Review these cases in `.T4` / APP.T6 and improve claim-level association before relying on the check as proof that every attribution is supported.
 
 ### BLD.T9 — Citation parity in previews and EPUB
-- **Status:** ready · **Depends:** S-24, the preview / EPUB build
+- **Status:** done 2026-11-17 · **Depends:** S-24, the preview / EPUB build
 - **Do:** wire Pandoc citeproc with the chosen Chicago author-date CSL and ensure the YC and YC Add. sigla, locators, volume-specific *Works cited*, and abbreviations explanation survive into previews and EPUB. Verify against the print build with real examples including `[@yc, 1.61]` and `[@ycadd, on 2.23]`.
 - **Evidence:** on 2026-11-11, `printf '%s\n' 'A reference [@yc, 1.61].' | pandoc --citeproc --bibliography plans/registry/bibliography.bib -t plain` printed `(Polo 1903, 1.61)`, not `(YC 1.61)`. This default-style probe does not establish what a configured Chicago CSL can do. The PDF's biblatex shorthand configuration does not automatically carry over to citeproc.
 - **Done when:** a configured preview and EPUB render both sigla and locators correctly and list only the sources cited in the volume; any style customization is checked into the build and documented.
+- **Done:** `build.sh html|epub vol1|vol2|vol3` → `build/volN.html|.epub`. The CSL is pandoc's built-in default, Chicago 17th author-date, the same output as TeX Live's `chicago-author-date.csl` on the test cites. Pandoc's biblatex reader drops `shorthand`, so `tools/build/preview.lua` writes the sigla itself (“(YC 1.61)”, “(YC Add. on 2.23)”, and inside mixed groups “(see YC 2.8; Larner 1999, 12)”). It adds YC to `nocite`, leads their Works cited entries with “YC (Polo, Marco)”, and puts `tools/build/abbreviations.md` first; that file must stay in step with the prose in `book.latex`. In-text forms match the PDF exactly, and each volume's Works cited has the same keys as its PDF `.bbl`. A key citeproc can't find fails the build. **Differences left:** citeproc prints URLs and “Edited by” where biblatex prints “Revised by”, drops the “Consulted in the Project Gutenberg digitisation” addendum, and sorts YC under Polo. EPUB not run through epubcheck. Test: `tests/test_preview_citations.py`.
 
 ### BLD.T3 — Media regeneration (one command)
-- **Status:** ready · **Depends:** S-09 ✓
+- **Status:** done 2026-11-17 · **Depends:** S-09 ✓
 - **Do:** one entry point (e.g. `tools/build/build.sh media`) that runs `tools/media/.venv/bin/python tools/media/map.py --test` then `map.py` (all maps), and `python3 tools/media/timeline.py --test` then `timeline.py` (all timelines), stopping on the first failure.
 - **Done when:** the one command regenerates every `tools/media/data/*.yaml` figure into `media/maps/` and `media/timelines/` from a clean checkout.
+- **Done:** `build.sh media` creates the venv from `requirements.txt` if it is missing, then runs each self-test before its build, stopping on the first failure. Both maps regenerate byte-identical. The timeline PDF differs only in its embedded timestamp.
 
 ### BLD.T10 — Source-aware verification for comparative quotations (S-19)
-- **Status:** ready · **Depends:** S-19 best-effort intake
+- **Status:** partly done 2026-11-17 · **Depends:** S-19 best-effort intake
 - **Do:** Preserve the current two-volume Yule-only 7-gram verbatim metric, Ramusio detection and their baselines. Add an explicit, source-aware quotation lookup for individually identified, rights-cleared comparison texts in `refs/`; never silently match a quotation against any source merely because the words occur somewhere in a combined corpus. Separate each source from editorial notes and other authors, and avoid matching across file boundaries. Report the named source and unresolved/misquoted text; handle epigraphs and marked quotes as appropriate without inventing a source. The S-19 files contain uncorrected OCR and some include multiple authors, so scan-check and attribution remain editorial requirements. Exclude the 1733 *Ancient Accounts* until its translation rights are checked. See `registry/comparanda.md`.
 - **Done when:** representative exact, ellipsis and wrong-source matches, OCR mismatch and a mixed-source segment are tested; Yule-only quotation behavior and 7-gram baseline stay unchanged, and an attribution cannot pass solely on another author's text or an editor's annotation. Decide and document the manuscript syntax and migration path before making non-Yule quotations a blocking lint requirement.
+- **Done:** `tools/comparanda.py` (lookup, `--scan`, `--list`) with a per-file segment registry: author / editor / other-author line ranges, one named source per lookup, no cross-file or cross-segment matches. Matches in an editor's text, another author's text or Yule report `wrong-source`; unmapped or uncleared sources are refused. Hayton is mapped (Bedrosian front matter / Hayton / Falcon colophon). Syntax proposal and migration path are in `registry/comparanda.md` § Quotation lookup. `yule.py` and `lint.py` quotation checks are untouched. Test: `tests/test_comparanda.py`. **Left:** segment maps for Rubruck/Carpini, Odoric, Ibn Battuta, Cathay III, Wassaf and Zhao Rugua (their footnotes are interleaved in the OCR, so this is editorial work against the scans); adopting the `[“…”]{src=…}` syntax; a blocking lint check only after that.

@@ -13,6 +13,8 @@ import collections
 import re
 from pathlib import Path
 
+from cite_rules import KEY, OTHER_CREDIT, POLO_CREDIT
+
 BOOK = Path(__file__).resolve().parent.parent
 
 SCHOLARS = ["Larner", "Vogel", "Haw", "Wood", "Pelliot", "Moule", "Rossabi", "Allsen",
@@ -35,7 +37,13 @@ BASE = re.compile(r"\bYule[–-]Cordier\b")
 YEAR = re.compile(r"\b1[5-9]\d\d\b|\b20[0-2]\d\b")
 
 
+YC_LOC = re.compile(r"@yc(?:add)?,")
+AS_CITED = re.compile(r"\bAs cited in Yule\b")
+
+
 def classify_epigraph(text):
+    if POLO_CREDIT.match(text) or OTHER_CREDIT.search(text):  # S-24 forms (BLD.T5)
+        return "epigraph: converted"
     if LOCATOR.search(text):
         return "epigraph: Book N.roman"
     if re.search(r"\bBook (?:I{1,3}|IV),", text):
@@ -53,9 +61,9 @@ def audit(files, n_examples):
     def hit(kind, text, f, ln):
         count[kind] += 1
         if len(examples[kind]) < n_examples:
-            examples[kind].append(f"{f.relative_to(BOOK)}:{ln}  {text.strip()[:100]}")
+            examples[kind].append(f"{f.relative_to(BOOK) if f.is_relative_to(BOOK) else f}:{ln}  {text.strip()[:100]}")
 
-    notes = 0
+    notes = no_key = no_yc = 0
     for f in files:
         in_notes = False
         for ln, line in enumerate(f.read_text(encoding="utf-8").splitlines(), 1):
@@ -63,6 +71,10 @@ def audit(files, n_examples):
                 in_notes = True
             if in_notes and re.match(r"^\[\d+\]", line):
                 notes += 1
+                no_key += not KEY.search(line)
+                no_yc += not YC_LOC.search(line)
+            count["cite: [@key] citations"] += len(re.findall(r"\[[^\]]*@[^\]]*\]", line))
+            count["cite: “As cited in Yule”"] += len(AS_CITED.findall(line))
             m = EPIGRAPH.match(line)
             if m:
                 hit(classify_epigraph(m.group(1)), m.group(1), f, ln)
@@ -88,7 +100,10 @@ def audit(files, n_examples):
                     else:
                         count["scholar: name only"] += 1
 
-    print(f"files {len(files)} · notes {notes}\n")
+    unconverted = sum(n for k, n in count.items() if k.startswith("epigraph:") and k != "epigraph: converted")
+    print(f"files {len(files)} · notes {notes}")
+    print(f"left to do: {unconverted} unconverted epigraph credits · {no_key} Notes with no citation key (no source)"
+          f" · {no_yc} Notes without a YC locator\n")
     for kind, n in sorted(count.items()):
         print(f"{n:5}  {kind}")
         for e in examples.get(kind, []):

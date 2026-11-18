@@ -9,6 +9,7 @@ local TAGS = { ['[V]'] = 'V', ['[R]'] = 'R', ['[M]'] = 'M', ['[reception]'] = 'r
 local MARKS = { ['✓'] = '"2713', ['✗'] = '"2717', ['◇'] = '"25C7', ['?'] = '"003F', ['~'] = '"223C' }
 
 local chap = 0
+local main = false -- \mainmatter emitted (before the first # Chapter; front files keep roman pages)
 local linked = true -- false inside the how-to box, where [3] is an example, not a citation
 
 local function exists(p)
@@ -160,6 +161,7 @@ local function Pandoc(doc)
       -- "# Chapter II-2" + "## Title" -> \bookchapter{II-2}{Title}; front/back/test heads print no label
       close_notes(); chap = chap + 1; first_rule = true
       local label = stringify(b.content):match('^Chapter%s+(.+)$') or ''
+      if label ~= '' and not main then put(raw('\\mainmatter')); main = true end
       local title = b.content
       local nxt = blocks[i + 1]
       if nxt and nxt.t == 'Header' and nxt.level == 2 and not is_notes(nxt) then title = nxt.content; i = i + 1 end

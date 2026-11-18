@@ -77,7 +77,7 @@ $endfor$
 % Note markers ✓ ~ ✗ ◇ ? at clause start
 \newcommand\mk[1]{{\markerfont\char#1}}
 
-% Put the reader's locator key inside the heading of the generated shorthand list.
+% Put the reader's locator key inside the heading of the generated shorthand list. Same prose as abbreviations.md (HTML/EPUB).
 \defbibheading{abbreviations}[Abbreviations]{%
   \chapter*{#1}%
   \textbf{YC} refers to Henry Yule's translation of Marco Polo, third edition,
@@ -93,9 +93,15 @@ $endfor$
 
 \begin{document}
 \frontmatter
+$if(volume)$
+% BLD.T2: half-title, then title page (titles from outline-volumes.md)
+{\pagestyle{empty}\vspace*{0.3\textheight}{\centering\Large $series$\par}\cleardoublepage
+\vspace*{0.2\textheight}{\centering{\LARGE $series$\par}\vspace{3\baselineskip}
+{\scshape $volume$\par}\vspace{\baselineskip}{\Large\itshape $title$\par}}\cleardoublepage}
+$endif$
 \tableofcontents
 \printbiblist[heading=abbreviations,title={Abbreviations}]{shorthand}
-\mainmatter
+% \mainmatter comes from book.lua, before the first # Chapter: F1/F2 stay in the front matter
 $body$
 \backmatter
 \printbibliography[title={Works cited}]

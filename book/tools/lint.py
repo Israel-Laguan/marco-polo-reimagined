@@ -305,6 +305,23 @@ def c_scaffolding(doc, ctx):
                 yield "error", i + 1, f"scaffolding: “{m.group(0)[:40]}”"
 
 
+def c_captions(doc, ctx):
+    """BLD.T6: the caption goes in the image brackets (markdown-conventions.md), not a *Caption:* paragraph."""
+    prev = ""
+    for i, l in enumerate(doc.lines):
+        if l.startswith("*Caption:*") and prev.startswith("!["):
+            yield "error", i + 1, "caption goes in the image brackets, not a *Caption:* paragraph"
+        prev = l.strip() or prev
+
+
+def c_headings(doc, ctx):
+    """BLD.T6: first two headings are `# Chapter …` / `# Front Matter …` / `# Back Matter …` + `## Title`."""
+    hs = [(i + 1, l) for i, l in enumerate(doc.lines) if l.startswith("#")][:2]
+    if not (len(hs) == 2 and re.match(r"# (Chapter|Front Matter|Back Matter) \S", hs[0][1])
+            and re.match(r"## \S", hs[1][1])):
+        yield "warning", hs[0][0] if hs else None, "first two headings should be `# Chapter|Front Matter|Back Matter …` + `## Title`"
+
+
 def c_citations(doc, ctx):
     if not doc.has_notes:
         return
@@ -434,11 +451,11 @@ def c_name_policy(doc, ctx):
 
 
 ALL = ("verbatim first_person archaism you_must_know budgets asides quotes quote_verify recaps openers "
-       "length sentence scaffolding citations markers tags ramusio names name_policy").split()
+       "length sentence scaffolding citations markers tags ramusio names name_policy captions headings").split()
 PROFILES = {
     "narrative": ALL,
-    "essay": "verbatim first_person archaism you_must_know quote_verify length sentence scaffolding citations markers tags names".split(),
-    "frontback": "verbatim first_person archaism you_must_know quote_verify length scaffolding citations markers tags names".split(),
+    "essay": "verbatim first_person archaism you_must_know quote_verify length sentence scaffolding citations markers tags names captions headings".split(),
+    "frontback": "verbatim first_person archaism you_must_know quote_verify length scaffolding citations markers tags names captions headings".split(),
 }
 
 
