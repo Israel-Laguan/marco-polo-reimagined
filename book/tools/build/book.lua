@@ -50,6 +50,32 @@ end
 
 local function is_notes(b) return b.t == 'Header' and stringify(b) == 'Notes' end
 
+-- F2 map headings travel with their figures. Fold in any legacy caption paragraph
+-- while the manuscript's F2 media tasks migrate captions into the image brackets.
+local function map_caption(figure, heading, next_block)
+  local long = figure.caption.long
+  local caption = long[1] and long[1].content or pandoc.List()
+  local consumed = 0
+  if next_block and next_block.t == 'Para' then
+    local lead = next_block.content[1]
+    if lead and lead.t == 'Emph' and stringify(lead) == 'Caption:' then
+      caption = next_block.content:clone()
+      caption:remove(1)
+      if caption[1] and caption[1].t == 'Space' then caption:remove(1) end
+      consumed = 1
+    end
+  end
+  if heading then
+    local titled = pandoc.List({ pandoc.Strong(heading.content), pandoc.Str('.'), pandoc.Space() })
+    titled:extend(caption)
+    caption = titled
+    if figure.identifier == '' then figure.identifier = heading.identifier end
+  end
+  long[1] = pandoc.Plain(caption)
+  figure.caption.long = long
+  return consumed
+end
+
 -- Real file type and pixel width from the header (the extension is not trusted).
 local function sniff(path)
   local f = io.open(path, 'rb'); if not f then return nil end
@@ -150,7 +176,7 @@ end
 local function Pandoc(doc)
   local out, blocks = pandoc.List(), doc.blocks
   local put = function(x) out:insert(x:walk({ Inlines = Inlines })) end
-  local in_notes, first_rule = false, false
+  local in_notes, first_rule, front_maps = false, false, false
   local function close_notes()
     if in_notes then put(raw('\\end{chapternotes}')); in_notes = false end
   end
@@ -158,16 +184,28 @@ local function Pandoc(doc)
   while i <= #blocks do
     local b = blocks[i]
     if b.t == 'Header' and b.level == 1 then
-      -- "# Chapter II-2" + "## Title" -> \bookchapter{II-2}{Title}; front/back/test heads print no label
+      -- Chapter label, full title and optional short running head.
       close_notes(); chap = chap + 1; first_rule = true
-      local label = stringify(b.content):match('^Chapter%s+(.+)$') or ''
+      local label_text = stringify(b.content)
+      local label = label_text:match('^Chapter%s+(.+)$') or ''
+      front_maps = label_text:match('^Front Matter [IVX]+%-2$') ~= nil
       if label ~= '' and not main then put(raw('\\mainmatter')); main = true end
-      local title = b.content
+      local title = b
       local nxt = blocks[i + 1]
-      if nxt and nxt.t == 'Header' and nxt.level == 2 and not is_notes(nxt) then title = nxt.content; i = i + 1 end
+      if nxt and nxt.t == 'Header' and nxt.level == 2 and not is_notes(nxt) then title = nxt; i = i + 1 end
       local il = pandoc.List({ rawi('\\bookchapter{' .. label .. '}{') })
-      il:extend(title); il:insert(rawi('}'))
+      il:extend(title.content); il:insert(rawi('}{'))
+      local short = title.attributes.short
+      if short and short ~= '' then il:insert(pandoc.Str(short)) end
+      il:insert(rawi('}'))
       put(pandoc.Plain(il))
+    elseif front_maps and b.t == 'Header' and b.level == 3 and blocks[i + 1] and blocks[i + 1].t == 'Figure' then
+      local figure = blocks[i + 1]
+      i = i + 1 + map_caption(figure, b, blocks[i + 2])
+      put(figure)
+    elseif front_maps and b.t == 'Figure' then
+      i = i + map_caption(b, nil, blocks[i + 1])
+      put(b)
     elseif is_notes(b) then
       close_notes(); in_notes = true
       put(raw('\\notesheading\n\\begin{chapternotes}'))

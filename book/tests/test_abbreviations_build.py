@@ -1,4 +1,4 @@
-"""Exercise the reader-facing abbreviation page through the print pipeline."""
+"""Exercise front matter, running heads and figure numbering in print."""
 
 import re
 import subprocess
@@ -11,21 +11,27 @@ BOOK = Path(__file__).resolve().parents[1]
 
 
 class AbbreviationsBuildTest(unittest.TestCase):
-    def test_explains_locator_before_main_text(self):
+    def test_contents_running_heads_and_plate_captions(self):
         with tempfile.TemporaryDirectory() as directory:
             output = Path(directory)
             source = output / "fixture.md"
             source.write_text(
-                "# Chapter 1\n\n## Fixture\n\n"
+                "# Front Matter II-2\n\n## Map guide\n\n"
+                "### Heading for the map\n\n"
+                "![Old alt text](../media/maps/A1-series-overview.svg)\n\n"
+                "*Caption:* Expanded caption with *credit*.\n\n"
+                "# Chapter II-1\n\n## Fixture title {short=\"Routes & ports\"}\n\n"
                 "Main text cites the source [@yc, 1.61] and the addenda "
-                "[@ycadd, on 2.23].\n",
+                "[@ycadd, on 2.23].\n\n"
+                "![A second plate](../media/maps/A16-cocachin-return.svg)\n\n"
+                + "The fixture continues to a second page.\n\n" * 40,
                 encoding="utf-8",
             )
             subprocess.run(
                 ["pandoc", str(source), "-f", "markdown-subscript-superscript", "-t", "latex",
                  "--template", "tools/build/book.latex", "--lua-filter", "tools/build/book.lua",
                  "--top-level-division=chapter", "--biblatex", "--bibliography",
-                 "plans/registry/bibliography.bib", "-o", str(output / "fixture.tex")],
+                 "plans/registry/bibliography.bib", "-M", "volume-id=II", "-o", str(output / "fixture.tex")],
                 cwd=BOOK, check=True, capture_output=True, text=True,
             )
             subprocess.run(
@@ -47,6 +53,17 @@ class AbbreviationsBuildTest(unittest.TestCase):
             self.assertIn("YC Add.", front_matter)
             self.assertIn("1903", front_matter)
             self.assertIn("1920", front_matter)
+            self.assertIn("Plate II.1: Heading for the map. Expanded caption with credit.", text)
+            self.assertIn("Plate II.2: A second plate", text)
+            self.assertNotIn("Old alt text", text)
+            self.assertIn("Routes & ports", text)
+            self.assertIn(r"\bookchapter{II-1}{Fixture title}{Routes \& ports}",
+                          (output / "fixture.tex").read_text())
+            toc = (output / "fixture.toc").read_text()
+            entries = re.findall(r"\\contentsline \{chapter\}\{(.*?)\}\{.*?\}\{(.*?)\}", toc)
+            self.assertEqual([title for title, _ in entries],
+                             ["Abbreviations", "Map guide", r"II-1\hskip 1em\relax Fixture title", "Works cited"])
+            self.assertEqual(len({anchor for _, anchor in entries}), len(entries))
 
 
 if __name__ == "__main__":

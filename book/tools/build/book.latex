@@ -39,14 +39,33 @@ $for(bibliography)$
 $endfor$
 
 \usepackage[hidelinks]{hyperref}
+\counterwithout{figure}{chapter}
+\renewcommand\figurename{Plate}
+\renewcommand\figureautorefname{Plate}
+$if(volume-id)$
+\renewcommand\thefigure{$volume-id$.\arabic{figure}}
+$endif$
 \setcounter{secnumdepth}{-1}
 \setcounter{tocdepth}{0}
 \pagestyle{myheadings}
-\usepackage[fit]{truncate} % long chapter titles: running head ends in an ellipsis
+\usepackage[fit]{truncate}
 
 % ---- conventions (see plans/registry/markdown-conventions.md) ----
-% # Chapter II-2 + ## Title
-\newcommand\bookchapter[2]{\cleardoublepage\thispagestyle{plain}\markboth{\truncate{0.85\textwidth}{#2}}{\truncate{0.85\textwidth}{#2}}%
+% # Chapter II-2 + ## Title {short="…"}
+\newsavebox\bookheadbox
+\newcommand\bookrunninghead[2]{%
+  \sbox\bookheadbox{\normalfont\slshape #2}%
+  \ifdim\wd\bookheadbox>0.85\textwidth
+    \if\relax\detokenize{#1}\relax
+      \markboth{\truncate{0.85\textwidth}{#2}}{\truncate{0.85\textwidth}{#2}}%
+    \else
+      \markboth{Chapter #1}{Chapter #1}%
+    \fi
+  \else
+    \markboth{#2}{#2}%
+  \fi}
+\newcommand\bookchapter[3]{\cleardoublepage\thispagestyle{plain}\phantomsection%
+  \if\relax\detokenize{#3}\relax\bookrunninghead{#1}{#2}\else\bookrunninghead{#1}{#3}\fi
   \vspace*{3\baselineskip}%
   \if\relax\detokenize{#1}\relax\else{\centering\scshape Chapter #1\par}\vspace{0.6\baselineskip}\fi
   {\centering\LARGE #2\par}\vspace{2\baselineskip}%
@@ -78,8 +97,9 @@ $endfor$
 \newcommand\mk[1]{{\markerfont\char#1}}
 
 % Put the reader's locator key inside the heading of the generated shorthand list. Same prose as abbreviations.md (HTML/EPUB).
+\newcommand\bookmatterheading[1]{\chapter*{#1}\addcontentsline{toc}{chapter}{#1}\markboth{#1}{#1}}
 \defbibheading{abbreviations}[Abbreviations]{%
-  \chapter*{#1}%
+  \bookmatterheading{#1}%
   \textbf{YC} refers to Henry Yule's translation of Marco Polo, third edition,
   revised by Henri Cordier (1903). \textbf{YC Add.} refers to Cordier's
   \emph{Notes and Addenda} (1920). The Project Gutenberg editions are the copies
@@ -90,6 +110,7 @@ $endfor$
   followed by a number refers to Yule's note to that chapter; \textbf{Intro. §}
   refers to a section of his Introduction.\par\medskip
 }
+\defbibheading{workscited}[Works cited]{\bookmatterheading{#1}}
 
 \begin{document}
 \frontmatter
@@ -104,5 +125,5 @@ $endif$
 % \mainmatter comes from book.lua, before the first # Chapter: F1/F2 stay in the front matter
 $body$
 \backmatter
-\printbibliography[title={Works cited}]
+\printbibliography[heading=workscited]
 \end{document}

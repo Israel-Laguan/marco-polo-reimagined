@@ -31,7 +31,7 @@ case "$1" in vol[123])
   set -- "$1" vol-$n/front-*.md vol-$n/ch-*.md vol-$n/back-*.md
   vtitle=$(sed -n "s/^# VOLUME $r — //p" outline-volumes.md)
   series=$(sed -n 's/^\*\*Working title (series):\*\* \*\(.*\)\*$/\1/p' outline-volumes.md)
-  meta="volume=Volume $r|title=$vtitle|series=$series";;
+  meta="volume=Volume $r|volume-id=$r|title=$vtitle|series=$series";;
 esac
 name=$1; shift
 mkdir -p build
