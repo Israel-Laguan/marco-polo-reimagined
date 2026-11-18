@@ -18,6 +18,8 @@ class ComparandaTest(unittest.TestCase):
         self.assertEqual(verdict("The kingdom of Cathay is considered the richest and most noble realm in the world"), "found")
         self.assertEqual(verdict("The kingdom of Cathay is considered … no one has visited all of them"), "found")
         self.assertEqual(verdict("no one has visited all of them … The kingdom of Cathay is considered"), "not-found")
+        self.assertEqual(verdict("The kingdom of Cathay is considered … the richest"), "found")
+        self.assertEqual(verdict("The kingdom of Cathay is considered … banana empire"), "not-found")
 
     def test_other_author_editor_or_yule_never_passes(self):
         colophon = verdict("first wrote down this book in French, as the aforementioned Brother Haiton dictated it")
@@ -38,7 +40,7 @@ class ComparandaTest(unittest.TestCase):
         self.assertNotEqual(verdict("in saecula saeculorum Amen Here ends the book Flower of Histories"), "found")
 
     def test_unmapped_uncleared_unknown_are_refused(self):
-        self.assertEqual(verdict("any words at all here", "odoric"), "unmapped")
+        self.assertEqual(verdict("any words at all here", "ibnbattuta"), "unmapped")
         self.assertEqual(verdict("any words at all here", "akhbar"), "not-cleared")
         self.assertEqual(verdict("any words at all here", "nobody"), "unknown")
 
@@ -63,6 +65,18 @@ class ComparandaTest(unittest.TestCase):
         result, detail = comparanda.find("they placed a gilded seat in their midst", "carpini")
         self.assertEqual(result, "wrong-source")
         self.assertIn("Rockhill, note to p. 21", detail)
+
+    def test_odoric_distinguishes_champa_translation_from_editorial_comparison(self):
+        self.assertEqual(verdict("a good two hundred children", "odoric"), "found")
+        result, detail = comparanda.find("Above is Paradise, but Su-chau and Hang-chau are here below", "odoric")
+        self.assertEqual(result, "wrong-source")
+        self.assertIn("notes on p. 192", detail)
+
+    def test_wassaf_distinguishes_maabar_translation_from_footnote(self):
+        self.assertEqual(verdict("so situated as to be the key of Hind", "wassaf"), "found")
+        result, detail = comparanda.find("was a common name among the Pandya Dynasty", "wassaf")
+        self.assertEqual(result, "wrong-source")
+        self.assertIn("Elliot and Dowson", detail)
 
     def test_scan_syntax(self):
         m = comparanda.SPAN.search("He wrote [“The kingdom of Cathay is considered the richest”]{src=hayton} once.")

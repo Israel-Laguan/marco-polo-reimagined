@@ -69,13 +69,25 @@ SOURCES = {
                     ("editor", "Rockhill, note to p. 38", 4954, 4954),
                 ]},
     "odoric": {"file": "odoric-yule-cordier-1913.txt", "witness": "Odoric (tr. Yule)", "cleared": True,
-               "segments": None},
+               "partial": True,
+               "segments": [
+                   ("author", "Odoric, p. 164", 9016, 9020),
+                   ("author", "Odoric, p. 164", 9024, 9030),
+                   ("editor", "Yule and Cordier, notes to p. 164", 9032, 9069),
+                   ("author", "Odoric, p. 192", 10660, 10661),
+                   ("editor", "Yule and Cordier, notes on p. 192", 10663, 10713),
+               ]},
     "ibnbattuta": {"file": "ibn-battuta-lee-1829.txt", "witness": "Ibn Battuta (tr. Lee)", "cleared": True,
                    "segments": None},
     "rashid": {"file": "cathay-missions-rashid-yule-cordier-1914.txt", "witness": "Rashid al-Din (Cathay III)",
                "cleared": True, "segments": None},  # same volume: Montecorvino, Andrew of Perugia
     "wassaf": {"file": "wassaf-elliot-dowson-1871.txt", "witness": "Wassaf (Elliot–Dowson III)", "cleared": True,
-               "segments": None},
+               "partial": True,
+               "segments": [
+                   ("author", "Wassaf, p. 32", 1856, 1863),
+                   ("author", "Wassaf, p. 32", 1867, 1888),
+                   ("editor", "Elliot and Dowson, notes to p. 32", 1890, 1898),
+               ]},
     "zhaorugua": {"file": "zhao-rugua-hirth-rockhill-1911.txt", "witness": "Zhao Rugua (tr. Hirth–Rockhill)",
                   "cleared": True, "segments": None},
     "akhbar": {"file": "akhbar-renaudot-1733.txt", "witness": "Akhbar al-Sin wa'l-Hind (1733)", "cleared": False,
@@ -96,7 +108,9 @@ def _segments(name):
 def _parts(quote, min_words):
     quote = re.sub(r"\[[^\]]*\]", " ", quote)  # editorial [insertions], as yule.find_quote
     parts = [yule.norm(p) for p in re.split(r"…|\.\.\.", quote)]
-    return [" " + " ".join(p) + " " for p in parts if len(p) >= min_words]
+    if all(len(p) < min_words for p in parts):
+        return []
+    return [" " + " ".join(p) + " " for p in parts if p]
 
 
 def _in_order(parts, text):
@@ -105,7 +119,7 @@ def _in_order(parts, text):
         pos = text.find(p, pos)
         if pos < 0:
             return False
-        pos += len(p)
+        pos += len(p) - 1  # adjacent parts share one word-boundary space
     return True
 
 
@@ -145,14 +159,15 @@ def find(quote, source, min_words=4):
 
 
 def scan(paths):
-    bad = 0
+    checked = bad = 0
     for path in paths:
         for ln, line in enumerate(Path(path).read_text(encoding="utf-8").split("\n"), 1):
             for m in SPAN.finditer(line):
                 verdict, detail = find(m.group(1), m.group(2))
+                checked += 1
                 bad += verdict != "found"
                 print(f"{path}:{ln}  {m.group(2)}  {verdict}  {detail}")
-    return bad
+    return checked, bad
 
 
 def main(argv):
@@ -165,7 +180,8 @@ def main(argv):
             print(f"{n:11} {s['witness']:40} {s['file']:45} {state}")
     elif argv[:1] == ["--scan"]:
         files = argv[1:] or sorted(str(p) for p in yule.BOOK.glob("vol-*/*.md"))
-        print(f"{scan(files)} unresolved")
+        checked, bad = scan(files)
+        print(f"{checked} tagged quotations, {bad} unresolved")
     elif len(argv) == 2:
         verdict, detail = find(argv[1], argv[0])
         print(f"{verdict}: {detail}")

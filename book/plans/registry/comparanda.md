@@ -87,7 +87,9 @@ This covers the requested witnesses and actual Note sites where they occur, rath
 | Hayton (Bedrosian) | 1–548 Bedrosian front matter; 549–2607 Hayton; 2608–end Nicholas Falcon's colophon | live |
 | Rubruck (Rockhill 1900) | pp. 55, 66–67, 85, 207–209: translation and footnote blocks separated page by page | live, partial |
 | Carpini (Rockhill 1900) | pp. 18–23: translation and footnote blocks separated; p. 38: narrative derived from Benedict the Pole and Rockhill's note separated | live, partial |
-| Odoric (1913); Ibn Battuta (Lee); Rashid / Montecorvino / Andrew (Cathay III); Wassaf; Zhao Rugua | the editors' footnotes are interleaved with the translation; several volumes contain multiple authors | refused (`unmapped`) until passages are mapped against the scans |
+| Odoric (1913) | pp. 164 and 192: selected Champa and Cansay translation passages and the notes below them | live, partial |
+| Wassaf (Elliot and Dowson 1871) | p. 32: Maabar translation and the notes below it | live, partial |
+| Ibn Battuta (Lee); Rashid / Montecorvino / Andrew (Cathay III); Zhao Rugua | the editors' footnotes are interleaved with the translation; several volumes contain multiple authors | refused (`unmapped`) until passages are mapped against the scans |
 | *Ancient Accounts* (1733) | none | refused (`not-cleared`) until translation rights are checked |
 
 Rockhill page numbers here are the printed page numbers. The exact OCR line ranges are in `tools/comparanda.py` and were checked against [the page images of the same scan](https://archive.org/details/journeywilliamr01ruysgoog). Unchecked passages and page boundaries are outside these partial maps. The first page of Carpini includes details supplied from Benedict, an example of why the full chapter range cannot be used as author text.
@@ -95,3 +97,15 @@ Rockhill page numbers here are the printed page numbers. The exact OCR line rang
 **Manuscript syntax, adopted 2026-11-18:** use a bracketed span naming the source, `[“quoted words”]{src=hayton}`, and a normal `[@key, locator]` to the edition quoted. The reader sees the quotation and citation. See [Markdown conventions](markdown-conventions.md) for epigraphs and the scan command.
 
 **Migration path:** map the passages used before tagging them in each chapter's `.T4`. `python3 tools/comparanda.py --scan` reports tagged spans for review. The first scan found zero tagged quotations. A blocking check can follow when the tagged scan is clean and the maps cover every quoted passage. The Yule-only `quote_verify` check and 7-gram verbatim metric retain their existing scope.
+
+### Quotation worklist for chapter review (2026-11-18)
+
+A screen of 528 double-quoted candidates in the 49 manuscript files turned up the following passages for the S-19 quotation lookup. The three epigraphs credited to non-Polo authors all name Yule–Cordier as their immediate source. The manuscript scan still has zero tagged quotations. Both proposed tags below passed in a separate fixture.
+
+| Manuscript location | Scan finding and action for `.T4` |
+|---|---|
+| III-02 [5], Odoric on Champa | Expand to `[“a good two hundred children”]{src=odoric} [@yule1913cathay, vol. 2, p. 164]` if retaining a direct quote. The larger count of 326 occurs in the editors' footnote quoting Polo. [Scan, p. 164](https://archive.org/details/cathaywaythither02yule/page/n188/mode/1up) |
+| III-05 [1], Wassaf on Maabar | Expand to `[“so situated as to be the key of Hind”]{src=wassaf} [@yc, 3.16 n. 1]` if quoting through YC. Both works print the wording. Use a separate bibliography entry if citing Elliot–Dowson directly. [Scan, p. 32](https://archive.org/details/historyofindiaas03elli/page/n48/mode/1up) |
+| I-07 [6], Wassaf on the Qarāunahs | The word “goblins” is in YC 1.18 n. 4. Cite the intermediary for this wording. The checked Elliot–Dowson page treats Maabar. |
+| II-12, proverb about Su and Hang | Odoric's translation calls Cansay the City of Heaven. The proverb appears in the editorial footnote in a different translation. Keep attribution with the proverb's own source. [Scan, p. 192](https://archive.org/details/cathaywaythither02yule/page/n216/mode/1up) |
+| I-13 [4], Sa Dula's tower | The Note cites Sa Dula. Verify whether the English wording is a quoted translation or a gloss before tagging it. |
