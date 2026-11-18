@@ -76,7 +76,7 @@ Thus from Tangut’s northern gate the book has led through Caracoron’s digres
 
 [8] ✗ / ✓ / ~ Battle on Tanduc; Prester John slain; six further years; arrow-wound death at Caaju. ✗ Final Aung Khan defeat elsewhere (1203); fled, killed by Naimans. ✗ Survived ~24 years; died 1227 on Tangut campaign. ✓ / ~ Twig/cane divination type (Rubruck Nestorians). [@yc, 1.49–50]. As cited in Yule: Rubruck [@yc, 1.46].
 
-[9] ✗ Chinghis–Prester John war: chronology and Aung Khan identity badly scrambled (Yule ★). Caaju may confuse 1212 Taitongfu wound with Möngke’s death at Hochau (*Caagiu*). Comparative: Sanang Sechen; Rashid; Chinese annals. As cited in Yule: Sanang Sechen [@yc, 1.46].
+[9] ✗ Chinghis–Prester John war: chronology and Aung Khan identity badly scrambled (Yule). Caaju may confuse 1212 Taitongfu wound with Möngke’s death at Hochau (*Caagiu*). Comparative: Sanang Sechen; Rashid; Chinese annals. As cited in Yule: Sanang Sechen [@yc, 1.46].
 
 [10] ✗ Succession: Cuy → Batuy → Alacou → Mongou → Cublay. Omits Ögedei; wrongly inserts Batu and Hülegü as supreme Kaans. [@yc, 1.51].
 

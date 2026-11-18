@@ -54,7 +54,7 @@ For the great state and wonderful magnificence of the Great Lord of Lords—that
 
 [4] ✓ / ~ Cane/bamboo palace: gilt, dragon columns, split-cane roof, silk braces, demountable. ✓ Cane and tent architecture at Shangdu: Rashid’s second palace outside the town; the *Altan Tobchi*’s cane tent (via Palladius); Sa Dula’s “hundred-foot tower of palm fibre” in the upper park [@sadulashangjing]. ✗ Palladius’s match with the Chinese “Palm Hall, *Tsung tien*” [-@tao1959nancun]: that hall stood in the west garden of the Longfu Palace at Dadu [@tao1959nancun, juan 21], is named there by 1311 [@mishujianzhi, juan 5] and was rebuilt in 1324–25 [@yuanshi1370, juan 29]. ~ Ramusian ornamental fullness. [@yc, 1.61] (Ramusio fuller on columns and roofing). As cited in Yule: Palladius [@yc, 1.61].
 
-[5] ✓★★★ Engineering confirmed in spirit by Shangdu archaeology and Yuan notices—not every gilt detail, but demountable cane ceremonial architecture is no romance invention. Park-size discrepancy noted by Yule (Polo ~16 miles vs Bushell ~5 sq. miles outer enclosure). As cited in Yule: Bushell [@yc, 1.61].
+[5] ✓ Engineering confirmed in spirit by Shangdu archaeology and Yuan notices—not every gilt detail, but demountable cane ceremonial architecture is no romance invention. Park-size discrepancy noted by Yule (Polo ~16 miles vs Bushell ~5 sq. miles outer enclosure). As cited in Yule: Bushell [@yc, 1.61].
 
 [6] ✓ / ~ June–August residence for coolness; departure ~28 Aug. Moon; cane palace struck. ✓ Seasonal Shangdu sojourn (Gaubil: from 1264 Kublai left Yenking 2nd/3rd month, returned 8th; Palladius usually 4th to Shangtu, 9th back). ~ Exact lunar day. Dual capital Shangdu/Dadu is Yuan institutional fact. [@yc, 1.61]. As cited in Yule: Palladius [@yc, 1.61].
 
