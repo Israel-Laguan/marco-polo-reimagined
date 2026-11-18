@@ -76,4 +76,4 @@ Here the chapter stops short of those marches. For the present it has done what 
 
 [13] ✓ / ? Sindafu (Chengdu) ~20 miles compass; tripartite walls from three sons; Great Kaan’s conquest. ✓ Great city. ? Three-sons legend vs older administrative wards.
 
-[14] ✓ / ✗ River Kian-suy (Min Jiang system joining Yangtze); shipping like a sea; roofed stone bridge; morning wooden shops; *Comercque*; ≥1,000 gold/day. ✓ Bridge markets and tolls strong local colour ★★; Min/Yangtze traffic. ✗ Half-mile width, 80–100 days to Ocean, and daily thousand gold as theatre. Sindafu: visited.
+[14] ✓ / ✗ River Kian-suy (Min Jiang system joining Yangtze); shipping like a sea; roofed stone bridge; morning wooden shops; *Comercque*; ≥1,000 gold/day. ✓ Bridge markets and tolls strong local colour; Min/Yangtze traffic. ✗ Half-mile width, 80–100 days to Ocean, and daily thousand gold as theatre. Sindafu: visited.
