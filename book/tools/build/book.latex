@@ -125,5 +125,6 @@ $endif$
 % \mainmatter comes from book.lua, before the first # Chapter: F1/F2 stay in the front matter
 $body$
 \backmatter
-\printbibliography[heading=workscited]
+% Ragged-right setting leaves room for the long CJK titles in Works cited.
+{\raggedright\printbibliography[heading=workscited]}
 \end{document}
