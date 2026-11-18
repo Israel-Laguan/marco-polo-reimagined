@@ -8,9 +8,9 @@ from pathlib import Path
 BOOK = Path(__file__).resolve().parents[1]
 
 
-def render(md):
+def render(md, format="plain"):
     out = subprocess.run(
-        ["pandoc", "-f", "markdown", "-t", "plain", "--wrap=none", "--lua-filter", "tools/build/preview.lua",
+        ["pandoc", "-f", "markdown", "-t", format, "--wrap=none", "--lua-filter", "tools/build/preview.lua",
          "--bibliography", "plans/registry/bibliography.bib", "-M", "reference-section-title=Works cited"],
         input=md, cwd=BOOK, check=True, capture_output=True, text=True)
     return out.stdout.replace("\xa0", " "), out.stderr
@@ -37,6 +37,13 @@ class PreviewCitationTest(unittest.TestCase):
     def test_unknown_key_warns(self):
         _, err = render("A [@nosuchkey2099].\n")
         self.assertIn("not found", err)
+
+    def test_comparative_quote_prints_without_source_attribute(self):
+        text, err = render('[“Quoted words from another work”]{src=hayton} [@bedrosianhayton].\n', "html")
+        self.assertEqual(err, "")
+        self.assertIn("“Quoted words from another work”", text)
+        self.assertNotIn('src="hayton"', text)
+        self.assertIn('id="ref-bedrosianhayton"', text)
 
 
 if __name__ == "__main__":

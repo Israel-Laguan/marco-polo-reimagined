@@ -85,9 +85,13 @@ This covers the requested witnesses and actual Note sites where they occur, rath
 | Source | Segment map | Status |
 |---|---|---|
 | Hayton (Bedrosian) | 1–548 Bedrosian front matter; 549–2607 Hayton; 2608–end Nicholas Falcon's colophon | live |
-| Rubruck, Carpini (Rockhill 1900); Odoric (1913); Ibn Battuta (Lee); Rashid / Montecorvino / Andrew (Cathay III); Wassaf; Zhao Rugua | none: the OCR interleaves the editors' footnotes with the translation page by page, and several files hold more than one author | refused (`unmapped`) until someone maps the segments against the scans |
+| Rubruck (Rockhill 1900) | pp. 55, 66–67, 85, 207–209: translation and footnote blocks separated page by page | live, partial |
+| Carpini (Rockhill 1900) | pp. 18–23: translation and footnote blocks separated; p. 38: narrative derived from Benedict the Pole and Rockhill's note separated | live, partial |
+| Odoric (1913); Ibn Battuta (Lee); Rashid / Montecorvino / Andrew (Cathay III); Wassaf; Zhao Rugua | the editors' footnotes are interleaved with the translation; several volumes contain multiple authors | refused (`unmapped`) until passages are mapped against the scans |
 | *Ancient Accounts* (1733) | none | refused (`not-cleared`) until translation rights are checked |
 
-**Proposed manuscript syntax (not yet adopted):** a bracketed span naming the source, `[“quoted words”]{src=rubruck}`. Pandoc drops the attribute in every output, so the text prints as an ordinary quotation. The citation itself stays a normal `[@key, locator]` to the chosen edition.
+Rockhill page numbers here are the printed page numbers. The exact OCR line ranges are in `tools/comparanda.py` and were checked against [the page images of the same scan](https://archive.org/details/journeywilliamr01ruysgoog). Unchecked passages and page boundaries are outside these partial maps. The first page of Carpini includes details supplied from Benedict, an example of why the full chapter range cannot be used as author text.
 
-**Migration path:** (1) map segments for a source before any of its quotations are converted; (2) convert the manuscript's non-Yule quotations to the span as each chapter's `.T4` reaches them; `python3 tools/comparanda.py --scan` reports every span (report only, never blocks); (3) once the scan is clean and every source quoted has a segment map, add a lint check that errors on unresolved spans. The Yule-only `quote_verify` check, the 7-gram verbatim metric and their baselines are untouched by all of this.
+**Manuscript syntax, adopted 2026-11-18:** use a bracketed span naming the source, `[“quoted words”]{src=hayton}`, and a normal `[@key, locator]` to the edition quoted. The reader sees the quotation and citation. See [Markdown conventions](markdown-conventions.md) for epigraphs and the scan command.
+
+**Migration path:** map the passages used before tagging them in each chapter's `.T4`. `python3 tools/comparanda.py --scan` reports tagged spans for review. The first scan found zero tagged quotations. A blocking check can follow when the tagged scan is clean and the maps cover every quoted passage. The Yule-only `quote_verify` check and 7-gram verbatim metric retain their existing scope.

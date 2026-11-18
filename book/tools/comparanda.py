@@ -24,15 +24,50 @@ REFS = yule.REFS
 # Segments are 1-based inclusive line ranges, (role, who, first, last); last=None means end of file.
 # role "author" is the witness's own (translated) text; anything else never satisfies an attribution.
 # segments=None: not yet mapped (notes interleaved in the OCR), so lookups are refused.
+# Rockhill ranges stop at page headers and footnotes even when the translation continues.
 SOURCES = {
     "hayton": {"file": "hayton-bedrosian.txt", "witness": "Hayton (tr. Bedrosian)", "cleared": True,
                "segments": [("editor", "Bedrosian, front matter and tables", 1, 548),
                             ("author", "Hayton", 549, 2607),
                             ("other", "Nicholas Falcon, colophon", 2608, None)]},
     "rubruck": {"file": "rubruck-rockhill-1900.txt", "witness": "Rubruck (tr. Rockhill)", "cleared": True,
-                "segments": None},  # also holds Carpini's journey and Rockhill's footnotes
+                "partial": True,
+                "segments": [
+                    ("author", "Rubruck, p. 55", 5821, 5835),
+                    ("editor", "Rockhill, notes to p. 55", 5839, 5875),
+                    ("author", "Rubruck, p. 66", 6436, 6455),
+                    ("editor", "Rockhill, notes to p. 66", 6459, 6481),
+                    ("author", "Rubruck, p. 67", 6487, 6508),
+                    ("editor", "Rockhill, notes to p. 67", 6512, 6533),
+                    ("author", "Rubruck, p. 85", 7461, 7479),
+                    ("editor", "Rockhill, notes to p. 85", 7483, 7507),
+                    ("author", "Rubruck, p. 207", 13698, 13706),
+                    ("author", "Rubruck, p. 207", 13711, 13732),
+                    ("editor", "Rockhill, note to p. 207", 13734, 13736),
+                    ("author", "Rubruck, p. 208", 13742, 13772),
+                    ("editor", "Rockhill, notes to p. 208", 13774, 13779),
+                    ("author", "Rubruck, p. 209", 13785, 13786),
+                    ("editor", "Rockhill, continued note on p. 209", 13790, 13840),
+                ]},
     "carpini": {"file": "rubruck-rockhill-1900.txt", "witness": "Carpini (tr. Rockhill)", "cleared": True,
-                "segments": None},
+                "partial": True,
+                "segments": [
+                    ("author", "Carpini, p. 18", 3979, 4000),
+                    ("author", "Carpini, p. 18", 4009, 4013),
+                    ("editor", "Rockhill, notes to p. 18", 4017, 4020),
+                    ("author", "Carpini, p. 19", 4026, 4056),
+                    ("editor", "Rockhill, notes to p. 19", 4060, 4065),
+                    ("author", "Carpini, p. 20", 4073, 4101),
+                    ("editor", "Rockhill, notes to p. 20", 4103, 4114),
+                    ("author", "Carpini, p. 21", 4120, 4132),
+                    ("editor", "Rockhill, note to p. 21", 4136, 4171),
+                    ("author", "Carpini, p. 22", 4177, 4200),
+                    ("editor", "Rockhill, notes to p. 22", 4204, 4218),
+                    ("author", "Carpini, p. 23", 4224, 4251),
+                    ("editor", "Rockhill, notes to p. 23", 4255, 4267),
+                    ("other", "Narrative from Benedict the Pole, p. 38", 4918, 4952),
+                    ("editor", "Rockhill, note to p. 38", 4954, 4954),
+                ]},
     "odoric": {"file": "odoric-yule-cordier-1913.txt", "witness": "Odoric (tr. Yule)", "cleared": True,
                "segments": None},
     "ibnbattuta": {"file": "ibn-battuta-lee-1829.txt", "witness": "Ibn Battuta (tr. Lee)", "cleared": True,
@@ -46,7 +81,7 @@ SOURCES = {
     "akhbar": {"file": "akhbar-renaudot-1733.txt", "witness": "Akhbar al-Sin wa'l-Hind (1733)", "cleared": False,
                "segments": None},  # excluded until translation rights are checked (BLD.T10)
 }
-SPAN = re.compile(r"\[[“\"]([^\]]+?)[”\"]\]\{src=([a-z]+)\}")
+SPAN = re.compile(r'\[[“"]((?:[^\[\]\n]|\[[^\[\]\n]*\])+?)[”"]\]\{src=([a-z][a-z0-9_-]*)\}')
 
 
 @lru_cache(maxsize=None)
@@ -103,6 +138,8 @@ def find(quote, source, min_words=4):
         if p not in authored:
             cov = sum(x in have for x in g) / len(g)
             kind = "misquoted or OCR" if cov >= 0.5 else "not in this source"
+            if cov < 0.5 and s.get("partial"):
+                kind = "not in the checked passages"
             return "not-found", f"{kind} ({cov:.0%} of 5-grams match): “{p.strip()[:50]}”"
     return "not-found", "parts found, but not in order within one segment"
 
@@ -123,6 +160,8 @@ def main(argv):
         for n, s in SOURCES.items():
             state = ("not cleared" if not s["cleared"] else "unmapped" if s["segments"] is None
                      else f"{len(s['segments'])} segments")
+            if s.get("partial"):
+                state += " (partial)"
             print(f"{n:11} {s['witness']:40} {s['file']:45} {state}")
     elif argv[:1] == ["--scan"]:
         files = argv[1:] or sorted(str(p) for p in yule.BOOK.glob("vol-*/*.md"))

@@ -76,4 +76,13 @@ local function Pandoc(doc)
   return pandoc.utils.citeproc(doc):walk({ Div = lead })
 end
 
-return { { Cite = Cite }, { Pandoc = Pandoc } }
+local function Span(span)
+  -- The manuscript's comparative quotation source is for tools/comparanda.py.
+  -- A literal src attribute on an HTML span is invalid in the EPUB output.
+  if span.attributes.src then
+    span.attributes.src = nil
+    return span
+  end
+end
+
+return { { Cite = Cite, Span = Span }, { Pandoc = Pandoc } }

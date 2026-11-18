@@ -21,6 +21,7 @@ From `book/`, run `tools/build/build.sh` for the S-08 sample or `tools/build/bui
 | Notes | `## Notes`, then one paragraph per Note opening `[n] ` + marker | numbered list in small type at the chapter's end (endnotes per chapter) | yes (`citations`, `markers`) |
 | Markers | ✓ ~ ✗ ◇ ? as **separate words** (`✓ / ~`, never `✓/~`); approximations as "about", never `~60` | DejaVu Sans glyphs; `~` prints as ∼ | yes (`markers`) |
 | Source citation | Pandoc keys, S-24 forms: `[@yc, 2.8]`, `Vogel [-@vogel2013marco]` | (YC 2.8), Vogel (2013); *Works cited* and *Abbreviations* generated per volume | yes (`cite_keys`) |
+| Comparative quotation | `[“quoted words”]{src=hayton}` on one Markdown line, followed by a citation to the edition actually quoted | quotation text and normal citation | `tools/comparanda.py --scan` reports matches and unresolved spans |
 | How-to-read box | `::: howto` … `:::` (Pandoc fenced div); `[3]` inside it is an example and prints unlinked | ruled box; markers as in the Notes | no |
 | Figure | `![Caption sentence. *(Credit line.)*](../media/<dir>/<file>)` alone in its paragraph. Put the caption in the brackets | float with a numbered caption, e.g. `Plate II.4` | `captions` error for a separate `*Caption:*` paragraph |
 | Figure file | path from the chapter: `../media/…`. Vector art: put `x.pdf` beside `x.svg`/`x.png` and keep referring to the `.svg`/`.png`; the build swaps in the PDF | PDF if present, else the raster | build |
@@ -30,6 +31,8 @@ From `book/`, run `tools/build/build.sh` for the S-08 sample or `tools/build/bui
 | Verdict column | a table may carry the five markers, one per cell (`✓`, `~`) | same glyphs as the Notes | no |
 | Chinese, Greek, diacritics | type the characters (相, ā, ʿ, ṭ) | Noto Serif; Noto Serif CJK for Chinese | no |
 | Inline styles | `*italic*`, `**bold**` only; no raw LaTeX, no HTML, no `~sub~` or `^sup^` | as written | no |
+
+For non-Yule quotations, use a source ID from `python3 tools/comparanda.py --list` and confirm the exact wording against the scan of that edition. Run `python3 tools/comparanda.py --scan` from `book/` after tagging. A partial map covers only the passages listed in `comparanda.md`. For an epigraph, retain the credit line and put the span on its quotation line. The existing Yule-only epigraph lint still runs, so check both reports during the migration.
 
 ## Not allowed (the filter cannot see it)
 

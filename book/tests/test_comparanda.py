@@ -38,13 +38,37 @@ class ComparandaTest(unittest.TestCase):
         self.assertNotEqual(verdict("in saecula saeculorum Amen Here ends the book Flower of Histories"), "found")
 
     def test_unmapped_uncleared_unknown_are_refused(self):
-        self.assertEqual(verdict("a silver tree with four pipes", "rubruck"), "unmapped")
+        self.assertEqual(verdict("any words at all here", "odoric"), "unmapped")
         self.assertEqual(verdict("any words at all here", "akhbar"), "not-cleared")
         self.assertEqual(verdict("any words at all here", "nobody"), "unknown")
+
+    def test_rubruck_only_passes_in_verified_translation(self):
+        quote = "a great silver tree, and at its roots are four lions"
+        self.assertEqual(verdict(quote, "rubruck"), "found")
+        self.assertEqual(verdict(quote, "carpini"), "wrong-source")
+        note = "Similar works of art and mechanical contrivances were often seen"
+        result, detail = comparanda.find(note, "rubruck")
+        self.assertEqual(result, "wrong-source")
+        self.assertIn("Rockhill, notes to p. 208", detail)
+        self.assertEqual(verdict("the butlers draw it … " + note, "rubruck"), "not-found")
+        self.assertEqual(verdict("the men and women Similar works of art", "rubruck"), "not-found")
+
+    def test_carpini_is_separate_from_rubruck_and_benedict(self):
+        quote = "when they began drinking mare's milk"
+        self.assertEqual(verdict(quote, "carpini"), "found")
+        self.assertEqual(verdict(quote, "rubruck"), "wrong-source")
+        result, detail = comparanda.find("four separate flights of steps led up to the platform", "carpini")
+        self.assertEqual(result, "wrong-source")
+        self.assertIn("Benedict the Pole", detail)
+        result, detail = comparanda.find("they placed a gilded seat in their midst", "carpini")
+        self.assertEqual(result, "wrong-source")
+        self.assertIn("Rockhill, note to p. 21", detail)
 
     def test_scan_syntax(self):
         m = comparanda.SPAN.search("He wrote [“The kingdom of Cathay is considered the richest”]{src=hayton} once.")
         self.assertEqual(m.groups(), ("The kingdom of Cathay is considered the richest", "hayton"))
+        m = comparanda.SPAN.search("[“The kingdom of Cathay [China] is considered the richest”]{src=hayton}")
+        self.assertEqual(verdict(*m.groups()), "found")
 
     def test_yule_only_lookup_unchanged(self):
         self.assertEqual(yule.CORPUS, ["yule-vol1.txt", "yule-vol2.txt"])
