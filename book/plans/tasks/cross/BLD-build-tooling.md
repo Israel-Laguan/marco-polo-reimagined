@@ -45,9 +45,11 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Done:** `captions` (error) and `headings` (warning) in every profile. Against the pre-change run, only the three F2 files change: I-F2 0→2 errors, II-F2 0→2, III-F2 0→1. `plans/status/lint-baseline.md` is not regenerated, so BLD.T1 must add these when it reads the baseline. Test: `tests/test_build_lint.py`.
 
 ### BLD.T7 — Text face: Noto Serif or Junicode
-- **Status:** backlog · **Depends:** user decision
+- **Status:** awaiting font choice · **Depends:** user decision
 - **Do:** S-08 set **Noto Serif** because Debian's `fonts-junicode` has no italic. If a more medieval face is wanted, install Junicode 2 from upstream (OFL; it has italics, small caps and the same diacritics) into `~/.local/share/fonts` **after the user approves the download**, switch the one `\setmainfont` line in `book.latex`, and rebuild the sample and S-09's map and timeline (they share the face).
 - **Done when:** the user has chosen, and the sample build is clean with the chosen face.
+- **Done:** Checked the 49 manuscript files and bibliography. The production font stack covers all 281 distinct non-ASCII, non-whitespace characters. Junicode 2 covers additional medieval characters such as closed insular g and double thorn, which do not occur here. The three-page proof compares Noto Serif and the installed Junicode 2.211 upright at 9, 11 and 18 pt, with a mixed setting on the third page. The Noto sample built at 36 pages with zero missing glyphs.
+- **Left:** Choose the production setting after reviewing the proof. Debian's Junicode package lacks a true italic. A full Junicode trial requires approval of upstream `Junicode_2.226.zip` (58,925,009 bytes), then sample and media rebuilds and a page-count comparison.
 
 ### BLD.T8 — Flag unresolved scholar citations
 - **Status:** partly done 2026-11-11 · **Depends:** S-24, chapter `.T4` work
