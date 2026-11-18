@@ -16,9 +16,10 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 
 ## Tasks
 ### BLD.T1 — Lint in a pre-commit hook
-- **Status:** backlog · **Depends:** S-02 ✓
+- **Status:** done 2026-11-17 · **Depends:** S-02 ✓
 - **Do:** add a pre-commit script that runs `python3 book/tools/lint.py` on the staged `book/vol-*/*.md` files. While W4 is under way, don't block commits on files whose errors are only baseline debt: block only on regressions, meaning an error count above the file's baseline in `plans/status/lint-baseline.md`, or any new scaffolding, citation or quotation error. Rebuild `tools/ramusio-manifest.json` only on purpose, never inside the hook. When `plans/registry/bibliography.bib` is staged, run `python3 book/tools/sources_index.py` and reject the commit if `plans/registry/sources.md` changes (S-12: the index is generated, never hand-edited).
 - **Done when:** a commit that adds an "Anyway" tic or a "Soft …:" label to a green file is rejected, and a commit to a still-red chapter that doesn't make it worse goes through.
+- **Done:** `tools/pre-commit` checks staged contents against the existing baseline, with F2 caption allowances of 2/2/1. A scratch clone rejected an “Anyway” aside exit, a “Soft …:” label and a stale generated source index. It accepted a red chapter with unchanged debt, the existing F2 caption debt and a regenerated staged index. Installation is documented in `tools/build/README.md` and remains opt-in for this checkout.
 
 ### BLD.T5 — Update `tools/cite_audit.py` for the S-24 forms
 - **Status:** done 2026-11-17 · **Depends:** S-24 ✓

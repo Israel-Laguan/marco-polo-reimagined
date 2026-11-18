@@ -1,0 +1,128 @@
+#!/usr/bin/env python3
+"""Check manuscript changes and the generated sources index before committing."""
+
+import json
+import re
+import subprocess
+import sys
+import tempfile
+from collections import Counter
+from pathlib import Path
+
+
+MANUSCRIPT = ":(glob)book/vol-*/*.md"
+REGISTRY = "book/plans/registry/"
+BIB = REGISTRY + "bibliography.bib"
+SOURCES = REGISTRY + "sources.md"
+BASELINE = "book/plans/status/lint-baseline.md"
+CRITICAL = {"scaffolding", "citations", "cite_keys", "roman_locators",
+            "epigraph_credit", "unkeyed_scholars", "quotes", "quote_verify"}
+CAPTION_DEBT = {
+    "vol-1/front-02-maps-outbound.md": 2,
+    "vol-2/front-02-maps-cathay-manzi.md": 2,
+    "vol-3/front-02-maps-seas-and-return.md": 1,
+}
+
+
+def git(root, *args, **kwargs):
+    return subprocess.run(["git", *args], cwd=root, check=True, **kwargs).stdout
+
+
+def paths(raw):
+    return [p for p in raw.decode("utf-8").split("\0") if p]
+
+
+def read_baseline(path):
+    counts, issues = {}, {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        row = re.match(r"^\| (vol-[^|]+\.md) \| \w+ \| (\d+) \|", line)
+        heading = re.fullmatch(r"### (vol-.+\.md)", line)
+        issue = re.match(r"^- \*\*error\*\* (?:L\d+|—) `([^`]+)` (.+)$", line)
+        if row:
+            counts[row[1]] = int(row[2])
+        elif heading:
+            file = heading[1]
+            issues[file] = Counter()
+        elif issue:
+            issues[file][issue.groups()] += 1
+    if not counts:
+        raise ValueError("lint baseline has no per-file rows")
+    return counts, issues
+
+
+def lint_staged(book, staged):
+    counts, issues = read_baseline(book.parent / BASELINE)
+    result = subprocess.run([sys.executable, "tools/lint.py", "--json", *staged],
+                            cwd=book, stdout=subprocess.PIPE, text=True)
+    if result.returncode not in (0, 1):
+        result.check_returncode()
+    failed = False
+    for report in json.loads(result.stdout)["files"]:
+        file = report["file"]
+        known = issues.get(file, Counter())
+        errors = Counter((i["check"], i["message"]) for i in report["issues"]
+                         if i["severity"] == "error")
+        # The checked-in baseline predates the captions rule. Count only debt
+        # still present, and stop compensating once a baseline lists captions.
+        caption_debt = 0
+        if not any(check == "captions" for check, _ in known):
+            caption_count = sum(n for (check, _), n in errors.items() if check == "captions")
+            caption_debt = min(CAPTION_DEBT.get(file, 0), caption_count)
+        limit = counts.get(file, 0) + caption_debt
+        over = report["errors"] > limit
+        if over:
+            print(f"{file}: {report['errors']} error(s), baseline allowance {limit}")
+        for (check, message), n in (errors - known).items():
+            if check in CRITICAL or (over and check != "captions"):
+                print(f"  {file}: {check}: {message}" + (f" (×{n})" if n > 1 else ""))
+                failed = True
+        failed |= over
+    return failed
+
+
+def check_sources(book):
+    source = book.parent / SOURCES
+    staged = source.read_bytes() if source.exists() else None
+    subprocess.run([sys.executable, "tools/sources_index.py"], cwd=book, check=True)
+    if source.read_bytes() == staged:
+        return False
+    print("The staged sources index differs from the generated index. "
+          "Run python3 tools/sources_index.py from book/ and stage plans/registry/sources.md.")
+    return True
+
+
+def main():
+    root = Path(git(None, "rev-parse", "--show-toplevel", stdout=subprocess.PIPE,
+                    text=True).rstrip("\n"))
+    staged = paths(git(root, "diff", "--cached", "--name-only", "--no-renames", "-z",
+                       "--diff-filter=ACMT", "--", MANUSCRIPT, BIB, stdout=subprocess.PIPE))
+    # A bibliography deletion must also reach the generator and fail clearly.
+    bibliography_changed = bool(git(root, "diff", "--cached", "--name-only", "--", BIB,
+                                    stdout=subprocess.PIPE))
+    chapters = [p.removeprefix("book/") for p in staged if p != BIB]
+    if not chapters and not bibliography_changed:
+        return 0
+
+    # Materialize the index in isolation so partial staging, unstaged changes and
+    # the generator's output never leak into the check or alter the working tree.
+    specs = [*staged, ":(glob)book/tools/*.py", "book/tools/ramusio-manifest.json",
+             "book/gazetteer.csv", ":(glob)book/refs/yule-vol[12].txt", BASELINE,
+             BIB, REGISTRY + "characters.yaml", REGISTRY + "name-keys.csv"]
+    if bibliography_changed:
+        specs.extend([MANUSCRIPT, SOURCES])
+    snapshot = git(root, "ls-files", "-z", "--", *specs, stdout=subprocess.PIPE)
+    with tempfile.TemporaryDirectory(prefix="book-pre-commit-") as tmp:
+        git(root, "checkout-index", "--ignore-skip-worktree-bits", f"--prefix={tmp}/",
+            "--stdin", "-z", input=snapshot)
+        book = Path(tmp) / "book"
+        failed = lint_staged(book, chapters) if chapters else False
+        if bibliography_changed:
+            failed |= check_sources(book)
+    return int(failed)
+
+
+if __name__ == "__main__":
+    try:
+        sys.exit(main())
+    except (OSError, ValueError, subprocess.CalledProcessError) as error:
+        sys.exit(f"Book pre-commit check could not run: {error}")
