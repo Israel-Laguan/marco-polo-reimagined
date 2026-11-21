@@ -37,7 +37,7 @@ Yet the meeting of voices was never a simple transcription. The scribe who had o
 
 Seingnors, enperaor et rois, dux et marquois, cuens, chevalers et borgiois, […] si prennés cestui livre et le feites lire
 
-BnF fr. 1116, fol. 4a, Prologue § 1. Eusebi and Burgio [-@eusebi2018devisement, p. 35], [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+BnF fr. 1116, fol. 4a, Prologue § 1. Eusebi’s critical text [-@eusebi2018devisement, p. 35], [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 :::
 
 ::: witness

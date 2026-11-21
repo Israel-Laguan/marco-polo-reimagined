@@ -4,7 +4,7 @@
 -- written here as "YC 1.61" / "YC Add. on 2.23" inside the same parentheses as any other key in
 -- the group, the keys go to nocite (Works cited still lists them), and the Abbreviations page
 -- (abbreviations.md, the same prose as book.latex) goes first. Their Works cited entries lead
--- with the siglum, "YC (Polo, Marco). 1903. …", as biblatex prints them.
+-- with the siglum, "YC (Polo, Marco, and Rustichello da Pisa). 1903. …", as biblatex prints them.
 local SIGLA = { yc = 'YC', ycadd = 'YC Add.' }
 local stringify = pandoc.utils.stringify
 local used = {}
@@ -43,7 +43,7 @@ local function Cite(el)
   return el
 end
 
--- "Polo, Marco. 1903." -> "YC (Polo, Marco). 1903."
+-- "Cordier, Henri. 1920." -> "YC Add. (Cordier, Henri). 1920."
 local function lead(div)
   local id = div.identifier:match('^ref%-(.+)$')
   local para = SIGLA[id] and div.content[1]

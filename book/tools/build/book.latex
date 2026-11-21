@@ -29,7 +29,8 @@
 \usepackage{xcolor}
 \usepackage{tcolorbox}
 
-\usepackage[authordate,backend=biber,noibid,isbn=false,doi=false,url=false]{biblatex-chicago}
+% Repeat author names in Works cited, following Chicago 18.
+\usepackage[authordate,backend=biber,noibid,isbn=false,doi=false,url=false,dashed=false]{biblatex-chicago}
 % base text: the siglum stands alone and takes its locator after a space, "(YC 2.8)",
 % "(YC Intro. § 54)", not "(YC 1903, 2.8)" (S-24)
 \AtEveryCitekey{\iffieldundef{shorthand}{}{\togglefalse{cms@los}}}
@@ -103,10 +104,11 @@ $endif$
 \newcommand\bookmatterheading[1]{\chapter*{#1}\addcontentsline{toc}{chapter}{#1}\markboth{#1}{#1}}
 \defbibheading{abbreviations}[Abbreviations]{%
   \bookmatterheading{#1}%
-  \textbf{YC} refers to Henry Yule's translation of Marco Polo, third edition,
-  revised by Henri Cordier (1903). \textbf{YC Add.} refers to Cordier's
-  \emph{Notes and Addenda} (1920). The Project Gutenberg editions are the copies
-  consulted, not the dates of the original books.\par\medskip
+  \textbf{YC} refers to Henry Yule's translation of \emph{Le Devisement dou monde},
+  third edition, revised by Henri Cordier (1903). Marco Polo recounted his travels,
+  and Rustichello da Pisa put the account into writing. \textbf{YC Add.} refers to
+  Cordier's \emph{Notes and Addenda} (1920). The copies consulted are the Project
+  Gutenberg digitizations.\par\medskip
   In a reference such as \textbf{YC 1.61}, the first number is the book and the
   second is the chapter: this is Book I, Chapter LXI in Yule's text.
   \textbf{YC Prol. 17--18} means Prologue chapters XVII--XVIII. An \textbf{n.}

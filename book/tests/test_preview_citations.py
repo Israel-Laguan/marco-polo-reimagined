@@ -22,7 +22,8 @@ class PreviewCitationTest(unittest.TestCase):
                            "D [@rossabi1988khubilai, ch. 6; @yc, 3.3].\n")
         self.assertEqual(err, "")
         for s in ("(YC 1.61)", "(YC Add. on 2.23)", "(see YC 2.8; Larner 1999, 12)",
-                  "(Rossabi 1988, ch. 6; YC 3.3)", "YC (Polo, Marco). 1903.", "YC Add. (Cordier, Henri). 1920."):
+                  "(Rossabi 1988, ch. 6; YC 3.3)", "YC (Polo, Marco, and Rustichello da Pisa). 1903.",
+                  "YC Add. (Cordier, Henri). 1920."):
             self.assertIn(s, text)
         self.assertNotIn("Polo 1903", text)
         self.assertLess(text.index("Abbreviations"), text.index("(YC 1.61)"))

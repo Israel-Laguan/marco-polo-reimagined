@@ -54,21 +54,21 @@ Thus the western run from Seilan stands in this chapter: Maabar as India the Gre
 
 ## Notes
 
-[1] ✓ Maabar = Coromandel / Maʿbar coast; India the Greater. Standard Arabic geography (Abulfeda; Wassaf: “key of Hind”). ~ ~60 miles west from Seilan — orientation compressed; ferry distance order-of-magnitude. ✓ / ~ Five royal brothers — plural Pāṇḍya/coast powers; exact “five brothers” neatness. ✓ / ? Sonder Bandi Davar = a Sundara Pāṇḍya — name match; which Sundara contested. ✗ Topographic order of Indian chapters partly dislocated (Yule). Visited. As cited in Yule: Abulfeda, Wassaf [-@hammer1856geschichte] [@yc, 3.16].
+[1] ✓ Maabar = Coromandel / Maʿbar coast; India the Greater. Abulfeda places the boundary at Cape Comorin. Waṣṣāf describes Maʿbar as the “key of Hind” [@wassaf1871tarikh, p. 32]. ~ ~60 miles west from Seilan — orientation compressed; ferry distance order-of-magnitude. ✓ / ~ Five royal brothers — plural Pāṇḍya/coast powers; exact “five brothers” neatness. ✓ / ? Sonder Bandi Davar = a Sundara Pāṇḍya — name match; which Sundara contested. ✗ Topographic order of Indian chapters partly dislocated (Yule). Visited. As cited in Yule: Abulfeda [@yc, 3.16].
 
 [2] ✓ Ramusio-only. Pearl fishery in Manar gulf; April–mid-May; 4–12 fathoms. Enduring fishery; depth correct. ✓ / ~ Bettelar as fishery rendezvous (Patlam type). ✓ / ~ Tenth to king; Abraiaman shark-charmers; day-only charm — royalty + charm office; Brahman label and night-dissolution colour. Tamul *Kaḍal-Kaṭṭi*; Tennent; still paid into British period. As cited in Yule: Tennent [@yc, 3.16].
 
 [3] ~ / ✗ [@yc, 3.16] World’s pearls largely from this fishery — major source; exclusivity overstated. ~ / ◇ Second fishery ~300 miles in Sept–Oct — plausible sheltered site; not firmly fixed.
 
-[4] ✓ Fishery account “still substantially correct” (Yule). Comparative: Wassaf; Rashid; Ibn Battuta; Tennent; pearl-fishery histories (Stewart; Pridham [-@pridham1849historical]). As cited in Yule: Wassaf [-@hammer1856geschichte], Tennent [@yc, 3.16].
+[4] ✓ Fishery account “still substantially correct” (Yule). Comparative: pearl-fishery histories (Stewart; Pridham [-@pridham1849historical]). As cited in Yule: Tennent [@yc, 3.16].
 
 [5] ✓ / ~ [@yc, 3.17] Near-nakedness; no tailor craft stressed — light dress; absolute “never a tailor” soft. ✓ / ~ Royal gem collar; 104-bead prayer cord; *Pacauta* — gem display and *japā* sound. ~ Pearl export ban; royal double-price monopoly — plausible fiscal policy.
 
 [6] ~ 104 beads for the Vaishnava rosary’s 108 — the Book’s near-miss; *Pacauta* = *Bagavā* / Bhagavat, a strong reading (Caldwell). As cited in Yule: Caldwell [@yc, 3.16].
 
-[7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ✓ / ~ Suttee and companions-in-death — corroborable, with rhetorical heat. As cited in Yule: Abu Zaid, Masʿūdī, Barbosa, Firishta [@yc, 3.17]; Wassaf [-@hammer1856geschichte] [@yc, 3.16].
+[7] ◇ / ~ ~500 wives; seizure of brother’s wife — harem scale topos; dynastic quarrel plausible. ✓ / ~ Trusty Lieges burn with the king — companions-in-death attested (Abu Zaid; Masʿūdī; Barbosa; Malabar *Amuki*). ✓ Female suttee praised — well attested in S. India. ~ / ✗ Heirs leave father’s treasure untouched — accumulation real (Wassaf; Firishta; Malik Kāfūr spoils); absolute taboo overstated. ✓ / ~ Suttee and companions-in-death — corroborable, with rhetorical heat. Waṣṣāf describes the treasury left at the ruler’s death [@wassaf1871tarikh, pp. 34–35]. As cited in Yule: Abu Zaid, Masʿūdī, Barbosa, Firishta [@yc, 3.17].
 
-[8] ✓ / ~ Gulf horse imports, prices and high mortality — Wassaf and Rashid report the trade; the precise losses are the Book’s. ◇ No horse breeding — the Book’s claim, not independently corroborated. ~ Merchants bar farriers to protect sales — economically plausible, but Polo’s own allegation. As cited in Yule: Wassaf [-@hammer1856geschichte] [@yc, 3.16].
+[8] ✓ / ~ Gulf horse imports, prices and high mortality — Waṣṣāf reports the trade and describes why imported horses deteriorated [@wassaf1871tarikh, pp. 33–34]. The precise losses are the Book’s. ◇ No horse breeding — the Book’s claim, not independently corroborated. ~ Merchants bar farriers to protect sales — economically plausible, but Polo’s own allegation. See also Yule’s comparison with Waṣṣāf [@yc, 3.16].
 
 [9] ◇ [@yc, 3.17] Boiled rice/meat feeding kills horses; blood stock produces only “weeds” in Maabar — the Book’s report. The breeding failure and its proposed causes are not independently corroborated.
 

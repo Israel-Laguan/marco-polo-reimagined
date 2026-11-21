@@ -76,7 +76,7 @@ Thus the Prologue’s arc is closed: Bolgana’s dying wish upon the Kur; Argon�
 
 [13] ~ [@yc, Prol. 18] Cocachin’s death June 1296 (Shaʿban 695 AH) — Yule’s date, citing Rashid; 1299 appears elsewhere and the Persian passage has not been checked here; brief queenship either way. Rashid: *ordu* of Tukiti Khatun given to Kukachi Khatun brought from the Kaan’s court.
 
-[14] ~ / ✗ ~600 passengers (ex. mariners); only 8 (or 18) survived — ~ catastrophic loss plausible; ✗ as precise census — rhetorical extremity. “One in ten” popular paraphrase softens the Book’s near-total loss and is not the primary-text fraction. ~ / ◇ Only Coja of three ambassadors survived (Ramusio) — possible; single-text colour. Parallel: Ghazan’s later embassy to Cathay lost chief envoys on same return route (Wassaf). As cited in Yule: Wassaf [-@hammer1856geschichte] [@yc, Prol. 18].
+[14] ~ / ✗ ~600 passengers (ex. mariners); only 8 (or 18) survived — ~ catastrophic loss plausible; ✗ as precise census — rhetorical extremity. “One in ten” popular paraphrase softens the Book’s near-total loss and is not the primary-text fraction. ~ / ◇ Only Coja of three ambassadors survived (Ramusio) — possible; single-text colour. A parallel from Waṣṣāf: two envoys in Ghazan’s later embassy died on the return from Cathay [@wassaf1871tarikh, p. 47; @yc, Prol. 18 n. 5].
 
 [15] ? / ◇ [@yc, Prol. 18] Manzi (Sung) princess as fellow charge — G.T. / Crusca only; no clear Persian match among Ghazan’s wives; likely a Sung captive raised at Khanbaliq (cf. 1276 princesses treated by Queen Jamui). ~ / ◇ Cocachin wept at parting; filial regard for the Polos — narrative pathos; consistent with long shared voyage.
 

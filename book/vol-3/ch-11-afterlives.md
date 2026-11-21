@@ -55,7 +55,7 @@ Why, then, a formal retelling now — after Catalan gold leaf, Fra Mauro’s dis
 
 [7] ✓ Columbus selectively amplified Chipangu gold and Cathay expectancy — reading pattern clear in the margins, whenever they were written. ✗ Polo “caused” the discovery of America — overstated causation; seamanship and Atlantic context primary (Portuguese African probes; Lisbon–Seville capital; portolan mind). Cross-ref III-1: Chipangu gold exaggeration as Columbus expectancy seed.
 
-[8] ✓ Print editions and Ramusio elevated Polo’s fame — 16th-c. reception. ✓ / ◇ Ramusio preserves tradition and some expansions beyond Geographic text — ✓ editorial elevation; ◇ homecoming novella as literal fact (see III-10). “The Book” becomes a family of books wearing one name (Pipino Latin; Tuscan; Venetian dialect; Ramusio Italian). As cited in Yule: Pipino [@yc, Intro. § 18].
+[8] ✓ Print editions and Ramusio’s 1559 redaction [@ramusio2015viaggi] elevated Polo’s fame in the sixteenth century. ✓ / ◇ Ramusio preserves tradition and some expansions beyond Geographic text — ✓ editorial elevation; ◇ homecoming novella as literal fact (see III-10). “The Book” becomes a family of books wearing one name (Pipino Latin; Tuscan; Venetian dialect; Ramusio Italian). As cited in Yule: Pipino [@yc, Intro. § 18].
 
 [9] ✓ Ricci identified Cathay with China before Góis’s overland mission; Góis died at Suzhou in 1607 [-@feng2006cathay; -@hosne2018cathay]. ✓ Góis crossed the Pamir late in the autumn of 1603 [@yc, 1.32]. The often-repeated claim that the Jesuits measured Polo’s silences (tea, foot-binding) against their own observation has no source found and is left out (fact sheet F-22). Mission strategy and European “we knew already” claims use the Book; experience also chastens it.
 

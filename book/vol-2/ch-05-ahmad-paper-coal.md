@@ -66,7 +66,7 @@ Here the chapter stops short of the bridge of Pulisanghin (Lugou / Marco Polo Br
 
 ## Notes
 
-[1] ✓ Ahmad (Achmath) as oppressive finance minister under Kublai. *Yuan shi* Ahama; Gaubil; De Mailla; Persian notices. Entire narrative from Ramusio—flag as Ramusio layer. Name printed *Achmach* in Ramusio; Yule restores *Achmath*. As cited in Yule: Yuan shi [@yc, 2.34]; Gaubil [-@gaubil1739histoire], De Mailla [-@demailla1777histoire] [@yc, 2.23].
+[1] ✓ Ahmad (Achmath) as oppressive finance minister under Kublai. *Yuan shi* Ahama; Gaubil; De Mailla; Persian notices. Entire narrative from Ramusio—flag as Ramusio layer. Ramusio’s version prints *Achmach* [@ramusio2015viaggi]; Yule uses *Achmath* [@yc, 2.23]. As cited in Yule: Yuan shi [@yc, 2.34]; Gaubil [-@gaubil1739histoire], De Mailla [-@demailla1777histoire] [@yc, 2.23].
 
 [2] ✓ / ~ [@yc, 2.23] ~22 years’ dominance; office-selling; forced marriages. ✓ Career span and methods broadly; ~ novelistic detail density. Five-and-twenty sons in office: round number.
 

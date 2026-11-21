@@ -62,7 +62,7 @@ The road to Chandu is still wondrous when you know which stones wobble. That is 
 
 ## Notes
 
-[1] ✓ Manuscript family typology — Benedetto [-@benedetto1928milione]; Moule–Pelliot [-@moule1938description]; Yule–Cordier introductions. Working base: Yule–Cordier, Geographic Old French lean.
+[1] ✓ Manuscript family typology — Benedetto [-@benedetto1928milione]; Moule–Pelliot [-@moule1938description]; the Yule–Cordier introductions. Yule–Cordier is our working text. For Ramusio’s 1559 Italian redaction, see the Burgio–Simion critical edition [-@ramusio2015viaggi].
 
 [2] ~ Rustichello collaboration — traditional; degree of literary shaping contested (Larner [-@larner1999marco, ch. 3]; modern textual scholarship).
 

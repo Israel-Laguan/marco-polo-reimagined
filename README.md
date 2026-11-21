@@ -1,6 +1,6 @@
 # The Book of the Million
 
-A formal retelling of Marco Polo's *Description of the World* in three volumes, based on the Yule–Cordier translation (1903), with endnotes that weigh each claim against modern scholarship, plus maps, timelines and illustrated plates.
+A three-volume retelling of *Le Devisement dou monde* (*The Description of the World*), Marco Polo's travel account as written down by Rustichello da Pisa. It follows the 1903 Yule–Cordier translation and includes endnotes, maps, timelines and illustrated plates.
 
 The first draft is complete. Fact-checking, re-voicing, apparatus and media work are in progress. For live status, see the [planning board](book/plans/README.md).
 
