@@ -1,8 +1,9 @@
-"""Gazetteer tooling (spike S-04): schema check, chapters column, name-usage report, and the lint name rule.
+"""Gazetteer tooling: schema check, chapter usage, naming lint, and place tables.
 
 usage: python3 tools/gazetteer.py check              validate gazetteer.csv (schema, enums, ranges)
        python3 tools/gazetteer.py chapters           rewrite the `chapters` column from the manuscript
        python3 tools/gazetteer.py report [--md]      name-usage diff: non-canonical forms used per chapter
+       python3 tools/gazetteer.py tables <1|2|3>     print the front-matter place tables for one volume
 
 Policy (gazetteer-readme.md): `book_name` is the Yule form the chapters use; every other spelling lives in
 `aliases`. In prose the book form is used throughout; a modern or alternate form may appear only as a gloss
@@ -12,7 +13,7 @@ import csv
 import re
 import sys
 import unicodedata
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 BOOK = Path(__file__).resolve().parent.parent
@@ -24,17 +25,37 @@ RELIABILITY = {"visited", "likely_visited", "reported_only", "uncertain", "legen
 ID_CONFIDENCE = {"firm", "probable", "disputed", "unfixed"}
 COORD_CHECK = {"wikipedia", "region", "approximate", "none"}
 
+TABLE_GROUPS = {
+    "1": (
+        "prologue and Black Sea / Volga hinge",
+        "outbound from Acre into Persia",
+        "deserts, high valleys, Tarim, Tangut, court",
+    ),
+    "2": (
+        "capital approaches and west / southwest circuit",
+        "Manzi corridor to the haven",
+        "other places in the Book",
+    ),
+    "3": (
+        "island and Southeast Asian road",
+        "India, west shores, return hinge",
+    ),
+}
+ROMAN_VOLUMES = {"1": "I", "2": "II", "3": "III"}
+
 # Rows whose chapters cannot be told apart by form alone (same book_name, different place).
 SCOPE = {
     "sinju-1": ("vol-1/",), "sinju-2": ("vol-2/",),
     "vuju-1": ("vol-2/ch-12",), "vuju-2": ("vol-2/ch-14",),
+    # The similarly named Yellow River and Sea of Azov places have no map rows.
+    "caiju": ("vol-2/ch-12",), "tana": ("vol-3/",),
 }
 # Rows whose book form and modern form are identical in practice: no first-mention gloss required.
 SKIP_GLOSS = {"venice", "genoa", "java", "aden", "acre"}
 # Region rows are labels, not places to gloss.
 SKIP_GLOSS |= {"persia", "cathay", "manzi", "turcomania", "rosia", "greater-hermenia", "lesser-hermenia", "georgiania"}
-# Appear in prose as common words or inside longer names; never count a bare match as a variant.
-NOT_A_VARIANT = {"Great Desert", "Male", "Lop"}
+# Common terms and names of distinct features that appear in their own right.
+NOT_A_VARIANT = {"Great Desert", "Male", "Lop", "Jurchen", "Calachan"}
 
 
 def load():
@@ -54,10 +75,15 @@ def form_re(form):
     return re.compile(r"(?<![\w’'-])" + re.escape(plain(form)) + r"(?![\w-])")
 
 
+def in_place_scope(row, rel):
+    prefixes = SCOPE.get(row["id"])
+    return prefixes is None or rel.startswith(prefixes)
+
+
 def chapter_id(rel):
     """vol-2/ch-12-kian-suju.md -> II-12; front-01 -> II-F1; back-01 -> II-B1."""
     vol, name = rel.split("/", 1)
-    roman = {"1": "I", "2": "II", "3": "III"}[vol[-1]]
+    roman = ROMAN_VOLUMES[vol[-1]]
     m = re.match(r"(ch|front|back)-(\d+)", name)
     kind, n = m.groups()
     tail = n if kind == "ch" else ("F" if kind == "front" else "B") + str(int(n))
@@ -65,7 +91,8 @@ def chapter_id(rel):
 
 
 def manuscript():
-    return sorted(p for p in BOOK.glob("vol-*/*.md") if p.name != "README.md")
+    return sorted(p for p in BOOK.glob("vol-*/*.md")
+                  if p.name not in {"README.md", "back-02-glossary.md"})
 
 
 def body_paras(path):
@@ -108,7 +135,7 @@ def usage(rows):
         res = {f: form_re(f) for f in forms}
         for path, ps in paras.items():
             rel = str(path.relative_to(BOOK))
-            if r["id"] in SCOPE and not any(rel.startswith(s) for s in SCOPE[r["id"]]):
+            if not in_place_scope(r, rel):
                 continue
             rec = {"canon": 0, "gloss": defaultdict(int), "bare": defaultdict(list)}
             for ln, p in ps:
@@ -130,6 +157,68 @@ def usage(rows):
 def needs_gloss(r):
     first = plain(r["modern_name"]).split(",")[0].split("(")[0].strip().lower()
     return r["id"] not in SKIP_GLOSS and r["modern_name"] and first != r["book_name"].lower()
+
+
+def place_prose(paragraph):
+    """Expose names inside Markdown emphasis while preserving their boundaries."""
+    return plain(paragraph).replace("*", " ")
+
+
+def gloss_window(text, end):
+    possessive = re.match(r"[’']s\b", text[end:])
+    if possessive:
+        end += possessive.end()
+    following = re.match(
+        r"[ \t]*\(([^()]*(?:\([^()]*\)[^()]*)*)\)"
+        r"|[ \t]*[—–][ \t]*([^.!?;—–]*)"
+        r"|[ \t]*,[ \t]*([^,.!?;—–]*)",
+        text[end:],
+    )
+    if following:
+        group = following.lastindex
+        return end + following.start(group), end + following.end(group)
+    return end, end
+
+
+def gloss_forms(row):
+    modern = re.split(r"\s*[,(/]| at ", row["modern_name"], maxsplit=1)[0].strip()
+    qualifiers = re.findall(r"\(([^()]+)\)", row["modern_name"])
+    return {form for form in [modern, *qualifiers, *aliases(row)] if form and form != row["book_name"]}
+
+
+def gloss_key(text):
+    text = unicodedata.normalize("NFD", text).replace("’", "'")
+    return "".join(c for c in text if not unicodedata.combining(c)).casefold()
+
+
+def valid_gloss(text, row):
+    key = gloss_key(text)
+    return any(form_re(gloss_key(form)).search(key) for form in gloss_forms(row))
+
+
+def book_mentions(text, name):
+    for match in form_re(name).finditer(text):
+        desert = (text[:match.start()].endswith("Desert of ")
+                  or text[match.end():].casefold().startswith(" desert"))
+        if name != "Lop" or not desert:
+            yield match
+
+
+def missing_glosses(rows, rel, paragraphs):
+    """Yield the first unglossed mention of each applicable place in a chapter."""
+    prepared = [(ln, place_prose(p)) for ln, p in paragraphs]
+    for row in rows:
+        if not in_place_scope(row, rel) or not needs_gloss(row):
+            continue
+        name = row["book_name"]
+        for ln, paragraph in prepared:
+            match = next(book_mentions(paragraph, name), None)
+            if not match:
+                continue
+            start, end = gloss_window(paragraph, match.end())
+            if not valid_gloss(paragraph[start:end], row):
+                yield ln, row
+            break
 
 
 # ---------------------------------------------------------------- lint hook
@@ -154,26 +243,100 @@ def bare_variants(p, rel=""):
     if "rows" not in _CACHE:
         _CACHE["rows"] = {r["id"]: r for r in load()}
     rows = _CACHE["rows"]
-    t = plain(p)
+    t = place_prose(p)
+    nested = None
     for alias, (book, rid) in variant_forms().items():
-        if rid in SCOPE and not any(rel.startswith(s) for s in SCOPE[rid]):
+        if not in_place_scope(rows[rid], rel):
             continue
-        r = rows[rid]
-        forms = [r["book_name"]] + aliases(r)
-        for m in form_re(alias).finditer(t):
-            if not is_gloss(t, m.start(), forms):
+        for match in bare_alias_matches(t, alias, book):
+            if nested is None:
+                nested = place_gloss_spans(t, rows.values(), rel)
+            if not any(start <= match.start() and match.end() <= end for start, end in nested):
                 yield alias, book
+
+
+def place_gloss_spans(text, rows, rel):
+    spans = []
+    for row in rows:
+        if not in_place_scope(row, rel):
+            continue
+        for match in book_mentions(text, row["book_name"]):
+            start, end = gloss_window(text, match.end())
+            if start < end and valid_gloss(text[start:end], row):
+                spans.append((start, end))
+    return spans
+
+
+def bare_alias_matches(text, alias, book):
+    matches = list(form_re(alias).finditer(text))
+    if not matches:
+        return
+    heads = list(form_re(book).finditer(text))
+    allowed = [head.span() for head in heads]
+    allowed.extend(gloss_window(text, head.end()) for head in heads)
+    for match in matches:
+        if not any(start <= match.start() and match.end() <= end for start, end in allowed):
+            yield match
 
 
 # ---------------------------------------------------------------- commands
 
+def table_group(row):
+    if row["volume"] == "1":
+        if row["leg"] == "prologue":
+            return 0
+        return 1 if int(row["sequence"]) <= 400 else 2
+    if row["volume"] == "2":
+        if row["id"] in {"rosia", "cauly", "chorcha", "cachar-modun"}:
+            return 2
+        if row["id"] == "manzi":
+            return 1
+        return 0 if int(row["sequence"]) <= 1070 else 1
+    return 0 if int(row["sequence"]) <= 1670 else 1
+
+
+def place_table_row(row):
+    # Use sentence punctuation followed by a new sentence, so "c. 1295" and
+    # lower-case abbreviations within the opening sentence survive.
+    role = re.split(r"(?<!\bc)(?<!\bvol)(?<!\bpp)(?<!\bv)\.(?=\s+[A-Z])",
+                    row["notes"], maxsplit=1)
+    fields = [row["book_name"], row["modern_name"] or "—", role[0] + ("." if len(role) > 1 else "")]
+    return "| " + " | ".join(field.replace("|", r"\|") for field in fields) + " |"
+
+
+def cmd_tables(volume):
+    rows = sorted((row for row in load() if row["volume"] == volume),
+                  key=lambda row: int(row["sequence"]))
+    blocks = []
+    for group, heading in enumerate(TABLE_GROUPS[volume]):
+        entries = [place_table_row(row) for row in rows if row["latitude"] and table_group(row) == group]
+        if entries:
+            blocks.append("\n".join([
+                f"### Place table — {heading}",
+                "",
+                f"| Book name | Modern | Role in Vol. {ROMAN_VOLUMES[volume]} |",
+                "|-----------------|-------------------------|----------------------------------------|",
+                *entries,
+            ]))
+    unfixed = [row["book_name"] for row in rows if not row["latitude"]]
+    if unfixed:
+        blocks.append("*Places without a map fix:* " + ", ".join(unfixed) + ".")
+    print("\n\n".join(blocks))
+    return 0
+
 def cmd_check():
     rows = load()
     errs = []
+    if not rows:
+        print("ERROR gazetteer is empty")
+        return 1
     if list(rows[0].keys()) != COLUMNS:
         errs.append(f"columns differ: {list(rows[0].keys())}")
     seen, seqs = set(), set()
     for r in rows:
+        if None in r or None in r.values():
+            errs.append(f"{r['id']}: wrong number of columns")
+            continue
         i = r["id"]
         if i in seen or not re.fullmatch(r"[a-z0-9-]+", i):
             errs.append(f"{i}: bad or duplicate id")
@@ -207,13 +370,14 @@ def cmd_check():
         if not r["notes"]:
             errs.append(f"{i}: empty notes")
     by_book = defaultdict(list)
-    for r in rows:
+    complete = [r for r in rows if None not in r and None not in r.values()]
+    for r in complete:
         by_book[r["book_name"]].append(r["id"])
     for b, ids in by_book.items():
         if len(ids) > 1 and not all(i[-2] == "-" and i[-1].isdigit() for i in ids):
             errs.append(f"{b}: shared by {ids} (disambiguate with -1/-2 ids)")
     forms = defaultdict(list)
-    for r in rows:
+    for r in complete:
         for f in [r["book_name"]] + aliases(r):
             if f != r["book_name"] or len(by_book[r["book_name"]]) == 1:
                 forms[f].append(r["id"])
@@ -244,28 +408,32 @@ def cmd_chapters():
 
 def cmd_report(md):
     rows = load()
-    use = usage(rows)
-    bare_total, rows_with_bare, no_gloss = 0, 0, []
+    hits = defaultdict(lambda: defaultdict(Counter))
+    no_gloss = []
+    for path in manuscript():
+        rel = str(path.relative_to(BOOK))
+        if not in_rule_scope(rel):
+            continue
+        chapter = chapter_id(rel)
+        paragraphs = body_paras(path)
+        for _, paragraph in paragraphs:
+            for alias, _ in bare_variants(paragraph, rel):
+                row_id = variant_forms()[alias][1]
+                hits[row_id][alias][chapter] += 1
+        no_gloss.extend((row["book_name"], chapter) for _, row in missing_glosses(rows, rel, paragraphs))
+
+    bare_total = 0
     lines = []
     for r in rows:
-        files = use.get(r["id"], {})
-        agg = defaultdict(list)
-        for rel, rec in files.items():
-            if not in_rule_scope(rel):
-                continue
-            for f, lns in rec["bare"].items():
-                agg[f].append((chapter_id(rel), len(lns)))
-        if agg:
-            rows_with_bare += 1
+        variants = hits.get(r["id"])
+        if variants:
             parts = []
-            for f, fs in sorted(agg.items()):
-                bare_total += sum(n for _, n in fs)
-                parts.append(f"**{f}** — " + ", ".join(f"{c} ×{n}" for c, n in sorted(fs)))
+            for form, by_chapter in sorted(variants.items()):
+                bare_total += sum(by_chapter.values())
+                parts.append(f"**{form}** — " + ", ".join(f"{c} ×{n}" for c, n in sorted(by_chapter.items())))
             lines.append((r["book_name"], r["modern_name"] or "—", "; ".join(parts)))
-        if needs_gloss(r):
-            for rel, rec in files.items():
-                if rec["canon"] and not rec["gloss"] and not rec["bare"] and in_rule_scope(rel):
-                    no_gloss.append((r["book_name"], chapter_id(rel)))
+    rows_with_bare = len(lines)
+    use = usage(rows)
     unused = [r["book_name"] for r in rows if not use.get(r["id"])]
     if md:
         print("# Name-usage diff (S-04)\n")
@@ -276,7 +444,7 @@ def cmd_report(md):
         print("## Bare variants by place\n\n| Book form | Modern | Variants used bare (chapter ×count) |\n|---|---|---|")
         for b, m, t in lines:
             print(f"| {b} | {m} | {t} |")
-        print("\n## Book forms in narrative chapters with no gloss anywhere in that chapter\n")
+        print("\n## First mentions without a gloss\n")
         g = defaultdict(list)
         for b, c in no_gloss:
             g[c].append(b)
@@ -291,13 +459,18 @@ def cmd_report(md):
 
 
 def main(argv):
-    if not argv or argv[0] not in {"check", "chapters", "report"}:
+    if not argv or argv[0] not in {"check", "chapters", "report", "tables"}:
         print(__doc__)
         return 2
     if argv[0] == "check":
         return cmd_check()
     if argv[0] == "chapters":
         return cmd_chapters()
+    if argv[0] == "tables":
+        if len(argv) != 2 or argv[1] not in TABLE_GROUPS:
+            print("usage: gazetteer.py tables <1|2|3>", file=sys.stderr)
+            return 2
+        return cmd_tables(argv[1])
     return cmd_report("--md" in argv)
 
 

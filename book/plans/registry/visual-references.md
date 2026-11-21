@@ -2,7 +2,7 @@
 
 2026-11-13. Working register, not text for the book. Raw output: [S-22-raw](../research/results/S-22-raw.md); checks: [S-22-intake](../research/results/S-22-intake.md); spike: [S-22](../spikes/S-22-media-visual-references.md).
 
-**Use rules** (adopted as `illustration-style-guide.md` rules 8–12): content, not style · no modern title, artist or character name in a prompt, and no reference image as generator input · no character likenesses · a detail from a work later than c. 1295 needs its own period source · modern frames, panels and stills are not reproduced.
+**Use rules** (adopted as `illustration-style-guide.md` rules 8–12): content, not style · no modern title, artist or character name in a prompt, and no reference image as generator input unless its manifest marks it `edit OK` (amended 2026-11-18) · no character likenesses · a detail from a work later than c. 1295 needs its own period source · modern frames, panels and stills are not reproduced.
 
 **Status words.** `confirmed` = a museum, library or publisher record was found for the object or book. `lead` = named from memory or a secondary page; find the record before use. Four objects were viewed on 2026-11-13 (see *Draft `[PERIOD]` cues*); the tables below were written before that and do not describe images.
 

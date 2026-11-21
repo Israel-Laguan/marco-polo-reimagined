@@ -30,6 +30,10 @@ GROUPS = {"polo", "venice", "church", "levant", "mongol", "yuan", "song", "ilkha
           "reception"}
 REGIONS = {"europe", "levant", "golden-horde", "central-asia", "ilkhanate", "china", "sea"}
 TRADITIONS = {"gothic", "ldm", "ilkhanid", "yuan", "song"}
+MEDIA = BOOK / "media"
+REF_KEYS = ["cue", "source", "use", "seen", "for"]
+REF_USES = {"own sheet", "edit OK", "look only", "not saved", "text"}
+ATTACHABLE = {"own sheet", "edit OK"}
 SPIKES = re.compile(r"S-\d\d")
 # Files where a person's form means something else (I-12's *Argons* are a people of Tenduc, not the Ilkhan).
 SCOPE_OUT = {"arghun": ("vol-1/ch-12",)}
@@ -100,6 +104,7 @@ def cmd_check():
         for d in c["dress"]:
             if d["from"] > d["to"]:
                 errs.append(f"card {c['id']}: dress range {d['from']}–{d['to']}")
+        errs += ref_errors(c)
     for who, legs in data["itinerary"].items():
         if who not in ids:
             errs.append(f"itinerary {who}: no such person")
@@ -120,6 +125,21 @@ def cmd_check():
     print(f"{len(people)} people, {len(data['cards'])} cards, {len(data['scenes'])} scenes, "
           f"{len(errs) + len(problems)} problems")
     return 1 if errs or problems else 0
+
+
+def ref_errors(c):
+    """CHR.T8: every card lists its references; a saved file (own sheet, edit OK, look only) must exist under media/."""
+    refs, out = c.get("references"), []
+    if not refs:
+        return [f"card {c['id']}: no references (CHR.T8)"]
+    for r in refs:
+        if list(r) != REF_KEYS:
+            out.append(f"card {c['id']}: reference keys {list(r)} != {REF_KEYS}")
+        elif r["use"] not in REF_USES:
+            out.append(f"card {c['id']}: reference use {r['use']!r}")
+        elif r["use"] in ATTACHABLE | {"look only"} and not (MEDIA / r["source"]).is_file():
+            out.append(f"card {c['id']}: reference file media/{r['source']} not found")
+    return out
 
 
 # ---------------------------------------------------------------- ages and co-presence
@@ -213,6 +233,9 @@ def cmd_cue(pid, year):
         print(f"[AVOID]  {'; '.join(card['avoid'])}")
     if not dress:
         print(f"         (no dress line covers {year}: extend the card before prompting)")
+    for r in card.get("references", []):
+        tag = "[INPUT] " if r["use"] in ATTACHABLE else "[LOOK]  "
+        print(f"{tag} {r['source']} ({r['use']}; {r['cue']}): {r['for']}")
     return 0
 
 

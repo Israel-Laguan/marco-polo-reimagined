@@ -45,6 +45,15 @@ class PreviewCitationTest(unittest.TestCase):
         self.assertNotIn('src="hayton"', text)
         self.assertIn('id="ref-bedrosianhayton"', text)
 
+    def test_glossary_has_one_visible_heading(self):
+        text, err = render(
+            '# Back Matter II-2\n## Glossary {#names-and-pronunciation}\n\n'
+            '::: glossary\n\n- [**Vuju**]{#place-vuju-1} · Huzhou.\n\n:::\n', "html")
+        self.assertEqual(err, "")
+        self.assertNotIn("Back Matter II-2", text)
+        self.assertRegex(text, r'<h1[^>]+id="names-and-pronunciation">Glossary</h1>')
+        self.assertIn('id="place-vuju-1"', text)
+
 
 if __name__ == "__main__":
     unittest.main()

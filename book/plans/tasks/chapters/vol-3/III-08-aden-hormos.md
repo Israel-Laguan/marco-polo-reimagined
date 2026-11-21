@@ -93,11 +93,11 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### III-08.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-08.T3` (re-voice renumbers Notes)
-- **Now:** 21 Notes · 7 ★ · 1 without a lead marker · tag none
+- **Now:** 21 Notes · 0 ★ · 0 without a lead marker · tag none
 - **Do:**
   - Add the missing tag line `**[M]**` under the epigraph (assigned in S-03; confirm against the chapter).
   - 7 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
-  - Notes with no lead marker: [10] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-3/ch-08-aden-hormos.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.

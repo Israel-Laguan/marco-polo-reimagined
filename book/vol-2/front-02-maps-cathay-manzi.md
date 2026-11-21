@@ -33,36 +33,83 @@ Kinsay earns its own frame because Book II’s city description is the longest u
 ### Place table — capital approaches and west / southwest circuit
 
 | Book name | Modern | Role in Vol. II |
-|-----------|--------|-----------------|
-| Pulisanghin | Lugou Bridge (Marco Polo Bridge), Beijing | Famous stone bridge on the outbound west road |
-| Juju | Zhuozhou, Hebei | South road stage from Cambaluc |
-| Tainfu | Taiyuan, Shanxi | Wine and arms country |
-| Pianfu | Linfen / Pingyang area, Shanxi | Pingyang identification usual |
-| Cachanfu | Xi’an (Chang’an), Shaanxi | Kenjanfu; Nestorians noted |
-| Sindafu | Chengdu, Sichuan | Great bridge and Sichuan commerce |
-| Tibet | Eastern Tibet / Kham | Tebet customs and musk — marches more than Lhasa |
-| Carajan (Yunnan) | Dali / Kunming region | Western Yunnan kingdom colour |
-| Yachi | Kunming, Yunnan | Usually identified with Kunming |
-| Zardandan | Baoshan / Tengchong area | “Gold-Teeth” ethnonym region |
-| Mien (Burma) | Bagan / Pagan kingdom, Myanmar | Elephant battle — largely reported |
-| Caugigu | Northern Vietnam / Tonkin region | Tentative identification (Jiaozhi links debated) |
-| Cuiju | Guizhou region | Approximate (highland geography) |
+|-----------------|-------------------------|----------------------------------------|
+| Cathay | North China (Yellow River basin) | Region; the Book's Cathay is China north of the Yangzi (the former Jin realm). |
+| Pulisanghin | Lugou (Marco Polo) Bridge, Beijing, China | Stone bridge over the Sanggan/Yongding. |
+| Juju | Zhuozhou, Hebei, China | On the south road from Cambaluc. |
+| Taianfu | Taiyuan, Shanxi, China | Wine and arms. |
+| Pianfu | Linfen (Pingyang), Shanxi, China | Often = Pingyang (Linfen). |
+| Caramoran | Yellow River at Puzhou crossing, Shanxi, China | River crossing before Cachanfu; the Mongol Black River; point approximate. |
+| Cachanfu | Puzhou (Hezhong), Yongji, Shanxi, China | Hezhong-fu / Pu-chau on the Yellow River elbow (Yule). |
+| Kenjanfu | Xi'an, Shaanxi, China | Capital of the kingdom of Kenjanfu (Mangala's appanage). |
+| Cuncun | Qinling–Hanzhong mountains, Shaanxi, China | Wearisome mountain province; the 'Pillar road'; region centroid. |
+| Acbalec Manzi | Hanzhong area, Shaanxi, China | Border of Manzi on the road to Sindafu (west circuit, not the Manzi corridor of the east); identification varies among commentators. |
+| Sindafu | Chengdu, Sichuan, China | Great bridge and commerce of Sichuan. |
+| Tebet | Eastern Tibet / Kham region | Eastern marches more than Lhasa; musk. |
+| Caindu | Xichang (Jianchang valley), Sichuan, China | Valley of the Brius; lake pearls. |
+| Brius | Jinsha River crossing, Yunnan–Sichuan, China | River on the southwestern road, usually the Jinsha, with the crossing uncertain. |
+| Carajan | Yunnan (Dali / Kunming region), China | Region; Dali and Yachi are its principal cities. |
+| Talifu | Dali, Yunnan, China | Capital of Carajan (second); lake-shore city. |
+| Yachi | Kunming, Yunnan, China | Capital of Carajan (first). |
+| Vochan | Baoshan (Yongchang), Yunnan, China | Capital of Zardandan. |
+| Zardandan | Western Yunnan (Baoshan–Tengchong), China | Ethnonym region ('Gold-Teeth'), not a single city. |
+| Mien | Bagan / Myanmar (Pagan kingdom) | Battle of the elephants against the Mongols; reported rather than visited. |
+| Caugigu | Kiang Hung (Jinghong), Yunnan, China | Reported tributary kingdom, mapped at Yule’s provisional Kiang Hung reference. |
+| Anin | Jianshui (Lin-ngan), Yunnan, China | Reported province with competing readings in southeastern Yunnan and northern Vietnam. |
+| Coloman | Guizhou / Guangxi border region, China | Reported highland province, with competing readings in western Guizhou and northeastern Yunnan. |
+| Cuiju | Guiyang area, Guizhou, China | Reported southwestern province, shown with a provisional Guiyang-area reference. |
+| Fungul | Yibin (Suifu), Sichuan, China | Argued as Phungan-lu or Siu-chau (Suifu); 12 river-days from Sindafu. |
 
 ### Place table — Manzi corridor to the haven
 
 | Book name | Modern | Role in Vol. II |
-|-----------|--------|-----------------|
-| Acbalec Manzi | Hanzhong area, Shaanxi | Border-of-Manzi marker; ID varies |
-| Ciangu | Cangzhou / Changlu area, Hebei | Salt towns on canal approaches |
-| Yangiu (Yangzhou) | Yangzhou, Jiangsu | City firm; governorship claim contested |
-| Nanghin | Nanjing, Jiangsu | On the southern urban string |
-| Saianfu | Xiangyang, Hubei | Siege and mangonel story — visit vs report debated |
-| Suju (Suzhou) | Suzhou, Jiangsu | Silk city; “Venice of China” tag in later talk |
-| Vuju | Huzhou, Zhejiang | Often Huzhou |
-| Quinsay (Kinsay) | Hangzhou, Zhejiang | Former Song capital; densest city portrait |
-| Ganpu | Ganpu (Haiyan), Zhejiang | Port of the Quinsay estuary |
-| Fuju (Fuzhou) | Fuzhou, Fujian | Fujian circuit |
-| Zayton (Quanzhou) | Quanzhou, Fujian | Great haven; embarkation for Volume III |
+|-----------------|-------------------------|----------------------------------------|
+| Manzi | South China (south of the Yangzi) | Region; the conquered Southern Song realm, as Polo's northern informants called it. |
+| Cacanfu | Hejian, Hebei, China | Four days south of Juju on the Cathay road (Yule: Ho-kien). |
+| Changlu | Cangzhou, Hebei, China | Salt-working towns on the Grand Canal corridor. |
+| Chinangli | Jinan, Shandong, China | T'si-nan fu. |
+| Tadinfu | Yanzhou, Shandong, China | Kin Tai-ting-fu; 'noblest city' and the revolt of Litan. |
+| Sinjumatu | Jining, Shandong, China | River splits to Cathay and Manzi. |
+| Linju | Linqing, Shandong, China | Canal-road town provisionally placed at Linqing. |
+| Piju | Pizhou, Jiangsu, China | Entrance to Manzi. |
+| Siju | Suqian, Jiangsu, China | Wheat plains; the great canal. |
+| Coiganju | Huai'an, Jiangsu, China | Grain and salt canal city. |
+| Paukin | Baoying, Jiangsu, China | Stone causeway between waters. |
+| Cayu | Gaoyou, Jiangsu, China | Silk, fish, cheap game. |
+| Tiju | Taizhou, Jiangsu, China | About 25 mi east of the canal. |
+| Tinju | Nantong (Tung-chau), Jiangsu, China | Salt city; Tung-chau or I-chin candidates. |
+| Yanju | Yangzhou, Jiangsu, China | Polo claims to have governed it three years (contested). |
+| Nanghin | Kaifeng (Yuan Nan-ching / Bianliang Lu), Henan, China | Western silk province in the Book, placed at Kaifeng after Pelliot, with Anqing as Yule’s alternative. |
+| Saianfu | Xiangyang, Hubei, China | Siege and the mangonels; visit vs report debated. |
+| Sinju | Yizheng, Jiangsu, China | City of Sinju on the Kian, 15 mi from Yanju. |
+| Caiju | Guazhou, Jiangsu, China | Canal's southern hinge on the Kiang. |
+| Chinghianfu | Zhenjiang, Jiangsu, China | Golden Island abbey in the river opposite Caiju. |
+| Chinginju | Changzhou, Jiangsu, China | Slaughter of the Alans. |
+| Suju | Suzhou, Jiangsu, China | Silk and canal city; Polo's Suju (Manzi) is not the Sukchur of the Tangut road. |
+| Vuju | Huzhou, Zhejiang, China | Vuju one day from Suju (Yule, after Pauthier: Hu-chau). |
+| Vughin | Wujiang, Jiangsu, China | Canal-road town provisionally placed at Wujiang. |
+| Changan | Jiaxing, Zhejiang, China | Between Suju and Kinsay. |
+| Kinsay | Hangzhou, Zhejiang, China | Former Song capital; the book's fullest city description. |
+| Ganfu | Ganpu (Haiyan area), Zhejiang, China | Port of the Kinsay estuary; estuary changed since Polo. |
+| Tanpiju | Shaoxing, Zhejiang, China | Tanpiju = Shao-hing or Fu-yang (Yule/Cordier); Shaoxing used for plotting. |
+| Vuju | Jinhua (Wuzhou), Zhejiang, China | Vuju three days on from Tanpiju, 'likewise under Kinsay' (Cordier: Kin-hwa fu). |
+| Ghiuju | Quzhou, Zhejiang, China | Giant bamboos. |
+| Changshan | Changshan, Zhejiang, China | The watershed hill; Cordier: Sui-chang. |
+| Kelinfu | Jian'ou (Kien-ning), Fujian, China | Marble bridges and velvet-hair fowls. |
+| Unken | Minhou (Hu-kwan), Fujian, China | Sugar city; Cordier: Hu-kwan. |
+| Fuju | Fuzhou, Fujian, China | Fujian circuit; Yule's Fuju = Fu-chau. |
+| Zayton | Quanzhou, Fujian, China | Great haven; embarkation of the return fleet. |
+| Tyunju | Dehua, Fujian, China | Porcelain town (Cordier: Tek-hwa); only the 'sole source' boast fails. |
+
+### Place table — other places in the Book
+
+| Book name | Modern | Role in Vol. II |
+|-----------------|-------------------------|----------------------------------------|
+| Rosia | Russia (Rus' lands) | Region described in the Great Turkey / Ponent chapter, with the land of Lac; hearsay. |
+| Cauly | Korea | Region; named in the Nayan campaign. |
+| Chorcha | Manchuria, China | Region; named in the Nayan campaign. |
+
+*Places without a map fix:* Caichu, Bangala, Cuju, Cachar Modun.
 
 ### Map cautions for Volume II
 

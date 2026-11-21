@@ -1,0 +1,33 @@
+plate: II-6
+title: Caravan crossing the Pulisanghin bridge
+status: draft
+tradition: Yuan landscape and ruled-line architectural handscroll
+caption: >-
+  A caravan crosses the Pulisanghin bridge. This reconstruction shows eleven arches; Polo reports twenty-four. The historic parapet and lions' original forms remain uncertain. Modern illustration in the manner of Yuan landscape and ruled-line painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '2:1', resolution: 2700x1350, rounds: 1, corrective_turns: 1, selected: media/plates/drafts/II-6/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-6.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- The exact Jin-era parapet, lion forms, landscape and travellers' equipment are conjectural; the bridge was rebuilt in 1698.
+post: >-
+  convert media/plates/drafts/II-6/gpt-r1-2.png -filter Lanczos -resize 2700x1350\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-6-pulisanghin-bridge.png
+review:
+  script: Pass; no writing or seals visible.
+  period: Pass with limits; generic stone bridge and archaic-style lion posts, not a documented Jin parapet.
+  scene: Pass; caravan crossing the river.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; ink landscape with ruled bridge masonry.
+  ground_and_aging: Pass; evenly aged silk.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_arches: Pass; eleven openings after corrective turn.
+  must_get_right_lions: Pass with limits; small generic lion-topped posts, their specific Jin form unattested.

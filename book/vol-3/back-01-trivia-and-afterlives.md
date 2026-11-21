@@ -6,7 +6,7 @@
 
 ---
 
-Volume III ends the travel and opens the echo. Trivia here covers the ocean book’s favourite marvels; disputes cover gold, brides, and belief; afterlives point toward Columbus, maps, and the modern Wood debate without replacing chapters III-11 and III-12. Pocket form first; long form in those chapters. [1]
+Volume III ends the travel and opens the echo. Trivia here covers the ocean book’s favourite marvels; disputes cover gold, brides, and belief; afterlives point toward Columbus, maps, and the modern Wood debate without replacing chapters III-11 and III-12. Pocket form first; long form in those chapters.
 
 ### Trivia worth keeping
 
@@ -28,19 +28,19 @@ Volume III ends the travel and opens the echo. Trivia here covers the ocean book
 
 ### Disputed claims and pointers
 
-**Chipangu gold.** Japan exists; Mongol invasion attempts existed; roofs of gold are marvel speech. The dispute is not “did Polo invent Japan?” but “how far did hearsay and rhetorical gold reshape a real archipelago for European desire?” Columbus’s westward hope is the loudest consequence. [2]
+**Chipangu gold.** Japan exists; Mongol invasion attempts existed; roofs of gold are marvel speech. The dispute is not “did Polo invent Japan?” but “how far did hearsay and rhetorical gold reshape a real archipelago for European desire?” Columbus’s westward hope is the loudest consequence. [1]
 
-**Cocachin / Kökechin embassy.** The embassy is on record outside the Book: Rashid al-Din has Arghun’s envoys bring Kököchin to Ghazan, and a Chinese notice of 1290 names three envoys whom Yang Zhijiu matched to the Book’s. Neither names the Polos. The sea passage as told, the passenger list and the high mortality are the Book’s. The sailing date (end of 1290 or early 1291 for Yang, early 1292 for Yule) is still argued. [3]
+**Cocachin / Kökechin embassy.** The embassy is on record outside the Book: Rashid al-Din has Arghun’s envoys bring Kököchin to Ghazan, and a Chinese notice of 1290 names three envoys whom Yang Zhijiu matched to the Book’s. Neither names the Polos. The sea passage as told, the passenger list and the high mortality are the Book’s. The sailing date (end of 1290 or early 1291 for Yang, early 1292 for Yule) is still argued. [2]
 
-**Personal landings vs periplus report.** Chamba and Sumatran wintering lean visited; Great Java interior, many Arabian and African coasts, dog-headed Andaman ethnography lean reported or legendary. Chapter tags and Notes are the guide. [4]
+**Personal landings vs periplus report.** Chamba and Sumatran wintering lean visited; Great Java interior, many Arabian and African coasts, dog-headed Andaman ethnography lean reported or legendary. Chapter tags and Notes are the guide. [3]
 
-**Columbus and the westward misreading.** Columbus’s smaller-earth theory could make Chipangu seem reachable by sailing west; whether Polo’s Book directly shaped that project is disputed. That is reception history: Polo did not tell him to find the Caribbean. Pointer: chapter III-11. [5]
+**Columbus and the westward misreading.** Columbus’s smaller-earth theory could make Chipangu seem reachable by sailing west; whether Polo’s Book directly shaped that project is disputed. That is reception history: Polo did not tell him to find the Caribbean. Pointer: chapter III-11. [4]
 
-**Frances Wood and the “never went to China” debate.** Wood’s sceptical popular argument leans on silences (Great Wall, tea, footbinding, Chinese script, etc.) and on the possibility of second-hand compilation. Responses by Haw, Larner, de Rachewiltz, Vogel, and others defend a core of autopsy mixed with report, manuscript complexity, and genre expectations. This series’ closing essay (III-12) is the full method statement; here only the pointer belongs. [6]
+**Frances Wood and the “never went to China” debate.** Wood’s sceptical popular argument leans on silences (Great Wall, tea, footbinding, Chinese script, etc.) and on the possibility of second-hand compilation. Responses by Haw, Larner, de Rachewiltz, Vogel, and others defend a core of autopsy mixed with report, manuscript complexity, and genre expectations. This series’ closing essay (III-12) is the full method statement; here only the pointer belongs. [5]
 
 **Great Wall silence (harvest).** Seeded in Volume I’s back matter, harvested here: absence of a tourist Wall set-piece is real in Polo; whether that absence disproves travel is the leap. Yuan-period wall functions and where a guest’s routes ran matter to the counter-argument.
 
-**Ramusio’s homecoming theatre.** Unrecognised kinsmen, shabby Tartar dress, successive robe reveals, jewels in the seams — beloved sixteenth-century colour for the final return, not early French Prologue fact. Volume I already warned you; Volume III’s Venice chapter must not quietly reabsorb it as affidavit. [7]
+**Ramusio’s homecoming theatre.** Unrecognised kinsmen, shabby Tartar dress, successive robe reveals, jewels in the seams — beloved sixteenth-century colour for the final return, not early French Prologue fact. Volume I already warned you; Volume III’s Venice chapter must not quietly reabsorb it as affidavit. [6]
 
 ### Afterlives in one breath
 
@@ -52,16 +52,14 @@ If you want the long form, read III-11 and III-12. If you want the pocket form, 
 
 ## Notes
 
-[1] Companion back matter for Volume III; does not replace reception chapters or the reliability essay.
+[1] ◇ / ✗ Chipangu gold roofs as description; ✓ Japan as real target of Mongol fleets; reception ✓ via Columbus et al.
 
-[2] ◇ / ✗ Chipangu gold roofs as description; ✓ Japan as real target of Mongol fleets; reception ✓ via Columbus et al.
+[2] ✓ / ? Embassy corroborated (Rashid; the 1290 notice as Ma reports Yang [@ma2025chinese]); ? Polos unnamed in both [@jackson1998travels, pp. 98–99]; sailing date debated; mortality is the Book’s claim (III-9 [10], [12]).
 
-[3] ✓ / ? Embassy corroborated (Rashid; the 1290 notice as Ma reports Yang [@ma2025chinese]); ? Polos unnamed in both [@jackson1998travels, pp. 98–99]; sailing date debated; mortality is the Book’s claim (III-9 [10], [12]).
+[3] ? Landing versus periplus report stays open for many Volume III places; the chapter tags and Notes weigh each one.
 
-[4] Chapter tags [V]/[R]/[M] and the chapter Notes mark what is visited, reported or mixed.
+[4] ✓ / ? Columbus’s annotated Polo — ✓ his annotated Latin copy survives (III-11). ? Its part in the westward project: when the postils were written is uncertain. Larner [-@larner1999marco, ch. 9] argues that this copy probably reached Columbus only around 1497–98, that some postils postdate the Second Voyage, and that the first-voyage *Diario* gives no decisive sign he had read Polo; Gil [-@gil2006marcocristobal, pp. 25–27, 30–34] also argues for a 1497–98 reading. Not evidence of pre-1492 use.
 
-[5] ✓ / ? Columbus’s annotated Polo — ✓ his annotated Latin copy survives (III-11). ? Its part in the westward project: when the postils were written is uncertain. Larner [-@larner1999marco, ch. 9] argues that this copy probably reached Columbus only around 1497–98, that some postils postdate the Second Voyage, and that the first-voyage *Diario* gives no decisive sign he had read Polo; Gil [-@gil2006marcocristobal, pp. 25–27, 30–34] also argues for a 1497–98 reading. Not evidence of pre-1492 use.
+[5] ? Wood [-@wood1995did, conclusion] (1995) vs answering literature — see III-12 for series method; no fabricated page cites here.
 
-[6] ? Wood [-@wood1995did, conclusion] (1995) vs answering literature — see III-12 for series method; no fabricated page cites here.
-
-[7] ◇ Ramusio homecoming anecdotes — later embroidery relative to early French tradition (Yule already cautious).
+[6] ◇ Ramusio homecoming anecdotes — later embroidery relative to early French tradition (Yule already cautious).

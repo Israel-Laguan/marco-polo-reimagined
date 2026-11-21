@@ -1,9 +1,9 @@
 # GAZ — Gazetteer
 
-**Status:** in progress (T1–T4 done by S-04, 2026-10-22) · **Plan doc:** `content-revision-plan.md` § W5; S-04
+**Status:** T1–T7 complete, T8 sheets in editorial review · **Plan doc:** `content-revision-plan.md` § W5 and S-04
 
 ## Scope
-`gazetteer.csv` as the single authority for place names (prose) and coordinates (maps). Method note: `gazetteer-readme.md`. Tooling: `python3 tools/gazetteer.py check | chapters | report`.
+`gazetteer.csv` is the authority for place names and map coordinates. See the [method note](../../../gazetteer-readme.md) for the validation, chapter usage, naming report and table commands.
 
 ## Decided (S-04, closed 2026-10-22)
 - **Authority.** `book_name` = Yule's form of Polo's name, as the chapters use it; every other spelling is in `aliases`; `modern_name` is the gloss.
@@ -24,17 +24,15 @@
 | Badakhshan | alias "Balashan" | form *Badashan*; "Balashan" is not Polo's name | I-M8 |
 | Arbre Sec | Dasht-e Kavir centroid | `unfixed`, no coordinates (the centroid was a placeholder) | Yule |
 
-- **Lint rule** (`tools/lint.py` `name_policy`, warning): a non-canonical form used bare in a narrative chapter; the first mention of a book form without a gloss. Promote to error after the last chapter naming pass (`.T3`/`.T1` of every file).
+- **Lint rule** (`tools/lint.py` `name_policy`): a bare place variant or a missing first gloss is an error in narrative prose. The place naming pass is complete.
 
-## Backlog
+## Follow-ups and decisions since S-04
 - **After S-04 (2026-10-22), Pelliot's full entries changed three rows:** Nanghin → Kaifeng; Madeigascar → Mogadishu (Magadoxo merged; 194 rows); Locac → Lopburi. See `research/results/GAZ-citable-findings.md` § 6 and `GAZ-pelliot-locators.csv` (Pelliot locators for 156 rows).
-- Coordinates are county-seat precision for the 58 `probable` rows and absent for the 14 rows without a point (12 `unfixed`, plus the `disputed` Bangala and Cuju); none has been checked against a second source beyond Yule/Cordier notes and general reference.
-- front-02 place tables (3 volumes) still follow the old gazetteer and must be regenerated.
-- The chapters themselves are inconsistent (*Tauris/Tabriz*, *Hormos/Hormuz*, *Kisi/Kish/Kis*, *Chandu/Shangdu*): 86 places, 245 bare variants in `plans/status/gazetteer-name-diff.md`. They are fixed in each chapter's naming pass.
-- ch-11 mentions a "little Caiju" opposite Coiganju; Yule's only Caiju is Kwa-chau (flag for II-11's naming pass).
+- The [T6 review](../../research/results/GAZ-T6-review.md) records the sources and limits of the provisional points. Blank coordinates remain for 12 unfixed rows and the disputed Bangala and Cuju.
+- Yule distinguishes the unlocated Caiju opposite Coiganju on the Yellow River (II-10) from Caiju on the Kiang (II-12), which he identifies with Kwa-chau. The gazetteer point represents the latter. The Tana of the Sea of Azov in I-01 is also distinct from the Indian Tana in the CSV.
 
 ## Gated by spikes
-S-04 ✓ · S-09 (map styling of `disputed`/`unfixed`) · S-16 and S-17 best-effort intakes ✓; S-18 open (Vol. III identification checks)
+S-04 and S-09 closed. S-16, S-17 and S-18 intakes complete on a best-effort basis.
 
 ## Tasks
 ### GAZ.T1 — Schema v2
@@ -50,27 +48,37 @@ S-04 ✓ · S-09 (map styling of `disputed`/`unfixed`) · S-16 and S-17 best-eff
 - **Status:** done (S-04) · see the table above.
 
 ### GAZ.T5 — Regenerate the front-02 place tables
-- **Status:** backlog · **Depends:** S-04 ✓ · feeds `I-F2.T1`, `II-F2.T1`, `III-F2.T1`
+- **Status:** done (2026-11-21). The three front-matter sections match the generator and cover all 194 rows, including the no-fix lists.
 - **Do:** write `tools/gazetteer.py tables <vol>` that prints the three-column tables (Book name | Modern | Role) from rows with `volume = N`, split by `leg`/group as the current front-02 does, using `book_name`, `modern_name` and a short role taken from the first sentence of `notes`. Replace the hand-written tables; keep the "map cautions" prose by hand. Skip `unfixed` rows or list them in a "no fix" line (Male and Female, Arbre Sec).
 - **Done when:** the tables in the three front-02 files equal the generated output and the lint shows no new errors.
 
 ### GAZ.T6 — Verify provisional coordinates and identifications
-- **Status:** in progress (2026-10-22: first research pass taken in, `research/results/GAZ-intake.md`; 123 points agree with Wikipedia, 4 moved, `coord_check` and `wikipedia` columns added; no `id_confidence` changed) · **Depends:** S-16 (Vol. I) and S-17 (Vol. II) best-effort intakes ✓; S-18 (Vol. III) open. Their research output did not exist when S-04 closed; remaining disputed sites and precise coordinates still require review
+- **Status:** done, best effort (2026-11-21). Camadi moved to the Jiroft regional reference and A1 was rebuilt. The [review](../../research/results/GAZ-T6-review.md) records the evidence limits for the remaining provisional points. The S-18 access-dependent checks remain deferred.
 - **Do:** when each run is taken in, check the `probable` and `disputed` rows against a second source (Cordier's notes, Pelliot, a modern gazetteer) and move each to `firm` or record why not. Priority: Brius, Camadi, Avah, Casem, Pashai, Erguiul, Egrigaia, Bargu, Linju, Vughin, Changshan, Unken, Mutfili, Soer.
 - **Done when:** no row's `notes` says "approximate" without a source, and `disputed` rows name their candidates.
 
 ### GAZ.T7 — Promote `name_policy` to an error
-- **Status:** backlog · **Depends:** the naming pass in every chapter (`.T3` / `.T1` items)
+- **Status:** done (2026-11-21). Place-name violations are errors and the 49-file lint run reports zero. S-05 character findings retain warning severity.
 - **Do:** change the `name_policy` severity in `tools/lint.py` from warning to error and rebaseline.
 - **Done when:** `python3 tools/lint.py` reports no `name_policy` errors on the 49 files.
 
+
+### GAZ.T8 — Place reference lists and reference sheets
+- **Status:** in editorial review (2026-11-21). The [registry](../../registry/place-references.yaml) covers 44 settings and contextual references. Seven draft sheets have reviewed sidecars. Hormos, Badashan, Pamier and the Desert of Lop have gap sidecars.
+- **Why:** the plates show places (Chandu, Cambaluc, Kinsay, Zayton, Hormos, Venice, Ayas, Baudac…). Their sources (C-cues, S-23 site records such as Deji Gate, the Ayas castles, Kota Cina) are spread across `registry/visual-references.md`, and nothing ties them to a gazetteer row.
+- **Scope:** only places that a plate in `illustration-plan.md` shows, about 30 of the 194 rows. The others need no image.
+- **Do:**
+  1. Add `registry/place-references.yaml`, keyed by gazetteer `id`. For each place, list the references in the same fields as `CHR.T8`, plus `period` (does the source show 1260–95 fabric, or later?) and `avoid` (for example the Forbidden City or yellow Ming tiles for Dadu, and the Ottoman circuit for Ayas).
+  2. For the places that recur, make one establishing sheet each, in the CHR.T9 format: `media/places/<id>-sheet.*` with a sidecar. The recurring places are Cambaluc/Dadu, Chandu, Kinsay, Zayton, Hormos, Venice and Acre/Ayas. A gap with no source (Badakhshan, Pamier, Lop, per the gap ledger) gets a sidecar that says so, and no sheet.
+- **Coverage:** The Kublai portrait frontispiece, the Aijaruc wrestling scene, and the paper-money and post scenes without a fixed setting rely on figure, object or narrative sources. The III-9 farewell venue is unknown. Cambaluc and Chandu are court comparanda for that material.
+- **Done when:** every plate place has a reference list, and every recurring place has a sheet or a recorded reason why it has none.
 
 ## S-16 best-effort handoff to GAZ.T6 (2026-11-11)
 
 - **Hormos:** approximate uncertain pin is modern Minab as a regional reference; it is not the K-103 site. Label “Hormos? (Minab area)” and state the proxy in captions.
 - **Tonocain:** Qaen is a regional reference, not a provincial boundary; **Arbre Sec** is unlocated and has no point.
 - **Pein:** provisional Uzun-tatïr with Keriya as named alternative; **Tenduc:** Hohhot region marker only, not a city identification. Preserve `disputed` and do not conflate Sichintingiu.
-- See [S-16 closeout](../../research/results/S-16-closeout.md). Remaining checks are optional future work, not a block to the current best-effort maps; GAZ.T6 remains in progress for other volumes.
+- See [S-16 closeout](../../research/results/S-16-closeout.md) and the [later T6 review](../../research/results/GAZ-T6-review.md).
 
 ## S-17 handoff to GAZ.T6 (2026-11-11)
 

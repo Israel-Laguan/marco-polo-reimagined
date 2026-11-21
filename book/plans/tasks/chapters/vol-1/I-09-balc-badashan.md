@@ -95,10 +95,10 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### I-09.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-09.T3` (re-voice renumbers Notes)
-- **Now:** 16 Notes · 0 ★ · 1 without a lead marker
+- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
-  - Notes with no lead marker: [16] (fill, merge or rewrite; none may be a placeholder or pointer).
-  - "Dispute" label in Note(s) [16]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
+  - "Dispute" label in Note(s) [16]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-1/ch-09-balc-badashan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [16]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Haw citation on Kashmir was removed as not found; do not restore it without a checked passage.

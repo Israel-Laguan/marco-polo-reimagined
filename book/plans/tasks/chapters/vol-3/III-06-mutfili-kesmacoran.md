@@ -90,12 +90,12 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### III-06.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-06.T3` (re-voice renumbers Notes)
-- **Now:** 25 Notes · 6 ★ · 6 without a lead marker · tag [R]
+- **Now:** 25 Notes · 0 ★ · 0 without a lead marker · tag [R]
 - **Do:**
   - Tag line `**[R]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
   - 6 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
-  - Notes with no lead marker: [4], [9], [13], [15], [20], [24] (fill, merge or rewrite; none may be a placeholder or pointer).
-  - "Dispute" label in Note(s) [4], [8], [15], [24]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
+  - "Dispute" label in Note(s) [4], [8], [15], [24]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-3/ch-06-mutfili-kesmacoran.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [25]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Vogel citation on Kesmacoran was removed as not found; do not restore it without a checked passage.

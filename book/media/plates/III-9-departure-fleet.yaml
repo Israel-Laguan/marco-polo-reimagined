@@ -1,0 +1,46 @@
+plate: III-9
+title: Cocachin departure fleet
+status: draft
+tradition: Yuan court painting
+caption: A conjectural fleet of thirteen junks evokes the voyage of Cocachin and the envoys; the departure port
+  and year remain debated. Modern illustration in the manner of Yuan handscroll painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params:
+  scale: '2:1'
+  resolution: 2700x1350
+  rounds: 2
+  selected: media/plates/drafts/III-9/correction-2026-11-19/01-fleet.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-9-departure-fleet.txt
+negative: in-prompt
+reference_images:
+- file: media/plates/III-9-court-farewell.png
+  use: project-generated source illustration for edit
+  licence: project-generated
+  credit: The Book of the Million
+figures: []
+cues: []
+unsourced:
+- The arrangement, coastline, rig and individual vessels are illustrative conventions. The number follows the Book;
+  exact port and departure year are debated.
+post: convert media/plates/drafts/III-9/correction-2026-11-19/01-fleet.png -filter Lanczos -resize 2700x1350\! -unsharp
+  0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-9-departure-fleet.png
+review:
+  script: Pass; no visible lettering or seals.
+  period: Borderline; vessel design and sailing rig speculative.
+  scene: Pass; thirteen visible junks in a separate sea scene.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass with limits; Yuan handscroll treatment is interpretive.
+  ground_and_aging: Pass; even silk tone.
+  artifact_risk: Caption states modern illustration.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Prompt, input and correction recorded.
+  must_get_right_fleet: Pass; thirteen distinct visible hulls.
+revision:
+  date: '2026-11-19'
+  input: media/plates/III-9-court-farewell.png
+  selected: media/plates/drafts/III-9/correction-2026-11-19/01-fleet.png
+  review: Thirteen separate hulls visible; court removed.

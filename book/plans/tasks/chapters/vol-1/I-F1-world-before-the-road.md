@@ -24,7 +24,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - "Anyway, next it helps to name…": the narrative hinge is misused in expository front matter. — vol-1 nit 7 · front-01:25
 
 ### Notes and apparatus
-- Citations out of order: [11] appears in the body before [10]. Fix: renumber. Content plan W5. — vol-1 m3 · front-01:48–54 Tracked for completion in `APP.T9` (2026-11-17).
+- Citations out of order: [11] appears in the body before [10]. Fix: renumber. Content plan W5. — vol-1 m3 · front-01:48–54 Tracked for completion in `APP.T9` (2026-11-17). **Closed (best effort) 2026-11-18 under `APP.T9`:** fixed and lint-clean; human read not completed.
 - Production scaffolding in a reader-facing Note: `/workspace/marco-polo/gazetteer.csv` path and visited/reported/uncertain tag language. Fix: strip the path, keep the reliability idea in plain words. — vol-1 m6 · front-01:82 (Note [10])
 - Content plan W5 asks for a 150-word "How to read this book" box in Vol. I front matter defining the tags ([V]/[R]/[M], compound forms) and markers; which front file hosts it is open. — content-revision-plan W5 (Tags)
 
@@ -85,9 +85,9 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 11 Notes · 0 ★ · 2 without a lead marker
+- **Now:** 11 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
-  - Notes with no lead marker: [1], [10] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [1]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.

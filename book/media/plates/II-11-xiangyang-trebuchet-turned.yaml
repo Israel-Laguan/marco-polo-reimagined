@@ -1,0 +1,49 @@
+plate: II-11
+title: Counterweight trebuchet at Xiangyang
+status: draft
+tradition: Ilkhanid Jami al-Tawarikh siege illustration
+caption: Muslim engineers and Yuan soldiers prepare a counterweight engine across the Han from Song walls during
+  the siege of Xiangyang. Its exact construction is unknown, and the Polos were not there. Modern illustration in
+  the manner of Ilkhanid siege painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params:
+  scale: '4:3'
+  rounds: 1
+  corrective_turns: 1
+  selected: media/plates/drafts/II-11/correction-2026-11-19/03-orientation.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-11-turn-trebuchet.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues:
+- C46
+unsourced:
+- No period image of the Xiangyang engine has been identified; the machine, crews' clothing and city layout are
+  illustrative reconstructions. C46 was used as a general frame comparison only, not as an image input.
+post: convert media/plates/drafts/II-11/correction-2026-11-19/03-orientation.png -profile /usr/share/color/icc/ghostscript/srgb.icc
+  -units PixelsPerInch -density 300 media/plates/II-11-xiangyang-trebuchet-turned.png
+review:
+  script: Pass; no lettering or seals visible.
+  period: Borderline; engineers' wrapped headgear and engine details are generic reconstructions, not documented
+    Xiangyang dress or mechanism.
+  scene: Pass; crew prepares engine facing fortified walls across a river; no Polos.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass with limits; flat pigment and warm outlines, architectural details are interpretive.
+  ground_and_aging: Pass; light even paper.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_counterweight: Pass; raised hinged box on wall side, long arm and loaded sling on opposite side;
+    apparatus is a schematic reconstruction.
+  must_get_right_walls: Pass; walls stand across the Han.
+revision:
+  date: '2026-11-19'
+  input: media/plates/II-11-xiangyang-trebuchet-revised.png
+  selected: media/plates/drafts/II-11/correction-2026-11-19/03-orientation.png
+  review: 'Cocked trebuchet turned: wall and elevated hinged counterweight right; long throwing arm and rock pouch
+    left. Sling cords meet long-arm end; windlass line runs from drum over pulley toward it. Drawing is schematic
+    and exact Xiangyang mechanism is unknown.'

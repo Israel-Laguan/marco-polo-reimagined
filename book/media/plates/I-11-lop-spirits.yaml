@@ -1,0 +1,32 @@
+plate: I-11
+title: Spirit voices in the Lop desert
+status: draft
+tradition: Dunhuang Mogao wall painting
+caption: >-
+  A straggler hears spirit voices in the Lop desert; the ghostly caravan visualizes folklore, and the cavalcade is a later Ramusio detail. Modern illustration in the manner of Dunhuang wall painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/I-11/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-11.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No matching period desert scene was found. Traveller, mount, clothing, night landscape and ghostly caravan are fictional; Mogao caves 3 and 465 are rejected as scene comparanda.
+post: >-
+  convert media/plates/drafts/I-11/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-11-lop-spirits.png
+review:
+  script: Pass; no lettering or seals.
+  period: Borderline; generic traveller clothing, no period scene reference.
+  scene: Pass; lone rider on dunes and faint spectral caravan.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; flat pigments and contours suggest mural, but darkness and landscape are modern interpretations.
+  ground_and_aging: Pass; even plaster texture.
+  artifact_risk: Caption identifies modern origin and folklore.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_spirits: Pass; distant pale caravan and night dunes, no sacred figures.

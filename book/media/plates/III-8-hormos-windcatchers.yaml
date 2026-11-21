@@ -1,0 +1,33 @@
+plate: III-8
+title: The wind-catchers of Hormos
+status: draft
+tradition: Baghdad school manuscript painting
+caption: >-
+  A reconstruction of old mainland Hormuz with wind-catchers; surviving examples of the tower type are later. Modern illustration in the manner of Baghdad school painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, corrective_turns: 1, selected: media/plates/drafts/III-8/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-8.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: [C7]
+unsourced:
+- Mainland town layout, wind-catchers' precise early forms, people and particular vessel are reconstructions; C7 is a 1237 Gulf comparandum rather than a 1290 Hormuz vessel.
+post: >-
+  convert media/plates/drafts/III-8/gpt-r1-2.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-8-hormos-windcatchers.png
+review:
+  script: Pass; no text or seals.
+  period: Borderline; wind-catcher form is based on later surviving towers; vessel rig speculative.
+  scene: Pass; mainland town with wind-catchers and Gulf ship.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass with limits; Baghdad-school figure grouping and flat pigment, more detailed buildings are interpretive.
+  ground_and_aging: Pass; even paper texture.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_towers: Pass with limits; wind-catchers as a type, not dated specimens.
+  must_get_right_ship: Borderline; masthead box, cabin and anchor visible; steering lines and vertical rudder connection remain unclear.

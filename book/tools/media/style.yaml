@@ -45,3 +45,8 @@ event_kind:
   print: {shape: rectangle, colour: "#1F5A85", label: "printed edition"}
   map: {shape: diamond, colour: "#B7871F", label: "map"}
   journey: {shape: isosceles triangle, colour: "#A8432B", label: "journey"}
+  # B1–B4 (DIA.T1). Shapes repeat across kinds, but never with the same colour in one timeline.
+  life: {shape: circle, colour: "#1F5A85", label: "Polo family"}
+  document: {shape: rectangle, colour: "#6E6B66", label: "archival document"}
+  rule: {shape: circle, colour: "#B7871F", label: "rulers and court"}
+  war: {shape: diamond, colour: "#A8432B", label: "war, siege or battle"}

@@ -3,8 +3,8 @@
 \documentclass[tikz,border={0pt 2pt}]{standalone}
 \usepackage{fontspec}
 \setmainfont{$font}
-\usetikzlibrary{shapes.geometric}
-\newcommand\tldate[1]{\makebox[1.3cm][l]{\bfseries #1}}
+\usetikzlibrary{shapes.geometric,arrows.meta,calc}
+\newcommand\tldate[1]{\makebox[1.5cm][l]{\bfseries #1}}
 $colours
 \tikzset{
   tl-axis/.style={draw=ink, line width=0.5pt},
@@ -16,6 +16,13 @@ $colours
   tl-note/.style={font=\scriptsize\itshape, text=inksoft, anchor=north west, inner sep=0pt, align=left},
   tl-mark/.style={draw=white, line width=0.3pt, inner sep=0pt, minimum size=4.2pt},
 $kinds
+  dg-box/.style={draw=ink, line width=0.4pt, rounded corners=1pt, fill=white, font=\footnotesize, text=ink, align=center, inner sep=3pt},
+  dg-arrow/.style={-{Stealth[length=4pt]}, draw=ink, line width=0.5pt},
+  dg-head/.style={font=\footnotesize\bfseries, text=ink, anchor=west, inner sep=0pt},
+  dg-text/.style={font=\footnotesize, text=ink, anchor=west, inner sep=0pt, align=left},
+  dg-note/.style={font=\scriptsize\itshape, text=inksoft, anchor=north west, inner sep=0pt, align=left},
+  pair-book/.style={tl-mark, circle, draw=ink, fill=white, line width=0.5pt},
+  pair-rec/.style={tl-mark, circle, fill=ink},
 }
 \begin{document}
 \begin{tikzpicture}[x=1cm, y=-1cm]

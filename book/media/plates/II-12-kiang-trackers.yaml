@@ -1,0 +1,33 @@
+plate: II-12
+title: Trackers haul a junk up the Kiang
+status: draft
+tradition: Yuan landscape handscroll
+caption: >-
+  Trackers haul a cargo junk up the Kiang past the monastery on Golden Island. Modern illustration in the manner of Yuan landscape painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '2:1', resolution: 2700x1350, rounds: 1, selected: media/plates/drafts/II-12/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-12.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- Exact junk, trackers' dress and rope rigging, mountainous banks and monastery architecture are interpretive; no directly applicable period image was checked.
+post: >-
+  convert media/plates/drafts/II-12/gpt-r1-1.png -filter Lanczos -resize 2700x1350\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-12-kiang-trackers.png
+review:
+  script: Pass; no lettering or seals.
+  period: Pass with limits; river junk and dress are generic reconstructions.
+  scene: Pass; trackers haul a single-masted junk on a continuous hawser.
+  rule_6: Pass; temple buildings without sacred figures.
+  idiom: Pass; fine ink and light colour landscape handscroll.
+  ground_and_aging: Pass; light even silk texture.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_hawser: Pass with limit; drawn as a thick braided rope and identified as bamboo by scene context, material cannot be verified visually.
+  must_get_right_island: Pass; monastery on mid-river island.

@@ -106,10 +106,10 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### II-05.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-05.T3` (re-voice renumbers Notes)
-- **Now:** 24 Notes · 0 ★ · 3 without a lead marker · tag [M]
+- **Now:** 24 Notes · 0 ★ · 0 without a lead marker · tag [M]
 - **Do:**
   - Tag line `**[M]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
-  - Notes with no lead marker: [3], [18], [24] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-2/ch-05-ahmad-paper-coal.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [7], [18], [24]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. The Yuan annals do not name Polo in the Ahmad episode; Rossabi was removed from that naming claim. Wood also acknowledges the coal description as accurate.

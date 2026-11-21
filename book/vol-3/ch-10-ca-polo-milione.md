@@ -4,6 +4,8 @@
 > *“And when the story got wind in Venice, straightway the whole city, gentle and simple, flocked to the house to embrace them… And as it happened that in the story… of the magnificence of the Great Can, he would speak of his revenues as amounting to ten or fifteen millions of gold… so they gave him the nickname of MESSER MARCO MILLIONI.”*
 > — Giovanni Battista Ramusio, preface to *Navigationi et viaggi*, vol. 2 (1559), in Yule–Cordier, Introduction, § 5
 
+**[reception]**
+
 ---
 
 Tradition has it that when Messer Nicolo, Messer Maffeo, and Messer Marco had at last come again to Venice (Venezia), the Prologue’s long arc was closed, and another story — half memory, half legend — began to gather about their door. The Book has told the princess voyage as autobiography; the city’s welcome belongs to a different order of testimony. This chapter’s richest tableau is also its least documentary. [1]

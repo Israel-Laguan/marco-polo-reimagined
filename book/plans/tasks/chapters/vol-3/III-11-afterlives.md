@@ -114,7 +114,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - Add the missing tag line `**[reception]**` under the epigraph (assigned in S-03; confirm against the chapter).
   - 2 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
-  - "Dispute" label in Note(s) [3]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - "Dispute" label in Note(s) [3]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-3/ch-11-afterlives.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-12 (2026-11-10):** Note [8] names the redactions (Tuscan, Venetian, Ramusio); cite their modern editions there: TA `bertolucci1975milione`, VA `barbieri1999milione`, Ramusio `ramusio1559navigationi` with `ramusio2015viaggi`; if F, Fr or Z are named, `eusebi2018devisement`, `menard2001devisement`, `barbieri1998milione`.

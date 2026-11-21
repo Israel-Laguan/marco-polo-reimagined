@@ -4,6 +4,8 @@
 > *“And we shall set down things seen as seen, and things heard as heard only, so that no jot of falsehood may mar the truth of our Book…”*
 > — Marco Polo, Prologue, preamble (Yule–Cordier)
 
+**[reception]**
+
 ---
 
 So what kind of book have we been listening to?
@@ -152,6 +154,6 @@ Thus the series lays down its pen on method. *Il Milione* remains merchant encyc
 
 [12] ✓ Wonders should stay in narrative voice; quarrels in Notes — principle of this retelling (programme claim practised). ✗ This retelling is a new critical edition settling stemmata — explicitly not; This retelling follows the Geographic French base, flags Ramusio's additions, tells Book IV in II-15 and keeps the Prologue's return for Vol. III.
 
-[13] Open questions list: stemmata; four scripts; Hormuz route duplex; Yanju office; Ahmad (settled: Bolad); Yunnan autopsy share; Champa return; Madagascar/Mogadishu; Book IV home; Ramusio-only matter; Kinsay metrology; pre-print readership; marvel-telling ethics. Invitations, not failures.
+[13] ? Open questions list: stemmata; four scripts; Hormuz route duplex; Yanju office; Ahmad (the annals’ “Po-lo” is settled as Bolad; only the transmission of the assassins’ titles stays open); Yunnan autopsy share; Champa return; Madagascar/Mogadishu; Book IV home; Ramusio-only matter; Kinsay metrology; pre-print readership; marvel-telling ethics. Invitations, not failures.
 
 **Core comparative set:** Wood; de Rachewiltz; Haw; Vogel; Larner; Pelliot *Notes*; Moule & Pelliot; Olschki; Critchley; Rossabi; Allsen; Jackson; Rubruck; Ibn Battuta; Odoric; Rashid al-Din; Yule–Cordier; Needham (selective).

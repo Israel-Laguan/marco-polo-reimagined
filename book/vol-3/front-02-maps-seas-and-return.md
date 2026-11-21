@@ -31,47 +31,63 @@ The return map is political as much as nautical: a bridal embassy’s success co
 ### Place table — island and Southeast Asian road
 
 | Book name | Modern | Role in Vol. III |
-|-----------|--------|------------------|
-| Chamba (Champa) | Central Vietnam coast | Early fleet touch on the southern road |
-| Java | Java, Indonesia | Great Java wealth — largely reported |
-| Locac | Malay Peninsula (S. Thailand/Malaysia) | Tentative identification |
-| Pentam | Bintan / Riau Islands | Near Singapore Strait approaches |
-| Java the Less (Sumatra) | Sumatra, Indonesia | Five-month monsoon wait |
-| Ferlec | Perlak, Aceh, Sumatra | Muslim conversion noted |
-| Samara | Samudera Pasai, Sumatra | Likely wintering locale |
-| Lambri | Lamuri (Aceh headland) | North Sumatra headland |
-| Fansur | Barus, NW Sumatra | Camphor coast — reported |
-| Necuveran | Nicobar Islands | Naked-islanders motif; likelier touch |
-| Angamanain | Andaman Islands | Dog-headed men — legendary ethnography |
-| Seilan (Ceylon) | Sri Lanka | Adam’s Peak, rubies; firm island |
+|-----------------|-------------------------|----------------------------------------|
+| Chipangu | Japan | Gold-roof hearsay; Polo did not visit. |
+| Gulf of Cheinan | Hainan and the Gulf of Tonkin | Gulf in the maritime account, linked to Hainan by Pelliot. |
+| Chamba | Central Vietnam (Champa coast) | Cham kingdom; Polo's fleet touched here. |
+| Java | Java, Indonesia | Great Java; Polo did not claim to have visited. |
+| Condur | Pulo Condore (Côn Đảo), Vietnam | Island named with Sondur; unlucky waters. |
+| Locac | Lopburi (Lavo), Thailand | Reported mainland kingdom, identified provisionally with Lopburi after Pelliot. |
+| Pentam | Bintan / Riau Islands, Indonesia | Near the Singapore Strait. |
+| Malaiur | Malayu (Jambi), Sumatra, Indonesia | Polo's city of Malaiur near Pentam. |
+| Java the Less | Sumatra, Indonesia | Polos wintered five months waiting for the monsoon. |
+| Ferlec | Perlak, Aceh, Sumatra, Indonesia | First Muslim kingdom noted. |
+| Basma | Pasai / NE Sumatra coast, Indonesia | Unicorns (rhinoceroses). |
+| Samara | Samudera Pasai, Sumatra, Indonesia | Likely wintering place. |
+| Dagroian | NE Sumatra coastal polity | Reported kingdom on northern Sumatra, with several candidate locations. |
+| Lambri | Lamuri (Aceh headland), Sumatra, Indonesia | Near Banda Aceh; tailed men tale. |
+| Fansur | Barus, NW Sumatra, Indonesia | Camphor coast. |
+| Necuveran | Nicobar Islands, India | Naked islanders motif. |
+| Angamanain | Andaman Islands, India | Dog-headed men; legendary ethnography. |
+| Seilan | Sri Lanka | Adam's Peak and rubies; island ID firm. |
 
 ### Place table — India, west shores, return hinge
 
 | Book name | Modern | Role in Vol. III |
-|-----------|--------|------------------|
-| Maabar | Coromandel Coast, Tamil Nadu | Pearl fishery coast |
-| Cail (Kayal) | Kayalpatnam / Old Kayal | Pandya-realm port |
-| Coilum (Quilon) | Kollam, Kerala | Pepper port of Malabar |
-| Comari | Kanyakumari (Cape Comorin) | Cape and shrine |
-| Melibar | Malabar Coast, Kerala | SW Indian coastal region |
-| Gozurat | Gujarat | Pirates and trade — reported |
-| Cambaet | Khambhat (Cambay) | Gulf of Cambay port — reported |
-| Kesmacoran | Makran coast (Gwadar/Pasni), Pakistan | Kij-Makran — reported |
-| Male / Maldives | Maldives | Cowries and ambergris — reported |
-| Scotra | Socotra, Yemen | Christians and ambergris — reported |
-| Madeigascar | Madagascar | Name enters Europe via Polo; mixed hearsay |
-| Zanghibar | Zanzibar / Swahili coast | East African ethnonym/region — reported |
-| Aden | Aden, Yemen | Red Sea trade gate — reported |
-| Dufar | Dhofar (Salalah area), Oman | Frankincense coast — reported |
-| Kalhat | Qalhat, Oman | Omani coast port — reported |
-| Trebizond | Trabzon, Turkey | Black Sea embarkation on the way home |
-| Chipangu | Japan | Gold-island hearsay; not visited |
+|-----------------|-------------------------|----------------------------------------|
+| Maabar | Coromandel Coast (Tamil Nadu), India | Pearl fishery coast of SE India. |
+| Mailapur | Mylapore (Chennai), India | Shrine of St Thomas (Mailapur). |
+| Soli | Chola country (Thanjavur area), India | Region; diamonds. |
+| Mutfili | Motupalli, Andhra Pradesh, India | Queen Rudrama's kingdom; diamonds; Telingana coast. |
+| Cail | Kayalpatnam / Old Kayal, Tamil Nadu, India | Port of the Pandya realm. |
+| Coilum | Kollam, Kerala, India | Pepper port of Malabar. |
+| Comari | Kanyakumari (Cape Comorin), India | Cape and the Pole Star. |
+| Eli | Mount Eli / Ezhimala, Kerala, India | Landmark of Malabar. |
+| Melibar | Malabar Coast, Kerala, India | Regional name for the SW coast. |
+| Gozurat | Gujarat, India | Pirates and trade. |
+| Tana | Thane, Maharashtra, India | Near Mumbai. |
+| Cambaet | Khambhat (Cambay), Gujarat, India | Gulf of Cambay port. |
+| Semenat | Somnath area, Gujarat, India | Idolatrous kingdom; Somnath is Yule's reading. |
+| Kesmacoran | Makran coast (Gwadar/Pasni area), Pakistan | Kij-Makran. |
+| Scotra | Socotra, Yemen | Christians and ambergris. |
+| Madeigascar | Mogadishu, Somalia (Polo's 'Madeigascar'; not Madagascar) | Reported trading country whose description points toward the Somali coast. |
+| Zanghibar | Zanzibar / Swahili coast, Tanzania | East African coast region. |
+| Abash | Ethiopian highlands | The Book’s Middle India, with a reported Christian kingdom and a war story. |
+| Aden | Aden, Yemen | Red Sea trade gate. |
+| Esher | Ash-Shihr, Yemen | Incense coast. |
+| Dufar | Dhofar (Salalah area), Oman | Frankincense. |
+| Calatu | Qalhat, Oman | Gulf of Calatu; Omani coast port. |
+| Soer | Sohar, Oman | Named in the list of Gulf horse-trade ports. |
+| Abhar | Abhar, Zanjan, Iran | Near where the Cocachin embassy met Ghazan (c. 1293–94), a little west of Qazvin; also placed between Saveh and Abhar in the Magi discussion. |
+| Trebizond | Trabzon, Turkey | Empire of Trebizond; Black Sea embarkation. |
 
-*(Hormuz / Hormos and Tauris also serve the return; their main table rows sit in Volume I because of the outbound itinerary, but Volume III reuses them as landfall and road home.)*
+*Places without a map fix:* Sondur, Gauenispola, Lar, Male and Female.
 
 ### Map cautions
 
-**Java vs Java the Less:** Great Java is the island of that name in modern speech, mostly hearsay in Polo; Java the Less is Sumatra, where the wintering claim sits. **Madeigascar** mixes a name-first with African-coast marvels — do not force every sentence onto the modern island’s interior. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall. [3]
+*Hormos and Tauris also serve the return. Their main entries appear in Volume I.*
+
+**Java vs Java the Less:** Great Java is the island of that name in modern speech, mostly hearsay in Polo; Java the Less is Sumatra, where the wintering claim sits. **Madeigascar** appears as an island in the Book. Pelliot connects the name to Mogadishu, which is the gazetteer’s provisional reference. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall. [3]
 
 Monsoon arrows matter more than straight rhumb lines. If a chapter feels like it pauses, it probably should.
 

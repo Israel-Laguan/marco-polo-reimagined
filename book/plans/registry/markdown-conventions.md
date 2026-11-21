@@ -28,6 +28,8 @@ From `book/`, run `tools/build/build.sh` for the S-08 sample or `tools/build/bui
 | Raster size | extension = real file type (PNG or JPEG only); ≥ 1,350 px wide for a full-width figure (300 dpi on the 4.5 in measure; plate sizes in `illustration-style-guide.md`) | a wrong type, GIF or SVG-without-PDF prints as a labelled placeholder box; an undersized raster is a build warning | build |
 | Table | pipe table, header row, `|---|---|` separator; no caption line | `booktabs` rules, small type, columns sized to their content; breaks across pages | no |
 | Table widths | to set them yourself, make the separator dashes proportional and longer than one line (Pandoc's rule); otherwise the build sizes columns | as written | no |
+| Glossary | a bullet list in a `::: glossary` div, one item per headword | two columns with entries kept together | prose metrics use the introduction |
+| Parallel text | two `::: witness` divs inside a `:::: parallel-text` div, in source reading order | side-by-side panels | compare each excerpt against its credited source |
 | Verdict column | a table may carry the five markers, one per cell (`✓`, `~`) | same glyphs as the Notes | no |
 | Chinese, Greek, diacritics | type the characters (相, ā, ʿ, ṭ) | Noto Serif; Noto Serif CJK for Chinese | no |
 | Inline styles | `*italic*`, `**bold**` only; no raw LaTeX, no HTML, no `~sub~` or `^sup^` | as written | no |

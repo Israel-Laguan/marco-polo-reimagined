@@ -1,0 +1,27 @@
+sheet: mustasim-1258
+cards: [mustasim]
+year: 1258
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Ilkhanid (Jami' al-Tawarikh)
+likeness: "house convention, no authentic likeness"
+generator: GPT image model (image_gen.imagegen)
+job_id: "none: chat output"
+date: 2026-11-18
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/mustasim-1258.txt
+reference_images:
+  - file: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+    use: edit OK
+    licence: Public domain
+    credit: "Enthronement scene, Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23. Scan credited to the Munich 2005 catalogue, p. 263, via Wikimedia Commons"
+attribution: >-
+  Generated image (GPT image model, image_gen.imagegen, 2026-11-18) for The Book of the Million, a working reference
+  sheet in the manner of Ilkhanid (Jami' al-Tawarikh). Not a historical artifact.
+  Reference image: Enthronement scene, Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23. Scan credited to the Munich 2005 catalogue, p. 263, via Wikimedia Commons.
+review:
+  script: "Pass — no writing, seals or stamps. The two heaps use unmarked metal discs and vessels."
+  period: "Pass — mustasim 1258. Black Abbasid robe and black cloth turban, with no armour or sacred decoration."
+  figures: "Pass — one courtly middle-aged man with a full dark beard. Gold and silver from Polo's exemplum stand beside him."
+  idiom: "Pass — decisive linear drapery, flat colour, a three-quarter manuscript figure and a plain paper ground."
+  notes: "The stylised discs represent treasure in Polo's exemplum. The attached enthronement scene supplied painting cues only."

@@ -4,6 +4,8 @@
 > *“You must know that in the province of ADEN there is a Prince who is called the Soldan… it is by this way through Aden that the Saracens of Alexandria receive all their stores of pepper and other spicery… ESHER… white incense… cattle… live upon small fish… DUFAR… incense… CALATU… HORMOS… their houses are built with ventilators to catch the wind…”*
 > — Marco Polo, Book 3, chs. 36–40 (Yule–Cordier)
 
+**[M]**
+
 ---
 
 Marco Polo starts by narrating that in the province of Aden (ʿAdan / Aden) there is a Prince who is called the Soldan. The people are all Saracens and adorers of Mahommet, and they bear a great hatred of Christians. There are many towns and villages in the country. [1]
@@ -24,13 +26,13 @@ A great deal of white incense grows in this country, and brings in a great reven
 
 And he must tell another very strange thing. Their sheep have no ears, but where the ear ought to be they have a little horn — pretty little beasts. And all their cattle, including horses, oxen, and camels, live upon small fish and nought besides, for ’tis all they get to eat. In all this country there is no grass or forage of any kind; it is the driest country on the face of the earth. The fish given to the cattle are very small, and during March, April, and May are caught in such quantities as would astonish you. They are then dried and stored, and the beasts are fed on them from year’s end to year’s end. The cattle will also readily eat these fish all alive and just out of the water. The people likewise have many other kinds of large fish, exceedingly cheap; these they cut in pieces of about a pound each, dry in the sun, and store and eat all the year through, like so much biscuit. [9]
 
-— The frankincense monopoly and the fish-fed cattle are among the stronger ethnographic hits of the Arabian chapters. Sheḥr–Dhafār hills are the true ancient source of white *lubān*, with Somali *peratic* supply beside; Ichthyophagi report runs continuous from Mekran to the Gulf in Edrisi, Sidi ʿAli, and Ibn Baṭṭūṭa at Dhafār. The “earless” sheep are likely a small-eared or multi-horn breed misread. [10] five hundred miles further along the same coast, to Dufar, where the tree itself is shown.
+— The frankincense monopoly and the fish-fed cattle are among the stronger ethnographic hits of the Arabian chapters. Sheḥr–Dufar (Dhofar) hills are the true ancient source of white *lubān*, with Somali *peratic* supply beside; Ichthyophagi report runs continuous from Mekran to the Gulf in Edrisi, Sidi ʿAli, and Ibn Baṭṭūṭa at Dufar. The “earless” sheep are likely a small-eared or multi-horn breed misread. [10] five hundred miles further along the same coast, to Dufar, where the tree itself is shown.
 
 Dufar (Dhafār / Dhofar), according to the book, is a great and noble and fine city, some five hundred miles to the north-west of Esher. The people are Saracens and have a Count for their chief, subject to the Soldan of Aden; for this city still belongs to the Province of Aden. It stands upon the sea and has a very good haven, so that there is a great traffic of shipping between this and India; and the merchants take hence great numbers of Arab horses to that market. [11]
 
 Much white incense is produced here, and he will tell how it grows. The trees are like small fir-trees; these are notched with a knife in several places, and from these notches the incense is exuded. Sometimes also it flows from the tree without any notch, by reason of the great heat of the sun. [12]
 
-— The trees “like small firs” are simile only; actual *Boswellia* is not fir. Classical λιβανωτοφόρος country; Marāṣid knew the mountains of Dhafār and Merbāṭ as port, with death for diversion of incense. Ibn Baṭṭūṭa found horse-trade, dirt, and flies, and a sultan kin to Yemen. [13] Anyway, next he mentions Calatu, six hundred miles further, at the Gulf’s mouth.
+— The trees “like small firs” are simile only; actual *Boswellia* is not fir. Classical λιβανωτοφόρος country; Marāṣid knew the mountains of Dufar and Merbāṭ as port, with death for diversion of incense. Ibn Baṭṭūṭa found horse-trade, dirt, and flies, and a sultan kin to Yemen. [13] Anyway, next he mentions Calatu (Qalhat), six hundred miles further, at the Gulf’s mouth.
 
 Calatu (Qalhāt / Kalhāt), Polo narrates, is a great city within a gulf which bears the name of the Gulf of Calatu. It lies some six hundred miles from Dufar towards the north-west, upon the sea-shore. The people are Saracens and are subject to Hormos (Hormuz / Old Hormuz). Whenever the Melic of Hormos is at war with some prince more potent than himself, he betakes himself to this city of Calatu, because it is very strong, both from its position and its fortifications. [14]
 
@@ -40,11 +42,11 @@ This City of Calatu stands at the mouth of the Gulf, so that no ship can enter o
 
 Then he brings the reader a second time to Hormos. When you leave the City of Calatu and go for some three hundred miles between north-west and north, you come to the city of Hormos — a great and noble city on the sea. It has a Melic, which is as much as to say a King, and he is under the Soldan of Kerman. There are a good many cities and towns belonging to Hormos, and the people are Saracens. The heat is tremendous, and on that account their houses are built with ventilators to catch the wind. These ventilators are placed on the side from which the wind comes, and they bring the wind down into the house to cool it. But for this the heat would be utterly unbearable. [17]
 
-— The *bād-gīr* wind-catcher is a neat ethnographic hit: Oman, Kerman, Baghdad, Mekran, Sind, and a Cairo analogue all know the architecture. Della Valle, Figueroa, and Fryer later travellers confirm the same throat of masonry catching sea-wind. [18]
+— The *bād-gīr* wind-catcher is a neat ethnographic hit: Oman, Kerman, Baudas (Baghdad), Mekran, Sind, and a Cairo analogue all know the architecture. Della Valle, Figueroa, and Fryer later travellers confirm the same throat of masonry catching sea-wind. [18]
 
 I shall say no more about these places, the book explains, because it formerly told in regular order all about this same city of Hormos, and about Kerman as well — of the stitched ships and the dates-and-fish diet, of the simoom and the turn inland. But as we took one way to go, and another to come back, it was proper that we should bring you a second time to this point. [19]
 
-Now, however, we will quit this part of the world. First, however, there is a point omitted: when you leave the City of Calatu and go between west and north-west, a distance of some five hundred miles, you come to the city of Kis (Kish / Qais). Of that, however, we shall say no more now. [20]
+Now, however, we will quit this part of the world. First, however, there is a point omitted: when you leave the City of Calatu and go between west and north-west, a distance of some five hundred miles, you come to the city of Kisi (Kish or Qais). Of that, however, we shall say no more now. [20]
 
 — One last aside on bearings: Aden to Esher four hundred miles, Esher to Dufar five hundred, Dufar to Calatu six hundred, Calatu to Hormos three hundred — the north-west cascade and the mileages do not map cleanly on the real coast. Yule tried to draw Polo’s mental Arabia; only the Hormos bearing improves. The frankincense economy stands; the survey does not. [21]
 
@@ -56,25 +58,25 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [1] ✓ Aden as major Indian Ocean–Red Sea entrepôt (Ibn Baṭṭūṭa; Makrizi; long Islamic–China and India trade). Saracen; hatred of Christians; many towns. Reported only. As cited in Yule: Ibn Baṭṭūṭa, Makrizi [@yc, 3.36].
 
-[2] ✓ / ~ Spice path Aden → small craft → camel → Nile → Alexandria. ✓ overall corridor; ~ exact 7-day / 30-day stages and landing (Suakin / ʿAidhāb / Kosseir variants). Marino Sanudo’s Aden–Nile transit useful comparison.
+[2] ✓ / ~ [@yc, 3.36] Spice path Aden → small craft → camel → Nile → Alexandria. ✓ overall corridor; ~ exact 7-day / 30-day stages and landing (Suakin / ʿAidhāb / Kosseir variants). Marino Sanudo’s Aden–Nile transit useful comparison.
 
 [3] ✓ Soldan of Aden = Rasulid Yemen (Taʿizz seat; Aden chief port). Ramusio expands Red Sea gulf (~20 days), *zerms* to Cairo, *Calizene* canal — looks edited; Polo never says “Cairo.” Ibn Baṭṭūṭa: mountain-locked, rain-tanks, Indian and Egyptian merchants. Makrizi: Indian ships at Aden until exactions (~1325) push trade toward Jidda. As cited in Yule: Ibn Baṭṭūṭa, Makrizi [@yc, 3.36].
 
-[4] ✓ / ~ Horse exports (Arab chargers, palfreys, stout nags); India pays high (100+ marks silver per charger) — ✓ high Indian remount prices (Maabar notices); ~ exact figure. Soldan among the world’s richest from duties — ✓ pattern.
+[4] ✓ / ~ [@yc, 3.36] Horse exports (Arab chargers, palfreys, stout nags); India pays high (100+ marks silver per charger) — ✓ high Indian remount prices (Maabar notices); ~ exact figure. Soldan among the world’s richest from duties — ✓ pattern.
 
-[5] ~ / ◇ Acre 1291: Soldan of Babylon takes Acre; Soldan of Aden sends 30k horse / 40k camels — more from hate of Christians than love of Egypt; mutual hatred of the two Soldans. Acre fall ✓ 1291; Arabia summoned ✓; contingent numbers ◇ / inflated. Motive speech Venetian colour.
+[5] ~ / ◇ [@yc, 3.36] Acre 1291: Soldan of Babylon takes Acre; Soldan of Aden sends 30k horse / 40k camels — more from hate of Christians than love of Egypt; mutual hatred of the two Soldans. Acre fall ✓ 1291; Arabia summoned ✓; contingent numbers ◇ / inflated. Motive speech Venetian colour.
 
 [6] ✓ Acre 1291 as chronological anchor from outside the Asia years; Venetian bitterness living at dictation. Joinville’s legate had once foretold Acre washed in Christian blood — tonal parallel, not source of Polo’s numbers. As cited in Yule: Joinville [@yc, 3.36].
 
 [7] ✓ Esher = ash-Shiḥr; subject to Aden; Indian haven; surviving town/district; Barbosa traffic. ~ 400 miles NW of Aden as survey. As cited in Yule: Barbosa [@yc, 3.37].
 
-[8] ✓ / ~ Frankincense monopoly (buy 10 / sell 60 livres gold per cwt) — ✓ Sheḥr–Dhafār monopoly pattern (Marāṣid [-@marasid1852], an abridgment of Yāqūt, so not a second witness beside him); ~ exact ratio. Dates; little rice (imported); tunny cheap; sugar/rice/date wine.
+[8] ✓ / ~ [@yc, 3.37] Frankincense monopoly (buy 10 / sell 60 livres gold per cwt) — ✓ Sheḥr–Dhafār monopoly pattern (Marāṣid [-@marasid1852], an abridgment of Yāqūt, so not a second witness beside him); ~ exact ratio. Dates; little rice (imported); tunny cheap; sugar/rice/date wine.
 
 [9] ✓ Fish-fed cattle (horses, oxen, camels) on arid coast — Edrisi; Ibn Baṭṭūṭa; continuous Ichthyophagi report from Mekran to Gulf. ✓ / ~ Earless / horn-eared sheep — ✓ small-eared / multi-horn breeds exist; ~ “no ears” wording. Dried fish stored like biscuit. As cited in Yule: Edrisi [@yc, 3.37]; Ibn Baṭṭūṭa [@yc, 3.36].
 
 [10] ✓ Frankincense economy strong — monopoly pricing, notch-harvest, white *lubān*, Sheḥr–Dhafār hills as true ancient source (with Somali *peratic* supply). ✓ Fish-cattle: ethnographic hit.
 
-[11] ✓ Dufar = Dhofar frankincense plain; Saracen; Count under Soldan of Aden; good haven; India traffic; Arab horses. Classical and modern olibanum country. Site debate: Haffer ruins vs eastern plain / Merbāṭ. Ming *Tsafarh*; Camoens’ fragrant Dofar.
+[11] ✓ [@yc, 3.38] Dufar = Dhofar frankincense plain; Saracen; Count under Soldan of Aden; good haven; India traffic; Arab horses. Classical and modern olibanum country. Site debate: Haffer ruins vs eastern plain / Merbāṭ. Ming *Tsafarh*; Camoens’ fragrant Dofar.
 
 [12] ✓ Notch harvest of white incense; trees like small firs (~ simile only; actual *Boswellia* not fir); sometimes sun-flow without notch. Birdwood on *Boswellia*; Arabian incense-route archaeology. As cited in Yule: Birdwood [@yc, 3.38].
 
@@ -82,17 +84,17 @@ Thus the Indian Ocean book closes upon itself: Aden’s spice-road to Alexandria
 
 [14] ✓ Calatu = Qalhāt; Hormuzi stronghold and refuge (Ibn Baṭṭūṭa; Teixeira; Portuguese *Calaiate*). Melic of Hormos flees hither in war — strong site and walls. Earthquake ruin later. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36]; Teixeira [@yc, 3.39].
 
-[15] ✓ Massive annual horse export Calatu / Aden coast to India — enduring Gulf–India remount trade. ✓ / ~ Indian mismanagement kills imported horses — ✓ Book’s Maabar theme; ~ as universal cause. No corn (imported); large haven; spices distributed inland.
+[15] ✓ [@yc, 3.39] Massive annual horse export Calatu / Aden coast to India — enduring Gulf–India remount trade. ✓ / ~ Indian mismanagement kills imported horses — ✓ Book’s Maabar theme; ~ as universal cause. No corn (imported); large haven; spices distributed inland.
 
 [16] ✓ / ~ Melic can blockade Gulf vs Kerman overlord — ✓ Hormuz–Kerman tension and Kalhāt refuge; ~ as routine fiscal lever. ~ Stronger castle commanding Gulf entry = Muscat (Yule’s identification; not named in text). Diet: dates and salt fish; nobles better. Ibn Baṭṭūṭa: bazaars, Kāshān-tiled mosque, Indian merchants, Hormuzi overlordship. As cited in Yule: Ibn Baṭṭūṭa [@yc, 3.36].
 
-[17] ✓ Hormos heat; *bād-gīr* wind-catcher houses — classic Gulf / Iranian / Sind architecture. Melic under Kerman; Saracen towns. Leave Calatu ~300 miles NW–N → Hormos.
+[17] ✓ [@yc, 3.40] Hormos heat; *bād-gīr* wind-catcher houses — classic Gulf / Iranian / Sind architecture. Melic under Kerman; Saracen towns. Leave Calatu ~300 miles NW–N → Hormos.
 
 [18] ✓ Wind-catchers corroborated (Della Valle / Figueroa / Fryer; Oman, Kerman, Baghdad, Mekran, Sind; Cairo analogue). Neat ethnographic hit of III.xl. As cited in Yule: Figueroa, Fryer [@yc, 3.40].
 
-[19] ✓ / ? Second mention because outbound ≠ return itinerary — ✓ Book’s own logic; ? biographical which visit when (classic Hormuz route problem: outbound abort / return landfall / both). Cross-ref Book I Hormos and Kerman (stitched ships, dates-and-fish, simoom).
+[19] ✓ / ? [@yc, 3.40] Second mention because outbound ≠ return itinerary — ✓ Book’s own logic; ? biographical which visit when (classic Hormuz route problem: outbound abort / return landfall / both). Cross-ref Book I Hormos and Kerman (stitched ships, dates-and-fish, simoom).
 
-[20] ✓ / ~ Kis (Kish) ~500 miles W–NW of Calatu — ✓ island entrepôt real; ~ bearing/distance sketchy. Brief omit-repair; no more said (cf. Book I).
+[20] ✓ / ~ [@yc, 3.40] Kis (Kish) ~500 miles W–NW of Calatu — ✓ island entrepôt real; ~ bearing/distance sketchy. Brief omit-repair; no more said (cf. Book I).
 
 [21] ✗ / ~ Bearings Aden→Hormos cascade as geography — ✗ as survey; ~ as schematic coast-sequence. Distances inconsistent.
 

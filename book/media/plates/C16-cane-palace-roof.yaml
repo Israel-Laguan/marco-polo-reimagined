@@ -1,0 +1,33 @@
+plate: C16
+title: Cane palace roof section
+status: draft
+use: DIA base (labels added in TikZ)
+tradition: technical line and light wash
+caption: >-
+  A conjectural section of the Chandu cane palace roof, after Polo's description. Modern technical illustration. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, corrective_turns: 1, selected: media/plates/drafts/C16/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/C16.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- All features are after Polo's description only: split cane roof tiles, gilded column and silk tie cords; the exact section, joints, column ornament and tying pattern are invented because no period image was checked.
+post: >-
+  convert media/plates/drafts/C16/gpt-r1-2.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/C16-cane-palace-roof.png
+review:
+  script: Pass; no text, labels, numbers or leaders.
+  period: Pass with limits; explicitly presented as text-based conjecture.
+  scene: Pass; split half-canes, cords and gilded column.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; isolated technical line and light wash.
+  ground_and_aging: Pass; pale paper, broad margins.
+  artifact_risk: Caption identifies modern schematic and textual source.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_roof: Pass with limit; alternating sections and tying are conceptual, not validated construction.

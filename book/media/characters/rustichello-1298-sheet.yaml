@@ -1,0 +1,27 @@
+sheet: rustichello-1298
+cards: [rustichello]
+year: 1298
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: "Italian Gothic"
+likeness: "house convention, no authentic likeness"
+generator: "GPT image model in the chat agent"
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/rustichello-1298.txt
+reference_images:
+  - file: "media/references/ref_I-01_cocharelli-bl-add27695-f3v-genoese-dress.jpg"
+    use: edit OK
+    licence: "Public Domain in most countries other than the UK"
+    credit: "British Library, Cocharelli fragments, Add MS 27695, fol. 3v"
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Italian Gothic. Not a historical artifact.
+  Reference images: British Library, Cocharelli fragments, Add MS 27695, fol. 3v.
+review:
+  script: "Pass. The upper parchment quire and the margins are blank. There are no inscriptions, seals or signatures."
+  period: "Pass. Checked the sober tunic, mantle, and coif against the Genoa cue. The bench and plain ground leave the precise circumstances of confinement open."
+  figures: "Pass. One older stooping scribe with a short grey beard, loose blank quires, quill, ink-horn, penknife and a writing board on his knee."
+  idiom: "Pass. The angular folds, deliberately outlined figure and flattened tempera read as a Gothic author portrait."
+  notes: "The garment and writing posture leave lay or clerical status open, as the card requires."

@@ -58,6 +58,16 @@ local function lead(div)
 end
 
 local function Pandoc(doc)
+  -- As in print, show the glossary title as the sole heading for B2.
+  for i = #doc.blocks - 1, 1, -1 do
+    local label, title = doc.blocks[i], doc.blocks[i + 1]
+    if label.t == 'Header' and label.level == 1 and stringify(label):match('^Back Matter [IVX]+%-2$')
+        and title.t == 'Header' and title.level == 2 and title.identifier == 'names-and-pronunciation' then
+      title.level = 1
+      doc.blocks:remove(i)
+    end
+  end
+
   local keys = {}
   for id in pairs(used) do table.insert(keys, id) end
   if #keys == 0 then return pandoc.utils.citeproc(doc) end

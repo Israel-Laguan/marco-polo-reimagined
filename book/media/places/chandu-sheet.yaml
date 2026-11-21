@@ -1,0 +1,20 @@
+sheet: chandu
+place: chandu
+year: 1275
+status: draft
+use: Reference only. For editorial review.
+tradition: Early Yuan landscape
+generator: GPT image model (image_gen.imagegen)
+date: '2026-11-21'
+prompt: media/places/prompts/chandu.txt
+references_consulted:
+- https://whc.unesco.org/en/list/1389/
+- media/plates/III-9-palace-evidence-2026-11-19.md
+reference_images: []
+attribution: Generated working illustration for The Book of the Million.
+review:
+  script: No legible script, seal, or signature apparent.
+  period: The low earthen circuit and steppe setting read clearly. Gate and roof superstructures
+    are illustrative.
+  idiom: Early Yuan landscape
+  editorial: Pending.

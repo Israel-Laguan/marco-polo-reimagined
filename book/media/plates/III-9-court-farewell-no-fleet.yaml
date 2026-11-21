@@ -1,0 +1,94 @@
+plate: III-9
+title: Golden tablets, Cocachin and the fleet
+status: draft
+tradition: Yuan court painting
+caption: Cublay receives the party at court; the exact architecture and setting are conjectural. Modern illustration
+  in the manner of Yuan court painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params:
+  scale: '2:1'
+  resolution: 2700x1350
+  rounds: 2
+  selected: media/plates/drafts/III-9/correction-2026-11-19/01-court.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-9-court-no-fleet.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/kublai-1280-sheet.webp
+  use: accepted character sheet
+  licence: project-generated accepted reference
+  credit: The Book of the Million
+- file: media/characters/marco-1285-sheet.png
+  use: accepted character sheet
+  licence: project-generated accepted reference
+  credit: The Book of the Million
+- file: media/characters/niccolo-maffeo-1285-sheet.png
+  use: accepted character sheet
+  licence: project-generated accepted reference
+  credit: The Book of the Million
+- file: media/characters/cocachin-1291-sheet.png
+  use: accepted character sheet
+  licence: project-generated accepted reference
+  credit: The Book of the Million
+- file: media/characters/arghuns-envoys-1291-sheet.png
+  use: accepted character sheet
+  licence: project-generated accepted reference
+  credit: The Book of the Million
+figures:
+- id: kublai
+  year: 1291
+  cue: About 76, corpulent, pale cap, looped braids, single-colour robe, carried in litter; no crown.
+- id: marco
+  year: 1291
+  cue: About 37, slim and dark-bearded; Mongol robe, purse and gold paiza.
+- id: niccolo
+  year: 1291
+  cue: Older, broad and heavy-set, greying beard, Mongol robe.
+- id: maffeo
+  year: 1291
+  cue: Taller and leaner, greying dark beard, Mongol robe.
+- id: cocachin
+  year: 1291
+  cue: About 18, wide-sleeved robe, looped braids and small cap; unmarried, no boqta.
+- id: oulatay
+  year: 1291
+  cue: Broad, short greying beard, muted brick-red coat.
+- id: apusca
+  year: 1291
+  cue: Tall, slim, narrow moustache, indigo wrap coat.
+- id: coja
+  year: 1291
+  cue: Rounder face, dark beard, moss-green coat and modest fur-edged cap.
+cues:
+- C1
+- C4
+- C6
+unsourced:
+- Exact staging, vessel designs, court architecture, envoy faces and individual dress colours are illustration conventions.
+  The fleet is a separate narrative vignette, not the Khan's location.
+- Blank paiza faces are a deliberate no-lettering convention.
+post: convert media/plates/drafts/III-9/correction-2026-11-19/01-court.png -filter Lanczos -resize 2700x1350\! -unsharp
+  0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-9-court-farewell-no-fleet.png
+review:
+  script: Pass; tablets blank and no visible text or seals.
+  period: Pass with limits; character clothing follows house sheets, palace is interpretive.
+  scene: Court farewell only; architectural details require research.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; fine court contours and flat colour on silk.
+  ground_and_aging: Pass; even silk aging.
+  artifact_risk: Caption identifies modern origin and separate vignette.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_fleet: 'Not applicable: fleet moved to a separate companion plate.'
+  must_get_right_cocachin: Pass; looped braids and low cap, no boqta.
+  must_get_right_people: Pass with limits; eight principal figures follow accepted cards; figures rendered in house
+    style.
+  must_get_right_paiza: Pass; blank gold surfaces.
+revision:
+  date: '2026-11-19'
+  input: media/plates/III-9-court-farewell.png
+  selected: media/plates/drafts/III-9/correction-2026-11-19/01-court.png
+  review: Fleet inset removed; court architecture has not been authenticated and is subject to further research.

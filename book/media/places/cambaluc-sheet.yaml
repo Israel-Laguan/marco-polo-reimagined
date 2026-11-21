@@ -1,0 +1,20 @@
+sheet: cambaluc
+place: cambaluc
+year: 1285
+status: draft
+use: Reference only. For editorial review.
+tradition: Yuan architectural linework and ink landscape
+generator: GPT image model (image_gen.imagegen)
+date: '2026-11-21'
+prompt: media/places/prompts/cambaluc.txt
+references_consulted:
+- media/plates/III-9-palace-evidence-2026-11-19.md
+- plans/registry/visual-references.md
+reference_images: []
+attribution: Generated working illustration for The Book of the Million.
+review:
+  script: No legible script, seal, or signature apparent.
+  period: The low earthen wall and open approach read clearly. The gate and distant
+    roofs are generic.
+  idiom: Yuan architectural linework and ink landscape
+  editorial: Pending.

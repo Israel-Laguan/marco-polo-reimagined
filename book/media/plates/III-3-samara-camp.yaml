@@ -1,0 +1,34 @@
+plate: III-3
+title: Five months stranded at Samara
+status: draft
+tradition: Javanese and Sumatran temple relief
+caption: >-
+  A modest shore camp at Samara during the monsoon, after Polo's account. The large stockade and two thousand men belong to later redactions. Modern illustration in the manner of Javanese and Sumatran relief. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/III-3/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-3.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No direct period camp image has been checked; huts, garments, palm-tapping method, junks and the unnamed party are generic reconstruction, not archaeology.
+post: >-
+  convert media/plates/drafts/III-3/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-3-samara-camp.png
+review:
+  script: Pass; no lettering or seals.
+  period: Borderline; vessels, clothing and camp are generic reconstructions.
+  scene: Pass; modest camp, palm tappers, junks and monsoon rain.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; carved-stone appearance is convincing, specific regional idiom needs review.
+  ground_and_aging: Pass; even stone texture.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_camp: Pass; small group and no ditch or grand stockade.
+  must_get_right_tappers: Pass; two climbers with vessels.
+  must_get_right_ships: Pass with limit; one anchor is clear, other moorings are obscured.

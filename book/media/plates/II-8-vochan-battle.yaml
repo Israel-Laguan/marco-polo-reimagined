@@ -1,0 +1,33 @@
+plate: II-8
+title: Battle of Vochan
+status: draft
+tradition: Pagan temple murals
+caption: >-
+  Dismounted archers face elephant towers in a reconstruction of the battle described by Polo. The Book's numbers are inflated, and the battle's identification remains debated. Modern illustration in the manner of Pagan temple murals. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/II-8/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-8.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No period image of the battle or its elephant towers was found; howdahs, armour, weapons, dress, disposition and vegetation are a literary reconstruction.
+post: >-
+  convert media/plates/drafts/II-8/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-8-vochan-battle.png
+review:
+  script: Pass; no writing or seals.
+  period: Borderline; equipment and costumes lack a directly matching period image.
+  scene: Pass; dismounted archers, modest host of elephant towers turning into trees.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; flat pigment and repeated silhouettes suggest mural, specific Pagan idiom needs user review.
+  ground_and_aging: Borderline; mottled plaster texture is more pronounced than other drafts.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_elephants: Pass with limit; roughly two dozen appear but overlapping distant limbs are difficult to inspect.
+  must_get_right_howdahs: Pass with limit; speculative small wooden towers amid trees.

@@ -104,10 +104,10 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### III-12.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 13 Notes · 0 ★ · 1 without a lead marker · tag none
+- **Now:** 13 Notes · 0 ★ · 0 without a lead marker · tag none
 - **Do:**
   - Add the missing tag line `**[reception]**` under the epigraph (assigned in S-03; confirm against the chapter).
-  - Notes with no lead marker: [13] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-3/ch-12-reliability-essay.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-12 (2026-11-10):** the *Core comparative set* (:159) becomes keyed citations and says which texts the book follows: Yule–Cordier as base, the F text in `eusebi2018devisement`, Ramusio in `ramusio2015viaggi` (both open access), Kinoshita 2016 for English. `research/results/S-12-raw.md` § Task D ranks 15 core works. The sentence at :93 ("Scholars are cited by well-known works and positions") predates S-24: rewrite it to say Notes cite by position with a key and no unseen page numbers.

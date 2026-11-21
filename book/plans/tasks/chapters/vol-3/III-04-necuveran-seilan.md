@@ -91,12 +91,12 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### III-04.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-04.T3` (re-voice renumbers Notes)
-- **Now:** 17 Notes · 9 ★ · 3 without a lead marker · tag [R/M]
+- **Now:** 17 Notes · 0 ★ · 0 without a lead marker · tag [R/M]
 - **Do:**
   - Replace tag `[R/M]` with `**[M]**` (compound tags are retired; if the lean matters, say it in one clause of Note [1]).
   - 9 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
-  - Notes with no lead marker: [5], [7], [14] (fill, merge or rewrite; none may be a placeholder or pointer).
-  - "Dispute" label in Note(s) [5], [7], [14]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
+  - "Dispute" label in Note(s) [5], [7], [14]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-3/ch-04-necuveran-seilan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.

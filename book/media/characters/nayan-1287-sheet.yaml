@@ -1,0 +1,27 @@
+sheet: nayan-1287
+cards: [nayan]
+year: 1287
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Yuan court painting
+likeness: house convention, no authentic likeness
+generator: GPT image model (built-in image_gen in Codex)
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 3}
+prompt: media/characters/prompts/nayan-1287.txt
+reference_images:
+  - file: media/characters/kublai-1280-sheet.webp
+    use: edit OK
+    licence: Project-owned generated reference sheet, permitted under style-guide rule 9
+    credit: The Book of the Million, Kublai character reference sheet (1280)
+attribution: >-
+  Generated image (GPT image model, built-in image_gen in Codex, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Yuan court painting. Not a historical artifact.
+  Reference image: The Book of the Million, Kublai character reference sheet (1280).
+review:
+  script: "Pass. The gold ring and cross are the only emblem. The pennon, armour, silk and margins are clear of script, seals and signatures."
+  period: "Pass against the 1287 eastern plain cue. The red-lacquered lamellar coat, deep bowl helmet, brow band and neck guard remain visible."
+  figures: "Pass. One armoured Nayan holds a deep-blue narrow pennon below a black horsehair tuft. Checked the single gold cross at close range for four flaring arms, split ends and a plain enclosing ring."
+  idiom: "Pass. Even ink outlines and restrained pigments on pale silk follow the Yuan court idiom. Regeneration preserves the original armour design with small differences in rendering."
+  notes: "v1 used a red cross on a white rectangular flag that read as crusader heraldry."

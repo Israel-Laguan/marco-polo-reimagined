@@ -1,8 +1,6 @@
 # Marco Polo Retelling — Executive Summary (Volume / Chapter Map)
 
-**Series:** *The Book of the Million* — polished formal retelling on the Yule–Cordier / *Il Milione* base.  
-**Full outline:** `outline-volumes.md`  
-**Density:** long-book blueprint (40 narrative chapters + closing essay); trim map included if stricter band counts are required.
+The Book of the Million is a formal retelling of *Il Milione* based on Yule–Cordier. The draft has 40 numbered chapters, including the closing essay. See the [full outline](outline-volumes.md) and [series status](SERIES-STATUS.md).
 
 ---
 
@@ -11,8 +9,10 @@
 | Vol | Title | Spine (Yule–Cordier) | Chs | Function |
 |-----|--------|----------------------|-----|----------|
 | **I** | *From Venice to the Khan* | Prologue + Book I → Chandu | **13** | How the book was made; Polos; Genoa/Rustichello; outbound overland; arrival at Shangdu |
-| **II** | *The Realm of Kublai* | Book II (+ Book IV compressed) | **15** | Court, admin, Cathay/Manzi/SW domains; **[V]/[R]/[M]** tags; Kaidu/Ilkhanid horizon |
-| **III** | *Seas, Return, and After* | Book III + return + reception | **11 + essay** | Maritime Asia & India; Cocachin return; Venice & afterlives; reliability essay + apparatus |
+| **II** | *The Realm of Kublai* | Book II (+ Book IV compressed) | **15** | Court, admin, Cathay/Manzi/SW domains; Kaidu/Ilkhanid horizon |
+| **III** | *Seas, Return, and After* | Book III + return + reception | **12** | Maritime Asia & India; Cocachin return; Venice & afterlives; closing reliability essay |
+
+Chapters in Volumes II and III use `[V]` for what Polo says he saw or did, `[R]` for what he reports hearing, and `[M]` for a mix. III-10 through III-12 use `[reception]`. See the [full tag definitions](VOICE-GUIDE.md#tags-whole-chapter-verdict-vols-iiiii).
 
 ---
 
@@ -28,8 +28,7 @@
 
 ## Front / end matter (all volumes)
 
-- **Front:** series or volume preface; name/date conventions (book-name + modern); reliability legend (✓ ~ ✗ ◇ ?); map list.  
-- **End:** gazetteer pointer; bibliography skeleton (texts; Yuan/Mongol; travellers; Wood–Haw–Vogel–Larner debate; regional; reception); index categories incl. dedicated **Disputes & corrigenda**.
+Each volume opens with historical context and a map guide, then ends with trivia and pointers to disputed claims. The PDF build adds *Abbreviations* and *Works cited*. See the [reading order and apparatus](FRONT-BACK-MATTER.md).
 
 ---
 
@@ -50,7 +49,7 @@
 
 | Output | Path | Chapters |
 |--------|------|----------|
-| Full outline | `outline-volumes.md` | I: **13** · II: **15** · III: **11 + essay** |
+| Full outline | `outline-volumes.md` | I: **13** · II: **15** · III: **12** |
 | This summary | `outline-summary.md` | — |
 
 Trim-to-band options (I 11 / II 13 / III 12) are noted at the end of the full outline if production requires the narrower locked ranges.

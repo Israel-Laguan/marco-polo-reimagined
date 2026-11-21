@@ -1,0 +1,38 @@
+sheet: toghrul-1203
+people: [toghrul]
+cards: none yet (CHR.T2), dress is a working convention
+year: 1203
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+scene: I-12
+tradition: Ilkhanid (Jami' al-Tawarikh)
+likeness: house convention, no authentic likeness
+dress_basis: S-22 C5 and C6 provide later steppe court comparisons. The blue belted wrap coat, oxide-red border,
+  russet felt cap and boots are a working costume for 1203.
+generator: GPT image model (built-in image_gen in Codex)
+job_id: 'none: chat output'
+date: '2026-11-18'
+params:
+  size: 1448x1086
+  tries: 2
+prompt: media/characters/prompts/toghrul-1203.txt
+reference_images:
+- file: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23, enthronement scene. Scan credited to the Munich 2005
+    catalogue, p. 263.
+attribution: >-
+  Generated with the GPT image model in Codex on 2026-11-18 for The Book of the Million.
+  Working reference in the manner of Ilkhanid manuscript painting.
+  Reference image credit goes to the Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23.
+  Scan credited to the Munich 2005 catalogue, p. 263.
+review:
+  script: Pass. The paper, garment bands and accessories are clear of text, seals and signatures.
+  period: Pass for comparative dress. The belted wrap coat and rounded cap use steppe garment types. The Diez court
+    scene is a later comparandum for cut and pose.
+  figures: Pass. One older Kereit ruler with a spare silhouette and divided greying beard. These are house conventions.
+  idiom: Pass. The red contour accents, compact form and repeated rounded fold lines bring the figure into the Tabriz
+    manuscript idiom.
+  notes: The second try uses flatter pigment handling and an unmarked collar band. The date identifies his final
+    campaign period. The references do not document his precise age, face, or outfit.

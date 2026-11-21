@@ -1,0 +1,33 @@
+plate: III-4
+title: Pilgrims on Adam's Peak chains
+status: draft
+tradition: Polonnaruwa mural painting
+caption: >-
+  Buddhist and Muslim pilgrims climb Adam's Peak, sacred in more than one tradition. The chains follow Polo's hearsay, not evidence that he climbed the mountain. Modern illustration in the manner of Polonnaruwa murals. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '3:4', resolution: 1350x1800, rounds: 1, selected: media/plates/drafts/III-4/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-4.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No directly relevant period pilgrim dress image was found; clothing, identities, chain anchors, precise path and landscape are reconstructed.
+post: >-
+  convert media/plates/drafts/III-4/gpt-r1-1.png -filter Lanczos -resize 1350x1800\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-4-adams-peak-pilgrims.png
+review:
+  script: Pass; no writing or seals.
+  period: Borderline; pilgrim dress and setting are generic.
+  scene: Pass; mixed pilgrims climb via chains.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; flat mural colour, but Polonnaruwa specificity needs review.
+  ground_and_aging: Pass; even plaster.
+  artifact_risk: Caption identifies modern origin and hearsay.
+  print: Pass; 1350x1800, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_chains: Pass; chains visibly gripped and attached to rocks.
+  must_get_right_traditions: Pass with limit; identities are suggested by generic dress, not historically verified costumes.

@@ -203,6 +203,10 @@ local function Pandoc(doc)
       local figure = blocks[i + 1]
       i = i + 1 + map_caption(figure, b, blocks[i + 2])
       put(figure)
+    elseif front_maps and b.t == 'Header' and b.level == 3 and stringify(b):match('^Place table ')
+        and blocks[i + 1] and blocks[i + 1].t == 'Table' then
+      put(raw('\\Needspace{7\\baselineskip}'))
+      put(b)
     elseif front_maps and b.t == 'Figure' then
       i = i + map_caption(b, nil, blocks[i + 1])
       put(b)
@@ -233,6 +237,29 @@ local function Pandoc(doc)
     elseif b.t == 'Para' and not in_notes and strip_lead(b.content, '—') then
       put(raw('\\begin{aside}')); put(pandoc.Para(strip_lead(b.content, '—')))
       put(raw('\\end{aside}'))
+    elseif b.t == 'Div' and b.classes:includes('glossary') then
+      put(raw('\\begin{multicols}{2}\\small'))
+      for _, list in ipairs(b.content) do
+        assert(list.t == 'BulletList', 'glossary: expected a bullet list')
+        for _, entry in ipairs(list.content) do
+          put(raw('\\noindent\\begin{minipage}[t]{\\linewidth}\\RaggedRight'))
+          for _, x in ipairs(entry) do put(x) end
+          put(raw('\\end{minipage}\\par\\vspace{2pt}'))
+        end
+      end
+      put(raw('\\end{multicols}'))
+    elseif b.t == 'Div' and b.classes:includes('parallel-text') then
+      assert(#b.content == 2, 'parallel text: expected two source panels')
+      local column = '\\begin{minipage}[t]{0.47\\linewidth}\\raggedright\\setlength{\\parskip}{3pt}'
+      put(raw('\\begin{paralleltext}\\noindent' .. column))
+      for j, panel in ipairs(b.content) do
+        assert(panel.t == 'Div', 'parallel text: expected a div for each source panel')
+        if j == 2 then
+          put(raw('\\end{minipage}\\hfill' .. column))
+        end
+        for _, x in ipairs(panel.content) do put(x) end
+      end
+      put(raw('\\end{minipage}\\end{paralleltext}'))
     elseif b.t == 'Div' and b.classes:includes('howto') then
       put(raw('\\begin{howto}')); linked = false
       for _, x in ipairs(b.content) do put(x) end

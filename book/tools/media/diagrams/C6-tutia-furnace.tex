@@ -1,0 +1,21 @@
+% C6 — Tutia furnace at Cobinan (I-8). Book: vol-1/ch-08 ¶¶ "Cobinan" and "They have a vein", Note [4] ([@yc, 1.21]).
+% Modern reading (zinc-oxide soot for eye salve) as in the chapter and Note [4].
+\path (0,0) -- (11.43,0);
+\node[dg-head] at (0,0.25) {Tutia and spodium, as the Book describes the process};
+% furnace body
+\fill[inksoft!25] (2.2,2.9) rectangle (5.2,4.7);
+\draw[ink, line width=0.6pt] (2.2,2.2) -- (2.2,4.7) -- (5.2,4.7) -- (5.2,2.2);
+% flames
+\foreach \x in {2.6,3.1,3.6,4.1,4.6} { \fill[vI!70] (\x,4.45) .. controls ({\x+0.15},4.0) .. ({\x+0.05},3.6) .. controls ({\x+0.25},3.95) .. ({\x+0.3},4.45) -- cycle; }
+% earth charge
+\fill[vII!55] (2.5,3.55) rectangle (4.9,3.75);
+% grating
+\foreach \x in {2.3,2.55,...,5.15} { \draw[ink, line width=0.8pt] (\x,2.05) -- (\x,2.35); }
+\draw[ink, line width=0.8pt] (2.2,2.05) -- (5.2,2.05);
+% smoke
+\foreach \x in {2.9,3.6,4.3} { \draw[inksoft, line width=0.5pt, -{Stealth[length=3pt]}] (\x,3.45) .. controls ({\x-0.2},3.0) and ({\x+0.2},2.8) .. (\x,2.45); }
+% labels
+\draw[tl-leader] (5.25,2.2) -- (6.2,1.4); \node[dg-text, text width=5.1cm] at (6.3,1.4) {\textbf{Iron grating}: the smoke and moisture of the earth cling to it and form \textbf{tutia}, an eye salve};
+\draw[tl-leader] (4.95,3.65) -- (6.2,2.9); \node[dg-text, text width=5.1cm] at (6.3,2.9) {\textbf{A certain earth}, dug from a vein, put into the furnace};
+\draw[tl-leader] (5.25,4.2) -- (6.2,4.2); \node[dg-text, text width=5.1cm] at (6.3,4.2) {\textbf{Great flaming furnace}; the slag left after burning is \textbf{spodium}};
+\node[dg-note, text width=11.2cm] at (0,5.15) {A modern reading: zinc-oxide soot, the \textit{tūtiyā} of Arabic pharmacy. One of the Book's stronger technical passages.};

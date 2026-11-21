@@ -1,0 +1,27 @@
+sheet: bayan-1275
+cards: [bayan]
+year: 1275
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Yuan court painting
+likeness: house convention, no authentic likeness
+generator: GPT image model in the chat agent
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/bayan-1275.txt
+reference_images:
+  - file: media/reference/s22/moko-shurai-ekotoba-scroll.jpg
+    use: edit OK
+    licence: Public domain
+    credit: "Mōko Shūrai Ekotoba, Yuan archers and a mounted samurai, later copy credited to the National Diet Library (蒙古襲来合戦絵巻), via Commons."
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Yuan court painting. Not a historical artifact.
+  Reference images: Mōko Shūrai Ekotoba, Yuan archers and a mounted samurai, later copy credited to the National Diet Library (蒙古襲来合戦絵巻), via Commons.
+review:
+  script: "Pass. Blank silk and corners, armour, helmet and equipment show no lettering, seals or stamps."
+  period: "Pass. The 1275 Manzi cue is visible in the red-lacquered lamellar coat, deep bowl helmet with brow band, crest fitting and neck guard, black cased bow and lacquered quiver with arrows."
+  figures: "Pass. One lean, composed, moustached commander of about forty. He stands with empty hands."
+  idiom: "Pass. Fine even inkwork, subdued pigments and restrained Yuan figure modelling on pale silk."
+  notes: "The Song seal is a feature of the surrender scene. This standalone reference sheet shows the commander and his Manzi campaign equipment."

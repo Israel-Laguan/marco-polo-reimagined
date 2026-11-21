@@ -1,0 +1,22 @@
+sheet: kublai-1280
+cards: [kublai]
+year: 1280
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Yuan court painting
+likeness: "Yuan imperial portrait album (National Palace Museum, Taipei): face and court dress. Liu Guandao, Khubilai Khan Hunting (1280): body at 65, white fur over a red robe"
+generator: GPT image model in the chat agent
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/kublai-1280.txt
+reference_images: []
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Yuan court painting. Not a historical artifact.
+review:
+  script: "Pass. The margins, silk, clothing, and tack are free of script, seals, and signatures."
+  period: "Pass. Checked the white crossed-collar robe and hat against C1 and the hunt coat, cap, and horse tack against C3."
+  figures: "Pass. The same heavy-set man appears in two views, with one horse and one white gerfalcon. The broad face, moustache, small beard, and looped braids agree with the card."
+  idiom: "Pass. Fine ink outlines and restrained pigment on plain silk read as Yuan court painting."
+  notes: "Existing user-accepted benchmark. This sidecar uses the requested draft value. The original sheet was supplied as WebP and was preserved."

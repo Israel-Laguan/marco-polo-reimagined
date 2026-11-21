@@ -1,6 +1,6 @@
 # Reference images — S-22 (period objects)
 
-Saved 2026-11-13 for **looking at**, when writing or reviewing plate prompts. They are not plates and are not placed in the book. Do not use any of them as an image input to a generator (S-22 use rule 2). A file used in print later needs its own rights check and an `ATTRIBUTIONS.md` row (see `plans/registry/pd-sources.md`).
+Saved 2026-11-13 for **looking at**, when writing or reviewing plate prompts. They are not plates and are not placed in the book. Since 2026-11-18 (style-guide rule 9, amended) every file here counts as `edit OK` for image input, because each is stated as public domain, CC0 or Met Open Access; list any file you attach in the plate's sidecar. A file used in print later needs its own rights check and an `ATTRIBUTIONS.md` row (see `plans/registry/pd-sources.md`).
 
 Licence column: what the source page states. Commons "public domain" tags cover the old artwork; the scans come from the publications named.
 

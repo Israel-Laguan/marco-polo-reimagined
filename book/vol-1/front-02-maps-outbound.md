@@ -39,55 +39,96 @@ This second map is political weather more than itinerary. When the book says a r
 ### Place table — prologue and Black Sea / Volga hinge
 
 | Book name | Modern | Role in Vol. I |
-|-----------|--------|----------------|
-| Venice | Venice, Italy | Home parish; start and final return (c. 1295) |
-| Constantinople | Istanbul, Turkey | Elder brothers’ Latin-era base; later Black Sea return node |
-| Soldaia | Sudak, Crimea | Crimean trading foothold of the house |
-| Sarai | Sarai region (Lower Volga), Russia | Berke (Barca) court country |
-| Bolghar | Bolgar, Tatarstan, Russia | Volga Bulgaria sojourn on the first voyage |
-| Bokhara | Bukhara, Uzbekistan | Three-year trap; meeting with Great Khan’s envoys |
+|-----------------|-------------------------|----------------------------------------|
+| Genoa | Genoa, Italy | Where Marco, captured in the Venetian–Genoese war, dictated the Book to Rustichello (the frame story). |
+| Venice | Venice, Italy | Polos' home; prologue start and return end (c. 1295). |
+| Curzola | Korčula, Croatia | Battle of Curzola (1298) is Ramusio's setting for Marco's capture; not in the French text. |
+| Negropont | Chalkida (Euboea), Greece | Venetian base the elder brothers touched on the way home from Acre; also the galley-captain origin in the return chapters. |
+| Constantinople | Istanbul, Turkey | Brothers' first base and Black Sea departure; also on the return. |
+| Soldaia | Sudak, Crimea | Crimean trading base of the Polo house. |
+| Sarai | Sarai (near Selitrennoye), Russia | Court of Berke (Barca) Khan; Golden Horde capital region. |
+| Bolghar | Bolgar, Tatarstan, Russia | Volga Bulgaria; first brothers' journey. |
+| Ucaca | Uvek (near Saratov), Russia | Frontier town on the Volga crossed by the brothers; site approximate (Yule: Ukek). |
+| Bocara | Bukhara, Uzbekistan | Where Nicolo and Maffeo were stranded three years and met the Khan's envoys. |
 
 ### Place table — outbound from Acre into Persia
 
 | Book name | Modern | Role in Vol. I |
-|-----------|--------|----------------|
-| Acre | Acre (Akko), Israel | Second departure; papal / legate business |
-| Ayas (Lajazzo) | Yumurtalık, Turkey | Cilician port; land gate into Anatolia–Persia |
-| Sivas | Sivas, Turkey | Anatolian stage toward the east |
-| Erzincan | Erzincan, Turkey | Armenian highland road |
-| Erzurum | Erzurum, Turkey | Corridor toward Tabriz |
-| Mosul | Mosul, Iraq | Mausul — chiefly reported (Nestorian/Jacobite, muslin) |
-| Baudas (Baghdad) | Baghdad, Iraq | Caliph’s fall and marvel tales; itinerary weight debated |
-| Tauris (Tabriz) | Tabriz, Iran | Ilkhanid hub; outbound and return |
-| Saba (Saveh) | Saveh, Iran | Magi tombs tradition |
-| Yazd | Yazd, Iran | Silk / desert-edge city toward Kerman |
-| Kerman | Kerman, Iran | Hub; turquoise, steel, desert routes |
-| Hormuz (Hormos) | Old Hormuz near Minab, Iran | Book returns to Kerman (abandoned sea plan is Yule’s inference); later return landfall |
+|-----------------|-------------------------|----------------------------------------|
+| Acre | Acre (Akko), Israel | Second departure with Marco; papal business with Tedaldo (Gregory X). |
+| Ayas | Yumurtalık (Ayas), Turkey | Cilician Armenian port; where the Polos turn back on news of war; Jacopo d'Acqui puts Marco's capture here. |
+| Lesser Hermenia | Cilician Armenia, Turkey | Region; kingdom of Hethum II and the port of Ayas. |
+| Greater Hermenia | Armenian Highland (Turkey/Armenia) | Region; regional centroid. |
+| Turcomania | Central Anatolia, Turkey | Region; Turkoman herdsmen, carpets and silks; Conia, Casaria and Savast lie in it. |
+| Conia | Konya, Turkey | Named in the Turcomania chapter (carpets, silks). |
+| Casaria | Kayseri, Turkey | Named in the Turcomania chapter. |
+| Savast | Sivas, Turkey | Sebaste; Anatolian stage; St Blaise's martyrdom tradition. |
+| Arzinga | Erzincan, Turkey | Armenian highlands on the Tabriz road; buckram town. |
+| Arziron | Erzurum, Turkey | Corridor toward Tabriz. |
+| Arzizi | Erciş (Arjish), by Lake Van, Turkey | Named beside Arziron; Lake Van country. |
+| Ararat | Mount Ararat, Turkey | Resting place of the Ark, as the Book has it. |
+| Baku | Baku, Azerbaijan | Oil of Baku, named in the Georgia chapter. |
+| Derbend | Derbent, Dagestan, Russia | Iron Gate of Alexander in the Georgia chapter. |
+| Georgiania | Georgia (country) | Region; kings with the eagle and the fish miracle. |
+| Mausul | Mosul, Iraq | Nestorian and Jacobite country; muslin trade. |
+| Baudas | Baghdad, Iraq | Fall of the Caliph and the mountain miracle; itinerary weight debated. |
+| Kisi | Kish (Qays) Island, Iran | Gulf island port where the Baudas merchants enter the Indian Sea. |
+| Bastra | Basra, Iraq | Date-palm port of the Tigris; Baudas trade. |
+| Persia | Iran | Region; the Book's eight kingdoms of Persia. |
+| Tauris | Tabriz, Iran | Ilkhanid hub; outbound and return. |
+| Saba | Saveh, Iran | Tomb-towers of the Magi tradition. |
+| Avah | Āvah (Āveh), south of Saveh, Iran | Town near Saba associated in the Book with one of the Magi. |
+| Kashan | Kashan, Iran | Caravan town on the Persian road, mentioned in Odoric’s Magi account. |
+| Yasdi | Yazd, Iran | Silk and desert-edge city en route to Kerman. |
+| Kerman | Kerman, Iran | Hub; turquoise and steel; outbound and return. |
+| Camadi | Qamādin (Jiroft area), Iran | Ruined trading town on the descent from Kerman, near Jiroft. |
+| Reobarles | Rudbar (Rudbari), Kerman, Iran | Warm lowland on the descent from Kerman to Hormos. |
+| Hormos | Old Hormuz (Minab area), Iran | Mainland Gulf port in the Book, shown on maps by a regional reference at Minab. |
 
 ### Place table — deserts, high valleys, Tarim, Tangut, court
 
 | Book name | Modern | Role in Vol. I |
-|-----------|--------|----------------|
-| Tonocain / Arbre Sec | Dasht-e Kavir region, Iran | Dry Tree landmark; folkloric geography |
-| Balkh | Balkh, Afghanistan | Ruined ancient capital (Balc) |
-| Badakhshan | Badakhshan (Fayzabad area), Afghanistan | Rubies, horses; Marco’s recovery in the hills |
-| Wakhan | Wakhan Corridor, Afghanistan | Upper Oxus approach to Pamir |
-| Pamir | Pamir Plateau | High crossing; name enters Europe widely via Polo |
-| Kashgar | Kashgar, Xinjiang, China | Major Tarim oasis (Cascar) |
-| Yarkand | Yarkand, Xinjiang, China | Oasis; goitre noted |
-| Khotan | Hotan, Xinjiang, China | Jade and cotton (Cotan) |
-| Lop (City of Lop) | Charklik / Ruoqiang, Xinjiang, China | Staging for the great desert |
-| Desert of Lop | Taklamakan / Lop Desert | Spirit-voices crossing |
-| Succiu (Suzhou/Jiuquan) | Jiuquan, Gansu, China | Tangut frontier oasis |
-| Campichu (Ganzhou) | Zhangye, Gansu, China | Tangut country |
-| Karakorum | Kharkhorin, Mongolia | Old capital — largely historical digression |
-| Tenduc | Tumed / Hohhot region, China | Prester John / King George colour; site debated |
-| Shangdu (Xanadu) | Shangdu, Duolun County, China | Summer court; Volume I’s arrival climax |
-| Cambaluc (Khanbaliq) | Beijing, China | Winter capital threshold into Volume II |
+|-----------------|-------------------------|----------------------------------------|
+| Cobinan | Kuhbanan, Iran | Tutia and steel mirrors; Yule's Kuh-Banan. |
+| Tonocain | Tun and Qāʾen, South Khorasan, Iran | Province associated with Tun and Qāʾen; the Qaen point is a regional reference, not a boundary. |
+| Old Man of the Mountain | Alamut, Iran | Assassin legend (Hashishin); Alamut is the classic scholarly locus, Polo's telling is folkloric. |
+| Sapurgan | Shibarghan, Afghanistan | On the approach to Balc. |
+| Balc | Balkh, Afghanistan | Ruined ancient capital. |
+| Taican | Taloqan, Afghanistan | Salt mountains noted by Polo. |
+| Casem | Kishm (Keshem), Badakhshan, Afghanistan | Province beyond Taican, mapped with a district reference near Kishm. |
+| Badashan | Badakhshan (Fayzabad area), Afghanistan | Rubies, horses; Marco recovered from illness. |
+| Pashai | Pashai country (Laghman–Kunar), Afghanistan | Hearsay region south of Badashan; magicians and idols. |
+| Keshimur | Kashmir (valley), India | Described from report; Polo did not go there. |
+| Vocan | Wakhan Corridor, Afghanistan | Upper Oxus approach to the Pamier. |
+| Bolor | Bolor (Gilgit–Chitral mountains) | Highland tribes south of the Pamier; region centroid, no fixed point. |
+| Pamier | Pamir Plateau (Tajikistan/Afghanistan) | High plateau crossed in the Book. |
+| Cascar | Kashgar, Xinjiang, China | Major Tarim oasis. |
+| Samarcan | Samarkand, Uzbekistan | Named in the Book with the Christian miracle of the pillar; Polo does not claim to have been there. |
+| Yarcan | Yarkand (Yarkant), Xinjiang, China | Goitre noted by Polo. |
+| Cotan | Hotan, Xinjiang, China | Jade and cotton. |
+| Pein | Keriya / Uzun-Tati area, Xinjiang, China | Oasis town beyond Cotan, provisionally placed at Uzun-tatïr. |
+| Charchan | Qiemo (Cherchen), Xinjiang, China | Southern Tarim oasis. |
+| Lop | Charklik / Ruoqiang, Xinjiang, China | Staging town for the Gobi crossing. |
+| Desert of Lop | Lop Desert, Xinjiang, China | Region; spirit voices and false camps. |
+| Camul | Hami, Xinjiang, China | Hospitality customs; on the northern desert road. |
+| Sachiu | Dunhuang, Gansu, China | Main stop in the Tangut chapters. |
+| Sukchur | Jiuquan, Gansu, China | Tangut frontier oasis (Suzhou of the Tangut road, not the Suju of Manzi). |
+| Campichu | Zhangye, Gansu, China | Tangut country; Polo says a year was spent here (variant readings). |
+| Etzina | Khara-Khoto (Ejina), Inner Mongolia, China | Ruined Tangut city; edge of the desert towards Caracoron. |
+| Erguiul | Wuwei (Liangzhou), Gansu, China | Tangut kingdom; Yule: Erichew = Liangzhou. |
+| Sinju | Xining, Qinghai, China | Province of Sinju (Vol. |
+| Egrigaia | Yinchuan (Ningxia), China | Tangut province with the city Calachan; Yule: Ning-hia. |
+| Caracoron | Karakorum (Kharkhorin), Mongolia | Old Mongol capital; described in the digression on the Tartars. |
+| Bargu | Barguzin (Lake Baikal region), Russia | Northern plain beyond Caracoron; region centroid. |
+| Tenduc | Tumed / Hohhot region, Inner Mongolia, China | King George’s country in the Book, provisionally shown in the Hohhot area. |
+| Chandu | Shangdu (Duolun County), Inner Mongolia, China | Kublai's summer capital (Kaiping/Shangdu). |
+| Cambaluc | Beijing, China | Winter capital of the Great Kaan; Taidu is Yule's rendering of Dadu. |
+
+*Places without a map fix:* Canosalmi, Arbre Sec, Dogana, Chingintalas, Chagannor, Prester John.
 
 ### A few map cautions
 
-Hormuz in Polo’s outbound chapters is **Old Hormuz** on the mainland near Minab, not the later island city tourists photograph. Baudas and the mountain-miracle story may sit nearer to report and pious tale than to a GPS pin on the family’s path. Tenduc and the Arbre Sec are soft geography — useful as book landmarks, dangerous as survey points. The Desert of Lop is a region, not a single campsite. [5]
+**Hormos** in the outbound chapters is Old Hormuz on the mainland. Its map point marks the modern Minab area. The point for Camadi marks modern Jiroft, near the trading town of Qamādin. Baudas and the mountain-miracle story may sit nearer to report and pious tale than to a GPS pin on the family’s path. Tenduc and the Arbre Sec are soft geography — useful as book landmarks, dangerous as survey points. The Desert of Lop is a region, not a single campsite. [5]
 
 When a chapter says “forty days” or “seven days,” treat the number as narrative measure first and itinerary stopwatch second. Medieval days’-journeys compress and expand with memory, danger, and literary habit.
 

@@ -1,0 +1,33 @@
+plate: I-10
+title: Crossing the Pamier
+status: draft
+tradition: Ilkhanid Persian manuscript painting
+caption: >-
+  A reconstructed crossing of the Pamier with wild sheep and Polo's report of a fire that would not cook. Modern illustration in the manner of Ilkhanid manuscript painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '2:1', resolution: 2700x1350, rounds: 1, corrective_turns: 1, selected: media/plates/drafts/I-10/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-10.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No contemporary image of this crossing was found; travellers, animals, dress, fire and exact terrain are reconstruction after the literary account. The cause of the fire report is not established.
+post: >-
+  convert media/plates/drafts/I-10/gpt-r1-2.png -filter Lanczos -resize 2700x1350\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-10-pamier-crossing.png
+review:
+  script: Pass; no visible writing or seals.
+  period: Borderline; generic travellers and pack animals are not sourced to a period image.
+  scene: Pass; travellers, pot and sheep on a snowy plateau; no horn cairns.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass with limits; flat ink manuscript manner, snow and sky are interpretive.
+  ground_and_aging: Pass; light even paper.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_sheep: Pass with limit; distant animals have long curling horns but detail is small.
+  must_get_right_plateau: Pass; snowy plateau and mountains.

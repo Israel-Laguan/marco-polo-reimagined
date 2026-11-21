@@ -6,7 +6,7 @@
 
 ---
 
-Volume II is where wonder and paperwork shake hands. Readers remember paper money, burning stones, Kinsay’s bridges — and then the arguments begin. This companion collects trivia worth pocketing and the main disputes the chapters already mark with short asides. Use it after the narrative, not instead of it. [1]
+Volume II is where wonder and paperwork shake hands. Readers remember paper money, burning stones, Kinsay’s bridges — and then the arguments begin. This companion collects trivia worth pocketing and the main disputes the chapters already mark with short asides. Use it after the narrative, not instead of it.
 
 ### Trivia worth keeping
 
@@ -30,19 +30,19 @@ Volume II is where wonder and paperwork shake hands. Readers remember paper mone
 
 ### Disputed claims — the Volume II shortlist
 
-**Yanju (Yangzhou) governorship.** The city identification is firm. The claim that Marco governed Yangzhou for three years is one of the most contested autobiographical statements in the book. No tidy Chinese appointment record has convinced the whole field; defenders argue for some local fiscal or commission role lost in translation; sceptics call it inflation of a merchant-guest’s errands. This retelling keeps the claim as book tradition and flags it inline. [2]
+**Yanju (Yangzhou) governorship.** The city identification is firm. The claim that Marco governed Yangzhou for three years is one of the most contested autobiographical statements in the book. No tidy Chinese appointment record has convinced the whole field; defenders argue for some local fiscal or commission role lost in translation; sceptics call it inflation of a merchant-guest’s errands. This retelling keeps the claim as book tradition and flags it inline. [1]
 
-**Saianfu (Xiangyang) and the mangonels.** Xiangyang’s siege is real and decisive in the Song war. That Niccolò and Maffeo (or their engineers) introduced the counterweight trebuchets that broke the stalemate is a famous Polo-family boast. Military historians note Muslim/Mongol engineers (often named in Chinese sources) as the better-attested technical agents. Visit versus report, and family credit versus court credit, remain open. [3]
+**Saianfu (Xiangyang) and the mangonels.** Xiangyang’s siege is real and decisive in the Song war. That Niccolò and Maffeo (or their engineers) introduced the counterweight trebuchets that broke the stalemate is a famous Polo-family boast. Military historians note Muslim/Mongol engineers (often named in Chinese sources) as the better-attested technical agents. Visit versus report, and family credit versus court credit, remain open. [2]
 
-**Kinsay’s numbers.** Houses, bridges, market crowds, bathhouses, pleasure boats — Hangzhou was genuinely one of the world’s great cities, and Song–Yuan urban density supports wonder. Exact figures in the book often look rounded, stacked, or manuscript-inflated. Believe the scale; audit the digits. Yule already hedged; modern urban historians hedge harder. [4]
+**Kinsay’s numbers.** Houses, bridges, market crowds, bathhouses, pleasure boats — Hangzhou was genuinely one of the world’s great cities, and Song–Yuan urban density supports wonder. Exact figures in the book often look rounded, stacked, or manuscript-inflated. Believe the scale; audit the digits. Yule already hedged; modern urban historians hedge harder. [3]
 
-**Paper money simplicity.** That notes circulated widely under Yuan authority is sound. That the system was as frictionless and universally beloved as Polo’s marvel tone suggests is softer. Currency crises, regional distrust, and later collapse stages appear more clearly in Chinese fiscal history than in *Il Milione*. [5]
+**Paper money simplicity.** That notes circulated widely under Yuan authority is sound. That the system was as frictionless and universally beloved as Polo’s marvel tone suggests is softer. Currency crises, regional distrust, and later collapse stages appear more clearly in Chinese fiscal history than in *Il Milione*. [4]
 
 **Coal “discovery.”** Polo did not discover coal. He reported it to an audience that used it little. The dispute, when it appears, is usually about European reception, not Chinese fact.
 
-**Personal travel versus circuit report.** Sindafu, Kinsay, Zayton, and the bridge chapters feel closer to autopsy. Mien’s elephant battle, some highland ethnonyms (Caugigu, Anin, Coloman), and the Ponent wars read as intelligence and story. Mixed tags in the chapter heads are there on purpose. [6]
+**Personal travel versus circuit report.** Sindafu, Kinsay, Zayton, and the bridge chapters feel closer to autopsy. Mien’s elephant battle, some highland ethnonyms (Caugigu, Anin, Coloman), and the Ponent wars read as intelligence and story. Mixed tags in the chapter heads are there on purpose. [5]
 
-**Silence seeds that grow later.** Volume II still does not serve a Great Wall set-piece; it also does not write Chinese script samples or give a modern ethnographer’s account of language or tea. Those silences become ammunition in Volume III’s Wood debate and reliability essay — noted here only so Volume II readers are not blindsided. [7]
+**Silence seeds that grow later.** Volume II still does not serve a Great Wall set-piece; it also does not write Chinese script samples or give a modern ethnographer’s account of language or tea. Those silences become ammunition in Volume III’s Wood debate and reliability essay — noted here only so Volume II readers are not blindsided. [6]
 
 ### How to use this back matter
 
@@ -54,16 +54,14 @@ Volume III will trade canal marvels for monsoon logic, Chipangu gold, and Cocach
 
 ## Notes
 
-[1] Synthesises dispute flags from Vol. II chapter Notes; companion only.
+[1] ? Yangzhou governorship — Larner [-@larner1999marco, ch. 3], Moule–Pelliot [-@moule1938description] discussions; no consensus appointment diploma.
 
-[2] ? Yangzhou governorship — Larner [-@larner1999marco, ch. 3], Moule–Pelliot [-@moule1938description] discussions; no consensus appointment diploma.
+[2] ? / ◇ Saianfu mangonels — siege ✓; Polo family as decisive engineers contested against named court engineers in Chinese records.
 
-[3] ? / ◇ Saianfu mangonels — siege ✓; Polo family as decisive engineers contested against named court engineers in Chinese records.
+[3] ~ / ✗ Kinsay statistics — scale ✓; many totals exaggerated or rounded (Yule already hedges; modern urban historians ditto).
 
-[4] ~ / ✗ Kinsay statistics — scale ✓; many totals exaggerated or rounded (Yule already hedges; modern urban historians ditto).
+[4] ✓ Paper money institution; ~ Polo’s frictionless picture; fiscal stress clearer in Yuan sources.
 
-[5] ✓ Paper money institution; ~ Polo’s frictionless picture; fiscal stress clearer in Yuan sources.
+[5] ? Personal travel versus circuit report is argued chapter by chapter; the tags [V]/[R]/[M] and the chapter Notes record each verdict.
 
-[6] Chapter tags [V]/[R]/[M] and the chapter Notes mark what is visited, reported or mixed.
-
-[7] Pointers to III-11 afterlives and III-12 reliability essay; Frances Wood [-@wood1995did, conclusion] debate.
+[6] ? These silences are argued both ways: Frances Wood [-@wood1995did, conclusion] concludes that Marco probably never reached China; III-11 and III-12 take up the debate.

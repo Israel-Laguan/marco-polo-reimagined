@@ -1,0 +1,21 @@
+sheet: zayton
+place: zayton
+year: 1290
+status: draft
+use: Reference only. For editorial review.
+tradition: Song–Yuan city-genre handscroll
+generator: GPT image model (image_gen.imagegen)
+date: '2026-11-21'
+prompt: media/places/prompts/zayton.txt
+references_consulted:
+- https://whc.unesco.org/en/list/1561/
+- https://whc.unesco.org/document/189212
+- https://museum.wa.gov.au/maritime-archaeology-db/sites/default/files/no._1_china_1997.pdf
+reference_images: []
+attribution: Generated working illustration for The Book of the Million.
+review:
+  script: No legible script, seal, or signature apparent.
+  period: The estuarine setting, ships and two inland towers read clearly. Settlement
+    and placement are schematic.
+  idiom: Song–Yuan city-genre handscroll
+  editorial: Pending.

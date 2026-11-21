@@ -1,0 +1,27 @@
+sheet: ghazan-1295
+cards: [ghazan]
+year: 1295
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Ilkhanid (Jami' al-Tawarikh)
+likeness: "Jami' al-Tawarikh enthronement folios"
+generator: GPT image model (image_gen.imagegen)
+job_id: "none: chat output"
+date: 2026-11-18
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/ghazan-1295.txt
+reference_images:
+  - file: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+    use: edit OK
+    licence: Public domain
+    credit: "Enthronement scene, Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23. Scan credited to the Munich 2005 catalogue, p. 263, via Wikimedia Commons"
+attribution: >-
+  Generated image (GPT image model, image_gen.imagegen, 2026-11-18) for The Book of the Million, a working reference
+  sheet in the manner of Ilkhanid (Jami' al-Tawarikh). Not a historical artifact.
+  Reference image: Enthronement scene, Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23. Scan credited to the Munich 2005 catalogue, p. 263, via Wikimedia Commons.
+review:
+  script: "Pass — corners and paper ground blank. The collar decoration is repeating vegetal ornament."
+  period: "Pass — ghazan 1295. Ilkhanid prince's robe and compact wrapped cloth turban for the post-conversion date."
+  figures: "Pass — one slight young man with a composed face."
+  idiom: "Pass — reddish-brown contours, flat pigments, swept linear drapery and courtly miniature pose on warm paper."
+  notes: "The attached enthronement detail was used as a robe and style reference. It does not supply Ghazan's face."

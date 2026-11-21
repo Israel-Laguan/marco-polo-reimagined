@@ -30,8 +30,8 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Keep: the economics aside (scorecard: "Good economics aside"). — vol-3 §3 scorecard
 
 ### Notes and apparatus
-- Notes out of step with the body: body [13] (:35, washing, right hand, sureties, debt rule) is answered by Note [13] (:81), which discusses rain, omens and 13-year-old boy traders — the content of body [15]; Note [15] (:85) is a placeholder, "Soft bridge toward consecrated damsels". Fix: swap the contents and write a real [15]. (Also W5 Notes hygiene.) — vol-3 m8 · ch-05:35, :81, :85
-- ★ ×9; "★★★ Dispute" Note [10] repeats Note [8] (horse imports). Fix: convert to ✓ ~ ✗ ◇ ? and merge. — vol-3 M9 · ch-05:71, :75
+- Notes out of step with the body: original body [13] (washing, right hand, sureties, debt rule) is answered by a Note about rain, omens and 13-year-old boy traders — the content of original body [15]; original Note [15] is a placeholder. The 2026-11-17 horse-Note merge shifted these to body and Notes [12] and [14]. Fix the anchors and replace the placeholder. (Also W5 Notes hygiene.) — vol-3 m8
+- **Resolved 2026-11-17:** ★ ×9 converted in APP.T2; the horse-import duplicate, original Note [10], was merged into Notes [8]–[9], with the remaining Notes renumbered. — vol-3 M9
 
 ### Naming and gazetteer
 - Maabar (Coromandel) is not glossed until :45. — vol-3 m5 · ch-05:11, :45
@@ -93,15 +93,15 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### III-05.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `III-05.T3` (re-voice renumbers Notes)
-- **Now:** 19 Notes · 9 ★ · 4 without a lead marker · tag [R/M]
+- **Now:** 18 Notes · 0 ★ · 0 without a lead marker · tag [M]
 - **Do:**
   - Replace tag `[R/M]` with `**[M]**` (compound tags are retired; if the lean matters, say it in one clause of Note [1]).
   - 9 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
-  - Notes with no lead marker: [4], [6], [10], [15] (fill, merge or rewrite; none may be a placeholder or pointer).
-  - "Dispute" label in Note(s) [7], [10], [17]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
+  - The "Dispute" labels in original Notes [7], [10], [17] were removed in APP.T2; the original [10] was subsequently merged.
   - Run `python3 tools/lint.py -v vol-3/ch-05-maabar-st-thomas.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-  - **S-12 (2026-11-10):** "Subrahmanyam" in Note [19] (St Thomas traditions) has no work behind it: name the work and add it to the `.bib`, or drop the name.
+  - **S-12 (2026-11-10):** "Subrahmanyam" in original Note [19], now [18] (St Thomas traditions), has no work behind it: name the work and add it to the `.bib`, or drop the name.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.

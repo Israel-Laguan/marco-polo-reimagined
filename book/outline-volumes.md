@@ -5,7 +5,9 @@
 
 **Textual base:** Yule–Cordier English text (1903 / Cordier addenda 1920), eclectic toward the “Geographic” Old French tradition, with Ramusian expansions flagged; collation notes deferred to apparatus.
 
-**Visited vs reported:** Every Vol. II–III chapter carries a standing tag — **[V]** largely or partly from personal travel/service; **[R]** chiefly report, embassy hearsay, or court intelligence; **[M]** mixed. Tags are provisional writing guides, not final judgements.
+Chapters in Volumes II and III use `[V]` for what Polo says he saw or did, `[R]` for what he reports hearing, and `[M]` for a mix. III-10 through III-12 use `[reception]`. See the [voice guide](VOICE-GUIDE.md#tags-whole-chapter-verdict-vols-iiiii).
+
+The front and end matter outlines below record proposed content. See the [reading order and apparatus](FRONT-BACK-MATTER.md) for the files and generated sections in the current build.
 
 **Reliability legend (used in front matter of each volume):**
 | Mark | Meaning |
@@ -326,7 +328,7 @@
 
 ---
 
-### Ch. II-2 — *Person, Wives, Sons, and the Palace Inside the Walls* **[V/M]**
+### Ch. II-2 — *Person, Wives, Sons, and the Palace Inside the Walls* **[M]**
 **Beats (Book II.viii–xi)**
 - Eyes, stature, Kungurat wives; beauty competition notice
 - Sons and the intended heir
@@ -441,7 +443,7 @@
 
 ---
 
-### Ch. II-8 — *Mien and Bangala: Elephants, Battle, Towers of Gold and Silver* **[R/M]**
+### Ch. II-8 — *Mien and Bangala: Elephants, Battle, Towers of Gold and Silver* **[M]**
 **Beats (Book II.li–lv)**
 - King of Mien & Bangala vows vengeance
 - Battle: Mongol seneschal, elephants panicked by pitched camels/ponies (as told)
@@ -551,7 +553,7 @@
 
 ---
 
-### Ch. II-14 — *Fuju, Zayton, and the Haven of the World* **[V/M]**
+### Ch. II-14 — *Fuju, Zayton, and the Haven of the World* **[M]**
 **Beats (Book II.lxxix–lxxxii)**
 - South from Kinsay: Tanpiju; bamboos; mountain cannibal ascriptions
 - Fuju; sugar-refining notice
@@ -628,7 +630,7 @@
 
 ---
 
-### Ch. III-2 — *Chamba, Java, Locac, Pentam: The Southern Ocean Road* **[R/M]**
+### Ch. III-2 — *Chamba, Java, Locac, Pentam: The Southern Ocean Road* **[M]**
 **Beats (Book III.v–viii)**
 - Chamba: elephants, aloeswood; Kaan’s dealings
 - Java the Great: wealth; Kublai’s failed expedition (report)
@@ -647,7 +649,7 @@
 
 ---
 
-### Ch. III-3 — *Java the Less: Ferlec to Fansur — Sumatran Kingdoms* **[V/M]** *(return stage possible)*
+### Ch. III-3 — *Java the Less: Ferlec to Fansur — Sumatran Kingdoms* **[M]** *(return stage possible)*
 **Beats (Book III.ix–xi)**
 - Six kingdoms sketch; Ferlec; Basma: elephant, rhinoceros, unicorn legend
 - Samara; Dagroian (funerary cannibal accusation)
@@ -666,7 +668,7 @@
 
 ---
 
-### Ch. III-4 — *Necuveran, Angamanain, Seilan: Islands of Rumour and the Foot on the Peak* **[R/M]**
+### Ch. III-4 — *Necuveran, Angamanain, Seilan: Islands of Rumour and the Foot on the Peak* **[M]**
 **Beats (Book III.xii–xv)**
 - Nicobars; Andamans (dog-headed rhetoric)
 - Seilan: size exaggerated; ruby; brazilwood; cinnamon
@@ -685,7 +687,7 @@
 
 ---
 
-### Ch. III-5 — *Maabar: Pearls, Suttee, Horses, and St Thomas* **[R/M]**
+### Ch. III-5 — *Maabar: Pearls, Suttee, Horses, and St Thomas* **[M]**
 **Beats (Book III.xvi–xviii)**
 - Pearl fishery; royal customs; amok companions; wealth
 - Horse imports from Hormuz; ox worship; rainy seasons; omens; devadasis
@@ -742,7 +744,7 @@
 
 ---
 
-### Ch. III-8 — *Aden, Esher, Dufar, Calatu, Hormos Again* **[R/M]**
+### Ch. III-8 — *Aden, Esher, Dufar, Calatu, Hormos Again* **[M]**
 **Beats (Book III.xxxvi–xl)**
 - Aden and the Alexandria trade path; Acre’s fall remembered
 - Shihr: frankincense; fish-fed cattle
@@ -761,7 +763,7 @@
 
 ---
 
-### Ch. III-9 — *The Princess Cocachin: Departure, Sea Passage, and the Way Home*
+### Ch. III-9 — *The Princess Cocachin: Departure, Sea Passage, and the Way Home* **[V]**
 **Beats (Prologue xvii–xviii + return stitching)**
 - Lady Bolgana’s death; request for a bride from Cathay
 - Polos’ chance: escort Cocachin by sea; golden tablets renewed
@@ -781,7 +783,7 @@
 
 ---
 
-### Ch. III-10 — *Ca’ Polo, Milione, and the City That Would Not Believe*
+### Ch. III-10 — *Ca’ Polo, Milione, and the City That Would Not Believe* **[reception]**
 **Beats**
 - Ramusio return tableau (use as *tradition*, framed)
 - Sobriquet Milione; merchant life; marriage; daughters
@@ -801,7 +803,7 @@
 
 ---
 
-### Ch. III-11 — *Afterlives: Maps, Columbus, and the Making of a Witness*
+### Ch. III-11 — *Afterlives: Maps, Columbus, and the Making of a Witness* **[reception]**
 **Beats**
 - Catalan Atlas (1375); Fra Mauro; toponyms that wander
 - Columbus’s postils and the gold of Chipangu
@@ -821,7 +823,7 @@
 
 ---
 
-### Ch. III-12 — *Closing Essay: Reliability, Silence, and the Art of the Book*
+### Ch. III-12 — *Closing Essay: Reliability, Silence, and the Art of the Book* **[reception]**
 **Not narrative chapter — formal essay**
 
 **Proposed sections**
@@ -843,7 +845,7 @@ Frances Wood; Igor de Rachewiltz; Stephen G. Haw; Hans Ulrich Vogel; John Larner
 ## End matter (Vol. III — series apparatus overview)
 
 ### Gazetteer pointer
-- Full gazetteer to issue as companion file later: book-name | Yule spelling | modern | country | V/R/M | first chapter appearance | notes
+- The [gazetteer](gazetteer.csv) records book names, aliases, modern identifications, coordinates, and chapter references. See the [method note](gazetteer-readme.md) for the schema and naming policy.
 - Vols. I–III cross-references by corridor (Levant, Iran, Central Asia, Mongolian margin, North China, Southwest, Manzi, Maritime Asia, Indian Ocean, Arabia)
 
 ### Bibliography skeleton
@@ -874,7 +876,7 @@ Frances Wood; Igor de Rachewiltz; Stephen G. Haw; Hans Ulrich Vogel; John Larner
 | I — From Venice to the Khan | **13** | Prologue + Book I to Chandu |
 | II — The Realm of Kublai | **15** | Book II + compressed Book IV |
 | III — Seas, Return, and After | **11 + 1 essay** | Book III + return/reception + reliability essay |
-| **Total** | **40 chapters + closing essay** | Long-book density; merge map above if production needs 8–12 / 10–14 / 8–12 strict |
+| **Total** | **40 chapters** | Includes the closing reliability essay (III-12) |
 
 **Strict-band trim map (if required)**  
 - Vol I → 11: merge I-4+I-5; merge I-9+I-10  

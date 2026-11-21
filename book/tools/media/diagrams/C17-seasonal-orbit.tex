@@ -1,0 +1,28 @@
+% C17 — The Kaan's year, as the Book tells it (II-4 / I-13; was map A8). Book: vol-2/ch-04 ¶¶ "After he has stopped" … "Thus the whole year"
+% ([@yc, 2.17–2.19]); vol-1/ch-13 ¶ "The Lord abides", Notes [6]–[7] ([@yc, 1.61]): June–August at Chandu, leaves on the 28th of the August moon, the libation.
+% Record: Palladius, as cited in Yule (I-13 Note [6]): usually to Shangdu in the 4th month, back in the 9th. Cachar Modun and Chagannor are `unfixed`: no map.
+\path (0,0) -- (11.43,0);
+\node[dg-head] at (0,0.25) {The Kaan's year, as the Book tells it};
+\def\cx{3.0} \def\cy{3.25} \def\r{2.05}
+% month m (1 = January) starts at angle -90 + 30(m-1); y runs down, so angles run clockwise
+\def\arc#1#2#3{\draw[#3, line width=7pt] ($(\cx,\cy)+({-90+30*(#1-1)}:\r)$) arc ({-90+30*(#1-1)}:{-90+30*(#2-1)}:\r);}
+\arc{9}{15}{vII!30}            % Sep–Feb, Cambaluc
+\arc{3}{5.5}{vI!75}            % 1 Mar – mid-May, Cachar Modun
+\arc{5.5}{5.6}{vII!30}         % three days at Cambaluc
+\arc{5.6}{8.9}{vIII!70}        % late May – 28 Aug, Chandu
+\foreach \m/\lab in {1/Jan,2/Feb,3/Mar,4/Apr,5/May,6/Jun,7/Jul,8/Aug,9/Sep,10/Oct,11/Nov,12/Dec} {
+  \draw[white, line width=0.6pt] ($(\cx,\cy)+({-90+30*(\m-1)}:{\r-0.13})$) -- ($(\cx,\cy)+({-90+30*(\m-1)}:{\r+0.13})$);
+  \node[font=\scriptsize, text=inksoft] at ($(\cx,\cy)+({-75+30*(\m-1)}:{\r+0.42})$) {\lab};
+}
+% marks
+\def\mark#1#2{\fill[ink] ($(\cx,\cy)+({-90+30*(#1-1)}:\r)$) circle (1.6pt); \draw[tl-leader] ($(\cx,\cy)+({-90+30*(#1-1)}:\r)$) -- ($(\cx,\cy)+({-90+30*(#1-1)}:{\r-0.55})$) node[font=\scriptsize\itshape, text=ink, align=center, fill=white, inner sep=1pt] {#2};}
+\mark{8.9}{28 Aug:\\libation}
+\mark{9.9}{Birthday\\feast}
+\mark{2.0}{White\\Feast}
+\node[font=\scriptsize\itshape, text=inksoft, align=center] at (\cx,\cy) {the Book's\\months};
+% key
+\def\key#1#2#3{\fill[#1] (6.3,#2) rectangle ++(0.45,0.2); \node[dg-text, text width=4.5cm, anchor=north west] at (6.9,{#2-0.04}) {#3};}
+\key{vII!30}{1.0}{\textbf{Cambaluc} (Dadu): about six months; the winter game levy}
+\key{vI!75}{2.2}{\textbf{Hunting toward the sea}, from 1 March to mid-May, camp at \textbf{Cachar Modun}; then three days at Cambaluc}
+\key{vIII!70}{3.75}{\textbf{Chandu} (Shangdu): the summer, until the 28th of the August moon, when the Cane Palace comes down and the mares' milk is scattered}
+\node[dg-note, text width=11.2cm] at (0,5.75) {Polo's year, in European months. Palladius gives the Yuan court's usual move as the 4th lunar month to Shangdu, back in the 9th. Cachar Modun is not located.};

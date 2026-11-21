@@ -2,7 +2,7 @@
 
 usage: python3 tools/lint.py [files...] [-v] [--json | --md] [--build-ramusio-manifest]
 
-With no files, lints the 49 manuscript files (vol-*/*.md except the volume READMEs).
+With no files, lints the manuscript (vol-*/*.md except the volume READMEs).
 Errors are mechanical rule breaks and decide pass/fail; warnings are heuristics
 for the human voice read. Exit status 1 when any file has an error.
 """
@@ -34,7 +34,7 @@ T = {
     "avg_sentence": 25,
     "stub_note_words": 6,
     "forbidden_markers": "★☆",      # S-03: allowed set is ✓ ~ ✗ ◇ ?
-    "ramusio_note_label": r"(?:Ramusio|Pipino|Jacopo|Zelada)-only",   # S-03: provenance label, not a marker
+    "ramusio_note_label": r"(?:(?:Ramusio|Pipino|Jacopo|Zelada)- and )?(?:Ramusio|Pipino|Jacopo|Zelada)-only",  # e.g. "Zelada- and Ramusio-only."   # S-03: provenance label, not a marker
     "tags": {"V", "R", "M", "reception"},   # S-03: Vols. II-III narrative/essay files only
 }
 
@@ -83,9 +83,20 @@ class Doc:
         self.text = self.path.read_text(encoding="utf-8") if text is None else text
         self.lines = self.text.split("\n")
         end = next((i for i, l in enumerate(self.lines) if l.startswith("## Notes")), len(self.lines))
-        self.epigraph = [(i + 1, l.lstrip("> ")) for i, l in enumerate(self.lines[:end]) if l.startswith(">")]
+        self.epigraph = []
         self.paras = []
+        reference_end = -1
         for i, l in enumerate(self.lines[:end]):
+            if i <= reference_end:
+                continue
+            fence = re.fullmatch(r"(:{3,}) (glossary|parallel-text)", l)
+            if fence:
+                reference_end = next((j for j in range(i + 1, end)
+                                      if self.lines[j].strip() == fence[1]), -1)
+                if reference_end != -1:
+                    continue
+            if l.startswith(">"):
+                self.epigraph.append((i + 1, l.lstrip("> ")))
             s = l.strip()
             if not s or s.startswith(("#", ">", "**[", "---", "|", "!")):
                 continue
@@ -408,30 +419,18 @@ def c_names(doc, ctx):
 
 def c_name_policy(doc, ctx):
     """S-04 naming policy (places) and S-05 (people): book form throughout; a modern/alternate form only as a gloss
-    beside it, and the first mention of each book form per chapter carries a gloss. Warnings until the chapter
-    naming tasks land."""
+    beside it, and the first mention of each book form per chapter carries a gloss."""
     if doc.kind != "narrative" or not gazetteer.in_rule_scope(doc.rel):
         return
     reported = set()
-    for ln, p in doc.paras:
-        t = strip_quotes(p)
+    paragraphs = [(ln, strip_quotes(p)) for ln, p in doc.paras]
+    for ln, t in paragraphs:
         for alias, book in gazetteer.bare_variants(t, doc.rel):
             if (alias, ln) not in reported:
                 reported.add((alias, ln))
-                yield "warning", ln, f"“{alias}” used bare; the book form is “{book}” (gloss it beside the book form, once)"
-    for r in ctx["gaz_rows"]:
-        if not gazetteer.needs_gloss(r):
-            continue
-        rx = gazetteer.form_re(r["book_name"])
-        for ln, p in doc.paras:
-            m = rx.search(strip_quotes(p))
-            if not m:
-                continue
-            t = strip_quotes(p)
-            after = t[m.end():m.end() + 6]
-            if not re.match(r"\s*[(—–]", after) and not gazetteer.is_gloss(t, m.start(), [r["book_name"]] + gazetteer.aliases(r)):
-                yield "warning", ln, f"first mention of “{r['book_name']}” has no modern gloss ({r['modern_name'].split(',')[0]})"
-            break
+                yield "error", ln, f"“{alias}” used bare; the book form is “{book}” (gloss it beside the book form, once)"
+    for ln, row in gazetteer.missing_glosses(ctx["gaz_rows"], doc.rel, paragraphs):
+        yield "error", ln, f"first mention of “{row['book_name']}” has no modern gloss ({row['modern_name'].split(',')[0]})"
     # S-05: the same policy for people (plans/registry/characters.yaml).
     for ln, p in doc.paras:
         for alias, book in characters.bare_variants(strip_quotes(p), doc.rel):

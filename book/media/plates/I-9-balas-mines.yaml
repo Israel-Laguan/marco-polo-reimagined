@@ -1,0 +1,34 @@
+plate: I-9
+title: The balas-ruby mines under royal seal
+status: draft
+tradition: Ilkhanid Persian manuscript painting
+caption: >-
+  A reconstructed balas-ruby mine in Badakhshan, after Polo's account; balas rubies are spinels, and the operation shown is not a verified excavation reconstruction. Modern illustration in the manner of Ilkhanid manuscript painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/I-9/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-9.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No period mine image was found; techniques, uniforms, pit props and sealing method are reconstruction after Polo, not archaeological evidence. The large red stones are symbolic and not scale evidence.
+post: >-
+  convert media/plates/drafts/I-9/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-9-balas-mines.png
+review:
+  script: Pass; no writing or seal impressions.
+  period: Borderline; coats are generalized and mine operation reconstructed.
+  scene: Pass; miners, lamps and officer securing a sack.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass with limits; flat colour and outlined rocky landscape.
+  ground_and_aging: Pass; even light aging.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_lamps: Pass; visible oil lamps.
+  must_get_right_sealing: Pass with limit; plain seal tool on tied bag, no mark; process speculative.
+  must_get_right_gems: Borderline; stones are oversized and rounded for visibility.

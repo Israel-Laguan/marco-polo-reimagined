@@ -1,16 +1,16 @@
 # APP — Apparatus
 
-**Status:** backlog · **Plan doc:** `content-revision-plan.md` § W3, § W5; S-03
+**Status:** closed (best effort) 2026-11-18 — T2, T8 done; T7 implemented; T1, T3, T4, T5, T6, T9, T10 closed best effort (human reads and the listed remainders not done) · **Plan doc:** `content-revision-plan.md` § W3, § W5; S-03
 
 ## Scope
 Series-wide reader apparatus: reliability markers, [V]/[R]/[M] tags, the "How to read this book" box, Ramusio flag convention, Notes hygiene rules, epigraph policy. Per-chapter application happens in each chapter's `.T2`/`.T4`; this file holds the shared decisions and sweeps.
 
 ## Backlog
-- About 80 ★ ratings in Notes with no legend (II-M7, III-M9); "★ Dispute:" duplicate Notes.
-- Undefined compound tags [V/M], [R/M] (II-m10); tags missing in III-7 to III-12 (III-M8).
-- No reader-facing explanation of the tags or markers (II-M8).
-- About 60 unflagged Ramusio passages (I-M5, II-M1, III-M7). Bracket list in `tools/seed/brackets.txt`.
-- Epigraph policy: exact Yule wording, or marked *(adapted)* (II-N5, III-C1).
+- ~~About 80 ★ ratings in Notes with no legend (II-M7, III-M9); "★ Dispute:" duplicate Notes.~~ Resolved by APP.T2 and APP.T9 item 3 (2026-11-17).
+- ~~Undefined compound tags [V/M], [R/M] (II-m10); tags missing in III-7 to III-12 (III-M8).~~ Applied by APP.T3; lint `tags` clean; `.T4` confirmation remains.
+- ~~No reader-facing explanation of the tags or markers (II-M8).~~ Boxes applied by APP.T1; human read remains.
+- About 60 unflagged Ramusio passages (I-M5, II-M1, III-M7). Bracket list in `tools/seed/brackets.txt`. See APP.T4.
+- Epigraph policy: exact Yule wording, or marked *(adapted)* (II-N5, III-C1). See APP.T10.
 
 ## Decided (S-03, closed 2026-10-22)
 Convention: `VOICE-GUIDE.md` § Apparatus conventions. Markers ✓ ~ ✗ ◇ ?; ★ retired; compound tags fold into [M]; [reception] for III-10 to III-12; Ramusio flag = inline words + "Ramusio-only." Note label (provenance, not a marker). The lint enforces tags, lead markers, "Dispute:" labels and the Ramusio label (`tools/lint.py`).
@@ -18,48 +18,57 @@ Convention: `VOICE-GUIDE.md` § Apparatus conventions. Markers ✓ ~ ✗ ◇ ?; 
 **2026-11-17 source review:** Yule's brackets identify the source used by his edition, not necessarily exclusivity across manuscript witnesses. Samara's checked F and Z readings disprove the old blanket assumption for that passage. Assess the implications for the convention, manifest and lint passage by passage; preserve provenance enforcement. See the [text and media handoff](../../status/critique-text-media-handoff-2026-11-17.md).
 
 ## Gated by spikes
-S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs footnotes)
+S-03 ✓ · S-08 ✓ (closed 2026-11-10: markers print in DejaVu Sans per `registry/markdown-conventions.md`; endnotes per chapter)
 
 ## Tasks
 ### APP.T1 — "How to read this book" box
-- **Status:** backlog · **Depends:** S-03 ✓
+- **Status:** **closed (best effort) 2026-11-18** — declared closed by the project owner; the full human read was not completed (boxes in place, `[reception]` added to Vol. I). · **Depends:** S-03 ✓
+- **Progress 2026-11-17:** boxes added in all three volumes, with source-exclusivity wording qualified in light of the Samara review; the marker sweep is complete. Awaiting the human read required by APP.T9.
+- **Resolved 2026-11-17 (best effort; human read pending):** the Vol. I full key now adds “Volume III's last chapters use **[reception]** for the Book's afterlife”, so it agrees with the Vol. III box and the III-10 to III-12 tags.
+- **Length (resolved 2026-11-18):** I-F1 trimmed from 1,597 to 1,188 narrative words by cutting uncited framing (merchant colonies, route list now left to the map companion, closing flourishes); cited claims unchanged; `facts.md` F-34 line reference updated to :31. The file now passes lint.
 - **Do:** add the full box (below, ≈150 words) to the front of `vol-1/front-01-world-before-the-road.md` as `::: howto … :::` after the epigraph rule; add the short form to `vol-2/front-01-yuan-china-context.md` and `vol-3/front-01-indian-ocean-world.md` (the Vol. III form adds `[reception]`). Vol. I's chapters carry no tags, so its box says tags begin in Vol. II.
 - **Done when:** the three boxes are in place and the lint still shows no new errors in those files.
 
-**Full form (Vol. I):**
+**Full form (Vol. I), as applied 2026-11-17** (the manuscript is the source of truth):
 
-> **How to read this book.** Each chapter retells one stretch of *Il Milione*. Small numbers in the text, like [3], point to the Notes at the end of the chapter, where a claim is checked against other witnesses. Every Note opens with a mark: ✓ corroborated by independent sources · ~ plausible, but a detail is under strain · ✗ probably wrong or exaggerated · ◇ marvel or hearsay, kept as the Book tells it · ? scholars disagree. From Volume II, each chapter also carries a tag: **[V]** mostly what Polo says he saw or did · **[R]** mostly what he heard · **[M]** a mixture. Some passages exist only in Ramusio's sixteenth-century version, or in Pipino's Latin or another later text. The story says so as it goes, and the Note labels them "Ramusio-only." Read them as later layers, not as Polo's earliest words.
+> **How to read this book.** Each chapter retells one stretch of *Il Milione*. Small numbers in the text point to the Notes at the end of the chapter, where claims are checked against other witnesses. Every Note opens with a mark: ✓ corroborated by independent sources · ~ plausible, but a detail is under strain · ✗ probably wrong or exaggerated · ◇ marvel or hearsay, kept as the Book tells it · ? scholars disagree. From Volume II, chapters also carry a tag: **[V]** mostly what Polo says he saw or did · **[R]** mostly what he heard · **[M]** a mixture; Volume III's last chapters use **[reception]** for the Book's afterlife. Some passages come from Ramusio's sixteenth-century version, Pipino's Latin, or another later text. The story names the source as it goes. When a passage is known only from one such version, its Note labels it, for example, “Ramusio-only.” Read these as later layers, not as Polo's earliest words.
 
-**Short form (Vol. II; Vol. III adds "**[reception]** the Book's afterlife"):**
+**Short form (Vol. II; Vol. III adds "**[reception]** the Book's afterlife"), as applied:**
 
-> **Reading the marks.** Notes open with ✓ corroborated · ~ plausible · ✗ probably wrong · ◇ marvel or hearsay · ? contested. Tags: **[V]** seen · **[R]** heard · **[M]** both. "Ramusio-only." labels a passage found only in a later text. Full key: Volume I, front matter.
+> **Reading the marks.** Notes open with ✓ corroborated · ~ plausible · ✗ probably wrong · ◇ marvel or hearsay · ? contested. Tags: **[V]** mostly seen or done · **[R]** mostly heard · **[M]** both. A label such as “Ramusio-only.” identifies a passage known only from that later version. Full key: Volume I, front matter.
 
 ### APP.T2 — ★ → marker sweep
-- **Status:** backlog · **Depends:** S-03 ✓ · **Do first**, before the chapter re-voices
+- **Status:** done 2026-11-17 · **Depends:** S-03 ✓ · **Do first**, before the chapter re-voices
+- **Completed 2026-11-17:** a person reviewed all 40 star groups (72 stars in 17 files) against the [worklist](../../status/apparatus-star-review.md); the sweep was committed by volume in `8fc457b`, `a276818` and `d7b39fb`, with review corrections in `283d6c5`. The review-only `tools/star_sweep.py` reports no remaining stars in Notes. Missing lead markers were completed under APP.T9 (same day); the broader human read remains there.
 - **Do:** write `tools/star_sweep.py` that lists every ★ in Notes (81 across 19 files at baseline) with its clause and a proposed replacement per the sweep rules in the guide (★★★ → ✓, ★★ → ~, ★ → ?, deleted beside an existing marker, "Dispute:" dropped); a person confirms each; apply one commit per volume.
 - **Done when:** `grep -rn "★" vol-*/` finds nothing in Notes, and the lint `markers` check reports no retired-marker errors.
 
 ### APP.T3 — Tag lines
-- **Status:** backlog · **Depends:** S-03 ✓
+- **Status:** **closed (best effort) 2026-11-18** — declared closed by the project owner; the full human read was not completed; lint `tags` clean, chapter `.T4` content confirmation not done. · **Depends:** S-03 ✓
+- **Progress 2026-11-17:** assigned tags added; the all-manuscript lint reports no tag errors. Chapter `.T4` content confirmation remains.
 - **Do:** apply the assigned tags: II-8, II-14, III-2, III-3, III-4, III-5 → `**[M]**`; III-7 `**[R]**`; III-8 `**[M]**`; III-9 `**[V]**`; III-10, III-11, III-12 `**[reception]**`. Each chapter's `.T4` confirms the tag against its content, so this task may be folded into those.
 - **Done when:** the lint `tags` check passes for all 49 files.
 
 ### APP.T4 — Ramusio bracket check in the lint (with `BLD`)
-- **Status:** partly done · **Depends:** S-02 ✓
+- **Status:** **closed (best effort) 2026-11-18** — provenance enforcement kept; paraphrase detection deferred to the re-voices by design. · **Depends:** S-02 ✓
+- **Closed 2026-11-18:** Source review applied to the one checked case: III-3 Samara now credits the French and V with the timber camp and the Zelada Latin and Ramusio with the 2,000 men and ditches (Note [10] “Zelada- and Ramusio-only.”, citing `simion2019devisement` § 3.2.3, p. 141). `VOICE-GUIDE.md` now treats Yule's brackets as the default and narrows a label only on a checked witness; the lint accepts a two-witness label (“Zelada- and Ramusio-only.”) and still enforces flag and label. Manifest unchanged. **Batch A intake (2026-11-18):** [intake](../../research/results/APP-T4-A-ramusio-witnesses-intake.md) — spot check 10/10; F and V readings applied to I-9 [10], I-10 [3], [13], [14] and I-13 [4] with the new "Ramusio-only in part:" label; Z readings then settled from Moule–Pelliot vol. 1 page images and Simion's V (2026-11-18): 7 Zelada relabels, 3 "Not Ramusio-only", 1 "Pipino- and Ramusio-only", narrowed "in part" labels; 26 of 27 passages verified, #24 (the grove) undecidable; batch A closed best effort. **Witness check prompt (2026-11-18):** [APP-T4-ramusio-witnesses.md](../../research/prompts/APP-T4-ramusio-witnesses.md) lists all 80 Yule-bracketed passages in three batches, with the intake rule for each verdict. **Ramusio flags (2026-11-18, best effort):** the 112 `ramusio` lint errors are cleared across 28 chapters — 58 paragraphs got an inline flag ("In Ramusio's version, …", placed at the sentence where the Yule-bracketed passage begins, three rephrased by hand) and 54 Notes got "Ramusio-only." after the lead marker, all by Yule's brackets, the guide's default; lint `ramusio` now 0 errors. Flag placement and wording were scripted, so each chapter's `.T2` still owns the read and any rotation of flag wording. **Witness check closed (best effort) 2026-11-18, declared by the project owner:** batches B and C (53 passages, Books II–III) were not run and keep the guide's default, Yule's brackets ("Ramusio-only."); Moule–Pelliot vol. 2, the digital Ramusio and Benedetto's apparatus were not consulted. A later witness check reopens a passage only through its chapter's `.T2`. The S-12 1559-print citation proposal is not adopted.
 - **Done (S-02/S-03):** the lint matches reproduced Ramusio passages, requires an inline flag and a "Ramusio-only." (or Pipino-/Jacopo-/Zelada-only) label in the cited Note.
 - **Left:** the lint only sees near-verbatim passages, so paraphrased Ramusio detail escapes it. After the re-voices, compare flag counts with the manifest (already a warning) and spot-check against Yule's brackets (`tools/seed/ramusio-brackets.txt`, rebuilt without `Sidenote:` lines).
+- **Closed best effort 2026-11-18 (see above); was left (2026-11-17 source review, owner per the [handoff](../../status/critique-text-media-handoff-2026-11-17.md)):** Yule's brackets show his edition's source, not exclusivity across witnesses (Samara: F and Z carry material once called Ramusio-only). Review `VOICE-GUIDE.md` § Ramusio, `tools/ramusio-manifest.json`, the lint's Ramusio check and the affected chapter `.T2` wording passage by passage; keep provenance enforcement, and relabel only where checked witnesses show the passage is not exclusive.
 - **S-12 (2026-11-10), proposal:** a Ramusio-only Note cites the 1559 print (`ramusio1559navigationi`), and the open-access critical edition (`ramusio2015viaggi`) once the passage has been checked there.
 
 ### APP.T5 — A Yule chapter locator on every Note
-- **Status:** ready · **Depends:** S-24 ✓ · **Origin:** citation sweep, 2026-10-22
-- **Do:** for each Note with no `[@yc, …]`, find the body paragraph that carries its `[n]` and match it against Yule's chapters by 5-gram overlap (as in `tools/cite_locate.py`). Where one Yule chapter wins clearly (≥ 8 shared 5-grams and at least twice the runner-up) and lies inside the range the chapter covers, put `[@yc, b.c]` after the Note's opening marker. Weak and no-match cases go to a worklist, not into the text. A trial run on 2026-10-22: 252 clear in-range matches, 52 weak, 59 no match (mostly re-voiced passages), 1 clear match out of range.
+- **Status:** **closed (best effort) 2026-11-18** — clear matches placed. · **Depends:** S-24 ✓ · **Origin:** citation sweep, 2026-10-22
+- **Closed 2026-11-18:** `tools/yc_note_locate.py --apply` placed `[@yc, b.c]` after the lead marker in 238 Notes (≥ 8 shared 5-grams, ≥ 2× runner-up, in range). The 87 others — 82 no match, 4 out of range, 1 weak — are in the [worklist](../../status/yc-locator-worklist.md) for a person. Lint unchanged; tests in `tests/test_yc_tools.py`.
+- **Do:** for each Note with no `[@yc, …]`, find the body paragraph that carries its `[n]` and match it against Yule's chapters by 5-gram overlap (as in `tools/cite_locate.py`). Where one Yule chapter wins clearly (≥ 8 shared 5-grams and at least twice the runner-up) and lies inside the range the chapter covers, put `[@yc, b.c]` after the Note's opening marker. Weak and no-match cases go to a worklist, not into the text. A trial run on 2026-10-22: 252 clear in-range matches, 52 weak, 59 no match (mostly re-voiced passages), 1 clear match out of range. **Re-run before applying:** Notes have since been renumbered, merged and rewritten (APP.T2, APP.T9), so those counts are stale.
 - **Done when:** every clear match is placed; the worklist lists the rest; lint unchanged apart from fewer Notes without a source.
 
 ### APP.T6 — Per-work keys for the "As cited in Yule" names
-- **Status:** ready · **Depends:** S-24 pass C ✓ (APP.T5 optional)
+- **Status:** **closed (best effort) 2026-11-18** — safe keys attached; the rest logged as refusals. · **Depends:** S-24 pass C ✓ (APP.T5 optional)
+- **Closed 2026-11-18:** `tools/yc_name_keys.py --apply` attached 40 keys where Yule's reference carries a distinctive title word of the work, or the work is the S-12 edition Yule used (Gaubil, De Mailla, Wassaf, Bushell); works after 1903, modern translations and shared surnames (Baber, Major, Wood, Hammer) were refused. All 473 names are logged with a reason in the [log](../../status/app-t6-name-keys.md). Not checked by hand.
 - **Do:** for each name in an "As cited in Yule" sentence, read Yule's own reference at the located spot (the *Yule's reference* column of `plans/status/pass-b-worklist.md`). Add the key (`Name [-@key]`) only where that reference names the same work as the bibliography entry: a matching title word, or a work Yule cites only once. Leave the name bare where the surname is shared, e.g. Baber (the emperor Babur in Vol. I, E. C. Baber in Vol. II) or Major (two different books). Log each attachment and each refusal.
 - **Done when:** the log covers every name; the 68 uncited bibliography entries shrink to those with no safe match.
-- **S-12 (2026-11-10):** new keys for names Yule cites: Bushell (`bushell1874notes`), Gaubil (`gaubil1739histoire`), De Mailla (`demailla1777histoire`), Wassaf (`hammer1856geschichte`, Yule's own translation), Carpini (`dawson1955mongol`, `menesto1989storia`), Odoric (`marchisio2016relatio`), Needham by volume. Three names still have no work: Huntingford (III-07), Elverskog (II-03), Subrahmanyam (III-05); pick one or drop the name.
+- **S-12 (2026-11-10):** new keys for names Yule cites: Bushell (`bushell1874notes`), Gaubil (`gaubil1739histoire`), De Mailla (`demailla1777histoire`), Wassaf (`hammer1856geschichte`, Yule's own translation), Carpini (`dawson1955mongol`, `menesto1989storia`), Odoric (`marchisio2016relatio`), Needham by volume. ~~Three names still have no work: Huntingford (III-07), Elverskog (II-03), Subrahmanyam (III-05); pick one or drop the name.~~ Resolved: none of the three appears in the manuscript (checked 2026-11-17).
 
 ### APP.T7 — Explain the base-text abbreviations
 - **Status:** implemented 2026-11-11 · **Depends:** S-24; BLD.T4
@@ -81,16 +90,24 @@ S-03 ✓ · S-08 (rendering: confirm a font with ✓ ✗ ◇ glyphs; endnotes vs
 
 
 ### APP.T9 — Bounded apparatus cleanup (four known items)
-- **Status:** backlog · **Depends:** S-03 ✓, S-26 ✓ (`registry/locators.md`), `APP.T2` for item 3 · **Origin:** targeted continuity pass, 2026-11-17 (critique follow-up)
+- **Status:** **closed (best effort) 2026-11-18** — declared closed by the project owner; the full human read of each new lead marker, renumbered Note and box was not completed; all mechanical conditions met (0 `citations`, 0 `markers`, no ★, boxes with no new lint errors). · **Depends:** S-03 ✓, S-26 ✓ (`registry/locators.md`), `APP.T2` for item 3 · **Origin:** targeted continuity pass, 2026-11-17 (critique follow-up)
+- **Progress 2026-11-17:** I-04 [15] anchored and I-F1 [10]–[11] renumbered with their Notes; all-manuscript lint reports no citation errors. The three boxes are in place and the individually reviewed star sweep is complete. Lead markers added to the 30 remaining Notes; placeholders removed (I-B1, II-B1, III-B1, II-F1 and III-F1 [1]; II-4 [7]) and II-4 [10] merged into [12], with those files renumbered and `registry/locators.md`, `facts.md`, `enrichment.md` and `comparanda.md` updated ("was [n]" in locator rows). III-5 [12]/[14] contents swapped to match their anchors; III-5 [5]/[6] and III-6 [15]/[20] split so each Note covers its own anchor. All-manuscript lint: 0 `markers`, 0 `citations` errors. Review corrections the same day: III-2 [13] (`~ / ?`, Locac and Malaiur contested), III-5 [12] (fit provisional; **To verify (S-06)**), III-12 [13] (Ahmad reframed as settled) and F-53 (Note [13], was [15]). Human review of every new lead marker, the renumbered Notes and the boxes remains (see Done when).
+- **Chapter task files refreshed 2026-11-17:** the `.T4` "Now:" and lead-marker lines in 24 chapter task files, and the "Dispute" label lines in 10, now record the resolution; each chapter's `.T4` still owns the human read.
 - **Scope:** only the four items below. This task does **not** replace the series-wide citation work (`APP.T5`, `APP.T6`), the chapter Ramusio flags (`.T2`) or the per-chapter Notes passes (`.T4`); it gathers four small, reader-facing defects that are already known so one person can close and check them together. Where an item already belongs to a chapter task, that task stays the owner; this one tracks it to completion.
 - **Do:**
   1. **I-04 orphan Note [15]** (owner `I-04.T4`; backlog item M10 in `tasks/chapters/vol-1/I-04-hermenia-georgiania.md`). Lint: "Note [15] is never cited". Anchor it at the sentence that makes its claim (the Caucasian block as personally traversed; the backlog proposes ch-04:37), or merge it into the Note that already covers that sentence if `I-04.T3` has moved the paragraph. Do not leave a pointer-only Note.
   2. **I-F1 out-of-order citations** (owner `I-F1.T4`; backlog m3 in `tasks/chapters/vol-1/I-F1-world-before-the-road.md`). Lint: "body citations not sequential … 9, 11, 10". Renumber body markers and Notes together so each Note keeps its claim. Note [6] was corrected on 2026-11-17 (F-34): keep that wording.
-  3. **Marker sweep.** Run `APP.T2` (★ → ✓ ~ ✗ ◇ ?; **72 ★ in 17 files** on 2026-11-17) and, in the same reviewed pass, give a lead marker to every Note that lacks one (**49** lint `markers` errors of that kind on 2026-11-17, across the 27 files failing `markers`). Choose each marker from the Note's own claim and `registry/facts.md`; never upgrade a claim the registry hedges.
+  3. **Marker sweep.** Run `APP.T2` (★ → ✓ ~ ✗ ◇ ?; **72 ★ in 17 files** on 2026-11-17) and, in the same reviewed pass, give a lead marker to every Note that lacks one (**49** lint `markers` errors of that kind on 2026-11-17, across the 27 files failing `markers`; the star sweep and Note merges cleared 19, leaving the 30 resolved in this pass). Choose each marker from the Note's own claim and `registry/facts.md`; never upgrade a claim the registry hedges.
   4. **Reader-facing explanation of the apparatus.** Apply `APP.T1` (the three boxes). Check the boxes against the `APP.T7` abbreviations text and the `APP.T3` tag list so the three explanations agree; Vol. III's box adds `[reception]`.
 - **Cautions:** `registry/locators.md` refers to original Note numbers; when a renumbering touches a Note it lists, update the row, not the checked locator. Do not change claims, keys or locators while renumbering or re-marking.
 - **Done when:**
   - `python3 tools/lint.py vol-*/*.md` reports **0** `citations` errors (on 2026-11-17 the only two are items 1 and 2);
   - `grep -rn "★" vol-*/` finds nothing in Notes, and the lint `markers` check reports no retired-marker and no missing-lead-marker errors;
   - the three `APP.T1` boxes are in place with no new lint errors in those files;
-  - **human review:** a person has confirmed each ★ and each new lead marker against its Note, read the renumbered Notes in I-04 and I-F1 against their anchors, and read the three boxes. Then mark `APP.T1`, `APP.T2` and the two chapter backlog items done; this task closes with them.
+  - **human review:** a person has confirmed each ★ and each new lead marker against its Note; read the renumbered or restructured Notes against their anchors (I-04, I-F1, I-B1, II-B1, III-B1, II-F1, III-F1, II-4; III-5 [5]–[6], [8]–[9], [12]–[14]; III-6 [15], [20]); and read the three boxes, including the `[reception]` wording added to the Vol. I box. Then mark `APP.T1` and the two chapter backlog items done (`APP.T2` was marked done on 2026-11-17 after its own star-by-star review); this task closes with them.
+
+### APP.T10 — Epigraph policy check
+- **Status:** **closed (best effort) 2026-11-18** — all epigraphs verified. · **Depends:** S-03 ✓ (policy in `VOICE-GUIDE.md` § Chapter shape) · **Origin:** backlog item (II-N5, III-C1); unowned until 2026-11-17
+- **Closed 2026-11-18:** All 50 epigraph quotations are found verbatim in Yule (`yule.find_quote`, the lint's `quote_verify`); none needs *(adapted)*. Attributions pass the `epigraph_credit` check.
+- **Do:** list every chapter epigraph; for each, confirm the wording is exact Yule (check against `refs/` as the `quote_verify` lint does) or marked *(adapted)*. Fix or mark the rest in the owning chapter's `.T2`/`.T3`; log each outcome.
+- **Done when:** every epigraph is exact Yule or marked *(adapted)*, and the lint reports no epigraph quotation errors.

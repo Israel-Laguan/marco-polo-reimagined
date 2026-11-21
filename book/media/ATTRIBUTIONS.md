@@ -4,18 +4,27 @@
 
 | Local file | Commons source | Notes |
 |------------|----------------|-------|
-| `map-marco-polo-overview.jpg` / `.png` | [Travels of Marco Polo](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.jpg) | Maximilian Dörrbecker (Chumwa); Natural Earth base |
+| `map-marco-polo-overview.jpg` | [Travels of Marco Polo (JPEG)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.jpg) | Maximilian Dörrbecker (Chumwa), using Natural Earth data. Embedded in I-F2. [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) |
+| `map-marco-polo-overview.png` | [Travels of Marco Polo (PNG)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.png) | Route diagram by Classical geographer on a base by Historicair, brightened by Hohum. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
 | `map-marco-polo-shepherd.jpg` | [Travels of Marco Polo (on William R. Shepherd map)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo_(on_William_R._Shepherd_map).jpg) | Chumwa overlay on Shepherd 1911 |
 | `map-asia-mongol-empire.png` (the 1294 frame, frame 8 of 9, of the Commons GIF) / `map-mongol-empire.gif` (the animated original, kept as master; not placeable) | [Mongol Empire map.gif](https://commons.wikimedia.org/wiki/File:Mongol_Empire_map.gif) | Astrokey44 (GFDL / CC BY-SA) |
 | `map-china-yuan.png` | [Yuan Dynasty 1294.png](https://commons.wikimedia.org/wiki/File:Yuan_Dynasty_1294.png) | Yuan extent c. 1294 |
 | `map-cambaluc.jpg` | [Map of Cambaluk.jpg](https://commons.wikimedia.org/wiki/File:Map_of_Cambaluk.jpg) | Dadu / Cambaluc plan tradition |
 | `map-caugigu.jpg` | [Marco Polo in Caugigu - Map.jpg](https://commons.wikimedia.org/wiki/File:Marco_Polo_in_Caugigu_-_Map.jpg) | Yule–Cordier / Gutenberg Vol. 2 |
 
-III-F2 uses `map-marco-polo-overview.jpg` as a stand-in return map until A16 replaces it (MAP); the former byte-identical copy `map-return-route.jpg` was removed (MED.T3, 2026-11-17).
+III-F2 directs readers to the sea loop of the JPEG overview in I-F2. MED.T3 removed the duplicate `map-return-route.jpg` on 2026-11-17.
 
-## Generated illustrations (Grok / Cursor — old-book engraving style)
+## Edition maps, timelines, and diagrams
 
-Not historical documents; project plates:
+The edition produces figures in `maps/`, `timelines/`, and `diagrams/`. Their sources are recorded in the manuscript captions, the [figure tooling and source data](../tools/media/), and the [fact registry](../plans/registry/facts.md). The A1 and A16 replacement maps are pilots awaiting revision and placement. See the [map tasks](../plans/tasks/cross/MAP-maps.md).
+
+## Historical images and facsimiles
+
+For the source, credit line, and reuse terms of each supplied master, see the [public-domain and historical image register](public-domain/README.md) and [source registry](../plans/registry/pd-sources.md).
+
+## Legacy generated illustrations (Grok / Cursor)
+
+These illustrations were generated for the project in an old-book engraving style.
 
 | Local file | Subject |
 |------------|---------|
@@ -23,17 +32,100 @@ Not historical documents; project plates:
 | `drawing-venetian-galley.jpg` | Venetian galley / lagoon |
 | `drawing-chandu-palace.jpg` | Shangdu palace & white horses |
 | `drawing-manzi-junk.jpg` | Yuan junk at sea |
-| `map-indian-ocean.jpg` (a generated drawing despite its name) | Schematic Indian Ocean / return |
-| `map-hangzhou-kinsay.jpg` (a generated drawing despite its name) | Kinsay / West Lake atmosphere plate |
+| `map-indian-ocean.jpg` | Imagined Indian Ocean scene, used for atmosphere in III-F2 |
+| `map-hangzhou-kinsay.jpg` | Imagined view of Kinsay and the West Lake, used for atmosphere in II-F2 |
 
 ## Generated plates (regional idioms — S-10 onward)
 
-Modern illustrations in period manners, not historical artifacts. Full prompt, model and job id in each sidecar `.yaml`.
+The sidecar `.yaml` files record prompts, generation details, and review for these modern illustrations. Where a generator supplies a model version or job ID, the sidecar records it.
 
 | Local file | Plate | Tradition | Generator |
 |------------|-------|-----------|-----------|
 | `plates/I-7-carauna-escape.png` | I-7 Marco escapes the Caraunas | Ilkhanid manuscript painting | Gemini app (chat), 2026-11-10 |
 | `plates/II-13-west-lake-barges.png` | II-13 Pleasure barges on the West Lake | Song–Yuan city-genre handscroll | Akool, flux-krea-dev-lora, 2026-11-10 |
 | `plates/III-5-pearl-divers.png` | III-5 Pearl divers and the shark-charmer | Chola temple mural | Akool, flux-krea-dev-lora, 2026-11-10 |
+| `plates/I-1-genoa-dictation.png` | I-1 Marco dictating to Rustichello | Italian Gothic illumination | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/I-3-presentation-at-kaiping.png` | I-3 Sire, ’tis my son and your liegeman | Yuan court painting | Codex built-in image_gen (GPT image model), 2026-11-18 |
+| `plates/I-6-saba-magi-tombs.png` | I-6 Marco questions the townsfolk at the Magi tombs of Saba | Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14) | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/I-12-cane-divination.png` | I-12 Cane divination before Chinggis's battle | Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14) | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/I-13-mares-milk-libation.png` | I-13 Mare’s-milk libation as the court leaves Chandu | Yuan court painting | Codex built-in image_gen (GPT image model), 2026-11-18 |
+| `plates/II-1-nayan-elephant-tower.png` | II-1 Kublai on the elephant-borne tower at the Nayan battle | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/II-3-white-feast-procession.png` | II-3 The White Feast procession | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/II-15-aijaruc-wrestling.png` | II-15 Aijaruc throws the prince | Ilkhanid manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/III-10-tartar-coat-jewels.png` | III-10 Jewels ripped from the seams of the Tartar coats | Venetian Gothic | GPT image model (built-in image_gen in Codex), 2026-11-18 |
+| `plates/II-2-green-mount.png` | II-2 Elephants carry trees up the Green Mount | Yuan ruled-line architectural painting (jiehua) | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-5-paper-money.png` | II-5 Printing the Kaan's paper money | Yuan woodblock illustration (pinghua) | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-6-pulisanghin-bridge.png` | II-6 Caravan crossing the Pulisanghin bridge | Yuan landscape and ruled-line architectural handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-9-dogs-and-tiger.png` | II-9 Two dogs hold a tiger at bay | Dali kingdom scroll painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-10-song-envoys.png` | II-10 Song envoys surrender the seal to Bayan | Southern Song academy painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-11-xiangyang-trebuchet.png` | II-11 Counterweight trebuchet at Xiangyang | Ilkhanid Jami al-Tawarikh siege illustration | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-12-kiang-trackers.png` | II-12 Trackers haul a junk up the Kiang | Yuan landscape handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-14-zayton-harbour.png` | II-14 Zayton harbour and the pepper trade | Song–Yuan city-genre handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-9-court-farewell.png` | III-9 Golden tablets, Cocachin and the fleet | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/I-10-pamier-crossing.png` | I-10 Crossing the Pamier | Ilkhanid Persian manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/I-9-balas-mines.png` | I-9 The balas-ruby mines under royal seal | Ilkhanid Persian manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/I-5-caliph-treasure.png` | I-5 Hulagu shuts the Caliph in the treasure tower | French Gothic manuscript marvel lens | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/I-4-layas-quay.png` | I-4 The quay at Layas | Cilician Armenian manuscript illumination | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/I-8-dry-tree.png` | I-8 The Dry Tree alone on the plain | French Gothic manuscript marvel lens | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/I-11-lop-spirits.png` | I-11 Spirit voices in the Lop desert | Dunhuang Mogao wall painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-7-exploding-bamboo.png` | II-7 Exploding bamboo in the night camp | Dali kingdom scroll painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-8-vochan-battle.png` | II-8 Battle of Vochan | Pagan temple murals | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-2-shoal-rudders.png` | III-2 Junks lift their rudders in the shoal strait | Javanese temple relief | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-3-samara-camp.png` | III-3 Five months stranded at Samara | Javanese and Sumatran temple relief | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-4-adams-peak-pilgrims.png` | III-4 Pilgrims on Adam's Peak chains | Polonnaruwa mural painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-6-malabar-corsairs.png` | III-6 Corsair cordon off Malabar | Western Indian Jain palm-leaf painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-7-rukh-elephant.png` | III-7 The rukh carries off an elephant | Persian aja'ib wonders manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-8-hormos-windcatchers.png` | III-8 The wind-catchers of Hormos | Baghdad school manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/C12-seagoing-junk.png` | C12 Seagoing junk cutaway | technical line and light wash | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/C13-sewn-plank-hormos.png` | C13 Sewn-plank ship of Hormos | technical line and light wash | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/C14-trebuchet-comparison.png` | C14 Traction and counterweight trebuchets | technical line and light wash | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/C16-cane-palace-roof.png` | C16 Cane palace roof section | technical line and light wash | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-11-xiangyang-trebuchet-revised.png` | II-11 Xiangyang trebuchet, revised | Ilkhanid siege illustration | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-9-court-farewell-no-fleet.png` | III-9 Court farewell, revised | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-9-departure-fleet.png` | III-9 Departure fleet, companion | Yuan handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/II-11-xiangyang-trebuchet-turned.png` | II-11 Xiangyang trebuchet, turned | Ilkhanid siege illustration | GPT image model (built-in image_gen in Codex), 2026-11-19 |
+| `plates/III-9-court-farewell-palace-revised.png` | III-9 Court farewell, palace revision | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-19 |
 
-Chapter captions point here via: `(Wikimedia Commons — credit in media/ATTRIBUTIONS.md)` or note generated plates where relevant.
+## Character reference sheets (CHR.T9; not printed)
+
+Working references for *The Book of the Million*. Each sidecar records the prompt, image inputs, and review.
+
+| Local file | Figure, year | Tradition | Generator, date | Reference images |
+|---|---|---|---|---|
+| `characters/kublai-1280-sheet.webp` | Kublai Khan, 1280 | Yuan court painting | GPT image model in the chat agent, 2026-11-18 | None |
+| `characters/chabi-1275-sheet.png` | Chabi, 1275 | Yuan court painting | GPT image model (image_gen.imagegen), 2026-11-18 | `references/ref_II-chabi_npm-yuan-empress-album.jpg`, `reference/s22/npm-khubilai-hunting-figures.jpg` |
+| `characters/marco-1271-sheet.png` | Marco Polo, 1271 | Italian Gothic / Venetian | GPT image model in the chat agent, 2026-11-18 | None |
+| `characters/marco-1285-sheet.png` | Marco Polo, 1285 | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-18 | `characters/kublai-1280-sheet.webp`, `reference/s22/met-1992.54-DP-32259-004.jpg` |
+| `characters/marco-1298-sheet.png` | Marco Polo, 1298 | Italian Gothic / Genoese | GPT image model in the chat agent, 2026-11-18 | `references/ref_I-01_cocharelli-bl-add27695-f3v-genoese-dress.jpg` |
+| `characters/niccolo-maffeo-1285-sheet.png` | Niccolò and Maffeo Polo, 1285 | Yuan court painting | GPT image model in the chat agent, 2026-11-18 | `characters/marco-1285-sheet.png`, `reference/s22/met-1992.54-DP-32259-004.jpg` |
+| `characters/cocachin-1291-sheet.png` | Cocachin, 1291 | Yuan court painting | GPT image model in the chat agent, 2026-11-18 | `reference/s22/npm-khubilai-hunting-figures.jpg` |
+| `characters/bayan-1275-sheet.png` | Bayan, 1275 | Yuan court painting | GPT image model in the chat agent, 2026-11-18 | `reference/s22/moko-shurai-ekotoba-scroll.jpg` |
+| `characters/nayan-1287-sheet.png` | Nayan, 1287 | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-18 | `characters/kublai-1280-sheet.webp` |
+| `characters/chinghis-1206-sheet.png` | Chinghis Khan, 1206 | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-18 | None |
+| `characters/hulagu-1258-sheet.png` | Hulagu, 1258 | Ilkhanid (Jami' al-Tawarikh) | GPT image model (image_gen.imagegen), 2026-11-18 | `reference/s22/edinburgh-orms20-siege-of-zarang.jpg` |
+| `characters/ghazan-1295-sheet.png` | Ghazan, 1295 | Ilkhanid (Jami' al-Tawarikh) | GPT image model (image_gen.imagegen), 2026-11-18 | `reference/s22/diez-a-fol70-p23-enthronement-right.jpg` |
+| `characters/mustasim-1258-sheet.png` | al-Mustaʿsim, 1258 | Ilkhanid (Jami' al-Tawarikh) | GPT image model (image_gen.imagegen), 2026-11-18 | `reference/s22/diez-a-fol70-p23-enthronement-right.jpg` |
+| `characters/kaidu-1280-sheet.png` | Kaidu, 1280 | Ilkhanid (Jami' al-Tawarikh) | GPT image model in the chat agent, 2026-11-18 | `reference/s22/diez-a-fol70-p23-enthronement-right.jpg` |
+| `characters/aijaruc-1280-sheet.png` | Aijaruc, 1280 | Ilkhanid (Jami' al-Tawarikh) | GPT image model in the chat agent, 2026-11-18 | `reference/s22/diez-a-fol70-p23-enthronement-right.jpg` |
+| `characters/rustichello-1298-sheet.png` | Rustichello of Pisa, 1298 | Italian Gothic | GPT image model in the chat agent, 2026-11-18 | `references/ref_I-01_cocharelli-bl-add27695-f3v-genoese-dress.jpg` |
+| `characters/tedaldo-1270-sheet.png` | Tedaldo Visconti, 1270 | Italian Gothic | GPT image model in the chat agent, 2026-11-18 | None |
+| `characters/donata-1305-sheet.png` | Donata Badoer, 1305 | Italian Gothic / Venetian | GPT image model in the chat agent, 2026-11-18 | None |
+| `characters/peter-the-tartar-1324-sheet.png` | Peter the Tartar, 1324 | Italian Gothic / Venetian | GPT image model in the chat agent, 2026-11-18 | None |
+| `characters/cepoy-1307-sheet.png` | Thibault de Cepoy, 1307 | Italian Gothic | GPT image model in the chat agent, 2026-11-18 | None |
+| `characters/toghrul-1203-sheet.png` | Toghrul, 1203 | Ilkhanid (Jami' al-Tawarikh) | GPT image model (built-in image_gen in Codex), 2026-11-18 | `reference/s22/diez-a-fol70-p23-enthronement-right.jpg` |
+| `characters/arghuns-envoys-1291-sheet.png` | Oulatay, Apusca and Coja, 1291 | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-18 | `reference/s22/npm-khubilai-hunting-figures.jpg`, `reference/s22/diez-a-fol70-p23-enthronement-right.jpg` |
+| `characters/polo-daughters-1324-sheet.png` | Fantina, Bellela and Moreta, 1324 | Italian Gothic / Venetian | GPT image model (built-in image_gen in Codex), 2026-11-18 | None |
+
+## Place reference sheets (GAZ.T8)
+
+These generated working references were prepared on 2026-11-21 for editorial review. Their sidecars give the sources consulted, prompts and review notes. See the [place reference registry](../plans/registry/place-references.yaml).
+
+| Local file | Place and period | Tradition | Source basis |
+|---|---|---|---|
+| [acre-sheet.png](places/acre-sheet.png) | Acre, c. 1290 | Acre-school manuscript illumination | UNESCO Old City of Acre and the Arsenal Bible comparandum |
+| [ayas-sheet.png](places/ayas-sheet.png) | Ayas, c. 1275 | Cilician Armenian manuscript illumination | Edwards's ChArLv survey and the *Carte Pisane* |
+| [cambaluc-sheet.png](places/cambaluc-sheet.png) | Cambaluc, c. 1285 | Yuan architectural linework and ink landscape | Palace Museum excavation evidence and the palace evidence review |
+| [chandu-sheet.png](places/chandu-sheet.png) | Chandu, c. 1275 | Early Yuan landscape | UNESCO Site of Xanadu dossier and the palace evidence review |
+| [kinsay-sheet.png](places/kinsay-sheet.png) | Kinsay, c. 1280 | Southern Song and early Yuan city-genre handscroll | West Lake site documentation and Yule–Cordier |
+| [venice-sheet.png](places/venice-sheet.png) | Venice, c. 1295 | Veneto-Byzantine and early Venetian Gothic illumination | Basilica di San Marco's documentation of the Sant'Alipio mosaic |
+| [zayton-sheet.png](places/zayton-sheet.png) | Zayton, c. 1290 | Song–Yuan city-genre handscroll | UNESCO/ICOMOS site evaluation and the Western Australian Maritime Museum's Quanzhou ship report |

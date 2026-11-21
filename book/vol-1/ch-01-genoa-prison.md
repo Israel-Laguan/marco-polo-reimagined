@@ -10,7 +10,7 @@ The book itself opens by explaining how it came to be written — not on the Ven
 
 So here is how the story of the book’s making usually runs.
 
-In 1298 Venice (Venezia) and Genoa (Genova) were at war again. For decades the two republics had fought over markets and honour from Acre to the Bosphorus. After Acre fell in 1291, the southern routes of Indian trade were half closed to the Franks, while Genoa’s strength in the Black Sea pressed on Venetian access to the northern roads by Trebizond and Tana. In 1294 a Genoese convoy had already smashed a Venetian fleet in the bay of Ayas (Yumurtalık / Laias). By 1298 Genoa meant to strike Venice in her own waters. [2]
+In 1298 Venice (Venezia) and Genoa (Genova) were at war again. For decades the two republics had fought over markets and honour from Acre to the Bosphorus. After Acre fell in 1291, the southern routes of Indian trade were half closed to the Franks, while Genoa’s strength in the Black Sea pressed on Venetian access to the northern roads by Trebizond (Trabzon) and Tana (on the Sea of Azov). In 1294 a Genoese convoy had already smashed a Venetian fleet in the bay of Ayas (Yumurtalık / Laias). By 1298 Genoa meant to strike Venice in her own waters. [2]
 
 The Genoese fleet went out under Lamba Doria. After Messina the galleys steered for the Adriatic; storm scattered them at the gulf’s mouth; then the admiral gathered some seventy sail, raided the Dalmatian shore, and fell on the island of Curzola (Korčula). The chief town was taken and burned. Word came that the Venetian fleet was in sight.
 
@@ -28,11 +28,29 @@ So the merchant witness and the romance scribe met under constraint. One had cro
 
 Day by day, as the tradition has it, Marco spoke of what he had seen with his own eyes and of what he had heard from men of credit; Rustichello set it in narrative succession. The preamble announces — at least as an ideal — that things seen would be set down as seen and things heard as heard only, so that no jot of falsehood might mar the truth of the book. Whether that ideal was kept in every chapter is another question; later notes will say so chapter by chapter. For now, the book wants you to trust the method. [9]
 
-Yet the meeting of voices was never a simple transcription. The scribe who had once invited the world to delight in the adventures of errant knights now framed a merchant’s testimony with the same ceremonial music. According to the Old French tradition, the book begins with an address almost twin to Rustichello’s romance preambles:
+Yet the meeting of voices was never a simple transcription. The scribe who had once invited the world to delight in the adventures of errant knights now framed a merchant’s testimony with the same ceremonial music. The book opens with an address like the preambles to Rustichello’s romances. [10]
 
-*Great Princes, Emperors, and Kings, Dukes and Marquises, Counts, Knights, and Burgesses! and People of all degrees who desire to get knowledge of the various races of mankind and of the diversities of the sundry regions of the World, take this Book and cause it to be read to you.* [10]
+:::: parallel-text
 
-There follow promises of wonders — of Greater Hermenia (Armenia), Persia, the Land of the Tartars, India, and many another country — and the proud assertion that never since Our Lord God moulded Adam had any Christian or Pagan, Tartar or Indian, or man of any nation, possessed in his own person so much knowledge and experience of the world’s divers parts as this Messer Marco, wise and noble citizen of Venice; that in acquiring that knowledge he spent good six-and-twenty years; and that, being thereafter an inmate of the prison at Genoa, he caused Messer Rusticiano of Pisa, who was in the said prison likewise, to reduce the whole to writing in the year 1298. [11]
+::: witness
+**Franco-Italian · Witness F**
+
+Seingnors, enperaor et rois, dux et marquois, cuens, chevalers et borgiois, […] si prennés cestui livre et le feites lire
+
+BnF fr. 1116, fol. 4a, Prologue § 1. Eusebi and Burgio [-@eusebi2018devisement, p. 35], [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+:::
+
+::: witness
+**English · Yule–Cordier**
+
+Great Princes, Emperors, and Kings, Dukes and Marquises, Counts, Knights, and Burgesses! […] take this Book and cause it to be read to you.
+
+Prologue, opening address [@yc, Prol. preamble].
+:::
+
+::::
+
+There follow promises of wonders — of Greater Hermenia (Armenia), Persia, the Land of the Tartars, India, and many another country — and the proud assertion that never since Our Lord God moulded Adam had any Christian or pagan, Tartar or Indian, or man of any nation, possessed in his own person so much knowledge and experience of the world’s divers parts as this Messer Marco, wise and noble citizen of Venice; that in acquiring that knowledge he spent good six-and-twenty years; and that, being thereafter an inmate of the prison at Genoa, he caused Messer Rusticiano of Pisa, who was in the said prison likewise, to reduce the whole to writing in the year 1298. [11]
 
 — Those superlatives are worth a brief aside. “Never since Adam” is scribe’s theatre as much as traveller’s self-portrait. The twenty-six years roughly fit the tradition of departure and return, but they are also book rhetoric. John Larner has stressed that the prison collaboration gave the book its romance dress: Rustichello cast Marco’s geography in Arthurian formulas. That does not dissolve the witness; it means the voice of the book is already composite before any later translator intervenes. [12] Anyway, the book announces itself not as a private ledger but as a public work for all estates, to be read aloud in halls and chambers.
 

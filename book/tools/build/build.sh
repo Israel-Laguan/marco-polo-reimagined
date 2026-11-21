@@ -40,6 +40,9 @@ IFS='|'; set -f # one -M per volume field; titles contain spaces
 for kv in $meta; do set -- "$@" -M "$kv"; done
 unset IFS; set +f
 if [ -n "$fmt" ]; then # citeproc with pandoc's built-in CSL (Chicago 17th author-date); sigla via preview.lua
+  if [ "$fmt" = html ] && [ "$n" = 1 ]; then
+    set -- "$@" --include-in-header tools/build/parallel-text.html
+  fi
   pandoc "$@" -f markdown-subscript-superscript -s --toc --resource-path="vol-$n" \
     --lua-filter tools/build/preview.lua --bibliography plans/registry/bibliography.bib \
     -M reference-section-title="Works cited" -o "build/$name.$fmt" 2>"build/$name.$fmt.log" \

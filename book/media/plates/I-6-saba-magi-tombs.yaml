@@ -1,0 +1,70 @@
+plate: I-6
+title: Marco questions the townsfolk at the Magi tombs of Saba
+status: draft
+tradition: Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14)
+caption: At Saba, Marco asks about three ancient tombs that Polo’s Book identifies with the Magi (◇ local tradition).
+  Modern illustration in the manner of Ilkhanid Persian manuscript painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-18'
+params:
+  scale: '4:3'
+  resolution: 1448x1086
+  rounds: 1
+  turns: 2
+  selected: media/plates/drafts/I-6/gpt-r1-2.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-6.txt
+negative: in-prompt
+reference_images:
+- file: media/reference/s22/edinburgh-orms20-siege-of-zarang.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Edinburgh University Library, Or.Ms.20, Maḥmūd of Ghazna attacks Zarang, via Wikimedia Commons
+- file: media/characters/marco-1271-sheet.png
+  use: accepted character sheet
+  licence: Project-generated reference approved for use (CHR.T9)
+  credit: The Book of the Million, Marco Polo 1271 character sheet
+figures:
+- id: marco
+  year: 1272
+  cue: |-
+    [PERIOD] Marco, c. 18 in 1272: slim, dark-haired, dark-eyed; beardless at 17; short dark beard from about 21; trimmed beard in Venice; grey by 50, white at 69.
+             Dress (the road): young merchant's tunic and hooded cloak, layered for weather: fur-lined coat and felt boots in the Pamier and Lop.
+             The youngest of the three Latins in every scene before 1291.
+             A merchant's belt-purse (scarsella) in every scene.
+             On the Kaan's business (1275–91) and on the return: a gold paiza on a cord; never before 1275.
+    [AVOID]  crown, coat of arms, sword-belt of a knight; a monk's habit; a paiza before 1275; Renaissance dress (the 16th-c. portrait)
+cues:
+- C36
+unsourced:
+- Exact appearance and disposition of the Saba tombs and enclosure, and the existence of these three structures
+  at the site. Generic brick mausoleum forms serve the narrative.
+- Local townsmen’s appearance and precise garments and caps. C36 supports the long patterned robe as a period regional
+  analogy, and ordinary dress and colours are illustrative.
+- The exact date and direction of Marco’s reported journey through Saba. The date circa 1272 follows the scene registry.
+post: convert media/plates/drafts/I-6/gpt-r1-2.png -profile /usr/share/color/icc/colord/sRGB.icc -units PixelsPerInch -density 300 media/plates/I-6-saba-magi-tombs.png
+review:
+  script: Pass. Checked tomb entries and masonry, roundels, borders and corners at native size. The isolated faint
+    arc above the group reads as a surface mark.
+  period: Pass with source limits. Brick mausoleum types and ordinary Persian long robes are schematic. The C36
+    roundels are plain geometric discs. Marco follows the 1272 road dress cue.
+  scene: Pass. One young Venetian traveller and two Persian men exchange clear gestures beside exactly three tombs.
+    Marco is slim, dark-haired, beardless, in tunic and hooded cape with a conspicuous belt-purse.
+  rule_6: Pass. The townsmen are secular figures and the tombs are closed and unadorned.
+  idiom: Pass. Warm ink contours, flat mineral colours, shallow overlapping planes and cloud ribbons read as early
+    Ilkhanid book painting.
+  ground_and_aging: Pass with a minor on-paper mark. Ageing is even across the sheet. A faint stray arc is visible
+    in the upper blank paper on close inspection.
+  artifact_risk: Moderate. The ruled border and aged paper evoke manuscript work. The caption identifies local tradition
+    and carries the required modern illustration label.
+  print: Pass. 1448 × 1086, true 4:3, sRGB PNG at 300 ppi. Faces, hands, purse and masonry are legible at 100%.
+    Native pixels preserved without resizing or sharpening.
+  sidecar: Pass. Prompt, in-prompt negative, generator and model transparency, chat job notation, date, route, caption,
+    references, figure cue, post-processing and all review items are recorded.
+  must_get_right_brick_domed_tombs: Pass. Three separate brick tombs with domes and closed pointed entrances, rendered
+    as generic Persian mausoleums.
+  must_get_right_persian_dress: Pass with comparative sourcing. Long belted robes, subdued soft caps and low shoes,
+    with plain C36-type roundels on one robe.
+  chapter_handoff_puzzled_townsmen: Pass. One man indicates the tombs while the other turns toward Marco thoughtfully.

@@ -1,0 +1,17 @@
+# B4 — The Song endgame, 1268–1279 (II-10 / II-11). DIA.T1: every date from plans/registry/facts.md; `fact` names the row.
+# The last battle stays unnamed (F-41); no Yuan dynastic-name year (F-40).
+id: B4
+file: B4-song-endgame
+axis:
+  segments: [[1268, 1280]]
+  length_cm: 11
+  tick: 2
+events:
+  - {from: 1268.8, to: 1273.2, date_label: "1268–73", kind: war, label: "Siege of Xiangyang (Saianfu)", note: "late 1268 to March 1273", fact: F-07}
+  - {date: 1272.8, date_label: "1272", kind: war, label: "Engineers sent by Abaqa reach the siege", note: "late 1272", fact: F-07}
+  - {date: 1273.5, date_label: "1273", kind: rule, label: "Kublai decides on the war against Manzi", fact: F-29}
+  - {date: 1274.5, date_label: "1274", kind: war, label: "Bayan's campaign begins", fact: F-29}
+  - {date: 1275.05, date_label: "1275", kind: war, label: "Bayan before Hankow, January", fact: F-29}
+  - {date: 1276.1, date_label: "1276", kind: rule, label: "Lin'an (Kinsay) yields", note: "early 1276", fact: "B4 Song endgame"}
+  - {date: 1279.1, date_label: "1279", kind: war, label: "Last sea battle off the Canton coast", note: "early 1279: the Song line ends", fact: F-41}
+legend: true

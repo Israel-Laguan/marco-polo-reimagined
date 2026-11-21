@@ -95,7 +95,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-10.T3` (re-voice renumbers Notes)
 - **Now:** 17 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
-  - "Dispute" label in Note(s) [12]: drop the label, merge into the Note of its anchor, or give it `?` plus a sentence on what is contested.
+  - "Dispute" label in Note(s) [12]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-1/ch-10-pamier-cotan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.

@@ -1,0 +1,95 @@
+plate: III-10
+title: Jewels ripped from the seams of the Tartar coats
+status: draft
+tradition: Venetian Gothic
+caption: The Polos uncover jewels sewn into their travelling coats on their return to Venice, c. 1295, in Ramusio’s
+  later tradition. The homecoming scene is undocumented. Modern illustration in the manner of Venetian Gothic. Not
+  a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model, version not displayed
+job_id: 'none: chat output'
+date: '2026-11-18'
+params:
+  scale: '3:4'
+  resolution: 1086x1448 source
+  rounds: 1
+  tries: 1
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-10.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/marco-1298-sheet.png
+  use: accepted character sheet
+  licence: Project-owned generated reference under style-guide rule 9
+  credit: The Book of the Million, Marco Polo character sheet (1298)
+- file: media/characters/niccolo-maffeo-1285-sheet.png
+  use: accepted character sheet
+  licence: Project-owned generated reference under style-guide rule 9
+  credit: The Book of the Million, Niccolò and Maffeo character sheet (1285)
+- file: media/reference/s22/cma-1989.50-cloth-of-gold.jpg
+  use: edit OK
+  licence: CC0
+  credit: Cleveland Museum of Art, Cloth of Gold with Winged Lions and Griffins, 1989.50
+figures:
+- id: marco
+  year: 1295
+  cue: "[PERIOD] Marco, c. 41 in 1295: slim, dark-haired, dark-eyed; beardless at 17; short dark beard from about\
+    \ 21; trimmed beard in Venice; grey by 50, white at 69.\n         Dress (the return): worn Mongol travelling\
+    \ robes (Ramusio: they came home in Tartar dress).\n         The youngest of the three Latins in every scene\
+    \ before 1291.\n         A merchant's belt-purse (scarsella) in every scene.\n         On the Kaan's business\
+    \ (1275–91) and on the return: a gold paiza on a cord; never before 1275.\n[AVOID]  crown, coat of arms, sword-belt\
+    \ of a knight; a monk's habit; a paiza before 1275; Renaissance dress (the 16th-c. portrait)"
+- id: niccolo
+  year: 1295
+  cue: "[PERIOD] Niccolò, ? in 1295: the elder-looking brother: broad, heavy-set, greying beard by 1271, white by\
+    \ 1295; the one who speaks, kneels first and holds the letters.\n         Dress (as Marco): as Marco's card\
+    \ for each period, an older man's longer robe.\n         The papal letters and the flask of oil from the Sepulchre\
+    \ lamp (1271–75).\n         The gold paiza of 1266 on the first return.\n[AVOID]  any attribute of rank beyond\
+    \ the paiza"
+- id: maffeo
+  year: 1295
+  cue: "[PERIOD] Maffeo, ? in 1295: leaner and taller than Niccolò, a long dark beard going grey; carries the travelling\
+    \ gear.\n         Dress (both journeys): as Niccolò.\n         Stands behind or beside Niccolò, never in front\
+    \ of him.\n[AVOID]  depicting Marta or children as present on a journey without scene evidence; his marriage\
+    \ is reported by Bolognari and Simion via Burgio, children disputed"
+cues:
+- C8
+- C39
+- C43
+unsourced:
+- Ramusio’s later tradition supplies the jewel reveal and the worn Tartar clothes. The pictured instant, openings
+  in the lining, exact jewel shapes and positions, and removal of the extra coat are illustrative staging.
+- Exact Ca’ Polo room, window placement, and furniture are a generic reconstruction. C43 and the Cocharelli feast
+  are later Genoese comparisons and supply a room type and pictorial idiom. C39 serves as an earlier Veneto-Byzantine
+  style comparison only.
+- Placement of the C8 textile at the feast is a visual comparison. It does not identify an object once in the Polo
+  household.
+post: >-
+  convert media/plates/drafts/III-10/gpt-r1-1.png -filter Lanczos -resize 1350x1800 -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-10-tartar-coat-jewels.png
+review:
+  script: Pass. The corners, textile, window and table are clear of script, seals, stamps and signatures. Marco’s
+    visible paiza surface is blank.
+  period: Pass with source limits. Worn crossed-collar late-thirteenth-century Mongol travelling robes follow the
+    cards. The paired Romanesque round arches and simple wooden furniture make a plausible room. Cocharelli is a
+    later genre comparandum.
+  figures: Pass. Exactly three adults, Marco with short dark beard, Niccolò broad and white-bearded, and Maffeo
+    tall and lean with a greying dark beard and rolled travelling gear. No Donata, guests or attendants. The coat
+    seam holds visible gemstones as Marco picks one out.
+  sacred_figures: Pass. Secular figures and setting throughout.
+  idiom: Pass. Thin dark contours, flat tempera-like colour, angular drapery and shallow picture space read as Venetian
+    Gothic.
+  ground: Pass. Light even parchment ageing and intact pigment. The worn patches are on the garments, not simulated
+    damage to the leaf.
+  artifact_risk: Moderate. The manuscript-like image could be mistaken for a period reconstruction. The caption
+    explicitly labels both its modern origin and the late tradition behind the scene.
+  print: Pass. Lossless sRGB PNG, 1350x1800 at 300 ppi. Faces, fingers, seam, paiza, gem edges and textile checked
+    at 100 percent after resizing.
+  sidecar: Pass. Narrative caution, GPT route, generator, date, prompt, allowed references, figures, cues, exact
+    post command and checklist recorded.
+  must_veneto_byzantine_interior: Pass. Generic secular plaster room with paired round arches and slender central
+    column, plain trestle and low seat.
+  must_no_salute_domes: Pass. The arched openings show blue light, with no skyline or Salute domes.
+  must_c8: Pass. Separate gold-on-silk cloth on the bench shows paired winged lions in touching roundels and smaller
+    creatures in the spaces. The pattern is distinct from the coat holding the jewels.
+  must_ramusio_scene: Pass. Loosened stitches, visible lining and coloured gems make the reveal legible. Ramusio’s
+    tradition is named in the caption.

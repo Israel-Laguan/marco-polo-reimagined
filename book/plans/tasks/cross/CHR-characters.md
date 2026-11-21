@@ -1,6 +1,6 @@
 # CHR — Characters
 
-**Status:** ready (S-05 closed 2026-10-22) · **Plan doc:** S-05; `registry/characters.md`; `illustration-style-guide.md` § Recurring figures
+**Status:** waiting (2026-11-19): T1, T2, T4, T5, T8 and T9 are done. What is left waits on other work: T3 on S-08 and GLO, T6 on every chapter's naming pass, and T7 on library or archive access (S-05 closed 2026-10-22) · **Plan doc:** S-05; `registry/characters.md`; `illustration-style-guide.md` § Recurring figures
 
 ## Scope
 The recurring people of the book, as one source of truth for **text** (names, dates, relationships, titles) and **images** (age, dress, attributes per tradition). Scholars (Yule, Wood…) are out of scope; they belong in the bibliography.
@@ -21,7 +21,7 @@ The recurring people of the book, as one source of truth for **text** (names, da
   - Baibars's dates (I-3): `characters.yaml` bundukdar gives "1260–77" and "1 July 1277"; Yule says he reigned 1259–1276. S-06 still open, F-39; until a source is seen, the row's `dates` should read "Mamluk sultan (Yule: 1259–1276)".
   - Argon's death day, 7 or 10 March 1291 (III-9, S-05).
   - Rustichello’s lay or clerical status is unverified (I-1 plate; S-15).
-- Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.
+- Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy, and since 2026-11-19 for Unc Can (Toghrul), Oulatay, Apusca, Coja, Fantina, Bellela and Moreta. Each card has an accepted house sheet in `media/characters/`. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.
 - Co-presence: `tools/characters.py ages` proves no Polos at Xiangyang (II-11), no Chabi after 1281 (II-03), no Argon at the bride's arrival (III-9 secondary). The text, not the itinerary, keeps the Polos off the Nayan field (II-01) and out of Bayan's camp (II-10).
 - Waiting on: costume entries from S-22 (headgear, hair, armour by period) for the `dress` lines; the open facts in `CHR.T7` (library checks; family rows via S-15).
 
@@ -35,7 +35,7 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Did:** `registry/characters.yaml` (54 people: book form, gloss, variants, other names, dates, role, relations, `book_says`, `verify`, generated `chapters`); `tools/characters.py`; `name_policy` people rule in `tools/lint.py`; `status/character-name-diff.md`.
 
 ### CHR.T2 — Visual cards for plate figures
-- **Status:** done for the first 19 (in S-05); extend with each new plate
+- **Status:** done for the 26 recurring figures (2026-11-19: the 19 from S-05, plus Toghrul, Oulatay, Apusca, Coja, Fantina, Bellela and Moreta, taken from their accepted sheets; their dress lines are working conventions). Keep extending it with each new plate.
 - **Did:** `registry/character-cards.yaml`: likeness, house conventions, attributes, dress by period, per-tradition rendering, avoid-list; the Polo itinerary; 22 scenes.
 - **Do next:** when a plate with a person is added to `illustration-plan.md`, add its scene to the cards file and run `tools/characters.py check`.
 - **Done when:** every GEN plate showing a recurring person has a scene row, and `ages` reports 0 problems.
@@ -52,8 +52,10 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 
 ### CHR.T5 — Costume refinement from S-22
 - **Supplement leads:** Met helmet 1999.158 is Mongolian or Tibetan and dated broadly 13th–15th century; the lacing date does not establish manufacture in Polo's years. `chuluun2024reconstruction` concerns a Balar's Khad deel, but its artifact date and methods remain to be checked. See `registry/visual-references.md` § Supplement; do not add either as a card cue yet.
-- **Status:** ready (S-22 closed 2026-11-13) · **Depends:** —
-- **Handed over by S-22:** cues C1 (court men), C2 (married court women, *boqta*), C3 (Cublay outdoors, from the 1280 hunting scroll) and C4 (a court woman riding: braids, no *boqta*) in `illustration-plan.md` § S-22 period cues; the images behind them in `media/reference/s22/` (the Khubilai and Chabi bust portraits are there too, not yet looked at closely). **Nothing yet** for Venetian dress or for Ilkhanid and Yuan armour: those wait on `research/S-22-follow-up-prompt.md`, so leave those `dress` lines as they are.
+- **Status:** done (2026-11-18) for every dress line a viewed cue or a read report covers · **Depends:** —
+- **Also did (2026-11-18):** The S-22 follow-up ran but failed its intake, so nothing from it was used. Venetian dress comes from C39 instead, for `marco` 1296–1324 and `donata`. Armour comes from the Takashima 1281 finds (text, Matsuura Report 4) for `bayan` and `nayan`, and from C37 (c. 1299, late) for `hulagu`. **Left as is:** the young Marco and Niccolò travel dress, Tedaldo, Rustichello, Peter, Cepoy and Chinghis, because no viewed source covers them. The draft Cocharelli cue C43 (c. 1330–40) has not been accepted.
+- **Did (2026-11-18):** C1 into `marco` 1275–91 (Niccolò and Maffeo inherit it) and `kublai` court; C2 into `chabi` court and `cocachin` Persia; C3 into `kublai` hunt; C4 as a new `chabi` riding line and into `cocachin` 1290–93 (as a comparison only). The S-22 `[AVOID]` lines (barbarian fur-and-leather dress; loose hair or tiaras) were added to `kublai`, `chabi` and `cocachin`. `characters.py check` and `ages` show 0 problems. The bust portraits in `media/reference/s22/` have still not been examined.
+- **Handed over by S-22:** cues C1 (court men), C2 (married court women, *boqta*), C3 (Cublay outdoors, from the 1280 hunting scroll) and C4 (a court woman riding: braids, no *boqta*) in `illustration-plan.md` § S-22 period cues; the images behind them in `media/reference/s22/` (the Khubilai and Chabi bust portraits are there too, not yet looked at closely). **Nothing yet** for Venetian dress or for Ilkhanid and Yuan armour: the follow-up prompt for them ran and failed intake; see Also did.
 - **Do:** take S-22's costume entries (Mongol court robes, *boqta*, Venetian dress c. 1270–1324, Ilkhanid and Yuan armour) into the cards' `dress` and `avoid` lines. Content only: no actor's or manga character's likeness (S-22 rule 3).
 - **Done when:** each card's dress lines cite an S-22 entry or a period source.
 
@@ -80,6 +82,23 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Do:** after each W4 batch, run `tools/characters.py chapters` and `report --md > plans/status/character-name-diff.md`. When the last narrative chapter has had its pass, make the people half of `name_policy` an error, together with `GAZ.T7`.
 - **Done when:** the report shows 0 bare variants and 0 unglossed first mentions; the rule is an error.
 
+
+### CHR.T8 — Reference list per card
+- **Status:** done (2026-11-19). Every one of the 26 cards has a `references:` list with `cue`, `source`, `use` (`own sheet` / `edit OK` / `look only` / `not saved` / `text`), `seen` and `for`. `characters.py check` fails on a card without references, on a bad `use`, or on a saved file missing from `media/`. `cue` prints the files, `[INPUT]` for those that may be attached and `[LOOK]` for the rest. Sources not yet examined closely are marked so in `seen`, not left out: the NPM busts and Or.MS 20.
+- **Why:** a card's `likeness` is one line of prose. The sources behind a figure are spread across `media/references/README.md`, `registry/visual-references.md` (cues C1–C50) and the S-22 and S-23 intakes. A prompt writer has to find them again for every plate.
+- **Do:** give each card in `registry/character-cards.yaml` a `references:` list. Each entry holds `cue` (a C-number, or none), `source` (a local file under `media/references/` or `media/reference/s22/`, or a URL), `use` (`edit OK` / `look only`, as in the references README), `seen` (viewed / text only / not seen) and `for` (face, court dress, hunt dress, armour, idiom). Only list sources that are viewed or read; a lead goes in `verify`, not here. Teach `tools/characters.py check` to fail on a local path that does not exist, and have `cue` print the list under `[PERIOD]`.
+- **Done when:** every one of the 19 cards has a list, an empty list states why (for example "no period image: Polo"), and `check` shows 0 problems.
+
+### CHR.T9 — Character reference sheets (images)
+- **Status:** done (2026-11-18): 23 sheets accepted by the user. That is the 19 cards, plus Toghrul, Arghun's envoys and the Polo daughters, which have no cards yet. Each card's `likeness` now names its sheet. Four sheets (Donata, Chabi, Peter, Nayan) were re-made once, and their v1 files are kept. Sidecars and `media/ATTRIBUTIONS.md` § Character reference sheets record the prompts, inputs and reviews. The agent prompts are `media/characters/AGENT-PROMPT.md` and `CORRECTIONS-2026-11-18.md`.
+- **What a sheet is:** a working reference that keeps a figure consistent from plate to plate, drawn in the figure's main tradition (Yuan for the court, Gothic for Venice, Ilkhanid for Persia). Each sheet shows the figure in one or two dated dress lines from the card, on a plain ground. **It is never printed as a plate** and never captioned as a likeness.
+- **Do:** for each of the 19 cards, in this order: Cublay, Chabi, Marco (1275 and 1296), Niccolò and Maffeo (one sheet), Cocachin, Bayan, Nayan, Alaü, Casan, then the rest:
+  1. Write `media/characters/prompts/<id>-<year>.txt` from `tools/characters.py cue <id> <year>` and the style-guide template. Put the avoid lines in the prompt's "Do not include" line. Attach the card's `edit OK` references (rule 9), never a `look only` file.
+  2. Generate, then review against the style-guide checklist, items 1–3 and 5. Faces must match the card's `house` line.
+  3. Save `media/characters/<id>-<year>-sheet.<ext>` with a sidecar `.yaml`: prompt, model, date, tradition, the reference files used, and one review line per item.
+  4. When a sheet is accepted, cite it in the card's `likeness` as the house reference for later plates (an image input to an edit is allowed for our own sheets).
+- **Done when:** every card whose figure appears in a GEN plate has an accepted sheet. Polo-family sheets say "house convention, no authentic likeness" in the sidecar.
+- **Settled (2026-11-18):** style-guide rule 9 now allows `edit OK` reference files and our own accepted sheets as image inputs; `look only` files never. List every attached file in the sidecar.
 
 ### S-15 handoff — family and collaborator records (2026-11-11)
 

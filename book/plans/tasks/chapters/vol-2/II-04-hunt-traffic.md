@@ -93,10 +93,10 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### II-04.T4 — Notes and apparatus to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-04.T3` (re-voice renumbers Notes)
-- **Now:** 21 Notes · 0 ★ · 4 without a lead marker · tag [V]
+- **Now:** 19 Notes · 0 ★ · 0 without a lead marker · tag [V]
 - **Do:**
   - Tag line `**[V]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
-  - Notes with no lead marker: [7], [10], [14], [21] (fill, merge or rewrite; none may be a placeholder or pointer).
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-2/ch-04-hunt-traffic.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [21]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.

@@ -1,0 +1,12 @@
+# B6 — The Book's date vs the record (I-B1). Paired mode: open mark = the Book, filled = the record, joined by a line.
+# DIA.T1: every date from plans/registry/facts.md; `fact` names the row. A record range is drawn as a bar.
+id: B6
+file: B6-book-vs-history
+axis:
+  segments: [[1258, 1278], [1290, 1298]]
+  tick: 5
+pairs:
+  - {label: "War of Alaü and Barca", note: "Book: Alaü wins. Record: Hulagu's army routed", book: 1261, from: 1262, to: 1263, fact: "F-01; B6 Book date vs history"}
+  - {label: "Bayan sent against Manzi", book: 1268, record: 1274, fact: F-29}
+  - {label: "Baidu takes the throne", book: 1294, record: 1295, fact: F-05}
+  - {label: "Casan (Ghazan) takes the throne", book: 1294, record: 1295, fact: F-05}

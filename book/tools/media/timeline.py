@@ -10,6 +10,8 @@ Timeline YAML (see data/B5.yaml):
   axis: {segments: [[y0, y1], ...] (a break between segments), length_cm, tick (years)}
   events: [{date | from+to, kind (style.yaml event_kind), label, note?, date_label?, fact}]
   legend: true|false
+  pairs (B6, instead of events): [{label, note?, book, record | from+to, fact}]; open mark = the Book,
+    filled = the record, joined by a line; years run across, on axis.segments (length_cm not needed).
 Layout is vertical (years run down the page) so a 4.5 in measure can hold the clustered decades.
 """
 import shutil
@@ -109,7 +111,7 @@ def body(spec):
             lines.append(rf"\node[tl-note] at ({LABEL_X},{r['lab'] + LINE_CM / 2:.3f}) {{{tex(e['note'])}}};")
     if spec.get("legend"):
         used = [k for k in STYLE["event_kind"] if any(r["e"]["kind"] == k for r in rows)]
-        ly, prev = max(r["lab"] for r in rows) + 0.9, None
+        ly, prev = max(max(r["lab"] for r in rows) + 0.9, y(segs[-1][1]) + 0.5), None
         for i, k in enumerate(used):  # each item placed after the previous one's text
             at = f"(0.2,{ly:.3f})" if prev is None else f"([xshift=0.4cm]{prev}.east)"
             lines.append(rf"\node[kind-{k}] (lgm{i}) at {at} {{}};")
@@ -119,9 +121,64 @@ def body(spec):
     return "\n".join(lines)
 
 
+PAIR_X0, PAIR_ROW = 5.0, 1.05   # cm: where the year lanes start; height of one pair
+
+
+def pairs_body(spec):
+    """B6: one row per claim, the Book's year (open) above the record's (filled), joined by a line."""
+    x1 = MEASURE_CM - 0.5
+    s = scaler({**spec["axis"], "length_cm": x1 - PAIR_X0})
+    x = lambda yr: PAIR_X0 + s(yr)
+    lines = [rf"\path (0,0) -- ({MEASURE_CM:.2f},0);"]
+    for i, p in enumerate(spec["pairs"]):
+        top = i * PAIR_ROW
+        yb, yr = top + 0.2, top + 0.7
+        lines.append(rf"\node[tl-label, anchor=north west, text width={PAIR_X0 - 0.4}cm] at (0,{top + 0.05:.3f}) "
+                     rf"{{{tex(p['label'])}}};")
+        if p.get("note"):
+            lines.append(rf"\node[tl-note, text width={PAIR_X0 - 0.4}cm] at (0,{top + 0.42:.3f}) {{{tex(p['note'])}}};")
+        if "record" in p:
+            rx = rend = x(p["record"])
+            rtext = str(p["record"])
+            lines.append(rf"\node[pair-rec] at ({rx:.3f},{yr:.3f}) {{}};")
+        else:
+            a, b = x(p["from"]), x(p["to"])
+            rx, rend, rtext = (a + b) / 2, b, date_text(p)
+            lines.append(rf"\draw[ink, line width=2.4pt] ({a:.3f},{yr:.3f}) -- ({b:.3f},{yr:.3f});")
+        bx = x(p["book"])
+        lines.insert(1, rf"\draw[tl-leader] ({bx:.3f},{yb:.3f}) -- ({rx:.3f},{yr:.3f});")  # under the marks
+        lines.append(rf"\node[pair-book] at ({bx:.3f},{yb:.3f}) {{}};")
+        lines.append(rf"\node[tl-year, anchor=east, xshift=-0.1cm] at ({bx:.3f},{yb:.3f}) {{\itshape {p['book']}}};")
+        lines.append(rf"\node[tl-year, anchor=west, text=ink, xshift=0.12cm] at ({rend:.3f},{yr:.3f}) "
+                     rf"{{\bfseries {rtext}}};")
+    ay = len(spec["pairs"]) * PAIR_ROW + 0.05
+    segs, tick = spec["axis"]["segments"], spec["axis"]["tick"]
+    for i, (a, b) in enumerate(segs):
+        lines.append(rf"\draw[tl-axis] ({x(a):.3f},{ay:.3f}) -- ({x(b):.3f},{ay:.3f});")
+        for t in range(-(-a // tick) * tick, b + 1, tick):
+            lines.append(rf"\draw[tl-tick] ({x(t):.3f},{ay:.3f}) -- ({x(t):.3f},{ay + 0.1:.3f}) "
+                         rf"node[tl-year, anchor=north] {{{t}}};")
+        if i:
+            g = x(a) - BREAK_CM / 2
+            for d in (-0.07, 0.07):
+                lines.append(rf"\draw[tl-tick] ({g + d - 0.05:.3f},{ay + 0.12:.3f}) -- ({g + d + 0.05:.3f},{ay - 0.12:.3f});")
+    ly = ay + 0.75
+    lines.append(rf"\node[pair-book] (lb) at (0.2,{ly:.3f}) {{}};")
+    lines.append(rf"\node[tl-note, anchor=west] (lbt) at ([xshift=0.12cm]lb.east) {{the Book’s date}};")
+    lines.append(rf"\node[pair-rec] (lr) at ([xshift=0.4cm]lbt.east) {{}};")
+    lines.append(rf"\node[tl-note, anchor=west] at ([xshift=0.12cm]lr.east) {{the record (a bar where it is a span)}};")
+    return "\n".join(lines)
+
+
 def render(spec):
+    return standalone(pairs_body(spec) if "pairs" in spec else body(spec))
+
+
+def standalone(tikz):
+    """The shared preamble (font, colours, styles) around a tikzpicture body; diagram.py uses it too."""
     c = STYLE["colour"]
     colours = [rf"\definecolor{{ink}}{{HTML}}{{{c['ink'][1:]}}}", rf"\definecolor{{inksoft}}{{HTML}}{{{c['ink_soft'][1:]}}}"]
+    colours += [rf"\definecolor{{v{k}}}{{HTML}}{{{v[1:]}}}" for k, v in STYLE["volume"].items()]
     kinds = []
     for k, v in STYLE["event_kind"].items():
         name = k.replace(" ", "-")
@@ -131,7 +188,7 @@ def render(spec):
                  }.get(v["shape"], "")
         kinds.append(f"  kind-{name}/.style={{tl-mark, shape={v['shape']}, fill=k{k}, {extra}}},")
     return Template((HERE / "timeline.tex").read_text()).substitute(
-        font=STYLE["font"], colours="\n".join(colours), kinds="\n".join(kinds), body=body(spec))
+        font=STYLE["font"], colours="\n".join(colours), kinds="\n".join(kinds), body=tikz)
 
 
 def build(names):
@@ -176,6 +233,9 @@ def self_test():
         except ValueError:
             continue
         raise AssertionError(f"accepted {bad}")
+    pair = pairs_body({"axis": {"segments": [[1258, 1278], [1290, 1298]], "tick": 5},
+                       "pairs": [{"label": "a", "book": 1261, "from": 1262, "to": 1263}]})
+    assert "1262–63}" in pair and "1261" in pair and "1290" in pair
     for f in sorted(DATA.glob("B*.yaml")):
         render(yaml.safe_load(f.read_text()))
     print("timeline.py: self-test ok")

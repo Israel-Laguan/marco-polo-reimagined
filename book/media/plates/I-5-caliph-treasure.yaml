@@ -1,0 +1,36 @@
+plate: I-5
+title: Hulagu shuts the Caliph in the treasure tower
+status: draft
+tradition: French Gothic manuscript marvel lens
+caption: >-
+  As the Book tells the exemplum, Alaü shuts the Caliph of Baghdad among his riches. Muslim sources report different accounts, including death after being rolled in a carpet. Modern illustration in the manner of a French Gothic marvel manuscript. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '3:4', resolution: 1350x1800, rounds: 1, corrective_turns: 1, selected: media/plates/drafts/I-5/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-5.txt
+negative: in-prompt
+reference_images:
+- {file: media/characters/hulagu-1258-sheet.png, use: accepted character sheet, licence: project-generated accepted reference, credit: The Book of the Million}
+- {file: media/characters/mustasim-1258-sheet.png, use: accepted character sheet, licence: project-generated accepted reference, credit: The Book of the Million}
+figures:
+- {id: hulagu, year: 1258, cue: 'Stocky, moustache and thin beard; Mongol lamellar armour and fur-trimmed hat.'}
+- {id: mustasim, year: 1258, cue: 'About 45, full dark beard; black Abbasid robe and turban; surrounded by treasure.'}
+cues: [C6, C37]
+unsourced:
+- Tower, treasure, soldiers, gestures and furnishings are marvel-lens inventions; the Book's death story is an exemplum, not verified history. C37 is a later comparative source.
+post: >-
+  convert media/plates/drafts/I-5/gpt-r1-2.png -filter Lanczos -resize 1350x1800\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-5-caliph-treasure.png
+review:
+  script: Pass; no lettering or seal impressions.
+  period: Pass with limits; Gothic lens deliberately makes architecture European; lamellar armour and black Abbasid dress follow cards.
+  scene: Pass; Caliph with treasure inside cutaway tower, Alaü closes door.
+  rule_6: Pass; no sacred figures; chest cross motifs removed in correction.
+  idiom: Pass; Gothic illumination marvel lens, not an archaeological Baghdad.
+  ground_and_aging: Pass; restrained aging.
+  artifact_risk: Caption identifies modern origin and legend.
+  print: Pass; 1350x1800, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_clothing: Pass; black turban and robe; Mongol lamellar armour and fur hats.

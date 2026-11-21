@@ -1,0 +1,31 @@
+sheet: niccolo-maffeo-1285
+cards: [niccolo, maffeo]
+year: 1285
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: "Yuan court painting"
+likeness: "house convention, no authentic likeness"
+generator: "GPT image model in the chat agent"
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 2}
+prompt: media/characters/prompts/niccolo-maffeo-1285.txt
+reference_images:
+  - file: "media/characters/marco-1285-sheet.png"
+    use: edit OK
+    licence: "Project-owned generated working reference"
+    credit: "The Book of the Million, Marco 1285 sheet approved by the user for this reference"
+  - file: "media/reference/s22/met-1992.54-DP-32259-004.jpg"
+    use: edit OK
+    licence: "Met Open Access"
+    credit: "The Metropolitan Museum of Art, Vajrabhairava mandala, 1992.54, detail of Tugh Temür and Qoshila"
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Yuan court painting. Not a historical artifact.
+  Reference images: The Book of the Million, Marco 1285 sheet approved by the user for this reference; The Metropolitan Museum of Art, Vajrabhairava mandala, 1992.54, detail of Tugh Temür and Qoshila.
+review:
+  script: "Pass. The silk, purses, gear and outfits have no script, seals or signatures."
+  period: "Pass. The crossed collars, short outer sleeves, long under-sleeves, caps and boots match the brothers' linked Marco/Cathay cue and C1. The first-return tablet and 1271–75 objects are absent."
+  figures: "Pass. Niccolò is broader and greyer and gestures as the speaker. Taller, leaner Maffeo stands beside him carrying the travel gear, with a longer dark-grey beard. Both show the family resemblance."
+  idiom: "Pass. Fine ink lines and flat mineral pigments on plain silk match the Yuan court studies."
+  notes: "The first try copied Marco's gold tablets onto the brothers. They were removed in the selected generation. The Marco 1285 draft was attached after the user approved it as a reference."

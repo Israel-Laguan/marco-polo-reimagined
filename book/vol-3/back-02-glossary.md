@@ -1,0 +1,121 @@
+# Back Matter III-2
+## Glossary {#names-and-pronunciation}
+
+Some entries include a draft pronunciation hint. Capital letters mark the stressed syllable.
+
+::: glossary
+
+- [**Abaga**]{#person-abaqa} · Abaqa · AH-bah-gah. Ilkhan who succeeded Hülegü.
+- [**Abash**]{#place-abash} · Ethiopian highlands · AH-bash. Ethiopian highlands, called Middle India in the Book. [Wikipedia](https://en.wikipedia.org/wiki/Ethiopia)
+- [**Abhar**]{#place-abhar} · Abhar, Zanjan, Iran · AB-har. Iranian town near which the Cocachin embassy met Ghazan. [Wikipedia](https://en.wikipedia.org/wiki/Abhar)
+- [**Achmath**]{#person-ahmad} · Ahmad Fanakati · AKH-mat. Finance minister in Kublai’s service, killed in a conspiracy.
+- [**Acre**]{#place-acre} · Acre (Akko), Israel. Crusader port and staging point for the Polos’ second departure. [Wikipedia](https://en.wikipedia.org/wiki/Acre,_Israel)
+- [**Aden**]{#place-aden} · Aden, Yemen. Port at the entrance to the Red Sea. [Wikipedia](https://en.wikipedia.org/wiki/Aden)
+- [**Angamanain**]{#place-angamanain} · Andaman Islands, India · an-ga-mah-NAYN. Island group described in the Book with legendary inhabitants. [Wikipedia](https://en.wikipedia.org/wiki/Andaman_Islands)
+- [**Anin**]{#place-anin} · Jianshui (Lin-ngan), Yunnan, China · ah-NEEN. Reported southwestern province with proposed sites in southeastern Yunnan and northern Vietnam. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Jianshui_County)
+- [**Arbre Sec**]{#place-arbre-sec} · No fixed modern identification · AR-bruh sek. Legendary frontier tree in the Book’s account of Tonocain. French for “dry tree” [@yc, 1.22].
+- [**Argon**]{#person-arghun} · Arghun. Ilkhan who asked Kublai to send a bride from Cathay.
+- [**Ayas**]{#place-ayas} · Yumurtalık (Ayas), Turkey · AH-yas. Cilician Armenian port on the route from Acre into Anatolia. [Wikipedia](https://en.wikipedia.org/wiki/Yumurtal%C4%B1k)
+- [**bād-gīr**]{#term-bad-gir} · windcatcher · bahd-GEER. A tower that catches wind and channels air into a building.
+- [**Basma**]{#place-basma} · Pasai / NE Sumatra coast, Indonesia (provisional) · BAS-mah. Northern Sumatran kingdom in the Book’s description of rhinoceroses. [Wikipedia](https://en.wikipedia.org/wiki/Samudera_Pasai_Sultanate)
+- [**Baudas**]{#place-baudas} · Baghdad, Iraq · BAW-das. Abbasid capital taken by Hülegü in 1258. [Wikipedia](https://en.wikipedia.org/wiki/Baghdad)
+- [**Bolgana**]{#person-bolgana} · Bulughan · bol-GAH-nah. Arghun’s wife. In the Book, her dying wish prompts the embassy.
+- [**Bundukdar**]{#person-baibars} · Baibars · boon-dook-DAR. Mamluk sultan whose 1271 campaign turned back the friars who had set out with the Polos.
+- [**Caidu**]{#person-kaidu} · Kaidu · KYE-doo. Central Asian prince and rival of Kublai.
+- [**Cail**]{#place-cail} · Kayalpatnam / Old Kayal, Tamil Nadu, India · KAYL. Port of the Pandya realm on the southeastern Indian coast. [Wikipedia](https://en.wikipedia.org/wiki/Kayalpatnam)
+- [**Calatu**]{#place-calatu} · Qalhat, Oman · ka-LAH-too. Port on the coast of Oman. [Wikipedia](https://en.wikipedia.org/wiki/Qalhat)
+- [**Cambaet**]{#place-cambaet} · Khambhat (Cambay), Gujarat, India · kam-BAY-et. Trading port on the Gulf of Khambhat. [Wikipedia](https://en.wikipedia.org/wiki/Khambh%C4%81t)
+- [**Cambaluc**]{#place-cambaluc} · Beijing, China · KAM-ba-luk. Khanbaliq, the Yuan winter capital within modern Beijing. The Chinese name was Dadu. Yule glosses *Khanbaliq* as “city of the Khan” [@yc, 2.11 n. 1]. [Wikipedia](https://en.wikipedia.org/wiki/Dadu_(Beijing))
+- [**Caracoron**]{#place-caracoron} · Karakorum (Kharkhorin), Mongolia · ka-ra-KO-ron. Former capital of the Mongol Empire. [Wikipedia](https://en.wikipedia.org/wiki/Karakorum)
+- [**Carajan**]{#place-carajan} · Yunnan (Dali / Kunming region), China (provisional) · ka-ra-JAN. Southwestern region whose principal cities in the Book are Yachi and Talifu. [Wikipedia](https://en.wikipedia.org/wiki/Yunnan)
+- [**Casan**]{#person-ghazan} · Ghazan · ka-ZAN (anglicised) / ka-ZAHN (Italian). Arghun’s son and the Ilkhan who married Cocachin.
+- [**Cathay**]{#place-cathay} · North China (Yellow River basin) (provisional). The Book’s name for northern China. The name derives from the Khitan [@pelliot1959notes, s.v. Catai]. [Wikipedia](https://en.wikipedia.org/wiki/Cathay)
+- [**Caugigu**]{#place-caugigu} · Kiang Hung (Jinghong), Yunnan, China · kow-jee-GOO. Reported tributary country. Yule’s Kiang Hung and Pelliot’s Upper Red River reading differ. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Jinghong)
+- [**Chamba**]{#place-chamba} · Central Vietnam (Champa coast) (provisional) · CHAM-bah. Champa kingdom on the coast of what is now central Vietnam. [Wikipedia](https://en.wikipedia.org/wiki/Champa)
+- [**Chandu**]{#place-chandu} · Shangdu (Duolun County), Inner Mongolia, China · CHAN-doo (Chandu). For Ciandu, chee-AN-doo (anglicised) / CHAHN-doo (Italian). Kublai’s summer capital, earlier called Kaiping. From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Shangdu)
+- [**Chinghis**]{#person-chinghis} · Chinggis Khan · CHING-gis. Founder of the Mongol Empire and Kublai’s grandfather.
+- [**Chingintalas**]{#place-chingintalas} · No fixed modern identification · ching-in-TAH-las. Province the Book puts north of the Lop desert.
+- [**Chipangu**]{#place-chipangu} · Japan · chee-pan-GOO. Japan, which the Book describes from hearsay. [Wikipedia](https://en.wikipedia.org/wiki/Japan)
+- [**Cobinan**]{#place-cobinan} · Kuhbanan, Iran · ko-bee-NAHN. Persian town known in the Book for tutia and polished steel mirrors. [Wikipedia](https://en.wikipedia.org/wiki/Kuhbanan)
+- [**Cocachin**]{#person-cocachin} · Kököchin · ko-ka-CHEEN (anglicised) / ko-ka-KEEN (Italian). Bayaut princess sent as a bride for Arghun. She married his son Ghazan.
+- [**Coilum**]{#place-coilum} · Kollam, Kerala, India · KOI-lum. Pepper-trading port on the Malabar coast. [Wikipedia](https://en.wikipedia.org/wiki/Kollam)
+- [**Coloman**]{#place-coloman} · Guizhou / Guangxi border region, China · ko-lo-MAN. Reported highland country. Pelliot links the form Toloman with the T’u-lao-man. Identification disputed.
+- [**Comari**]{#place-comari} · Kanyakumari (Cape Comorin), India · ko-MAH-ree. Southern cape of India where the Book remarks on the Pole Star. [Wikipedia](https://en.wikipedia.org/wiki/Kanyakumari)
+- [**Condur**]{#place-condur} · Pulo Condore (Côn Đảo), Vietnam (provisional) · KON-door. Island provisionally placed in the Côn Đảo group. [Wikipedia](https://en.wikipedia.org/wiki/C%C3%B4n_%C4%90%E1%BA%A3o)
+- [**Constantinople**]{#place-constantinople} · Istanbul, Turkey. The elder Polos’ trading base before crossing the Black Sea. [Wikipedia](https://en.wikipedia.org/wiki/Istanbul)
+- [**Cublay**]{#person-kublai} · Kublai · KOO-blay. Great Khan and founder of the Yuan dynasty.
+- [**Cuiju**]{#place-cuiju} · Guiyang area, Guizhou, China · kwee-JOO. Reported southwestern province. The Guiyang area is a provisional identification. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Guiyang)
+- [**Curzola**]{#place-curzola} · Korčula, Croatia · kur-ZOH-luh (anglicised) / koor-TSOH-lah (Italian). Adriatic island where the Venetian fleet was defeated in 1298. [Wikipedia](https://en.wikipedia.org/wiki/Kor%C4%8Dula)
+- [**Dagroian**]{#place-dagroian} · NE Sumatra coastal polity · da-GROY-an. Reported kingdom on the north coast of Sumatra. Its location is debated. Identification disputed.
+- [**Dufar**]{#place-dufar} · Dhofar (Salalah area), Oman · doo-FAR. Southern Arabian frankincense region. [Wikipedia](https://en.wikipedia.org/wiki/Dhofar)
+- [**Eli**]{#place-eli} · Mount Eli / Ezhimala, Kerala, India · EH-lee. Landmark on the Malabar coast, associated with Ezhimala. [Wikipedia](https://en.wikipedia.org/wiki/Ezhimala_(hill,_Kannur))
+- [**Esher**]{#place-esher} · Ash-Shihr, Yemen · ESH-er. Southern Arabian port in the incense country. [Wikipedia](https://en.wikipedia.org/wiki/Al-Shihr)
+- [**Fansur**]{#place-fansur} · Barus, NW Sumatra, Indonesia · fan-SOOR. Sumatran port on the camphor coast. [Wikipedia](https://en.wikipedia.org/wiki/Barus)
+- [**Ferlec**]{#place-ferlec} · Perlak, Aceh, Sumatra, Indonesia · FER-lek. Northern Sumatran coastal kingdom associated with Perlak. [Wikipedia](https://en.wikipedia.org/wiki/Peureulak_Sultanate)
+- [**Gauenispola**]{#place-gauenispola} · No fixed modern identification · gow-en-iss-POH-lah. Small island the Book places between Sumatra and the Nicobars.
+- [**Genoa**]{#place-genoa} · Genoa, Italy. Genoese imprisonment is where the Prologue places the making of the Book. [Wikipedia](https://en.wikipedia.org/wiki/Genoa)
+- [**Georgiania**]{#place-georgiania} · Georgia (country) · jor-jee-AH-nee-ah. Caucasian kingdom described in the Book alongside Greater Hermenia. [Wikipedia](https://en.wikipedia.org/wiki/Georgia_(country))
+- [**Gozurat**]{#place-gozurat} · Gujarat, India · go-zoo-RAT. Western Indian region described for trade and piracy. [Wikipedia](https://en.wikipedia.org/wiki/Gujarat)
+- [**Gulf of Cheinan**]{#place-cheinan} (Cheinan is pronounced CHAY-nan) · Hainan and the Gulf of Tonkin. Maritime gulf associated by Pelliot with Hainan and the Gulf of Tonkin. Identification disputed. Pelliot connects the name with Hainan, “south of the sea” [@pelliot1959notes, pp. 242–43]. [Wikipedia](https://en.wikipedia.org/wiki/Gulf_of_Tonkin)
+- [**Hormos**]{#place-hormos} · Old Hormuz (Minab area), Iran · HOR-mos. The Book’s mainland Gulf port. Its exact site remains disputed. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Hormuz)
+- [**Ilkhan**]{#term-ilkhan} · Il-khan · IL-kahn. Title of the Mongol rulers of Iran and neighbouring territories.
+- [**Java**]{#place-java} · Java, Indonesia. Large island the Book describes from report. [Wikipedia](https://en.wikipedia.org/wiki/Java)
+- [**Java the Less**]{#place-java-the-less} · Sumatra, Indonesia. Sumatra, where the Book says the fleet waited for the monsoon. [Wikipedia](https://en.wikipedia.org/wiki/Sumatra)
+- [**Kaan**]{#term-kaan} · qa’an · KAHN. The title the Book gives the Great Khan, the supreme ruler of the Mongol Empire.
+- [**Kerman**]{#place-kerman} · Kerman, Iran. Regional centre noted for turquoise and steel. [Wikipedia](https://en.wikipedia.org/wiki/Kerman)
+- [**Keshican**]{#term-keshican} · keshig · keh-shee-KAN. Members of the Kaan’s imperial guard, which served in rotations [@yc, 2.12 n. 1].
+- [**Kesmacoran**]{#place-kesmacoran} · Makran coast (Gwadar/Pasni area), Pakistan · kes-ma-ko-RAN. Makran coast on the way toward the Persian Gulf. [Wikipedia](https://en.wikipedia.org/wiki/Makran)
+- [**Kiacatu**]{#person-gaykhatu} · Geikhatu · kee-ah-KAH-too (anglicised and Italian). Ilkhan who, in the Book, gave the returning Polos four tablets of authority.
+- [**Kinsay**]{#place-kinsay} · Hangzhou, Zhejiang, China · KIN-say. Former Southern Song capital. Quinsay is another spelling of Polo’s name for it. From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. [Wikipedia](https://en.wikipedia.org/wiki/Hangzhou)
+- [**Kisi**]{#place-kisi} · Kish (Qays) Island, Iran · KEE-see. Gulf island port in the trade between Baudas and the Indian Ocean. [Wikipedia](https://en.wikipedia.org/wiki/Kish_Island)
+- [**kumis**]{#term-kumis} · qymyz · KOO-miss. Fermented mare’s milk.
+- [**Lambri**]{#place-lambri} · Lamuri (Aceh headland), Sumatra, Indonesia · LAM-bree. Medieval Lamuri, on the Aceh headland. [Wikipedia](https://en.wikipedia.org/wiki/Lambri)
+- [**Lar**]{#place-lar} · No fixed modern identification · LAR. Region the Book associates with Brahmans and merchants.
+- [**Litan**]{#person-li-tan} · Li Tan · lee-TAHN. Shandong commander who revolted against Kublai.
+- [**Locac**]{#place-locac} · Lopburi (Lavo), Thailand (provisional) · lo-KAK. Reported mainland kingdom tentatively associated with Lavo. [Wikipedia](https://en.wikipedia.org/wiki/Lopburi)
+- [**Lop**]{#place-lop} · Charklik / Ruoqiang, Xinjiang, China (provisional) · LOP. Staging town at the desert crossing. [Wikipedia](https://en.wikipedia.org/wiki/Ruoqiang_Town)
+- [**Maabar**]{#place-maabar} · Coromandel Coast (Tamil Nadu), India · mah-A-bar. Southeastern Indian coast in the Book’s account of the pearl fishery. [Wikipedia](https://en.wikipedia.org/wiki/Coromandel_Coast)
+- [**Madeigascar**]{#place-madeigascar} · Mogadishu, Somalia (Polo's 'Madeigascar'; not Madagascar) (provisional) · mad-ay-gas-KAR. Polo’s description points toward the Somali coast around Mogadishu. Pelliot reconstructs an earlier form, *Mogedascio* [@pelliot1959notes, pp. 779–81]. [Wikipedia](https://en.wikipedia.org/wiki/Mogadishu)
+- [**Mailapur**]{#place-mailapur} · Mylapore (Chennai), India · my-la-POOR. Town associated in the Book with the shrine of St Thomas. [Wikipedia](https://en.wikipedia.org/wiki/Mylapore)
+- [**Malaiur**]{#place-malaiur} · Malayu (Jambi), Sumatra, Indonesia (provisional) · ma-lye-OOR. Reported polity provisionally identified with Malayu in the Jambi region. [Wikipedia](https://en.wikipedia.org/wiki/Jambi_(city))
+- [**Male and Female**]{#place-male-and-female} · No fixed modern identification. Two islands paired in the Book, with no secure identification.
+- [**Manzi**]{#place-manzi} · South China (south of the Yangzi) (provisional) · MAN-zee. The Book’s name for southern China, where the Southern Song had ruled. From Chinese *manzi*, a disparaging term for southern peoples [@yc, 2.47 n. 7]. [Wikipedia](https://en.wikipedia.org/wiki/Song_dynasty)
+- [**Melibar**]{#place-melibar} · Malabar Coast, Kerala, India · MEL-i-bar. Southwestern coast of India in the Book. [Wikipedia](https://en.wikipedia.org/wiki/Malabar_Coast)
+- [**Mien**]{#place-mien} · Bagan / Myanmar (Pagan kingdom) (provisional) · mee-EN. Pagan kingdom described in the elephant battle account. [Wikipedia](https://en.wikipedia.org/wiki/Bagan)
+- [**Milione**]{#term-milione} · Il Milione · mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian). Polo’s nickname and a title of the book. Pozza identified the “Marco Polo Milion” in a 1319 confraternity list as the traveller [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s accounts of great wealth, while Jacopo d’Acqui linked it to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed a derivation from *Emilione*, which he took as a byname distinguishing Marco from other Polos [@vogel2013marco, p. xxiii].
+- [**Mongou**]{#person-mongke} · Möngke · MON-goo. Great Khan before Kublai, his younger brother.
+- [**Mutfili**]{#place-mutfili} · Motupalli, Andhra Pradesh, India (provisional) · moot-FEE-lee. Eastern Indian kingdom associated with Rudrama and the port of Motupalli. [Wikipedia](https://en.wikipedia.org/wiki/Motupalli)
+- [**Naccara**]{#term-naccara} · naqqāra · nah-KAH-rah. Kettledrum used as a battle signal in the Book [@yc, 2.4].
+- [**Necuveran**]{#place-necuveran} · Nicobar Islands, India · neh-koo-veh-RAN. Island group between Sumatra and the route toward Seilan. [Wikipedia](https://en.wikipedia.org/wiki/Nicobar_Islands)
+- [**Negropont**]{#place-negropont} · Chalkida (Euboea), Greece · NEG-ro-pont. Venetian port and stopping point on the sea road home. [Wikipedia](https://en.wikipedia.org/wiki/Chalcis)
+- [**Old Man of the Mountain**]{#place-old-man-of-the-mountain} · Alamut, Iran (provisional). The Book’s legendary figure is usually associated with the Ismaili stronghold of Alamut. [Wikipedia](https://en.wikipedia.org/wiki/Alamut_Castle)
+- [**paiza**]{#term-paiza} · tablet of authority · PYE-zah. Mongol tablet presented as a credential for official authority or safe conduct [@metpaiza1993256].
+- [**Pamier**]{#place-pamier} · Pamir Plateau (Tajikistan/Afghanistan) · pah-MEER. High plateau the Book places on the route toward the Tarim oases. [Wikipedia](https://en.wikipedia.org/wiki/Pamir_Mountains)
+- [**Pentam**]{#place-pentam} · Bintan / Riau Islands, Indonesia (provisional) · PEN-tam. Island near the Singapore Strait in the Book’s itinerary. [Wikipedia](https://en.wikipedia.org/wiki/Bintan_Island)
+- [**Persia**]{#place-persia} · Iran. The Iranian lands the Book describes as eight kingdoms. [Wikipedia](https://en.wikipedia.org/wiki/Iran)
+- [**Prester John**]{#place-prester-john}. Legendary Christian ruler associated in the Book with Toghrul and the kings of Tenduc. [Wikipedia](https://en.wikipedia.org/wiki/Prester_John)
+- [**Pulisanghin**]{#place-pulisanghin} · Lugou (Marco Polo) Bridge, Beijing, China · poo-lee-sang-HEEN. Stone bridge southwest of Beijing on the road out of Cambaluc. Pelliot favours “bridge of the Sang-kan” [@pelliot1959notes, p. 812]. [Wikipedia](https://en.wikipedia.org/wiki/Marco_Polo_Bridge)
+- [**Saba**]{#place-saba} · Saveh, Iran · SAH-bah. Persian town where the Book locates tombs of the Magi. [Wikipedia](https://en.wikipedia.org/wiki/Saveh)
+- [**Sagamoni Borcan**]{#term-sagamoni-borcan} · Śākyamuni Burkhan · sah-gah-MOH-nee BOR-kan. The Buddha, named with a Mongol honorific in the Book’s account of Seilan [@yc, 3.15].
+- [**Saianfu**]{#place-saianfu} · Xiangyang, Hubei, China · sye-an-FOO. Fortified Song city famous for its siege and siege engines. [Wikipedia](https://en.wikipedia.org/wiki/Xiangyang)
+- [**Samara**]{#place-samara} · Samudera Pasai, Sumatra, Indonesia · sa-MAH-rah. Northern Sumatran kingdom associated with the fleet’s long wait. [Wikipedia](https://en.wikipedia.org/wiki/Samudera_Pasai_Sultanate)
+- [**Samarcan**]{#place-samarcan} · Samarkand, Uzbekistan · sa-mar-KAN. Central Asian city in the Book’s story of the miraculous pillar. [Wikipedia](https://en.wikipedia.org/wiki/Samarkand)
+- [**Scotra**]{#place-scotra} · Socotra, Yemen · SKO-trah. Island off the Horn of Africa, associated in the Book with Christians and ambergris. [Wikipedia](https://en.wikipedia.org/wiki/Socotra)
+- [**Seilan**]{#place-seilan} · Sri Lanka · say-LAHN. Island described for its rubies and the pilgrimage to Adam’s Peak. [Wikipedia](https://en.wikipedia.org/wiki/Sri_Lanka)
+- [**Semenat**]{#place-semenat} · Somnath area, Gujarat, India (provisional) · sem-e-NAT. Coastal kingdom conventionally placed in the Somnath area. [Wikipedia](https://en.wikipedia.org/wiki/Somnath_Temple)
+- [**Sindafu**]{#place-sindafu} · Chengdu, Sichuan, China · sin-da-FOO. Sichuan city described for its bridge and commerce. [Wikipedia](https://en.wikipedia.org/wiki/Chengdu)
+- [**Soer**]{#place-soer} · Sohar, Oman (provisional) · SO-er. Omani port named in the Indian Ocean horse trade. [Wikipedia](https://en.wikipedia.org/wiki/Sohar)
+- [**Soli**]{#place-soli} · Chola country (Thanjavur area), India (provisional) · SOH-lee. Southeastern Indian country the Book describes for diamonds. [Wikipedia](https://en.wikipedia.org/wiki/Thanjavur)
+- [**Sondur**]{#place-sondur} · No fixed modern identification · SON-door. Island named with Condur in the Book’s sailing directions.
+- [**Suju**]{#place-suju} · Suzhou, Jiangsu, China · SOO-joo. Silk and canal city on the road to Kinsay. [Wikipedia](https://en.wikipedia.org/wiki/Suzhou)
+- [**Tana**]{#place-tana} · Thane, Maharashtra, India · TAH-nah. Western Indian port near present-day Mumbai. [Wikipedia](https://en.wikipedia.org/wiki/Thane)
+- [**Tauris**]{#place-tauris} · Tabriz, Iran · TAW-ris. Commercial centre of the Ilkhanate on the outbound and return routes. [Wikipedia](https://en.wikipedia.org/wiki/Tabriz)
+- [**Tinju**]{#place-tinju} · Nantong (Tung-chau), Jiangsu, China · TIN-joo. Salt town tentatively identified with Nantong. Other proposed sites include Yizheng. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Nantong)
+- [**Trebizond**]{#place-trebizond} · Trabzon, Turkey. Black Sea port on the embassy’s return toward Venice. [Wikipedia](https://en.wikipedia.org/wiki/Trabzon)
+- [**Venice**]{#place-venice} · Venice, Italy. The Polos’ home and the starting point of the journeys. [Wikipedia](https://en.wikipedia.org/wiki/Venice)
+- [**yam**]{#term-yam} · imperial relay. The Mongol relay network of stations, riders and fresh mounts.
+- [**Yanju**]{#place-yanju} · Yangzhou, Jiangsu, China · YAHN-joo. Canal city where Polo’s three-year role is disputed. [Wikipedia](https://en.wikipedia.org/wiki/Yangzhou)
+- [**Zanghibar**]{#place-zanghibar} · Zanzibar / Swahili coast, Tanzania (provisional) · zan-gee-BAR. East African coast region associated with Zanzibar. [Wikipedia](https://en.wikipedia.org/wiki/Zanzibar)
+- [**Zayton**]{#place-zayton} · Quanzhou, Fujian, China · ZAY-ton. Quanzhou, the great trading port from which the return fleet sails in the Book. Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Quanzhou)
+
+:::

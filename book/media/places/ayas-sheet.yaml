@@ -1,0 +1,21 @@
+sheet: ayas
+place: ayas
+year: 1275
+status: draft
+use: Reference only. For editorial review.
+tradition: Cilician Armenian manuscript illumination
+generator: GPT image model (image_gen.imagegen)
+date: '2026-11-21'
+prompt: media/places/prompts/ayas.txt
+references_consulted:
+- https://charlvarchive.org/Site/76
+- media/references/ref_I-04_carte-pisane-bnf-geb1118-levant-cilicia-crop.jpg
+- media/references/ref_I-04_cocharelli-bl-add27695-f5r-harbour-galleys-roundships.jpg
+reference_images: []
+attribution: Generated working illustration for The Book of the Million.
+review:
+  script: No legible script, seal, or signature apparent.
+  period: The island fort is separate from the waterfront. The foreground buildings
+    are generic, including the wall profile.
+  idiom: Cilician Armenian manuscript illumination
+  editorial: Pending.
