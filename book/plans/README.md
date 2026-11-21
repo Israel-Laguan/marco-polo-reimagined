@@ -130,7 +130,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 | [APP](tasks/cross/APP-apparatus.md) | Markers, tags, how-to-read box | S-03 |
 | [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | S-04 ✓, S-05 ✓, S-08 ✓ (layout → `BLD.T4`) |
 | [BLD](tasks/cross/BLD-build-tooling.md) | Lint, LaTeX build, media scripts | S-02 ✓, S-08 ✓, S-09 ✓ (`BLD.T2`, `T6` ready) |
-| [MED](tasks/cross/MED-existing-media.md) | Existing media triage | none (T1 ready) |
+| [MED](tasks/cross/MED-existing-media.md) | Existing media triage | **Done 2026-11-21** |
 | [DOC](tasks/cross/DOC-status-docs.md) | Status and project docs | **Done 2026-11-21** (DOC.T4 reconciliation) |
 
 ## Conventions

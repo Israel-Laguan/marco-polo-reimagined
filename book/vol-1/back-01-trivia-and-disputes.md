@@ -52,6 +52,8 @@ Volume I ends at Chandu, but readers usually leave with pockets full of question
 
 ![Where the Book's year and the record's disagree. Open circle: the Book; filled circle or bar: the record. *(Timeline: this edition, dates from the fact sheet.)*](../media/timelines/B6-book-vs-history.svg)
 
+![An earlier modern map of the round trip, reproduced as published on Wikimedia Commons. *(Route diagram: Classical geographer, based on Historicair’s map, brightened by Hohum. CC BY-SA 3.0.)*](../media/legacy/map-marco-polo-overview.png)
+
 ### How to use this back matter
 
 If a trivia item delights you, carry it into the next volume. If a dispute item unsettles you, return to the chapter’s inline aside and its ## Notes entry — that is where the retelling did its honest work without stopping the story. Volume II will add new quarrels (paper money, coal, Yanju, Saianfu, Kinsay’s numbers). Volume III will harvest the Great Wall silence, Chipangu’s gold, Cocachin’s embassy, Columbus, and the Wood debate.

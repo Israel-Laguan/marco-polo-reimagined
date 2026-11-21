@@ -1,0 +1,45 @@
+id: A2
+file: A2-world-in-1260
+extent: [14, 134, 18, 60]
+projection: equal_earth
+scale: 50m
+graticule: 10
+scale_km: 1000
+scale_at: [59, 22.6]
+places: [soldaia, constantinople, acre, ayas]
+label:
+  soldaia: ne
+  constantinople: {pos: nw, offset: [1, 6]}
+  acre: {pos: w, offset: [-8, -2]}
+  ayas: {pos: ne, offset: [6, 0]}
+# Generalized spheres from Peacock, Islam, Literature and Society in Mongol Anatolia, map 1.
+# Western transitions follow the positions after 'Ayn Jalut in 1260 and before the 1261 reconquest.
+areas:
+  - source: "Peacock, Islam, Literature and Society in Mongol Anatolia, map 1 (Jochid ulus)."
+    colour: "#9A7951"
+    path: [[45, 28], [50, 27], [55, 35], [56, 52], [54, 65], [52, 75], [47, 79], [45, 67], [43, 60], [44, 52], [43, 46], [44, 40], [45, 28]]
+  - source: "Peacock, map 1 (Chaghatayid khanate)."
+    colour: "#B7871F"
+    path: [[43, 57], [45, 66], [47, 78], [45, 88], [41, 93], [36, 87], [36, 80], [35, 73], [36, 67], [39, 63], [43, 57]]
+  - source: "Peacock, map 1 (Ilkhanate); map 2 for western limits."
+    colour: "#A8432B"
+    path: [[36, 38], [42, 41], [43, 48], [39, 53], [38, 58], [37, 64], [34, 67], [30, 64], [27, 62], [25, 57], [28, 50], [30, 47], [32, 42], [34, 40], [36, 38]]
+  - source: "Peacock, map 1 (eastern Mongol realm); the Yuan dynastic name follows in 1271."
+    colour: "#587A7B"
+    path: [[45, 88], [49, 85], [55, 95], [56, 111], [53, 125], [47, 130], [40, 123], [36, 121], [33, 111], [33, 104], [35, 99], [37, 94], [41, 93], [45, 88]]
+  - source: "Peacock, map 1; Metropolitan Museum, Eastern Mediterranean, 1000–1400, entry for 1260."
+    colour: "#625D81"
+    path: [[31.6, 34.3], [35, 36.1], [35.8, 38.6], [33.6, 39.4], [30, 35.5], [26, 34.1], [23, 31.7], [23, 26], [31, 25], [31.6, 34.3]]
+  - source: "Giebfried, The Mongol Invasions and the Aegean World (1241–61), conclusions on Nicaea; schematic core only."
+    colour: "#915D78"
+    path: [[39, 25.5], [41, 26], [40.7, 29.9], [39.5, 31], [37.3, 30.2], [37, 27], [39, 25.5]]
+text:
+  - {text: Golden Horde, at: [50.4, 47], kind: region}
+  - {text: Chagatai ulus, at: [41.8, 77], kind: region}
+  - {text: Ilkhanate, at: [34.9, 52.8], kind: region}
+  - {text: "Eastern Mongol realm", at: [44.3, 107], kind: region}
+  - {text: Southern Song, at: [27.6, 113], kind: region}
+  - {text: "Mamluks", at: [25.5, 28], kind: region}
+  - {text: "Nicaea", at: [38.15, 26.8]}
+  - {text: "Caspian Sea", at: [41.4, 52.0], kind: sea}
+  - {text: "Indian Ocean", at: [24.0, 78], kind: sea}

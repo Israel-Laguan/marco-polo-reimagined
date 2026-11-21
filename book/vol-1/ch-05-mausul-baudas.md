@@ -6,6 +6,8 @@
 
 ---
 
+See [the map of the outbound road, I-3](ch-03-second-setting-forth.md#map-of-the-outbound-road).
+
 Marco Polo starts by narrating that south-eastward of Greater Hermenia the Book turns toward the Mesopotamian plain and names a kingdom that, on Armenia’s frontier, opens the road to the heart of Islam. That kingdom is Mausul — Mosul (al-Mawṣil) — and it is, the text declares without hesitation, a very great kingdom, inhabited by several kinds of people whom it now undertakes to describe. [1]
 
 First there are the Arabi, worshippers of Mahommet. Then there are Christians of two great Oriental communions, Nestorians and Jacobites. These have a Patriarch whom they call the Jatolic — *Játhalík*, the Catholicos — and this Patriarch creates archbishops and abbots and prelates of every degree, and sends them into every quarter: to India, to Baudas (Baghdad), or even to Cathay, just as the Pope of Rome does in the Latin countries. For you must know, the Book insists, that though Christians are very numerous in those eastern lands, they are almost all Jacobites and Nestorians — Christians indeed, yet not in the fashion enjoined by Rome, for they come short in several points of the Faith. The observation is a Latin’s; the geography beneath it is sound. From the districts of Mausul, Tekrit, and the Jazīrah the Jacobite church kept its strength; the Nestorian patriarchate, in the century of the Polos, still reached with bishops and metropolitans from Jerusalem toward Cambaluc (Beijing). What the Venetian merchant saw — or was told — was not a handful of schismatics on a frontier, but a parallel Christendom whose hierarchy travelled with the caravan. [2]

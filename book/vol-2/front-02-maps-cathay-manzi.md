@@ -14,21 +14,13 @@ Start at **Cambaluc** (Beijing). One road of description runs **west and southwe
 
 Politically you are inside Yuan China after the Mongol conquest of the north and during/after the absorption of the Song south. Ethnographically Polo still splits the world into Cathay (north) and Manzi (south) in the older foreigner’s tongue.
 
-### China under the Yuan
+### Map of the round trip
 
-![The Yuan empire in 1294](../media/map-china-yuan.png)
+![The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
-*Caption:* The extent of the Yuan empire in 1294, the year Kublai died. The map shows the borders only; Polo’s circuits are traced in the tables below. *(Map: Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
+### Map of Kublai’s realm
 
-Use this map for the size of the realm; use the tables below to keep court, west circuit, and south circuit from collapsing into one spaghetti line.
-
-### Kinsay and the Jiangnan approach
-
-![An imagined view of Kinsay (Hangzhou) and its lake](../media/map-hangzhou-kinsay.jpg)
-
-*Caption:* Kinsay (Hangzhou) and the West Lake as a modern illustrator imagines them. A generated picture, not a historical map or view. *(Modern generated illustration — see media/ATTRIBUTIONS.md)*
-
-Kinsay earns its own frame because Book II’s city description is the longest urban set-piece in the whole work. When numbers of bridges or houses feel incredible, remember the lake-and-canal setting: the wonder is density, not magic.
+![Kublai’s realm around 1290. Shaded areas show approximate cores of the ten eastern administrative zones. Ochre lines trace the west road, southwest circuit, Grand Canal corridor and Fujian road. The inset shows the broad region of Nayan’s 1287 revolt and Chandu, the departure point named in the Yuan annals. The location of the decisive engagement remains uncertain. *(Map: this edition, after Tan via Li and colleagues, figure 1; the Book and Yuan shi.)*](../media/maps/A7-kublais-realm.svg)
 
 ### Place table — capital approaches and west / southwest circuit
 

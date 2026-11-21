@@ -11,7 +11,7 @@
    - **dashed** = reconstructed or inferred;
    - **dotted** = reported only, not travelled;
    - place markers coloured by gazetteer `reliability`.
-4. **Print resolution.** Raster ≥ 300 dpi at final size. Nothing currently in `media/` passes except `map-marco-polo-overview.png`.
+4. **Print resolution.** Raster ≥ 300 dpi at final size.
 5. **Drawn at final size.** Maps and timelines are generated at the 4.5 in measure, so LaTeX places them at 100 % and their type matches the page; never scale a generated asset up or down.
 
 ## Visual system (S-09 ✓)
@@ -34,20 +34,21 @@ One file holds it: `tools/media/style.yaml`, read by both `map.py` and `timeline
 
 ## Existing media triage
 
-| File | Size | Verdict |
-|---|---|---|
-| `map-marco-polo-overview.png` | 3654×3312 | **Keep.** Series overview. Re-caption as the *whole round trip*. |
-| `map-marco-polo-shepherd.jpg` | 1726×1403 | Keep as a historical-cartography curiosity (Shepherd 1911 base). Half page at most. |
-| `map-asia-mongol-empire.*`, `map-mongol-empire.gif` | 752×591 | **Replace** with a generated political map. Too small; date range unverified. |
-| `map-china-yuan.*`, `map-yuan-1294.png` | 556×537 | **Replace** with a generated map. Too small; three copies of one file. |
-| `map-cambaluc.jpg` | 591×780 | **Replace** with a redrawn Dadu plan (shows the 11 gates for the II-2 gate dispute). |
-| `map-caugigu.jpg` | 747×1200 | Keep as a facsimile (Yule's Itinerary No. V) at small size; superseded by the SW-circuit map. |
-| `map-indian-ocean.*` | 1280×720 | **Drop.** It is a generated image, geographically wrong (Hormuz at Aden), and mis-credited as Wikimedia. |
-| `map-hangzhou-kinsay.*` | 1280×720 | **Drop.** It is the West Lake drawing, mislabelled as a map and as Wikimedia. |
-| `map-return-route.jpg` | — | **Drop.** Byte-identical stand-in for the overview. |
-| `drawing-*.png` (6) | 1280×720 | **Retire.** Wrong style for the new plan, too small, and three have period errors (17th-c. Salute domes, a Renaissance villa at Shangdu, Rustichello in a monk's habit). |
+The 14 surviving files are archived in `media/legacy/`. The three front-02 sections use the edition maps. See the [media credits](../media/ATTRIBUTIONS.md) for sources and reuse terms.
 
-Existing captions in front-02 (all volumes) must be corrected now, whatever happens to the files.
+| File | Size | Disposition |
+|---|---|---|
+| `map-marco-polo-overview.png` | 3654×3312 | Earlier round-trip map reproduced as a facsimile in I-B1. |
+| `map-marco-polo-overview.jpg` | 1355×692 | Chumwa’s round-trip map, archived after A1 took over the front-matter placement. |
+| `map-marco-polo-shepherd.jpg` | 1726×1403 | Chumwa’s route overlay on Shepherd’s 1911 map, archived for reference. |
+| `map-asia-mongol-empire.png`, `map-mongol-empire.gif` | 752×591 | 1294 still and animated master, superseded by A2 and A14. |
+| `map-china-yuan.png` | 556×537 | Yuan map superseded by A7. The two duplicate copies were removed. |
+| `map-cambaluc.jpg` | 591×780 | Dadu plan superseded by A9, which shows the 11 gates for the II-2 gate dispute. |
+| `map-caugigu.jpg` | 747×1200 | Yule’s Itinerary No. V facsimile, archived for reference. A11 covers the southwest circuit. |
+| `map-indian-ocean.jpg` | 1280×720 | Retired generated illustration. It places Hormuz at Aden. A16 covers the embassy return. |
+| `map-hangzhou-kinsay.jpg` | 1280×720 | Retired generated illustration of the West Lake. A7 covers the regional geography and plate II-13 depicts the lake. |
+| `map-return-route.jpg` | — | Removed as a byte-identical copy of Chumwa’s overview JPEG. |
+| `drawing-*.jpg` (4) | 1280×720 | Retired generated illustrations. Period errors include the Salute domes, a Renaissance villa at Shangdu and Rustichello in a monk’s habit. |
 
 ## A. Maps (17) — Python + Natural Earth (public domain) → PDF/SVG
 

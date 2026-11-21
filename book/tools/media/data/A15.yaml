@@ -1,0 +1,29 @@
+id: A15
+file: A15-invasions-of-japan
+extent: [120, 134, 27.7, 37.2]
+graticule: 5
+scale_km: 200
+scale_at: [128, 29]
+markers: labelled
+routes:
+  - vol: III
+    style: inferred # National Institute of Korean History, expedition §3; Japan National Archives, ch. 1. Broad route through Tsushima and Iki.
+    path: [happo, [34.6, 128.7], [34.06, 129.14], [33.55, 129.55], hakata-bay]
+  - vol: III
+    style: inferred # NIKH §4 and Toyo Bunko, Genkō, 1281 Eastern Army. Displaced slightly for legibility near the 1274 track.
+    path: [happo, [34.95, 129.05], [34.18, 129.64], [33.82, 129.86], [33.83, 130.35], hakata-bay]
+  - vol: III
+    style: inferred # NIKH §4 locates departure at Qingyuan; Toyo Bunko, Genkō, gives Hirado and Gotō. Takashima marks the 1281 wreck area.
+    path: [[29.95, 122.15], [30.36, 123.30], [31.05, 125.5], [32.7, 127.9], [33.05, 128.9], [33.5, 129.42], takashima]
+label:
+  happo: {pos: nw, text: "Happo (Masan)"}
+  hakata-bay: {pos: e, text: "Hakata Bay"}
+  takashima: {pos: se, offset: [12, -14]}
+text:
+  - {text: "1274 · joint fleet", at: [33.78, 127.65]}
+  - {text: "1281 · Eastern fleet", at: [35.23, 130.8]}
+  - {text: "1281 · Southern fleet", at: [31.92, 125.62], rotate: 16}
+  - {text: "Qingyuan (Ningbo)", at: [28.95, 122.95]}
+  - {text: Goryeo, at: [36, 127.1], kind: region}
+  - {text: Kyushu, at: [32.3, 131.5], kind: region}
+legend: {at: lower right, items: [lines]}

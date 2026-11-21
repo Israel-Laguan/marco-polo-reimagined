@@ -1,6 +1,21 @@
 # Content Revision Plan — *The Book of the Million*
 
-**Status:** draft v1 (2026-10-21) · **Source:** critique pass, `critique/vol-1.md`, `critique/vol-2.md`, `critique/vol-3.md` (full findings with `file:line`, evidence and suggested rewrites)
+**Status:** implementation in progress (2026-11-21) · **Source:** critique pass, `critique/vol-1.md`, `critique/vol-2.md`, `critique/vol-3.md` (full findings with `file:line`, evidence and suggested rewrites)
+
+## Implementation progress
+
+**Updated:** 2026-11-21
+
+- **Pilot gate:** II-2 (*Person & Palace*) remains the approved voice reference and lint-green model.
+- **Batch A — complete:** II-3 *Feasts & Keshican*, II-8 *Mien & Bangala*, and II-4 *The Hunt & the City's Traffic* are re-voiced and pass targeted lint with zero errors and zero warnings.
+- **Batch B — complete:** II-14 *Fuju & Zayton*, II-10 *Manzi & the Sung*, and II-6 *Pulisanghin & Sindafu* are re-voiced. Each passes targeted lint; II-6 retains the non-blocking place-name warning that “Jiangzhou” is close to “Liangzhou.”
+- **W4 continuation — II-12 complete:** *Kian, Suju, and the Approach to Heaven’s City* is re-voiced, its Mar Sargis reports are distinguished, and its Ramusio additions are flagged. Targeted lint passes with 0 errors and 0 warnings (1,832 words; 3% Yule overlap; Ramusio 2/2); `git diff --check` passes.
+- **W4 continuation — II-1 complete:** *Cublay Kaan: Puissance, Nayan, and the Ordo of Victory* is re-voiced with Nayan’s Temüge Otchigin descent corrected and the Ramusio passages flagged. Targeted lint passes with 0 errors (1,800 words; 2% Yule overlap; Ramusio 4/4); targeted `git diff --check` passes.
+- **W4 continuation — II-11 complete:** *Yanju and Saianfu* is re-voiced with the Polo governorship claim, Nanghin identification, siege chronology, and engine authorship kept distinct. Targeted lint passes with 0 errors and 0 warnings (1,800 words; 2% Yule overlap); targeted `git diff --check` passes.
+- **W4 continuation — II-9 complete:** *Caugigu, Anin, Coloman, Cuiju — and Back* is re-voiced with the southwest identities, distances and tiger-dog set-piece kept as reported. Targeted lint passes with 0 errors and 0 warnings (1,851 words; 2% Yule overlap); targeted `git diff --check` passes.
+- **Cross-file critical/factual corrections started:** factual corrections applied in II-1, II-10, II-11, II-14, II-15, I-11, I-12, III-3, III-10, and III-12, with III-12 and II-11/court chronology also tightened for provenance and open questions.
+- **Next work:** continue the worst-first W4 order from II-15, II-7, II-13, II-5, and the remaining listed chapters, while preserving and revalidating the existing factual passes.
+- **Definition of current progress:** completed chapters use II-2's storyteller voice, keep Yule overlap at or below 15%, retain the factual/Notes apparatus, and have passed targeted chapter lint.
 
 ## Verdict in one paragraph
 
@@ -123,9 +138,9 @@ This is the work SERIES-STATUS claims is done. **Model: II-2** (S-01 pilot; rule
 7. The chapter passes lint; then commit.
 
 **Order: worst first, in batches of 3–4 chapters per human-read session.** Pilot one chapter for your sign-off on voice before batching (S-01: II-2 approved 2026-10-21; `.T3` tasks written in every narrative chapter file with order and batch):
-- **Pilot:** II-2 *Person & Palace* (80% verbatim, Ramusio-heavy, at the length ceiling).
+- **Pilot — complete:** II-2 *Person & Palace* (80% first-draft verbatim, Ramusio-heavy, at the length ceiling).
 - Then by verbatim share:
-  - Vol. II: II-3 (80%) → II-8 → II-4 → II-14 → II-10 → II-6 → II-12 → II-1 → II-11 → II-9 → II-15 → II-7 → II-13 → II-5.
+  - Vol. II: II-3 (complete) → II-8 (complete) → II-4 (complete) → II-14 (complete) → II-10 (complete) → II-6 (complete) → II-12 (complete) → II-1 → II-11 → II-9 → II-15 → II-7 → II-13 → II-5.
   - Vol. I: I-7 (70%) → I-9 → I-8 → I-5 → I-6 → I-13 → I-10 → I-4 → I-11 → I-3 → I-2.
   - Vol. III: III-4 (77–78%) → III-3 → III-8 → III-6 → III-1 → III-2 → III-7 → III-5 → III-9 → III-10.
 - **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).

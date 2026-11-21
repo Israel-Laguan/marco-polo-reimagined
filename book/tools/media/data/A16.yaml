@@ -1,6 +1,6 @@
 # A16 — The Cocachin return (III-9, III-front-02). Pilot for S-09.
-# Solid = stages the Prologue names (Java the Less; Trebizond -> Constantinople -> Negropont -> Venice).
-# Dashed = stages the chapter infers (Zayton departure, the Indian beads, Hormos landfall, the Persian road).
+# Solid shows the named western sequence in Prologue 18, with illustrative waypoints.
+# Dashed shows reconstructed identifications, calls and courses. Abhar is separate embassy evidence.
 # Sources for the split: vol-3/ch-09 Notes [8]-[10], [17].
 id: A16
 file: A16-cocachin-return
@@ -16,7 +16,7 @@ routes:
     style: inferred          # the Prologue does not name the port of departure
     path: [zayton, [21.5, 113.5], [15, 110.5], chamba]
   - vol: III
-    style: stated            # "some three months ... to Java" (the Less)
+    style: inferred          # The Prologue names Java, while Chamba and Samara come from the reconstructed course.
     path: [chamba, [9.0, 107.0], [8.7, 106.6], [3.5, 105.5], [1.15, 104.5], [2.6, 101.2], [4.2, 99.0], samara]
   - vol: III
     style: inferred          # "eighteen months more" in the Sea of India; ports not logged
@@ -24,27 +24,32 @@ routes:
            [14.5, 72.5], [21.5, 63.5], [24.6, 58.6], [26.2, 57.0], hormos]
   - vol: III
     style: inferred          # Gulf to the Ilkhan's camp; Kiacatu's court and the bride's delivery
-    path: [hormos, abhar, tauris]
+    path: [hormos, kerman, tauris]
   - vol: III
-    style: inferred
+    style: inferred          # Prologue 18 names Trebizond without an overland itinerary.
     path: [tauris, trebizond]
   - vol: III
     style: stated            # Trebizond, Constantinople, Negropont, Venice: all named
     path: [trebizond, [41.9, 37.5], [42.3, 35.0], [41.7, 32.0], [41.25, 29.15], constantinople, [40.8, 27.5],
            [40.15, 26.3], [39.3, 25.0], negropont, [37.9, 24.4], [36.3, 23.3], [36.5, 21.4], [38.5, 20.3],
            [40.0, 19.0], [42.3, 16.5], [44.4, 13.2], venice]
+places: [abhar]
+features:
+  - kind: site
+    path: [[36.1466, 49.2186]]
+    source: "Rashid al-Din, trans. Thackston, p. 606; modern Abhar point in the gazetteer."
 label:
-  zayton: {pos: nw, text: "Zayton, 1291 or 1292"}
-  chamba: e
-  samara: {pos: sw, text: "Samara (5-month wait)"}
-  seilan: se
-  maabar: e
-  melibar: w
+  zayton: {pos: nw, text: "Zayton (proposed departure)", reliability: uncertain}
+  chamba: {pos: e, reliability: uncertain}
+  samara: {pos: sw, text: "Samara (possible stop)", reliability: uncertain}
+  seilan: {pos: se, reliability: uncertain}
+  maabar: {pos: e, reliability: uncertain}
+  melibar: {pos: w, reliability: uncertain}
   hormos: {pos: sw, text: "Hormos? (Minab area)"}
-  abhar: e
-  tauris: ne
+  abhar: {pos: ne, text: "Abhar (embassy record)", marker: false}
+  tauris: {pos: n, reliability: uncertain}
   trebizond: n
-  constantinople: nw
+  constantinople: {pos: se, offset: [3, -7]}
   negropont: sw
   venice: w
 text:
@@ -53,6 +58,6 @@ text:
   - {text: "Manzi", at: [30.8, 110.5], kind: region}
   - {text: "Java the Less", at: [0.4, 101.4], kind: region}
   - {text: "Sea of India", at: [6.0, 68.0], kind: sea}
-  - {text: "SW monsoon\nApr–Sep: the wait", at: [14.5, 89.0], kind: note}
-  - {text: "NE monsoon\nNov–Mar: westward", at: [17.0, 64.5], kind: note}
+  - {text: "Southwest monsoon", at: [14.5, 89.0], kind: note}
+  - {text: "Northeast monsoon", at: [17.0, 64.5], kind: note}
 legend: {at: lower left, items: [lines, markers]}

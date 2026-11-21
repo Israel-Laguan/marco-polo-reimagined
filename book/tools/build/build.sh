@@ -44,14 +44,14 @@ if [ -n "$fmt" ]; then # citeproc with pandoc's built-in CSL (Chicago 17th autho
     set -- "$@" --include-in-header tools/build/parallel-text.html
   fi
   pandoc "$@" -f markdown-subscript-superscript -s --toc --resource-path="vol-$n" \
-    --lua-filter tools/build/preview.lua --bibliography plans/registry/bibliography.bib \
+    --lua-filter tools/build/map-links.lua --lua-filter tools/build/preview.lua --bibliography plans/registry/bibliography.bib \
     -M reference-section-title="Works cited" -o "build/$name.$fmt" 2>"build/$name.$fmt.log" \
     || { cat "build/$name.$fmt.log"; exit 1; }
   grep -i 'citeproc\|not found' "build/$name.$fmt.log" && { echo "build/$name.$fmt: FAILED"; exit 1; }
   echo "build/$name.$fmt"; exit
 fi
 pandoc "$@" -f markdown-subscript-superscript -t latex \
-  --template tools/build/book.latex --lua-filter tools/build/book.lua \
+  --template tools/build/book.latex --lua-filter tools/build/map-links.lua --lua-filter tools/build/book.lua \
   --top-level-division=chapter --biblatex --bibliography plans/registry/bibliography.bib \
   -o "build/$name.tex" 2>"build/$name.pandoc.log" || { cat "build/$name.pandoc.log"; exit 1; }
 latexmk -lualatex -interaction=nonstopmode -halt-on-error -outdir=build "build/$name.tex" >"build/$name.build.log" 2>&1 \

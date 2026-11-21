@@ -1,0 +1,51 @@
+id: A12
+file: A12-canal-spine
+extent: [108, 122.3, 28.6, 40.4]
+graticule: 5
+scale_km: 300
+scale_at: [118.2, 39.1]
+markers: labelled
+routes:
+  - vol: II
+    style: stated # YC II.60–71 gives the north-to-south textual itinerary through Yanju and Suju.
+    path: [juju, cacanfu, changlu, chinangli, tadinfu, sinjumatu, piju, siju, coiganju, paukin, cayu,
+           yanju, sinju-2, caiju, chinghianfu, chinginju, suju, vughin, changan, kinsay]
+  - vol: II
+    style: inferred # YC II.63 names Linju; its correspondence with Linqing and connector are provisional.
+    path: [sinjumatu, linju]
+  - vol: II
+    style: inferred # YC II.69 digresses to Nanghin and Saianfu; the connecting lines indicate direction only.
+    path: [yanju, nanghin]
+  - vol: II
+    style: inferred # YC II.70: Saianfu is a separate western digression.
+    path: [yanju, [32.3, 115.4], saianfu]
+  - vol: II
+    style: inferred # YC II.75 and II.77 preserve separate Vuju readings on either side of Kinsay.
+    path: [suju, vuju-1]
+  - vol: II
+    style: inferred # Vuju of the Fujian road is included for comparison with the canal-road Vuju.
+    path: [kinsay, vuju-2]
+places: [tinju]
+label:
+  juju: s
+  cacanfu: w
+  changlu: e
+  chinangli: e
+  linju: w
+  sinjumatu: w
+  coiganju: e
+  yanju: w
+  tinju: e
+  nanghin: {pos: nw, dispute: true}
+  saianfu: w
+  suju: e
+  vuju-1: {pos: w, text: "Vuju (Huzhou)"}
+  vuju-2: {pos: w, text: "Vuju (Jinhua)"}
+  kinsay: e
+insets:
+  - bounds: [0.095, 0.71, 0.37, 0.22]
+    profile:
+      title: "Sinjumatu area · schematic"
+      source: "State Party nomination of the Grand Canal, UNESCO property 1443, Huitong and Nanwang sections. Qualitative watershed only."
+      stops: [[0, 0, "north"], [1, 1, "watershed"], [2, 0, "south"]]
+legend: {at: lower left, items: [lines, markers]}

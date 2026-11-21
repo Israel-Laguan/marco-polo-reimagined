@@ -10,6 +10,8 @@
 
 Marco Polo narrates that when you have left the city of Changan (Jiaxing) and have travelled for three days through a splendid country, passing a number of towns and villages, you arrive at the most noble city of Kinsay (Hangzhou), a name which is as much as to say in our tongue “The City of Heaven,” as the Book told you before when it paired Earth’s Suju (Suzhou) with this capital of splendour.
 
+See [the map of the canal spine, II-10](ch-10-manzi-sung.md#map-of-the-canal-spine).
+
 And since we have got thither, he says, the narrative will enter into particulars about its magnificence; and these are well worth the telling, for the city is beyond dispute the finest and the noblest in the world. In this the Book will speak according to the written statement which the Queen of this Realm sent to Bayan the conqueror of the country for transmission to the Great Kaan, in order that he might be aware of the surpassing grandeur of the city and might be moved to save it from destruction or injury. All the truth as it was set down in that document — so the Book avers — Messer Marco Polo at a later date was able to witness with his own eyes. [1]
 
 First and foremost, then, the document stated the city of Kinsay to be so great that it hath an hundred miles of compass. And there are in it twelve thousand bridges of stone, for the most part so lofty that a great fleet could pass beneath them. And let no man marvel that there are so many bridges, for you see the whole city stands as it were in the water and surrounded by water, so that a great many bridges are required to give free passage about it. In Ramusio's version, though the bridges be so high the approaches are so well contrived that carts and horses do cross them.

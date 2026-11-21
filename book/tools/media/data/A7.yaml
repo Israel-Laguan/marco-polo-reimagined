@@ -1,0 +1,89 @@
+id: A7
+file: A7-kublais-realm
+extent: [90, 128, 20, 52]
+graticule: 5
+scale_km: 500
+scale_at: [114, 22.5]
+markers: labelled
+places: [chandu]
+# Broad cores, extracted as generalized outlines from the early Yuan zones in
+# "Reconstructing provincial cropland area in eastern China ...", fig. 1 (after Tan Qixiang).
+areas:
+  - source: "Tan, Historical Atlas of China, via Journal of Geographical Sciences 28 (2018), fig. 1, Zhongshu."
+    colour: "#A98B5C"
+    path: [[36, 110], [39, 108], [43, 111], [44, 118], [42, 120], [39, 118], [36.5, 120], [35, 116], [36, 110]]
+  - source: "Ibid., Gansu."
+    colour: "#798776"
+    path: [[36, 101], [38, 95], [41, 96], [42, 103], [39, 105], [36, 104], [36, 101]]
+  - source: "Ibid., Shaanxi."
+    colour: "#A47A69"
+    path: [[32, 105], [35, 105], [38, 106], [38.5, 110], [36, 110], [34, 111], [32, 109], [32, 105]]
+  - source: "Ibid., Sichuan."
+    colour: "#C19966"
+    path: [[27, 101], [29, 100.5], [32, 102], [33, 105], [31.5, 109], [29, 108], [27.5, 105], [27, 101]]
+  - source: "Ibid., Yunnan."
+    colour: "#96845F"
+    path: [[21, 98], [23, 97], [27, 98], [27, 101], [26, 105], [23, 106], [21, 102], [21, 98]]
+  - source: "Ibid., Henan Jiangbei."
+    colour: "#B39770"
+    path: [[31, 111], [33, 110], [36, 112], [35, 116], [35, 119], [33, 121], [31.5, 119], [30.5, 115], [31, 111]]
+  - source: "Ibid., Huguang."
+    colour: "#788A75"
+    path: [[22, 106], [26, 105], [28.5, 108], [31.2, 111], [30, 114], [27, 113], [24, 113], [21.5, 110], [22, 106]]
+  - source: "Ibid., Jiangxi."
+    colour: "#AB7D6A"
+    path: [[21.5, 110.2], [24, 113], [27, 113], [30, 114], [30, 117], [26.5, 116.5], [24.5, 116], [23.2, 117], [21.5, 113], [21.5, 110.2]]
+  - source: "Ibid., Jiangzhe."
+    colour: "#9D925C"
+    path: [[23.2, 117], [25, 116.2], [27, 117], [30, 117], [31.4, 119], [32, 121], [30, 122], [27.8, 121.2], [24.9, 119.5], [23.2, 117]]
+  - source: "Ibid., Liaoyang (southwestern core in the main panel)."
+    colour: "#7C8E8B"
+    path: [[40, 121], [41.5, 119.6], [44, 120], [47, 122], [49, 128], [46, 131], [42, 128.5], [40, 124], [40, 121]]
+routes:
+  - vol: II
+    style: stated # YC II.35–43: selected stages of the west circuit.
+    path: [cambaluc, juju, taianfu, pianfu, kenjanfu, sindafu]
+  - vol: II
+    style: inferred # YC II.44–51: schematic southwest circuit through the marches.
+    path: [sindafu, [29.2, 101.6], caindu, yachi, talifu, vochan]
+  - vol: II
+    style: stated # YC II.60–76: southwest Shandong and the Manzi corridor, selected stages.
+    path: [cambaluc, cacanfu, changlu, sinjumatu, coiganju, yanju, suju, kinsay]
+  - vol: II
+    style: inferred # YC II.77–82: illustrated connections through Fujian.
+    path: [kinsay, vuju-2, kelinfu, fuju, zayton]
+label:
+  chandu: nw
+  cambaluc: {pos: w, text: "Cambaluc (Dadu)"}
+  kenjanfu: w
+  sindafu: nw
+  yachi: w
+  yanju: e
+  kinsay: e
+  zayton: e
+text:
+  - {text: Gansu, at: [39, 100], kind: region}
+  - {text: Shaanxi, at: [35.8, 107.3], kind: region}
+  - {text: Sichuan, at: [30, 104.9], kind: region}
+  - {text: Yunnan, at: [22.9, 102.3], kind: region}
+  - {text: Zhongshu, at: [38.7, 115.1], kind: region}
+  - {text: Liaoyang, at: [43.1, 123.7], kind: region}
+  - {text: Henan Jiangbei, at: [33.8, 114.7], kind: region}
+  - {text: Huguang, at: [27.0, 110.5], kind: region}
+  - {text: Jiangxi, at: [26.5, 114.8], kind: region}
+  - {text: Jiangzhe, at: [28.7, 119.7], kind: region}
+  - {text: "Grand Canal corridor", at: [34, 124.4], rotate: 0}
+  - {text: West road, at: [36.2, 112.5], rotate: 35}
+  - {text: Southwest circuit, at: [26.7, 98.8], rotate: 58}
+  - {text: Fujian road, at: [25.9, 120.5], rotate: 52}
+insets:
+  - bounds: [0.095, 0.69, 0.38, 0.26]
+    map:
+      # Yuan shi, j. 14, Zhi-yuan 24: departure from Shangdu. The Liao–Nen theatre is a regional reference.
+      extent: [111, 133, 40, 50.5]
+      graticule: false
+      places: [chandu]
+      label: {chandu: ne}
+      text:
+        - {text: "Nayan theatre · 1287", at: [49.2, 122.0]}
+        - {text: "Liao / Nen plains", at: [45.5, 124.1], kind: region}

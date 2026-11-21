@@ -3,12 +3,12 @@
 **Status:** in progress (3 of 35 GEN heroes done by S-10) · **Plan docs:** `illustration-plan.md`, `illustration-style-guide.md`
 
 ## Scope
-Event illustrations: 35 generated (GEN) hero plates, 6 public-domain (PD) heroes, about 25 optional secondaries, plus retirement of the 6 legacy `drawing-*.png`. Cutaway bases for diagrams C12–C16 are produced here and labelled in `DIA`.
+Event illustrations: 35 generated (GEN) hero plates, 6 public-domain (PD) heroes, about 25 optional secondaries, plus retirement of six legacy illustrations. Cutaway bases for diagrams C12–C16 are produced here and labelled in `DIA`.
 
 ## Backlog
 - Hero list per chapter: `illustration-plan.md` § Hero plates (also mirrored in each chapter backlog's Media hooks).
 - PD slots: I-2 (LdM Polos at court), II-front (Kublai portrait), II-4 (Liu Guandao), III-1 (*Mōko Shūrai*, boarding scene), III-11 (Columbus postils / 1477 woodcut), III-12 (Catalan Atlas caravan); plus the II-5 Zhiyuan-note pairing. III-7 (Qazwini rukh) moved to GEN by S-11. Sources and captions: `registry/pd-sources.md`; masters: `media/public-domain/`.
-- Legacy plates to retire (period errors per critique):
+- Retired legacy illustrations (period errors per critique):
   - `drawing-venetian-galley` (17th-c. Salute domes, Viking-like hull);
   - `drawing-chandu-palace` (Renaissance villa);
   - `drawing-genoa-dictation` (monk's habit, chains);
@@ -86,7 +86,7 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 **Also from GEN:**
 - `PLT.S*` for secondaries, picked after the heroes.
 - `PLT.C12`–`PLT.C16`, the cutaway base plates for `DIA`. They take the Akool route; C15 may be pure TikZ instead.
-- `PLT.LEGACY`: retire and re-caption the six `drawing-*.png` (with `MED.T2`).
+- `PLT.LEGACY` **done 2026-11-21.** All six retired illustrations are archived and identified as generated in the [media credits](../../../media/ATTRIBUTIONS.md). See [MED.T2](MED-existing-media.md#tasks) for verification.
 
 _PD plates (from S-11) are below._
 

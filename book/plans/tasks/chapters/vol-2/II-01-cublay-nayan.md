@@ -64,7 +64,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-01.T6` Lint pass and human voice read
 
 ### II-01.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `II-01.T3` (W2: applied in the re-voice pass)
+- **Status:** complete · **Depends:** S-06 ✓, `II-01.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-04: Nayan descends from Temüge Otchigin (Yule's Uchegin), not Belgutai, Chinghis's step-brother.
@@ -73,7 +73,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-01.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #8 (batch 2)
+- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #8 (batch 2)
 - **Now:** 3,101 words · 61% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 7 · archaisms 13 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :17 (82%), :25 (89%), :29 (96%), :43 (81%), :45 (80%), :47 (97%).
@@ -88,7 +88,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-01.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `II-01.T3` (the flags are written during the re-voice pass)
+- **Status:** complete · **Depends:** S-03 ✓, `II-01.T3` (the flags are written during the re-voice pass)
 - **Now:** 0 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -96,7 +96,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-2/ch-01-cublay-nayan.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### II-01.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-01.T3` (re-voice renumbers Notes)
+- **Status:** complete · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-01.T3` (re-voice renumbers Notes)
 - **Now:** 19 Notes · 0 ★ · 0 without a lead marker · tag [M]
 - **Do:**
   - Tag line `**[M]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
@@ -123,7 +123,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines with proper witness labeling.
 
 ### II-01.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** complete · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 4 warnings — failing: archaism, asides, budgets, recaps, scaffolding, verbatim, you_must_know; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-01-cublay-nayan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

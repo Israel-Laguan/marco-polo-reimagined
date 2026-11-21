@@ -50,7 +50,7 @@ end
 
 local function is_notes(b) return b.t == 'Header' and stringify(b) == 'Notes' end
 
--- F2 map headings travel with their figures. Fold in any legacy caption paragraph
+-- Map headings travel with their figures. Fold in any legacy caption paragraph
 -- while the manuscript's F2 media tasks migrate captions into the image brackets.
 local function map_caption(figure, heading, next_block)
   local long = figure.caption.long
@@ -199,7 +199,8 @@ local function Pandoc(doc)
       if short and short ~= '' then il:insert(pandoc.Str(short)) end
       il:insert(rawi('}'))
       put(pandoc.Plain(il))
-    elseif front_maps and b.t == 'Header' and b.level == 3 and blocks[i + 1] and blocks[i + 1].t == 'Figure' then
+    elseif b.t == 'Header' and b.level == 3 and (front_maps or b.identifier:match('^map%-of%-'))
+        and blocks[i + 1] and blocks[i + 1].t == 'Figure' then
       local figure = blocks[i + 1]
       i = i + 1 + map_caption(figure, b, blocks[i + 2])
       put(figure)

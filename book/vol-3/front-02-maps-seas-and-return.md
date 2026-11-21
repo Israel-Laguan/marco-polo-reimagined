@@ -6,44 +6,37 @@
 
 ---
 
-Volume III’s maps are wet. One chart should hold the monsoon necklace from Fujian down through island Southeast Asia to Seilan and India’s coasts; another should sketch the return logic — sea to Hormuz, then land toward Trebizond and the Black Sea homecoming. The tables below list the places Volume III names. [1]
+The sea chapters describe ports, coasts and kingdoms along and beyond the main shipping routes. The tables keep this geography in view. The map of the round trip connects these seas with the earlier land routes. The dedicated return map follows the embassy account back to the Mediterranean, where the Prologue gives a much clearer sequence of named stages. [1]
 
-### How to see the maritime book
+Read the Book’s maritime sequence as a mixture of claimed stops and reports. It describes Chamba and the Sumatran kingdoms in the sea chapters. The return passage instead gives “Java” and the Sea of India, with few intermediate details. [2]
 
-Read the sea chapters as a **coastal rosary**, not as a claim that Marco inspected every inland kingdom named. Zayton out; Chamba touch; Java mostly hearsay wealth; Locac and Pentam as peninsula/strait geography; Sumatra (Java the Less) as the long wait; Nicobars and Andamans as island rumour with a few likelier landfalls; Seilan firm; Maabar and Malabar as the Indian pearl-and-pepper stage; then west along reported shores toward Kesmacoran and the Arabian gates. [2]
+### Map of the round trip
 
-Chipangu sits off the main sailing line as a northward marvel island — on the mental map more than on the logbook.
+![The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
-### Indian Ocean and Southeast Asian seas
+### Map of the Cocachin return
 
-![An imagined Indian Ocean scene for Polo’s Book III](../media/map-indian-ocean.jpg)
-
-*Caption:* The monsoon world as a modern illustrator imagines it. A generated picture for atmosphere; its coastlines are not geography. *(Modern generated illustration — see media/ATTRIBUTIONS.md)*
-
-For the real coastlines while reading III-1 through III-8, use the overview map in Volume I’s map guide and the tables below. When a name goes soft (Locac, Dagroian, Sememant), the job is orientation, not false precision.
-
-### Return route — sea, Hormuz, and the Black Sea gate
-
-The return is the sea loop of the overview map in Volume I’s map guide: from Quanzhou past Sumatra, Ceylon and India to Hormuz, then overland by Tabriz to Trebizond and on to Venice.
-
-The return map is political as much as nautical: a bridal embassy’s success condition is Persia, not tourism.
+![The Cocachin return. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The Prologue names “Java”; Yule links that passage to the Book’s five months at Samara. The solid western line joins the four named stages from Trebizond to Venice along an illustrative course. Rashid al-Din records the embassy at Abhar. Yule dates departure to early 1292; Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
 
 ### Place table — island and Southeast Asian road
 
 | Book name | Modern | Role in Vol. III |
 |-----------------|-------------------------|----------------------------------------|
+| Hakata Bay | Hakata Bay, Fukuoka, Japan | Northern Kyushu landing area in the invasion accounts. |
+| Takashima | Takashima Kōzaki site area, Imari Bay, Japan | Approximate area of the 1281 Yuan wrecks. |
+| Happo | Masan Bay, Changwon, South Korea | Hap'o (合浦), the fleet's departure area in Goryeo. |
 | Chipangu | Japan | Gold-roof hearsay; Polo did not visit. |
 | Gulf of Cheinan | Hainan and the Gulf of Tonkin | Gulf in the maritime account, linked to Hainan by Pelliot. |
-| Chamba | Central Vietnam (Champa coast) | Cham kingdom; Polo's fleet touched here. |
+| Chamba | Central Vietnam (Champa coast) | Cham kingdom named in the sea chapters; a proposed stop on the embassy’s route. |
 | Java | Java, Indonesia | Great Java; Polo did not claim to have visited. |
 | Condur | Pulo Condore (Côn Đảo), Vietnam | Island named with Sondur; unlucky waters. |
 | Locac | Lopburi (Lavo), Thailand | Reported mainland kingdom, identified provisionally with Lopburi after Pelliot. |
 | Pentam | Bintan / Riau Islands, Indonesia | Near the Singapore Strait. |
 | Malaiur | Malayu (Jambi), Sumatra, Indonesia | Polo's city of Malaiur near Pentam. |
-| Java the Less | Sumatra, Indonesia | Polos wintered five months waiting for the monsoon. |
+| Java the Less | Sumatra, Indonesia | Sumatra in the sea chapters; Yule identifies it with the Prologue’s “Java.” |
 | Ferlec | Perlak, Aceh, Sumatra, Indonesia | First Muslim kingdom noted. |
 | Basma | Pasai / NE Sumatra coast, Indonesia | Unicorns (rhinoceroses). |
-| Samara | Samudera Pasai, Sumatra, Indonesia | Likely wintering place. |
+| Samara | Samudera Pasai, Sumatra, Indonesia | The Book claims a five-month wait here in III-3; Yule connects it to the embassy voyage. |
 | Dagroian | NE Sumatra coastal polity | Reported kingdom on northern Sumatra, with several candidate locations. |
 | Lambri | Lamuri (Aceh headland), Sumatra, Indonesia | Near Banda Aceh; tailed men tale. |
 | Fansur | Barus, NW Sumatra, Indonesia | Camphor coast. |
@@ -78,7 +71,7 @@ The return map is political as much as nautical: a bridal embassy’s success co
 | Dufar | Dhofar (Salalah area), Oman | Frankincense. |
 | Calatu | Qalhat, Oman | Gulf of Calatu; Omani coast port. |
 | Soer | Sohar, Oman | Named in the list of Gulf horse-trade ports. |
-| Abhar | Abhar, Zanjan, Iran | Near where the Cocachin embassy met Ghazan (c. 1293–94), a little west of Qazvin; also placed between Saveh and Abhar in the Magi discussion. |
+| Abhar | Abhar, Zanjan, Iran | Rashid al-Din places Cocachin’s marriage to Ghazan here, west of Qazvin. |
 | Trebizond | Trabzon, Turkey | Empire of Trebizond; Black Sea embarkation. |
 
 *Places without a map fix:* Sondur, Gauenispola, Lar, Male and Female.
@@ -87,11 +80,9 @@ The return map is political as much as nautical: a bridal embassy’s success co
 
 *Hormos and Tauris also serve the return. Their main entries appear in Volume I.*
 
-**Java vs Java the Less:** Great Java is the island of that name in modern speech, mostly hearsay in Polo; Java the Less is Sumatra, where the wintering claim sits. **Madeigascar** appears as an island in the Book. Pelliot connects the name to Mogadishu, which is the gazetteer’s provisional reference. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall. [3]
+**Java vs Java the Less:** Great Java is modern Java. The Book describes its five-month stay in the separate account of Samara on Java the Less, or Sumatra. **Madeigascar** appears as an island in the Book. Pelliot connects the name to Mogadishu, which is the gazetteer’s provisional reference. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall. [3]
 
-Monsoon arrows matter more than straight rhumb lines. If a chapter feels like it pauses, it probably should.
-
-Anyway, with these charts in hand, the storyteller can say *next he mentions Seilan* without losing you in the empty blue.
+The map in [III-9](ch-09-cocachin-return.md) accompanies a chart of the monsoon seasons and the disputed voyage calendar.
 
 ---
 

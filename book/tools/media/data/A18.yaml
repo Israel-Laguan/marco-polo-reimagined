@@ -1,0 +1,19 @@
+id: A18
+file: A18-adriatic-inset
+width: 2.2
+extent: [6.7, 20.5, 36.6, 46.9]
+graticule: false
+scale_km: 200
+scale_at: [8, 38.4]
+routes:
+  - vol: I
+    style: inferred # YC Introduction VI: Doria sailed via Messina, then raided Dalmatia and reached Curzola. Line schematic.
+    path: [genoa, [43.1, 9.8], [40.35, 12], [38.27, 15.61], [37.55, 16.5], [38.1, 18], [39.95, 19.15],
+           [41.5, 17.85], [42.6, 17.95], curzola]
+places: [venice]
+label:
+  genoa: sw
+  venice: e
+  curzola: {pos: se, offset: 6}
+text:
+  - {text: Adriatic, at: [44.2, 16.1], kind: sea, rotate: -33}

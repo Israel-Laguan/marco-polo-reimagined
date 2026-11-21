@@ -20,21 +20,11 @@ Think of Volume I as three nested journeys, not one straight line.
 
 On a modern wall map this looks like a crooked ribbon from Italy to Beijing via Iran and Xinjiang. In the book it feels like a sequence of courts, markets, marvels, and waits — because that is how a merchant-storyteller remembers distance.
 
-### Overview map — Venice to the Khan
+### Map of the round trip
 
-![The Polos’ journey out and back, Venice to China and home by sea](../media/map-marco-polo-overview.jpg)
+![The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
-*Caption:* A modern reconstruction of the whole round trip: overland out by Ayas, Tabriz, Hormuz, Balkh and the Silk Road to Xanadu and Peking, and back by sea from Quanzhou past Sumatra and India to Hormuz, then overland by Tabriz and Trebizond. The labels are in German (Venedig = Venice, Trapezunt = Trebizond). One reconstruction among several. *(Map: Maximilian Dörrbecker (Chumwa), Wikimedia Commons — credit in media/ATTRIBUTIONS.md)*
-
-Use this map to keep the whole arc in one glance. Do not treat every coastal label as a personal landing; Volume I is mostly land travel after Ayas.
-
-### Asia under the Mongol umbrella
-
-![Asia and the Mongol successor realms in the later thirteenth century](../media/map-asia-mongol-empire.png)
-
-*Caption:* The Mongol successor realms c. 1294 — Yuan, Ilkhanate, Golden Horde, Chagatai — the political weather of Volume I. *(Map: Astrokey44, 1294 frame of an animated Wikimedia Commons map — credit in media/ATTRIBUTIONS.md)*
-
-This second map is political weather more than itinerary. When the book says a road was shut by war, look here for which ulus borders were burning.
+See [Map of the world in 1260, I-F1](front-01-world-before-the-road.md#map-of-the-world-in-1260).
 
 ### Place table — prologue and Black Sea / Volga hinge
 
@@ -50,6 +40,7 @@ This second map is political weather more than itinerary. When the book says a r
 | Bolghar | Bolgar, Tatarstan, Russia | Volga Bulgaria; first brothers' journey. |
 | Ucaca | Uvek (near Saratov), Russia | Frontier town on the Volga crossed by the brothers; site approximate (Yule: Ukek). |
 | Bocara | Bukhara, Uzbekistan | Where Nicolo and Maffeo were stranded three years and met the Khan's envoys. |
+| Jerusalem | Jerusalem | Holy Sepulchre reference for the oil errand in YC Prologue 10 and 13. |
 
 ### Place table — outbound from Acre into Persia
 

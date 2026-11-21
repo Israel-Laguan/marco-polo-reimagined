@@ -14,6 +14,10 @@
 
 The book hurries into the brothers’ first voyage; a companion chapter can pause on the world that made the road possible. What follows is the stage, not travel narrative: Mediterranean trade, Mongol peace, Venice and Genoa at each other’s throats, and why Latins went east around 1260. [1]
 
+### Map of the world in 1260
+
+![Approximate spheres around the time of the elder voyage. The eastern Mongol realm predates the Yuan dynastic name. Constantinople was still Latin in 1260, with Nicaea the principal Byzantine successor in the region. The marked centres orient the Italian trade: Soldaia and Constantinople had Venetian links, Acre was contested, and Ayas was a Cilician Armenian port. Genoa secured new privileges at Constantinople in 1261. *(Map: this edition, after Peacock, map 1, and the trade sources in the media credits.)*](../media/maps/A2-world-in-1260.svg)
+
 ### The Mediterranean as a counting-house
 
 In the middle of the thirteenth century the Mediterranean was still the great counting-house of Latin Christendom. Venetian and Genoese galleys hauled spices, silk, alum, slaves, grain, and credit between the Levant ports and the Italian lagoons. Acre (Akko) remained a Crusader foothold on the Syrian coast — battered, precious, and doomed to fall in 1291. Constantinople (Istanbul) still wore a Latin crown until 1261, when Michael Palaeologus took the city back for the Greeks. Black Sea factories — Soldaia (Sudak) among them — fed Venetian appetite for grain, fish, furs, and steppe luxuries. [2]

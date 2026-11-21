@@ -1,22 +1,29 @@
 # Media attributions — *The Book of the Million*
 
-## Wikimedia Commons
+## Legacy maps from Wikimedia Commons
 
 | Local file | Commons source | Notes |
 |------------|----------------|-------|
-| `map-marco-polo-overview.jpg` | [Travels of Marco Polo (JPEG)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.jpg) | Maximilian Dörrbecker (Chumwa), using Natural Earth data. Embedded in I-F2. [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) |
-| `map-marco-polo-overview.png` | [Travels of Marco Polo (PNG)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.png) | Route diagram by Classical geographer on a base by Historicair, brightened by Hohum. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
-| `map-marco-polo-shepherd.jpg` | [Travels of Marco Polo (on William R. Shepherd map)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo_(on_William_R._Shepherd_map).jpg) | Chumwa overlay on Shepherd 1911 |
-| `map-asia-mongol-empire.png` (the 1294 frame, frame 8 of 9, of the Commons GIF) / `map-mongol-empire.gif` (the animated original, kept as master; not placeable) | [Mongol Empire map.gif](https://commons.wikimedia.org/wiki/File:Mongol_Empire_map.gif) | Astrokey44 (GFDL / CC BY-SA) |
-| `map-china-yuan.png` | [Yuan Dynasty 1294.png](https://commons.wikimedia.org/wiki/File:Yuan_Dynasty_1294.png) | Yuan extent c. 1294 |
-| `map-cambaluc.jpg` | [Map of Cambaluk.jpg](https://commons.wikimedia.org/wiki/File:Map_of_Cambaluk.jpg) | Dadu / Cambaluc plan tradition |
-| `map-caugigu.jpg` | [Marco Polo in Caugigu - Map.jpg](https://commons.wikimedia.org/wiki/File:Marco_Polo_in_Caugigu_-_Map.jpg) | Yule–Cordier / Gutenberg Vol. 2 |
-
-III-F2 directs readers to the sea loop of the JPEG overview in I-F2. MED.T3 removed the duplicate `map-return-route.jpg` on 2026-11-17.
+| `legacy/map-marco-polo-overview.jpg` | [Travels of Marco Polo (JPEG)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.jpg) | Maximilian Dörrbecker (Chumwa), using Natural Earth data. [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) |
+| `legacy/map-marco-polo-overview.png` | [Travels of Marco Polo (PNG)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo.png) | Facsimile in I-B1. Route diagram by Classical geographer on a base by Historicair, brightened by Hohum. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+| `legacy/map-marco-polo-shepherd.jpg` | [Travels of Marco Polo (on William R. Shepherd map)](https://commons.wikimedia.org/wiki/File:Travels_of_Marco_Polo_(on_William_R._Shepherd_map).jpg) | Route overlay by Maximilian Dörrbecker (Chumwa) on “Mediaeval Commerce (Asia)” from William R. Shepherd’s *Historical Atlas* (1911). Overlay [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/). The base map is public domain in the United States. |
+| `legacy/map-mongol-empire.gif` (animated original) and `legacy/map-asia-mongol-empire.png` (1294, frame 8 of 9, extracted for this edition) | [Mongol Empire map.gif](https://commons.wikimedia.org/wiki/File:Mongol_Empire_map.gif) | Astrokey44. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) |
+| `legacy/map-china-yuan.png` | [Yuan Dynasty 1294.png](https://commons.wikimedia.org/wiki/File:Yuan_Dynasty_1294.png) | Yuan extent c. 1294 by Ian Kiu. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| `legacy/map-cambaluc.jpg` | [Map of Cambaluk.jpg](https://commons.wikimedia.org/wiki/File:Map_of_Cambaluk.jpg) | Dadu plan by kallgan, released into the public domain by the creator. |
+| `legacy/map-caugigu.jpg` | [Marco Polo in Caugigu - Map.jpg](https://commons.wikimedia.org/wiki/File:Marco_Polo_in_Caugigu_-_Map.jpg) | Facsimile of Itinerary No. V from the Yule–Cordier edition, vol. II, p. 130, via Project Gutenberg. Public domain in the United States. |
 
 ## Edition maps, timelines, and diagrams
 
-The edition produces figures in `maps/`, `timelines/`, and `diagrams/`. Their sources are recorded in the manuscript captions, the [figure tooling and source data](../tools/media/), and the [fact registry](../plans/registry/facts.md). The A1 and A16 replacement maps are pilots awaiting revision and placement. See the [map tasks](../plans/tasks/cross/MAP-maps.md).
+The edition produces figures in `maps/`, `timelines/`, and `diagrams/`. Their sources are recorded in the captions, the [figure tooling and source data](../tools/media/), and the [fact registry](../plans/registry/facts.md). The maps use public-domain physical layers from [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/).
+
+| Maps | Cartographic and historical references |
+|---|---|
+| A2 | A. C. S. Peacock, *Islam, Literature and Society in Mongol Anatolia*, maps 1–2. John Giebfried, “The Mongol Invasions and the Aegean World (1241–61),” pp. 129–39. Francesca Pucci Donati, *Ad viagium Maris Maioris*, chapter II, for the Italian trade. [Peacock](https://assets.cambridge.org/97811084/99361/excerpt/9781108499361_excerpt.pdf), [Giebfried](https://doi.org/10.1080/09518967.2013.837640), [Pucci Donati](https://cris.unibo.it/retrieve/12bf680c-bfde-48b8-b1c1-aaf1c1a831a3/Ad%20viagium%20Maris%20Maioris%20-Pucci%20Donati.pdf) |
+| A7 | Tan Qixiang’s historical atlas via Li Meijiao and colleagues, “Reconstructing Provincial Cropland Area in Eastern China during the Early Yuan Dynasty,” fig. 1. The Nayan inset uses the regional reading set out in the S-17 intake and the departure in *Yuan shi*, j. 14. [Li et al.](https://doi.org/10.1007/s11442-018-1576-8), [S-17 intake](../plans/research/results/S-17-priority-return-2026-11-16-intake.md) |
+| A9 | Fu Xinian’s plan, reproduced in Shuji Funo, “Ancient Chinese Capital Models,” fig. 24a. Xu Bin’s review gives the limits of palace reconstruction. The outline and gate coordinates use approximate registration to modern reference geography. [Funo](https://doi.org/10.2183/pjab.93.045), [Xu](https://www.dpm.org.cn/historical/talk/254652.html), [North wall site](https://mapcarta.com/W990439598) |
+| A12, A13 | State Party nomination for the Grand Canal, property 1443, Huitong and Nanwang sections. Lin Meicun and Zhang Ran, “A Chinese Porcelain Jar Associated with Marco Polo,” pp. 39–56. [Canal nomination maps](https://whc.unesco.org/en/list/1443/maps/), [Lin and Zhang](https://doi.org/10.1017/eaa.2017.21) |
+| A14 | Albert Herrmann and Georg Westermann, *Historical and Commercial Atlas of China*, map 35. The *Cambridge History of the Mongol Empire*, vol. I, provides context for the overlapping spheres. [Atlas](https://commons.wikimedia.org/wiki/File:Asia_under_the_Mongols_1290_AD.jpg), [Mongol Central Asia](https://www.cambridge.org/core/books/abs/cambridge-history-of-the-mongol-empire/mongol-central-asia/D4970E08F6EAD86F9BF503BDDE2692BD) |
+| A15 | National Archives of Japan, *Japan and Mongolia*, ch. 1. National Institute of Korean History, “Mongol Expeditions to Japan,” §§3–4. Matsūra City’s Takashima Kōzaki site record. [Archives](https://www.archives.go.jp/about/activity/international/jp_mn50/english/ch01.html), [Korean History](https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i200900), [Takashima site](https://www.city-matsuura.jp/top/kanko_bunka/rekishi_bunka/takashimachikunorekishi_bunka/2625.html) |
 
 ## Historical images and facsimiles
 
@@ -24,16 +31,16 @@ For the source, credit line, and reuse terms of each supplied master, see the [p
 
 ## Legacy generated illustrations (Grok / Cursor)
 
-These illustrations were generated for the project in an old-book engraving style.
+These six retired illustrations were generated for the project in an old-book engraving style.
 
 | Local file | Subject |
 |------------|---------|
-| `drawing-genoa-dictation.jpg` | Polo dictating to Rustichello |
-| `drawing-venetian-galley.jpg` | Venetian galley / lagoon |
-| `drawing-chandu-palace.jpg` | Shangdu palace & white horses |
-| `drawing-manzi-junk.jpg` | Yuan junk at sea |
-| `map-indian-ocean.jpg` | Imagined Indian Ocean scene, used for atmosphere in III-F2 |
-| `map-hangzhou-kinsay.jpg` | Imagined view of Kinsay and the West Lake, used for atmosphere in II-F2 |
+| `legacy/drawing-genoa-dictation.jpg` | Polo dictating to Rustichello |
+| `legacy/drawing-venetian-galley.jpg` | Venetian galley in a lagoon |
+| `legacy/drawing-chandu-palace.jpg` | Shangdu palace and white horses |
+| `legacy/drawing-manzi-junk.jpg` | Yuan junk at sea |
+| `legacy/map-indian-ocean.jpg` | Imagined Indian Ocean scene |
+| `legacy/map-hangzhou-kinsay.jpg` | Imagined view of Kinsay and the West Lake |
 
 ## Generated plates (regional idioms — S-10 onward)
 

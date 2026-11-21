@@ -61,7 +61,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-12.T6` Lint pass and human voice read
 
 ### II-12.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `II-12.T3` (W2: applied in the re-voice pass)
+- **Status:** complete · **Depends:** S-06 ✓, `II-12.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - Mar Sargis: Moule and Giles translate the gazetteer as attributing seven monasteries to him, with two dated 1279 and Ta-hsing-kuo dated 1281. The Book reports two churches in 1278; keep the reports distinct and do not date all seven to 1279 (F-10, S-14).
@@ -69,8 +69,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-12.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #7 (batch 2)
-- **Now:** 2,522 words · 62% verbatim · "You must know" 3 · "Anyway" 4 · formula hinges 5 · archaisms 5 · Book first person 3 · asides 4
+- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #7 (batch 2)
+- **Result:** 1,832 words · 3% verbatim · targeted lint passes with 0 errors and 0 warnings
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :17 (92%), :19 (97%), :23 (90%), :29 (96%), :47 (100%), :65 (99%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :19, :25, plus any listed under *Dispute handling* above.
@@ -80,13 +80,13 @@ _Created after the gating spikes close. Expected shapes:_
   - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
   - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
-  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Samarcand → Samarcan ×1, Yangzhou → Yanju ×1, I-ching → Sinju ×1, Kwa-chau → Caiju ×1, Chang-chau → Chinginju ×1, Hu-chau → Vuju ×1, Kiahing → Changan ×1, Hangzhou → Kinsay ×1; unglossed first mentions: Sindafu, Tebet, Caindu, Nanghin, Saianfu, Caiju, Chinghianfu, Chinginju, Suju, Vuju, Vughin, Changan, Kinsay, Vuju. `python3 tools/lint.py -v vol-2/ch-12-kian-suju.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
-  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Now: bare variants: none; unglossed first mentions: none. The lint lists them as `name_policy` warnings marked (S-05).
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Baseline before re-voice: bare variants included Samarcand, Yangzhou, I-ching, Kwa-chau, Chang-chau, Hu-chau, Kiahing, and Hangzhou; first mentions of Sindafu, Tebet, Caindu, Nanghin, Saianfu, Caiju, Chinghianfu, Chinginju, Suju, Vuju, Vughin, Changan, and Kinsay lacked glosses.
+  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Baseline before re-voice: no bare variants or unglossed first mentions.
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-12.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `II-12.T3` (the flags are written during the re-voice pass)
-- **Now:** 2 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
+- **Status:** complete · **Depends:** S-03 ✓, `II-12.T3` (the flags are written during the re-voice pass)
+- **Baseline before re-voice:** 2 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
   - Its Note carries the label "Ramusio-only." (or the matching name) straight after the lead marker. The label is provenance and sits beside a reliability marker; ◇ is not used for it.

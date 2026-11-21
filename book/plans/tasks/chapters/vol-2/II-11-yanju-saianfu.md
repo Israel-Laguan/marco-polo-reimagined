@@ -71,7 +71,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-11.T6` Lint pass and human voice read
 
 ### II-11.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `II-11.T3` (W2: applied in the re-voice pass), `II-05.T1`
+- **Status:** complete · **Depends:** S-06 ✓, `II-11.T3` (W2: applied in the re-voice pass), `II-05.T1`
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-08: Note [5]'s Yanju dating rests on the "Po-lo" note; restate it without that anchor (after `II-05.T1`).
@@ -80,7 +80,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-11.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #9 (batch 3)
+- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #9 (batch 3)
 - **Now:** 2,529 words · 57% verbatim · "You must know" 3 · "Anyway" 3 · formula hinges 4 · archaisms 2 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (92%), :21 (94%), :25 (99%), :41 (100%), :43 (96%), :47 (99%).
@@ -95,7 +95,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### II-11.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `II-11.T3` (the flags are written during the re-voice pass)
+- **Status:** complete · **Depends:** S-03 ✓, `II-11.T3` (the flags are written during the re-voice pass)
 - **Now:** 0 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -103,7 +103,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-2/ch-11-yanju-saianfu.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### II-11.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-11.T3` (re-voice renumbers Notes)
+- **Status:** complete · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `II-11.T3` (re-voice renumbers Notes)
 - **Now:** 11 Notes · 3 ★ · 0 without a lead marker · tag [M]
 - **Do:**
   - Tag line `**[M]**` is already correct; confirm it against the chapter's evidence (V = seen, R = heard, M = both).
@@ -116,7 +116,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-11.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** complete · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 17 errors · 7 warnings — failing: archaism, asides, budgets, markers, recaps, scaffolding, verbatim, you_must_know; warnings: openers, recaps
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/ch-11-yanju-saianfu.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

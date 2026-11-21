@@ -1,0 +1,36 @@
+id: A3
+file: A3-elder-voyage
+extent: [5, 127, 27, 62]
+projection: equal_earth
+scale: 10m
+graticule: 10
+scale_km: 1000
+scale_at: [53, 34]
+markers: labelled
+routes:
+  - vol: I
+    style: stated # YC Prologue 1–4: Black Sea and Volga stages named, then Bocara.
+    path: [constantinople, [42.5, 30.2], [44.2, 34.5], soldaia, [46, 39], sarai, bolghar, ucaca, bocara]
+  - vol: I
+    style: inferred # YC Prologue 4–5 gives no road to the court; Chandu is a candidate for its location.
+    path: [bocara, [43, 77], [44, 92], [44, 104], chandu]
+  - vol: I
+    style: inferred # Prologue 8 names Ayas but gives no intermediate route from the court.
+    path: [chandu, [41, 99], [42, 81], [39, 62], [36.5, 55], [36.8, 50], [37.2, 43], ayas]
+  - vol: I
+    style: stated # YC Prologue 8–9 names these homeward stages.
+    path: [ayas, [35.5, 35.5], [33.2, 34.8], acre, [34, 28.5], [36.3, 24.8], negropont,
+           [37.95, 24.3], [37.35, 24.1], [35.8, 23.2], [36.2, 20.9], [38.5, 19.6], [40.1, 18.9], [42.5, 15.9], [44.4, 13.2], venice]
+label:
+  constantinople: sw
+  soldaia: nw
+  sarai: e
+  bolghar: e
+  ucaca: w
+  bocara: s
+  chandu: {pos: n, text: "Chandu (possible court)"}
+  ayas: e
+  acre: s
+  negropont: {pos: w, offset: [-4, -8]}
+  venice: nw
+legend: {at: upper right, items: [lines]}
