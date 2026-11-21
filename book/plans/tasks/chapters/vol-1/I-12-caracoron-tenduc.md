@@ -123,6 +123,20 @@ _Created after the gating spikes close. Expected shapes:_
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
+### I-12.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-12.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-12) Kaan succession: Book vs record:** Create comparison table showing the succession of Kaans as presented in the Book versus historical records. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **S-19 comparison intake:** Use `plans/registry/comparanda.md` for checked witness locations and open leads. Say what each cited witness reports and give an edition-specific locator; verify lead passages before use. Do not treat shared subject matter as proof of Polo's presence.
+  - **Table structure suggestion:**
+    - Columns: Kaan name (Book form), Reign dates (Book), Reign dates (Historical record), Relationship to predecessor, Circumstances, Verdict
+    - Rows: Each successor in the line from Genghis to Kublai and beyond as relevant to the chapter
+    - Verdict column: accuracy assessment
+  - Anchor the table where the succession is discussed in the chapter.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+  - **S-16 handoff:** S16-E5 notes Great Hall as temple, hypothetical palace, disputed Tenduc. Ensure any succession claims are properly sourced.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
+
 ### I-12.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 1 warnings — failing: archaism, asides, budgets, first_person, markers, quote_verify, ramusio, scaffolding, verbatim; warnings: ramusio

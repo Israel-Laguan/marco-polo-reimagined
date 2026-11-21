@@ -60,6 +60,13 @@ Let me tell you also that in this province there is a town called Tyunju (probab
 
 — Tyunju as the world’s sole porcelain source will not stand. Fine porcelain’s great seat is Ching-tê-chên; Ramusian geography muddles rivers toward that inland kiln-country. Fo-kien coarse ware and re-export from Zayton are real; the exclusive claim is confused. Ibn Baṭṭūṭa wrongly limited porcelain to Zaitún and Canton in the same spirit. Anyway, next he mentions something sharper.
 
+| Aspect / Question | Book claim (Polo) | Archaeological & historical record | San Marco Treasury Jar | Verdict |
+|---|---|---|---|---|
+| Production center | Tingui (identified as Dehua or Tingzhou) produces fine porcelain | Dehua kilns in Fujian flourished under Song and Yuan dynasties | Dehua white porcelain and qingbai wares widely exported via Zayton | ✓ production match |
+| Clay preparation | Earth piled in mounds and weathered 30–40 years before use | Primary kaolin and porcelain stone weathered and refined in water pits | Polo reports artisanal clay-curing lore rather than chemical science | ~ artisanal lore |
+| Pricing & accessibility | Great cheapness: 8–26 porcelain bowls bought for a single Venetian coin | High-volume production for domestic and overseas Indian Ocean markets | Confirm massive export volumes across the maritime Silk Road | ✓ cheap export |
+| San Marco relic | Not mentioned in Book | 14th-century southern Chinese qingbai ribbed jar in Treasury | Raphael (1932) proposed Polo connection; no proof of personal ownership | ◇ proposed attribution |
+
 I should tell you that in this city of Zayton they have a peculiar language. Ramusio's version adds that throughout all Manzi they employ one speech and one kind of writing only, but yet there are local differences of dialect, as you might say of Genoese, Milanese, Florentines, and Neapolitans, who though they speak different dialects can understand one another.
 
 And the Book assures you that the Great Kaan has as large customs and revenues from this kingdom of Chonka as from Kinsay, aye and more too.

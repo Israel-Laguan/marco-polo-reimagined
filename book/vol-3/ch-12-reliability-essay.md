@@ -44,6 +44,18 @@ When Polo narrates Cathay and yet never mentions tea, we have learned to ask wha
 
 A *miss* is a positive error or exaggeration (gold palace; wrong siege chronology; dog-heads); a *silence* is an expected topic not raised (tea; binding; Wall-as-icon). Both matter, and they matter differently. Misses test truth-claims; silences test perspective and selection. Missionaries who walked Ming China used both categories to chastise and to claim prior European knowledge — sometimes fairly, sometimes as conscription.
 
+| Ledger item | Chapter refs | Kind | Verdict | Limit |
+|---|---|---|---|---|
+| Coal, paper money and the *yam* | II-5 | Hit | ✓ | Institutional fit is strong; Polo's figures and some details remain approximate |
+| Yanju office and three-year governorship | II-11; III-12 | Hit / stress-point | ✓ / ~ / ? | City and fiscal importance are attested; personal civil headship is not confirmed |
+| Saianfu mangonels and the Polos' role | II-11; III-12 | Hit / miss | ✓ / ✗ / ◇ | Siege and shot are plausible; family credit is disputed and the chronology is strained |
+| Kinsay greatness and bridge / revenue numbers | II-13 | Hit / exaggeration | ✓ / ~ | Greatness and order of magnitude are supportable; 347 and 35 li need witness-specific qualification |
+| Chipangu fleets and storms | III-1 | Hit / exaggeration | ✓ / ~ / ✗ | Invasions and storms are recorded; gold palace and the exact thirty-thousand count are not |
+| Ahmad / Bolad transmission | II-5; III-12 | Presence claim | ✓ / ✗ | Annals corroborate Ahmad's fall but call the relevant “Po-lo” Bolad, not Marco |
+| Cocachin embassy | III-9; III-12 | Hit / presence limit | ✓ / ? | Embassy and marriage fit outside evidence; no outside source names the Polos or their sea role |
+| Tea, foot-binding and the Great Wall as modern icon | II-13; III-12 | Silence | ~ / ? | Absence is real in the Book, but silence is perspective rather than proof of non-presence |
+| Xi'an stele and Great Wall as a sure fact | I-11; III-12 | Discarded claim | ✗ | The stele was found in 1625 and does not support Marco's presence; no continuous modern wall icon is named |
+
 Read silence without either Wood’s demolition or hyper-defence: absence is not automatic proof of absence from China. A foreign merchant embedded in Mongol–Persian court circuits might drink tea without theorising it for knights; might never enter the women’s quarters where binding was social fact; might traverse passes where no continuous “Great Wall” of later imagination stood as a single named wonder; might learn scripts enough for business and leave Chinese poetry to the clerks. Silence remains evidence of *perspective* — of what a Latin–Venetian–Mongol witness chose or was able to see — and perspective is not the same as omnipresent autopsy. This retelling keeps silences visible in Notes rather than smuggling tea into the narrative to modernise the Traveller’s eye.
 
 ### Famous stress-points

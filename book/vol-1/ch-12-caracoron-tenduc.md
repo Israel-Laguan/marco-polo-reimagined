@@ -28,6 +28,16 @@ Now the next that reigned after Chinghis, according to the book, was Cuy Kaan—
 
 — That succession list is inadmissible as history: it inserts Batu of the Golden Horde and Hülegü of the Ilkhanate as if they were supreme Kaans, and it omits Ögedei. The real line runs Chinggis–Ögedei–Güyük–Möngke–Qubilai. The boast about Cublay’s unmatched power is rhetoric; Yuan extent was real enough to sustain it. [11] Anyway, the book turns to burial.
 
+| Succession step | Book account (Polo) | Historical Great Kaan | Historical reign | Verdict |
+|---|---|---|---|---|
+| 1st Kaan | Chinghis Kaan | Chinggis Khan | 1206–1227 | ✓ founder |
+| [Omitted in Book] | Omitted | Ögedei Khan (3rd son of Chinggis) | 1229–1241 | ✗ omitted by Book |
+| 2nd named in Book | Cuy Kaan (Güyük) | Güyük Khan (son of Ögedei) | 1246–1248 | ~ wrong ordinal |
+| 3rd named in Book | Batuy Kaan (Batu) | Batu Khan (ruler of Jochid Ulus / Golden Horde) | 1227–1255 (Jochid) | ✗ never Great Kaan |
+| 4th named in Book | Mengu Kaan (Möngke) | Möngke Khan (eldest son of Tolui) | 1251–1259 | ✓ Kaan confirmed; sequence disturbed |
+| 5th named in Book | Cublay Kaan (Kublai) | Kublai Khan (son of Tolui; founder of Yuan) | 1260–1294 | ✓ Great Kaan confirmed |
+| [Tributary branch] | Mentioned as Great Lord | Hülegü Khan (founder of Ilkhanate in Persia) | 1256–1265 (Ilkhan) | ✗ regional Ilkhan, not supreme Kaan |
+
 All the Grand Kaans, and all Chinghis’s descendants, are carried to a mountain called Altay—Altai—to be interred, though the place of death were a hundred days’ journey distant. And when they carry an Emperor’s body to burial, the convoy puts to the sword all whom they meet on the road, saying: “Go and wait upon your Lord in the other world!” They kill his best horses likewise, that he may use them there. And as a certain truth—so the book insists—when Mongou Kaan died, more than twenty thousand persons who chanced to meet the body were slain in that manner. [12]
 
 Yule attributes a similar story about Chinggis’s funeral escort to Rashid al-Din, but that report does not establish the figure for Möngke or a rule for every Kaan. Pelliot translates a passage describing mourning for Möngke and his burial at Burkhan Khaldun; the location meant by the Book’s “Altay” remains debated. The twenty thousand remain the Book’s claim. [13]

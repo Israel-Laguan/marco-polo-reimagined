@@ -117,6 +117,21 @@ _Created after the gating spikes close. Expected shapes:_
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
+### II-05.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `II-05.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (II-5) Ahmad's murder: Polo vs *Yuan shi* (Bolad):** Create comparison table for Ahmad's murder. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **S-17 table handoff:** Retain the separately checked S-14 findings and limits; S-17 did **not** re-adjudicate them. The table must maintain these limits.
+  - **S-17 research handoff:** 1260 Zhongtong; 1287 official 1 Zhiyuan guan = 5 Zhongtong guan with old notes still circulating. The conversion is currently supported by one scholarly source; check a second independent source or the primary passage before printing the number. Museum blocks are bronze; issue year is not the date of an individual specimen.
+  - **Table structure suggestion:**
+    - Columns: Aspect (circumstances, date, method, perpetrator), Polo's account, *Yuan shi* account (Bolad), Other sources, Verdict
+    - Rows: Key elements of Ahmad's murder
+    - Verdict column: reliability assessment
+  - **Note:** Chang's review reports Vogel's proposed Yangzhou office, **not** proof of an appointment. Ensure this distinction is clear in the table.
+  - Anchor the table where Ahmad's murder is described.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines with S-14/S-17 limits maintained.
+
 ### II-05.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 24 errors · 0 warnings — failing: archaism, asides, budgets, length, markers, ramusio, recaps, verbatim

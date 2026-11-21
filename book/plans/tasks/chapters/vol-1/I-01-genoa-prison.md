@@ -102,6 +102,24 @@ _Created after the gating spikes close. Expected shapes:_
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [12]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Larner supports Rustichello’s romance shaping, not an invented Marco persona; retain the corrected body and Note together.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+### I-01.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-01.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-1) Who captured Marco, and where? + text witnesses:** Create comparison table for capture accounts: preamble vs Jacopo d'Acqui vs Ramusio, with text witnesses F / Pipino / Z / Ramusio / Yule–Cordier in separate columns. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **2026-11-17 evidence handoff:** Separate each witness's claim from independent evidence and modern inference. Do **not** infer the Polos' presence from the envoy match. Label claims clearly as coming from each witness; keep independent evidence and modern inferences in separate rows or columns.
+  - Anchor the table at ch-01:19 (Curzola capture context).
+  - **Table structure suggestion:**
+    - Row 1: Source (Preamble, Jacopo, Ramusio, F, Pipino, Z, Yule)
+    - Row 2: Capture location
+    - Row 3: Captor
+    - Row 4: Year/Date
+    - Row 5: Circumstances
+    - Row 6: Polos' presence (explicit claim vs inference)
+    - Verdict column: reliability assessment
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+  - Add caption in the figure reference style: `![Table: Who captured Marco and where; text witnesses F / Pipino / Z / Ramusio / Yule.](../media/tables/...)` — but since this is a text table, use inline placement per S-08 conventions.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
+
 ### I-01.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 6 errors · 3 warnings — failing: asides, budgets, quotes; warnings: recaps

@@ -108,6 +108,20 @@ _Created after the gating spikes close. Expected shapes:_
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+### I-06.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-06.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-6) Eight kingdoms of Persia:** Create reference table listing the eight kingdoms/regions of Persia as described in the Book. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **Table structure suggestion:**
+    - Columns: Book name, Modern identification, Geographic extent, Polo's description, Status (verified/unverified/reconstructed)
+    - Rows: Each of the eight kingdoms/regions
+    - Verdict column: reliability assessment
+  - **S-16 handoff:** S16-E18 notes later Genoese trade in Tabriz is not proof of a 1270s consulate or Polo visit. Ensure any claims about Polo's presence are properly hedged.
+  - Anchor the table at the beginning of the chapter where Persia is introduced.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+  - Verify identifications against gazetteer and historical sources.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
+
 ### I-06.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 18 errors · 4 warnings — failing: archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know; warnings: names, openers, sentence

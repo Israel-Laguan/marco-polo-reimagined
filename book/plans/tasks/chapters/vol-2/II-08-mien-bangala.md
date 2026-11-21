@@ -100,6 +100,21 @@ _Created after the gating spikes close. Expected shapes:_
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
+### II-08.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `II-08.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (II-8) Mien battle numbers:** Create comparison table for Mien battle numbers. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **S-17 research limit:** The Vochan/Ngasaunggyan identification and Pagan chronology still need direct specialist and primary-source comparisons. Attribute battle details and numbers to their sources; do **not** infer a settled scholarly reconstruction from the supplied report.
+  - **S-17 priority return:** *Yuan shi* j. 210 describes a third-month 1277 elephant engagement under Hudu and companions and a separate tenth-month expedition under Nasr al-Din. Yule II.LI–LII gives 1272, Nescradin, 2,000 elephants, 60,000 enemy horse and foot, and 12,000 Yuan horse. The chronicle's roughly 700 vs 40,000–50,000 and 800 elephants describe opposing sides in the earlier engagement. **Compare like with like and attribute all numbers.**
+  - **Table structure suggestion:**
+    - Columns: Source (Polo, *Yuan shi*, Yule, Other), Engagement/Date, Elephants, Horse, Foot, Total forces, Verdict
+    - Rows: Each battle/engagement with numbers
+    - Verdict column: reliability assessment
+  - **Critical:** Their correspondence to Polo's narrative and the location remain scholarly questions. Burmese witnesses were not inspected. Do not treat unsupported numbers as settled.
+  - Anchor the table where the Mien battle is described.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines with proper attribution.
+
 ### II-08.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 20 errors · 5 warnings — failing: archaism, asides, budgets, ramusio, recaps, scaffolding, tags, verbatim, you_must_know; warnings: ramusio, recaps, sentence

@@ -40,6 +40,13 @@ When one of them is ill they send for their sorcerers, and put the question whet
 
 When you leave that kingdom you come to another which is called Lambri. The people are Idolaters, and call themselves the subjects of the Great Kaan. They have plenty of camphor and of all sorts of other spices. They also have brazil in great quantities. This they sow, and when it is grown to the size of a small shoot they take it up and transplant it; then they let it grow for three years, after which they tear it up by the root. And you must know that Messer Marco Polo aforesaid brought some seed of the brazil, such as they sow, to Venice with him, and had it sown there; but never a thing came up — and the Book fancies it was because the climate was too cold. [15]
 
+| Topic / Distinction | Book claim (Polo) | Asian sappanwood (*Biancaea sappan*) | American brazilwood (*Paubrasilia echinata*) | Verdict |
+|---|---|---|---|---|
+| Botanical identity | *Brazil* wood growing abundantly in Sumatra (Lambri, Ferlec) | Deciduous legume tree native to Southeast Asia and India | Atlantic forest tree native to coastal South America | ✓ Asian sappanwood |
+| Active dye agent | Highly prized red dyestuff extracted from heartwood | Brazilin, oxidized to brazilein for scarlet and purple dyeing | Brazilin, identical dye molecule to Asian sappanwood | ✓ chemical match |
+| Geographic provenance | Harvested in Sumatra and shipped westward to Europe | Major medieval export crop of Maritime Southeast Asia | Unknown to Europe until Portuguese contact in 1500 | ✓ Asian origin |
+| Name transmission | Term *verzino* / *brazil* used centuries before 1500 | Medieval Italian *verzino* / Spanish *brasil* designated Asian sappan | South American country was named after the tree, not vice versa | ✓ verified etymology |
+
 Now you must know that in this kingdom of Lambri there are men with tails; these tails are of a palm in length, and have no hair on them. These people live in the mountains and are a kind of wild men. Their tails are about the thickness of a dog’s. There are also plenty of unicorns in that country, and abundance of game in birds and beasts. [16]
 
 You then come to another kingdom which is called Fansur. The people are Idolaters, and also call themselves subjects of the Great Kaan; and understand, they are still on the same Island. In this kingdom of Fansur grows the best camphor in the world, called *Canfora Fansuri*. It is so fine that it sells for its weight in fine gold. [17]

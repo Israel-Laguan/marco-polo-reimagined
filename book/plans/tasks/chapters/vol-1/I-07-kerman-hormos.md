@@ -111,6 +111,20 @@ _Created after the gating spikes close. Expected shapes:_
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
+### I-07.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-07.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-7) Geographic text vs Ramusio:** Create comparison table showing geographic descriptions in the Book versus Ramusio's version. This is part of the cross-chapter comparison for I-7/I-9/I-11. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **S-19 comparison intake:** Use `plans/registry/comparanda.md` for checked witness locations and open leads. Say what each cited witness reports and give an edition-specific locator; verify lead passages before use. Do not treat shared subject matter as proof of Polo's presence.
+  - **Table structure suggestion for I-07 portion:**
+    - Columns: Location/Region, Book description, Ramusio description, Match/Discrepancy, Verdict
+    - Rows: Geographic features specific to I-07 (Kerman, Hormos, coastal routes, etc.)
+    - Verdict column: reliability/accuracy assessment
+  - **Note:** This table is part of a three-chapter comparison. Coordinate with I-09 and I-11 to ensure consistent structure and coverage.
+  - Anchor the table at the beginning of the geographic description section.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines. Coordinate with I-09.T5 and I-11.T5 for consistency.
+
 ### I-07.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 18 errors · 4 warnings — failing: archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know; warnings: names, ramusio, sentence

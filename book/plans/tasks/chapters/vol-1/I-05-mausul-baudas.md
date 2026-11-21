@@ -105,6 +105,20 @@ _Created after the gating spikes close. Expected shapes:_
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+### I-05.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-05.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-5) How the Caliph died:** Create comparison table showing Polo vs Hayton vs Rashid al-Din vs Ibn al-Furāt accounts of the Caliph's death. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **S-16 handoff:** Reference S16-E9: competing accounts of the caliph's death; Muqaṭṭam as Neggaz's comparison, not proven direct borrowing. Ensure the table distinguishes between Polo's account and independent sources.
+  - **Table structure suggestion:**
+    - Columns: Source (Polo, Hayton, Rashid al-Din, Ibn al-Furāt), Method of death, Date, Location, Circumstances
+    - Rows: Each source's account
+    - Verdict column: reliability/accuracy assessment
+  - Anchor the table at ch-05:25 (Hulagu shuts the Caliph in the treasure tower).
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+  - **Evidence note:** Muslim sources say the Caliph was rolled in a carpet and trampled; Polo's version has him shut in a treasure tower. Present both without privileging either.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
+
 ### I-05.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 16 errors · 2 warnings — failing: archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know; warnings: recaps, sentence

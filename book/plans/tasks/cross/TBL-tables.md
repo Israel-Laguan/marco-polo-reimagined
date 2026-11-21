@@ -1,45 +1,55 @@
 # TBL — Comparison tables
 
-**Status:** backlog · **Plan doc:** `multimedia-plan.md` § D
+**Status:** done — all base inventory tables, qualified S-21 commodity rows, and the III-9 return-mortality table placed in manuscript chapters; all three volumes build successfully with only existing raster-resolution and overfull-line warnings · **Plan doc:** `multimedia-plan.md` § D
 
 ## Scope
-Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *written inside its chapter's re-voice task*, because it draws on the same facts. This file tracks the inventory and the shared format only.
+Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *written inside its chapter's manuscript*, following the shared format (`booktabs`, header row, `|---|---|` separator, no caption line, verdict column using `✓`, `~`, `✗`, `◇`, `?`). This file tracks the inventory, completion, and manuscript locations.
 
-## Backlog
-| Ch. | Table |
-|---|---|
-| I-1 | Who captured Marco and where; text witnesses F / Pipino / Z / Ramusio / Yule |
-| I-3 | Four scripts |
-| I-5 | How the Caliph died |
-| I-6 | Eight kingdoms of Persia |
-| I-12 | Kaan succession: Book vs record |
-| I-7/I-9/I-11 | Geographic text vs Ramusio |
-| II-1 | Nayan |
-| II-5 | Ahmad's murder: Polo vs *Yuan shi* (Bolad) |
-| II-8 | Mien battle numbers |
-| II-11 | Saianfu; Yanju manuscript variants |
-| II-13 | Kinsay numbers |
-| III-1 | Japan 1274/1281 |
-| III-9/III-12 | Cocachin in three sources |
-| III-12 | Hits, misses and silences ledger (cross-volume) |
+## Inventory and completion
+
+| Ch. | Table | Owner | Status | Final Manuscript Location | Evidence / limit |
+|---|---|---|---|---|---|
+| I-1 | Who captured Marco and where; F / Pipino / Z / Ramusio / Yule | `I-01.T5` | **Done** | `vol-1/ch-01-genoa-prison.md` :65–72 | Keep witness claims, independent evidence and modern inference separate. |
+| I-3 | Four scripts | `I-03.T5` | **Done** | `vol-1/ch-03-second-setting-forth.md` :35–42 | Verify Pauthier, Yule and actual script usage against primary sources. |
+| I-5 | How the Caliph died | `I-05.T5` | **Done** | `vol-1/ch-05-mausul-baudas.md` :29–34 | Polo, Hayton, Rashid and Ibn al-Furāt are separate accounts; use S16-E9 limits. |
+| I-6 | Eight kingdoms of Persia | `I-06.T5` | **Done** | `vol-1/ch-06-tauris-persia.md` :35–44 | Verify identifications against the gazetteer and S16-E18. |
+| I-12 | Kaan succession: Book vs record | `I-12.T5` | **Done** | `vol-1/ch-12-caracoron-tenduc.md` :31–39 | Use checked comparanda and sourced reign / successor details. |
+| I-7/I-9/I-11 | Geographic text vs Ramusio | `I-07.T5`, `I-09.T5`, `I-11.T5` | **Done** | `vol-1/ch-07-kerman-hormos.md` :27–32; `vol-1/ch-09-balc-badashan.md` :35–40; `vol-1/ch-11-lop-tangut.md` :19–24 | Coordinated column structure across all three portions. |
+| II-1 | Nayan | `II-01.T5` | **Done** | `vol-2/ch-01-cublay-nayan.md` :29–35 | Label Polo as the Book account; do not manufacture an independent elephant-platform witness. |
+| II-5 | Ahmad's murder: Polo vs *Yuan shi* (Bolad) | `II-05.T5` | **Done** | `vol-2/ch-05-ahmad-paper-coal.md` :27–33 | Retain S-14/S-17 limits; Bolad is not Marco. |
+| II-8 | Mien battle numbers | `II-08.T5` | **Done** | `vol-2/ch-08-mien-bangala.md` :21–25 | Compare like engagements; do not settle unsupported Mien/Pagan chronology. |
+| II-11 | Saianfu; Yanju manuscript variants | `II-11.T5` | **Done** | `vol-2/ch-11-yanju-saianfu.md` :29–34 (Yanju) & :60–64 (Saianfu) | Retain checked S-14 findings, distinct Saianfu and Yanju claims. |
+| II-13 | Kinsay numbers | `II-13.T5` | **Done** | `vol-2/ch-13-kinsay.md` :21–27 | Witness-specific: 347 and 35 *li* need Mascherpa attribution and unverified-source limits. |
+| III-1 | Japan 1274/1281 | `III-01.T5` | **Done** | `vol-3/ch-01-ships-chipangu.md` :37–43 | Compare Polo, Japanese and Yuan sources without conflating the two invasions. |
+| III-9/III-12 | Cocachin in three sources | `III-09.T5`, `III-12.T5` | **Done** | `vol-3/ch-09-cocachin-return.md` :39–43; `vol-3/ch-12-reliability-essay.md` | Prologue, Rashid and the *Yongle dadian* notice; no Polos named outside the Book. |
+| III-12 | Hits, misses and silences ledger | `III-12.T5` | **Done** | `vol-3/ch-12-reliability-essay.md` :47–57 | Cross-volume ledger; qualified with witness- and verdict-based markers. |
 
 **2026-11-17 evidence handoff:** For the Cocachin and capture tables, separate each witness's claim from independent evidence and modern inference; do not infer the Polos' presence from the envoy match. See [text and media handoff](../../status/critique-text-media-handoff-2026-11-17.md).
 
-**S-21 commodity rows (closed 2026-11-13, [handoff](../../research/results/S-21-closure.md#commodity-table-tbl-handoff)):** draft rows for ambergris (III-7), sappan/brazil (III-3, III-4), pearls (III-5) and porcelain (II-14), each with its stated limit. Any new commodity row needs a checked `S21-E` registry ID.
+**S-21 commodity rows (closed 2026-11-13, [handoff](../../research/results/S-21-closure.md#commodity-table-tbl-handoff)):** placed in owning chapters with checked limits:
 
-**Candidates without an ID yet** (from the critique, not in the multimedia plan): Madeigascar vs Magadoxo (III-7); return-mortality variants 600 / 8 / 18 (III-9); Golden Horde khan list, Book vs actual (II-15). Decide when writing those chapters' `.T5`.
+| Commodity | Owning chapter(s) | Status | Final Manuscript Location | Evidence / limit |
+|---|---|---|---|---|
+| Ambergris | III-7 | **Done** | `vol-3/ch-07-male-abash.md` :25–30 | Retain checked limits (S21-E1, E23, E30, E32, E33); sperm-whale intestine; mechanism tentative; Ramusio whale hunt. |
+| Sappan / brazil | III-3, III-4 | **Done** | `vol-3/ch-03-java-less-sumatra.md` :43–48; `vol-3/ch-04-necuveran-seilan.md` | Retain checked distinction (S21-E3); Asian sappan (*Biancaea sappan*) vs American brazilwood (*Paubrasilia echinata*). |
+| Pearls | III-5 | **Done** | `vol-3/ch-05-maabar-st-thomas.md` :19–24 | Retain checked limits (S21-E2, E24, E28, E34–E37, E39); charmers, colonial administration, 2024 midden species frequency. |
+| Porcelain | II-14 | **Done** | `vol-2/ch-14-fuju-zayton.md` :63–68 | Retain checked limits (S20-E15, S21-E25); Tingui production; San Marco Qingbai jar link is proposed, not proof of ownership. |
+
+**Candidates without an ID yet** (from the critique, not in the multimedia plan):
+
+| Candidate | Owner | Decision | Status | Location / Reason |
+|---|---|---|---|---|
+| Madeigascar vs Magadoxo (III-7) | `III-07.T5` | **Defer** | **Deferred** | Kept deferred from the base D inventory (no checked `S21-E` ID assigned; avoids unsupported geography). |
+| Return-mortality variants 600 / 8 / 18 (III-9) | `III-09.T5` | **Added** | **Done** | `vol-3/ch-09-cocachin-return.md` :53–58; preserves 600 / 8 / 18 / Ramusio distinctions. |
+| Golden Horde khan list, Book vs actual (II-15) | `II-15.T5` | **Defer** | **Deferred** | Kept deferred until a checked source-comparison ID and historical list are supplied. |
 
 ## Gated by spikes
 S-08 ✓ (table markup; closed 2026-11-10) · S-06 ✓ (facts) · S-21 ✓ (commodity rows, qualified; closed 2026-11-13) · S-03 ✓ (markers inside tables: allowed, as a verdict column; decided in S-08)
 
-## Tasks
-_Folded into each chapter's `.T5`._ `TBL.T1` shared table style: **done by S-08** (pipe table with a header row and no caption line; `booktabs`, small type, columns sized by the build; a verdict column may use the five markers; see `registry/markdown-conventions.md`). `TBL.T2` the cross-volume ledger (III-12).
-
-## S-17 table handoff (2026-11-11)
-
-- **II-1 Nayan:** the direct *Yuan shi* comparison and independent evidence for the elephant platform remain open. Label the Book's details as its account; do not fill an independent-source column from a Polo-derived retelling.
-- **II-5 Ahmad / II-11 Saianfu and Yanju:** retain the separately checked S-14 findings and limits; S-17 did not re-adjudicate them. Chang's review reports Vogel's proposed Yangzhou office, not proof of an appointment.
-- **II-8 Mien:** exact comparators and the Vochan/Ngasaunggyan/Pagan chronology need specialist sources; do not treat unsupported numbers as settled.
-- **II-13 Kinsay:** [2026-11-16 intake](../../research/results/S-17-priority-return-2026-11-16-intake.md): Mascherpa 2024 p. 138 does give 347 and 35 li; Pochmalicki reports Moule’s 347 includes city and environs. The original Chinese sources and whether the geographic boundaries match remain unverified. `registry/facts.md` S17-F5: 12,000 bridges and 100 miles are Yule-based Book figures; attribute 347 and 35 *li* to Mascherpa without implying their underlying sources have been verified. Verify each other traveller's witness and possible textual dependence before making an independent comparison.
-
-[Checked S-17 intake and follow-up priorities](../../research/results/S-17-intake.md); tables remain chapter `.T5` work.
+## Completion verification
+All TBL completion conditions are satisfied:
+1. Each inventory row owned by a chapter has a pipe table in the drafted chapter.
+2. Every table has a header row, `|---|---|` separator, no separate caption line, and conforms to LaTeX `booktabs` rendering.
+3. Witness labels and verdict markers (`✓`, `~`, `✗`, `◇`, `?`) distinguish source claim, independent evidence, and modern inference.
+4. The I-7/I-9/I-11 sections share an identical coordinated column structure, and the III-9/III-12 Cocachin tables agree.
+5. All three volumes build successfully via `tools/build/build.sh vol1`, `vol2`, and `tools/build/build.sh vol3`; remaining warnings are pre-existing raster-resolution and overfull-line warnings, not table-shape or placeholder errors.

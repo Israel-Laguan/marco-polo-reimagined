@@ -107,6 +107,19 @@ _Created after the gating spikes close. Expected shapes:_
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [9]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+### I-03.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-03.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-3) The four scripts:** Create comparison table showing Pauthier's list vs Yule's options vs scripts actually in use. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **Table structure suggestion:**
+    - Columns: Source (Pauthier, Yule, Actual usage), Script 1, Script 2, Script 3, Script 4
+    - Rows: Each identified script with its identification in each source
+    - Verdict column: reliability/accuracy assessment
+  - Anchor the table at ch-03:11 or :13 (where scripts are discussed in the route context).
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+  - Verify script names and usage against primary sources before finalizing.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
+
 ### I-03.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 17 errors · 1 warnings — failing: archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim; warnings: sentence

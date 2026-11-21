@@ -62,6 +62,15 @@ Under all remoulding lies the claim of that Genoese season: that a defeated gall
 
 So this volume begins where the book itself begins — in the cell where departure was remembered and ordered for strangers. The sea-fight, the chains, the French periods of Rustichello, the address to emperors and burgesses, the release into a world already curious: these are the door. Beyond it lie Niccolò and Maffeo on the Greater Sea, the youth Marco at the Khan’s court, and the long road of Book I toward Chandu (Shangdu). First, though, the listener has to accept what the prisoners accepted — that knowledge hard-won might perish unless spoken, and that speech, once written, outlives the war that forced it into being.
 
+| Witness | Capture or place claimed | Independent evidence | Verdict |
+|---|---|---|---|
+| Old French preamble / F | Marco in Genoa prison in 1298; Rustichello also in prison | Peace and prison context fit the 1298–99 period | ✓ Genoa captivity; ? exact prison and meeting |
+| Jacopo d'Acqui | Marco taken in a Genoese sea-fight near Ayas and held long enough to make the Book | Genoese victory at Ayas in 1294 / 1295; Jacopo wrote later | ~ / ✗ Ayas is a checked alternative, not a confirmed place or date |
+| Pipino | Dominican Latin reception of the captivity tradition | No separate capture record identified here | ? tradition only |
+| Zelada / Z | Related manuscript family; does not strengthen the Curzola identification without its own text | Manuscript stemmata, not eyewitness evidence | ◇ witness claim, not independent evidence |
+| Ramusio | Marco captured at Curzola in 1298 | Curzola was fought 7 September 1298 and brought prisoners to Genoa | ~ / ◇ later tradition fills a place not named by F |
+| Yule–Cordier | Curzola accepted as the best fit for the received Genoese-captivity story | Curzola chronology and Genoese prisoner roll support context, not Marco's presence | ~ accepted editorial fit, not proven presence |
+
 When Marco Polo walked free again, the Republic’s pride was bruised but its power not broken. The quieter victory belonged to neither fleet. It belonged to a text that would travel farther than Doria’s galleys: through monasteries and courts, onto the desks of cartographers, into the imagination of ages that had not yet named all the oceans they would cross. How much of that witness is eye, how much ear, how much the shaping hand of romance — the notes below begin to weigh, and later chapters will keep weighing as the journey unfolds.
 
 ---

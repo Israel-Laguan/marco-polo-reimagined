@@ -106,6 +106,20 @@ _Created after the gating spikes close. Expected shapes:_
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [17]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+### I-11.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `I-11.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (I-11) Geographic text vs Ramusio:** Create comparison table showing geographic descriptions in the Book versus Ramusio's version. This is part of the cross-chapter comparison for I-7/I-9/I-11. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **Table structure suggestion for I-11 portion:**
+    - Columns: Location/Region, Book description, Ramusio description, Match/Discrepancy, Verdict
+    - Rows: Geographic features specific to I-11 (Lop, Tangut, desert regions, etc.)
+    - Verdict column: reliability/accuracy assessment
+  - **Note:** This table is part of a three-chapter comparison. Coordinate with I-07 and I-09 to ensure consistent structure and coverage.
+  - **S-16 handoff:** S16-E4/E13/E14: Mogao context, pilgrim parallels and Khara-Khoto without asserting direct transmission or Polo's cave visit. Do not treat shared subject matter as proof of Polo's presence.
+  - Anchor the table at the beginning of the geographic description section.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines. Coordinate with I-07.T5 and I-09.T5 for consistency.
+
 ### I-11.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 30 errors · 2 warnings — failing: archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know; warnings: ramusio, sentence

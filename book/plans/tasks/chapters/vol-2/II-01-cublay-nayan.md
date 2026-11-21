@@ -107,6 +107,21 @@ _Created after the gating spikes close. Expected shapes:_
 
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
+### II-01.T5 — Media placement (figures, tables, captions)
+- **Status:** backlog · **Depends:** S-08 ✓, `II-01.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Do:**
+  - **D (II-1) Nayan:** Create comparison table for the Nayan campaign. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
+  - **S-17 research limit (2026-11-11):** The supplied report does **not** establish that the elephant-borne command platform or other color in the Nayan campaign is independently attested. Treat those details as Polo's account until a passage-by-passage *Yuan shi* comparison is checked. The table **must label its witnesses** clearly.
+  - **S-17 priority return:** *Yuan shi* j. 14, 154 and 162 report imperial command, fighting and Li Ting's actions, but do not make the report's Persian elephant-litter passage independently verified. Ensure the table distinguishes between Polo's account and verified *Yuan shi* data.
+  - **Table structure suggestion:**
+    - Columns: Aspect (strategy, forces, elephant platform, outcome), Polo's account, *Yuan shi* account, Other sources, Verdict
+    - Rows: Key elements of the Nayan campaign
+    - Verdict column: reliability assessment
+  - **Critical requirement:** Label the Book's details as its account; do **not** fill an independent-source column from a Polo-derived retelling.
+  - Anchor the table where the Nayan campaign is described.
+  - Write the table in Markdown pipe format as specified in `registry/markdown-conventions.md`.
+- **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines with proper witness labeling.
+
 ### II-01.T6 — Lint green and human read
 - **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 4 warnings — failing: archaism, asides, budgets, recaps, scaffolding, verbatim, you_must_know; warnings: recaps, sentence
