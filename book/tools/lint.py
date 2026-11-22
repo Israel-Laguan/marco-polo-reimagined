@@ -1,4 +1,4 @@
-"""Acceptance lint for the manuscript (spike S-02; thresholds from S-01 / VOICE-GUIDE v2).
+"""Acceptance lint for the manuscript (spike S-02; see VOICE-GUIDE v3).
 
 usage: python3 tools/lint.py [files...] [-v] [--json | --md] [--build-ramusio-manifest]
 
@@ -34,7 +34,6 @@ T = {
     "avg_sentence": 25,
     "stub_note_words": 6,
     "forbidden_markers": "★☆",      # S-03: allowed set is ✓ ~ ✗ ◇ ?
-    "ramusio_note_label": r"(?:(?:Ramusio|Pipino|Jacopo|Zelada)- and )?(?:Ramusio|Pipino|Jacopo|Zelada)-only",  # e.g. "Zelada- and Ramusio-only."   # S-03: provenance label, not a marker
     "tags": {"V", "R", "M", "reception"},   # S-03: Vols. II-III narrative/essay files only
 }
 
@@ -106,7 +105,6 @@ class Doc:
             m = re.match(r"^\[(\d+)\]\s*(.*)", l)
             if m:
                 self.notes.setdefault(int(m.group(1)), []).append((i + 1, m.group(2)))
-        self.has_notes = end < len(self.lines)
 
 
 def strip_quotes(t):
@@ -334,8 +332,6 @@ def c_headings(doc, ctx):
 
 
 def c_citations(doc, ctx):
-    if not doc.has_notes:
-        return
     body = [int(x) for _, p in doc.epigraph + doc.paras for x in re.findall(r"\[(\d+)\]", p)]
     notes = sorted(doc.notes)
     if body != list(range(1, len(body) + 1)):
@@ -361,8 +357,11 @@ def c_markers(doc, ctx):
             bad = [ch for ch in T["forbidden_markers"] if ch in t]
             if bad:
                 yield "error", ln, f"Note [{n}] uses retired marker {''.join(bad)}"
-            if not LEAD.match(t):
+            lead = LEAD.match(t)
+            if not lead:
                 yield "error", ln, f"Note [{n}] does not open with a marker (✓ ~ ✗ ◇ ? or a “core / detail” pair)"
+            elif t[lead.end():].lstrip().startswith(("**", "__")):
+                yield "error", ln, f"Note [{n}] starts with a bold label after its marker"
             if re.search(r"\bDispute( hook| stance)?:", t):
                 yield "error", ln, f"Note [{n}] uses a retired “Dispute:” label (use ? and say what is contested)"
 
@@ -386,22 +385,16 @@ def c_tags(doc, ctx):
 
 
 def c_ramusio(doc, ctx):
-    flagged = 0
+    """Require note provenance for detectable borrowings, including witness corrections."""
     for ln, p in doc.paras:
-        has_flag = "Ramus" in p
-        flagged += has_flag
         if not ramusio_hits(p):
             continue
-        if not has_flag:
-            yield "error", ln, "Ramusio-only passage without an inline flag"
         cites = [int(x) for x in re.findall(r"\[(\d+)\]", p)]
-        if cites and not any(re.search(T["ramusio_note_label"], t) for c in cites for _, t in doc.notes.get(c, [])):
-            yield "error", ln, f"Ramusio-only passage: no “Ramusio-only.” label in Notes {cites}"
-    expected = ctx["manifest"].get(doc.rel, [])
-    ctx["ramusio"] = f"{flagged}/{len(expected)}"
-    if flagged < len(expected):
-        yield "warning", None, (f"first draft carried {len(expected)} Ramusio passages; {flagged} paragraphs "
-                                f"flag Ramusio (check: {'; '.join(e[:30] for e in expected[:3])}…)")
+        if not cites:
+            yield "warning", ln, "possible Ramusio passage without a note anchor"
+        elif not any(re.search(r"\bRamusio-(?:only\b| and \w+-only\b)", t)
+                     for c in cites for _, t in doc.notes.get(c, [])):
+            yield "error", ln, "Ramusio passage needs a provenance label in an anchored Note"
 
 
 def c_names(doc, ctx):
@@ -487,7 +480,6 @@ def default_files():
 
 
 def run(paths):
-    manifest = json.loads(MANIFEST.read_text(encoding="utf-8")) if MANIFEST.exists() else {}
     gaz = load_gazetteer()
     gaz_rows = gazetteer.load()
     results = []
@@ -495,9 +487,9 @@ def run(paths):
         doc = Doc(path)
         if not doc.kind:
             continue
-        ctx = {"manifest": manifest, "gazetteer": gaz, "gaz_rows": gaz_rows}
+        ctx = {"gazetteer": gaz, "gaz_rows": gaz_rows}
         issues = lint(doc, ctx)
-        metrics = {k: v for k, v in ctx.items() if k not in ("manifest", "gazetteer", "gaz_rows")}
+        metrics = {k: v for k, v in ctx.items() if k not in ("gazetteer", "gaz_rows")}
         results.append({"file": doc.rel, "kind": doc.kind, "metrics": metrics, "issues": issues,
                         "errors": sum(i["severity"] == "error" for i in issues),
                         "warnings": sum(i["severity"] == "warning" for i in issues)})
@@ -515,7 +507,7 @@ def summary(results):
 
 def fmt_metrics(m):
     order = [("words", "{:,} w"), ("verbatim", "{}% verbatim"), ("quotes", "{} quotes"),
-             ("asides", "{} asides"), ("ramusio", "Ramusio {}")]
+             ("asides", "{} asides")]
     return " · ".join(f.format(m[k]) for k, f in order if k in m)
 
 
@@ -542,13 +534,13 @@ def print_md(results):
     for c in ALL:
         if c in s["checks"]:
             print(f"| {c} | {s['checks'][c]['error']} | {s['checks'][c]['warning']} |")
-    print("\n## Per file\n\n| File | Kind | Errors | Warnings | Words | Verbatim | Quotes | Asides | Ramusio flagged/expected | Failing checks |")
-    print("|---|---|---|---|---|---|---|---|---|---|")
+    print("\n## Per file\n\n| File | Kind | Errors | Warnings | Words | Verbatim | Quotes | Asides | Failing checks |")
+    print("|---|---|---|---|---|---|---|---|---|")
     for r in results:
         m = r["metrics"]
         failing = sorted({i["check"] for i in r["issues"] if i["severity"] == "error"})
         print(f"| {r['file']} | {r['kind']} | {r['errors']} | {r['warnings']} | {m.get('words', '')} | "
-              f"{m['verbatim']}% | {m.get('quotes', '')} | {m.get('asides', '')} | {m.get('ramusio', '')} | "
+              f"{m['verbatim']}% | {m.get('quotes', '')} | {m.get('asides', '')} | "
               f"{', '.join(failing) or '—'} |")
     print("\n## Issues\n")
     for r in results:

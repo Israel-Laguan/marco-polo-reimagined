@@ -6,16 +6,19 @@
 
 **Updated:** 2026-11-21
 
-- **Pilot gate:** II-2 (*Person & Palace*) remains the approved voice reference and lint-green model.
-- **Batch A — complete:** II-3 *Feasts & Keshican*, II-8 *Mien & Bangala*, and II-4 *The Hunt & the City's Traffic* are re-voiced and pass targeted lint with zero errors and zero warnings.
+[Follow-up chat prompts](next-session-prompts.md#voice-v3-rollout-2026-11-21) cover the series-wide voice pass, the Notes and companions, and illustrations with targeted research.
+
+- **Voice Guide v3 adopted:** [II-3 *Feasts, Robes, and the Twelve Thousand Keshican*](../vol-2/ch-03-feasts-keshican.md) is the approved benchmark. The canonical file matches the approved prototype and passes targeted lint with zero errors and warnings. The prototype's banquet plate, Appendix C and numbered ledger references still need companion matching. For the next apparatus pass, recover the checked distinction between the club-bearing attendants and the tall palace guards in the previous Note 5, and the limit of the witness comparisons in the previous Note 15.
+- **First v3 continuation:** [II-4 *Hunt, Hounds, Litter, and the Traffic of a Million*](../vol-2/ch-04-hunt-traffic.md) bridges from the White Feast to the spring hunt, with claim-level anchors, manuscript provenance in the Notes, and links to the volume companions. The narrator invites the reader into the hunt, singles out the hawk’s label, and stays at the city gates when the court moves on. The outro leads from the silk carts to the summons that opens Achmath’s story. Targeted lint passes with zero errors and warnings (2,012 words, 2% Yule overlap).
+- **Earlier pass:** II-2 was the S-01 pilot. II-3, II-8, and II-4 passed the previous standard in Batch A. II-8 is next in that batch for v3.
 - **Batch B — complete:** II-14 *Fuju & Zayton*, II-10 *Manzi & the Sung*, and II-6 *Pulisanghin & Sindafu* are re-voiced. Each passes targeted lint; II-6 retains the non-blocking place-name warning that “Jiangzhou” is close to “Liangzhou.”
-- **W4 continuation — II-12 complete:** *Kian, Suju, and the Approach to Heaven’s City* is re-voiced, its Mar Sargis reports are distinguished, and its Ramusio additions are flagged. Targeted lint passes with 0 errors and 0 warnings (1,832 words; 3% Yule overlap; Ramusio 2/2); `git diff --check` passes.
-- **W4 continuation — II-1 complete:** *Cublay Kaan: Puissance, Nayan, and the Ordo of Victory* is re-voiced with Nayan’s Temüge Otchigin descent corrected and the Ramusio passages flagged. Targeted lint passes with 0 errors (1,800 words; 2% Yule overlap; Ramusio 4/4); targeted `git diff --check` passes.
-- **W4 continuation — II-11 complete:** *Yanju and Saianfu* is re-voiced with the Polo governorship claim, Nanghin identification, siege chronology, and engine authorship kept distinct. Targeted lint passes with 0 errors and 0 warnings (1,800 words; 2% Yule overlap); targeted `git diff --check` passes.
-- **W4 continuation — II-9 complete:** *Caugigu, Anin, Coloman, Cuiju — and Back* is re-voiced with the southwest identities, distances and tiger-dog set-piece kept as reported. Targeted lint passes with 0 errors and 0 warnings (1,851 words; 2% Yule overlap); targeted `git diff --check` passes.
+- **Earlier W4 pass — II-12 complete:** *Kian, Suju, and the Approach to Heaven’s City* is re-voiced, its Mar Sargis reports are distinguished, and its Ramusio additions are flagged. Targeted lint passes with 0 errors and 0 warnings (1,832 words; 3% Yule overlap; Ramusio 2/2); `git diff --check` passes.
+- **Earlier W4 pass — II-1 complete:** *Cublay Kaan: Puissance, Nayan, and the Ordo of Victory* is re-voiced with Nayan’s Temüge Otchigin descent corrected and the Ramusio passages flagged. Targeted lint passes with 0 errors (1,800 words; 2% Yule overlap; Ramusio 4/4); targeted `git diff --check` passes.
+- **Earlier W4 pass — II-11 complete:** *Yanju and Saianfu* is re-voiced with the Polo governorship claim, Nanghin identification, siege chronology, and engine authorship kept distinct. Targeted lint passes with 0 errors and 0 warnings (1,800 words; 2% Yule overlap); targeted `git diff --check` passes.
+- **Earlier W4 pass — II-9 complete:** *Caugigu, Anin, Coloman, Cuiju — and Back* is re-voiced with the southwest identities, distances and tiger-dog set-piece kept as reported. Targeted lint passes with 0 errors and 0 warnings (1,851 words; 2% Yule overlap); targeted `git diff --check` passes.
 - **Cross-file critical/factual corrections started:** factual corrections applied in II-1, II-10, II-11, II-14, II-15, I-11, I-12, III-3, III-10, and III-12, with III-12 and II-11/court chronology also tightened for provenance and open questions.
-- **Next work:** continue the worst-first W4 order from II-15, II-7, II-13, II-5, and the remaining listed chapters, while preserving and revalidating the existing factual passes.
-- **Definition of current progress:** completed chapters use II-2's storyteller voice, keep Yule overlap at or below 15%, retain the factual/Notes apparatus, and have passed targeted chapter lint.
+- **Next work:** apply v3 to II-8 and use v3 for the next chapters in the worst-first queue (II-15, II-7, II-13, II-5). Preserve and revalidate the existing factual passes.
+- **Completion for v3:** a chapter passes lint and its voice and Notes receive a read against the II-3 benchmark, including a check of the claim at each anchor and each companion reference.
 
 ## Verdict in one paragraph
 
@@ -38,7 +41,7 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 - gazetteer labels match only in label form (`Gazetteer: *visited*`);
 - quotation verification splits at "…" and reports invented vs misquoted;
 - "≤ 2 per scene" is checked per paragraph, because the chapters have no scene breaks;
-- unflagged Ramusio passages are detected by n-gram only while text is near-verbatim. After a re-voice, a warning compares the flag count with the first draft's passages (`tools/ramusio-manifest.json`);
+- v3 checks numeric anchor and Note pairing even if the Notes section is missing, rejects bold labels immediately after a verdict, and looks for provenance in the Notes for near-verbatim Ramusio matches. Unanchored matches are review warnings. Compare paraphrases to the bracketed source and first-draft manifest by hand;
 - place names are checked as warnings only (S-04 closed: aliases exist, so `name_policy` flags bare non-canonical forms and unglossed first mentions; it becomes an error when the last chapter has had its naming pass);
 - people's names follow the same rule and the same check (S-05 closed: `plans/registry/characters.yaml`; warnings tagged *(S-05)*, 120 bare variants in 26 people at close).
 
@@ -118,29 +121,26 @@ Verdicts and sources: `registry/facts.md` (S-06; updated by S-14 on 2026-11-11; 
 - Also open: Badoer’s documentary basis (F-16), the Catalan Atlas and provenance (F-20), exact-site pre-Ming remains at Jiayuguan (F-24), postil dating and Toscanelli (F-19), the Vogel/Haw/Rossabi “pillar” (F-26), Rudrama Devi (F-31).
 - Settled by S-06: the Mongol Empire map is a 1206–1294 animation; caption the 1294 frame (F-25).
 
-### W3 — Ramusio flagging (systemic)
+### W3 — Manuscript provenance in Notes
 
-Yule brackets everything peculiar to Ramusio. About 60 bracketed passages are narrated as plain Book fact. The full list is in each critique's Ramusio section (I-M5, II-M1, III-M7).
-- **Rule (S-03):** a 3–6-word inline flag ("Ramusio's text adds…") plus the label "Ramusio-only." in the Note. The label is provenance and sits beside a reliability marker; ◇ now means only *marvel or hearsay*.
-- **Model:** II-13:53, which opens a wholly Ramusian paragraph honestly.
-- `critique/brackets.txt` in the scratchpad holds the extracted bracket list. Port it into the lint as a check.
+Anchor Ramusio, Pipino, Jacopo d'Acqui, and Zelada additions directly beside the relevant detail. Record the witness and scope in the matching Note, using “Ramusio-only” or the corresponding witness label where supported. The reliability marker gives the verdict and the prose carries the scene.
 
-### W4 — Re-voicing pass (the big one; chapter by chapter)
+Check Yule's brackets, the chapter backlog, and `tools/ramusio-manifest.json`. The manifest is a first-draft audit aid. N-gram detection identifies near-verbatim borrowings. Review paraphrases and the scope of the labels against the source.
 
-This is the work SERIES-STATUS claims is done. **Model: II-2** (S-01 pilot; rules in `VOICE-GUIDE.md` v2). Per chapter:
+### W4 — Re-voicing pass
 
-1. Retell in the storyteller's own words. Keep **1–2 short marked quotations per scene** as flavour (e.g. "Sire! Look out for Cranes!").
-2. Convert every Book first-person line to reported speech or to a marked quotation.
-3. Asides ≤ 80 words. Move lists of named travellers (Gordon, Younghusband, Timkowski…) to Notes.
-4. Vary openers (start on place or action). At most one "Anyway". Close asides by simply resuming.
-5. Cut the closing recap paragraph (≤ 1 forward sentence), and cut mid-chapter "So/Thus X…" restatements. This recovers about 6,000 words across the series.
-6. Apply that chapter's W2 and W3 findings in the same pass, so each chapter is touched once.
-7. The chapter passes lint; then commit.
+**Standard:** [Voice Guide v3](../VOICE-GUIDE.md). **Benchmark:** [II-3, *Feasts, Robes, and the Twelve Thousand Keshican*](../vol-2/ch-03-feasts-keshican.md).
 
-**Order: worst first, in batches of 3–4 chapters per human-read session.** Pilot one chapter for your sign-off on voice before batching (S-01: II-2 approved 2026-10-21; `.T3` tasks written in every narrative chapter file with order and batch):
-- **Pilot — complete:** II-2 *Person & Palace* (80% first-draft verbatim, Ramusio-heavy, at the length ceiling).
-- Then by verbatim share:
-  - Vol. II: II-3 (complete) → II-8 (complete) → II-4 (complete) → II-14 (complete) → II-10 (complete) → II-6 (complete) → II-12 (complete) → II-1 → II-11 → II-9 → II-15 → II-7 → II-13 → II-5.
+1. Keep the exact Yule–Cordier epigraph. Use the first paragraph to pick up a concrete detail from the preceding chapter and take the reader into the new scene with immediate scale, danger, or sensory detail.
+2. Use Marco's eye for trade and practical detail and Rustichello's feel for spectacle. Give the modern narrator Ramusio’s curiosity as an editor and a sense of which details are worth stopping for. Stage catalogues as actions and let the narrator shift the reader’s viewpoint or offer a comparison at natural pauses. Keep the established budgets for verbatim overlap, length, and marked quotations.
+3. Apply W2 factual findings and W3 witness provenance. Put each sequential `[n]` beside its claim. Use an in-scene clause for any correction a listener needs.
+4. Give each anchor one matching Note. Begin with a verdict (✓ ~ ✗ ?) and write two or three sentences of curiosity, witness contrast, or authority and navigation. Give checked citations and send extended debates or definitions to the relevant companion.
+5. End with a short outro that carries a detail into the next chapter’s first event or question. Run targeted lint and read for voice, source fidelity, anchor placement, and companion references. Review in batches of three or four chapters.
+
+**v3 rollout:** II-3 (benchmark promoted) → II-4 (re-voiced) → II-8 (next v3 pass).
+
+**Earlier passes and outstanding order:** II-2 was the S-01 pilot. The earlier Vol. II pass also covered II-14, II-10, II-6, II-12, II-1, II-11, and II-9. Use v3 for the remaining worst-first work:
+  - Vol. II: II-15 → II-7 → II-13 → II-5.
   - Vol. I: I-7 (70%) → I-9 → I-8 → I-5 → I-6 → I-13 → I-10 → I-4 → I-11 → I-3 → I-2.
   - Vol. III: III-4 (77–78%) → III-3 → III-8 → III-6 → III-1 → III-2 → III-7 → III-5 → III-9 → III-10.
 - **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).

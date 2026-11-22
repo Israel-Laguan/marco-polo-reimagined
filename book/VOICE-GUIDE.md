@@ -1,14 +1,18 @@
-# Voice Guide — Marco Polo Retelling (v2)
+# Voice Guide — Marco Polo Retelling (v3)
 
-Use this for every chapter re-voice (content plan W4). v2 replaces v1's list of "typical hinges" with measurable rules. The reference chapter is **II-2 *Person & Palace*** (spike S-01 pilot); the before/after excerpt is in `plans/spikes/S-01-voice-standard.md`.
+Use this guide for every chapter re-voice in [Workstream W4](plans/content-revision-plan.md#w4--re-voicing-pass). The approved benchmark is [II-3, *Feasts, Robes, and the Twelve Thousand Keshican*](vol-2/ch-03-feasts-keshican.md).
 
 ## Core voice
 
-Write as a **storyteller recounting what Marco Polo / *Il Milione* narrates** — not as an epic novelist inhabiting the Middle Ages, not as a dry encyclopedia, and never as the Book itself.
+Tell *Il Milione* in two layers. The main narrative carries the journey, the drama, and the information a listener needs. The Notes and their companions reward a reader who stops to look more closely.
 
-Tone: clear, oral, intelligent, readable. Warm storyteller. Correct, publishable modern English that still sounds spoken. Not slangy, not help-desk, not archaic pastiche, not high-literary third-person epic.
+Let three sensibilities shape the telling:
 
-**Retell, don't transcribe.** Read the Yule passage, close it, and say what happens in your own sentences. Compress catalogues (arsenals, gates, robes, dishes) into one or two sentences that keep every fact and the one detail a listener would repeat. Keep Polo's own judgements ("the greatest Palace that ever was") as his, attributed or quoted, never adopted by the narrator.
+- **Marco, the merchant observer**, notices the price of a sable lining, the names on a hawk's label, and the quantity of silk at the gate.
+- **Rustichello, the chivalric romancer**, gives the court its pageantry, the battles their sweep, and the great arrivals their oral cadence. Use that energy without assigning individual lines or inventions to him without evidence.
+- **The modern narrator** takes after Ramusio as an editor with an eye for the revealing detail. This narrator is generous with the reader, has a weakness for the practical object amid the spectacle, and can say what caught their eye and why. A well-placed “dear reader” invites us closer. Use it where the narrator has something to show us.
+
+Read the source, then retell the scene in your own sentences. Turn catalogues into a sequence of actions with memorable objects and stakes. Give Polo's astonishing figures room to land, attribute them when the scale is doubtful, and put the detailed reckoning in the Notes. Keep important facts and distinctive details through the compression. Invent no speech, itinerary, or private thoughts.
 
 ## Measurable rules
 
@@ -22,9 +26,9 @@ Tone: clear, oral, intelligent, readable. Warm storyteller. Correct, publishable
 | "Anyway" | **≤ 1** per chapter | Never "Anyway, next he mentions X". |
 | Formula hinges ("Marco Polo starts by narrating", "Polo narrates", "According to the book", "next he mentions", "Then Polo describes", "Tradition has it") | **≤ 3** per chapter in total | |
 | Any one attribution verb (says, explains, adds, insists, notes…) | **≤ 4** per chapter | Rotate. Rhetorical "says nothing of" doesn't count. |
-| Asides (paragraphs opening with "—") | **≤ 80 words** each, **≤ 4** per chapter | Lists of later travellers and scholars go to Notes. |
-| Opening recap ("The Book has told…") | **0** | Start in the scene. |
-| Closing recap | **≤ 1 sentence, ≤ 25 words**, forward-looking | Pilot: "Inside these walls the court now comes to life: the feasts, the robes of gold, and the twelve thousand Keshican." |
+| Asides (paragraphs opening with "—") | **≤ 80 words** each, **≤ 4** per chapter | Keep scholarly comparisons and extended disputes in Notes. Use a quick clause in the scene when the reader needs it. |
+| Opening recap ("The Book has told…") | **0** | Carry one concrete detail from the previous chapter straight into the new scene. |
+| Chapter outro | **One short paragraph**, forward-looking | Carry a detail from the closing scene into the next chapter’s first event or question. |
 | Mid-chapter "So/Thus X…" restatement paragraphs | **0** | Merge any identification content into Notes. |
 | Narrative length | **1,800–3,200** words; essay (III-12) **2,500–3,500**; each front/back file **≤ 1,200** | S-07: no relaxation for "long" chapters. Expect a catalogue chapter to shrink 25–40% on re-voice (pilot 3,167 → 1,894). Re-voice first, re-measure, then cut only if still over. Don't pad back to length. Front/back guide: F2 prose ≈ 500, B1 ≈ 800. |
 | Average sentence length | **≤ 25 words** (advisory) | Pilot 22.5; before 29.1; I-1 23.1. |
@@ -35,14 +39,16 @@ Each topic has one home; the topic-by-file matrix is in `plans/spikes/S-07-struc
 
 - **F1 frames.** Background no chapter narrates, the volume's scope in one paragraph, the reader's key (the *How to read this book* box). It names a topic and points forward. It never gives a chapter's verdict.
 - **F2 orients.** Map list, maps, captions, generated place tables, and map cautions about identifications. Routes and circuits are described here, not in F1.
-- **Chapters narrate.** The verdict on a claim sits in the chapter's aside and Note, or in the III-12 ledger for the cross-volume hits and misses.
+- **Chapters narrate.** Chapter Notes give local verdicts. III-12 and its ledger weigh evidence across volumes.
 - **B1 points.** A dispute shortlist, one line each (verdict + chapter and Note, written "see II-11, Note 4": no brackets, S-08), ≤ 40 words; and trivia the chapters' bodies do not tell. No closing summary.
 - **III-10 / III-11 / III-12:** III-10 ends at 1324 and the readers of Marco's lifetime; III-11 tells the reception as events from 1375; III-12 weighs the arguments (home of the Wood debate, the silences, the manuscript families and the series' principles).
 - **No phrase twice** across files.
 
 ## Openers and transitions
 
-Open a chapter, scene or paragraph on something concrete. Rotate among:
+Keep the exact wording of the Yule–Cordier chapter epigraph, including its archaisms. In the first paragraph, pick up an image, place, or action from the previous chapter (or the volume's point of departure) and use it to enter a new scene. Give the reader a glimpse of the new scene's scale, danger, or sensory life before explaining how it works.
+
+Rotate concrete scene and paragraph openers:
 
 1. **The person or thing:** "Cublay Kaan is not drawn as a giant."
 2. **The place:** "Off the north-west corner spreads a lake…"
@@ -54,18 +60,13 @@ Open a chapter, scene or paragraph on something concrete. Rotate among:
 
 No two consecutive paragraphs open with the same two words or the same opener type.
 
-**Leaving an aside:** just resume with the next paragraph. Don't announce the return.
+Compose the scene by choosing where the reader stands and what comes into view next. Move from the lines of huntsmen to the little label on a hawk’s leg, or let the court ride on while the narrator stays at the gates with the merchants. The narrator can use “I” to express a judgment or invite the reader to look. Distinguish their perspective from what Polo saw or heard and from the historical Ramusio’s contributions.
 
-## Ramusio and later layers
+Let the narrator enjoy putting on a show. “Picture this” can open up a view, “If you’ll come this way” can take the reader somewhere else, and “Good heavens” has a place when the roof comes off an elephant litter. A light British turn of phrase can give the voice colour. Let the thing we’re looking at explain an unfamiliar word, as the uniforms of the two hunting parties explain “livery”.
 
-Anything Yule brackets as Ramusio-only gets two things: **a few words in the narrative** and **a label in the Note** (see *Apparatus conventions* below for the full rules). Inline, rotate:
+Give the narrator an occasional short paragraph of their own after a scene or a run of detail. A pause can make a comparison across cultures, let a modern reader picture being there, or show what a detail in a later witness does to the story. In II-4, Ramusio’s mention of gout lets the reader look out from the Kaan’s elephant litter after watching it pass from the ground. Keep the comment close to what the reader just saw and pick up the action in the next paragraph. Leave the longer source argument in the Notes.
 
-- "Ramusio's text adds…" / "Ramusio's version fills in…"
-- "In Ramusio's version…"
-- "(…, Ramusio adds)"
-- "in another Ramusian passage" (continuation only, after an earlier flag in the same chapter)
-
-A wholly Ramusian paragraph opens by saying so (model: II-13 at "So far the older texts…"). The same applies to Pipino, Jacopo d'Acqui and Zelada-Latin-only material, each named.
+Read the next chapter’s opening before writing the outro. Pick up a detail the reader still has in mind and let it lead to the next event or question. II-4 follows the silk through the city gates, then gives us a messenger at night and a minister on his way to the palace. End where the reader has a reason to turn the page.
 
 ## Naming
 
@@ -73,19 +74,15 @@ A wholly Ramusian paragraph opens by saying so (model: II-13 at "So far the olde
 - Book names thereafter, per `gazetteer.csv`.
 - **People** follow the same rule, per `plans/registry/characters.yaml` (S-05): Yule's form where Polo names the person, glossed once (*Cublay (Kublai)*, *Argon (Arghun)*, *Casan (Ghazan)*); the modern form where he does not (*Chabi*, *Bolad*); Europeans in their modern form (*Niccolò*, *Rustichello*). An aside that corrects the Book still uses the book form: "Argon's brother Kiacatu", not "Arghun's brother Geikhatu".
 
-## Inline dispute notes
-
-When something is contested, inaccurate, second-hand, or exaggerated, either correct it in one clause inside the narrative ("Chinese sources count eleven gates") or interrupt with a short aside (≤ 80 words), then simply resume. Don't dump all disputes into a separate "Reliability" table.
-
 ## Apparatus conventions (S-03, closed 2026-10-22)
 
-One system, four parts: **Notes** (numbered, at the chapter's end), **markers** (a verdict on each claim), **tags** (a verdict on the whole chapter) and **Ramusio labels** (where the text comes from). Each answers a different question, and none of them stands in for another.
+One system, four parts: **Notes** (numbered, at the chapter's end), **markers** (a verdict on each claim), **tags** (a verdict on the whole chapter) and **provenance labels** (where the text comes from). Each answers a different question, and none of them stands in for another.
 
 ### Chapter shape
 
-1. Title (+ optional short epigraph: exact Yule wording, or marked *(adapted)*)
+1. Title and exact Yule–Cordier epigraph for the travel narrative. A reception chapter may use a credited epigraph suited to its subject.
 2. Tag line: `**[V]**`, `**[R]**`, `**[M]**` or `**[reception]**` on its own line (Vols. II–III narrative chapters only)
-3. `---`, then continuous storyteller narrative with inline citations [1], [2]…
+3. `---`, then continuous storyteller narrative with inline note anchors.
 4. `## Notes`
 
 ### Reliability markers (Notes only)
@@ -98,7 +95,7 @@ One system, four parts: **Notes** (numbered, at the chapter's end), **markers** 
 | ◇ | marvel or hearsay: wonder-tale, legend or second-hand report, kept as what the Book says |
 | ? | contested: scholars disagree and the evidence does not settle it |
 
-- Markers appear **only in Notes, only at the start of a clause**, never in the narrative.
+- In a v3 Note, open with one verdict (✓ ~ ✗ ?). The wider apparatus retains ◇ for marvel or hearsay and can read the paired markers in earlier Notes. Keep markers out of the narrative.
 - The **★ system is retired** (★★★ → ✓, ★★ → ~, ★ → ?; see the sweep rules below). The old "★ Dispute:" label is retired with it. A contested point takes `?` and a sentence saying what is contested.
 - `~` is a marker only when a space follows it. Write approximations as "about" or "c." ("about 60 miles", never "~60 miles").
 - ◇ means *marvel or hearsay* and nothing else. It does **not** mean Ramusio (see below).
@@ -106,16 +103,23 @@ One system, four parts: **Notes** (numbered, at the chapter's end), **markers** 
 
 ### Notes
 
-1. **One Note per citation, one citation per anchor.** A Note opens with the verdict on the anchored passage: one marker, or a pair "core / detail" when they differ ("✓ / ~ …"). Clauses after it carry their own markers. More than four marker clauses means the anchor is doing too much: split the sentence and add a citation.
-2. Shape: `[n] ✓ The claim in a few words. Evidence and corroboration. Comparative witnesses.` Sources are cited as § Citations below says; no invented page numbers. Where a comparative witness adds evidence, say what that witness reports and give a checked location; use a short quotation only from a cleared public-domain translation, checked against its scan and attributed to that translation. Otherwise paraphrase and cite the edition consulted. Open access alone does not make a translation public domain. Do not treat a parallel account as proof that Polo was present. See `plans/registry/comparanda.md` for checked passages and unresolved leads (S-19).
-3. **No placeholder Notes** ("see [5]", "soft transition", "companion framing only"). A Note that only points to another Note is merged into it and its citation is dropped.
-4. **No duplicate Notes** on one claim: "★ Dispute:" fragments and "Dispute hook / Dispute stance:" labels are merged into the Note they belong to.
-5. **No scaffolding or tooling language** (`/workspace`, gazetteer labels like *visited*, "outline", "drafter"). Facts awaiting verification are marked **To verify (S-06)**.
-6. Every Note opens with a marker. Front and back matter follow the same rule.
+Place each `[n]` immediately after the name, figure, object, or claim it covers, before the prose moves on. For example, “Polo calls them Keshican [1]” and “four companies of three thousand [2]” tell the reader exactly where each Note belongs. Number anchors in reading order and give each one a single matching Note under `## Notes`.
+
+Open with the verdict and write two or three readable sentences about the anchored detail. Skip bolded labels, strings of verdicts, and lists of authorities. Choose the form that suits the claim.
+
+1. **Curiosity.** Explain a word, object, or custom, with a memorable detail that earns the detour.
+2. **Witness contrast.** Say what each witness observed and why the accounts differ or what the comparison can establish.
+3. **Authority and navigation.** Give the verdict and its source, then point to the companion that carries the longer argument.
+
+Use a short, named pointer where it helps. The Glossary (Back Matter II-2) holds terms and identifications. Trivia and Disputes (Back Matter II-1) holds side stories and disputes. Point to a named map or city plan in Front Matter II-2, an available plate, or the relevant appendix, chapter section, or Reliability Ledger entry. The narrative can carry a light visual cue such as `*(see Map A9)*`. Use companion titles and identifiers that the reader can find in the edition.
+
+Use checked locators for comparative witnesses and say what each source actually reports. Paraphrase unless a short quotation is useful and you have checked it against a public-domain translation. See the [comparanda registry](plans/registry/comparanda.md) for checked passages and open leads. A parallel account can support a custom without establishing Polo's presence.
+
+Merge duplicate or stub Notes into the relevant Note and renumber the anchors. Use the research registry for unresolved checks. Keep drafting instructions out of the book.
 
 ### Citations (S-24)
 
-Style: *Chicago Manual of Style*, 18th ed., **author-date**, used inside the Notes only. The narrative body carries nothing but `[n]`.
+Style: *Chicago Manual of Style*, 18th ed., **author-date**, used inside the Notes only. Use `[n]` for source Notes in the narrative.
 
 | What | Write in the Markdown | Prints as |
 |---|---|---|
@@ -148,12 +152,11 @@ Style: *Chicago Manual of Style*, 18th ed., **author-date**, used inside the Not
 
 ### Ramusio and later layers
 
-A passage Yule brackets as Ramusio-only (or Pipino-only, Jacopo-only, Zelada-Latin-only) is flagged in **two places**:
+Integrate vivid details from Ramusio, Pipino, Jacopo d'Acqui, or the Zelada Latin into the scene and place an anchor beside each distinct addition. Name the source in the Note. A sentence about a later witness can appear in the narrative when the witness's role matters to the story.
 
-1. **In the narrative**, a flag of 3–6 words naming the source (variants under *Ramusio and later layers* above). The flag stands at the start of the passage and covers **one contiguous passage**; a second, separate Ramusian detail in the same paragraph needs its own flag. A wholly Ramusian paragraph opens by saying so. Pipino's Latin, Jacopo d'Acqui and the Zelada Latin are named in full; the sigla Z, P and R never appear in prose.
-2. **In the Note**, the label **"Ramusio-only."** (or "Pipino-only.", "Jacopo-only.", "Zelada-only.") directly after the lead marker, followed by the content: `[4] ? Ramusio-only. Carat appraisal of beauty. …`
+Give the Note an accurate provenance label such as “Ramusio-only.” or “Ramusio-only in part,” and explain which detail it applies to. Yule's brackets identify the source of his edition. If a checked witness also carries the passage, narrow the claim to the part unique to the later witness or cite the older text that carries it. A Note may say “Not Ramusio-only” when it identifies and cites that witness. The provenance label and the reliability verdict answer separate questions.
 
-The label is **provenance**, not reliability. It sits beside a reliability marker and never replaces one: Ramusian detail can be ✓ (Kinsay's markets) or ◇ (a marvel). Do not label material Ramusio shares with the older texts. Yule's brackets are the default: they show the source of his edition, not exclusivity across every witness. Where a checked edition shows another witness carries the passage, narrow the label to the witnesses that do ("Zelada- and Ramusio-only."), or, when an older witness carries the core, label only the residue: "Ramusio-only in part: <the details>." followed by what the older witness has (model: I-10, Note 14). Where a checked older witness carries the whole passage, write "Not Ramusio-only: <witness> has it" (model: I-05, Note 3); the Note still records provenance, so the lint's label check holds and say in the Note what the older text has, citing the edition checked (model: III-3, Note 10). Never drop or widen a label without a checked witness, and never edit `tools/ramusio-manifest.json` to make the lint pass.
+For near-verbatim Ramusio matches, lint flags a missing provenance label in the paragraph's Notes and warns when the paragraph has no anchor. Review the bracketed base text and `tools/ramusio-manifest.json` by hand for paraphrases and for the precise scope and placement of each anchor.
 
 ### ★ → marker sweep rules (for `APP.T2`)
 
@@ -172,7 +175,6 @@ The Markdown stays plain; the build (`tools/build/`, S-08 closed 2026-11-10) con
 | Citation | `[n]` plain text, sequential | linked superscript; the `## Notes` list becomes **endnotes per chapter**, printed under *Notes* at the chapter's end with the Markdown's numbers |
 | Marker | literal ✓ ~ ✗ ◇ ? at clause start, each a separate word | one macro sets the five in DejaVu Sans (`~` prints as ∼); the same in tables and the how-to box |
 | Tag line | a paragraph that is only `**[V]**` etc. | small-caps line under the title |
-| Ramusio flag | ordinary words | no markup needed |
 | How-to-read box | `::: howto … :::` (Pandoc fenced div) | ruled box |
 | Source citation | `[@key, locator]` (Pandoc citation) | `biblatex-chicago` (authordate) via `pandoc --biblatex`; base text prints "(YC 2.8)"; one PDF per volume, so *Works cited* and the *Abbreviations* list are per volume with no `refsection` |
 
@@ -189,7 +191,7 @@ The Markdown stays plain; the build (`tools/build/`, S-08 closed 2026-11-10) con
 
 - Working base: Yule–Cordier: Yule's translation, 3rd ed. rev. Cordier (London: John Murray, 1903), with Cordier's *Notes and Addenda* (1920); read in the Project Gutenberg digitisation (eBooks 10636 and 12410, 2004). Eclectic toward the Geographic Old French line.
 - Keep factual coverage from the outline beats; don't invent itinerary or quotations. Every quotation must be findable in `refs/`.
-- Flag Ramusio, Pipino, Jacopo d'Acqui and later embroidery honestly; never absorb them silently as primary fact.
+- Attribute later manuscript layers in the Notes and give uncertain claims an appropriately clear hedge in the narrative.
 - Cite sources as § Citations says (Chicago author-date, keys in `plans/registry/bibliography.bib`); no fabricated page numbers.
 
 ## What to avoid
@@ -204,8 +206,7 @@ The Markdown stays plain; the build (`tools/build/`, S-08 closed 2026-11-10) con
 ## Re-voice checklist (per chapter)
 
 1. Read the backlog file in `plans/tasks/chapters/` and the Yule chapters it covers.
-2. Retell scene by scene; pick at most two quotations per scene.
-3. Apply the chapter's W2 facts and W3 Ramusio flags in the same pass (*Apparatus conventions*).
-4. Cut recaps; merge stub Notes; renumber.
-5. Measure (lint, S-02) against the table above.
-6. Human read: does it sound like II-2? Is any fact, flavour or citation lost?
+2. Verify the epigraph and open on a concrete bridge into the new scene. Retell scene by scene and keep at most two marked quotations per scene.
+3. Apply the W2 factual findings and W3 provenance review. Give claims direct anchors and write their Notes in two or three sentences with checked sources and useful pointers.
+4. Read the narrative aloud for pace, voice, and continuity. Read the outro against the next chapter’s opening. Check the claim at each anchor against its Note and follow each companion pointer.
+5. Run chapter lint and compare the result with II-3 in the human voice read.
