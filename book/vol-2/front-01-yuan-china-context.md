@@ -10,7 +10,7 @@
 **Reading the marks.** Notes open with ✓ corroborated · ~ plausible · ✗ probably wrong · ? contested (◇ marvel or hearsay). Tags: **[V]** mostly seen or done · **[R]** mostly heard · **[M]** both. A provenance label such as “Ramusio-only.” or “Ramusio-only in part.” in a Note identifies material from a later witness and defines its scope. Full key: Volume I, front matter.
 :::
 
-Volume II drops the reader into a different register. Volume I was the road; Volume II is the realm — Cublay Kaan (Kublai), his ordo and palaces, the paper-money and post-horse machine, the western and southwestern circuits, then the rich south the book calls Manzi. Before Polo starts narrating feasts and bridges, a companion pause helps: what kind of China is this, and what horizon is still closing as he watches?
+Volume II drops the reader into a different register. Volume I left Cublay (Kublai) scattering mare’s milk at Chandu; Volume II opens with a kinsman challenging his throne on the steppe, then enters the realm itself — Cublay Kaan, his ordo and palaces, the paper-money and post-horse machine, the western and southwestern circuits, and the rich south the book calls Manzi. Before Polo starts narrating rebellions, feasts, and bridges, a companion pause helps: what kind of China is this, and what horizon is still closing as he watches?
 
 ### Kublai’s China — not “timeless Cathay”
 

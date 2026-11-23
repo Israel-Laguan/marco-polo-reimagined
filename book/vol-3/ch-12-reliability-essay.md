@@ -47,14 +47,14 @@ Place-names pose a parallel puzzle. Many Chinese cities enter the Book in Persia
 
 | Claim | Evidence | Verdict |
 |---|---|---|
-| Yuan paper money and the post | Records and parallels for institutions described in II-5 | ✓ Strong fit at the level of practice |
-| Cargo compartments | Zayton hull in III-1; also limber holes | ✓ Construction supported, perfectly sealed divisions qualified |
-| Yanju office | Textual variants and local context in II-11 | ? The particular office remains unconfirmed |
-| Saianfu engines | Siege accounts and chronology in II-11 | ✗ The Polos’ role clashes with the chronology and named engineers |
-| Kinsay bridge count | Mascherpa’s reported comparison in II-13 | ~ Counts may describe different scopes and dates |
-| Chipangu | Invasions in 1274 and 1281; the golden palace story in III-1 | ✓ Campaigns; ~ the palace as reported wonder |
-| Cocachin | Persian marriage account and Chinese embassy notice in III-9 | ✓ The embassy; ? the role of the Polos |
-| Tea, foot-binding and the Wall | Omissions in different historical circumstances | ? Their force depends on what the traveller could have seen and chosen to tell |
+| Yuan paper money and the post | *Chao* paper-money records, Vogel’s monetary audit, and *yam* relay parallels in [II-5](../vol-2/ch-05-ahmad-paper-coal.md) | ✓ Strong fit at the level of practice |
+| Cargo compartments | Excavated 1974 Quanzhou wreck (twelve bulkheads, thirteen compartments) and Green’s limber-hole study in [III-1](ch-01-ships-chipangu.md) | ✓ Construction supported, perfectly sealed divisions qualified |
+| Yanju office | *Seingneurie* vs. *séjourna* manuscript variants and local *Yuan shi* / gazetteer silence in [II-11](../vol-2/ch-11-yanju-saianfu.md) | ? The particular office remains unconfirmed |
+| Saianfu engines | *Yuan shi* (1268–73 siege, Alawating and Ysemain) and Rashīd al-Dīn against 1275 arrival in [II-11](../vol-2/ch-11-yanju-saianfu.md) | ✗ The Polos’ role clashes with the chronology and named engineers |
+| Kinsay bridge count | Mascherpa’s reported Chinese comparison (347 bridges, 35 *li*) against 12,000 in [II-13](../vol-2/ch-13-kinsay.md) | ~ Counts may describe different scopes and dates |
+| Chipangu | 1274 and 1281 Mongol invasions and Takashima wrecks against Fujian gold-palace rumour in [III-1](ch-01-ships-chipangu.md) | ✓ Campaigns; ~ the palace as reported wonder |
+| Cocachin | Rashīd al-Dīn’s Abhar marriage account and 1290 *Yongle dadian* envoy notice (no Polos named) in [III-9](ch-09-cocachin-return.md) | ✓ The embassy; ? the role of the Polos |
+| Tea, foot-binding and the Wall | Ninth-century tea notices, Odoric on bound feet, and pre-Ming earthen wall chronology across [II-2](../vol-2/ch-02-person-palace.md) and [I-11](../vol-1/ch-11-lop-tangut.md) | ? Their force depends on what the traveller could have seen and chosen to tell |
 
 ### Famous stress-points
 

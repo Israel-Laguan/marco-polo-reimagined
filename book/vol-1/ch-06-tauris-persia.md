@@ -7,9 +7,9 @@
 
 ---
 
-See [the map of the outbound road, I-3](ch-03-second-setting-forth.md#map-of-the-outbound-road).
-
 The silk and gold cloth turns up again in Tauris (Tabriz), and it has company. Imagine taking one of the stones a dealer brings out and holding it where the light from the street strikes it. The Book puts people from Genoa in this market to buy gems and do business in goods that have been brought from India, Baudas (Baghdad) and Cremesor (the Persian Gulf coastlands) [1]. Bernardini traces Genoese merchants in the city from 1280. You can see what brought them this far. How early they had established themselves, and just when Marco himself was in the city, are different questions [2]. The Book cares first about how much a man might make here. It has placed a weaver within reach of a merchant with a bale off the Gulf and a man from overseas with silver in his purse. What would that last man buy to carry away? A stone has the advantage that you can carry a great deal of what it is worth without having to hire another horse. You still have to know what you are looking at when the dealer lays it in your hand.
+
+See [the map of the outbound road, I-3](ch-03-second-setting-forth.md#map-of-the-outbound-road).
 
 Tauris sits in Azerbaijan. The Book puts it in Yrac (Iraq). A clue to how that might happen comes from other writers who called the Persian Mongol sovereign the lord of Iraq. A name could travel with the man whose capital this had become [3].
 

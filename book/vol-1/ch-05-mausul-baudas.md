@@ -7,9 +7,9 @@
 
 ---
 
-See [the map of the outbound road, I-3](ch-03-second-setting-forth.md#map-of-the-outbound-road).
-
 Beyond the south-eastern frontier of Greater Hermenia (Greater Armenia), the Book finds cloth worth carrying a very long way. It calls the country Mausul (Mosul) and uses much the same name for both the traders and the fabrics they take to market [1]. What goes on the packhorse? First the goods you can sell in the next town, then the goods worth taking several towns farther. The Mosolins in Polo’s account deal in pearls and spices as well as silk and cloth of gold. One name, which a buyer might have heard in a shop a long way west of here, gives the Book a way into the country.
+
+See [the map of the outbound road, I-3](ch-03-second-setting-forth.md#map-of-the-outbound-road).
 
 Turn the bale over a moment. There is a question of what the stuff is made of. Polo speaks of silk and gold. Pelliot wondered whether those words had strayed up from the description of what the merchants carry a line later [2]. A buyer would certainly want a closer look. There is another cloth to reckon with here too. The Venetian V version names Mus and Merdin, where people turn abundant cotton into buckram and other fabric, and puts the trading towns under Mongol rule [3]. Around Mausul, the Mongols had already put an end to the old government. The city surrendered in July or August 1262, and its ruler al-Ṣāliḥ Ismāʿīl was taken and later killed [4].
 
