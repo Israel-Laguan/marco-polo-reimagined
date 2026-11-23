@@ -29,7 +29,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[m]** Notes [7] and [21] add nothing (cross-reference / transition stubs). Fix: merge into neighbouring Notes and drop the citations. — vol-2 m9 · ch-04:73, :101; content plan W5
 
 ### Naming and gazetteer
-- **[M]** Cachar Modun (hunting camp) has no gazetteer row; this blocks map A8. — vol-2 M11 · gazetteer.csv
+- **[M]** The gazetteer marks Cachar Modun as unfixed. C17 shows the seasonal sequence without placing the camp on a map. — vol-2 M11 · gazetteer.csv
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-04.T3`.
 
 ### Length and structure
@@ -37,26 +37,26 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Media hooks
 - **Hero plate:** Kublai hunting — **PD**, Liu Guandao, *Khubilai Khan Hunting* (1280), hanging scroll, portrait (S-11; `PLT.II-04`) — see `illustration-plan.md`.
-- **Secondary plates:** GEN "Sire! Look out for Cranes!" from the elephant litter (plan's Vol. II secondaries; critique §4 ★ scene, anchor :33: roof of the timber chamber thrown open, gerfalcon cast, Toscaol watchers in pairs; spring marshes south-east of Dadu). Critique §4 further candidates: red and blue hound corps (:21; caution: 10,000 men per brother inflated); tiger hunt (:15; "label it a tiger").
-- **Maps:** A8 Seasonal orbit (Dadu ↔ Shangdu ↔ Cachar Modun, month labels, 28 August libation; II-4 / I-13).
-- **Timelines / diagrams / tables:** — none assigned. Existing `drawing-chandu-palace.jpg` is suggested for ch-04 by critique §5 ("if not already used in Vol. I ch-13"), but the multimedia plan retires all `drawing-*.png` (wrong style, too small; period errors include "a Renaissance villa at Shangdu").
+- **Secondary plates:** Placed Omont pl. 47, the elephant-litter miniature from fr. 2810, fol. 42v. Earlier GEN proposal: "Sire! Look out for Cranes!" from the elephant litter (plan's Vol. II secondaries; critique §4 ★ scene, anchor :33: roof of the timber chamber thrown open, gerfalcon cast, Toscaol watchers in pairs; spring marshes south-east of Dadu). Critique §4 further candidates: red and blue hound corps (:21; caution: 10,000 men per brother inflated); tiger hunt (:15; "label it a tiger").
+- **Maps:** A9 in II-2 gives the city plan. The seasonal itinerary is diagram C17.
+- **Timelines / diagrams / tables:** C17 seasonal orbit, placed after the return to Cambaluc. Existing `drawing-chandu-palace.jpg` is suggested for ch-04 by critique §5 ("if not already used in Vol. I ch-13"), but the multimedia plan retires all `drawing-*.png` (wrong style, too small; period errors include "a Renaissance villa at Shangdu").
 - **Characters appearing:** Kublai (the Great Kaan), Baian and Mingan (the two brother Masters of the hounds), Marco Polo, Achmath / Ahmad (mentioned)
 
 ## Gated by spikes
 - S-01 Voice standard
 - S-02 Acceptance lint and thresholds
 - S-03 Apparatus conventions (stub Notes, Ramusio flag style)
-- S-04 Gazetteer authority (Cachar Modun; A8)
+- S-04 Gazetteer authority (Cachar Modun; C17)
 - S-05 Character registry (Kublai in PD hero and GEN secondary)
 - S-06 Fact verification sheet (*Milione* name reading, aligned with III-10)
 - S-08 LaTeX build pipeline (plates, map)
-- S-09 Map and diagram pipeline (A8)
+- S-09 Map and diagram pipeline (C17)
 - S-10 ✓ Image generation pilot (GEN secondary)
-- S-11 ✓ Public-domain artwork sourcing and licensing (Liu Guandao: NPM open data, CC BY 4.0; replace the interim master with NPM's 6 MP file)
+- S-11 ✓ Public-domain artwork sourcing and licensing (Liu Guandao: NPM open data, CC BY 4.0; production uses NPM’s full-scroll IIIF photograph PAB)
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-04.T5` Media placement (PD hero, cranes secondary, A8) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
+- `II-04.T5` Placed and print-proofed · media placement (museum hanging scroll, Omont litter miniature, C17) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `II-04.T6` Lint pass and human voice read
 
 ### II-04.T1 — Critical and factual fixes

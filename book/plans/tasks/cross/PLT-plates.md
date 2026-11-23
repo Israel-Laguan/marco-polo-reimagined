@@ -1,6 +1,8 @@
 # PLT — Drawings and plates
 
-**Status:** in progress (3 of 35 GEN heroes done by S-10) · **Plan docs:** `illustration-plan.md`, `illustration-style-guide.md`
+**Status:** 23 of 35 GEN hero slots placed and proofed, including all three S-10 pilots · **Plan docs:** `illustration-plan.md`, `illustration-style-guide.md`
+
+The [placement report](../../status/visual-placement-2026-11-23.md) lists the printed figures and the remaining draft decisions. Generator routes in the table are the original production specifications. The sidecars identify the actual route.
 
 ## Scope
 Event illustrations: 35 generated (GEN) hero plates, 6 public-domain (PD) heroes, about 25 optional secondaries, plus retirement of six legacy illustrations. Cutaway bases for diagrams C12–C16 are produced here and labelled in `DIA`.
@@ -45,41 +47,41 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 
 | Task | Hero scene | Tradition | Fmt | Route | Status |
 |---|---|---|---|---|---|
-| `PLT.I-1` | Marco dictating to Rustichello | Italian Gothic illumination | P | Akool | ready |
-| `PLT.I-3` | "Sire, 'tis my son and your liegeman" | YC | L | Akool | ready |
-| `PLT.I-4` | The quay at Layas | Cilician Armenian illumination | P | Akool, first of its tradition | ready |
-| `PLT.I-5` | Hulagu shuts the Caliph in the treasure tower | LdM marvel lens | P | Akool, first of its tradition | ready |
-| `PLT.I-6` | Marco at the Magi tombs of Saba | Ilkhanid (JT) | L | Gemini chat | ready |
-| `PLT.I-7` | Marco escapes the Caraunas | Ilkhanid (JT) | L | — | **done** (S-10 pilot) |
-| `PLT.I-8` | The Dry Tree alone on the plain | LdM marvel lens | P | Akool, first of its tradition | ready |
-| `PLT.I-9` | The balas-ruby mines under royal seal | Ilkhanid (JT) | L | Gemini chat | ready |
-| `PLT.I-10` | Crossing the Pamier | Persianate (JT) | H | Gemini chat | ready |
-| `PLT.I-11` | Spirit voices in the Lop desert | Dunhuang Mogao murals | L | Akool, first of its tradition | ready |
-| `PLT.I-12` | Cane divination before Chinggis's battle | Ilkhanid (JT) | L | Gemini chat | ready |
-| `PLT.I-13` | Mare's-milk libation leaving Chandu | YC | H | Akool | ready |
-| `PLT.II-1` | Kublai on the elephant tower, Nayan battle | YC (Liu Guandao manner) | H | Akool | ready |
-| `PLT.II-2` | Elephants carry trees up the Green Mount | *jiehua* | H | Akool, first of its tradition | ready |
-| `PLT.II-3` | The White Feast procession | YC | H | Akool | ready |
-| `PLT.II-5` | Printing the Kaan's paper money | Yuan woodblock (*pinghua*) | L | Akool, first of its tradition; check block material for the scene | ready |
-| `PLT.II-6` | Caravan on the Pulisanghin bridge | Yuan landscape / *jiehua* | H | Akool | ready |
-| `PLT.II-7` | Exploding bamboo in the night camp | Dali kingdom scroll | L | Akool, first of its tradition | ready |
-| `PLT.II-8` | Battle of Vochan | Pagan temple murals | L | Akool, first of its tradition | ready |
-| `PLT.II-9` | Two dogs hold a tiger at bay | Dali kingdom scroll | L | Akool, first of its tradition | ready |
-| `PLT.II-10` | Song envoys surrender the seal, 1276 | Southern Song academy | P | Akool | ready |
-| `PLT.II-11` | Counterweight trebuchet at Xiangyang | Ilkhanid (JT siege) | L | Gemini chat | ready |
-| `PLT.II-12` | Trackers haul a junk up the Kiang | Yuan landscape | H | Akool | ready |
-| `PLT.II-13` | Pleasure barges on the West Lake | Song–Yuan city-genre scroll | H | — | **done** (S-10 pilot) |
-| `PLT.II-14` | Zayton harbour: junks unloading pepper | Song–Yuan city-genre scroll | H | Akool | ready |
-| `PLT.II-15` | Aijaruc throws the prince | Ilkhanid (JT) | L | Gemini chat | ready |
-| `PLT.III-2` | Junks lift their rudders in the shoal strait | Javanese temple relief | L | Akool, first of its tradition | ready |
-| `PLT.III-3` | Five months stranded at Samara | Javanese / Sumatran relief | L | Akool, first of its tradition | ready |
-| `PLT.III-4` | Pilgrims on Adam's Peak chains | Polonnaruwa murals | P | Akool, first of its tradition | ready |
-| `PLT.III-5` | Pearl divers and the shark-charmer | Chola temple mural | L | — | **done** (S-10 pilot) |
-| `PLT.III-6` | Corsair cordon off Malabar | Western Indian (Jain) palm-leaf | 4:1 | Akool, first of its tradition | ready |
-| `PLT.III-7` | The rukh carrying off an elephant | Persian *'aja'ib* (Qazwini) | P | Gemini chat, first of its tradition | ready |
-| `PLT.III-8` | The wind-catchers of Hormos | Baghdad school (al-Wasiti) | L | Akool, first of its tradition | ready |
-| `PLT.III-9` | Golden tablets; Cocachin and the fleet | YC (+ Ilkhan court: JT) | H | Akool (YC) + Gemini (JT) | ready |
-| `PLT.III-10` | Jewels ripped from the Tartar coats | Venetian Gothic | P | Akool | ready |
+| `PLT.I-1` | Marco dictating to Rustichello | Italian Gothic illumination | P | Akool | placed and proofed |
+| `PLT.I-3` | "Sire, 'tis my son and your liegeman" | YC | L | Akool | placed and proofed |
+| `PLT.I-4` | The quay at Layas | Cilician Armenian illumination | P | Akool, first of its tradition | placed and proofed |
+| `PLT.I-5` | Hulagu shuts the Caliph in the treasure tower | LdM marvel lens | P | Akool, first of its tradition | draft queued |
+| `PLT.I-6` | Marco at the Magi tombs of Saba | Ilkhanid (JT) | L | Gemini chat | placed and proofed |
+| `PLT.I-7` | Marco escapes the Caraunas | Ilkhanid (JT) | L | — | placed and proofed |
+| `PLT.I-8` | The Dry Tree alone on the plain | LdM marvel lens | P | Akool, first of its tradition | placed and proofed |
+| `PLT.I-9` | The balas-ruby mines under royal seal | Ilkhanid (JT) | L | Gemini chat | draft queued |
+| `PLT.I-10` | Crossing the Pamier | Persianate (JT) | H | Gemini chat | placed and proofed |
+| `PLT.I-11` | Spirit voices in the Lop desert | Dunhuang Mogao murals | L | Akool, first of its tradition | placed and proofed |
+| `PLT.I-12` | Cane divination before Chinggis's battle | Ilkhanid (JT) | L | Gemini chat | draft queued |
+| `PLT.I-13` | Mare's-milk libation leaving Chandu | YC | H | Akool | placed and proofed |
+| `PLT.II-1` | Kublai on the elephant tower, Nayan battle | YC (Liu Guandao manner) | H | Akool | draft queued |
+| `PLT.II-2` | Elephants carry trees up the Green Mount | *jiehua* | H | Akool, first of its tradition | placed and proofed |
+| `PLT.II-3` | The White Feast procession | YC | H | Akool | placed and proofed |
+| `PLT.II-5` | Printing the Kaan's paper money | Yuan woodblock (*pinghua*) | L | Akool, first of its tradition; check block material for the scene | draft queued |
+| `PLT.II-6` | Caravan on the Pulisanghin bridge | Yuan landscape / *jiehua* | H | Akool | draft queued |
+| `PLT.II-7` | Exploding bamboo in the night camp | Dali kingdom scroll | L | Akool, first of its tradition | placed and proofed |
+| `PLT.II-8` | Battle of Vochan | Pagan temple murals | L | Akool, first of its tradition | draft queued |
+| `PLT.II-9` | Two dogs hold a tiger at bay | Dali kingdom scroll | L | Akool, first of its tradition | placed and proofed |
+| `PLT.II-10` | Song envoys surrender the seal, 1276 | Southern Song academy | P | Akool | placed and proofed |
+| `PLT.II-11` | Counterweight trebuchet at Xiangyang | Ilkhanid (JT siege) | L | Gemini chat | draft queued |
+| `PLT.II-12` | Trackers haul a junk up the Kiang | Yuan landscape | H | Akool | placed and proofed |
+| `PLT.II-13` | Pleasure barges on the West Lake | Song–Yuan city-genre scroll | H | — | placed and proofed |
+| `PLT.II-14` | Zayton harbour: junks unloading pepper | Song–Yuan city-genre scroll | H | Akool | placed and proofed |
+| `PLT.II-15` | Aijaruc throws the prince | Ilkhanid (JT) | L | Gemini chat | placed and proofed |
+| `PLT.III-2` | Junks lift their rudders in the shoal strait | Javanese temple relief | L | Akool, first of its tradition | draft queued |
+| `PLT.III-3` | Five months stranded at Samara | Javanese / Sumatran relief | L | Akool, first of its tradition | draft queued |
+| `PLT.III-4` | Pilgrims on Adam's Peak chains | Polonnaruwa murals | P | Akool, first of its tradition | placed and proofed |
+| `PLT.III-5` | Pearl divers and the shark-charmer | Chola temple mural | L | — | placed and proofed |
+| `PLT.III-6` | Corsair cordon off Malabar | Western Indian (Jain) palm-leaf | 4:1 | Akool, first of its tradition | draft queued |
+| `PLT.III-7` | The rukh carrying off an elephant | Persian *'aja'ib* (Qazwini) | P | Gemini chat, first of its tradition | placed and proofed |
+| `PLT.III-8` | The wind-catchers of Hormos | Baghdad school (al-Wasiti) | L | Akool, first of its tradition | draft queued |
+| `PLT.III-9` | Golden tablets; Cocachin and the fleet | YC (+ Ilkhan court: JT) | H | Akool (YC) + Gemini (JT) | placed and proofed |
+| `PLT.III-10` | Jewels ripped from the Tartar coats | Venetian Gothic | P | Akool | placed and proofed |
 
 **No modern reference found (S-23, 2026-11-13):** I-7, I-8, I-9, II-5, II-6, II-7, II-9, III-3, III-4, III-5, III-6, III-7, III-8. These rest on period art and scholarship alone: expect more rounds, as for "first of its tradition". III-5 is already done; review it if a source turns up.
 
@@ -93,32 +95,32 @@ _PD plates (from S-11) are below._
 **Every PD task:** crop the master in `media/public-domain/` to the slot's format and print target (`illustration-style-guide.md` § Resolution); place it with the build's figure line, `![Caption. *(Credit.)*](../media/public-domain/<file>)`, taking caption and credit from `registry/pd-sources.md` § Captions; add an `ATTRIBUTIONS.md` row. **Done when:** the volume build places the figure without a size warning, and the credit matches the holder's required wording.
 
 ### PLT.I-02 — PD: the Polos before Kublai (LdM fol. 2v)
-- **Status:** ready (no BnF licence: user, 2026-11-10)
-- **Do:** place `I-02-alt_omont1907-pl3-fol2v-mono.jpg` as a half-width landscape figure in `vol-1/ch-02-house-of-polo.md`, with the 1907-facsimile credit from `pd-sources.md`. It is 1177 px wide (262 dpi at full width). The build sets every figure at full width (`registry/markdown-conventions.md`), and `tools/build/book.lua` warns under 1350 px whatever width is asked. So: add Pandoc's `{width=60%}` after the image (about 435 dpi), and make `book.lua` scale its 1350 px check by that width, or record the one expected warning here. Add the attribute form to the conventions table either way. If the BL restores Royal 19 D I, f. 59v is a colour option to recheck.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** place `I-02-alt_omont1907-pl3-fol2v-mono.jpg` as a half-width landscape figure in `vol-1/ch-02-house-of-polo.md`, with the 1907-facsimile credit from `pd-sources.md`. It is 1177 px wide (262 dpi at full width). The build sets every figure at full width (`registry/markdown-conventions.md`), and `tools/build/book.lua` warns under 1350 px whatever width is asked. So: add Pandoc's `{width=60%}` after the image (about 435 dpi), and make `book.lua` scale its 1350 px check by that width, or record the one expected warning here. Add the attribute form to the conventions table either way. If the BL restores Royal 19 D I, f. 59v is a colour option to recheck.
 
 ### PLT.II-front — PD: Kublai, Yuan portrait album
-- **Status:** ready
-- **Do:** P frontispiece in `vol-2/front-01-yuan-china-context.md` (or the volume's front page, per S-08). Credit in NPM's CC BY 4.0 form.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** P frontispiece in `vol-2/front-01-yuan-china-context.md` (or the volume's front page, per S-08). Credit in NPM's CC BY 4.0 form.
 
 ### PLT.II-04 — PD: Liu Guandao, *Khubilai Khan Hunting*
-- **Status:** ready
-- **Do:** first replace the interim master with NPM's 6 MP open-data file (digitalarchive.npm.gov.tw; confirm the inventory number there). P, not H: it is a hanging scroll. Place in `vol-2/ch-04-hunt-traffic.md`.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** first replace the interim master with NPM's 6 MP open-data file (digitalarchive.npm.gov.tw; confirm the inventory number there). P, not H: it is a hanging scroll. Place in `vol-2/ch-04-hunt-traffic.md`.
 
 ### PLT.II-05P — PD pairing: Zhiyuan note
-- **Status:** ready
-- **Do:** half-page inset beside the II-5 GEN hero in `vol-2/ch-05-ahmad-paper-coal.md`; crop to the note, or keep the plate if the layout allows. Photographer credit, CC BY-SA 3.0. Do not call the sheet an original note; do not date the individual plate solely from the 1287 issue. The S-17 CUHK catalog describes different bronze blocks (200/500 *wen*), not this 2-*guan* plate.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** half-page inset beside the II-5 GEN hero in `vol-2/ch-05-ahmad-paper-coal.md`; crop to the note, or keep the plate if the layout allows. Photographer credit, CC BY-SA 3.0. Do not call the sheet an original note; do not date the individual plate solely from the 1287 issue. The S-17 CUHK catalog describes different bronze blocks (200/500 *wen*), not this 2-*guan* plate.
 
 ### PLT.III-01 — PD: Suenaga boards a Yuan ship, 1281
-- **Status:** ready
-- **Do:** handscroll spread (2700 × 900) or 2:1 crop from the Kyushu master, in `vol-3/ch-01-ships-chipangu.md`. Optional upgrade: the original via ColBase, if listed there.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** handscroll spread (2700 × 900) or 2:1 crop from the Kyushu master, in `vol-3/ch-01-ships-chipangu.md`. Optional upgrade: the original via ColBase, if listed there.
 
 ### PLT.III-11 — PD: Columbus's copy (postils)
-- **Status:** ready
-- **Do:** crop one page of the Colombina photograph to P, in `vol-3/ch-11-afterlives.md`; the Dibdin woodcut is the alternative. Use the proposed [S-20 caption](../../research/results/S-20-closure.md): notes by Columbus and others, dates uncertain; do not imply pre-1492 use. Confirm crop and photographer credit at production.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** crop one page of the Colombina photograph to P, in `vol-3/ch-11-afterlives.md`; the Dibdin woodcut is the alternative. Use the proposed [S-20 caption](../../research/results/S-20-closure.md): notes by Columbus and others, dates uncertain; do not imply pre-1492 use. Confirm crop and photographer credit at production.
 
 ### PLT.III-12 — PD: the Catalan Atlas caravan
-- **Status:** ready (no BnF licence: user, 2026-11-10)
-- **Do:** H crop of `III-12-alt_loc1959-facsimile-caravan.jpg` (keep the inscription), in `vol-3/ch-12-reliability-essay.md`; credit it as the 1959 facsimile.
+- **Status:** placed and proofed, 2026-11-23
+- **Original brief:** H crop of `III-12-alt_loc1959-facsimile-caravan.jpg` (keep the inscription), in `vol-3/ch-12-reliability-essay.md`; credit it as the 1959 facsimile.
 
 **Priority visual intake, 2026-11-16:** Before I-4 / II-14 / III-3, consult the [updated visual register](../../registry/visual-references.md#2026-11-16-priority-visual-source-intake) for Ayas fortress phases, the excavated Deji Gate and Kota Cina sample limits. For II-4's hunting scroll the NPM now states CC0 / CC BY 4.0 terms for specified files; confirm the exact downloaded file, credit and print resolution before placement. No plate or prompt was changed by the intake.
 

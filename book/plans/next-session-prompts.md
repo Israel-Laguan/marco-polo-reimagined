@@ -1,39 +1,33 @@
 # Prompts for follow-up chats
 
-## Voice v3 rollout (2026-11-21)
+## Follow-up after the v3 rollout
 
-Copy one block into a new chat opened in this repository. Use a workspace that contains the latest Voice Guide and the revised II-3 and II-4. These changes were in the working tree at handoff, so an isolated worktree needs them carried over first.
+The 2026-11-23 revision plan records the voice and apparatus passes across the three volumes. All 52 manuscript files pass lint. Copy one block into a new chat in this repository. Reader review can run alongside media work. Coordinate any edits to a chapter that is also being laid out.
 
-The voice chat can begin with II-8 while the apparatus chat works on II-3 and the companions. The media chat can verify and prepare assets in parallel. Reconcile Note numbers and place figures once the relevant chapter’s narrative is stable.
-
-### 1. Re-voice all remaining chapters
+### 1. Independent reader review
 
 ```text
-Roll out the approved Voice Guide v3 across all three volumes of The Book of the Million. Read book/VOICE-GUIDE.md and W4 in book/plans/content-revision-plan.md. Use book/vol-2/ch-03-feasts-keshican.md for the approved structure and book/vol-2/ch-04-hunt-traffic.md for the latest narrator, scene pauses and outro. Start with book/vol-2/ch-08-mien-bangala.md, then use W4 and the chapter task files to prioritise the rest. Audit chapters already re-voiced under v2 when you reach their volume. Keep the distinct forms of the reception chapters and the closing reliability essay.
+Read The Book of the Million as an independent reader after the v3 rollout. Start with book/VOICE-GUIDE.md and W4 in book/plans/content-revision-plan.md. Use II-3 for the approved chapter structure and II-4 for the later refinements to the narrator. Sample chapters from each volume and read the seams between volumes as well as the chapters themselves.
 
-Read each chapter’s source range, task backlog and checked factual handoffs before rewriting. Carry exact Yule–Cordier epigraph wording, each chapter’s factual corrections and its uncertainty forward. Build scenes around Marco’s mercantile detail, Rustichello’s pageantry and a Ramusio-inspired modern narrator. Give the guide a little showmanship and British diction where it suits the scene. Use invitations like “Picture this” selectively, and let an occasional short aside change the reader’s viewpoint. Open on a concrete link to the preceding chapter. End on an image or question that leads into the next chapter’s actual opening scene.
-
-Keep sequential [n] anchors beside their claims and preserve matching evidence and provenance in the Notes as you move passages. Log companion or source issues for the apparatus chat. Work in batches, run python3 tools/lint.py from book/ on changed chapters, and read neighbouring chapter transitions aloud. Record the chapters revised, targeted lint results and remaining work in W4. The end goal is a voice pass across all three volumes.
+Look for places where the narrator’s invitations feel repeated, a scene needs more room, or an outro sets up a different scene from the next chapter’s opener. Check that Marco’s practical eye, Rustichello’s spectacle, and the modern guide’s voice are distinct. Read III-10 through III-12 on their own terms as reception history and a closing essay. Return a prioritised list of chapter passages and proposed fixes for the editor’s review. A clean lint result establishes that the mechanical checks passed.
 ```
 
-### 2. Revise Notes and companion sections
+### 2. Glossary and remaining apparatus checks
 
 ```text
-Apply the v3 Note architecture across The Book of the Million and reconcile the reader-facing companions. Start with book/VOICE-GUIDE.md, book/FRONT-BACK-MATTER.md, W3 and W5 in book/plans/content-revision-plan.md, the APP and GLO task files under book/plans/tasks/cross/, and book/plans/research/results/footnote-apparatus-models-raw.md. Use current manuscript files to establish what is already present. Start the chapter pass with II-3 and II-4, then move volume by volume as the voice batches settle.
+Continue from W5 in book/plans/content-revision-plan.md and GLO.T2 in book/plans/tasks/cross/GLO-glossary.md. The v3 Notes, companion cross-references, and three volume glossaries have been revised. The representative LaTeX output pairs 28 anchors with 28 Notes in II-3 and 24 with 24 in II-4.
 
-Put each [n] next to the claim it supports and give it one matching Note. Begin with a ✓, ~, ✗ or ? verdict and write two or three readable sentences of curiosity, witness contrast, or authority and navigation. Use the bibliography, comparative witnesses and locator registries to retain checked claims and Chicago author-date citations. Name later witnesses in the Notes and keep the scope of their contribution clear. In II-3, recover the checked distinction between the club-bearing attendants and tall palace guards in the earlier Note 5, and the limits of the witness comparisons in the earlier Note 15. Use the project history and locator registry to recover that evidence.
-
-Give longer material a findable home in the trivia and disputes files, glossaries, maps and city plans, appendices or the reliability essay and ledger. Update the reading key and companion index where the conventions or destinations change. Resolve II-3’s provisional banquet plate, Appendix C and ledger pointers against actual destinations. Decide whether an appendix needs to be created by checking what the existing companions already cover. Verify names against the gazetteer and character registry. Check every edited cross-reference against its current target, lint changed manuscript files, and verify that a representative build pairs each anchor with its endnote. Record remaining source or destination gaps in W5.
+Prepare the pending pronunciation hints in book/plans/registry/glossary-review.md for human read-aloud review. Identify the forms that need a ruling and record actual review decisions in the registry before regenerating the glossaries. Check the Volume III Further reading proposal against the works and audience described in book/FRONT-BACK-MATTER.md. For any source gap listed in W5 that you take up, cite the passage you checked, preserve the existing hedge until the evidence warrants a change, and update the matching Note and locator together. If you edit the apparatus, verify the affected references and run targeted lint. Leave a list of decisions still needed.
 ```
 
-### 3. Add supporting images and research visual gaps
+### 3. Supporting images and targeted visual research
 
 ```text
-Build out the supporting visuals for The Book of the Million. Read book/plans/illustration-plan.md, illustration-style-guide.md, image-generation-guide.md, multimedia-plan.md, and the PLT and MAP tasks under book/plans/tasks/cross/. Inventory the existing plates, maps, diagrams and attributions before choosing what to add. Start in Volume II with II-3’s planned White Feast procession and the banquet plate pointer, and II-4’s existing Liu Guandao hunting scroll and proposed elephant-litter scene. Check which images are already usable and which would help the reader understand a scene or orient themselves. Continue across volumes using the existing priorities.
+Continue the illustration and media pass from book/plans/status/visual-placement-2026-11-23.md. That report documents 36 placements across the three print proofs, the figures and restored map/diagram links, image credits, source findings, inspected spreads, successful volume builds, zero placeholders or undersized-raster warnings, and 49 passing tests. Read its remaining queue and choose the next unresolved item from the PLT and MAP task files.
 
-Prefer verified period artwork or objects with suitable rights. Use historically grounded illustrations where existing material leaves a gap. Use book/plans/registry/pd-sources.md, visual-references.md, the relevant chapter tasks and the S-17, S-22 and S-23 research handoffs before commissioning anything. If a detail would change a composition or caption and the sources leave it open, research that question specifically. Record the source, what it supports, and any uncertainty. Leave a focused spike in book/plans/spikes/ for a question that needs a separate investigation.
+Several draft scenes remain queued where the composition or period detail needs stronger evidence. First check whether the question is covered by the open Samara-camp spike or the existing visual research. For any unresolved detail that would change a caption or composition, record the source, what it supports, and the limit. A focused spike is appropriate when research is still needed.
 
-Place accepted assets using the established conventions and record source, credits, rights and reconstruction status in the appropriate caption and book/media/ATTRIBUTIONS.md. Match plate and map identifiers to what readers can actually find. Coordinate figure placement with the chapter edits, then run a representative book build and inspect the pages for legibility, crop, resolution and captions. Report what was placed, what research changed, and what remains queued.
+For each proposed next placement, verify the asset, rights, caption, chapter anchor and print destination. Add accepted assets using the established conventions, update book/media/ATTRIBUTIONS.md and the relevant chapter task, then update the placement report with printed folio, figure number, effective resolution and proof-check result. Build and inspect the affected volume. Report what was placed and what remains queued.
 ```
 
 ## Earlier handoffs (2026-11-17)

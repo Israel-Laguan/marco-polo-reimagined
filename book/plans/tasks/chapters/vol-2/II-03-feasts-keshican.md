@@ -35,7 +35,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Media hooks
 - **Hero plate:** The White Feast procession — GEN, Yuan court painting, handscroll 3:1; must get right: everyone in white, tribute in nines, a *handful* of elephants and camels; caption: "5,000 elephants" inflated — see `illustration-plan.md`. Anchor ch-03:35 (Mongol *Chaghan sar*; Daming Hall terrace).
-- **Secondary plates:** none in the plan's secondary list. Critique §4 candidates: "Threshold guards" (:21; giants with staves coaching a foreign envoy; *Chuogeng lu*-type guardsmen); "Muffled cupbearers" (:23; Liu Guandao court style for costume).
+- **Secondary plates:** Omont pl. 43 (fr. 2810, fol. 39r) placed beside the seating passage. Critique §4 candidates: "Threshold guards" (:21; giants with staves coaching a foreign envoy; *Chuogeng lu*-type guardsmen); "Muffled cupbearers" (:23; Liu Guandao court style for costume).
 - **Maps:** — none assigned
 - **Timelines / diagrams / tables:** C3 Keshig rota (Polo's 4 × 3,000 × 3-day cycle vs Palladius's 400-man watch, reduced to 100 in 1330).
 - **Characters appearing:** Kublai (the Great Kaan), Marco Polo, Möngke and Güyük (earlier khans, mentioned); travellers discussed: Rubruck, Carpini, Odoric
@@ -56,7 +56,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-03.T5` Media placement (hero, C3) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
+- `II-03.T5` Placed and print-proofed (White Feast reconstruction, Omont banquet miniature, C3) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `II-03.T6` Lint pass and human voice read
 
 ### II-03.T3 — Re-voice to the S-01 standard

@@ -4,7 +4,7 @@ This folder runs the refinement of the manuscript on three fronts: **content**, 
 
 The [2026-11-17 critique follow-up review](status/critique-followup-review-2026-11-17.md) records the targeted fixes, remaining contradictions, and their task owners.
 
-The [follow-up chat prompts](next-session-prompts.md#voice-v3-rollout-2026-11-21) are ready to copy for the v3 voice rollout, Notes and companion revisions, and supporting images and research.
+The [follow-up chat prompts](next-session-prompts.md#follow-up-after-the-v3-rollout) cover independent reader review, remaining glossary and apparatus checks, and supporting images with targeted research.
 
 ## How it works
 

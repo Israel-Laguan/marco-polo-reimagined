@@ -1,29 +1,29 @@
 # Series Status — *The Book of the Million: A Formal Retelling of Marco Polo*
 
-**Updated:** 2026-11-21. See the [planning board](plans/README.md) for current tasks and decisions.
+**Updated:** 2026-11-23. See the [planning board](plans/README.md) for current tasks and decisions.
 
 ## Overall
 
-- **First draft complete.** All 40 numbered chapters are drafted, including the closing reliability essay (III-12), plus nine front and back matter files.
-- **Editorial refinement in progress.** The September 2026 rewrite preceded the [current voice standard](VOICE-GUIDE.md). On 2026-11-21, **7 of 49 manuscript files passed acceptance lint**. The chapter tasks track re-voicing (`.T3`) and human review (`.T6`).
-- **Fact-checking and apparatus in progress.** The [fact registry](plans/registry/facts.md) records verdicts. Source checks and citation corrections continue in the chapter tasks.
-- **Media in progress.** The manuscript embeds edition-made timelines, diagrams and charts alongside legacy maps and generated illustrations. Replacement maps are in development, and plates are at different stages of preparation and review. See the [media credits](media/ATTRIBUTIONS.md) and the [map](plans/tasks/cross/MAP-maps.md), [diagram](plans/tasks/cross/DIA-timelines-diagrams.md), and [plate tasks](plans/tasks/cross/PLT-plates.md).
+- **Voice and Notes.** The v3 editorial pass covers all 40 chapters, including the closing reliability essay (III-12), and the 12 front and back matter files. All **52 manuscript files pass lint with zero errors**. Independent reader review and the human pronunciation review remain open.
+- **Sources and companions.** The Notes, reading keys, glossaries, and companion references have been revised. The [revision plan](plans/content-revision-plan.md#w5--apparatus-normalisation) records remaining source checks and the Volume III *Further reading* proposal.
+- **Media placements.** All three volume proof PDFs now contain 36 newly placed or restored figures. The 23 November placement report records folios, plate numbers, effective resolution, source findings, inspected spreads and the remaining queue. All three PDFs built with zero placeholders and undersized-raster warnings. See the [placement report](plans/status/visual-placement-2026-11-23.md) and the [media credits](media/ATTRIBUTIONS.md) for details.
 
 ## Volumes
 
 | Volume | Title | Files | Status |
 |--------|-------|-------|--------|
-| I | *From Venice to the Khan* | 13 chapters + 3 front/back | Drafted; in refinement |
-| II | *The Realm of Kublai* | 15 chapters + 3 front/back | Drafted; in refinement |
-| III | *Seas, Return, and After* | 12 chapters (III-12 = closing essay) + 3 front/back | Drafted; in refinement |
+| I | *From Venice to the Khan* | 13 chapters + 4 front/back | 17/17 pass lint |
+| II | *The Realm of Kublai* | 15 chapters + 4 front/back | 19/19 pass lint |
+| III | *Seas, Return, and After* | 12 chapters + 4 front/back | 16/16 pass lint |
 
 ## Paths
 
 - Manuscript guides for [Volume I](vol-1/README.md), [Volume II](vol-2/README.md), and [Volume III](vol-3/README.md)
 - [Front and back matter index](FRONT-BACK-MATTER.md)
 - [Gazetteer](gazetteer.csv)
+- [Follow-up chat prompts](plans/next-session-prompts.md#follow-up-after-the-v3-rollout)
 
 ## Notes
 
-- The base text is Yule–Cordier, eclectic toward the Geographic Old French. The apparatus calls for flagging Ramusio-only passages inline and labelling them `Ramusio-only.` in the Notes.
+- The base text is Yule–Cordier, eclectic toward the Geographic Old French. Notes identify later witnesses and the details each one supplies.
 - Chapters in Volumes II and III use `[V]` for what Polo says he saw or did, `[R]` for what he reports hearing, and `[M]` for a mix. III-10 through III-12 use `[reception]`.

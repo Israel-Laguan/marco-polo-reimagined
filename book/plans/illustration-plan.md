@@ -15,6 +15,8 @@ For several events, **a genuine public-domain artwork of that very subject exist
 
 **Count:** 41 hero slots (40 chapters + the Vol. II frontispiece): **35 GEN + 6 PD**, plus about 25 optional secondaries. That is roughly 35–60 plates to commission, plus 5 cutaway bases for the multimedia plan (C12–C16).
 
+The [November placement report](status/visual-placement-2026-11-23.md) records the accepted files, print locations and queued scenes.
+
 ## Hero plates
 
 **Recurring figures (S-05).** Every plate showing a recurring person takes that person's card from `registry/character-cards.yaml`: `tools/characters.py cue <id> <year>` gives the `[PERIOD]` and `[AVOID]` lines. The ages in the "must get right" column come from `tools/characters.py ages` (table in `registry/characters.md` § Plate ages); scenes with figures are listed in the cards file, so the co-presence check covers them.
@@ -53,7 +55,7 @@ Abbreviations:
 | II-1 | Kublai on the elephant-borne tower at the Nayan battle | GEN | YC (Liu Guandao manner) | H | Kublai about 72 and heavy; white *tug* standard; modest host; S-22 cue C3, C5 | Spectacle numbers inflated |
 | II-2 | Elephants carry trees up the Green Mount | GEN | *jiehua* ruled-line architecture | H | Qionghua island, Taiye lake; green-tiled hall; **no Qing White Dagoba** | Polo's vignette |
 | II-3 | The White Feast procession | GEN | YC | H | Everyone in white; tribute in nines; a *handful* of elephants and camels; S-22 cue C1, C2, C8 | "5,000 elephants" inflated |
-| II-4 | Kublai hunting | **PD** | Liu Guandao, *Khubilai Khan Hunting* (1280), a hanging scroll | P | — | Secondary GEN: "Sire! Look out for Cranes!" from the elephant litter |
+| II-4 | Kublai hunting | **PD** | Liu Guandao, *Khubilai Khan Hunting* (1280), a hanging scroll | P | — | Secondary Omont 1907, pl. 47, reproduces the later French elephant-litter scene |
 | II-5 | Printing the Kaan's paper money | GEN | Yuan woodblock (*pinghua*) | L | Mulberry-bark sheets; vermilion seal; clerks; check printing-block material for the scene | Pair with the licensed photo of a Zhiyuan plate and sheet; sheet's age unverified |
 | II-6 | Caravan crossing the Pulisanghin bridge | GEN | Yuan landscape / *jiehua* | H | Jin bridge; verify period-specific arch and lion details | Verify Polo's arch count against the selected witness |
 | II-7 | Green bamboo exploding in the night camp, Tebet marches | GEN | Dali kingdom scroll | L | Hobbled, hooded horses; Kham forest | — |
@@ -97,7 +99,7 @@ Abbreviations:
   - Steppe camp with ger-carts (I-12)
   - Kublai with a leopard on his crupper (I-13)
 - **Vol. II:**
-  - Cranes from the litter (II-4)
+  - The elephant litter (II-4), placed from Omont 1907, pl. 47, after fr. 2810, fol. 42v. Polo supplies the crane and cast.
   - Yam runner with bells (II-5)
   - Roofed bridge market, Sindafu (II-6)
   - Salt-cake money (II-7)
@@ -250,6 +252,6 @@ Eight `[PERIOD]` lines worded from period objects or museum descriptions (not fr
 - **C17 is disproved:** the Lady Wenji scroll (Met 1973.120.3) shows no tent on a cart. The ger-cart rests on Rubruck's text alone; do not use C17.
 - **Rejected cues C9–C20 have been removed from this active table.** Their source descriptions failed intake and must not be used; the [intake](research/results/S-22-followup-intake.md) and raw report preserve the record. A different source or an independently checked object is needed before drafting replacements.
 - **I-5** takes C6 for Mongol court figures only. Verify armour against the S-23 gap-source ledger before drawing it.
-- **II-4** is a PD plate of the painting itself; C4 and C5 serve its secondary GEN scene.
+- **II-4** is a PD plate of the painting itself; the accompanying litter miniature comes from Omont pl. 47. C4 and C5 remain costume and tack comparisons.
 - **III-6** gets no ship cue from C7: it is a Gulf ship, not a west-Indian one. No stitching is visible in C7.
 - **`[AVOID]` candidates**, to adopt with the S-22 use rules: late samurai armour and curved katana in 1274 · the Forbidden City or a yellow-tiled Ming hall for Dadu · the bent-pole Turkic yurt for a Mongol ger · fur-and-leather "barbarian" dress for Mongol nobles · loose hair or tiaras for Mongol court women.

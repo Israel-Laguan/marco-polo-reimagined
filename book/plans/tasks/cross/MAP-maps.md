@@ -85,6 +85,7 @@ S-09 closed 2026-11-10. Every task: write `tools/media/data/<A#>.yaml` (format i
 - **Do:** Kinsay → … → Fuju → Zayton; Tyunju (Dehua?) inset (a second, half-width map: `width: 2.2`). The inset presents Dehua and Tingzhou/Changting as competing references. Kiln evidence attests production without establishing the name. Cuju has no point: text label.
 
 ### MAP.T14 — A14 The Mongol horizon
+- **Placement reconciliation, 2026-11-23:** restored in II-15 beside the introduction to Caidu’s lands. Printed as II.31, p. 178 in this proof.
 - **Status:** generated, proofed and placed · editorial read pending · **Placement:** II-15 · **Depends:** S-09 ✓; `areas:` as A2
 - **Do:** Equal Earth. Ilkhanate, Chagatai and Kaidu, Golden Horde; the Land of Darkness dotted (not in the gazetteer: text label).
 

@@ -57,6 +57,21 @@ See [the map](ch-04-next.md#map-of-the-road).
         self.assertIn(r"\caption{\textbf{Map of the road}. The stages.}\label{map-of-the-road}", latex)
         self.assertNotIn(r"\subsubsection{Map of the road}", latex)
 
+    @unittest.skipUnless(shutil.which("pandoc"), "requires Pandoc")
+    def test_small_facsimile_warns_only_at_full_width(self):
+        asset = "../media/public-domain/I-02-alt_omont1907-pl3-fol2v-mono.jpg"
+        text = (f"![Inset]({asset}){{#fig-omont width=60%}}\n\n"
+                f"See [the inset](ch-02-house-of-polo.md#fig-omont).\n\n"
+                f"![Full width]({asset})\n")
+        result = subprocess.run(
+            ["pandoc", "-t", "latex", "--lua-filter", "tools/build/map-links.lua",
+             "--lua-filter", "tools/build/book.lua"],
+            cwd=BOOK, input=text, text=True, capture_output=True, check=True,
+        )
+        self.assertEqual(result.stderr.count("px wide"), 1)
+        self.assertIn("print needs 1350 px", result.stderr)
+        self.assertIn(r"\hyperref[fig-omont]", result.stdout)
+
 
 if __name__ == "__main__":
     unittest.main()
