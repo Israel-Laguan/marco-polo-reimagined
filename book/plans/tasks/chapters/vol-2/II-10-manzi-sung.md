@@ -1,12 +1,14 @@
 # II-10 — Eastward to Manzi: Canal Cities and the Fall of the Sung
 
-**File:** `vol-2/ch-10-manzi-sung.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-10-manzi-sung.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Claim-level anchor splits (`41` single-verdict Notes, 2–3 sentences each), preserved `F-29` (Bayan 1273–74 / Hankow Jan 1275), `F-45` / `U-1A` (Li Tan 1262 Chinangli revolt, coerced-pardon distinction, Aguil = Aju `YS` 128), both Ramusio Cacanfu flags, and seamless transitions `II-9 -> II-10 -> II-11`. Targeted lint passes (`1,841 w`, `3%` Yule overlap, `E0 W0`).
 
 **U-1A (2026-11-17):** Li Tan's passage and Note 6 now distinguish the annals' pardon for those coerced from Polo's broader pardon and leave the commanders' identities uncertain. The reported 1272 variant was not independently verified; see the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md). Preserve the qualification in re-voice.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,103 | 69% | [M] | 13/13; ★★★ in Note [6]; "Gazetteer:" tooling in [1] | no |
+| 1,841 (pre-v3: 3,103) | 3% (pre-v3: 69%) | [M] | ok (41/41 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

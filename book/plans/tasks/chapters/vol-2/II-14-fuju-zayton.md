@@ -1,10 +1,12 @@
 # II-14 — Fuju, Zayton, and the Haven of the World
 
-**File:** `vol-2/ch-14-fuju-zayton.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-14-fuju-zayton.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Claim-level anchor splits (`38` single-verdict Notes, 2–3 sentences each), preserved `F-12` (`perhaps Dehua`, `@lin2017chinese`), `F-13` (Unken Ramusio *Babylonia* vs Fujian local histories), `F-14` (Quanzhou wreck 12 bulkheads/13 compartments), all Ramusio flags, and handoff into `II-15` Caidu. Targeted lint passes (`1,807 w`, `2%` Yule overlap, `E0 W1` non-blocking `Caidu`/`Caindu` proximity warning).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,648 | 72% | [V/M] (undefined) | 7/7; Note [3] overstated claim (F-13); Note [6] overcorrects; "Gazetteer:" tooling in [5] | no |
+| 1,807 (pre-v3: 2,648) | 2% (pre-v3: 72%) | [M] | ok (38/38 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

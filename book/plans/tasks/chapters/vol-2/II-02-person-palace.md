@@ -1,6 +1,8 @@
 # II-02 — Person, Wives, Sons, and the Palace Inside the Walls
 
-**File:** `vol-2/ch-02-person-palace.md` · **Status:** pilot re-voice approved (S-01 closed); T4–T6 backlog · **Kind:** narrative
+**File:** `vol-2/ch-02-person-palace.md` · **Status:** v3 pass complete (2026-11-23); T4–T6 backlog · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Audited and updated from the S-01 pilot: fixed post-punctuation anchor on chess-board quote (`[41]`), removed bare `Dadu` mention, trimmed `carats` aside to `< 80 w`, and expanded all 47 Notes to 2–3 readable sentences with companion cross-links and Ramusio flags intact. Targeted lint passes (`1,809 w`, `1%` Yule overlap, `E0 W0`).
 
 > **S-01 pilot re-voice written (2026-10-21).** The rewrite applied every backlog item below (voice, Chingkim date, six Ramusio flags plus four more, silences aside, recaps, stub Notes, [V/M] → [M]); measurements are in the spike. Human read approved 2026-10-21. Remaining: S-03/S-06 confirmation of the conventions and facts it assumed.
 >
@@ -8,7 +10,7 @@
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,167 | 80% | [V/M] (undefined) | 20/20; Notes [6], [15] empty stubs | no (at ceiling) |
+| 1,809 (pre-v3: 3,167) | 1% (pre-v3: 80%) | [M] (resolved from [V/M]) | ok (47/47 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

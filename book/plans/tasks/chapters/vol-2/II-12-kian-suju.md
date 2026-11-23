@@ -1,10 +1,12 @@
 # II-12 — Kian, Suju, and the Approach to Heaven's City
 
-**File:** `vol-2/ch-12-kian-suju.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-12-kian-suju.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Full v3 narrative scenes (`37` single-verdict Notes, 2–3 sentences each), kept `F-10` Mar Sarghis reports unmerged (2 churches 1278 vs 7 monasteries with 1279/1281 dates), dropped `N8` tea/Paris line, flagged all Ramusio witness passages, and transitioned smoothly into `II-13` Changan sendal. Targeted lint passes (`1,815 w`, `3%` Yule overlap, `E0 W0`).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,546 | 62% | [V] | ok (9/9); Note [5] under-rated | no |
+| 1,815 (pre-v3: 2,546) | 3% (pre-v3: 62%) | [V] | ok (37/37 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

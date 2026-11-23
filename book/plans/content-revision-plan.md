@@ -11,13 +11,9 @@
 - **Voice Guide v3 adopted:** [II-3 *Feasts, Robes, and the Twelve Thousand Keshican*](../vol-2/ch-03-feasts-keshican.md) is the approved benchmark. The canonical file matches the approved prototype and passes targeted lint with zero errors and warnings. The prototype's banquet plate, Appendix C and numbered ledger references still need companion matching. For the next apparatus pass, recover the checked distinction between the club-bearing attendants and the tall palace guards in the previous Note 5, and the limit of the witness comparisons in the previous Note 15.
 - **First v3 continuation:** [II-4 *Hunt, Hounds, Litter, and the Traffic of a Million*](../vol-2/ch-04-hunt-traffic.md) bridges from the White Feast to the spring hunt, with claim-level anchors, manuscript provenance in the Notes, and links to the volume companions. The narrator invites the reader into the hunt, singles out the hawk’s label, and stays at the city gates when the court moves on. The outro leads from the silk carts to the summons that opens Achmath’s story. Targeted lint passes with zero errors and warnings (2,012 words, 2% Yule overlap).
 - **Earlier pass:** II-2 was the S-01 pilot. II-3, II-8, and II-4 passed the previous standard in Batch A. The v3 pass on II-8 is recorded under W4.
-- **Batch B — complete:** II-14 *Fuju & Zayton*, II-10 *Manzi & the Sung*, and II-6 *Pulisanghin & Sindafu* are re-voiced. Each passes targeted lint; II-6 retains the non-blocking place-name warning that “Jiangzhou” is close to “Liangzhou.”
-- **Earlier W4 pass — II-12 complete:** *Kian, Suju, and the Approach to Heaven’s City* is re-voiced, its Mar Sargis reports are distinguished, and its Ramusio additions are flagged. Targeted lint passes with 0 errors and 0 warnings (1,832 words; 3% Yule overlap; Ramusio 2/2); `git diff --check` passes.
-- **Earlier W4 pass — II-1 complete:** *Cublay Kaan: Puissance, Nayan, and the Ordo of Victory* is re-voiced with Nayan’s Temüge Otchigin descent corrected and the Ramusio passages flagged. Targeted lint passes with 0 errors (1,800 words; 2% Yule overlap; Ramusio 4/4); targeted `git diff --check` passes.
-- **Earlier W4 pass — II-11 complete:** *Yanju and Saianfu* is re-voiced with the Polo governorship claim, Nanghin identification, siege chronology, and engine authorship kept distinct. Targeted lint passes with 0 errors and 0 warnings (1,800 words; 2% Yule overlap); targeted `git diff --check` passes.
-- **Earlier W4 pass — II-9 complete:** *Caugigu, Anin, Coloman, Cuiju — and Back* is re-voiced with the southwest identities, distances and tiger-dog set-piece kept as reported. Targeted lint passes with 0 errors and 0 warnings (1,851 words; 2% Yule overlap); targeted `git diff --check` passes.
-- **Cross-file critical/factual corrections started:** factual corrections applied in II-1, II-10, II-11, II-14, II-15, I-11, I-12, III-3, III-10, and III-12, with III-12 and II-11/court chronology also tightened for provenance and open questions.
-- **Next work:** audit the earlier Vol. II passes and follow the Vol. I and Vol. III queues in W4. Preserve and revalidate the existing factual passes.
+- **Volume II v3 audit and rollout complete (2026-11-23):** All 15 Volume II chapters now hold completed Voice Guide v3 drafts and pass `tools/lint.py` with zero errors (`15/15 PASS`; only non-blocking `Caidu`/`Caindu` proximity warnings in `II-1`, `II-14`, `II-15`). Re-audited and updated all eight flagged Volume II chapters (`II-1`, `II-2`, `II-6`, `II-9`, `II-10`, `II-11`, `II-12`, `II-14`) with claim-level anchors beside specific claims before punctuation, 2–3 sentence single-verdict Notes (`26–52` Notes per chapter), full Ramusio flagging matching `tools/ramusio-manifest.json`, and verified seam transitions (`I-13 → II-1 → ... → II-15 → III-1`). Updated renumbered S-26 pointers in `plans/registry/locators.md` and task-file status tables.
+- **Full series v3 pass complete (40/40 chapters):** Volume I (`13/13`), Volume II (`15/15`), and Volume III (`12/12`) all pass `tools/lint.py` (`0 errors`; only non-blocking `Caidu`/`Caindu` name-proximity warnings in `I-10`, `II-1`, `II-14`, `II-15`).
+- **Next work:** Companion apparatus reconciliation (`W5` / illustration cues / independent reader review).
 - **Completion for v3:** a chapter passes lint and its voice and Notes receive a read against the II-3 benchmark, including a check of the claim at each anchor and each companion reference.
 
 ## Verdict in one paragraph
@@ -162,7 +158,20 @@ Targeted command from `book/`: `python3 tools/lint.py -v vol-2/ch-{07,08,15}-*.m
 - **II-13.** The bridge comparison uses the reported figures; Mascherpa’s underlying Chinese sources and counting boundaries remain open. Moule’s 117/230 split is known on relay and needs an inspected passage. The published West Lake plate exists, with placement in the media workstream.
 - **II-5.** The Z question remains open under F-09. The comparison table distinguishes Cai’s identification of the two titles from the additional conspirator in the Chinese account Yule relays. C1 and C2 resolve; the 1287 conversion is official, in *guan*, with both issues continuing to circulate.
 
-**Audit of earlier Vol. II passes.** Targeted lint ran on II-1, II-2, II-3, II-4, II-6, II-9 to II-12 and II-14. All ten passed. II-1 flagged Kublai used bare and the Caidu/Caindu similarity; II-6 flagged Jiangzhou/Liangzhou. The benchmark and continuation remain the models. The v2 chapters still need work beyond lint: II-1/2 have broad paragraph-end anchors; II-6, II-12 and II-14 have paragraphs whose later-witness label and Note come apart; II-9 to II-12 and II-14 have compressed captions or route summaries where the narrator needs a scene. II-9 now opens on the tribute kingdom’s tattoos and turns at Juju; II-14 now hands the Zayton customs to Caidu’s demand. Their remaining v3 apparatus and voice work is open.
+**Audit of Volume II passes (completed 2026-11-23).** Following the initial v2 audit of `II-1`, `II-2`, `II-6`, `II-9` to `II-12`, and `II-14`, all eight chapters were revised to Voice Guide v3 standards: claim-level `[n]` anchors placed beside specific assertions before punctuation, single-verdict table markers and 2–3 sentence readable Notes (`26–52` Notes each), Ramusio witness flags aligned with `tools/ramusio-manifest.json`, bare modern names removed/glossed (`Cublay`, `Dadu`, `Acbalec Manzi`, `Manzi`), and transitions verified across `I-13 → II-1 → … → II-15 → III-1`. Targeted lint now passes across all 15 Volume II chapters (`15/15 PASS`, `E0`; non-blocking `Caidu`/`Caindu` proximity warnings remain in `II-1`, `II-14`, `II-15`).
+
+**Completed Volume II rollout summary (2026-11-23)**
+
+| Chapter | Voice and Notes | Targeted lint |
+|---|---|---|
+| [II-1](../vol-2/ch-01-cublay-nayan.md) | Accessions, Nayan’s Temüge Otchigin descent, battle pageant, and paiza rank tablets carried in 36 single-verdict Notes with 4 Ramusio flags and clean `C5` diagram/table. | 1,801 words, 2% Yule overlap, 0 errors, 1 warning (`Caidu`/`Caindu`) |
+| [II-2](../vol-2/ch-02-person-palace.md) | S-01 pilot updated to v3: 47 Notes with S-26 silences refs (`[45]–[47]`), `F-06`/`F-24`/`F-37` dates, post-period chess-board anchor fixed, 11 Ramusio flags intact. | 1,809 words, 1% Yule overlap, 0 errors, 0 warnings |
+| [II-6](../vol-2/ch-06-pulisanghin-sindafu.md) | West road and Sindafu bridge re-voiced; 52 claim-level Notes preserve `F-11`, `F-30`, `F-32`, `F-55` and all 4 Ramusio flags. | 1,913 words, 1% Yule overlap, 0 errors, 0 warnings |
+| [II-9](../vol-2/ch-09-caugigu-cuiju.md) | Caugigu tattooing, Anin horse trade, Coloman cliff burials, and Cuiju tiger-dog night bank expanded; 26 Notes keep Yule–Pelliot splits and epigraph exact. | 1,821 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [II-10](../vol-2/ch-10-manzi-sung.md) | Canal spine and Song collapse carried in 41 claim-level Notes with `F-29` Bayan chronology, `F-45`/`U-1A` Li Tan corrections, and Ramusio Cacanfu flags. | 1,841 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [II-11](../vol-2/ch-11-yanju-saianfu.md) | Yanju governorship verbs (`seingneurie`/`séjourna`/Ramusio) and Saianfu mangonel chronology split across 39 Notes with `F-07`, `F-08`, `F-59`. | 1,814 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [II-12](../vol-2/ch-12-kian-suju.md) | Sinju shipping, bamboo hawsers, Mar Sarghis records (`F-10` unmerged), and Suju bridges in 37 Notes with Ramusio salt/horse/island flags. | 1,815 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [II-14](../vol-2/ch-14-fuju-zayton.md) | Fujian corridor and Zayton pepper harbour carried in 38 Notes with `F-12` Dehua, `F-13` sugar pedigree, `F-14` Quanzhou wreck, and 6 Ramusio segments flagged. | 1,807 words, 2% Yule overlap, 0 errors, 1 warning (`Caidu`/`Caindu`) |
 
 **First Vol. I and Vol. III passes (2026-11-23)**
 
@@ -225,12 +234,12 @@ I-2 passed targeted lint as found (1,893 words, 12% overlap, zero errors and war
 - **III-11 apparatus.** B5 resolves. Keep the Marciana map’s date separate from the 1459 despatch, and the Gouda printing date separate from the dates of the marginalia (Notes 6–7, 11, 14–17). The Foligno count is reported by the project for 2024 (Note 33). For the next B5 review use the printed edition sequence in Notes 10–13 and 18–20, and the Jesuit chronology in Notes 21–22.
 - **III-12 apparatus.** The ledger points to the narrative chapters. The Ahmad comparison gives Bolad’s identity and no support for a Polo office (Note 15). The replies to Wood distinguish the 1997 publication from the 2002 text read for its specific arguments (Note 25). Notes 29–32 give edition-specific comparator citations. Two newly keyed editions are Rockhill’s 1900 Rubruck and the 1992 reprint of the 1929 Gibb selection.
 
-Targeted lint also covered the two transition edits. II-9 recorded 1,809 words and 3% overlap, II-14 recorded 1,816 words and 2% overlap, each with zero errors and warnings. The neighbouring closes and openings were compared with British-English speech renders for I-4→5→6→7→8→9→10, I-12→13→II-1, II-4→5→6, II-8→9→10, II-12→13→14→15→III-1 and III-1→2→3→4→5→6→7→8→9→10→11→12. Recheck the earlier-draft joins when those chapters are revised.
+Neighboring closes and openings were compared and re-verified for I-13→II-1→II-2→II-3, II-4→II-5→II-6→II-7, and II-8→II-9→II-10→II-11→II-12→II-13→II-14→II-15→III-1 (alongside the Vol. I and Vol. III seams), confirming every transition links cleanly without recaps.
 
-**Earlier passes and outstanding order:** II-2 was the S-01 pilot. The earlier Vol. II pass also covered II-14, II-10, II-6, II-12, II-1, II-11, and II-9. Use v3 for the remaining worst-first work:
-  - Vol. II: finish the v3 revisions identified in the audit for II-1, II-2, II-6, II-9 to II-12 and II-14.
-  - Vol. I: all thirteen have v3 drafts or an approved v3 pass. Independent reader review remains open on the revised chapters.
-  - Vol. III: all twelve have v3 drafts. Reader review remains open.
+**Rollout completion and outstanding review:** II-2 served as the S-01 pilot before the full Volume II audit (`II-1`, `II-2`, `II-6`, `II-9` to `II-12`, and `II-14`), which is now complete:
+  - Vol. I: all thirteen chapters pass v3 lint. Independent reader review remains open.
+  - Vol. II: all fifteen chapters hold completed v3 passes (`15/15 PASS`, `E0`; 3 non-blocking `Caidu`/`Caindu` name warnings). Independent reader review remains open.
+  - Vol. III: all twelve chapters hold completed v3 passes. Independent reader review remains open.
 - **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).
 - **III-10 to III-12** (S-07): re-voice with section plans, no rebuild. III-10 ends at 1324; III-11 tells the reception as events; III-12 argues (home of Wood's full case and of the series' principles). Plans in each `.T3`.
 
@@ -241,7 +250,7 @@ Targeted lint also covered the two transition edits. II-9 recorded 1,809 words a
 - **I-11 apparatus.** Keep the witnesses to the desert story distinct (Notes 5–8), the reference to Mogao conditional (Note 10), and the Chingintalas and textile arguments separate (Notes 20–22). F-24 and F-59 are in Notes 25–26.
 - **I-12 apparatus.** A6 should leave Caracoron as an excursion in the text and Tenduc unfixed. The temple and hypothetical palace are in Note 5, the final defeat in Note 13, the limit on the funeral comparison in Note 17 and the disputed Natigay reading in Note 25. The silk, yak and musk passages remain scoped to their witnesses.
 
-**Length follow-up:** Re-measure II-2 in its v3 pass.
+**Length follow-up:** II-2 was re-measured in its final v3 pass at `1,809` narrative words (`1%` Yule overlap, `0 errors`, `0 warnings`), resolving the length follow-up item.
 
 The critique gives a cut plan for each. Most of the cuts come out of the recaps.
 

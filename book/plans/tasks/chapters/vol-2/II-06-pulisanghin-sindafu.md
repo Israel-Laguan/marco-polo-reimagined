@@ -1,12 +1,14 @@
 # II-06 — West and Southwest: Pulisanghin to Sindafu
 
-**File:** `vol-2/ch-06-pulisanghin-sindafu.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-06-pulisanghin-sindafu.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Re-voiced dense western corridor catalogue stretches, split stacked paragraph-end anchors into claim-level anchors (`52` Notes, 2–3 sentences each), preserved `F-11`, `F-30`, `F-32`, `F-55`, and all four Ramusio witness flags, and fixed punctuation. Targeted lint passes (`1,913 w`, `1%` Yule overlap, `E0 W0`).
 
 > **2026-11-17 source handoff:** Revisit the stele omission and F-32 without claiming a proven burial date, guaranteed invisibility or exhaustive scholarly consensus. See the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,066 | 64% | [V] | 14/14; ★★ in Note [14]; "Gazetteer:" tooling in [3], [12], [14] | no |
+| 1,913 (pre-v3: 3,066) | 1% (pre-v3: 64%) | [V] | ok (52/52 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

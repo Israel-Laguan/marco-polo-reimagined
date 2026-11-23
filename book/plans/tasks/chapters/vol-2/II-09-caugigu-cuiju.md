@@ -1,10 +1,12 @@
 # II-09 — Caugigu, Anin, Coloman, Cuiju — and Back
 
-**File:** `vol-2/ch-09-caugigu-cuiju.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-09-caugigu-cuiju.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Re-voiced southwest circuit scenes with sensory detail and expanded all 26 Notes to 2–3 readable single-verdict sentences while keeping Yule–Pelliot splits and epigraph fidelity intact; cleared the `1,800` word floor. Targeted lint passes (`1,821 w`, `2%` Yule overlap, `E0 W0`).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,050 | 55% | [R] | 9/9; "★ / ★★" in Note [1]; "Gazetteer:" tooling in [1] | no |
+| 1,821 (pre-v3: 2,050) | 2% (pre-v3: 55%) | [R] | ok (26/26 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

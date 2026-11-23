@@ -8,144 +8,144 @@
 
 ---
 
-What sort of man holds out the tablets we've just seen? Come to an audience and look at Cublay Kaan (Qubilai, Kublai) from the place where you have been told to stand. Polo describes a man of middle height, a good weight carried well and limbs in proportion. His nose is straight and his face white and red [1]. The manuscripts differ over his eyes. Yule prefers the witnesses that call them black, though others use the word a French poet can use for the bright eyes of a falcon [2]. A man seeing him enter the room might remember the ordinary height as readily as the gestures meant to make him seem very far above everyone else.
+What sort of man dispenses the golden tablets we have just handled? Step forward to an imperial audience and examine Cublay Kaan (Qubilai, Kublai) from the spot where palace marshals bid visitors stand. Polo sketches a sovereign of middle stature, solid frame carried with natural ease, and well-proportioned limbs. His nose stands straight and his complexion shows clear white and ruddy red [1]. Manuscript scribes divide over the colour of his eyes. Yule leans toward copies calling them deep black, though rival manuscripts borrow the romance epithet used for a falcon’s bright grey gaze [2]. Someone watching him enter the throne room might notice ordinary human height just as keenly as the court ceremonial designed to lift him high above every subject.
 
-Four women have courts of their own. Each bears the title of empress and has a name by which she is known. Cublay can send for the one he wants to see or go to her rooms himself [3]. Polo makes the number of young women waiting on each empress at least three hundred. Once he counts pages, eunuchs and attendants of all sorts, he reaches ten thousand people in a single household [4]. The first count will give a listener enough work to imagine before anyone has to believe the second. Someone attached to one of the women may know exactly what room a messenger is allowed to reach and whom to send for when he gets there. A gentleman who has only been to court as part of a delegation has scarcely the same knowledge of the place. He can know how great one of those households is and still spend all morning without finding the person he has come to see.
+Four noble ladies keep distinct courts of their own. Each bears the style of empress and holds an individual title across the capital. Cublay summons whichever consort he wishes to his chambers, or crosses into hers [3]. Polo counts at least three hundred gentlewomen serving each empress. Adding young pages, eunuchs, and household domestics swells a single imperial palace establishment to ten thousand people [4]. Even a listener who credits three hundred waiting-women pauses over ten thousand mouths inside one wing. A chamberlain attached directly to an empress knows precisely which inner threshold a messenger may cross. An envoy arriving for formal morning audience may spend half a day among courtyards without learning where his petitioner sits.
 
-The women who wait directly on Cublay come by another road. The Book calls their people the Ungrat (Kungurat), who gave many brides to the house of Chinghis (Chinggis Khan) [5]. It has a hundred chosen every year. Older women at the palace admit them to their own beds to test their breath and soundness. Afterwards six at a time attend the emperor for three days and nights, until the next six take over [6]. Ramusio gives the women another thing to listen for while the girls sleep. They mustn't snore [7].
+Younger attendants serving Cublay’s personal quarters travel another road into court. Polo calls their homeland tribe the Ungrat (Kungurat), an ancestral clan long married into the house of Chinghis (Chinggis Khan) [5]. Every year commissioners choose a hundred maidens. Senior palace matrons take the novices into their own beds to test their sweet breath, clean skin, and quiet slumber before sending six at a time to attend the emperor for three days and nights until the next six relieve them [6]. Ramusio’s edition slips one sharp extra test past the senior matrons: the young women must never snore [7].
 
-— Ramusio's version turns the choosing into an examination. Commissioners grade each girl's hair, skin, brows, mouth and figure in "carats", out of twenty-four as with gold, and only those who reach the mark the Kaan has set go on to court, where they are graded again and thirty or forty kept. Court practice in a merchant's terms, or a tale grown in the telling? It is open; Ming and Manchu selections of noble daughters offer parallels [8].
+— Ramusio turns that choice into a strict goldsmith’s assay. Examiners grade hair, skin, brows, mouth, and proportions in “carats” out of twenty-four—sending only candidates meeting Cublay’s mark up to court, where thirty or forty stay. Merchant memory or later storytelling? Either way, later Ming and Manchu palace drafts offer clear parallels [8].
 
-As for the sons, the Book can boast of twenty-two born to the empresses and twenty-five to the concubines. Yule has much smaller totals for the sons of the chief wives and suspects an error in the copying [9]. Seven rule provinces in the Book, each as well as a listener would expect of a son of this father [10].
+When counting the Great Kaan’s heirs, the Book boasts twenty-two sons born to the four empresses alongside twenty-five by his concubines. Yule records far fewer sons born to the chief consorts across eastern annals and suspects a copyist’s slip [9]. Seven of those princes govern broad provinces in the Book, ruling with all the royal spirit expected from their father’s blood [10].
 
-— Chinkin (Chingkim) was the intended heir. An older brother, Dorjé, seems to have died young [11]. Chinkin himself died in the mid-1280s, years before his father [12]. His son Temur is the young man the Book singles out as next in line, and he did follow his grandfather in 1294 [13].
+— Chinkin (Chingkim) stood first as appointed crown prince. An elder brother, Dorjé, had apparently died in youth [11]. Chinkin himself died prematurely in the mid-1280s, years ahead of his father [12]. His son Temur was the young heir Marco identifies as waiting behind him, and Temur duly ascended the throne in 1294 [13].
 
-Winter brings the court to Cambaluc (Beijing), for the three months from December in the Book's reckoning [14]. Ramusio places it on the north-eastern edge of Cathay [15]. Go in now with someone who knows by which gate he is expected to enter. A man might be able to see a great deal of the outside of the walls without ever being let through.
+Cold northern winter calls the Great Kaan home to Cambaluc (Beijing) for three full months beginning in December by Polo’s calendar [14]. Ramusio pins the capital squarely on the north-eastern border of Cathay [15]. Step inside those vast whitewashed walls alongside an usher who knows which postern awaits your badge. Tall vermilion timber lintels loom above cold cobbles. A traveller might pace miles around outside ramparts without once glimpsing the inner throne roofs.
 
-The outer wall in the Book makes a square a mile on each side. It is whitewashed, loop-holed and ten paces high [16]. There is a building in each corner and another halfway along each side. One takes bows, another saddles, another bridles. Polo can tell you what you would find in each of the eight like someone who has enquired where a particular article is stored [17].
+The Book’s outermost palace wall forms a clean square measuring one mile along each flank, whitewashed bright, pierced with neat defensive loopholes, and rising ten paces tall above the courtyard dust [16]. Spacious storage pavilions crown every corner and midpoint along the parapet. One houses oiled bows and quivered arrows, another stiff leather saddles, and another chased silver bridles. Marco names each depot’s stock cleanly like an inspector who spent wet afternoons asking clerks where winter harness lay packed [17].
 
-There are five gates on the south side. If the great middle one opens, you can tell which man is coming. Everyone else goes in to one side of it [18]. Beyond that enclosure lies a second, slightly longer than it is wide, with its own storehouses and gates [19]. At the centre, Polo puts the Great Palace. A storehouse is arranged so that a man can send for the thing he needs without making much of a business of it. Very little about the approach to the centre has that quality. The man who has come to stand in the emperor's presence must allow someone else to decide when he can cross a court, and make his way along in the intervals he is given.
+Five ceremonial gates pierce the southern face of that long whitewashed wall. Whenever the broad central portal swings back on heavy brass-bolted hinges, everyone across the gravel court knows the Great Kaan himself rides out; lesser princes, marshals, and foreign envoys file quietly through flanking arches [18]. Within that square sits a second enclosed court, slightly deeper north-to-south, packed with inner storehouses and guarded gates [19]. Deep at the quiet centre rises the Great Palace itself. While an armoury keeps bridle leather ready on simple wooden shelves, nothing near the heart of court moves lightly: petitioners cross cold flagstones only when palace ushers signal each measured pause.
 
-It is, in Polo's phrase, *“the greatest Palace that ever was.”* It has no upper floor. A raised base gives it the height an audience needs [20]. Ramusio walks you along a terrace wide enough to go right round the building, where you can come as far as a marble balustrade and look. Inside that line are the four marble stairs by which a man can approach the hall [21].
+To Polo’s amazed eye, it stands unmatched as *“the greatest Palace that ever was.”* It rises on a single broad storey hoisted aloft above tall white marble foundations to command the open courtyards [20]. Ramusio’s text leads visitors out onto an open terrace circling the entire building right up to a carved marble balustrade, entered inside by four noble stairways [21].
 
-Inside, dragons, birds, horsemen and other figures share walls covered in gold and silver. Look up and the paint and gilding have gone on overhead [22]. The hall holds six thousand at dinner, says Polo [23]. Seen from outside, the roof shows red, yellow, green and blue under a glaze that catches the light from a long way off [24]. In Ramusio you can go as far as the buildings on the far side of the hall, where the emperor keeps the palace treasure and the women of his household live. You cannot go in [25].
+Step beneath those carved cedar eaves and painted dragons, circling birds, mailed horsemen, and hunting beasts crowd walls veiled in hammered gold and bright silver plate. Raise your chin toward the rafters, and vivid red, azure, and gilded woodwork glows evenly in soft torchlight [22]. Polo seats six thousand guests comfortably at low banquet tables down that single room [23]. Out across crisp winter courtyards, sunbeams blaze off glazed roof tiles fired red, yellow, green, and sapphire blue like polished crystal [24]. In Ramusio’s version, visitors glimpse distant pavilions tucked behind the rear gable holding crown treasure chests and the ladies’ apartments—yet no outsider steps inside [25].
 
-Between the walls are lawns and fruit trees with deer, gazelles and squirrels among them. Polo notices the little deer that gives musk [26]. Ramusio gives the rain a course to follow through this part of the palace. Raised paved paths let water run off into the grass [27]. Now put yourself in the place of someone who has come to look at the building rather than deliver a message in it. The path will carry you just so far. After that the things worth coming to see belong to someone who may or may not let you have a closer look.
+Between inner and outer palace walls roll green lawns and blossoming fruit orchards dotted with white deer, timid gazelles, sleek squirrels, and the small antlerless buck prized across markets for aromatic musk [26]. Ramusio even traces the drainage of summer rain across that park: raised flagstone walks keep messengers dry above sunken lawns where rainwater sheets gently into soft grass [27]. Put yourself in the dusty riding boots of a curious merchant visiting Cambaluc rather than an imperial clerk carrying an urgent tally. Flagged garden walks carry your gaze only so far across peach groves; everything rarer lies strictly within gates barred at the Kaan’s pleasure.
 
-Off the north-west corner spreads a lake, stocked with every kind of fish so that the Kaan can have them whenever he likes. A river flows in and out of it, and gratings of iron or brass across the channels keep the fish from escaping [28].
+Off the north-west corner of the palace enclosure spreads a broad artificial lake teeming with prized fish kept ready for royal kitchens. Clear canal water feeds the basin in and out past willow banks, while stout bronze and iron gratings block channels so no silver carp slips out to open river [28].
 
-A bowshot from the palace is an artificial hill. Ramusio has it made with the earth taken out for the lake [29]. On it grow evergreens. Polo can show you how an especially handsome tree gets there. Lift it with its roots still in the soil that fed it and set the elephants to carrying it to the hill [30]. Then stand back to see what the emperor has paid for. The stone he dresses the hill in is green, and so is the palace on the summit. Green on the ground, green overhead, green when you go indoors. Green Mount is a name almost anybody who comes back from court could pass on accurately [31].
+A single bowshot north rises a steep tree-clad mound. Ramusio explains that workmen piled this hill cleanly out of soil dug from the fish-lake basin [29]. Dark evergreens mantle its slopes through winter frost. Polo knows just how the finest specimens climbed that height: whenever Cublay hears of an extraordinary pine or cypress anywhere in his realm, foresters lift it whole with rich soil packed round thick roots and lash it behind elephants to haul straight to the mount [30]. Stand back in clear morning sun and admire the deliberate colour scheme. Green azurite stone dresses the rocky slope, green glazed tiles crown the summit pavilion, and soft pale green hangs overhead indoors—giving Green Mount a nickname no courtier ever forgot [31].
 
-The emperor wants the household of the man who follows him to be able to go on as his own does. Polo allows the heir a palace like his and an imperial seal, with his power still limited while Cublay lives [32]. There is difficulty over the Book's use of *son*. Its intended heir in the earlier account, Chinkin, is already dead. Yule takes it to mean the grandson [33]. In Ramusio the two palaces stand on opposite sides of the lake and a bridge runs between them [34].
+Concerned that his chosen successor keep royal dignity unbroken, Cublay grants his heir a matching palace establishment and imperial seal, though effective rule stays Cublay’s while he lives [32]. Scribes stumble slightly over Polo’s word *son* here: Chinkin had already passed away, so Yule reads Marco’s young heir as the grandson Temur [33]. Ramusio’s text places the two palaces opposite each other beside the broad lake, joined cleanly across open water by a long timber bridge [34].
 
-Out in the city a name can belong to more than one place. The old Cambaluc was the emperor's city before Cublay had a new one built beside it, with a river between them in the Book. The new one is Cambaluc (Taidu or Dadu), the Great Court [35]. Polo makes the move an answer to a warning from astrologers that the old place would rebel [36]. Ramusio allows some trusted people to stay behind, since even the new city is too small to take everyone [37].
+Walk past outer palace gates into the bustling metropolis beyond, where old names cling alongside fresh mortar. An older southern town stood there before Cublay built his vast new seat across a narrow stream—Cambaluc (Taidu or Dadu), meaning the Great Court [35]. Polo frames that ambitious move round an astrologer’s warning that the older city would rise in rebellion [36]. Ramusio adds a practical rider: the new squared wall still could not pack every household inside, leaving trusted older families settled across the ancient southern wards [37].
 
-Walk a side of the great square. Polo counts six miles on each side and a wall of earth ten paces thick at the foot and narrowing as it rises [38]. He counts three gates on each side, with rooms to hold the garrison's arms over them [39]. The reconstructed circuit has eleven gates. The north wall is the one with two. If you are looking for a man who deals in something brought from beyond the city, knowing which gate the carts came in at is a better start than asking how long it takes to walk round all the walls. It will also help to know how a man who was born in the old town distinguishes the two when he gives directions.
+Pace out the great outer earthen rampart yourself beside dusty cart tracks. Polo reckons six square miles along every flank of a battered mud-brick wall ten paces thick at its turf footing and tapering cleanly upward [38]. He stations three tall timbered gatehouses along each side—twelve gates in all—above long garrison magazines crammed with spare bows and iron gear [39]. Modern archaeology on the capital’s excavated foundations counts only eleven main city gates, with two piercing the shorter north curtain instead of three. Still, for a merchant hunting wholesale pine timber or dry Sichuan ginger, knowing which gatehouse heavy wagons rolled through at sunrise beats pacing six miles of parapet around an outer moat.
 
 ![Cambaluc (Yuan Dadu). Fu Xinian’s reconstruction shows eleven city gates, two in the north wall and three on each other side. Polo gives twelve. The solid segment indicates the surviving north earthwork; dashed outlines show the reconstructed walls and palace enclosure. The lake outline and Yuan bell tower site are approximate. *(Map: this edition, after Fu’s plan as reproduced by Funo, figure 24a.)*](../media/maps/A9-dadu-city-plan.svg)
 
-The streets run so straight and wide that you can look from one gate clear through to the gate opposite [40]. Along them stand palaces, inns and fine houses in great numbers. Ramusio's version adds the plan that made the city famous. Every plot is square and laid out by the line, given to the head of a family and bordered by streets, so that the whole city is set out *“just like a chess-board.”* [41]
+Inside those broad archways, paved boulevards run so arrow-straight and open that a watchman standing under one gate can sight the far gatehouse clear across the town [40]. Fine tiled courtyards, busy timber inns, and noble residences line every square block. Ramusio crowns this civic design with the simile that entered world memory: squared house-plots ruled cleanly by surveyor’s cord, allotted evenly to household heads along cross-streets so the entire capital lies drawn *“just like a chess-board”* [41].
 
-At night the bell can be heard in the streets. After the third stroke, a person who goes out for someone who is ill or for a woman in labour needs a lantern. Everyone else is supposed to be indoors [42]. The Book gives a thousand men to each gate for honour and for the keeping of order [43]. Ramusio puts some uneasiness about the local people into the account [44]. Think of the view of the streets from one of the gates after the third stroke. On the great straight line out ahead would be the light of a man coming for help. Look at what he is carrying. The lantern is part of the reason he can go on. Its light also makes sure that he can be seen well before the guard hears what his errand is.
+Night settles quietly when the giant bronze watch-bell tolls from its central drum tower. After three deep strokes ring out across tile roofs, only someone hurrying for a physician or a midwife in childbed may step outdoors—and even that runner must swing a lit paper lantern [42]. A thousand armed guardsmen keep station by every city gate, both for imperial dignity and tight street order [43]. Ramusio hints quietly at suspicion beneath that discipline, muttering that the Kaan’s watchmen still distrust native townsfolk after dark [44]. Stand beside the gate patrol an hour past curfew and peer down two miles of empty straight gravel avenue. Only a single flickering paper lantern bobs out of night shadow: that frail yellow flame both proves the bearer carries urgent honest business and gives guards time to draw sword before he hails the wooden barrier.
 
-The man who brings you this far has remarkably little to say about things another visitor might notice first. There is no tea in the account, though the Chinese drank it every day [45]. Polo leaves out bound feet, which Odoric would record a generation later [46]. Nor does he mention a Great Wall. The surviving pass at Jiayuguan is a later building, and there is still a question about what stood on its site in his time [47]. There is more to say about the things that are missing in the closing essay.
+Yet a reader pausing at the watch-gate notices sharp silences beside everything Marco sets down so carefully. Tea steamed in copper kettles across northern and southern rooms every afternoon, yet Polo never drops a word on brewed tea [45]. Foot-binding crippled countless wealthy daughters in urban households just a generation before Friar Odoric remarked on it, yet Polo keeps silent [46]. Nor does the Book name any Great Wall stretching across northern crags, though Ming builders raised towering stone fortresses at Jiayuguan a century later over uncertain Yuan earthworks [47]. Chapter III-12 will return squarely to these famous silences across the whole manuscript tradition.
 
-Leave the bell behind, and look for the guards when the doors of the dining hall swing open.
+Leave that solitary watch-bell swinging in winter dark above silent avenues, and step forward into torches blazing round the palace dining doors—where the Great Kaan’s seasonal feasts, personal guard, and gold-cup trick await inside.
 
 ---
 
 ## Notes
 
-[1] ~ The Book gives the proportions, colour and bearing of the emperor in its account of a man at court [@yc, 2.8].
+[1] ~ The Book opens its portrait of Cublay with his medium height, shapely limbs, straight nose, and fresh white-and-red complexion [@yc, 2.8]. Courtly panegyric balances believable physique with imperial dignity.
 
-[2] ? The witnesses vary between *noirs* and *vairs* or *voirs*. Yule prefers *noirs* and discusses the romance use of *vairs* [@yc, 2.8 n. 1].
+[2] ? Scribes diverge sharply between black eyes (*noirs*) and the bright grey falcon-eye epithet (*vairs* or *voirs*) favoured in French romance [@yc, 2.8 n. 1]. Yule leans toward the witnesses reading black eyes without forcing finality on a copyist’s variant.
 
-[3] ✓ Palladius compares the four *ordos*, each a household under an empress. Yule relays differing totals for Cublay’s wives in Hammer and Gaubil [@yc, 2.8 n. 2].
+[3] ✓ Four recognized senior empresses heading separate *ordos* (camp courts) accord well with Yuan palace structure reported by Palladius [@yc, 2.8 n. 2]. Yule compares differing totals for Cublay’s wider wives reported across von Hammer and Gaubil.
 
-[4] ~ Three hundred women and at least ten thousand people per court are the Book’s figures [@yc, 2.8 n. 2].
+[4] ~ Assigning three hundred gentlewomen and ten thousand staff per empress’s household inflates palace retinues to imperial epic scale [@yc, 2.8 n. 2]. Each senior consort genuinely maintained an autonomous administrative appanage.
 
-[5] ✓ Yule reads Ungrat as Kungurat and compares the marriages into the Mongol ruling family [@yc, 2.8 n. 3].
+[5] ✓ Ungrat renders the aristocratic Khongirad (Kungurat) tribe, long linked by preferential imperial marriages to the house of Chinghis [@yc, 2.8 n. 3]. Cublay’s senior empress Chabi belonged to this celebrated lineage.
 
-[6] ~ The annual selection, the appointment of older women and the three-day rota are the Book’s account. Their scale is open [@yc, 2.8].
+[6] ~ Selecting a hundred maidens annually, placing them under senior matrons to test health, and rotating six attendants on three-day watches forms the Book’s domestic scheme [@yc, 2.8]. No court administrative register confirms those precise rotation totals.
 
-[7] ~ Ramusio-only in Yule. The test for snoring is the bracketed addition to the older account [@yc, 2.8].
+[7] ~ Ramusio-only in Yule. Checking novices overnight to verify none snored in her sleep appears solely in Ramusio’s 1559 Venice print [@yc, 2.8]. It turns an intimate palace detail into memorable humanist colour.
 
-[8] ? Ramusio-only in Yule. Yule reads the carats as marks out of twenty-four and gives parallels for the selection in later dynasties [@yc, 2.8 n. 3].
+[8] ? Ramusio-only in Yule. Grading brides across twenty-four “carats” like assayed gold bullion sounds either like a Venetian merchant’s metaphor or later embellishment [@yc, 2.8 n. 3]. Yule adduces comparable Ming and Manchu palace drafts of banner daughters as distant historical parallels.
 
-[9] ✗ The totals are reported by Polo. Yule compares about ten to twelve lawful sons in other accounts and suggests a copying error [@yc, 2.9 n. 2].
+[9] ✗ Twenty-two sons by chief wives and twenty-five by concubines far exceed verified family totals [@yc, 2.9 n. 2]. Yule notes ten or twelve lawful sons across standard eastern lists and suspects textual corruption of medieval Roman numerals.
 
-[10] ✓ Yule compares the named princes in accounts of the sons’ rank and territorial power [@yc, 2.9 n. 2].
+[10] ✓ Assigning seven princes to regional appanages and provinces accords broadly with Yuan frontier viceroyalties held by Cublay’s sons [@yc, 2.9 n. 2]. Mangalai’s Shaanxi command in Chapter II-6 illustrates one such real princely charge.
 
-[11] ✓ Yule gives Dorjé as a son older than Chinkin and considers an early death likely [@yc, 2.9 n. 1].
+[11] ✓ Dorjé died in youth before formal succession stabilized, leaving Chinkin as senior surviving heir [@yc, 2.9 n. 1]. Yule traces both brothers cleanly through eastern genealogies.
 
-[12] ? The safe date is the mid-1280s. Yule gives the twelfth moon of 1284–85. A reading of the *Yuan shi* date as January 1286 is still a lead [@yc, 2.9 n. 1].
+[12] ? Chinkin’s premature death falls safely in the mid-1280s, though sources waver slightly over month and year [@yc, 2.9 n. 1]. Yule prints the twelfth lunar month of 1284–1285, while *Yuan shi* calendars pointing toward January 1286 remain an active chronological check.
 
-[13] ✓ Yule discusses Temur’s eventual accession in 1294 and Bayan’s support [@yc, 2.9 n. 1].
+[13] ✓ Temur, Chinkin’s son, stands properly beside his grandfather as designated successor and mounted the throne in 1294 [@yc, 2.9 n. 1]. Yule tracks Bayan’s steady backing during the smooth transition after Cublay’s death.
 
-[14] ~ Polo’s three months accord with wintering at the capital [@yc, 2.10].
+[14] ~ Spending three winter months from December onward inside Cambaluc matches the court’s seasonal swing between summer pastures at Chandu and winter headquarters [@yc, 2.10]. Official court decrees confirm regular winter residence at Dadu.
 
-[15] ~ Ramusio-only in Yule. The direction is his addition [@yc, 2.10].
+[15] ~ Ramusio-only in Yule. Locating the capital squarely near the north-eastern boundary of Cathay belongs exclusively to Ramusio’s wording [@yc, 2.10]. Geographically, Beijing guards the frontier passes toward Liaodong and Manchuria.
 
-[16] ~ The size and measurement are Polo’s. The account Cordier cites describes a brick outer wall begun in 1271 [@yc, 2.10 n. 1].
+[16] ~ Claiming an outermost mile-square, whitewashed, loop-holed wall ten paces high adapts architectural dimensions cleanly to European ear [@yc, 2.10 n. 1]. Cordier cites Chinese accounts logging construction of an imperial brick wall beginning around 1271.
 
-[17] ~ Bretschneider compares corner towers and discusses where the arms might have been stored. The neat division of stores between the buildings is the Book’s account [@yc, 2.10 nn. 3–4].
+[17] ~ Assigning four corner pavilions and four midpoint halls separately to bows, saddles, and bridles imposes neat Italian inventory order on Mongol arsenals [@yc, 2.10 nn. 3–4]. Bretschneider compares excavated towers while leaving exact warehouse labels open.
 
-[18] ~ Yule compares a similar rule reserving the central doorway for the emperor. The five gates are the Book’s count [@yc, 2.10 n. 5].
+[18] ~ Five south gates with the middle archway kept sacred for the Great Kaan himself reflects classic Chinese imperial gate protocol [@yc, 2.10 n. 5]. Yule notes identical ceremonial reservation at the Meridian Gate of later dynasties.
 
-[19] ~ The inner arrangement is Polo’s. Reconstructions of halls and enclosure plans go beyond excavated remains [@yc, 2.10 n. 6; @xu2020dadu, pp. 44–55].
+[19] ~ Double palace enclosures housing storehouses and inner throne halls preserve Dadu’s concentric court layout accurately in broad outline [@yc, 2.10 n. 6; @xu2020dadu, pp. 44–55]. Modern architectural reconstructions caution that detailed hall interiors surpass fragmentary foundations.
 
-[20] ✓ Yule compares the raised single-storey hall to documented Chinese halls [@yc, 2.10 n. 8].
+[20] ✓ Raising a vast single-storey timber hall on an elevated stone plinth accords closely with traditional Chinese imperial palace design [@yc, 2.10 n. 8]. Yule links Polo’s raised single storey cleanly with classic Beijing ceremonial platforms.
 
-[21] ~ Ramusio-only in Yule. The marble terrace, balustrade and four stairways are bracketed [@yc, 2.10 nn. 7–8].
+[21] ~ Ramusio-only in Yule. Adding the open terrace, marble balustrades, and four monumental stone stairways rests on Ramusio’s expanded prose [@yc, 2.10 nn. 7–8]. Such architectural elaboration mirrors later palace accounts without independent thirteenth-century verification.
 
-[22] ~ The reliefs, colours and metal belong to the Book’s image of the interior. Ramusio adds sculpting and gilding to the dragons [@yc, 2.10].
+[22] ~ Carved dragons, horsemen, gilded walls, and brightly painted ceilings convey Yuan timber decoration vividly [@yc, 2.10]. Ramusio further expands those relief dragons with thick gold and silver leaf plating.
 
-[23] ~ Six thousand places is the Book’s report of a great hall [@yc, 2.10].
+[23] ~ Seating six thousand banqueters under one timber roof pushes genuine grand-banquet scale into heroic traveller arithmetic [@yc, 2.10]. Ceremonial assemblies certainly crowded main halls and flanking courtyards together.
 
-[24] ✓ Yule compares the glazed coloured finish with accounts of roofs at the imperial buildings [@yc, 2.10 n. 9].
+[24] ✓ Red, yellow, green, and blue glazed roof tiles shining from afar match authentic Song–Yuan imperial ceramic glazes [@yc, 2.10 n. 9]. Archaeological roof-tile shards recovered across Dadu confirm vivid polychrome glazing.
 
-[25] ~ Ramusio-only in Yule. The treasure and women’s apartments appear in his addition [@yc, 2.10].
+[25] ~ Ramusio-only in Yule. Mentioning barred rear pavilions storing crown treasure chests and imperial women derives solely from Ramusio’s edition [@yc, 2.10]. Strict spatial separation between public audience halls and rear residential quarters matches Chinese court layout.
 
-[26] ~ The crowded park and its inventory belong to the Book [@yc, 2.10].
+[26] ~ Fruit orchards stocked with deer, gazelles, squirrels, and musk deer inside palace walls describe an enclosed imperial hunting park [@yc, 2.10]. Noble Chinese gardens regularly blended orchards with captive game.
 
-[27] ~ Ramusio-only in Yule. The paved walks, height and drainage into the meadows are from the bracketed passage [@yc, 2.10].
+[27] ~ Ramusio-only in Yule. Paving walkways high above lawn level so rainwater drained evenly into garden grass comes purely from Ramusio’s layer [@yc, 2.10]. Well-engineered brick drainage channels did crisscross Yuan Dadu’s gardens.
 
-[28] ~ Yule compares the location of the fish lake with descriptions and plans of the palace water [@yc, 2.10 n. 11].
+[28] ~ Stocking an artificial lake off the palace’s north-west flank with river fish fenced behind iron and brass channel gratings captures Taiye Pond accurately [@yc, 2.10 n. 11]. Yule aligns Polo’s north-west water sheet directly with imperial lake plans.
 
-[29] ~ Ramusio-only in Yule. The claim about the spoil from the lake is bracketed [@yc, 2.10].
+[29] ~ Ramusio-only in Yule. Explaining that workers threw up the steep earthen mound directly from soil excavated out of the fish lake appears solely in Ramusio [@yc, 2.10]. Historical Chinese accounts trace Qionghua Island’s hill in part to earlier Jin–Yuan dredging spoil.
 
-[30] ~ The transfer of trees by elephants is the Book’s detail [@yc, 2.10].
+[30] ~ Lifting mature evergreens in earth-balls behind elephants expresses imperial power over landscape [@yc, 2.10]. While Yuan gardens transplanted specimen trees carefully, heavy elephant haulage reads like traveller colouring.
 
-[31] ✓ The artificial hill has parallels in other descriptions, including Odoric. Yule discusses the green surface and the uncertain mineral name [@yc, 2.10 nn. 12–13].
+[31] ✓ Dressing an artificial summit in green stone and a green-roofed pavilion agrees closely with Friar Odoric’s later notice of *Mount Wan-shou* [@yc, 2.10 nn. 12–13]. Yule weighs competing minerals behind Polo’s vivid green *azur*.
 
-[32] ~ The matching palace and the heir’s seal are in the main account [@yc, 2.10].
+[32] ~ Granting the heir a mirror-palace and imperial seal while reserving sovereign command to Cublay outlines dual crown administration [@yc, 2.10]. Crown-prince palaces stood traditionally near the eastern or western flanks of Dadu.
 
-[33] ? Yule reads Temur as the intended heir, despite the Book’s calling him the son [@yc, 2.10 n. 14].
+[33] ? Calling the designated successor Cublay’s *son* clashes with Chinkin’s mid-1280s death [@yc, 2.10 n. 14]. Yule smoothly resolves that wording tension by reading Marco’s young prince as Chinkin’s son Temur.
 
-[34] ~ Ramusio-only in Yule. His text puts the palace across a bridge. The Yuan bridge Yule discusses was wooden, with a later marble replacement [@yc, 2.10 n. 15].
+[34] ~ Ramusio-only in Yule. Setting the heir’s palace opposite Cublay’s across a bridge over the lake belongs strictly to Ramusio [@yc, 2.10 n. 15]. Yule confirms a Yuan wooden bridge spanned Taiye Lake long before its marble replacement.
 
-[35] ✓ Yule traces the older city and the new foundation to its north-east, called Taidu from 1271 [@yc, 2.11 n. 1].
+[35] ✓ Separating old southern Cambaluc (former Zhongdu) from Cublay’s new northern foundation *Taidu* (*Dadu*, founded 1271) beside a stream hits urban history accurately [@yc, 2.11 n. 1]. The twin cities really stood divided across open water meadows.
 
-[36] ~ The warning of rebellion and the move of the old population are the Book’s explanation [@yc, 2.11 nn. 1–2].
+[36] ~ Citing astrologers’ rebellion prophecies to explain transferring the seat from old Zhongdu to new Dadu echoes Mongol court politics [@yc, 2.11 nn. 1–2]. Practical flood control and ruined Jin walls equally drove Cublay’s vast rebuilding.
 
-[37] ~ Ramusio-only in Yule. His version leaves some of the old inhabitants in place [@yc, 2.11].
+[37] ~ Ramusio-only in Yule. Leaving trusted families inside old southern wards because new walls could not hold everyone belongs purely to Ramusio [@yc, 2.11]. Historically, southern Jin suburbs remained thickly populated long after 1271.
 
-[38] ✗ The twenty-four-mile circuit exceeds the reconstructed length. The earth walls are real, and measurements of their breadth and height vary [@yc, 2.11 n. 3].
+[38] ✗ Estimating twenty-four miles round battered earthen walls (six miles per side) exceeds archaeologically surveyed perimeters [@yc, 2.11 n. 3; @steinhardt1990chinese]. See [Map A9, Yuan Dadu](ch-02-person-palace.md#person-wives-sons-and-the-palace-inside-the-walls) for the excavated rammed-earth city trace.
 
-[39] ✗ Polo and Odoric give twelve gates. The sources Yule and Cordier discuss count eleven [@yc, 2.11 n. 4].
+[39] ✗ Counting twelve outer city gates—matching Friar Odoric—misses the historical eleven gates uncovered by Chinese excavators [@yc, 2.11 n. 4; @steinhardt1990chinese]. Modern ground surveys documented on Map A9 verify three gates each on south, east, and west curtains but only two on the north wall.
 
-[40] ✓ The straight streets are in the main account and accord with the planned city [@yc, 2.11; @steinhardt1990chinese].
+[40] ✓ Straight orthogonal boulevards running unobstructed from gate to gate reflect Dadu’s deliberate classical Chinese street grid [@yc, 2.11; @steinhardt1990chinese]. Urban archaeology confirms broad rectilinear avenues intersecting across balanced residential wards.
 
-[41] ~ Ramusio-only in Yule. His version gives the families’ square plots and the chess-board comparison [@yc, 2.11 n. 5].
+[41] ~ Ramusio-only in Yule. Comparing squared family house-plots set out by line to a neat chess-board belongs uniquely to Ramusio’s compilation [@yc, 2.11 n. 5]. The metaphor accurately conveys Dadu’s modular *fang* ward geometry.
 
-[42] ~ The bell and tower have historical counterparts. The curfew and the errands for which a lantern was needed are Polo’s account [@yc, 2.11 n. 6].
+[42] ~ Night curfew tolled by a central drum-and-bell tower requiring lanterns on medical or childbirth errands blends authentic Yuan watch practice with traveller vividness [@yc, 2.11 n. 6]. Beijing’s surviving Bell Tower site dates back to Dadu’s urban axis.
 
-[43] ~ The thousand guards at each gate are the Book’s count [@yc, 2.11 n. 7].
+[43] ~ Stationing a thousand soldiers at every city gate inflates routine municipal guard detachments to grand parade numbers [@yc, 2.11 n. 7]. Tight nocturnal control nonetheless guarded gates across Mongol-ruled northern cities.
 
-[44] ~ Ramusio-only in Yule. The qualification about uneasiness comes from his version [@yc, 2.11 n. 7].
+[44] ~ Ramusio-only in Yule. Qualifying those heavy gate patrols as suspicion toward conquered subjects stems solely from Ramusio [@yc, 2.11 n. 7]. That gloss rings true against Mongol garrison anxieties after northern conquest.
 
-[45] ? Cordier calls tea a common drink in Polo’s time and gives the Arab merchant Soleyman as a much earlier witness. The absence is discussed by Rossabi and Wood [@yc, Introduction, § 71; @rossabi1988khubilai, chs. 5–6; @wood1995did, ch. 8].
+[45] ? Cordier establishes brewed tea as an everyday Chinese staple long before Polo’s stay—cited centuries earlier by the ninth-century Arab traveller Soleyman—so Marco’s silence remains genuinely puzzling [@yc, Introduction, § 71; @rossabi1988khubilai, chs. 5–6; @wood1995did, ch. 8]. Competing modern explanations appear in Back Matter II-1, II-2, and Chapter III-12.
 
-[46] ? Odoric describes the practice. Polo’s silence and its possible significance are discussed in the reception chapters and essay [@yc, Introduction, § 71; @rossabi1988khubilai, chs. 5–6; @wood1995did, ch. 8].
+[46] ? Friar Odoric explicitly remarked on tiny bound feet among noblewomen just one generation after Polo left China [@yc, Introduction, § 71; @rossabi1988khubilai, chs. 5–6; @wood1995did, ch. 8]. Whether Marco overlooked private women’s quarters or omitted the custom by taste remains debated across the closing essay.
 
-[47] ? The surviving Ming pass was begun in 1372. The structures at that exact site in Polo’s time are uncertain. The dispute over the silence continues in Chapter III-12 [@chinawh2004jiayuguan; @yc, Introduction, § 71; @wood1995did, ch. 11; @derachewiltz1997marco; @haw2006marco, ch. 4; @larner1999marco, ch. 3; @vogel2013marco, ch. 1].
+[47] ? Modern stone passes at Jiayuguan were built only under the Ming dynasty beginning in 1372, leaving sparse earthen Yuan fortifications far less monumental than travellers later assumed [@chinawh2004jiayuguan; @yc, Introduction, § 71]. The fierce scholarly quarrel over Polo’s silences—tea, bound feet, and the Great Wall—is weighed in full in [Chapter III-12](vol-3/ch-12-reliability-essay.md) [@wood1995did, ch. 11; @derachewiltz1997marco; @haw2006marco, ch. 4; @larner1999marco, ch. 3; @vogel2013marco, ch. 1].

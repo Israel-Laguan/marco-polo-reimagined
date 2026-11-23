@@ -1,10 +1,12 @@
 # II-01 — Cublay Kaan: Puissance, Nayan, and the Ordo of Victory
 
-**File:** `vol-2/ch-01-cublay-nayan.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-01-cublay-nayan.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Claim-level anchor splits across dates, Caidu coalition, battle scale/capture, four provinces, and victory rewards; Nayan table reduced to single verdicts; all 36 Notes expanded to 2–3 sentences with all four Ramusio passages marked. Targeted lint passes (`1,801 w`, `2%` Yule overlap, `E0 W1` non-blocking `Caidu`/`Caindu` proximity warning).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,082 | 61% | [M] | ok (19/19); Note [1] "Soft landing" stub | no |
+| 1,801 (pre-v3: 3,082) | 2% (pre-v3: 61%) | [M] | ok (36/36 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 

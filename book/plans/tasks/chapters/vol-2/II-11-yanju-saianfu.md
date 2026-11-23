@@ -1,10 +1,12 @@
 # II-11 — Yanju and Saianfu: Governorship Claim and the Mangonel Story
 
-**File:** `vol-2/ch-11-yanju-saianfu.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-11-yanju-saianfu.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+> **Voice Guide v3 pass (2026-11-23):** Claim-level anchor splits (`39` single-verdict Notes, 2–3 sentences each), preserved `F-07` (Abaga/Miafarakain-Herat vs Parker Mausul-Serazy, 1268–Mar 1273 vs May 1275), `F-08` (no 1282 Bolad anchor), `F-59` (Vilioni 1342/1344 gravestones, *seingneurie*/*séjourna*/*absent baron* table), Pelliot Nanghin = Kaifeng, and *Yuan shi*/Rashīd al-Dīn citations. Targeted lint passes (`1,814 w`, `2%` Yule overlap, `E0 W0`).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,550 | 57% | [M] | 11/11; Note [5] ★★★ contradicts text and rests on the Bolad error | no |
+| 1,814 (pre-v3: 2,550) | 2% (pre-v3: 57%) | [M] | ok (39/39 Notes, single verdicts) | no |
 
 ## Backlog (from critique; not yet tasks)
 
