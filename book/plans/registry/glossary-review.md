@@ -110,9 +110,12 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | gozurat | III | Gozurat |  | go-zoo-RAT | Western Indian region described for trade and piracy. |  | Pending |
 | place | greater-hermenia | I | Greater Hermenia |  | (Hermenia is pronounced her-MEE-nee-ah) | The Book’s name for the Armenian highland country. |  | Pending |
 | place | cheinan | III | Gulf of Cheinan |  | (Cheinan is pronounced CHAY-nan) | Maritime gulf associated by Pelliot with Hainan and the Gulf of Tonkin. | Pelliot connects the name with Hainan, “south of the sea” [@pelliot1959notes, pp. 242–43]. | Pending |
+| place | hakata-bay | III | Hakata Bay |  | (Hakata is pronounced hah-KAH-tah) | Northern Kyushu landing area in the Mongol invasion accounts. |  | Pending |
+| place | happo | III | Happo |  | HAH-poh | Departure area in Goryeo for the northern fleet in the Japan invasions. |  | Pending |
 | place | hormos | I II III | Hormos |  | HOR-mos | The Book’s mainland Gulf port. Its exact site remains disputed. |  | Pending |
 | place | java | II III | Java |  | JAH-vah | Large island the Book describes from report. |  | Omit |
 | place | java-the-less | I III | Java the Less |  | JAH-vah the LESS | Sumatra, where the Book says the fleet waited for the monsoon. |  | Omit |
+| place | jerusalem | I III | Jerusalem |  | juh-ROO-suh-lem | Site of the Church of the Holy Sepulchre, from whose lamp the Polos fetched oil for the Kaan. |  | Omit |
 | place | juju | II | Juju |  | JOO-joo (Juju). For Giogiu, jee-OH-joo (anglicised) / joh-JOO (Italian) | Town on the southern road from Cambaluc. |  | Pending |
 | place | kashan | I | Kashan |  | ka-SHAHN | Persian caravan town mentioned in Odoric’s account of the Magi. |  | Omit |
 | place | kelinfu | II | Kelinfu |  | keh-lin-FOO | Fujian town the Book describes for marble bridges and silky-feathered fowl. |  | Pending |
@@ -179,6 +182,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | tadinfu | II | Tadinfu |  | tah-din-FOO | Shandong city associated with Litan’s rising. |  | Pending |
 | place | taianfu | II | Taianfu |  | tie-an-FOO | City on the westward route, described for its wine and arms. |  | Pending |
 | place | taican | I | Taican |  | TIE-kan | Town near the salt mountains described in the Book. |  | Pending |
+| place | takashima | III | Takashima |  | tah-kah-SHEE-mah | Island in Imari Bay where wrecks from the 1281 Yuan invasion fleet have been excavated. |  | Pending |
 | place | talifu | I II | Talifu |  | tah-lee-FOO | Lakeside city that shares the name Carajan in the Book. |  | Pending |
 | place | tana | III | Tana |  | TAH-nah | Western Indian port near present-day Mumbai. |  | Pending |
 | place | tanpiju | II | Tanpiju |  | tan-pee-JOO | Town on the Fuju road. Shaoxing and Fuyang are among the candidates. |  | Pending |

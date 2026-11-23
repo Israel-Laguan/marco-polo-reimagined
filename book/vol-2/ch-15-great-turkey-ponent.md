@@ -12,6 +12,8 @@ The customs at Zayton (Quanzhou) bring in a fortune. When Caidu (Kaidu) asks for
 
 Where he is, in the Book’s Great Turkey (the Central Asian khanates), lies beyond the Jon (Oxus) if you travel up from Hormos (Hormuz). Caidu can call on princes descended from Chinghis (Genghis) Kaan and, if you take Polo’s tally, a hundred thousand riders. The Kaan has to keep soldiers on the marches all year round [2]. A province handed down by Caidu’s own forebears and one granted him in Cublay’s gift are different things to a man who intends to keep his saddle.
 
+![Map A14. The western Mongol realms in the later thirteenth century. Shading gives approximate spheres of power. The dotted line points towards the reported Land of Darkness. *(This edition, after Herrmann and the Cambridge History of the Mongol Empire, on a Natural Earth base.)*](../media/maps/A14-mongol-horizon.svg){#fig-mongol-horizon}
+
 Look at the family tree before the horses go out. The Book calls Caidu Cublay’s nephew and a grandson of Sigatay (Chagatai). His father, Kashin, was a son of Ögedei, which makes Cublay his father’s cousin [3]. Caidu has his own line of descent from a Great Kaan. And the neighbours whom Polo has mistaken for his immediate family can be formidable allies.
 
 At the first battle, which Polo dates to 1266, Caidu and his cousin Yesudar defeat two barons allied to Cublay. The defeated men escape on good horses. The Book sends Caidu out again after two years, this time against Cublay’s son Nomogan (Nomukhan) and a prince called George near Caracoron (Karakorum) [4].
@@ -23,6 +25,8 @@ Each side draws up six columns of ten thousand, in this telling. Before the kett
 The next horses at Caidu’s court are a young woman’s takings. Her name in the Book is Aijaruc (Khutulun), the Bright Moon [7]. A suitor gets her hand if he can throw her. If she throws him, he gives her a hundred horses. Ten thousand and more have changed owners by the time Polo brings a prince into the hall who will stake a thousand at once [8]. Her father and mother would like her to let this one win. The Book allows her to decide what they can ask of her, and she agrees to the match on the same terms as ever.
 
 Picture the two of them on the palace floor. He’s in a fitted jacket of sendal, she’s in one of sammet, a rich silk. They get hold of each other by the arms. For a while there’s nothing to choose between them. Then she puts him down on the paving [9]. The prince leaves with his people, and Caidu’s daughter has a thousand more horses to find room for.
+
+![Aijaruc stands over the fallen prince. The wager for horses belongs to Polo’s tale about Khutulun, Caidu’s daughter. *(Modern illustration in the manner of Ilkhanid manuscript painting. Not a historical artifact. This edition.)*](../media/plates/II-15-aijaruc-wrestling.png){#fig-ii-15-aijaruc-wrestling}
 
 I like to imagine the grooms watching this match. One person landing on the floor means a thousand animals to feed in the morning.
 
@@ -42,7 +46,7 @@ From the throne, Argon sends his son Casan (Ghazan) to the frontier with what th
 
 Baidu, a cousin of both men through his father Tarakai, succeeds him in the spring of 1295. The Book makes much of Baidu’s Christianity and gives Casan a battle in which his rival’s men come over to him. Baidu is killed that October and Casan takes the throne in 1295 [18]. Follow the succession on the diagram and you can see just how long it takes for the government to pass from father to son.
 
-![The Ilkhan succession from Argon to Casan: the Book's narrative against the 1284–1295 record. *(Diagram: this edition, from the Book via Yule–Cordier and the fact sheet.)*](../media/diagrams/C8-ilkhan-succession.svg)
+![Diagram C8. The Ilkhan succession from Argon to Casan: the Book's narrative against the 1284–1295 record. *(Diagram: this edition, from the Book via Yule–Cordier and the fact sheet.)*](../media/diagrams/C8-ilkhan-succession.svg){#fig-c8-ilkhan-succession}
 
 ---
 

@@ -44,6 +44,8 @@ For non-Yule quotations, use a source ID from `python3 tools/comparanda.py --lis
 
 ## Layout decided by S-08 (not authoring rules)
 
+For an inset, append `{#fig-name width=60%}` to the figure line. At 60% of the 4.5-inch measure a raster needs 810 pixels. Link to `#fig-name` in the chapter or `chapter-file.md#fig-name` elsewhere in the volume. Print captions retain their volume sequence. Map, timeline and diagram captions also carry their A, B or C identifiers.
+
 Trim is 6 × 9 in with a 4.5 × 7.2 in text block and 11 pt Noto Serif. Endnotes print under *Notes* at each chapter's end, numbered as in the Markdown. The contents includes *Abbreviations* and *Works cited*. Each volume's bibliography lists only what that volume cites. Plates, maps and other standalone figures share one sequence per volume, with the volume's Roman numeral before the figure number.
 
 In F2, the print filter incorporates a level-three heading immediately above a figure into its caption, keeping both on the same page. It also incorporates the old `*Caption:*` paragraph after an F2 figure during the migration. A chapter title that exceeds the running head width uses its chapter identifier until a short title is supplied. See `spikes/S-08-latex-pipeline.md` for the print spike.

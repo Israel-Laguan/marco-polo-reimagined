@@ -22,7 +22,7 @@ On the afternoon of Saturday the sixth of September the fleets sighted one anoth
 
 — Jacopo d’Acqui also makes Marco a prisoner after a fight at sea, but places it at Ayas in 1296 [8]. There was a battle there in 1294. Moving the date to fit that battle would put the capture before the usual date of Marco’s return. The French preamble gives us a prison and a year. The best a reader can do with the battle is weigh the two stories.
 
-![Genoa, Venice and Curzola. The dashed line sketches Lamba Doria’s 1298 raid via Messina. The battle at Curzola is documented. Ramusio places Polo’s capture there. Jacopo d’Acqui gives Ayas and the year 1296; identifying his account with the battle of 1294 is a proposed correction. *(Map: this edition, from the Book’s biographical sources.)*](../media/maps/A18-adriatic-inset.svg)
+![Map A18. Genoa, Venice and Curzola. The dashed line sketches Lamba Doria’s 1298 raid via Messina. The battle at Curzola is documented. Ramusio places Polo’s capture there. Jacopo d’Acqui gives Ayas and the year 1296; identifying his account with the battle of 1294 is a proposed correction. *(Map: this edition, from the Book’s biographical sources.)*](../media/maps/A18-adriatic-inset.svg){#fig-a18-adriatic-inset}
 
 At dusk you might have thought the business was as good as decided. By the following evening most of the men who had come expecting to put a stop to a raid had a different port ahead of them. Count the ships, as the chroniclers do, and there are galleys to be valued, equipped and crewed again. Count the people and every ship has brought the victors men whose households have to discover what has happened to them.
 
@@ -33,6 +33,8 @@ There, tradition says, he met Rustichello of Pisa, a man already known as a comp
 One man could tell you what a merchant would buy in a port, what would pay its freight, or why a great ruler could print money on something lighter than the money you were used to. The other could make a hall full of knights stop for a speech. Put the two men together for a moment. The merchant has to find a way of telling someone who has never made the crossing why a place matters. The writer can bring him before a lord and give the listener a place in the audience. Franco-Italian, the language of the resulting book, can do both jobs [12]. The person who reads it aloud has the advantage of seeing which bits hold the room.
 
 Day by day, as the tradition has it, Marco spoke of what he had seen with his own eyes and of what he had heard from men of credit; Rustichello set it in narrative succession. The preamble announces — at least as an ideal — that things seen would be set down as seen and things heard as heard only, so that no jot of falsehood might mar the truth of the book [13]. Whether that ideal was kept in every chapter is another question; later notes will say so chapter by chapter. It asks to be judged by that promise.
+
+![Marco Polo dictating to Rustichello of Pisa, Genoa, 1298. The civic setting and the dictation arrangement follow tradition. *(Modern illustration in the manner of Italian Gothic illumination. Not a historical artifact. This edition.)*](../media/plates/I-1-genoa-dictation.png){#fig-i-1-genoa-dictation width=78%}
 
 Yet the meeting of voices was never a simple transcription. The scribe who had once invited the world to delight in the adventures of errant knights now framed a merchant’s testimony with the same ceremonial music. The book opens with an address like the preambles to Rustichello’s romances [14].
 
@@ -82,48 +84,48 @@ Now let the reader turn the page and get to the Venetian house that sent two bro
 
 [1] ~ The French preamble places Marco and Rustichello together in prison in Genoa and gives 1298 as the year of composition. It leaves the daily method of working open [@yc, Prol. preamble].
 
-[2] ✓ Yule discusses the chronology of Genoa’s victory in the bay of Ayas in 1294 [@yc, Introduction, § VI, § 31].
+[2] ✓ Yule discusses the chronology of Genoa’s victory in the bay of Ayas in 1294 [@yc, Introduction, § VI, § 31]. That action cost Venice a valuable merchant convoy in Cilician waters and deepened the commercial war that led to the Adriatic campaign of 1298.
 
-[3] ✓ Yule draws on the chronicles and Genoese verse for the war and the conditions of Venetian commerce [@yc, Introduction, § VI].
+[3] ✓ Yule draws on the chronicles and Genoese verse for the war and the conditions of Venetian commerce [@yc, Introduction, § VI]. After the loss of Acre in 1291, competition over the Black Sea and Levantine termini turned every fleet movement into a struggle for survival.
 
-[4] ✓ Yule reconstructs Doria’s route, the storm and the burning of the town from the chronicles and verse [@yc, Introduction, § VI, §§ 32–33].
+[4] ✓ Yule reconstructs Doria’s route, the storm and the burning of the town from the chronicles and verse [@yc, Introduction, § VI, §§ 32–33]. Raiding Curzola forced the Venetian fleet to give battle on the Dalmatian coast.
 
-[5] ? Marco as *sopracomito* at Curzola. Preamble places him in Genoa prison in 1298; personal capture at Curzola is later biographical tradition (notably Ramusio) plus inference from the year. The conjectured command is part of the received biography [@yc, Introduction, § 33, § 37].
+[5] ? The early French preamble places Marco in a Genoese prison in 1298 without naming a battle or naval rank. His service as *sopracomito* (gentleman-commander) of a galley at Curzola comes from later Venetian biographical tradition, notably Ramusio, combined with inference from the year [@yc, Introduction, § 33, § 37].
 
 [6] ✓ The battle was fought on 7 September 1298. Yule compares the Venetian and Genoese reports of the engagement and gives the reported haul of prisoners [@yc, Introduction, § VI, §§ 34–35].
 
 [7] ~ Ramusio’s account makes the capture part of the Curzola tradition. The early French preamble supplies neither the battle nor a command at sea [@yc, Introduction, § 37].
 
-[8] ? Jacopo places the capture at Ayas and dates it to 1296. The known battle in 1294 is the proposed substitution. Yule rejects the place while allowing the notice some weight as an account of capture. Bolognari discusses the dates [@yc, Introduction, § 37; @bolognari2026venezia].
+[8] ? Jacopo places the capture at Ayas and dates it to 1296, where the known battle of 1294 is the proposed substitution. Yule rejects the place while allowing the notice some weight as an early account of capture, and Bolognari discusses the chronology [@yc, Introduction, § 37; @bolognari2026venezia].
 
 [9] ~ Yule places the arrival on 16 October 1298 and gives the rival accounts of the prisoners’ treatment. Dandolo’s reported death after refusing food belongs to the same reconstruction [@yc, Introduction, § VI, § 35].
 
-[10] ✓ Rustichello = Arthurian compiler “Maistre Rusticien de Pise.” Shared unusual preamble formula (*Seigneurs Empereurs et Princes…*); consensus of Paulin Paris, Yule, Benedetto [-@benedetto1928milione], later editors. As cited in Yule: Paulin Paris [@yc, Intro. § 37].
+[10] ✓ Paulin Paris, Yule, and Benedetto [-@benedetto1928milione] identify Marco's collaborator with the Arthurian romance compiler “Maistre Rusticien de Pise” [@yc, Intro. § 37]. Both the romance compilation and the Franco-Italian *Devisement* open with the same distinctive address to emperors, kings, dukes, and burgesses.
 
-[11] ~ Meloria captivity since 1284 is a fair conjecture, not proven: Cigni makes a contextual case that Rustichello was among the Meloria prisoners, without an individual capture document [-@cigni2017rustichello]. The oldest Polo preamble places him in the Genoa prison with Marco in 1298.
+[11] ~ Meloria captivity since 1284 is a fair conjecture rather than a documented fact: Cigni makes a contextual case that Rustichello was among the Pisan prisoners taken at Meloria, though no individual capture roll names him [-@cigni2017rustichello]. The oldest Polo preamble places him in the Genoa prison with Marco in 1298 [@yc, Prol. preamble].
 
-[12] ✓ The preamble survives in the Franco-Italian register of the early tradition [@eusebi2018devisement, p. 35].
+[12] ✓ The preamble survives in the Franco-Italian literary register of the early manuscript tradition [@eusebi2018devisement, p. 35]. That hybrid French served across northern Italy as a prestige language for secular prose and chivalric storytelling.
 
-[13] ~ The preamble announces a method of distinguishing things seen from things heard [@yc, Prol. preamble].
+[13] ~ The preamble announces a method of distinguishing things seen from things heard [@yc, Prol. preamble]. It sets the standard of eyewitness and reported testimony by which the whole Book asks to be judged.
 
-[14] ✓ The public address is in witness F and appears at the head of Yule’s translation [@eusebi2018devisement, p. 35; @yc, Prol. preamble].
+[14] ✓ The public address stands in witness F and appears at the head of Yule’s translation [@eusebi2018devisement, p. 35; @yc, Prol. preamble]. See the parallel-text box in this chapter for the Franco-Italian wording alongside Yule's English.
 
-[15] ~ The comparison with Adam and the twenty-six years are in the same claim about the traveller’s experience [@yc, Prol. preamble].
+[15] ~ The comparison with Adam and the twenty-six years in the East belong to the preamble's opening claim about the traveller’s unequalled experience [@yc, Prol. preamble]. From the 1271 departure to the 1295 homecoming runs twenty-four years, rounded up in the opening flourish.
 
-[16] ~ / ? Prison collaboration and romance shaping. Larner [-@larner1999marco, chs. 3, 5] defends the Genoa collaboration of 1298 against claims that it is a myth; argues that Rustichello cast Marco’s geography in the conventions of Arthurian prose (the Khan’s welcome echoes Tristan’s at Camelot in Rustichello’s *Meliadus*); and credits him, not Marco, with the self-promoting Yangzhou and Saianfu stories, while Marco’s own matter stays impersonal. He does not argue for an invented traveller-*persona*. How far the shaping goes is disputed. Does not by itself prove fabrication of itinerary. Romance diction can colour marvels and set-pieces even where the underlying notice is mercantile.
+[16] ~ Larner [-@larner1999marco, chs. 3, 5] defends the 1298 Genoa collaboration and argues that Rustichello cast Marco’s geography in the conventions of Arthurian prose, noting that the Great Kaan’s welcome echoes Tristan’s arrival at Camelot in Rustichello’s *Meliadus*. He also suggests Rustichello shaped the self-promoting Yangzhou and Saianfu episodes while Marco’s own commercial and administrative matter stayed largely impersonal. How far that literary shaping extends remains debated, as romance diction can colour set-pieces even where the underlying notice is mercantile.
 
-[17] ✓ Peace of 25 May 1299: Venice and Genoa signed terms mediated by Matteo Visconti of Milan, equal and reciprocal, with mutual release of prisoners (diplomatic record) [@yc, Introduction, § 36].
+[17] ✓ On 25 May 1299 Venice and Genoa signed peace terms mediated by Matteo Visconti of Milan [@yc, Introduction, § 36]. The treaty was equal and reciprocal and provided for the mutual release of prisoners.
 
 [18] ~ The Doge ratified the treaty on 1 July 1299; Polo’s return to San Giovanni Grisostomo by the end of August is a reasonable inference from the ratification dates, not a dated document. The exact day is unknown [@yc, Introduction, § 36].
 
-[19] ~ A separate Genoa–Pisa truce at the end of July 1299 freed the remaining Pisan prisoners; that Rustichello was among them is inference, not a release roll with his name [@yc, Introduction, § 36].
+[19] ~ A separate Genoa–Pisa truce at the end of July 1299 freed the remaining Pisan prisoners [@yc, Introduction, § 36]. That Rustichello left Genoa under that truce is an inference rather than a surviving release roll bearing his name.
 
 [20] ? Bolognari reads Marco’s February 1301 testimony about a payment in October 1299 as implying a contract made in October 1298, and infers Marco’s presence in Venice then. The reported testimony supplies an argument about his whereabouts [@bolognari2026venezia].
 
 [21] ✓ Pipino’s Latin and Jacopo’s notice attest early circulation. The dates of Pipino’s work are discussed in Chapter III-10 [@yc, Introduction, § 18, § 37].
 
-[22] ✓ Andreose places F with French manuscripts copied by Pisan prisoners at Genoa and discusses subsequent redaction in Venice [@andreose2024textual].
+[22] ✓ Andreose places witness F among French manuscripts copied by Pisan prisoners at Genoa and traces subsequent reworkings in Venice [@andreose2024textual]. That workshop setting explains how copies could begin circulating quickly in both French and Italian dialects.
 
-[23] ✗ Ramusio-only. Ramusio’s kindly Genoese gentleman as historical helper — likely patriotic distortion of the Pisan scribe, whose name Ramusio strangely ignored.
+[23] ? Ramusio-only in Yule. Ramusio supplies a Genoese gentleman as helper. The early French preamble names the Pisan writer Rustichello [@yc, Introduction, § 37; @yc, Prol. preamble].
 
 [24] ? The textual witnesses preserve separate versions, with differences in what they give and the order in which they give it. The early stages of their relationship remain debated [@benedetto1928milione; @moule1938description; @dutschke1993francesco; @andreose2024textual].

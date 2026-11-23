@@ -6,17 +6,17 @@
 
 ---
 
-The sea chapters describe ports, coasts and kingdoms along and beyond the main shipping routes. The tables keep this geography in view. The map of the round trip connects these seas with the earlier land routes. The dedicated return map follows the embassy account back to the Mediterranean, where the Prologue gives a much clearer sequence of named stages. [1]
+The sea chapters describe ports, coasts and kingdoms along and beyond the main shipping routes. The tables keep this geography in view. The map of the round trip connects these seas with the earlier land routes. The dedicated return map follows the embassy account back to the Mediterranean, where the Prologue gives a much clearer sequence of named stages [1].
 
-Read the Book’s maritime sequence as a mixture of claimed stops and reports. It describes Chamba and the Sumatran kingdoms in the sea chapters. The return passage instead gives “Java” and the Sea of India, with few intermediate details. [2]
+Read the Book’s maritime sequence as a mixture of claimed stops and reports. It describes Chamba and the Sumatran kingdoms in the sea chapters. The return passage instead gives “Java” and the Sea of India, with few intermediate details [2].
 
 ### Map of the round trip
 
-![The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
+![Map A1. The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
 ### Map of the Cocachin return
 
-![The Cocachin return. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The Prologue names “Java”; Yule links that passage to the Book’s five months at Samara. The solid western line joins the four named stages from Trebizond to Venice along an illustrative course. Rashid al-Din records the embassy at Abhar. Yule dates departure to early 1292; Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
+![Map A16. The Cocachin return. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The Prologue names “Java”; Yule links that passage to the Book’s five months at Samara. The solid western line joins the four named stages from Trebizond to Venice along an illustrative course. Rashid al-Din records the embassy at Abhar. Yule dates departure to early 1292; Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
 
 ### Place table — island and Southeast Asian road
 
@@ -80,7 +80,7 @@ Read the Book’s maritime sequence as a mixture of claimed stops and reports. I
 
 *Hormos and Tauris also serve the return. Their main entries appear in Volume I.*
 
-**Java vs Java the Less:** Great Java is modern Java. The Book describes its five-month stay in the separate account of Samara on Java the Less, or Sumatra. **Madeigascar** appears as an island in the Book. Pelliot connects the name to Mogadishu, which is the gazetteer’s provisional reference. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall. [3]
+**Java vs Java the Less:** Great Java is modern Java. The Book describes its five-month stay in the separate account of Samara on Java the Less, or Sumatra. **Madeigascar** appears as an island in the Book. Pelliot connects the name to Mogadishu, which is the gazetteer’s provisional reference. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall [3].
 
 The map in [III-9](ch-09-cocachin-return.md) accompanies a chart of the monsoon seasons and the disputed voyage calendar.
 
@@ -88,8 +88,8 @@ The map in [III-9](ch-09-cocachin-return.md) accompanies a chart of the monsoon 
 
 ## Notes
 
-[1] ✓ The place tables give each place's book name, its modern name and its role in Volume III; identifications follow Yule–Cordier unless a chapter Note says otherwise. Image credits are in the media attributions.
+[1] ✓ The place tables give each place's book name, its modern name, and its role in Volume III, following the series gazetteer and Yule–Cordier unless a chapter Note states otherwise [@yc, bk. 3]. Map and figure sources are listed in the [media credits](../media/ATTRIBUTIONS.md).
 
-[2] ✓ / ~ Periplus reading of Book III — standard in Yule; visited vs reported tags prevent over-claiming autopsy.
+[2] ~ Book III is structured as a maritime periplus moving west from Zayton to the Persian Gulf, whereas the homeward voyage of Cocachin stands back in the Prologue [@yc, Prol. 17–18; @yc, 3.1–40]. The `[V]`, `[R]`, and `[M]` chapter tags mark where personal travel gives way to shipboard report.
 
-[3] ? Uncertain and legendary toponyms — see the chapter Notes; III back matter on Chipangu / Cocachin / Columbus.
+[3] ? Disputed and legendary maritime toponyms—including Locac, Dagroian, Male and Female, and the scribal transmission of *Madeigascar*—are examined in their respective chapter Notes [@yc, 3.7, 3.10, 3.31, 3.33; @pelliot1959notes, vol. 2, pp. 779–781]. For a summary of the Chipangu, Cocachin, and Columbus debates, see [Back Matter III-1](back-01-trivia-and-afterlives.md#disputed-claims-and-pointers).

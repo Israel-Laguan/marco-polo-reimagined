@@ -26,7 +26,7 @@ Three days beyond Tadinfu lies Sinjumatu (Jining), and here the waterworks make 
 
 ### Map of the canal spine
 
-![The sequence from Juju to Kinsay, with the two Vujus at Huzhou and Jinhua. The dashed lines to Nanghin and Saianfu orient two digressions. Nanghin is plotted at Pelliot’s Kaifeng; Yule followed the Anqing reading. Tinju uses Nantong, with I-chin (Yizheng) and the Taizhou salt yards as alternatives. Linju uses Linqing provisionally; compare Xuzhou and Odoric’s Lenzin. Vughin’s Wujiang point follows Yule; Pelliot tentatively reassigned the name to Jiaxing, and Wuxi has also been suggested. The inset sketches the watershed near Sinjumatu. The surviving Nanwang engineering complex dates substantially to the Ming. *(Map: this edition, from the Book, gazetteer and Grand Canal nomination.)*](../media/maps/A12-canal-spine.svg)
+![Map A12. The sequence from Juju to Kinsay, with the two Vujus at Huzhou and Jinhua. The dashed lines to Nanghin and Saianfu orient two digressions. Nanghin is plotted at Pelliot’s Kaifeng; Yule followed the Anqing reading. Tinju uses Nantong, with I-chin (Yizheng) and the Taizhou salt yards as alternatives. Linju uses Linqing provisionally; compare Xuzhou and Odoric’s Lenzin. Vughin’s Wujiang point follows Yule; Pelliot tentatively reassigned the name to Jiaxing, and Wuxi has also been suggested. The inset sketches the watershed near Sinjumatu. The surviving Nanwang engineering complex dates substantially to the Ming. *(Map: this edition, from the Book, gazetteer and Grand Canal nomination.)*](../media/maps/A12-canal-spine.svg)
 
 Eight days south through crowded canal towns bring the road to Linju (provisionally Linqing), where Polo pauses to note that the men are good soldiers as well as traders, and that even larger fleets crowd the water [18]. Three days further stands Piju (Pizhou), a rich gateway town on the border of Manzi. Merchants there load long trains of carts and dispatch them down the southern roads, bringing a steady stream of customs revenue to the Kaan [19]. Two days beyond Piju lies Siju (Suqian), set amid broad plains cheap with wheat and grain [20]. Then three final days through bustling hamlets and tilled fields bring the traveller out onto the bank of the Caramoran (Yellow River).
 
@@ -42,15 +42,17 @@ In fact, Cublay ordered the great southern offensive in 1273, and Bayan marched 
 
 Picture the crisis inside Kinsay (Hangzhou) when Bayan’s banners appeared before the royal capital. In the Book, a panicked Facfur loads his court onto a thousand ships and flees to the islands of the ocean, never to return, while his valiant queen stays to organise the defence [33]. Once she learns the Mongol general’s name is Bayan Hundred-Eyes, she recalls the prophecy and surrenders the whole kingdom without a blow, earning an honourable pension at Cublay’s northern court [34]. History divides those roles across two reigns. Duzong had already died in 1274, leaving his four-year-old son Gong on the throne under the regency of the child’s grandmother, Empress Dowager Xie. She surrendered Kinsay in early 1276 while loyalist princes fought on along the southern coast until 1279 [35].
 
+![Envoys of Empress Dowager Xie present a seal to Bayan outside Lin'an in 1276. The Book compresses events. *(Modern illustration in the manner of Southern Song academy painting. Not a historical artifact. This edition.)*](../media/plates/II-10-song-envoys.png){#fig-ii-10-song-envoys width=78%}
+
 Even so, the Book lingers affectionately over the fallen king’s housekeeping. Where poor families exposed newborn infants they could not feed, Polo relates how Facfur’s officers collected the babies from gates and street corners, logged the exact hour and planetary sign of each birth on slips, and carried the baskets out to wet nurses in the countryside [36]. Childless households could come to court, choose the infants they desired, and adopt as many boys or girls as they wished. Those who grew up at royal expense received lessons in honest crafts and were matched in marriage when they came of age, with dowries paid cleanly from the king’s purse—twenty thousand boys and girls every single year in the Book’s generous tally [37].
 
 Riding through Kinsay’s streets, whenever Facfur spotted a mean little timber cottage wedged between fine tall mansions, he asked the neighbours why it stood so humble and paid out of his own pocket to rebuild it in painted stone until every dwelling in the capital stood handsome and even [38]. More than a thousand young gentlemen and ladies dressed in rich silks waited in order inside his sprawling palace, and his justice kept peace so strict across the wards that merchants left shops stuffed with costly goods unlocked at night without fear of theft [39].
 
 Wait a moment by those unbolted shop doors. You can feel Rustichello polishing a lost golden age for European listeners, turning real Song traditions of municipal granaries, astrological birth slips, and charitable foundling relief into a fairytale city without crime [40].
 
-![From the siege of Xiangyang to the last sea battle off the Canton coast. *(Timeline: this edition, dates from the fact sheet.)*](../media/timelines/B4-song-endgame.svg)
+![Timeline B4. From the siege of Xiangyang to the last sea battle off the Canton coast. *(Timeline: this edition, dates from the fact sheet.)*](../media/timelines/B4-song-endgame.svg){#fig-b4-song-endgame}
 
-Yet the conquest is done, and the Book brings us briskly back to the Caramoran ferry where we left off. Step off the plank onto Coiganju’s crowded waterfront, where salt barges from forty dependent towns tie up beside the stone causeway leading into Manzi [41].
+Yet the conquest is done, and the Book brings us briskly back to the Caramoran ferry where we left off. Step off the plank onto Coiganju’s crowded waterfront, where salt for some forty towns is ready to leave by boat [41]. Just beyond the waterfront, the stone causeway leads farther into Manzi.
 
 ---
 
@@ -136,4 +138,4 @@ Yet the conquest is done, and the Book brings us briskly back to the Caramoran f
 
 [40] ✓ Returning the narrative from Kinsay to Coiganju marks the end of the Book’s historical digression on the Song collapse [@yc, 2.65–2.66]. From Huai’an onward, the itinerary resumes its south-eastern march toward the sea.
 
-[41] ✓ Coiganju stands at the canal junction connecting the northern plain with the salt and grain networks of the lower Huai and Yangzi [@yc, 2.66 n. 1]. Salt shipped from Yancheng and neighbouring pans made it one of the busiest revenue hubs on the Manzi frontier.
+[41] ~ Coiganju receives produce and redistributes it. Polo has salt go from there to about forty towns [@yc, 2.66 n. 1].

@@ -11,6 +11,8 @@
 
 The promise on the Book’s first page distinguishes two ways of knowing something. Marco saw some of it with his own eyes and heard the rest from people he thought credible [1]. A good deal hangs on that pledge. The Book gives scarcely any space to the merchants or pilots who told him the name of a harbour, yet devotes whole pages to the harbour itself. Whenever firsthand sight and second-hand report blur on the page, the historian has to ask both what the claim is worth and what a traveller in Polo’s shoes could actually have known. Separating eye-witness observation from table-talk is the first task of any critical reader.
 
+![On the Catalan Atlas of 1375, the inscription sends a caravan from Sarai towards Cathay. It leaves the travellers unnamed. *(Hand-coloured facsimile, Barcelona, 1959, reproduced in detail. Library of Congress, Geography and Map Division.)*](../media/public-domain/III-12-alt_loc1959-facsimile-caravan.jpg){#fig-atlas-caravan}
+
 ### What kind of book *Il Milione* is
 
 A Venetian merchant told what to buy at one end of a journey could still be surprised by what he found himself selling at the other. The Book’s eye for that practical gap is often razor-sharp. It asks who claims a tenth from pearl divers, why Arabian warhorses fetch silver fortunes across the sea, and what a ruler does when a stranger tries to spend metal coin where only stamped paper passes [2]. Think how many questions you would ask a factor promising to carry a bolt of silk to the next city: how the roads are guarded, what customs tolls are levied at the gate, and what coin the local moneychanger accepts. Trade intelligence fills chapter after chapter without ever pausing to describe the face of the man who carried the ledger.
@@ -29,11 +31,11 @@ Next, ask whose manuscript hands you the sentence. Franco-Italian F, Pipino’s 
 
 Coal as black burning stone and stamped mulberry-bark paper money caught Polo’s eye because both answer questions any householder or trader asks at the market stall. The Book explains how official seals turn bark notes into legal tender across an empire. Hans Ulrich Vogel sets those details of manufacture, issue, and denominations directly beside surviving Yuan fiscal records, finding a remarkably tight fit [10]. The imperial postal relay and its requisitions likewise describe an institution from the perspective of a rider who knew what horses and rations a golden tablet could demand [11].
 
-Along the coast, Marco’s description of watertight ship compartments gives a skipper practical reasons for dividing a hull. The thirteenth-century wreck excavated at Zayton (Quanzhou) indeed carried twelve bulkheads and thirteen compartments, though Jeremy Green notes that limber holes along the keel complicate any claim of hermetically sealed holds [12]. Checking each structural feature gives a sharper picture than declaring the whole passage verified at a stroke. Inland at Chandu (Shangdu), excavated triple enclosures and court histories give Stephen Haw solid ground for taking the palace and park seriously, even though the exact bamboo cane pavilion Polo describes has left no identified trace [13].
+Along the coast, Ramusio’s version of the Book describes how a skipper can use compartments to limit the damage when water comes into the hull. The thirteenth-century wreck excavated at Zayton (Quanzhou) indeed carried twelve bulkheads and thirteen compartments, though Jeremy Green notes that limber holes along the keel complicate any claim of hermetically sealed holds [12]. Checking each structural feature gives a sharper picture than declaring the whole passage verified at a stroke. Inland at Chandu (Shangdu), excavated triple enclosures and court histories give Stephen Haw solid ground for taking the palace and park seriously, even though the exact bamboo cane pavilion Polo describes has left no identified trace [13].
 
 The Cocachin embassy offers a different kind of check. Rashīd al-Dīn independently records Argon’s envoys delivering the Mongol princess to Abhar for her marriage to Ghazan [14]. A Chinese notice preserved in the *Yongle dadian* records 1290 preparations for three named envoys matching Oulatay, Apusca, and Coja—yet as Peter Jackson stresses, neither the Persian history nor the Chinese notice names a single Polo [15]. Meanwhile, Yang Zhijiu’s inference of a late-1290 or early-1291 sailing diverges from Yule’s early-1292 monsoon reckoning [16]. Knowing precisely which pieces check out gives both the confirmation and the silence their true weight.
 
-Even apparent hits demand caution when similar names collide. Chinese records of Ahmad’s assassination in 1282 name a Mongol official called Bolad, whom Marco’s Book also echoes—yet E. H. Parker noted that this official had already received honours before the Polos’ conventional 1275 arrival [17]. An episode’s historical core can survive even when personal links shift.
+Even apparent hits demand caution when similar names collide. In comparing the Book’s account of Ahmad’s assassination in 1282 with the Chinese records, E. H. Parker called attention to an official whose name was read as Polo. The man was Bolad, who had already received honours before the Polos’ conventional arrival in 1275 [17]. An episode’s historical core can survive even when personal links shift.
 
 ### Misses and silences
 
@@ -66,7 +68,7 @@ Numbers create stress-points of their own. A merchant needs to know how cargo ba
 
 Frances Wood’s 1995 challenge weaves these stress-points into a cumulative case: the absence of Polo names from Chinese and Persian embassy records, Persianised place-names, the impossible Saianfu siege claim, the unverified Yanju office, and glaring omissions such as tea, foot-binding, and the Great Wall [26]. Her alternative—that Venetians gathered eastern lore around the Black Sea or in Persia without reaching China—raises a serious question about how information travelled across Mongol Eurasia, though it works better against specific personal boasts than against the Book’s dense practical detail. A compiler in a Black Sea counting-house could easily pick up tales of golden roofs or wondrous trebuchets along caravan inns; explaining how he assembled coherent tax ratios, salt-monopoly figures, and provincial relay distances is far harder.
 
-Replies came on three distinct fronts. Igor de Rachewiltz followed his 1997 response with a detailed 2002 paper dismantling the Great Wall objection and narrowing Yanju to a temporary inspection post [27]. Stephen Haw tested routes, fauna, and chronology in 2006, showing how tightly much of the northern and southern itinerary fits Yuan geography even where offices remain obscure [28]. Hans Ulrich Vogel’s 2013 study of Yuan paper currency, salt monopolies, and tax units narrowed the alternative still further: no armchair compiler in Venice or Tabriz could easily have fabricated such coherent fiscal detail [29]. Taken together, these three replies shift the burden of proof back onto any theory that keeps the Polos west of the Pamir.
+Replies came on three distinct fronts. Igor de Rachewiltz followed his 1997 response with a 2002 paper that challenges the Great Wall objection and leaves a temporary inspection post at Yanju as a possibility [27]. Stephen Haw tested routes, fauna, and chronology in 2006, showing how tightly much of the northern and southern itinerary fits Yuan geography even where offices remain obscure [28]. Hans Ulrich Vogel’s 2013 study of Yuan paper currency, salt monopolies, and tax units narrowed the alternative still further: no armchair compiler in Venice or Tabriz could easily have fabricated such coherent fiscal detail [29]. Taken together, these three replies shift the burden of proof back onto any theory that keeps the Polos west of the Pamir.
 
 Recent surveys by Pasquale Orlando, Ma Xiaolin, and Christine Gadrat-Ouerfelli situate the argument within centuries of doubt and recovery, leaving growing room for memory, dictation, and multilingual transmission [30]. A traveller can truly have ridden across China and still misdate a siege he heard about at court. Even firm proof of Marco’s presence in Yuan China still leaves half the Book’s wonders to account for—whether through court hearsay, sailors’ yarns, or Rustichello’s storytelling polish. Put every confirmed detail on one side of the desk and every blunder on the other, and the historian must still explain why the evidence is so strong for Marco’s presence in Yuan China yet so brittle on his personal roles. In that tension between verified fiscal detail and fragile personal claims lies the real puzzle of how the *Book* was made.
 
@@ -108,7 +110,7 @@ The Book keeps its wonder intact when we give every marvel the exact foundation�
 
 [5] ✓ The book’s account of ships is followed by reports about islands. It expressly says Marco was never in the outlying Sea of Chin region [@yc, 3.1–4].
 
-[6] ✓ The Prologue dates the writing in Genoa to 1298 [@yc, Prologue, preamble; @andreose2024textual].
+[6] ✓ The Prologue dates the writing in Genoa to 1298 [@yc, Prologue, preamble; @andreose2024textual]. All surviving manuscript branches look back to that Genoese composition as their starting point.
 
 [7] ~ Curzola is Ramusio’s tradition; Jacopo d’Acqui gives Ayas under 1296, often treated as a confusion with the 1294 battle. See [I-1](../vol-1/ch-01-genoa-prison.md) [@yc, Introduction §§ 36–38; @bolognari2024chronica].
 
@@ -124,9 +126,9 @@ The Book keeps its wonder intact when we give every marvel the exact foundation�
 
 [13] ✓ Haw discusses the three-walled city and the likelihood that Polo saw palace and park. Atwood discusses the site and its court functions, and the exact building Polo describes is a separate question [@haw2006marco, ch. 5, p. 69 in the 2009 paperback; @atwood2004encyclopedia, “Shangdu”; @rossabi1988khubilai, ch. 2].
 
-[14] ✓ Rashīd al-Dīn places the marriage at Abhar [@thackston1998rashiduddin, p. 606].
+[14] ✓ Rashīd al-Dīn places the marriage of Kököchin and Ghazan at Abhar [@thackston1998rashiduddin, p. 606]. His Persian chronicle confirms both the bride's arrival from Cathay and the substitution of the son for the deceased father Arghun.
 
-[15] ✓ Ma reports Yang’s comparison of the Chinese names from the *Yongle dadian*, while Jackson stresses that neither the Persian nor the Chinese record names the Polos [@ma2025chinese; @lin2017chinese; @jackson1998travels, pp. 98–99].
+[15] ✓ Ma reports Yang’s comparison of the three Chinese envoy names from the *Yongle dadian* with Polo's barons [@ma2025chinese; @lin2017chinese]. Jackson stresses that neither the Persian chronicle nor the Chinese administrative notice names the Polos [@jackson1998travels, pp. 98–99].
 
 [16] ? Ma attributes the late-1290 or early-1291 sailing to Yang’s inference. Yule’s reckoning gives early 1292. See [the return voyage](ch-09-cocachin-return.md) [@ma2025chinese; @yc, Introduction § 22].
 
@@ -134,7 +136,7 @@ The Book keeps its wonder intact when we give every marvel the exact foundation�
 
 [18] ✓ Cordier compares the tea evidence and refers to Odoric for the practice of binding feet. Wood attaches weight to these omissions [@yc, Introduction § 73; @odoric1913travels, ch. 46; @wood1995did, chs. 8, 11].
 
-[19] ? Wood grants the distinction from the later brick-faced Wall while pressing earlier earthworks; the later ANU paper replies in terms of the Wall in its familiar form [@wood1995did, ch. 11; @derachewiltz2002wood].
+[19] ? Wood grants the distinction from the later Ming brick-faced Wall while pressing earlier earthworks [@wood1995did, ch. 11]. De Rachewiltz replies in his 2002 ANU paper that no continuous Great Wall of the familiar modern form then stood along Polo's routes [@derachewiltz2002wood].
 
 [20] ~ The language of particular names and Polo’s competence are related questions with different evidence. See also the proposals in Note 37 [@luo2024designations; @gadrat2026marco].
 

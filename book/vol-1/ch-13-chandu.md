@@ -29,6 +29,8 @@ A herd can bring everything to a halt. In the Book the Kaan has over ten thousan
 
 Stay to watch the departure. They take milk from the mares and scatter it so that the earth and air and the spirits have their share. In the Book, when they have given this offering the Kaan can leave in the expectation of protection for his family, the people who travel with him, the animals and the crops they need [15]. Someone whose living turns on the rain may see the sense of reminding the powers that can send it how much is riding on the year. Somebody else might look up and ask how the emperor manages to keep bad weather away from his rooms.
 
+![Officiants sprinkle mare’s milk on the ground at Chandu as Kublai’s court prepares to leave. The rite follows Polo’s account, and the gilt dragons on the cane palace columns follow Ramusio’s version. The detailed staging is reconstructed. *(Modern illustration in the manner of Yuan court painting. Not a historical artifact. This edition.)*](../media/plates/I-13-mares-milk-libation.png){#fig-i-13-mares-milk-libation}
+
 ---
 
 Polo has men from Tebet (Eastern Tibet) and Keshimur (Kashmir) at court who can keep the clouds from coming over the palace. He readily puts their work down to the Devil, though the people who perform it credit their sanctity [16]. He also attributes to them the eating of executed criminals, sparing those who died naturally. The Book is the source of that charge. The Christian terms of its tale tell us much about what the writer already expects when he hears about people who can command the weather [17].
@@ -67,7 +69,7 @@ The gates, the cords and the herd belong to the man the Book keeps setting in th
 
 [10] ✗ The Chinese Palm Hall passage locates it in the western garden of the Longfu Palace at Cambaluc. The Palace Library records it in 1311 and the dynastic annals record work in 1324–25. Cordier prints Palladius’s placement at Chandu [@tao1959nancun, juan 21; @mishujianzhi, juan 5; @yuanshi1370, juan 29; @yc, 1.61 n. 4].
 
-[11] ~ The Book gives a summer stay and the twenty-eighth of the August moon for departure. Cordier cites Palladius for a usual move to Chandu in the fourth month and return in the ninth. See [Chart C17, the seasonal court](../media/diagrams/C17-seasonal-orbit.pdf) [@yc, 1.61 n. 5].
+[11] ~ The Book gives a summer stay and the twenty-eighth of the August moon for departure. Cordier cites Palladius for a usual move to Chandu in the fourth month and return in the ninth. See [Diagram C17 in Volume II, chapter 4, the seasonal court](../media/diagrams/C17-seasonal-orbit.pdf) [@yc, 1.61 n. 5].
 
 [12] ✓ The two roads and their temporary palaces come from Palladius, quoted by Cordier. He identifies the western road for the return and gives stages and resting places for both approaches [@yc, 1.61 n. 1].
 

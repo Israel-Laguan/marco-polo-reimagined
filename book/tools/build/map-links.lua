@@ -1,5 +1,5 @@
 -- Markdown links name the target chapter so they work when chapters are read
--- separately. In an assembled volume, jump directly to a map heading.
+-- separately. In an assembled volume, jump to the heading or figure itself.
 function Pandoc(doc)
   local anchors = {}
   doc:walk({
@@ -7,11 +7,14 @@ function Pandoc(doc)
       if header.identifier:match('^map%-of%-') then
         anchors[header.identifier] = true
       end
+    end,
+    Figure = function(figure)
+      if figure.identifier ~= '' then anchors[figure.identifier] = true end
     end
   })
   return doc:walk({
     Link = function(link)
-      local id = link.target:match('^[%w%-]+%.md#(map%-of%-[%w%-]+)$')
+      local id = link.target:match('^[%w%-]+%.md#([%w%-]+)$')
       if anchors[id] then
         link.target = '#' .. id
         return link

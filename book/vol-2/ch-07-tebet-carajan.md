@@ -12,11 +12,13 @@ The bridge at Sindafu (Chengdu) has shops and a man to take the Kaan’s tolls. 
 
 ### Map of the southwest circuit
 
-![The route through the borderlands toward Carajan and Vochan is reconstructed. Dots lead to reported Mien and toward unfixed Bangala. For Caugigu, Yule proposed Kiang Hung; Pelliot read the description as the Upper Red River area, with the name pointing to Tonkin. Muang Yong, Kengtung and Chiang Mai have also been suggested. For Anin, compare Yule’s Lin-ngan and Homi, the Honghe region, and Pelliot’s Annam; for Coloman, Yule’s western Guizhou with Pelliot’s northeastern Yunnan. Cuiju’s Guiyang-area reference represents a Guizhou hypothesis; Kuizhou and the Xuzhou–Yibin area are other candidates. Fungul uses Yibin, with Luzhou and Phungan-lu proposed. *(Map: this edition, from the Book and S-17.)*](../media/maps/A11-southwest-circuit.svg)
+![Map A11. The route through the borderlands toward Carajan and Vochan is reconstructed. Dots lead to reported Mien and toward unfixed Bangala. For Caugigu, Yule proposed Kiang Hung; Pelliot read the description as the Upper Red River area, with the name pointing to Tonkin. Muang Yong, Kengtung and Chiang Mai have also been suggested. For Anin, compare Yule’s Lin-ngan and Homi, the Honghe region, and Pelliot’s Annam; for Coloman, Yule’s western Guizhou with Pelliot’s northeastern Yunnan. Cuiju’s Guiyang-area reference represents a Guizhou hypothesis; Kuizhou and the Xuzhou–Yibin area are other candidates. Fungul uses Yibin, with Luzhou and Phungan-lu proposed. *(Map: this edition, from the Book and S-17.)*](../media/maps/A11-southwest-circuit.svg)
 
 At sundown the men cut green canes and heap them on the fire. After a little while the heat sets the bamboo cracking loud enough to send animals running. Ten miles away you could still hear it, Polo reckons [2]. Take that as an idea of how ambitious he is for his fire. Just here on the road, there’s a more pressing question. How do you stop the horses running away too?
 
 Cotton in the ears for the people. Cloth over the horses’ heads, and ropes at all four feet. The Book knows of travellers who have lost horses that broke their halters at the first bang. A few nights of it and the animals grow used to the sound [3]. In the meantime, the men are betting their transport on the pegs they’ve driven into the ground. They’ve got twenty days of food to carry before the Book brings them to a village where they can buy more [4].
+
+![Bamboo bursts in a night camp in the Kham forests, in a reconstruction of the Book's account. *(Modern illustration in the manner of Dali kingdom scroll painting. Not a historical artifact. This edition.)*](../media/plates/II-7-exploding-bamboo.png){#fig-ii-7-exploding-bamboo}
 
 — Stay with the horses a moment, dear reader. Out there a bear hears something that frightens it away. Here in camp you’ve made exactly the same noise for an animal you need to stay beside you.
 
@@ -110,7 +112,7 @@ At the exchange in Zardandan, Polo reckons five weights of silver to one of gold
 
 [21] ✓ The salt wells and the ruler’s revenue belong to a wider system of salt production and taxation. The lake in the account is generally identified as Dianchi [@yc, 2.48; @vogel2013marco, ch. 4].
 
-[22] ~ The cowries are the “porcelain” shells of the Book. The conversion to Venetian groats and the ratio of eight weights of silver to one of gold are the rates it gives for Yachi [@yc, 2.48 n. 4]. See [Diagram C9, gold and silver exchange rates](../media/diagrams/C9-gold-silver.pdf).
+[22] ~ The cowries are the “porcelain” shells of the Book. The conversion to Venetian groats and the ratio of eight weights of silver to one of gold are the rates it gives for Yachi [@yc, 2.48 n. 4]. See [Diagram C9, gold and silver exchange rates](ch-08-mien-bangala.md#fig-silver-exchange).
 
 [23] ✓ Yule identifies the second capital as Talifu, the old seat of kings in Carajan, and its Mongol prince as Hügechi. The conquest of the kingdom dates to the 1250s [@yc, 2.48 n. 1; @yc, 2.49 n. 1].
 
@@ -140,4 +142,4 @@ At the exchange in Zardandan, Polo reckons five weights of silver to one of gold
 
 [36] ~ Yule cites descriptions of spirit-medium healing for comparison with the music, possession and offerings Polo describes. The account puts the family’s expenses and preparations on the page as clearly as the performance itself [@yc, 2.50 nn. 8–12].
 
-[37] ~ The Book gives the same five-to-one rate here and at the market on the descent. The claim about a distant supply of silver is Polo’s explanation for the opportunity he sees in the exchange [@yc, 2.50 n. 5; @yc, 2.53]. See [Diagram C9, gold and silver exchange rates](../media/diagrams/C9-gold-silver.pdf).
+[37] ~ The Book gives the same five-to-one rate here and at the market on the descent. The claim about a distant supply of silver is Polo’s explanation for the opportunity he sees in the exchange [@yc, 2.50 n. 5; @yc, 2.53]. See [Diagram C9, gold and silver exchange rates](ch-08-mien-bangala.md#fig-silver-exchange).

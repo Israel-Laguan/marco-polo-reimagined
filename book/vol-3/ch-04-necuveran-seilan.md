@@ -26,6 +26,8 @@ Open your palm wide when the Book unlocks Seilan’s royal treasury. Beyond rive
 
 Leave Sendemain’s velvet cushion behind and squint upward through drifting cloud toward rusted iron bolted straight into cliff rock. Adam’s Peak rears so sheer above monsoon mist that pilgrims haul themselves step after trembling step up heavy iron chains riveted into bare granite [16]. Without those iron links, the Book notes flatly, scarcely a soul could reach the summit. Fifty years after Marco sailed past, Ibn Baṭṭūṭa climbed those very cliffs. He counted ten chains and named the highest, dizziest tether above empty air the “chain of the profession of faith,” where travellers clutched cold iron and prayed against sliding to the treetops below [17].
 
+![Pilgrims pull themselves up the chains on Adam’s Peak. Polo reports the ascent at second hand. Their clothing and the line of the path are conjectural. *(Modern illustration in the manner of Polonnaruwa murals. Not a historical artifact. This edition.)*](../media/plates/III-4-adams-peak-pilgrims.png){#fig-iii-4-adams-peak-pilgrims width=78%}
+
 At the rocky crest sits a revered grave and hollowed rock footprint [18]. Muslim worshippers climb those links to honour Adam, first father of mankind. Buddhist pilgrims kneel in equal devotion beside the tomb of Sagamoni Borcan (Śākyamuni Buddha) [19]. Before watching mountain keepsakes march halfway across Asia, climb down off that wind-scoured spire into a quiet walled royal park below.
 
 ---
@@ -54,66 +56,66 @@ Set the green dish gently back inside the palace vault and steer sixty miles wes
 
 ## Notes
 
-[1] ✓ Coaster ships backtrack along northern Java the Less to Lambri (Lamuri) before shaping a north-north-west run into the Bay of Bengal [@yc, 3.11].
+[1] ✓ Coaster ships backtrack along northern Java the Less to Lambri (Lamuri) before shaping a north-north-west run into the Bay of Bengal [@yc, 3.11]. Lambri served as the final Sumatran watering point before captains struck out across open water toward Ceylon.
 
-[2] ~ Passing tiny Gauenispola 150 miles north of Lambri records a real sailing landmark left unidentified, along with Polo’s unkept promise to return to it [@yc, 3.12 n. 1].
+[2] ~ Passing tiny Gauenispola 150 miles north of Lambri records a real sailing landmark left unidentified, along with Polo’s unkept promise to return to it later in the Book [@yc, 3.12 n. 1]. Yule compares candidates among the small islands off Aceh Head such as Pulo Rondo or Pulo Bras.
 
-[3] ✓ Red sandalwood, coconut palms, and red dyewood appear among Necuveran’s chief forest yields along Indian Ocean shipping lanes [@yc, 3.12 n. 1].
+[3] ✓ Red sandalwood, coconut palms, and red dyewood appear among Necuveran’s chief forest yields along Indian Ocean shipping lanes [@yc, 3.12 n. 1]. Passing ships regularly paused at the Nicobar Islands for fresh water, nuts, and timber.
 
-[4] ~ Pairing cloves with coconuts blends Nicobar products with eastern archipelago trade spices reaching sailors’ notebooks, while nakedness apart from a silk headband reflects exaggerated shore hearsay [@yc, 3.12 n. 1].
+[4] ~ Pairing cloves with coconuts blends Nicobar products with eastern archipelago trade spices reaching sailors’ notebooks [@yc, 3.12 n. 1]. Going naked apart from a silk forehead band reflects exaggerated shipboard descriptions of island bark-cloth dress.
 
-[5] ~ Yule cites the ninth-century Arabic *Relations* (*Akhbār al-Ṣīn wa-l-Hind*), describing Nicobar islanders paddling canoes out to swap ambergris and coconuts for iron [@yc, 3.12 n. 1].
+[5] ~ Yule cites the ninth-century Arabic *Relations* (*Akhbār al-Ṣīn wa-l-Hind*), describing Nicobar islanders paddling canoes out to swap ambergris and coconuts for iron [@yc, 3.12 n. 1]. Trading alongside passing hulls without coming ashore kept islanders and foreign crews at a cautious distance.
 
-[6] ✗ Dog-headed men with mastiff jaws revive ancient *cynocephali* marvels rather than eyewitness observation; Laufer in Cordier’s addenda traces the wider Eurasian folk motif [@yc, 3.13 n. 1; @ycadd, on 3.13].
+[6] ✗ Dog-headed men with mastiff jaws revive ancient *cynocephali* marvels rather than eyewitness observation [@yc, 3.13 n. 1]. Laufer in Cordier’s addenda traces the wider Eurasian folk motif across Greek, Chinese, and Arab geographic lore [@ycadd, on 3.13].
 
-[7] ✗ Yule notes the sharp internal contradiction between branding Andamanese islanders indiscriminate cannibals and crediting them with settled crops of rice, milk, and meat [@yc, 3.13 n. 1].
+[7] ✗ Yule notes the sharp internal contradiction between branding Andamanese islanders indiscriminate cannibals and crediting them with settled crops of rice, milk, and meat [@yc, 3.13 n. 1]. Mariners feared the Andamans and filled the unvisited shores with stock monster stories.
 
-[8] ~ Schlegel traces *Angamanain* to an Arabic dual form for the Great and Little Andamans, showing genuine nautical geography beneath sailors’ horror tales [@yc, 3.13 n. 1].
+[8] ~ Schlegel traces *Angamanain* to an Arabic dual form for the Great and Little Andamans [@yc, 3.13 n. 1]. That grammatical dual shows genuine Arab nautical geography operating beneath the sailors’ horror tales.
 
-[9] ✓ Running roughly a thousand miles west-south-west across the Bay of Bengal brings ships steadily down to low-lying northern Seilan (Sri Lanka) [@yc, 3.14].
+[9] ✓ Running roughly a thousand miles west-south-west across the Bay of Bengal brings ships steadily down to low-lying northern Seilan (Sri Lanka) [@yc, 3.14]. The bearing and distance match the open-sea monsoon passage from the Nicobar channel to the Ceylon coast.
 
-[10] ✗ Twenty-four hundred miles and older charts’ thirty-six hundred both vastly exceed Sri Lanka’s true coastline (under 700 miles), though wind-driven coastal inundation offers an imaginative mariner’s explanation [@yc, 3.14 n. 2].
+[10] ✗ Twenty-four hundred miles and older charts’ thirty-six hundred both vastly exceed Sri Lanka’s true coastline of under 700 miles [@yc, 3.14 n. 2]. Attributing the shrinkage to fierce north winds eroding the low northern plains offers an imaginative mariner’s explanation for why older periplus figures looked too large.
 
-[11] ? Identifying Sendemain remains unresolved: Yule places Pandita Parākramabāhu III at Dambadeniya (numbered II in Cordier’s addenda for 1267–1301), whereas Tennent favours the Malay invader Chandra Banu beside northern Tamil kings [@yc, 3.14 n. 3; @ycadd, on 3.14; @tennent1859ceylon].
+[11] ? Identifying Sendemain remains unresolved: Yule places Pandita Parākramabāhu III at Dambadeniya (numbered II in Cordier’s addenda for 1267–1301), whereas Tennent favours the Malay invader Chandra Banu beside northern Tamil kings [@yc, 3.14 n. 3; @ycadd, on 3.14; @tennent1859ceylon]. No single Sinhalese or Tamil royal title fits the transcription cleanly.
 
-[12] ~ Rice, sesame oil, tree-toddy, and red dyewood align neatly with Polo’s inventory and later Chinese notices such as Ma Huan quoted by Cordier [@yc, 3.14 n. 4].
+[12] ~ Rice, sesame oil, tree-toddy, and red dyewood align neatly with Polo’s inventory and later Chinese notices such as Ma Huan quoted by Cordier [@yc, 3.14 n. 4]. Those staple products sustained both local island markets and calling merchant fleets.
 
-[13] ~ Recruiting Muslim soldiers from abroad alongside harsh judgement on local valour combines historical mercenary hiring with cultural bias [@yc, 3.14].
+[13] ~ Recruiting Muslim soldiers from abroad alongside harsh judgement on local valour combines historical mercenary hiring with merchant bias [@yc, 3.14]. South Indian and Arab troops frequently served in the island kings' competing armies during the thirteenth century.
 
-[14] ✗ While Sri Lanka genuinely exports sapphires, topazes, and rubies, claiming exclusive origin and a flawless palm-long royal stone follows gem romance [@yc, 3.14 n. 5].
+[14] ✗ While Sri Lanka genuinely exports sapphires, topazes, amethysts, and rubies, claiming exclusive origin and a flawless palm-long royal stone follows gem romance [@yc, 3.14 n. 5]. Chinese and Arab writers told similar stories of a colossal fiery ruby in the king of Ceylon's treasury.
 
-[15] ? Cublay’s city-price offer and Sendemain’s ancestral refusal belong peculiarly to Polo’s court anecdote, though Hayton parallels the giant ruby legend [@yc, 3.14 n. 5].
+[15] ? Cublay’s city-price offer and Sendemain’s ancestral refusal belong peculiarly to Polo’s court anecdote, though Hayton parallels the giant ruby legend [@yc, 3.14 n. 5]. The story sets the Great Kaan's collector's appetite against an island king's dynastic duty.
 
-[16] ✓ Iron stanchions and riveted chains up Adam’s Peak are corroborated independently as genuine medieval pilgrim engineering [@yc, 3.15 nn. 1, 5].
+[16] ✓ Iron stanchions and riveted chains bolted into the granite precipice up Adam’s Peak are corroborated independently as genuine medieval pilgrim engineering [@yc, 3.15 nn. 1, 5]. Rusting ancient chains still cling to the steep summit approach today, where local legend even linked them to Alexander the Great.
 
-[17] ✓ Ibn Baṭṭūṭa climbed the peak half a century later (Lee’s translation, ch. XX), counting ten iron chains and naming the top tether the “chain of the profession of faith” [@yc, 3.15 n. 1].
+[17] ✓ Ibn Baṭṭūṭa climbed the peak half a century later (Lee’s translation, ch. XX), counting ten iron chains and naming the top tether the “chain of the profession of faith” because fearful climbers recited the creed as they gripped it [@yc, 3.15 n. 1]. Both travellers notice the exact hardware that made the perilous ascent possible.
 
-[18] ✓ Competing Muslim and Buddhist reverence at the summit footprint accurately captures the mountain’s shared devotional life [@yc, 3.15 nn. 1, 5].
+[18] ✓ Competing Muslim and Buddhist reverence at the summit shrine accurately captures the mountain’s shared devotional life [@yc, 3.15 nn. 1, 5]. In the Book's telling only Muslims (claiming Adam) and Buddhists (claiming Sagamoni Borcan) dispute the peak, whereas Hindu and Portuguese Christian claims appear in outside sources [@tennent1859ceylon].
 
-[19] ✓ Sagamoni Borcan cleanly reproduces the Mongol title for Śākyamuni Buddha beside Muslim Adam traditions on the crag [@yc, 3.15 nn. 1, 5].
+[19] ✓ Sagamoni Borcan cleanly reproduces the Mongol title (*Burkhan*) for Śākyamuni Buddha beside Muslim Adam traditions on the crag [@yc, 3.15 nn. 1, 5]. Using a Mongol religious title on a Sri Lankan mountain shows how Marco filtered Indian Ocean sights through the court vocabulary of Cambaluc.
 
-[20] ~ Guarding a secluded prince inside an orchard palace filled with music reflects Buddhist legends of the Buddha’s youth compressed into a single-heir tale [@yc, 3.15 n. 2].
+[20] ~ Guarding a secluded prince inside an orchard palace filled with music and maidens reflects classical Buddhist legends of Siddhārtha Gautama's youth [@yc, 3.15 n. 2]. Polo's listeners receive one of Western literature's earliest recognisable biographies of the historical Buddha.
 
-[21] ~ Meeting a roadside corpse adapts one of the classical Four Sights of the Great Departure into direct roadside dialogue [@yc, 3.15 n. 2].
+[21] ~ Meeting a roadside corpse adapts one of the classical Four Sights of the Great Departure into direct dialogue between the startled prince and his attendants [@yc, 3.15 n. 2]. The shock of death shatters the palace illusion his father built around him.
 
-[22] ~ Passing the bent, toothless elder completes the sheltered prince’s encounter with mortality as transmitted to Polo’s hearers [@yc, 3.15 n. 2].
+[22] ~ Passing the bent, toothless elder completes the sheltered prince’s encounter with human mortality as transmitted to Polo’s hearers [@yc, 3.15 n. 2]. Polo's version condenses the traditional four encounters—old age, sickness, death, and an ascetic—into death and old age.
 
-[23] ~ Turning the prince’s departure into a quest for an undying Creator recasts Buddhist renunciation in Christian devotional speech [@yc, 3.15 n. 2].
+[23] ~ Turning the prince’s departure into a quest for an undying Creator recasts Buddhist renunciation in Christian devotional speech [@yc, 3.15 n. 2]. A medieval Venetian naturally translated seeking liberation from rebirth into seeking the God who made the world.
 
-[24] ~ Regretting only that so pure an ascetic lacked Christian baptism echoes parallels in the Barlaam and Josaphat tradition weighed by Yule [@yc, 3.15 n. 3].
+[24] ~ Regretting only that so pure an ascetic lacked Christian baptism echoes parallels in the medieval Christian legend of Barlaam and Josaphat weighed by Yule [@yc, 3.15 n. 3]. Josaphat's own name ultimately derived from *Bodhisattva* through Arabic and Georgian translations.
 
-[25] ? Crediting a grieving father’s gilded statue with Asia’s first idol converts Buddhist image origins into a royal memorial story [@yc, 3.15 n. 4].
+[25] ? Crediting a grieving father’s gilded and jewelled statue with Asia’s first idol converts Buddhist image origins into a royal memorial story [@yc, 3.15 n. 4]. The explanation mirrors popular medieval Christian theories of how pagan image-worship first began.
 
-[26] ✗ Compressing Jātaka rebirth traditions into eighty-four neat births ending in godhead imposes Polo’s tidy count on complex lore [@yc, 3.15 nn. 2–4].
+[26] ✗ Compressing Jātaka rebirth traditions into eighty-four neat animal and human births ending in godhead imposes Polo’s tidy count on complex Buddhist lore [@yc, 3.15 nn. 2–4]. Even so, the passage grasps the core doctrine of successive karmic rebirths leading to buddhahood.
 
-[27] ✓ Likening Buddhist peak pilgrimage to Christian journeys to Santiago de Compostela anchors unfamiliar worship for European readers [@yc, 3.15 n. 5].
+[27] ✓ Likening Buddhist peak pilgrimage to Christian journeys to classic shrines anchors unfamiliar worship for European readers [@yc, 3.15 n. 5]. The comparison treats the Asian pilgrims' devotion with notable respect.
 
-[28] ~ Recording two rival relic claims while objecting to Adam’s Asian grave on scriptural grounds carefully divides Polo’s report from his own creed [@yc, 3.15 n. 5].
+[28] ~ Recording two rival relic claims while objecting to Adam’s Asian grave on scriptural grounds carefully divides Polo’s report from his own creed [@yc, 3.15 n. 5]. He sets down what both Muslim and Buddhist informants told him while reserving his orthodox Christian dissent.
 
-[29] ? Dating a relic mission to 1284 gives an unconfirmed historical frame round real Mongol diplomatic interest in Sri Lankan sacred treasures [@yc, 3.15 n. 6].
+[29] ? Dating a Yuan relic mission to 1284 gives an unconfirmed year around real Mongol diplomatic interest in Sri Lankan sacred treasures [@yc, 3.15 n. 6]. Chinese annals record envoys such as Yiheimishi sent to Ceylon for the Buddha's alms bowl and relics in the 1280s.
 
-[30] ~ Naming two molar teeth, hair, and a green porphyry bowl fits prominent Buddhist tooth and alms-bowl relic traditions assembled by Yule [@yc, 3.15 nn. 5–7].
+[30] ~ Naming two molar teeth, hair, and a green porphyry bowl fits prominent Buddhist tooth and alms-bowl (*pātra*) relic traditions assembled by Yule [@yc, 3.15 nn. 5–7]. In the Book, however, the court receives the objects under the Muslim identification as relics of Adam.
 
-[31] ~ Staging a vast clerical and civic reception outside Cambaluc matches Yuan ceremonial spectacle, though Polo misidentifies the objects as Adam’s [@yc, 3.15 n. 6].
+[31] ~ Staging a vast clerical and civic reception outside Cambaluc matches Yuan ceremonial spectacle [@yc, 3.15 n. 6]. Cublay patronized Buddhist relics lavishly while letting different communities attach their own sacred histories to them.
 
-[32] ? Claiming the green porphyry bowl multiplies one portion to fill five borrows classic Buddhist alms-bowl miracle lore for Cublay’s table [@yc, 3.15 n. 7].
+[32] ? Claiming the green porphyry bowl multiplies one portion of food to fill five borrows classic Buddhist alms-bowl miracle lore for Cublay’s table [@yc, 3.15 n. 7]. See [Back Matter III-1, “Adam's Peak”](back-01-trivia-and-afterlives.md#trivia-worth-keeping) for the mountain's competing traditions.

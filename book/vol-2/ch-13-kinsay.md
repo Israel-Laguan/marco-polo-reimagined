@@ -51,6 +51,8 @@ Pepper has a reckoning of its own. In Ramusio’s account a customs officer tell
 
 After business, the lake barges in Ramusio can carry a table and chairs and twenty guests. The crew pole them from the roof. Below, a person at dinner can open a window and watch the temple gardens slide past [34]. On land a covered carriage fitted for six will take a party to the gardens and bring them back by evening [35]. A person with money to spend can see the city from almost any height except that of a man poling the boat.
 
+![Roofed barges bring guests to the lakeside pavilions at Kinsay. Ramusio supplies the fuller account of these outings. *(Modern illustration in the manner of a Song–Yuan city-genre handscroll. Not a historical artifact. This edition.)*](../media/plates/II-13-west-lake-barges.png){#fig-ii-13-west-lake-barges}
+
 Ramusio puts an old merchant beside Polo at the former palace of Facfur, the ruler of Manzi. The earlier account has gardens, lakes and a thousand splendid rooms. The merchant points out which pavilions survive, where the women’s courts were and where the garden wall has fallen [36]. In his recollection the royal feasts could seat ten thousand, all in silk and gold. Looking at walls you can barely trace is a good way to hear a man’s idea of the years when they were full.
 
 ---

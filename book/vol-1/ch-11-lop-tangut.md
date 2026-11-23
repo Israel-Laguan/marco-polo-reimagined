@@ -13,9 +13,11 @@ The march to Lop (Charklik) is five days over sand by Polo’s reckoning, and th
 
 ### Map of the desert and Tangut road
 
-![The desert and Tangut road to Chandu, with reported branches to Camul, Sinju, Caracoron and the Bargu region. Tenduc is a provisional regional label near Tümed and the great bend of the Yellow River; proposed centres include the Hohhot–Togtoh area and Olon Süme, with Ordos another reading. Chingintalas and Chagannor remain unfixed. *(Map: this edition, from the Book and S-16.)*](../media/maps/A6-lop-to-chandu.svg)
+![Map A6. The desert and Tangut road to Chandu, with reported branches to Camul, Sinju, Caracoron and the Bargu region. Tenduc is a provisional regional label near Tümed and the great bend of the Yellow River; proposed centres include the Hohhot–Togtoh area and Olon Süme, with Ordos another reading. Chingintalas and Chagannor remain unfixed. *(Map: this edition, from the Book and S-16.)*](../media/maps/A6-lop-to-chandu.svg)
 
 Picture it at night. A man on the road gets a little way behind the others and then hears someone call him by name. It’s the sound he has wanted to hear. Think how he would go about finding the others if he were ahead, where he might reasonably stop and wait for them to come up. Put him behind, in the dark, and the best thing he can think to do is hurry, following whatever sign reaching his ears will let him choose a direction. By the time he realises there is nobody in front of him, he can have come too far from his companions to get back. In the Book he has heard spirits. The story has voices and music even by day, and says the sound they make most often is drums [5]. In Ramusio the straggler hears a whole party riding by. He follows and finds himself lost at daybreak [6]. The desert is a year’s ride in its full length in the telling. It is no great comfort to this man to know that the others took it at its narrowest point.
+
+![A straggler hears spirit voices in the Lop desert; the ghostly caravan visualizes folklore, and the cavalcade is a later Ramusio detail. *(Modern illustration in the manner of Dunhuang wall painting. Not a historical artifact. This edition.)*](../media/plates/I-11-lop-spirits.png){#fig-i-11-lop-spirits}
 
 — The earlier pilgrim accounts give other people occasion to dread voices and spirits in desert country. It is worth listening for what the travellers need to know in the story before asking how far the sound can travel: the man behind the others needs to tell which direction they’ve gone in [7].
 

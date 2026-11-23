@@ -14,3 +14,15 @@ Downloaded 2026-11-10. Sources, captions and holder terms: `plans/registry/pd-so
 | `III-11-alt_1477-creussner-woodcut-dibdin1822.jpg` | 1902 × 3050 | a704e661ba8882c6 | Commons, Internet Archive Book Images, Dibdin 1822 | PD (1822). |
 | `III-12_catalan-atlas-sheet10-caravan.jpg` | 5350 × 2350 | 820331e756aa3a35 | Commons `Catalan_Atlas_BNF,_sheet_10.jpg`, cropped here: x 1000–6350, y 11600–13950 of 6400 × 15744, JPEG q95 | Work PD. **Reference only, not for print** (BnF licence not bought; print uses `III-12-alt`). |
 | `III-12-alt_loc1959-facsimile-caravan.jpg` | 3977 × 2400 | e0e42f7524a63b77 | Commons `Mapamondi._LOC_2010587630-5.jpg` (LoC 1959 facsimile), cropped here: x 45–97 %, y 6–30 % of 7648 × 10000, turned 180°, JPEG q92 | LoC scan PD; facsimile probably no new rights (see `pd-sources.md`). Redrawn colours. |
+
+## Production derivatives · 23 November 2026
+
+Pixel rectangles below are (left, top, right, bottom), measured before rotation. All files retain their source proportions.
+
+| File | Dimensions | SHA-256 prefix | Source and processing |
+|---|---|---|---|
+| [II-03_omont1907-pl43-f39r.jpg](II-03_omont1907-pl43-f39r.jpg) | 2400 × 1520 | cdc35178dbe1571b | [Getty leaf 120](https://archive.org/details/gri_33125001125638/page/n120/mode/1up), (241, 330, 1761, 2730), 90° clockwise. |
+| [II-04_npm-liu-guandao-hunt.jpg](II-04_npm-liu-guandao-hunt.jpg) | 1726 × 2996 | 1cb2ae7338b1faf1 | [Museum IIIF PAB](https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000866N000000000PAB/full/full/0/default.jpg), 2291 × 3055. Crop (310, 24, 2036, 3020). See the [manifest](https://digitalarchive.npm.gov.tw/Integrate/GetJson?cid=745&dept=P) and [object and credit record](https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/745?dep=P&mode=full). |
+| [II-04_omont1907-pl47-f42v.jpg](II-04_omont1907-pl47-f42v.jpg) | 2435 × 1474 | 55d12811167e6e6a | [Getty leaf 128](https://archive.org/details/gri_33125001125638/page/n128/mode/1up), (302, 277, 1776, 2712), 90° clockwise. |
+| [III-01_kyushu-boarding-detail.jpg](III-01_kyushu-boarding-detail.jpg) | 3410 × 1554 | 58a3ef36920c964e | Crop (3190, 0, 6600, 1554) of the Kyushu master above. |
+| [III-11_colombina-right-page.jpg](III-11_colombina-right-page.jpg) | 1790 × 2350 | 668becf589c21374 | Crop (1880, 70, 3670, 2420) of the Hispalois master above. |

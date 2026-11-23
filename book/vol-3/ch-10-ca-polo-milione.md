@@ -17,6 +17,8 @@ To settle who they were, Ramusio’s Polos invited every sceptical kinsman to a 
 
 Then Marco rose, fetched the battered, patched Tartar travelling coats they had worn to the door, and laid a knife along the seams. Out tumbled rubies, sapphires, diamonds, and emeralds flashing across the white tablecloth [5]. No thief on Persian roads and no greedy cousin at the door had guessed what fortune rode stitched inside greasy linings. Word flew down the canals, and half Venice crowded into the courtyard to embrace them—though Ramusio’s 1559 preface remains our sole witness for that theatrical supper and slashed coats [6]. Every cousin who had shut the door on three ragged strangers now claimed kinship over cut velvet and spilled gems.
 
+![The Polos uncover jewels sewn into their travelling coats on their return to Venice, c. 1295, in Ramusio’s later tradition. The homecoming scene is undocumented. *(Modern illustration in the manner of Venetian Gothic. Not a historical artifact. This edition.)*](../media/plates/III-10-tartar-coat-jewels.png){#fig-iii-10-tartar-coat-jewels width=78%}
+
 ### The name in the city
 
 Ramusio keeps young Venetians trooping back to the house to hear Marco tell of Cambaluc (Beijing)’s palaces and treasuries. Whenever his reckoning of the Great Kaan’s revenues climbed into ten or fifteen millions of gold, listeners grinned behind their hands and tagged him *Messer Marco Milioni*—the man of millions [7]. Other writers offered rival roots: Jacopo d’Acqui credited a million *lire* in family fortune, while Giusto Fontanini heard incredulous readers mocking a million tall tales [8]. Archival ink settles at least that the name stuck early in Venice itself: Marco Pozza identifies “Marco Polo Milion” in a 1319 confraternity roll as the traveller, as Bolognari reports [9]. What began around supper tables or counting-houses soon became the tag by which Venice remembered him.
@@ -53,70 +55,70 @@ By 1375, however, a Majorcan workshop with gold leaf and sea-charts in hand foun
 
 ## Notes
 
-[1] ~ Ramusio-only. The ragged homecoming in San Giovanni Grisostomo comes solely from Ramusio’s 1559 preface, more than two centuries after 1295 [@yc, Introduction § 5].
+[1] ~ Ramusio-only. The ragged homecoming in San Giovanni Grisostomo comes solely from Ramusio’s 1559 preface, more than two centuries after 1295 [@yc, Introduction § 5]. The earliest Franco-Italian and Latin texts close the voyage simply with the arrival at Venice in 1295.
 
-[2] ✓ Documentary records independently confirm Polo family houses and court ties in the Venetian parish of San Giovanni Grisostomo [@agazzi2024casa].
+[2] ✓ Documentary records independently confirm the Polo family houses and property dealings around the Corte Sabbionera in the Venetian parish of San Giovanni Grisostomo [@agazzi2024casa]. The archival deeds anchor the family's domestic setting after their return from the East.
 
-[3] ~ Ramusio names Senator Gasparo Malipiero as his neighbourhood source, tracing the homecoming tale across three Venetian generations [@yc, Introduction § 5].
+[3] ~ Ramusio-only. Ramusio names his friend Senator Gasparo Malipiero, an elderly neighbour by San Giovanni Grisostomo, as his source for the homecoming story [@yc, Introduction § 5]. Malipiero reportedly heard the anecdote from his father and grandfather in the parish.
 
-[4] ~ Ramusio-only. Changing from crimson satin to damask, velvet, and plain cloth while distributing cut robes to servants belongs solely to Ramusio’s supper story [@yc, Introduction § 5].
+[4] ~ Ramusio-only. Changing from crimson satin to crimson damask, then crimson velvet, and finally plain Venetian cloth while cutting up the rich robes for the servants belongs solely to Ramusio’s supper story [@yc, Introduction § 5]. The triple costume change echoes folkloric recognition banquets.
 
-[5] ~ Ramusio-only. Slitting seams of patched Tartar coats to spill rubies, sapphires, diamonds, and emeralds completes Ramusio’s recognition scene [@yc, Introduction § 5].
+[5] ~ Ramusio-only. Slitting the seams of the patched Tartar coats to spill rubies, sapphires, diamonds, and emeralds onto the tablecloth completes Ramusio’s theatrical scene [@yc, Introduction § 5]. Once the gemstones appear on the board, the sceptical cousins immediately embrace the three travellers as kinsmen.
 
-[6] ~ No fourteenth-century Venetian deed or chronicle corroborates the theatrical supper or slashed coats outside Ramusio [@yc, Introduction § 5].
+[6] ~ No fourteenth-century Venetian deed or contemporary chronicle corroborates the banquet or the slashed coats outside Ramusio [@yc, Introduction § 5]. Yule and modern scholars treat the tale as vivid neighbourhood legend rather than family record.
 
-[7] ? Ramusio derives *Milione* from Marco’s repeated millions of imperial revenue; Yule leans toward this explanation while noting the root remains unproved [@yc, Introduction §§ 5, 37, 44].
+[7] ? Ramusio derives *Milione* from Marco’s repeated talk of Cublay Kaan's millions of gold bezants in imperial revenue [@yc, Introduction §§ 5, 37, 44]. Yule leans toward this explanation while noting that alternative archival derivations remain open.
 
-[8] ? Jacopo d’Acqui linked *Milione* to a million *lire* of family wealth, whereas Fontanini read it as mocking a million tall stories [@yc, Introduction §§ 5, 37, 44].
+[8] ? Jacopo d’Acqui linked *Milione* to a million *lire* of family wealth, whereas later writers such as Fontanini read it as mocking a million tall stories [@yc, Introduction §§ 5, 37, 44]. A surname root derived from an ancestor named *Emilione* has also been proposed in Venetian archival scholarship.
 
-[9] ✓ Pozza identifies “Marco Polo Milion” in a 1319 confraternity roll as the traveller, as Bolognari reports alongside a Florentine Pipino title containing *Milion* [@bolognari2024chronica, pp. 38–39].
+[9] ✓ Pozza identifies “Marco Polo Milion” in a 1319 confraternity roll as the traveller, as Bolognari reports alongside a fourteenth-century Florentine Pipino manuscript title containing *Milion* [@bolognari2024chronica, pp. 38–39]. Those records show the byname already attached to Marco and his book in his own generation.
 
-[10] ? Yule cited a 1305 Great Council surety naming “Marcus Paulus Milion,” though modern study of homonymous Polo cousins cautions against equating him uncritically with the traveller [@yc, Introduction § 44; @bolognari2024chronica, pp. 38–39].
+[10] ? Yule cited a 10 April 1305 Great Council resolution naming a “noble Marcus Paulus Milion” standing surety for a wine-smuggling penalty [@yc, Introduction § 44]. Modern study of homonymous Polo cousins cautions against equating that 1305 surety uncritically with the traveller [@bolognari2024chronica, pp. 38–39].
 
-[11] ✓ The 1311 Venice judgment records Marco Polo suing agent Paulo Girardo over 1.5 pounds of musk entrusted on profit-share [@yc, Introduction § 46].
+[11] ✓ A Venetian court judgment of 9 March 1311 records Marco Polo suing his commission agent Paulo Girardo over a pound and a half of musk entrusted on a half-profit contract [@yc, Introduction § 46]. The lawsuit offers a direct glimpse of Marco continuing to trade in high-value Asian aromatics on the Rialto.
 
-[12] ✓ Yule quotes the court award pricing musk at six *lire* of grossi per pound and recovering the missing *saggio* and costs [@yc, Introduction § 46].
+[12] ✓ Yule quotes the court award pricing the musk at six *lire* of grossi per pound and ordering Girardo to pay for the missing *saggio* plus legal costs or face imprisonment [@yc, Introduction § 46]. Even a single *saggio*—a sixth of an ounce—was worth taking to the judges of the Petizion.
 
-[13] ✓ A May 1323 suit before the Doge and judges documents property disputes over stairs, porticoes, and Donata’s family shares [@yc, Introduction § 46].
+[13] ✓ A May 1323 document before the Doge and judges records household boundary and property arrangements involving stairs, porticoes, and chambers in San Giovanni Grisostomo [@yc, Introduction § 46]. The deed shows Marco and his wife Donata managing their shared courtyard property months before his death.
 
-[14] ✓ Marco’s will names Donata and three daughters (Fantina, Bellela, Moreta); Gullino identifies Donata as Vitale Badoer’s daughter, married at an uncertain date [@bartoli2019edizione, doc. 33; @gullino2015marco; @yc, Introduction § 7].
+[14] ✓ Marco’s 1324 will names his wife Donata and their three daughters, Fantina, Bellela, and Moreta [@bartoli2019edizione, doc. 33; @yc, Introduction § 7]. Gullino identifies Donata as the daughter of the merchant Vitale Badoer, married at an uncertain date after Marco's return [@gullino2015marco].
 
-[15] ✓ Gullino records Fantina’s marriage to Marco Bragadin and Moreta’s marriages to Ranuzzo Dolfino and Tommaso Gradenigo; Bolognari cites Gallo’s 1326–27 mass records linking Bellela to Bertuccio Querini, though Bellela’s death year remains open [@gullino2015marco; @bolognari2020convent, p. 19].
+[15] ✓ Gullino records Fantina’s marriage to Marco Bragadin and Moreta’s marriages to Ranuzzo Dolfino and Tommaso Gradenigo [@gullino2015marco]. Bolognari cites Gallo’s 1326–27 mass records linking Bellela to Bertuccio Querini, while leaving Bellela’s exact year of death open [@bolognari2020convent, p. 19].
 
-[16] ? A reported 1319 will names an Agnese as daughter of a Marco Polo; Orlando treats identification with the traveller as possible pending direct check of the archival text [@ferrarin2022agnese; @orlando2025novita].
+[16] ? A reported 1319 testament names an Agnese as daughter of a Marco Polo [@ferrarin2022agnese]. Orlando treats her identification as an older daughter of the traveller from a possible earlier union or household tie as an open question pending further archival study [@orlando2025novita].
 
-[17] ✓ Yule dates Thibault de Cepoy and Pierre le Riche’s Venice treaty on behalf of Charles of Valois to 14 December 1306 [@yc, Introduction § 45].
+[17] ✓ Yule dates the treaty negotiated at Venice by Thibault de Cepoy and Pierre le Riche on behalf of Charles of Valois to 14 December 1306 [@yc, Introduction § 45]. Thibault's diplomatic stay in Venice created the occasion for acquiring a French copy of Marco's book.
 
-[18] ~ Two manuscripts (Paris, BnF, fr. 5649, and Bern) carry the note claiming Marco gave Cepoy this first copy in August 1307 [@yc, Introduction § 45].
+[18] ~ Two French manuscripts (Paris, BnF, fr. 5649, and Bern) carry the colophon note stating that Sire Marc Pol gave “the first copy” of his book to Thibault de Cepoy in Venice in August 1307 [@yc, Introduction § 45]. The note preserves a rare dated record of the author handing his work to an aristocratic patron.
 
-[19] ~ The same manuscript note traces Jean de Cepoy copying the volume for Valois and friends, documenting early aristocratic circulation [@yc, Introduction § 45].
+[19] ~ The same colophon traces Thibault’s son Jean de Cepoy presenting a copy to Charles of Valois and making further transcripts for friends [@yc, Introduction § 45]. That presentation channel helped launch the courtly Old French tradition of the Book across northern Europe.
 
-[20] ~ Ramusio assigned Pipino’s Latin translation to 1320 and Yule suggested 1315; modern estimates place it in Marco’s lifetime, probably in the 1310s [@yc, Introduction §§ 43, 60, 76; @yc, Prologue, Pipino’s preface].
+[20] ~ Ramusio assigned Francesco Pipino’s Latin translation to 1320 and Yule suggested about 1315 [@yc, Introduction §§ 43, 60, 76]. Modern scholarship places Pipino's work in Marco’s lifetime, probably during the 1310s [@yc, Prologue, Pipino’s preface].
 
-[21] ✓ Pipino’s Latin preface vouches for Marco’s pious character and recommends the book for Christian missionary knowledge [@yc, Prologue, Pipino’s preface].
+[21] ✓ Pipino’s Latin preface vouches for Marco’s upright Christian character—alongside his father Niccolò and uncle Maffeo—and recommends the book to edify faithful readers and inspire missionary zeal [@yc, Prologue, Pipino’s preface]. Turning the vernacular travelogue into church Latin opened libraries and monasteries across Christendom to the text.
 
-[22] ✓ Pipino drew on Polo in his Latin chronicle and named the Venetian author explicitly in a Modena witness [@yc, Introduction §§ 43, 76].
+[22] ✓ Pipino also drew directly on Polo in his Latin *Chronicon* and named the Venetian author explicitly in a Modena manuscript witness [@yc, Introduction §§ 43, 76]. His double use of the book shows how quickly Dominican scholars absorbed Marco's eastern geography.
 
-[23] ✓ Yule prints the *Conciliator* passage recording Marco’s sketch of a faint tailed southern star and the pole’s height as a soldier’s lance [@yc, Introduction § 77].
+[23] ✓ Yule prints the passage from Pietro d’Abano’s *Conciliator differentiarum* recording his conversation with Marco Polo about the equatorial sky [@yc, Introduction § 77]. Marco sketched a faint southern star shaped like a sack with a tail and described the Southern Pole's elevation as the length of a soldier's long lance.
 
-[24] ? Bottin dates the Venice meeting around 1300–03 and weighs whether Marco described a comet or the Southern Cross; both setting and star remain scholarly reconstructions [@bottin2008pietro, pp. 428–429, 436–440].
+[24] ? Bottin dates the meeting between Pietro d’Abano and Marco in Venice or Padua around 1300–03 and weighs whether the sketch represented a comet, the Magellanic Clouds, or the Southern Cross [@bottin2008pietro, pp. 428–429, 436–440]. Both the exact date of the conversation and the astronomical target remain scholarly reconstructions.
 
-[25] ~ Yule traces direct borrowings from Polo—including the Old Man of the Mountain and burning grave goods—in the French epic *Bauduin de Sebourc* [@yc, Introduction § 78].
+[25] ~ Yule traces direct narrative borrowings from Polo—including the Old Man of the Mountain, the synthesis of Eastern marvels, and Tartar funerary rites—in the fourteenth-century French verse romance *Bauduin de Sebourc* [@yc, Introduction § 78]. Vernacular poets mined the travelogue for exotic episodes while Marco was still alive.
 
-[26] ~ Larner surveys the finite fourteenth-century readership and argues early appeal was primarily literary across six languages, numbering roughly 150 Polo manuscripts against Mandeville’s 300 [@larner1999marco, chs. 6–7].
+[26] ~ Larner surveys the Book's fourteenth-century circulation across six languages and notes roughly 150 surviving Polo manuscripts against some 300 for Sir John Mandeville [@larner1999marco, chs. 6–7]. Early readers prized the work as courtly marvel and moral geography as much as practical trade manual.
 
-[27] ✓ Giovanni Giustiniani’s Latin will is dated 9 January 1324 (1323 Venetian style), naming Donata and three daughters as executors and San Lorenzo for burial [@bartoli2019edizione, doc. 33; @yc, Introduction § 47].
+[27] ✓ The notary-priest Giovanni Giustiniani drew up Marco’s Latin will on 9 January 1324 (1323 *more veneto*), naming Donata and the three daughters as trustees and choosing the Benedictine church of San Lorenzo for burial [@bartoli2019edizione, doc. 33; @yc, Introduction § 47]. The original parchment survives in Venice's Biblioteca Nazionale Marciana.
 
-[28] ✓ The will emancipates Pietro “of the Tartars,” remits his earnings, and grants him one hundred Venetian *lire* in denari without explaining his arrival in Venice [@moule1938description, vol. 1, p. 539; @bartoli2019edizione, doc. 33].
+[28] ✓ The will emancipates Marco’s servant Pietro “of the Tartars” (*Petrus famulus meus de genere Tartarorum*), grants him all he had earned in the household, and leaves him one hundred Venetian *lire* [@moule1938description, vol. 1, p. 539; @bartoli2019edizione, doc. 33]. How and when Pietro entered Marco's service is left unstated in the testament.
 
-[29] ~ Jacopo d’Acqui supplies Marco’s deathbed refusal to retract his marvels; his testimony stands as early tradition rather than an eyewitness transcript [@jacopo1848chronica; @yc, Introduction § 37; @bolognari2024chronica].
+[29] ~ Jacopo d’Acqui supplies the famous story that friends begged the dying Marco to prune back his book for the good of his soul, and that he answered he had not told one-half of what he had really seen [@jacopo1848chronica; @yc, Introduction § 37]. The scene stands as early fourteenth-century Lombard Dominican tradition rather than a bedside transcript [@bolognari2024chronica].
 
-[30] ? Bolognari compares Jacopo’s deathbed scene with an earlier truth-assurance linked by Pipino to elder Maffeo before a confessor [@bolognari2024chronica, pp. 36–38].
+[30] ? Bolognari compares Jacopo’s deathbed anecdote with Pipino’s preface, where it is the dying uncle Maffeo who solemnly assures his confessor that the book contains the plain truth [@bolognari2024chronica, pp. 36–38]. Both stories defend the Book's veracity through a deathbed oath.
 
-[31] ✓ Documentary editors place Marco’s death on 8 or 9 January 1324 from the will’s date and estate chronology [@bartoli2019edizione, doc. 33; @formentin2024codice; @formentin2024sentenza, p. 193].
+[31] ✓ Documentary editors place Marco’s death on 8 or 9 January 1324 from the will’s execution formula and the subsequent estate records [@bartoli2019edizione, doc. 33; @formentin2024codice; @formentin2024sentenza, p. 193]. He was roughly seventy years old by the Prologue's chronology.
 
-[32] ✓ Preserved in a 1366 copy, the post-mortem inventory lists the gold tablet, musk, aloe, rhubarb, and a jewelled gold *bocheta* (revising an older headdress reading) [@formentin2024sentenza, pp. 217–221].
+[32] ✓ Preserved in a 1366 court copy produced during Fantina Bragadin's estate lawsuit, the post-mortem inventory lists a golden *paiza* from the Tartar ruler, silk brocades, musk, aloe, rhubarb, and a jewelled gold *bocheta* (clasp or brooch, revising an older *bochcta* headdress reading) [@formentin2024sentenza, pp. 217–221]. Those objects show Marco keeping tangible keepsakes of the Yuan court in his chests until the end of his life.
 
-[33] ~ Yule traces Marco’s burial wish at San Lorenzo, early notices of Niccolò’s sarcophagus, and the 1592 rebuilding that erased the exact grave [@yc, Introduction § 48; @bartoli2019edizione, doc. 33].
+[33] ~ Yule traces Marco’s burial wish at San Lorenzo, where his father Niccolò already lay beneath a portico sarcophagus, and notes that the 1592 rebuilding of the church erased the grave [@yc, Introduction § 48; @bartoli2019edizione, doc. 33]. No trace of the family tomb survived the sixteenth-century reconstruction.
 
-[34] ? Yule surveys surviving Polo portraits; none preserves an authenticated likeness taken from life [@yc, Introduction § 48].
+[34] ? Yule surveys the later painted and engraved portraits of Marco Polo and concludes that none preserves an authenticated likeness taken from life [@yc, Introduction § 48]. The traveller's only surviving self-portrait remains the world he dictated into his Book.

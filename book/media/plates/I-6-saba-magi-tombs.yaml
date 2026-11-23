@@ -1,9 +1,9 @@
 plate: I-6
 title: Marco questions the townsfolk at the Magi tombs of Saba
-status: draft
+status: accepted
 tradition: Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14)
-caption: At Saba, Marco asks about three ancient tombs that Polo’s Book identifies with the Magi (◇ local tradition).
-  Modern illustration in the manner of Ilkhanid Persian manuscript painting. Not a historical artifact.
+caption: >-
+  At Saba, travellers ask about three tombs that local tradition in the Book associates with the Magi. Modern illustration in the manner of Ilkhanid Persian manuscript painting. Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model (version not disclosed)
 job_id: none, chat output

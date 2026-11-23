@@ -48,66 +48,66 @@ Yet set the salt-caked astrolabe and plaster wind-catchers quietly aside before 
 
 ## Notes
 
-[1] ✓ Turning directly from the Abash–Aden highland conflict to Aden harbour links East African highland news cleanly onto Red Sea spice traffic [@yc, 3.35–36].
+[1] ✓ Turning directly from the Abash–Aden highland conflict to Aden harbour links East African news cleanly onto Red Sea spice traffic [@yc, 3.35–36]. The Soldan of Aden who provoked the Ethiopian war now presides over the western toll-gate of the Indian trade.
 
-[2] ✓ Aden’s anchorage functioned as the primary medieval transfer station between oceanic Indian shipping and Red Sea traffic; Yule cites Ibn Baṭṭūṭa’s contemporary witness [@yc, 3.36 n. 1].
+[2] ✓ Aden’s sheltered crater anchorage functioned as the primary medieval transfer station between oceanic Indian shipping and Red Sea coaster traffic [@yc, 3.36 n. 1]. Yule cites Ibn Baṭṭūṭa’s contemporary description of great Indian merchantmen unloading at Aden.
 
-[3] ~ Seven days in small coastal boats north up the Red Sea represents Polo’s rough estimate for reaching transshipment ports such as ʿAydhāb or Quseir [@yc, 3.36 n. 1].
+[3] ~ Seven days in small coastal boats north up the Red Sea represents Polo’s compressed estimate for reaching Egyptian transshipment ports such as ʿAydhāb or Quseir [@yc, 3.36 n. 1]. Strong northern headwinds in the upper Red Sea forced big ocean hulls to transfer cargo to smaller lateen-rigged coasters.
 
-[4] ~ Thirty days by camel across the Eastern Desert to the Nile and downstream barge carriage to Alexandria map the historical Kārimī spice route [@yc, 3.36 n. 1].
+[4] ~ Thirty days by camel across the Eastern Desert to the Nile and downstream barge carriage to Alexandria map the historical *Kārimī* spice route [@yc, 3.36 n. 1]. The camel trek actually took closer to thirteen to twenty days from ʿAydhāb to Kūs on the Nile, while thirty days better fits the Red Sea boat passage.
 
-[5] ~ Ramusio-only. Longer Red Sea sailing estimates, light Arab *zerms*, and the *Calizene* canal enter Yule’s notes via Ramusio, whose revision Yule views cautiously [@yc, 3.36 n. 1].
+[5] ~ Ramusio-only. Longer Red Sea sailing estimates, light Arab *zerms* (*jarm* barges), and the *Calizene* (*Khalīj*, the Alexandria canal) enter Yule’s notes via Ramusio [@yc, 3.36 n. 1]. Yule notes that Ramusio or an earlier editor reshaped the itinerary to match familiar Venetian spice-route geography.
 
-[6] ~ Yule prints Marino Sanudo’s contrasting logistics: direct camel portage, Nile navigation, and high-water transit through the Alexandria flood canal [@yc, 3.36 n. 1].
+[6] ~ Yule prints Marino Sanudo’s contrasting fourteenth-century logistics side by side with Polo and Ramusio: a nine-day desert camel portage, Nile river navigation, and seasonal high-water transit through the Alexandria flood canal [@yc, 3.36 n. 1]. See the comparison table in this chapter.
 
-[7] ✓ Aden’s “Soldan” accurately names the Rasulid dynasty of Yemen, whose capital stood inland at Taʿizz while harbour tolls enriched the crown [@yc, 3.36 nn. 1–3].
+[7] ✓ Aden’s “Soldan” accurately names the Rasulid dynasty of Yemen, whose royal court stood inland at Taʿizz while Aden's harbour tolls enriched the treasury [@yc, 3.36 nn. 1–3]. The Rasulids maintained one of the best-documented customs administrations of the medieval Islamic world.
 
-[8] ✓ Charging dual harbour duties on incoming Indian spices and outgoing Arabian cavalry—including versatile *roncins* taking either pack or riding saddle—reflects Rasulid fiscal policy [@yc, 3.36 nn. 2–3].
+[8] ✓ Charging heavy harbour duties on incoming Indian spices and outgoing Arabian cavalry—including versatile two-saddle *roncins*—reflects Rasulid fiscal policy [@yc, 3.36 nn. 2–3]. Taxing pepper on the way west and warhorses on the way east gave the Sultan a double toll on the monsoon shuttle.
 
-[9] ~ Pricing fine Arabian chargers at a hundred silver marks or more in Indian ports matches Maabar cavalry valuations [@yc, 3.36 nn. 2–3; @yc, 3.17 n. 7].
+[9] ~ Pricing fine Arabian chargers at a hundred silver marks or more in Indian ports matches the Maabar cavalry valuations of Chapter III-5 [@yc, 3.36 nn. 2–3; @yc, 3.17 n. 7]. High Indian demand kept Arabian horse breeders and Gulf exporters busy every sailing season.
 
-[10] ? Aden’s alleged dispatch of 30,000 horsemen and 40,000 camels to the Mamluk siege of Acre in 1291 dramatises Muslim solidarity beyond documented numbers [@yc, 3.36 n. 4].
+[10] ? Aden’s alleged dispatch of 30,000 horsemen and 40,000 camels to the Mamluk siege of Acre in 1291 dramatises Muslim solidarity beyond documented numbers [@yc, 3.36 n. 4]. Polo attributes the Contingent to malice against Christians rather than alliance with the Sultan of Babylon (Cairo).
 
-[11] ~ Placing Esher (Ash-Shihr on the Hadramawt coast) four hundred miles north-west reflects Polo’s skewed Arab sea bearings beneath Aden’s overlordship [@yc, 3.37 n. 1].
+[11] ~ Placing Esher (Ash-Shihr on the Hadramawt coast) four hundred miles north-west of Aden reflects Polo’s skewed coastal bearings [@yc, 3.37 n. 1]. The actual coastline runs roughly east-north-east from Aden toward Oman.
 
-[12] ✓ Active Indian shipping and thriving Arabian horse exports out of Ash-Shihr are well attested [@yc, 3.37 n. 1].
+[12] ✓ Active Indian shipping and thriving Arabian horse exports out of Ash-Shihr under Rasulid overlordship are well attested in Arabic administrative texts [@yc, 3.37 n. 1]. Several smaller Hadramawt towns answered to its harbour governor.
 
-[13] ~ Royal frankincense monopoly buying at ten gold livres per hundredweight and reselling at sixty illustrates Hadramawt price mark-ups [@yc, 3.37 n. 2].
+[13] ~ A royal frankincense monopsony buying resin from hill gatherers at ten gold livres per hundredweight and reselling it to foreign ships at sixty illustrates Rasulid price mark-ups [@yc, 3.37 n. 2]. Note 5 of Yule's commentary also compares the forty-dinar livret reading across the manuscripts.
 
-[14] ~ Grain deficits supplied by sea rice beside abundant local dates fit arid southern Arabian coastal towns [@yc, 3.37].
+[14] ~ Grain deficits supplied by sea-borne rice imports beside abundant local date harvests fit arid southern Arabian coastal towns [@yc, 3.37]. Ships from India paid for horses and incense in part by carrying bulk rice to the Hadramawt shore.
 
-[15] ~ Abundant large tuna sold two per Venetian groat alongside rice-, sugar-, and date-wines captures port abundance [@yc, 3.37].
+[15] ~ Abundant large tuna sold two per Venetian groat alongside brewed rice-, sugar-, and date-wines captures coastal market life [@yc, 3.37]. Warm upwelling currents off southern Arabia still support some of the richest fisheries in the Indian Ocean.
 
-[16] ✓ Slicing large fish into pound-sized blocks cured hard in coastal sun for biscuit-like storage matches Yule’s Arabian shore parallels [@yc, 3.37 n. 5].
+[16] ✓ Slicing large fish into pound-sized blocks dried hard in the coastal sun for year-round storage matches Yule’s Arabian shore parallels [@yc, 3.37 n. 5]. Sun-cured fish cakes stacked like ship's biscuit in port storehouses.
 
-[17] ~ Describing short-eared coastal sheep as sporting little horns in place of ears turns real breed variation into a traveller’s oddity [@yc, 3.37 n. 3].
+[17] ~ Describing short-eared coastal sheep as having little horns in place of ears turns real fat-tailed crop-eared breed traits (*kurumbā* or earless sheep) into a traveller’s oddity [@yc, 3.37 n. 3]. Yule notes the natural earlessness of several Arabian and Somali sheep varieties.
 
-[18] ✓ Feeding livestock—horses, oxen, and camels—on dried small fish netted during March–May aligns closely with Ibn Baṭṭūṭa’s Dhofar observations cited by Yule [@yc, 3.37 n. 4].
+[18] ✓ Feeding livestock—horses, oxen, camels, and sheep—on dried small fish netted in vast shoals during March, April, and May aligns closely with Ibn Baṭṭūṭa’s Dhofar observations cited by Yule [@yc, 3.37 n. 4]. Classical writers from Nearchus onward and modern travellers along the Mahra and Oman coasts confirm cattle eating dried sardines when desert pasture fails.
 
-[19] ~ Dufar (Dhofar), placed five hundred miles further under Aden, exports Arab chargers to India across seasonal monsoon fleets [@yc, 3.38 n. 1].
+[19] ~ Dufar (Dhofar, around modern Salalah), placed five hundred miles further along the coast under a Rasulid prince, exported Arabian chargers to India across the seasonal monsoon fleets [@yc, 3.38 n. 1]. Its coastal plain and frankincense hills made it a major Hadramawt–Oman entrepôt.
 
-[20] ✓ Comparing frankincense trees to little firs notched with knives—and exuding natural summer drops under fierce sun—captures *Boswellia* resin harvesting [@yc, 3.38 n. 2].
+[20] ✓ Comparing frankincense trees to small firs notched with knives—and exuding natural summer resin drops under the fierce sun—accurately describes *Boswellia sacra* harvesting in the Dhofar hills [@yc, 3.38 n. 2]. Dhofar remains the classic homeland of white Arabian frankincense.
 
-[21] ~ Positioning Calatu (Qalhat) inside its Gulf six hundred miles north-west continues Polo’s compressed directional line [@yc, 3.39 n. 1].
+[21] ~ Positioning Calatu (Qalhat on the Oman coast) inside its gulf six hundred miles north-west continues Polo’s rotated directional line [@yc, 3.39 n. 1]. In reality Qalhat lies north-east of Dhofar near modern Sur, looking out over the Gulf of Oman.
 
-[22] ~ Requiring incoming vessels to carry imported grain supplies a plausible fiscal rule for dry Omani harbours [@yc, 3.39 nn. 1–2].
+[22] ~ Requiring incoming vessels to bring imported grain from Hormuz or India supplies a plausible lifeline for rocky Omani harbours hemmed in by steep mountains [@yc, 3.39 nn. 1–2]. Without sea-borne grain, the port's crowded merchant population could not feed itself.
 
-[23] ✓ Qalhat served as an active distribution harbour sending Indian spices inland while shipping Arabian cavalry east [@yc, 3.39 n. 2].
+[23] ✓ Qalhat served as the twin sister-port of Hormuz, distributing Indian spices and cloths to inland castles while shipping Arabian horses east [@yc, 3.39 n. 2]. Ibn Baṭṭūṭa visited Qalhat a few decades later and praised its fine markets and great mosque.
 
-[24] ~ Repeating boiled-food mismanagement and scarce farriers cross-references Maabar’s cavalry attrition in [Chapter III-5](ch-05-maabar-st-thomas.md) [@yc, 3.39 n. 2; @yc, 3.17].
+[24] ~ Repeating the complaint about boiled-grain fodder and scarce farriers in India cross-references Maabar’s cavalry attrition in [Chapter III-5](ch-05-maabar-st-thomas.md) [@yc, 3.39 n. 2; @yc, 3.17]. The cross-reference ties the Arabian export quays directly back to the South Indian buyers.
 
-[25] ✓ Archaeological excavations by Rougeulle confirm late thirteenth-century defensive ramparts, kilns, and dense urban quarters at Qalhat matching Hormuz rule [@yc, 3.39 n. 1; @rougeulle2017qalhat].
+[25] ✓ Archaeological excavations by Rougeulle confirm late thirteenth-century defensive ramparts, glazed-tile workshops, and dense urban quarters at Qalhat under Hormuzi rule [@yc, 3.39 n. 1; @rougeulle2017qalhat]. The excavated ruins match Polo's picture of a strongly fortified trading town.
 
-[26] ~ Blockading the Gulf strait from Qalhat—plus an unnamed stronger sea fortress perhaps near Muscat—explains the Melik’s fiscal leverage over Kerman [@yc, 3.39 n. 3].
+[26] ~ Blockading the Gulf entrance from Qalhat—plus an unnamed stronger sea fortress perhaps near Muscat—explains the Melik of Hormuz’s leverage whenever the Sultan of Kerman demanded extraordinary taxes [@yc, 3.39 n. 3]. Controlling the narrow strait let the Melik choke off Kerman's sea tolls until terms were lowered.
 
-[27] ~ Contrasting ordinary dates-and-salt-fish diets with aristocratic imports marks social lines inside the port [@yc, 3.39].
+[27] ~ Contrasting the townsfolk's everyday diet of dates and salt fish with aristocratic grain and meat imports marks social hierarchy inside the port [@yc, 3.39]. Wealth at Qalhat meant eating imported food on a barren shore.
 
-[28] ~ Passing mention of Kisi (Kish Island) 500 miles WNW nods briefly back to an earlier Gulf emporium from Volume I [@yc, 3.40 n. 3; @yc, 1.16].
+[28] ~ A passing mention of Kisi (Kish Island) five hundred miles up the Gulf nods back to the rival island emporium introduced in Volume I [@yc, 3.40 n. 3; @yc, 1.16]. Throughout the thirteenth century Kish and Hormuz competed fiercely for control of the Gulf horse and pearl trade.
 
-[29] ~ Repeated north-west coastal bearings chart a rough narrative chain rather than surveyor’s compass lines; see [Map A16, the return route](../media/maps/A16-cocachin-return.pdf) [@yc, 3.37–40].
+[29] ~ Repeated north-west coastal bearings chart a rough narrative chain from Aden to the Gulf entrance rather than surveyor’s compass lines [@yc, 3.37–40]. See [Map A16, the return route](ch-09-cocachin-return.md#fig-a16-cocachin-return).
 
-[30] ✓ Returning 300 miles NNW closes the southern loop squarely at Hormos (Old Hormuz), already paired with sewn vessels in [Chapter I-7](../vol-1/ch-07-kerman-hormos.md) [@yc, 3.40 n. 1; @yc, 1.19].
+[30] ✓ Returning three hundred miles NNW from Qalhat closes the southern maritime loop squarely at Hormos (Old Hormuz on the mainland), already paired with sewn-plank ships in [Chapter I-7](../vol-1/ch-07-kerman-hormos.md) [@yc, 3.40 n. 1; @yc, 1.19]. Landing at Hormuz reconnects Book III's ocean periplus with the overland Persian roads of Book I.
 
-[31] ✓ Architectural rooftop wind-catchers (*bādgīr*) funneling summer breezes downward into hot rooms match enduring Persian Gulf cooling engineering cited by Yule [@yc, 3.40 n. 2].
+[31] ✓ Architectural rooftop wind-catchers (*bādgīr* or ventilators) turned toward the prevailing breeze to cool stifling summer rooms match enduring Persian Gulf engineering cited by Yule [@yc, 3.40 n. 2]. Ramusio adds the fuller account of townsfolk standing neck-deep in water outside the city to survive the blistering *simoom* land wind [@yc, 3.40].
 
-[32] ? Explaining this return visit through two distinct outbound-and-return journeys leaves unresolved whether Marco visited Hormos once or twice [@yc, 3.40; @yc, 1.19].
+[32] ? Explaining this second Hormos notice through two distinct visits—outbound from Kerman in the 1270s and homebound by sea with Cocachin in the 1290s—is the standard biographical reading, though scholars still debate whether Marco visited Hormos once or twice [@yc, 3.40; @yc, 1.19]. From Hormuz the final narrative chapter brings the bridal embassy ashore into Ilkhanid Persia.

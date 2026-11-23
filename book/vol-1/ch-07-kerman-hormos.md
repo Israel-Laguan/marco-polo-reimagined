@@ -24,6 +24,8 @@ The Book names Nogodar (Negüder) as their leader and makes him a nephew of Siga
 
 At Canosalmi it’s Marco himself we have to follow. He says the darkness nearly served the raiders against him too. He made it into a village, with seven of his companions in Yule’s text. The men he lost were captured and sold or killed [15]. We can’t point to the village gate now. The story puts a particular weight on getting there.
 
+![In the darkness of a Carauna raid, Marco flees towards a walled village. He says seven companions reached safety with him. *(Modern illustration in the manner of Ilkhanid manuscript painting. Not a historical artifact. This edition.)*](../media/plates/I-7-carauna-escape.png){#fig-i-7-carauna-escape width=86%}
+
 | Detail | Account in Yule–Cordier | Later-witness addition | Evidence and limit |
 |---|---|---|---|
 | Birds of Reobarles | Fruit and francolins | The turtledoves and the reported taboo are shared by Zelada and Ramusio | ~ Reported custom |

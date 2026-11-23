@@ -6,21 +6,21 @@
 
 ---
 
-Volume II needs a different map habit than Volume I. You are no longer dragging a caravan from Ayas to Lop; you are circling a court, then riding circuits west, southwest, and south through canal country to the Fujian havens. The tables below list the places Volume II names. [1]
+Volume II needs a different map habit than Volume I. You are no longer dragging a caravan from Ayas to Lop; you are circling a court, then riding circuits west, southwest, and south through canal country to the Fujian havens. The tables below list the places Volume II names [1].
 
 ### How the Volume II map hangs together
 
-Start at **Cambaluc** (Beijing). One road of description runs **west and southwest** across the Pulisanghin bridge toward Shanxi, Xi’an country, Sichuan’s Sindafu, then Yunnan’s Carajan — with Tebet and Burma mostly as side-report. Another movement — the one modern readers often love most — runs **southeast into Manzi**: canal and river cities, Yangzhou, the Saianfu siege story, Suzhou, Hangzhou’s Kinsay, then down the coast to Fuzhou and Quanzhou (Zayton). [2]
+Start at **Cambaluc** (Beijing). One road of description runs **west and southwest** across the Pulisanghin bridge toward Shanxi, Kenjanfu (Xi’an) country, Sichuan’s Sindafu, then Yunnan’s Carajan — with Tebet and Mien (Burma) mostly as side-report. Another movement — the one modern readers often love most — runs **southeast into Manzi**: canal and river cities, Yanju (Yangzhou), the Saianfu siege story, Suju (Suzhou), Hangzhou’s Kinsay, then down the coast to Fuju (Fuzhou) and Zayton (Quanzhou) [2].
 
 Politically you are inside Yuan China after the Mongol conquest of the north and during/after the absorption of the Song south. Ethnographically Polo still splits the world into Cathay (north) and Manzi (south) in the older foreigner’s tongue.
 
 ### Map of the round trip
 
-![The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
+![Map A1. The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
 ### Map of Kublai’s realm
 
-![Kublai’s realm around 1290. Shaded areas show approximate cores of the ten eastern administrative zones. Ochre lines trace the west road, southwest circuit, Grand Canal corridor and Fujian road. The inset shows the broad region of Nayan’s 1287 revolt and Chandu, the departure point named in the Yuan annals. The location of the decisive engagement remains uncertain. *(Map: this edition, after Tan via Li and colleagues, figure 1; the Book and Yuan shi.)*](../media/maps/A7-kublais-realm.svg)
+![Map A7. Kublai’s realm around 1290. Shaded areas show approximate cores of the ten eastern administrative zones. Ochre lines trace the west road, southwest circuit, Grand Canal corridor and Fujian road. The inset shows the broad region of Nayan’s 1287 revolt and Chandu, the departure point named in the Yuan annals. The location of the decisive engagement remains uncertain. *(Map: this edition, after Tan via Li and colleagues, figure 1; the Book and Yuan shi.)*](../media/maps/A7-kublais-realm.svg)
 
 ### Place table — capital approaches and west / southwest circuit
 
@@ -105,7 +105,7 @@ Politically you are inside Yuan China after the Mongol conquest of the north and
 
 ### Map cautions for Volume II
 
-**Yanju / Yangzhou** is a solid city identification; Polo’s claim to have governed it is the quarrel, not the pin on the map. **Saianfu** is solidly Xiangyang; whether the Polos’ engineers truly delivered the decisive mangonels is the quarrel. **Caugigu, Anin, Coloman, Cuiju** are ethnonym-heavy and soft — good for reading Yule’s footnotes, bad for pretending precision. **Tibet** in Polo is eastern marches and musk country more than a Lhasa travel diary. [3]
+**Yanju / Yangzhou** is a solid city identification; Polo’s claim to have governed it is the quarrel, not the pin on the map. **Saianfu** is solidly Xiangyang; whether the Polos’ engineers truly delivered the decisive mangonels is the quarrel. **Caugigu, Anin, Coloman, Cuiju** are ethnonym-heavy and soft — good for reading Yule’s footnotes, bad for pretending precision. **Tebet** in Polo is eastern marches and musk country more than a Lhasa travel diary [3].
 
 Cambaluc itself also appears in Volume I’s place tables because the elder brothers and Marco’s arrival share the capital; Volume II is where the city becomes a full machine on the page.
 
@@ -115,8 +115,8 @@ Anyway, keep these maps nearby when the storyteller says *next he mentions Sinda
 
 ## Notes
 
-[1] ✓ The place tables give each place's book name, its modern name and its role in Volume II; identifications follow Yule–Cordier unless a chapter Note says otherwise. Image credits are in the media attributions.
+[1] ✓ The place tables give each place's book name, its modern name, and its role in Volume II, following the series gazetteer and Yule–Cordier unless a chapter Note states otherwise [@yc, bk. 2]. Map and figure sources are listed in the [media credits](../media/ATTRIBUTIONS.md).
 
-[2] ✓ Dual-circuit reading of Book II — west/southwest vs Manzi/coast — shapes II-6 through II-14.
+[2] ✓ Yule organises Book II into the dual circuits radiating from Cambaluc: the western road through Shanxi, Shaanxi, Sichuan, and Yunnan (Chapters II-6 to II-9) and the south-eastern Grand Canal and coastal road through Manzi to Zayton (Chapters II-10 to II-14) [@yc, 2.26, 2.35, 2.60]. Compare [Map A7, Kublai’s realm](#map-of-kublais-realm).
 
-[3] ? Tentative identifications and disputed service claims — see `back-01-trivia-and-disputes.md` in this volume.
+[3] ? Uncertain southwestern frontier toponyms (Caugigu, Anin, Coloman, Cuiju) and contested personal service claims at Yanju and Saianfu are weighed in their respective chapter Notes [@yc, 2.56–59, 2.68, 2.70; @pelliot1959notes]. For a concise checklist of the Volume II controversies, see [Back Matter II-1](back-01-trivia-and-disputes.md#disputed-claims--the-volume-ii-shortlist).

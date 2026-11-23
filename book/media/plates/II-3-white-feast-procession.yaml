@@ -1,10 +1,9 @@
 plate: II-3
 title: The White Feast procession
-status: draft
+status: accepted
 tradition: Yuan court painting
-caption: A White Feast procession at the Yuan court in Cambaluc, depicted about 1285. The gift grouping follows
-  Ramusio’s version. Polo’s figure of five thousand elephants is inflated. Modern illustration in the manner of
-  Yuan court painting. Not a historical artifact.
+caption: >-
+  White-clad attendants lead elephants and camels past Cublay at New Year, in an imagined Cambaluc about 1285. Nine parcels stand for Ramusio’s nine times nine. The Book puts the elephants at an inflated five thousand. Modern illustration in the manner of Yuan court painting. Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model, version undisclosed by the tool
 job_id: none, chat output

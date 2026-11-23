@@ -20,6 +20,8 @@ Step down onto the tarred quay and inspect the wooden craft built for that yello
 
 Picture a deeply laden salt junk groaning foot by foot upriver past sheer cliff-top temple roofs. Along the rain-slicked clay embankment, bare-shouldered trackers throw their weight forward into thick linen slings. Harnessed horses in Ramusio’s edition pull steadily beside them along the stone dyke. Deep grooves cut into mud by wet straw sandals mark hundreds of gangs stamping in step to a steersman’s bronze drum. Yellow water boils furiously around the blunt square stem. No skipper measures a river’s sweep on dry parchment; he feels every hard league through the hum and shiver of that taut green bamboo cable.
 
+![Trackers lean into a towline on the bank of the Kiang. The rigging and riverside monastery are reconstructed from the Book’s description. *(Modern illustration in the manner of Yuan landscape painting. Not a historical artifact. This edition.)*](../media/plates/II-12-kiang-trackers.png){#fig-ii-12-kiang-trackers}
+
 Downstream and slightly south-east lies Caiju (Guazhou), a compact river depot where hills of pale wheat and winter rice out of Manzi (southern China) rest beneath dry matting roofs awaiting shipment north to Cambaluc (Beijing) [13]. Here Polo lays bare the hydraulic machine keeping northern courtiers fed. Cublay (Kublai) ordered wide, deep cuts dug between scattered lakes and streams. Heavy grain barges could now glide cleanly out of Caiju to the northern capital without braving winter typhoons along rocky outer coasts. Dark earth dug from those canal beds was heaped high along both flanks to form dry willow-planted causeways. Pack-mules, couriers, and iron-rimmed carts rolled smoothly dry-shod beside the water [14]. Rashīd al-Dīn later praised that same forty-day Grand Canal line. His account notices stone sluice-gates hauling hulls past level drops and paved courier roads hugging the bank, corroborating the grain artery even though Polo skips the lock gates [15].
 
 Out in midstream opposite Caiju rises a steep rocky islet crowned by an ancient Buddhist abbey housing some two hundred monks and bright gilded shrines [16]. At dusk a ferryman drifting below wet stone stairs hears heavy bronze bells booming over quiet water between tiered eaves and willow trees. Polo compares the house’s authority over sister cloisters across the province to an archbishop’s see in Christendom. Golden Island stands out clearly as the bright stone seamark guarding the canal mouth [17]. Ferry across that tight channel to the southern bank and you climb into Chinghianfu (Zhenjiang), a wealthy silk-and-gold port stocked with hill game, river carp, winter wheat, and bustling dyeworks [18].
@@ -82,7 +84,7 @@ Marco refuses to wear out our boots listing every temple bell, guildhall, or wat
 
 [19] ~ Polo places two Nestorian churches in Chinghianfu built in 1278 and credits Mar Sarghis (*Dominus Sergius*) with a three-year governorship [@yc, 2.73 n. 1]. Nestorian presence under the Yuan is securely attested across Jiangsu and Zhejiang, though Polo’s chronology and numbers stand apart from local records.
 
-[20] ? No independent source establishes Polo’s claim that Christians were wholly absent from Zhenjiang before Mar Sarghis arrived in 1278 [@yc, 2.73].
+[20] ? No independent source establishes Polo’s claim that Christians were wholly absent from Zhenjiang before Mar Sarghis arrived in 1278 [@yc, 2.73]. Local records document the governor's monastery foundations rather than the earlier history of the Christian community there [@moule1915christians].
 
 [21] ? The translated Zhenjiang local gazetteer attributes seven monasteries in China to Mar Sarghis, dating two on Chin-shan land to 1279 and Ta-hsing-kuo to 1281 [@moule1915christians, pp. 630–645, 651; @yc, 2.73 n. 1]. Those records show inconsistencies and cannot be merged with Polo’s two-church notice or collapsed into 1279 alone.
 
@@ -104,7 +106,7 @@ Marco refuses to wear out our boots listing every temple bell, guildhall, or wat
 
 [30] ✓ European and missionary observers from Van Braam to Du Bose confirmed Suzhou’s distinctive arched stone canal bridges spanning ten to fifteen feet of water [@yc, 2.75 n. 2]. The architectural impression is real even if six thousand is rhetorical.
 
-[31] ✗ Rhubarb (*Rheum palmatum*) did not grow in Suzhou’s hills; Bretschneider and Yule note it came from Tangut and the upper Yangzi via Hankow, suggesting possible confusion with Sukchur (Suzhou in Gansu) [@yc, 2.75 n. 3].
+[31] ✗ Rhubarb (*Rheum palmatum*) did not grow in Suzhou’s hills [@yc, 2.75 n. 3]. Bretschneider and Yule note it came from Tangut and the upper Yangzi via Hankow, suggesting either a confusion between Suzhou in Jiangsu and Sukchur (Suzhou in Gansu) or a mistake between a transshipment market and a growing district [@yc, 2.75 n. 3].
 
 [32] ? Forty pounds of fresh ginger for a Venetian groat reflects busy delta spice markets rather than confirmed local cultivation around Suzhou [@yc, 2.75 n. 3]. Hanbury doubted ginger grew there in quantity, though later Shanghai customs returns recorded exports passing through the port.
 
@@ -114,6 +116,6 @@ Marco refuses to wear out our boots listing every temple bell, guildhall, or wat
 
 [35] ? The Geographic Text alone names all three towns between Suju and Kinsay: Vuju (usually Huzhou / Hu-chau, distinct from Jinhua in Chapter II-14), Vughin (Wujiang), and Changan (Jiaxing) [@yc, 2.75 n. 5]. Pelliot [-@pelliot1959notes, vol. 2, pp. 872–874] tentatively shifts the names along the canal route, though the editors note his emendations lack manuscript support.
 
-[36] ✓ Polo’s brisk compression keeps the narrative moving along the final canal stages rather than stalling over repeated inventories [@yc, 2.75].
+[36] ✓ Polo’s brisk compression keeps the narrative moving along the final canal stages rather than stalling over repeated inventories [@yc, 2.75]. The recurring formula—trade, crafts, paper money, and subject towns—marks the dense urban ribbon leading into Kinsay.
 
 [37] ✓ Changan’s reputation for sendal silk and plentiful game closes the canal approach three days short of Kinsay [@yc, 2.75–2.76]. That textile thread carries directly into the opening markets of Chapter II-13.

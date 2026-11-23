@@ -57,10 +57,13 @@ Some entries include a draft pronunciation hint. Capital letters mark the stress
 - [**Georgiania**]{#place-georgiania} · Georgia (country) · jor-jee-AH-nee-ah. Caucasian kingdom described in the Book alongside Greater Hermenia. [Wikipedia](https://en.wikipedia.org/wiki/Georgia_(country))
 - [**Gozurat**]{#place-gozurat} · Gujarat, India · go-zoo-RAT. Western Indian region described for trade and piracy. [Wikipedia](https://en.wikipedia.org/wiki/Gujarat)
 - [**Gulf of Cheinan**]{#place-cheinan} (Cheinan is pronounced CHAY-nan) · Hainan and the Gulf of Tonkin. Maritime gulf associated by Pelliot with Hainan and the Gulf of Tonkin. Identification disputed. Pelliot connects the name with Hainan, “south of the sea” [@pelliot1959notes, pp. 242–43]. [Wikipedia](https://en.wikipedia.org/wiki/Gulf_of_Tonkin)
+- [**Hakata Bay**]{#place-hakata-bay} (Hakata is pronounced hah-KAH-tah) · Hakata Bay, Fukuoka, Japan. Northern Kyushu landing area in the Mongol invasion accounts. [Wikipedia](https://en.wikipedia.org/wiki/Hakata_Bay)
+- [**Happo**]{#place-happo} · Masan Bay, Changwon, South Korea · HAH-poh. Departure area in Goryeo for the northern fleet in the Japan invasions. [Wikipedia](https://en.wikipedia.org/wiki/Masan)
 - [**Hormos**]{#place-hormos} · Old Hormuz (Minab area), Iran · HOR-mos. The Book’s mainland Gulf port. Its exact site remains disputed. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Hormuz)
 - [**Ilkhan**]{#term-ilkhan} · Il-khan · IL-kahn. Title of the Mongol rulers of Iran and neighbouring territories.
 - [**Java**]{#place-java} · Java, Indonesia. Large island the Book describes from report. [Wikipedia](https://en.wikipedia.org/wiki/Java)
 - [**Java the Less**]{#place-java-the-less} · Sumatra, Indonesia. Sumatra, where the Book says the fleet waited for the monsoon. [Wikipedia](https://en.wikipedia.org/wiki/Sumatra)
+- [**Jerusalem**]{#place-jerusalem} · Jerusalem. Site of the Church of the Holy Sepulchre, from whose lamp the Polos fetched oil for the Kaan. [Wikipedia](https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre)
 - [**Kaan**]{#term-kaan} · qa’an · KAHN. The title the Book gives the Great Khan, the supreme ruler of the Mongol Empire.
 - [**Kerman**]{#place-kerman} · Kerman, Iran. Regional centre noted for turquoise and steel. [Wikipedia](https://en.wikipedia.org/wiki/Kerman)
 - [**Keshican**]{#term-keshican} · keshig · keh-shee-KAN. Members of the Kaan’s imperial guard, which served in rotations [@yc, 2.12 n. 1].
@@ -108,6 +111,7 @@ Some entries include a draft pronunciation hint. Capital letters mark the stress
 - [**Soli**]{#place-soli} · Chola country (Thanjavur area), India (provisional) · SOH-lee. Southeastern Indian country the Book describes for diamonds. [Wikipedia](https://en.wikipedia.org/wiki/Thanjavur)
 - [**Sondur**]{#place-sondur} · No fixed modern identification · SON-door. Island named with Condur in the Book’s sailing directions.
 - [**Suju**]{#place-suju} · Suzhou, Jiangsu, China · SOO-joo. Silk and canal city on the road to Kinsay. [Wikipedia](https://en.wikipedia.org/wiki/Suzhou)
+- [**Takashima**]{#place-takashima} · Takashima Kōzaki site area, Imari Bay, Japan · tah-kah-SHEE-mah. Island in Imari Bay where wrecks from the 1281 Yuan invasion fleet have been excavated. [Wikipedia](https://en.wikipedia.org/wiki/Takashima_K%C5%8Dzaki_Site)
 - [**Tana**]{#place-tana} · Thane, Maharashtra, India · TAH-nah. Western Indian port near present-day Mumbai. [Wikipedia](https://en.wikipedia.org/wiki/Thane)
 - [**Tauris**]{#place-tauris} · Tabriz, Iran · TAW-ris. Commercial centre of the Ilkhanate on the outbound and return routes. [Wikipedia](https://en.wikipedia.org/wiki/Tabriz)
 - [**Tinju**]{#place-tinju} · Nantong (Tung-chau), Jiangsu, China · TIN-joo. Salt town tentatively identified with Nantong. Other proposed sites include Yizheng. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Nantong)

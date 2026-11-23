@@ -47,62 +47,62 @@ Watch the lead-line sink cleanly into deep blue water past those narrows. Ahead 
 
 ## Notes
 
-[1] ~ Fifteen hundred miles west-south-west from Zayton to Chamba reflects coastal sailing estimates; the annual elephant tribute compresses later diplomacy into one dramatic concession [@yc, 3.5 n. 1].
+[1] ~ Fifteen hundred miles west-south-west from Zayton to Chamba reflects coastal sailing estimates [@yc, 3.5 n. 1]. The annual elephant tribute compresses years of contested Cham–Yuan diplomacy into one dramatic concession.
 
-[2] ✗ The Book dates Sagatu’s invasion to 1278, whereas Yuan annals record peaceful diplomacy and royal investiture in that year [@yc, 3.5; @yuanshi1370, juan 210].
+[2] ✗ The Book dates Sagatu’s invasion to 1278, whereas Yuan annals record peaceful diplomacy and royal investiture in that year [@yc, 3.5; @yuanshi1370, juan 210]. Actual military hostilities broke out four years later when Champa detained Yuan envoys.
 
-[3] ~ Ramusio-only. Yule prints the king’s name Accambale inside square brackets solely from Ramusio’s 1559 text [@yc, 3.5].
+[3] ~ Ramusio-only. Yule prints the king’s name Accambale inside square brackets solely from Ramusio’s 1559 text [@yc, 3.5]. The historical Cham ruler who resisted the Mongol invasion was Indravarman V.
 
-[4] ~ The ageing sovereign’s plea offering elephants to buy off invading cavalry belongs to the Book’s diplomatic set-piece [@yc, 3.5].
+[4] ~ The ageing sovereign’s plea offering elephants to buy off invading cavalry belongs to the Book’s diplomatic set-piece [@yc, 3.5]. In reality, the old king withdrew into the interior mountains and waged a prolonged guerrilla defence against the landing force.
 
-[5] ✗ Imperial pity stopping the war for twenty elephants every year reverses both the military defeat and the tribute count in Yuan annals [@yc, 3.5; @yuanshi1370, juan 13, 210].
+[5] ✗ Imperial pity stopping the war for twenty elephants every year reverses both the military defeat and the tribute count in Yuan annals [@yc, 3.5; @yuanshi1370, juan 13, 210]. The Mongol expedition failed to hold the country and eventually had to withdraw.
 
-[6] ✓ The *Yuan shi* places Sagatu’s actual invasion in late 1282, records his routed retreat in the third month of 1284, and notes his death in Annam in 1285 [@yuanshi1370, juan 13, 129, 210].
+[6] ✓ The *Yuan shi* places Sagatu’s actual invasion in late 1282, records his routed retreat in the third month of 1284, and notes his death in Annam in 1285 [@yuanshi1370, juan 13, 129, 210]. His campaign ended in disaster rather than the bloodless pacification Polo narrates.
 
-[7] ✓ Chamba sent a recall request and a gift of three elephants after Sagatu retreated; an annual offer of twenty tame elephants appears for Mien in 1297 [@yuanshi1370, juan 13, 210].
+[7] ✓ Chamba sent a recall request and a gift of three elephants after Sagatu retreated [@yuanshi1370, juan 13, 210]. A regular annual tribute of twenty tame elephants appears in the annals for Mien (Burma) in 1297 rather than for Champa.
 
-[8] ~ The royal bride-inspection privilege and dowry payments appear in Polo’s Chamba chapter without outside contemporary confirmation [@yc, 3.5].
+[8] ~ The royal bride-inspection privilege and dowry payments appear in Polo’s Chamba chapter without outside contemporary confirmation [@yc, 3.5]. Similar tales of royal marriage prerogatives recur in his descriptions of distant courts.
 
-[9] ~ Counting 326 children and 150 armed sons fits medieval court hyperbole; Friar Odoric similarly recorded two hundred royal sons in Champa [@yc, 3.5 n. 2].
+[9] ~ Counting 326 children and 150 armed sons fits medieval court hyperbole [@yc, 3.5 n. 2]. Friar Odoric similarly credited the polygamous king of Champa with a good two hundred children [@odoric1913travels, ch. 23; @yc, 3.5 n. 2].
 
-[10] ? Pauthier and Ramusio date Polo’s call to 1280, the Geographic Text prints 1285, and the Geographic Latin reads 1288—Yule’s choice for a court sea mission [@yc, 3.5 n. 2].
+[10] ? Pauthier and Ramusio date Polo’s call to 1280, the Geographic Text prints 1285, and the Geographic Latin reads 1288—Yule’s preferred choice for a court sea mission [@yc, 3.5 n. 2]. Whether Marco landed at Champa on an earlier mission or during the homeward bridal voyage remains debated.
 
-[11] ✓ Chamba was renowned across Asian and European merchant guides for aromatic lignaloes (eaglewood) [@yc, 3.5 n. 3].
+[11] ✓ Chamba was renowned across Asian and European merchant guides for aromatic lignaloes (eaglewood or aloeswood) [@yc, 3.5 n. 3]. Ibn Baṭṭūṭa and Arab geographers regularly singled out Cham aloeswood as the finest in the East.
 
-[12] ~ Yule connects *bonus* to Persian *abnūs* (ebony) and notes a Persian craft word behind the Book’s term for ink- and pen-cases [@yc, 3.5 n. 3].
+[12] ~ Yule connects *bonus* to Persian *abnūs* (ebony) and notes a Persian craft word behind the Book’s term for ink- and pen-cases [@yc, 3.5 n. 3]. The vocabulary points again to the Persian commercial idiom spoken by foreign merchants in Yuan service.
 
-[13] ~ Sailing fifteen hundred miles between south and south-east from Chamba overstates the sea passage to Java [@yc, 3.6 n. 1].
+[13] ~ Sailing fifteen hundred miles between south and south-east from Chamba overstates the sea passage to Java [@yc, 3.6 n. 1]. Polo did not visit Great Java himself and relies here on pilots' estimates.
 
-[14] ✗ Three thousand miles in the Geographic Text (and five thousand in Pauthier) roughly doubles Java’s actual coast circuit [@yc, 3.6 n. 1].
+[14] ✗ Three thousand miles in the Geographic Text (and five thousand in Pauthier) roughly doubles Java’s actual coast circuit [@yc, 3.6 n. 1]. Even early Arab and Chinese notices struggled to measure the island's southern ocean shore.
 
-[15] ~ Javanese independence from Cambaluc and lively Fujian sea traffic fit conditions just prior to the 1292 war [@yc, 3.6].
+[15] ~ Javanese independence from Cambaluc and lively Fujian sea traffic fit conditions just prior to the 1292 war [@yc, 3.6]. Junk captains from Zayton and Fuju traded briskly at Javanese ports despite the lack of political submission.
 
-[16] ~ Pepper, nutmeg, spikenard, galingale, cubebs, and cloves are presented by the Book as Java’s local produce, reflecting wares weighed at port [@yc, 3.6 n. 1].
+[16] ~ Pepper, nutmeg, spikenard, galingale, cubebs, and cloves are presented by the Book as Java’s local produce [@yc, 3.6 n. 1]. The list reflects the assorted spice cargoes weighed and loaded by Chinese junks at Javanese entrepôts.
 
-[17] ~ Yule reads Java as a regional spice mart rather than grower of cloves and nutmeg; Hall documents Java’s rice-for-spice exchange with eastern islands without settling local cultivation for 1290 [@yc, 3.6 n. 1; @hall2011history, pp. 226–227].
+[17] ~ Yule reads Java as a regional spice mart rather than the grower of cloves and nutmeg, which came from the Moluccas and Banda Islands [@yc, 3.6 n. 1]. Hall documents Java’s active rice-for-spice exchange with the eastern islands without settling local cultivation claims for 1290 [@hall2011history, pp. 226–227].
 
-[18] ~ Explaining Cublay’s restraint by sea cost overlooks or predates the actual 1292 naval campaign [@yc, 3.6 n. 1].
+[18] ~ Explaining Cublay’s restraint by the length and danger of the sea voyage overlooks or predates the actual 1292 naval campaign [@yc, 3.6 n. 1]. If Marco took his notes before leaving China, the fleet that sailed from Quanzhou late in 1292 may have departed after his own embarkation.
 
-[19] ✓ Chinese annals confirm the 1292–93 expedition provoked when Java’s ruler branded envoy Meng Qi, named in Gao Xing’s biography [@yuanshi1370, juan 162, 210].
+[19] ✓ Chinese annals confirm the 1292–93 expedition provoked when Java’s ruler Kertanagara branded the face of the Yuan envoy Meng Qi, named in Gao Xing’s biography [@yuanshi1370, juan 162, 210]. That diplomatic humiliation triggered Cublay's last great overseas war.
 
-[20] ~ Yuan biographies list commanders Shi Bi, Ike Mese, and Gao Xing and distinguish an initial twenty-thousand muster from smaller figures sailing [@yuanshi1370, juan 17, 162, 210].
+[20] ~ Yuan biographies list commanders Shi Bi, Ike Mese, and Gao Xing at the head of the expedition [@yuanshi1370, juan 17, 162, 210]. The records distinguish an initial twenty-thousand troop order from smaller numbers that actually sailed from Quanzhou.
 
-[21] ✓ Yuan chronicles record the capture of Daha, Wijaya’s betrayal of his escort, and over three thousand dead before Shi Bi regained Zayton [@yuanshi1370, juan 17, 162, 210].
+[21] ✓ Yuan chronicles record the capture of Daha, Raden Wijaya’s subsequent ambush of his Mongol escort, and over three thousand dead before Shi Bi sailed back to Zayton [@yuanshi1370, juan 17, 162, 210]. See the campaign comparison table in this chapter.
 
-[22] ~ Yule follows Pauthier in restarting the bearing from Chamba rather than Java and identifies Sondur and Condur with Pulo Condore [@yc, 3.7 nn. 1–2].
+[22] ~ Yule follows Pauthier in restarting the coastal bearing from Chamba rather than Java and identifies Sondur and Condur with the Pulo Condore islands (Côn Đảo) off southern Vietnam [@yc, 3.7 nn. 1–2]. Those twin islands served for centuries as a standard seamark for ships rounding into the Gulf of Siam or heading toward the Straits.
 
-[23] ~ Ramusio-only in part. Locac’s secluded king stands in the base French text, while Ramusio supplies the short anchor placing it on the mainland [@yc, 3.7].
+[23] ~ Ramusio-only in part. Locac’s secluded king stands in the base French text, while Ramusio supplies the short geographical cue placing it on the mainland [@yc, 3.7]. That mainland note helps separate Locac from the island chapters around it.
 
-[24] ~ Gold, wild elephants, and red brazilwood represent key mainland Southeast Asian exports noted across the Book [@yc, 3.7 n. 3].
+[24] ~ Gold, wild elephants, and red brazilwood (sappanwood) represent key mainland Southeast Asian exports noted across the Book [@yc, 3.7 n. 3]. Sappanwood from the Gulf of Siam littoral was a major bulk dyewood cargo in the China trade.
 
-[25] ~ Small white porcelain cowries circulate here just as in Yunnan markets; see [Chapter II-7](../vol-2/ch-07-tebet-carajan.md) [@yc, 3.7].
+[25] ~ Small white porcelain cowries circulate as currency here just as in the Yunnan markets [@yc, 3.7]. See [Chapter II-7](../vol-2/ch-07-tebet-carajan.md) for Polo's earlier account of cowrie money imported from the southern seas.
 
-[26] ~ Barring strangers to keep royal bullion hidden reflects Polo’s commercial explanation of a little-known port [@yc, 3.7].
+[26] ~ Barring strangers to keep royal bullion hidden reflects Polo’s commercial explanation for why so few merchants visited the interior of Locac [@yc, 3.7]. A port off the main monsoon track easily acquired a reputation for jealously guarded gold.
 
-[27] ? Pelliot connects Locac with Lopburi (Lavo) in lower Siam, whereas Yule cited a 1292–93 Sukhothai inscription whose authenticity scholars later challenged [@pelliot1959notes, “Locac”; @yc, 3.7 n. 3].
+[27] ? Pelliot connects Locac with Lopburi (Lavo) in lower Siam, whereas Yule favoured Ligor (Nakhon Si Thammarat) on the Malay Peninsula and cited a 1292–93 Sukhothai inscription whose authenticity scholars later challenged [@pelliot1959notes, “Locac”; @yc, 3.7 n. 3]. The exact polity remains contested.
 
-[28] ~ Pelliot places Pentam at Bintan Island overlooking the Singapore Strait [@pelliot1959notes, entry 313; @yc, 3.8 n. 1].
+[28] ~ Pelliot places Pentam at Bintan Island overlooking the eastern entrance to the Singapore Strait [@pelliot1959notes, entry 313; @yc, 3.8 n. 1]. See [Map A16, the return route](ch-09-cocachin-return.md#fig-a16-cocachin-return) for the approach to the Straits.
 
-[29] ~ Lifting giant stern rudders through sixty miles of four-pace water accurately captures real junk handling across narrow strait channels [@yc, 3.8 n. 2].
+[29] ~ Lifting giant stern rudders through sixty miles of four-pace water accurately captures real junk handling across the shallow Riau and Singapore strait channels [@yc, 3.8 n. 2]. Deep-draught Chinese hulls had to unship or hoist their axial rudders to clear the shoals.
 
-[30] ? A walled provisioning city with its own language and spice shops points toward Malayu in Jambi, though exact strait identifications vary [@yc, 3.8 n. 3; @hall2011history].
+[30] ? A walled provisioning city with its own language and spice shops points toward Malayu in Jambi on Sumatra's east coast, though exact strait identifications vary between mainland and island entrepôts [@yc, 3.8 n. 3; @hall2011history]. From Malaiur the fleet crosses directly to the northern kingdoms of Sumatra.

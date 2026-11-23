@@ -6,23 +6,23 @@
 
 ---
 
-Maps cannot replace Polo’s words, but they keep the ear honest. Volume I runs from the Adriatic to the Mongol summer court: roughly Venice to Chandu (Shangdu), with a long Persian–Central Asian bend and a desert that still frightens readers who have never seen sand. What follows is a map guide — how to look at the outbound route — plus tables of the places Volume I names. [1]
+Maps cannot replace Polo’s words, but they keep the ear honest. Volume I runs from the Adriatic to the Mongol summer court: roughly Venice to Chandu (Shangdu), with a long Persian–Central Asian bend and a desert that still frightens readers who have never seen sand. What follows is a map guide — how to look at the outbound route — plus tables of the places Volume I names [1].
 
 ### How to read the outbound arc
 
 Think of Volume I as three nested journeys, not one straight line.
 
-**First, the elder brothers’ prologue road** (before young Marco leaves Venice): Constantinople (Istanbul) → Soldaia (Sudak) → Sarai / Bolghar country → Bocara (Bukhara) → long ride to the Great Khan → return via Ayas (Lajazzo) and Acre (Akko) to Venice. That arc is the family’s apprenticeship in Mongol logistics. [2]
+**First, the elder brothers’ prologue road** (before young Marco leaves Venice): Constantinople (Istanbul) → Soldaia (Sudak) → Sarai / Bolghar country → Bocara (Bukhara) → long ride to the Great Khan → return via Ayas (Lajazzo) and Acre (Akko) to Venice. That arc is the family’s apprenticeship in Mongol logistics [2].
 
-**Second, the family setting-forth with Marco** (early 1270s): Acre and the papal business with Tedaldo / Gregory X → Ayas → the Anatolian–Armenian highlands → Tauris (Tabriz) and the Persian cities → Kerman → Hormuz (Hormos) and back to Kerman (Yule infers an abandoned plan to sail from there) → inland again past the Arbre Sec country toward Balkh and Badakhshan. [3]
+**Second, the family setting-forth with Marco** (early 1270s): Acre and the papal business with Tedaldo / Gregory X → Ayas → the Anatolian–Armenian highlands → Tauris (Tabriz) and the Persian cities → Kerman → Hormuz (Hormos) and back to Kerman (Yule infers an abandoned plan to sail from there) → inland again past the Arbre Sec country toward Balkh and Badakhshan [3].
 
-**Third, the high road into Cathay:** Wakhan and Pamir → Kashgar, Yarkand, Khotan and the southern Tarim string → City of Lop and the Desert of Lop → Tangut oases (Succiu, Campichu) → the approach past Caracoron’s memory and Tenduc’s legends → Chandu, then the threshold of Cambaluc (Khanbaliq / Beijing). [4]
+**Third, the high road into Cathay:** Wakhan and Pamir → Kashgar, Yarkand, Khotan and the southern Tarim string → City of Lop and the Desert of Lop → Tangut oases (Succiu, Campichu) → the approach past Caracoron’s memory and Tenduc’s legends → Chandu, then the threshold of Cambaluc (Khanbaliq / Beijing) [4].
 
 On a modern wall map this looks like a crooked ribbon from Italy to Beijing via Iran and Xinjiang. In the book it feels like a sequence of courts, markets, marvels, and waits — because that is how a merchant-storyteller remembers distance.
 
 ### Map of the round trip
 
-![The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
+![Map A1. The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
 See [Map of the world in 1260, I-F1](front-01-world-before-the-road.md#map-of-the-world-in-1260).
 
@@ -119,7 +119,7 @@ See [Map of the world in 1260, I-F1](front-01-world-before-the-road.md#map-of-th
 
 ### A few map cautions
 
-**Hormos** in the outbound chapters is Old Hormuz on the mainland. Its map point marks the modern Minab area. The point for Camadi marks modern Jiroft, near the trading town of Qamādin. Baudas and the mountain-miracle story may sit nearer to report and pious tale than to a GPS pin on the family’s path. Tenduc and the Arbre Sec are soft geography — useful as book landmarks, dangerous as survey points. The Desert of Lop is a region, not a single campsite. [5]
+**Hormos** in the outbound chapters is Old Hormuz on the mainland. Its map point marks the modern Minab area. The point for Camadi marks modern Jiroft, near the trading town of Qamādin. Baudas and the mountain-miracle story may sit nearer to report and pious tale than to a GPS pin on the family’s path. Tenduc and the Arbre Sec are soft geography — useful as book landmarks, dangerous as survey points. The Desert of Lop is a region, not a single campsite [5].
 
 When a chapter says “forty days” or “seven days,” treat the number as narrative measure first and itinerary stopwatch second. Medieval days’-journeys compress and expand with memory, danger, and literary habit.
 
@@ -129,12 +129,12 @@ Anyway, the maps are here so you can look up when the storyteller says *next he 
 
 ## Notes
 
-[1] ✓ The place tables give each place's book name, its modern name and its role in Volume I; identifications follow Yule–Cordier unless a chapter Note says otherwise. Image credits are in the media attributions.
+[1] ✓ The place tables give each place's book name, its modern name, and its role in Volume I, following the series gazetteer and Yule–Cordier unless a chapter Note states otherwise [@yc, bk. 1]. Map and figure sources are listed in the [media credits](../media/ATTRIBUTIONS.md).
 
-[2] ✓ Elder voyage geography in outline — Constantinople, Soldaia, Sarai/Bolghar, Bocara — Prologue tradition with Yule date correction.
+[2] ~ The elder brothers’ voyage through Constantinople, Soldaia, Sarai, Bolghar, and Bocara to the Great Kaan’s court rests on the Prologue narrative [@yc, Prol. 1–9]. Yule supplies the corrected 1260 departure date; see [Map A3, the elder voyage](ch-02-house-of-polo.md).
 
-[3] ✓ / ~ Second setting-forth via Acre–Ayas–Persia–Hormuz and back to Kerman (the abandoned sea plan is Yule’s inference) — core Book I itinerary; exact day-stages vary by manuscript and commentary.
+[3] ~ The second setting-forth via Acre, Ayas, Persia, and Hormos back to Kerman traces the core Book I itinerary [@yc, Prol. 10–13; @yc, 1.1–22]. The abandoned plan to travel by sea from Hormos is Yule’s editorial inference rather than an explicit statement in the text; see [Chapter I-7, Note 27](ch-07-kerman-hormos.md#notes).
 
-[4] ✓ Pamir–Tarim–Lop–Tangut–Chandu sequence as Volume I’s eastern climax; Cambaluc fully opens in Volume II court chapters.
+[4] ✓ The highland and desert sequence through the Pamier, the southern Tarim oases, the Desert of Lop, and the Tangut corridor leads to the Volume I climax at Chandu [@yc, 1.32–61]. The winter capital of Cambaluc opens in full detail in Volume II.
 
-[5] ? Arbre Sec, Tenduc, Pem, parts of Baudas marvel overlay. Each chapter’s Notes say whether a place was visited, likely visited, only reported, or is uncertain.
+[5] ? Several landmarks in Volume I—including the Arbre Sec, Dogana, Chingintalas, and the exact seat of Tenduc—resist fixed coordinates [@yc, 1.22, 1.42, 1.59; @pelliot1959notes]. Each chapter’s Notes weigh the manuscript readings and modern geographical proposals place by place.

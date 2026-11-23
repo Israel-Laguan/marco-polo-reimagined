@@ -56,64 +56,64 @@ Shake those last barley-like crumbs off your cloak and retrace the white beach n
 
 ## Notes
 
-[1] ~ Java the Less denotes Sumatra, distinguished from larger Java behind it; two thousand miles reflects mariners’ coastal reckoning rather than true survey mileage [@yc, 3.9 n. 1].
+[1] ~ Java the Less denotes Sumatra, distinguished from Great Java behind it [@yc, 3.9 n. 1]. Polo's two thousand miles reflects mariners’ coastal reckoning rather than true survey mileage.
 
-[2] ✗ Claiming the Pole Star vanishes completely mistakes low-latitude horizon haze for absolute invisibility; see [Diagram C10, the Pole Star](../media/diagrams/C10-pole-star.pdf) [@yc, 3.9; @yc, 3.10 n. 2].
+[2] ✗ Claiming the Pole Star vanishes completely mistakes low-latitude horizon haze for absolute invisibility, since northern Sumatra still lies four to five degrees north of the equator [@yc, 3.9; @yc, 3.10 n. 2]. See [Diagram C10, the Pole Star](ch-06-mutfili-kesmacoran.md#fig-c10-pole-star).
 
-[3] ~ Repeating at Samara that the *Maestro* (the Plough / Ursa Major) likewise disappears extends the astronomical observation along northern Sumatra [@yc, 3.10 n. 2].
+[3] ~ Repeating at Samara that the *Maestro* (the Plough / Ursa Major) likewise disappears extends the astronomical observation along the northern Sumatran coast [@yc, 3.10 n. 2]. At five degrees north, the lower stars of the constellation dip below the northern horizon during part of the year.
 
-[4] ~ Dividing the island among eight kings while visiting six—and candidly setting aside the far two—pairs local market notes with clear limits [@yc, 3.9 n. 2; @yc, 3.11].
+[4] ~ Dividing the island among eight kings while claiming to have visited six—and candidly setting aside the far two—pairs local market notes with clear limits on the fleet's landfalls [@yc, 3.9 n. 2; @yc, 3.11]. All six named polities cluster around the northern and north-eastern littoral of Sumatra.
 
-[5] ✓ Ferlec corresponds to Perlak, where visiting sea merchants from the western Indian Ocean converted townsfolk early to Islam [@yc, 3.9 n. 3].
+[5] ✓ Ferlec corresponds to Perlak on the Aceh coast [@yc, 3.9 n. 3]. Polo notes a striking social divide there: foreign Muslim merchants had recently converted the port townsfolk to Islam, whereas the inland villagers kept their older animist customs.
 
-[6] ? Charging Ferlec’s hill-dwellers with worshipping morning’s first sight and eating human flesh echoes coastal rumour without independent confirmation [@yc, 3.9 n. 3].
+[6] ? Charging Ferlec’s hill-dwellers with worshipping the first thing seen each morning and eating human flesh echoes coastal merchant rumour without independent confirmation [@yc, 3.9 n. 3]. Port traders across the archipelago routinely painted interior hill peoples as savages.
 
-[7] ~ Basma plausibly points near Pasai; Yule compares local polity names while showing how fluidly such titles sat along the coast [@yc, 3.9 n. 4].
+[7] ~ Basma plausibly points near Pasai (Pacem) on the northern coast [@yc, 3.9 n. 4]. Yule compares local Malay polity names while showing how fluidly such royal titles sat along the Sumatran shore.
 
-[8] ✓ Separating rare diplomatic curiosities sent to Cambaluc from regular tax tribute realistically measures the outer limit of Yuan authority [@yc, 3.9 n. 4].
+[8] ✓ Separating rare diplomatic curiosities sent to Cambaluc from regular tax tribute realistically measures the outer limit of Yuan overseas authority [@yc, 3.9 n. 4]. Northern Sumatran rulers sent occasional envoys with local marvels to court without submitting to an imperial tax register.
 
-[9] ~ Mud-wallowing bulk, elephant feet, hog-like head, and a single black forehead horn describe a rhinoceros; Talbot considers both Sumatran and Javan traits behind the language, whereas Kovesi identifies the Sumatran species [@yc, 3.9 n. 5; @talbot1959unicorn; @kovesi2025rhinoceros].
+[9] ~ Mud-wallowing bulk, elephant feet, hog-like head, and a single black forehead horn describe a rhinoceros [@yc, 3.9 n. 5]. Talbot considers both Sumatran and Javan traits behind the language, whereas Kovesi identifies the beast with the Sumatran species [@talbot1959unicorn; @kovesi2025rhinoceros].
 
-[10] ✓ Attributing injury to the prickly tongue rather than the horn and dismissing Europe’s maiden-tamed unicorn sit inside Yule’s base narrative; both Yule and Eusebi’s French edition leave open whether Marco saw the beast personally [@yc, 3.9 n. 5; @eusebi2018devisement].
+[10] ✓ Attributing injury to the prickly tongue rather than the horn and dismissing Europe’s maiden-tamed unicorn sit inside Yule’s base narrative [@yc, 3.9 n. 5]. Both Yule and Eusebi’s French edition leave open whether Marco saw the beast personally or described a captured specimen [@eusebi2018devisement].
 
-[11] ~ Ramusio-only in part. Base witnesses carry the harsh rasp-like tongue (linked by Talbot to lower incisors and traced in V by Eusebi), while Ramusio adds pinning prey beneath heavy knees [@yc, 3.9 n. 5; @eusebi2018devisement; @talbot1959unicorn].
+[11] ~ Ramusio-only in part. Base witnesses carry the harsh rasp-like tongue (linked by Talbot to the animal's sharp lower incisors and traced in V by Eusebi), while Ramusio adds pinning prey beneath its heavy knees [@yc, 3.9 n. 5; @eusebi2018devisement; @talbot1959unicorn]. Both details dispel the graceful unicorn of European bestiaries.
 
-[12] ✓ Basma’s black goshawks and small monkeys appear in the Book’s regional wildlife tally beside the rhinoceros [@yc, 3.9].
+[12] ✓ Basma’s black goshawks and small monkeys appear in the Book’s regional wildlife tally beside the rhinoceros [@yc, 3.9]. The tropical fauna caught the eye of a court official accustomed to Cublay's northern falconry and menageries.
 
-[13] ~ Shaving, smoke-drying, stuffing, and saffron-staining monkeys to sell as dried Indian pygmies exposes an actual maritime curio fraud [@yc, 3.9].
+[13] ~ Shaving, smoke-drying, stuffing, and saffron-staining small monkeys to sell to gullible western buyers as dried Indian pygmies exposes an actual maritime curio fraud [@yc, 3.9]. Polo takes evident pleasure in warning European collectors how easily port taxidermists manufactured monsters.
 
-[14] ~ Samara’s five-month weather halt anchors Polo’s stay on Sumatra; tying it directly to the Prologue’s “Java” stop on Cocachin’s return voyage is an editorial reconstruction [@yc, 3.10 n. 1; @yc, Prol. 18]. See [Chapter III-9](ch-09-cocachin-return.md).
+[14] ~ Samara’s five-month weather halt anchors Polo’s stay on northern Sumatra [@yc, 3.10 n. 1]. Tying that monsoon wait directly to the Prologue’s “Java” stop on Cocachin’s return voyage is an editorial reconstruction; see [Chapter III-9](ch-09-cocachin-return.md) [@yc, Prol. 18].
 
-[15] ~ Timber camp defences appear already in both the Franco-Italian F manuscript and Venetian V witness, as Simion shows [@simion2019devisement, § 3.2.3, p. 141].
+[15] ~ Timber camp defences appear already in both the Franco-Italian F manuscript and the Venetian V witness, as Simion shows [@simion2019devisement, § 3.2.3, p. 141]. The stockade was not invented in the sixteenth century.
 
-[16] ~ Zelada Latin and Ramusio both raise the landing force to roughly two thousand men behind sea-anchored ditches and five wooden towers [@yc, 3.10; @simion2019devisement, § 3.2.3, p. 141].
+[16] ~ Zelada- and Ramusio-only. Both the Zelada Latin and Ramusio raise the landing force to roughly two thousand men behind sea-anchored ditches and five wooden blockhouses [@yc, 3.10; @simion2019devisement, § 3.2.3, p. 141]. Keeping the two witness layers distinct shows how the camp fortification grew across manuscript families.
 
-[17] ~ Ramusio-only. Plentiful beach timber and local villagers trusting the camp enough to trade fish and rice daily enter Yule’s brackets from Ramusio [@yc, 3.10].
+[17] ~ Ramusio-only. Plentiful beach timber and local villagers trusting the camp enough to trade fish and rice daily enter Yule’s brackets from Ramusio [@yc, 3.10]. The addition turns a tense palisade watch into a practical harbour market.
 
-[18] ~ Ramusio-only in part. Tapping palm boughs into clay pots for white and red toddy and watering sluggish roots belong to the base account, whereas Yule brackets Ramusio’s medical praise against dropsy, phthisis, and spleen [@yc, 3.10 n. 3].
+[18] ~ Ramusio-only in part. Tapping palm boughs into clay pots for white and red toddy and watering sluggish roots belong to the base account, whereas Yule brackets Ramusio’s medical praise against dropsy, phthisis, and spleen [@yc, 3.10 n. 3]. Fermented palm wine was an everyday staple for crews waiting out the monsoon.
 
-[19] ~ Ramusio-only in part. Base texts mention man’s-head coconuts, while Ramusio supplies the sweeter-than-wine liquid praise and white nut-meat [@yc, 3.10].
+[19] ~ Ramusio-only in part. Base texts mention coconuts the size of a man’s head, while Ramusio supplies the sweeter-than-wine liquid praise and white nut-meat [@yc, 3.10]. The fuller gloss explains a tropical fruit to Italian readers who knew only dried imported nuts.
 
-[20] ~ Describing Samara’s townsfolk as idolaters loosely under Cublay captures Polo’s passing impression from camp [@yc, 3.10 n. 1].
+[20] ~ Describing Samara’s townsfolk as idolaters loosely under Cublay captures Polo’s passing impression from the beach camp [@yc, 3.10 n. 1]. Compare Note 21 on the royal Islamic transition taking place at Samudera in this very decade.
 
-[21] ~ Royal tombstones record Muslim ruler Malik al-Salih’s death at Samudera in 1297, though Lambourn and Ismail debate whether extant stones are contemporary or replacements; Ibn Baṭṭūṭa visited an established Muslim court later [@yc, 3.10 n. 1; @lambourn2008tombstones; @ismail2022batuaceh].
+[21] ~ Royal tombstones record Muslim ruler Malik al-Salih’s death at Samudera in 1297, though Lambourn and Ismail debate whether the extant stones are contemporary imports or later replacements [@yc, 3.10 n. 1; @lambourn2008tombstones; @ismail2022batuaceh]. Half a century later Ibn Baṭṭūṭa visited an established Muslim court at the same port.
 
-[22] ? Dagroian stays unpinned along north-eastern Sumatra despite Yule’s linguistic comparisons [@yc, 3.10 n. 4].
+[22] ? Dagroian stays unpinned along north-eastern Sumatra despite Yule’s and Pelliot's linguistic comparisons [@yc, 3.10 n. 4; @pelliot1959notes, vol. 2, pp. 613–615]. None of the proposed coastal rivers or districts matches the name with certainty.
 
-[23] ? Oracular death sentences, suffocation, ritual feasting, and fear of starving corpse-worms weave classic funerary marvels without local confirmation [@yc, 3.10 n. 5].
+[23] ? Oracular death sentences, suffocation, ritual feasting on the deceased, and fear of starving corpse-worms weave classic funerary marvels without local confirmation [@yc, 3.10 n. 5]. Yule compares similar endocannibalism stories told of remote island tribes from antiquity onward.
 
-[24] ? Sealing cleaned skeletal bones inside wooden chests in high mountain caves echoes the Book’s similar burial notice for Coloman [@yc, 3.10 n. 5; @yc, 2.58].
+[24] ? Sealing cleaned skeletal bones inside wooden chests in high mountain caves echoes the Book’s similar cliff-burial notice for Coloman in [Chapter II-9](../vol-2/ch-09-caugigu-cuiju.md) [@yc, 3.10 n. 5; @yc, 2.58]. Cave ossuaries were known in parts of the archipelago, though Polo attaches them here to a cannibal feast tale.
 
-[25] ? Executing and eating unransomed castaways stands separately as a harsh maritime tale about hostile shores [@yc, 3.10 n. 5].
+[25] ? Executing and eating unransomed foreign castaways stands separately as a harsh maritime tale about hostile shores [@yc, 3.10 n. 5]. Sailors coasting northern Sumatra drew a sharp line between safe treaty ports and unvisited headlands.
 
-[26] ~ Lambri matches Lamuri near Aceh; three-year transplanted “brazil” bushes reflect Asian sappanwood cultivation sharing the red brazilin dye with American brazilwood [@yc, 3.11 n. 1; @yc, 3.9 n. 2].
+[26] ~ Lambri matches Lamuri near Banda Aceh [@yc, 3.11 n. 1]. The three-year transplanted “brazil” bushes reflect Asian sappanwood (*Biancaea sappan*), which shared the red brazilin dye with the South American brazilwood named after it centuries later [@yc, 3.9 n. 2].
 
-[27] ~ Packing dyewood seed back to Venice and failing to raise shoots in cooler soil stands as Polo’s unverified personal experiment [@yc, 3.11].
+[27] ~ Packing dyewood seed back to Venice and failing to raise shoots in cooler lagoon soil stands as Polo’s unverified personal experiment [@yc, 3.11]. See the botanical comparison table in this chapter.
 
-[28] ✗ Palm-long smooth tails on inland hill-folk repeat a classic Eurasian marvel motif gathered by Yule [@yc, 3.11 n. 2].
+[28] ✗ Palm-long smooth tails on inland hill-folk repeat a classic Eurasian marvel motif gathered by Yule [@yc, 3.11 n. 2]. Coastal informers regularly attributed tails to forest peoples or mistook hanging bark and skin loincloths for anatomy.
 
-[29] ~ Arab geographers cited by Yule confirm Fansur (Barus) as the prime origin of top-grade camphor, priced at equal weight in gold by Polo [@yc, 3.11 n. 3].
+[29] ~ Arab geographers cited by Yule confirm Fansur (Barus on Sumatra's north-west coast) as the prime origin of top-grade *Fansuri* camphor [@yc, 3.11 n. 3]. Pricing the crystalline resin at equal weight in fine gold reflects its luxury status in Asian pharmacy.
 
-[30] ✓ Felling wide-girthed palms, scooping pith, washing starch in water, and baking barley-like flatbread accurately describe Sumatran sago preparation [@yc, 3.11 n. 4].
+[30] ✓ Felling wide-girthed palms, scooping out the pith, washing the starch in water troughs, and baking barley-like flatbread accurately describe Sumatran sago preparation [@yc, 3.11 n. 4]. Processing sago starch required careful leaching and decanting before the meal could hit the griddle.
 
-[31] ~ Eusebi’s French edition puts eating the sago bread into the travellers’ first-person plural, claiming direct taste rather than rumour [@yc, 3.11; @eusebi2018devisement].
+[31] ~ Eusebi’s French edition puts eating the sago bread into the travellers’ first-person plural, claiming direct taste in camp rather than second-hand rumour [@yc, 3.11; @eusebi2018devisement]. The detail anchors the end of the Sumatran stay in ships' stores and mess tables.

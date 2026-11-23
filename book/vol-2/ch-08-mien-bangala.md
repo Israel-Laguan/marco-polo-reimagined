@@ -10,6 +10,8 @@
 
 Five weights of silver will buy one of gold in Zardandan (western Yunnan). If you have brought a mule-load of silver, that is reason enough to risk the road to Vochan (Baoshan). The court has its own reasons for wanting to hold that road. Cublay (Kublai) Kaan sends soldiers into Vochan and Carajan (Yunnan), in Polo’s account, to protect the frontier from raids [1]. The next army to appear on the plain has towers strapped to its elephants.
 
+![Diagram C9. Weights of silver paid for one weight of gold along the route. The local rates are Polo’s. *(This edition, after the Book and Yule–Cordier’s comparisons.)*](../media/diagrams/C9-gold-silver.svg){#fig-silver-exchange}
+
 Polo puts the clash in 1272 [2]. He puts the posting of the garrison before the appointment of Sentemur (Esen-Temür), the son of one of Cublay’s dead sons [3]. The Yuan chronicle gives us a later date for an encounter with elephants. Keep that difference in mind when the armies meet. We can follow this battle right down to the tree where a bowman ties his pony, and still be unsure which battle we’ve fought.
 
 From Mien (the kingdom of Bagan, in present-day Myanmar) comes a king who owes the Kaan no allegiance. The Book gives him Bangala (usually read as Bengal, though its position is disputed) as well [4]. Word of the garrison reaches him and he marches to drive it off. Three days short of Vochan he calls a halt to rest his army. A cavalryman can get off and loosen a girth there. Consider what it takes just to look after the elephants. A tower has to ride securely when the animal changes pace, and the men in it have to be able to use their weapons without getting in one another’s way. Read the muster as a merchant for a moment. The timber and the harness for one of these towers would be an order worth having. Multiply it by the number Polo is about to give us.
@@ -31,7 +33,7 @@ Set Polo’s account alongside the Yuan chronicle and the arrows are still there
 | Source | Engagement | Mien force | Yuan force | Elephants | Recorded action | Verdict |
 |---|---|---|---|---|---|---|
 | Polo | Vochan, dated 1272 | 60,000 horse and foot | 12,000 horse under Nescradin | 2,000 in the attacking force | Archers dismount and shoot | ? Match unproved |
-| *Yuan shi*, juan 210 | Elephant engagement, third month of 1277 | About 40,000–50,000 | About 700 under Hudu and companions | About 800 in the attacking force | Elephants flee under arrows | ? Match unproved |
+| *Yuan shi*, juan 210 | Elephant engagement, third month of 1277 | About 40,000 to 50,000 | About 700 under Hudu and companions | About 800 in the attacking force | Elephants flee under arrows | ? Match unproved |
 | *Yuan shi*, juan 210 | Separate expedition, tenth month of 1277 | Defenders at fortified positions | More than 3,840 under Nescradin | No elephant charge specified | Fortified settlements submit | ✓ Separate expedition |
 
 ---

@@ -3,8 +3,7 @@ title: Pleasure barges on the West Lake
 status: pilot-accepted   # S-10 pilot 2; re-roll when PLT.II-13 runs if a better seed turns up
 tradition: Song–Yuan city-genre handscroll (Qingming shanghe tu tradition)
 caption: >-
-  Pleasure barges on the West Lake at Kinsay. Modern illustration in the manner of a
-  Song–Yuan city-genre handscroll. Not a historical artifact.
+  Roofed barges bring guests to the lakeside pavilions at Kinsay. Ramusio supplies the fuller account of these outings. Modern illustration in the manner of a Song–Yuan city-genre handscroll. Not a historical artifact.
 generator: Akool direct API (POST /api/open/v4/content/image/createBySourcePrompt)
 model: wavespeed-ai/flux-krea-dev-lora
 job_id: 6af3b0f651e26737e1e1e5b3   # Akool has no seed; the job id is the only handle, results expire after 7 days

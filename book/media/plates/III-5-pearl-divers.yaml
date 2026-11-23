@@ -3,8 +3,7 @@ title: Pearl divers and the shark-charmer
 status: pilot-accepted   # S-10 pilot 3
 tradition: Chola temple mural (Brihadishvara, Thanjavur)
 caption: >-
-  Pearl divers in the Gulf of Mannar, with the charmer on deck. Modern illustration in the
-  manner of a Chola temple mural. Not a historical artifact.
+  A diver descends to the pearl beds in the Gulf of Mannar. On deck a charmer performs the rite the fishers believed would protect them from sharks. Modern illustration in the manner of a Chola temple mural. Not a historical artifact.
 generator: Akool direct API (POST /api/open/v4/content/image/createBySourcePrompt)
 model: wavespeed-ai/flux-krea-dev-lora
 job_id: 6af3b0f651e26737e1e1e5a9

@@ -32,7 +32,7 @@ Which news might have sent two travellers looking for an escort home? Yule found
 
 ### Map of the outbound road
 
-![The Jerusalem errand and two reconstructed routes east, one via Tauris and one via Mausul and Baudas. The detour from Kerman to Hormos is conjectural. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. Tonocain is a regional label near Qaen; Canosalmi and the Dry Tree have no fixed points. *(Map: this edition, from the Book and S-16.)*](../media/maps/A4-acre-to-hormos.svg)
+![Map A4. The Jerusalem errand and two reconstructed routes east, one via Tauris and one via Mausul and Baudas. The detour from Kerman to Hormos is conjectural. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. Tonocain is a regional label near Qaen; Canosalmi and the Dry Tree have no fixed points. *(Map: this edition, from the Book and S-16.)*](../media/maps/A4-acre-to-hormos.svg)
 
 The next thing the Prologue wants us to see is a welcome. In between lie three and a half years, it says, with stretches of severe cold and bad weather. The Book keeps the places for the account that follows. Once you have watched a galley go back to Acre for a letter, the speed with which it gets a caravan across a continent is quite a feat [13].
 
@@ -47,6 +47,8 @@ See [the map of the highlands and Tarim, I-9](ch-09-balc-badashan.md#map-of-the-
 An escort comes out to meet them. The Book gives it a journey of forty days to come that far, and it makes sure we know the travellers' wants are seen to. The brothers have already learnt what it is to be supplied on the emperor's road. This time they get to take a young man along and show him the difference an imperial welcome makes to a stranger [16].
 
 The summer court is at Chandu (Shangdu or Kemenfu). Inside the palace the emperor has his barons around him. The three men go down on their knees. Cublay has them rise and asks the brothers how they have fared. Their reply is that it is good to find him safe and well [17].
+
+![Niccolò Polo presents his son Marco to Kublai at the summer court of Kaiping, about 1275. The scene follows the dramatized account in Polo’s Prologue. *(Modern illustration in the manner of Yuan court painting. Not a historical artifact. This edition.)*](../media/plates/I-3-presentation-at-kaiping.png){#fig-i-3-presentation-at-kaiping}
 
 Now the things they have taken so much trouble to keep are put before him. First the Pope's letters and the credentials, then the oil. The Book has him pleased with both. Then he looks at the person for whom the brothers brought no letter. Who is that with them? It is a father's part to present him, and Niccolò calls him the emperor's liegeman as readily as his own son. Cublay welcomes him too [18].
 
@@ -79,21 +81,21 @@ For now leave them all in the hall at Chandu. Marco has been welcomed and will h
 
 ## Notes
 
-[1] ~ The Prologue's ages and its two-year wait give the conventional departure in 1271 and birth c. 1254 [@yc, Prol. 9–10].
+[1] ~ The Prologue's ages and its two-year wait give the conventional departure in 1271 and birth c. 1254 [@yc, Prol. 9–10]. Both dates rest on counting forward from the 1269 return to Venice.
 
 [2] ? The Book calls the archdeacon a legate. Yule and Cordier give conflicting outside accounts of his formal position [@yc, Prol. 9, Prol. 11 n. 1].
 
-[3] ✓ Earlier accounts attest the lamps and the practice of obtaining a blessing there. ~ Cublay's request and the particular flask belong to the Prologue [@yc, Prol. 7, Prol. 10 n. 1].
+[3] ~ Earlier accounts attest the lamps at the Holy Sepulchre and the pilgrim practice of obtaining blessed oil there [@yc, Prol. 10 n. 1]. Cublay's specific request and the flask carried east belong to the Prologue narrative [@yc, Prol. 7].
 
 [4] ~ The request and the letters of excuse are in the Prologue. The text of the letters is unavailable [@yc, Prol. 10].
 
 [5] ✓ Clement IV died on 29 November 1268. The subsequent election was on 1 September 1271 [@yc, Prol. 11 n. 1].
 
-[6] ~ The recall and royal galley are in the Prologue [@yc, Prol. 11].
+[6] ~ The recall from Ayas and the royal galley lent by the Armenian king belong to the Prologue narrative [@yc, Prol. 11]. Cilician Armenia regularly cooperated with papal legates and Western envoys travelling toward the Mongol courts.
 
 [7] ✓ Yule gives the resident bailie. The Genoese deeds give independent evidence of Italian commerce in the 1270s [@yc, Prol. 8 n. 2; @balletto1989laiazzo; @lin2019cilician].
 
-[8] ✓ William and his dedication are independently attested in the material cited by Yule. ~ Nicolas and the joint commission are the Book's account [@yc, Prol. 12 n. 1].
+[8] ~ William of Tripoli and his treatise on Islam dedicated to Tedaldo are independently attested in the material cited by Yule [@yc, Prol. 12 n. 1]. Nicolas of Vicenza and the joint papal commission to the Great Kaan come from the Book's account.
 
 [9] ~ Ramusio-only in Yule. Yule suspects exaggeration of the faculties and cites analogous bulls [@yc, Prol. 12 n. 2].
 
@@ -101,29 +103,29 @@ For now leave them all in the hall at Chandu. Marco has been welcomed and will h
 
 [11] ~ The friars' departure with the Master of the Temple is in the Book. Yule gives Thomas Bérard as the master then in office [@yc, Prol. 12 n. 4].
 
-[12] ✗ The burning in 1275 cannot be the reason for a departure in 1271. ~ Yule proposes the frontier alarm from Makrizi's account, as cited in Yule [@yc, Prol. 12 n. 3].
+[12] ~ The Mamluk burning of Ayas and Sis in 1275 cannot explain the friars' turnabout in late 1271 [@yc, Prol. 12 n. 3]. Yule instead points to Makrizi's report of serious Mamluk frontier alarms along the Syrian border in the autumn of 1271.
 
-[13] ~ Three and a half years is the Prologue's figure, with bad weather and cold given as the explanation [@yc, Prol. 13].
+[13] ~ Three and a half years on the outbound road is the Prologue's figure, with bad weather, snow, and swollen rivers given as the explanation [@yc, Prol. 13]. The narrative defers the stops along the route to the descriptive chapters of Book I.
 
 [14] ? Yule constructs the route from the descriptions in Book I. The routes through Tauris and through Mausul and Baudas are reconstructions [@yc, Introduction, § 11; @yc, bk. 1].
 
 [15] ? Yule calculates c. May 1275 at Kaipingfu. Haw's range is 1274 or 1275, inside that window. Wood doubts the second journey [@yc, Prol. 13 n. 1; @haw2006marco, chs. 3 and 5 (pp. 50, 68 in the 2009 paperback); @wood1995did, conclusion].
 
-[16] ~ The forty days and the escort's provisions are reported in the Prologue [@yc, Prol. 13].
+[16] ~ Sending an escort forty days out to meet the returning party and supply its needs comes from the Prologue [@yc, Prol. 13]. Such advance reception parties matched Mongol diplomatic hospitality along the post roads.
 
-[17] ✓ Yule identifies Kemenfu as Kaipingfu, the summer court later styled Shangdu. ~ The welcome in the hall is in the Prologue [@yc, Prol. 13 n. 1; @yc, Prol. 14].
+[17] ✓ Yule identifies the Prologue's Kemenfu with Kaipingfu, the summer court later styled Shangdu [@yc, Prol. 13 n. 1]. The formal welcome inside the crowded palace hall follows the Prologue's court scene [@yc, Prol. 14].
 
-[18] ~ The Book gives the gifts in this order and presents Marco as the emperor's man, French *vostre homme* [@yc, Prol. 14 n. 2].
+[18] ~ The Book presents the papal letters, the credentials, and the Jerusalem oil in this sequence before introducing young Marco as the emperor's *“liegeman”* (French *vostre homme*) [@yc, Prol. 14 n. 2]. That feudal phrasing casts the Venetian youth as a personal retainer of the throne.
 
-[19] ? The Book's four kinds of writing are unnamed [@yc, Prol. 15].
+[19] ? The Prologue asserts that Marco learned the Tartar customs, languages, and four distinct scripts without naming which alphabets they were [@yc, Prol. 15]. That omission has invited centuries of scholarly conjecture over his actual linguistic command.
 
-[20] ? Pauthier's and the editors' suggestions as given by Yule and Cordier, who discuss the six-language Yuan inscriptions at Juyong Pass and the reports of multilingual imperial orders [@yc, Prol. 15 n. 1].
+[20] ? Pauthier, Yule, and Cordier debate candidate scripts including 'Phags-pa Mongol, Uighur, Arabic or Persian, Tibetan, and Chinese [@yc, Prol. 15 n. 1]. They compare the six-language Yuan inscription at the Juyong Pass and the chancellery practice of issuing orders in several scripts, though none of these comparisons settles which four the Prologue meant.
 
 [21] ~ The six months are the Prologue's estimate. Ramusio-only in Yule. The name Carajan is in his version [@yc, Prol. 15 n. 2].
 
-[22] ~ The envoy's education in what to observe and report is the Book's account [@yc, Prol. 15].
+[22] ~ The envoy's education in observing local customs and novelties to satisfy the Kaan's curiosity comes from the Prologue [@yc, Prol. 15]. It supplies the Book's own explanation for why a young commissioner took note of strange manners and cities along his roads.
 
-[23] ~ The return, title, length of service and court envy are the Book's account. ? Pauthier's identification of the official called Polo in 1277 with Marco is unproven [@yc, Prol. 15 n. 1; @yc, Prol. 16].
+[23] ~ The return, title, length of service, and court envy are the Book's account, while Pauthier's identification of a court official called *Po-lo* in 1277 with Marco is unproved and refers instead to Bolad [@yc, Prol. 15 n. 1; @yc, Prol. 16].
 
 [24] ~ Ramusio-only in Yule. The private business is in the bracketed passage [@yc, Prol. 16].
 

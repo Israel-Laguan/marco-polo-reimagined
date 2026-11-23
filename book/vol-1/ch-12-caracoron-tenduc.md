@@ -56,7 +56,7 @@ What could a man take if he had to travel away from his household and live on th
 
 There is also the question of what an order has to go through to reach the man who is to carry it out. Polo can make the number of horsemen as great as he likes, and still a commander in his account need only give his instructions to ten men. Each of the ten has ten more to tell. The Book has gaps in the names of the grades, but the principle is clear [29]. It sees a mounted army that can make a pursuer sure of victory when he is in the worst position to claim one [30].
 
-![The decimal army and the Book's names for its grades, two of them lost from the manuscripts, with Yule's glosses. *(Diagram: this edition, from the Book via Yule–Cordier.)*](../media/diagrams/C4-decimal-army.svg)
+![Diagram C4. The decimal army and the Book's names for its grades, two of them lost from the manuscripts, with Yule's glosses. *(Diagram: this edition, from the Book via Yule–Cordier.)*](../media/diagrams/C4-decimal-army.svg){#fig-c4-decimal-army}
 
 Back among the herds, look for a brand. A man can turn his cattle out over the plain and find which are his, even if all his neighbours have turned theirs out too. Flocks have shepherds [31]. If a man is found to have taken a horse, the Book sets his ransom at nine times its value. For smaller thefts it counts punishments up from seven blows [32].
 
@@ -88,7 +88,7 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [2] ~ The forty days are the Book's figure. Yule identifies the wild asses as *Asinus hemionus* [@yc, 1.45 nn. 2–3].
 
-[3] ✓ Caracoron is the historical capital in the Orkhon valley. ? The Book does not establish a personal visit [@yc, 1.46 n. 1].
+[3] ~ Caracoron is the historical Mongol capital in the Orkhon valley, though the Book does not establish that Marco visited it in person [@yc, 1.46 n. 1]. His description introduces a broad historical and ethnographic excursion on the steppe Mongols.
 
 [4] ~ Ramusio-only in Yule. The rampart, citadel and palace are in his bracketed passage [@yc, 1.46].
 
@@ -96,7 +96,7 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [6] ~ Unc Can recalls the Kerait lord Toghrul. Prester John brings the European legend to his story [@yc, 1.46 n. 4].
 
-[7] ~ The tribute and revolt are the Book's account [@yc, 1.46].
+[7] ~ Paying cattle tribute to Unc Can and migrating northward into the steppe to escape his authority belong to the Book's simplified account of early Mongol vassalage [@yc, 1.46]. The story compresses decades of steppe confederation politics into a single break.
 
 [8] ✗ The Book dates Chinghis's rise to 1187, early for the title conferred in 1206. Its peaceful conquest of the eight provinces is idealised [@yc, 1.47 n. 1].
 
@@ -104,7 +104,7 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [10] ~ The camps and cane are the Book's staging of the war. Yule compares Christian divination among the Mongols [@yc, 1.48–49].
 
-[11] ✗ Unc Can survived the battle in which he was defeated [@yc, 1.49 n. 1; @yc, 1.50].
+[11] ✗ Unc Can survived the battle in which Chinghis broke his power [@yc, 1.49 n. 1; @yc, 1.50]. In the historical accounts he fled the field and was killed soon afterward among the Naiman.
 
 [12] ✗ Chinghis died in 1227 during the Tangut campaign. Yule considers possible sources of the confusion over his wound and Caaju [@yc, 1.50 n. 1].
 
@@ -112,21 +112,21 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [14] ✗ This is the order in the Book. Its argument for Cublay's superiority is praise [@yc, 1.51 nn. 1–2].
 
-[15] ✓ The commentary distinguishes the supreme rulers from the rulers of the regional dynasties [@yc, 1.51 nn. 1–2].
+[15] ✓ Yule's commentary distinguishes the supreme Great Kaans—adding the omitted Ögedei after Chinghis—from Batuy and Alaü, who ruled regional uluses on the Volga and in Persia [@yc, 1.51 nn. 1–2]. See the succession table in this chapter.
 
 [16] ? Altay is the Book's name, with the site disputed. The reported killing of people and horses is part of its funeral account [@yc, 1.51 nn. 3–4].
 
 [17] ? Yule relays an escort story about Chinghis from Rashid. Pelliot translates an excerpt of Rashid on Mongou's mourning and burial. Its ellipsis leaves the omitted text unavailable as evidence for Polo's figure [@yc, 1.51 n. 4; @pelliot1959notes, vol. 1, “Cinghis”].
 
-[18] ✓ Yule compares the tents and their arrangement with Rubruck and other accounts [@yc, 1.52 n. 1].
+[18] ✓ Circular felt-covered framework tents (*yurts* or *gers*) pitched with their doors facing south match the eyewitness accounts of Rubruck and Carpini [@yc, 1.52 n. 1; @rockhill1900journey]. Seasonal movement between winter valleys and summer highland pastures structured nomadic life across the steppe.
 
-[19] ✓ Covered carts appear in the travellers' accounts compared by Yule [@yc, 1.52 n. 2].
+[19] ✓ Two-wheeled and four-wheeled carts covered in black felt and drawn by oxen or camels appear in the thirteenth-century accounts of Rubruck and Carpini compared by Yule [@yc, 1.52 n. 2; @rockhill1900journey]. The rain-tight coverings allowed entire camps to carry household goods and families dry across open country.
 
-[20] ~ This division of household work is described by Polo, with the prominence of women's labour supported by Yule's comparisons [@yc, 1.52 n. 4].
+[20] ~ Assigning buying, selling, and household management to women while men devoted themselves to hunting and warfare matches the observations of early Franciscan envoys to the Mongol courts [@yc, 1.52 n. 4]. Elite and ordinary Mongol women exercised wide economic responsibility whenever the men rode out on campaign.
 
-[21] ✓ Yule compares the accounts of mare's milk and discusses the burrowing animals meant by Polo [@yc, 1.52 n. 3; @yc, 1.53 n. 2].
+[21] ✓ Yule compares Rubruck's detailed account of churning and fermenting mare's milk (*kumis*) and identifies the burrowing *Pharaoh's rats* of the text with steppe marmots [@yc, 1.52 n. 3; @yc, 1.53 n. 2; @rockhill1900journey]. Fermented mare's milk and game sustained the camps without reliance on grain.
 
-[22] ~ The rich dress and particular furs are in the Book [@yc, 1.53].
+[22] ~ Summer and winter robes of gold cloth and silk lined with costly sable, ermine, and fox pelts belong to the Book's portrait of wealthy steppe nobles [@yc, 1.53]. Fur linings marked rank and wealth inside the mobile camps just as silk brocades did at court.
 
 [23] ~ The Book describes the marriage payment, senior wife and rules for marrying widows. Yule compares other reports of the customs [@yc, 1.52 n. 5].
 
@@ -140,11 +140,11 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [28] ~ The Book treats grazing and the capacity to travel without supplies as advantages. Its account includes prolonged endurance and drinking horse blood in extremity [@yc, 1.54 nn. 3–4].
 
-[29] ✓ Yule compares decimal organisation and discusses the names of the grades the French manuscript leaves incomplete [@yc, 1.54 n. 2].
+[29] ✓ Organizing steppe armies in decimal units of ten, a hundred, a thousand, and ten thousand (*tümen*) is a foundational Mongol military institution [@yc, 1.54 n. 2]. Yule supplies the Turkic and Mongol terms for the two command grades left blank in the French manuscripts; see [Diagram C4, the decimal army](#fig-c4-decimal-army).
 
 [30] ~ Polo gives the pursuing army's view of the mounted archers. The elaboration about avoiding a mêlée and pretending to flee is from Ramusio in Yule [@yc, 1.54 n. 6].
 
-[31] ~ Branding and grazing out on the plain are described by the Book [@yc, 1.55 n. 2].
+[31] ~ Marking horses, cattle, and camels with each owner's brand allowed large herds to graze unpenned across shared pasturelands [@yc, 1.55 n. 2]. Flocks of sheep and goats, by contrast, required constant watching by mounted or foot shepherds.
 
 [32] ~ The numbers are Polo's. Yule compares a similar scale of punishment in other accounts [@yc, 1.55 n. 1].
 
@@ -156,11 +156,11 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [36] ~ The nests, far northern ocean and different destinations for hawks are the Book's account. The North Star behind the traveller towards the south is an exaggeration [@yc, 1.56 nn. 3–4].
 
-[37] ✓ Yule identifies the shaggy wild cattle as yaks and comments on the uses of the tame animals [@yc, 1.57 nn. 1–3].
+[37] ✓ Yule identifies the shaggy wild and domesticated cattle of the Tangut highlands as yaks (*Bos grunniens*) [@yc, 1.57 nn. 1–3]. Their strength at the plough and burden-carrying across high mountain passes were prized throughout the Tibetan marches.
 
 [38] ~ Ramusio-only in Yule. The hair taken to Venice and the crosses are in bracketed passages [@yc, 1.57 n. 3].
 
-[39] ✓ The animal is the musk deer. ✗ The contents of its gland are not blood and the Book's account miscounts its tusks [@yc, 1.57 n. 4].
+[39] ~ The animal is the Siberian or Alpine musk deer (*Moschus*), whose abdominal pod yields the prized perfume [@yc, 1.57 n. 4]. Polo mistakes the glandular secretion for congealed blood and gives the buck four tusks instead of its two elongated upper canines.
 
 [40] ~ Ramusio-only in Yule. The dried head and feet are a claim of the later witness [@yc, 1.57 n. 4].
 
@@ -168,15 +168,15 @@ Leave the cranes on the plain and be ready for three more days in the saddle, wi
 
 [42] ~ The azure stone is usually read as lapis. The Book gives the cloth and stone together as wares of the district [@yc, 1.59 n. 3].
 
-[43] ✓ George is attested outside Polo. ~ The sixth generation from Prester John and the rule about taking wives are the Book's account of his dynasty [@yc, 1.59 nn. 1–2].
+[43] ✓ King George is historical: Chinese records and John of Monte Corvino attest Körgüz, the Christian ruler of the Önggüd who married into the Yuan imperial house [@yc, 1.59 nn. 1–2]. Making him the sixth-generation descendant of Prester John blends his real Nestorian-turned-Catholic dynasty with European legend.
 
-[44] ✓ The letter of 1305 describes George's conversion, church and death [@yc, 1.59 n. 2, citing Monte Corvino]. ? Pelliot's proposed city of Tung-shêng is one identification, distinct from the proposal for Sichintingiu [@pelliot1959notes, “Tenduc”; @atwoodtoponyms].
+[44] ✓ John of Monte Corvino's letter of 1305 describes King George's adherence to the Latin rite, his royal church, and his death [@yc, 1.59 n. 2]. Pelliot's proposed identification of Tenduc with Dongsheng (*Tung-shêng*) remains one candidate alongside proposals for modern Hohhot and Sichintingiu [@pelliot1959notes, “Tenduc”; @atwood2016toponyms].
 
 [45] ? Polo gives *Guasmul* as a translation of *Argon*. Yule and Cordier discuss the name and the European association with Gog and Magog separately [@yc, 1.59 nn. 4–5].
 
-[46] ✓ The gold cloth names *Nasich* and *Naques* have parallels in the material Yule adduces [@yc, 1.59 n. 6].
+[46] ✓ The gold-brocade names *Nasich* and *Naques* correspond to *nasīj* and *nakh*, the celebrated gold-and-silk textiles woven across the Mongol realms [@yc, 1.59 n. 6; @allsen1997commodity]. Colony workshops of Muslim and Chinese weavers produced these cloths for court distributions and trade.
 
-[47] ~ The trades, mine and game are reported by Polo [@yc, 1.59 n. 7].
+[47] ~ Iron harness workshops at Sindachu (Xuandezhou), a mountain silver mine at Ydifu, and abundant game are reported by Polo along the approach to the summer court [@yc, 1.59 n. 7]. Yule notes that Xuandezhou was a major frontier prefecture northwest of Beijing, while the exact valley of Ydifu remains unfixed.
 
 [48] ~ The palace and the emperor's hawking are in the Book. Yule discusses the identification of the White Pool [@yc, 1.60 nn. 1–3].
 

@@ -60,7 +60,7 @@ Spread the imperial pass-tablets cleanly side by side across a clerk’s oak tab
 
 Above even the myriarch’s gold lion shines the grand marshal’s highest badge: privilege of a silver chair, golden state umbrella, and a massive three-hundred-*saggi* gold tablet showing a lion under sun and moon [35]. Fewer still earn a tablet stamped with a poised gerfalcon. Whoever lays that bright bird across a wayside post-master’s counter claims fresh court horses, armed escorts, and hot supper across every province without counting one silver groat [36]. The hunting falcon that flies out to return at evening now flies in hammered metal across an entire empire, bending every village elder to the sovereign’s word.
 
-![The Book's tablets of authority against the Yuan record: two ranks agree, the myriarch's lion is a tiger in the record, and the Book's highest tablet has no match. *(Diagram: this edition, from the Book via Yule–Cordier and the Yuan shi.)*](../media/diagrams/C5-paiza.svg)
+![Diagram C5. The Book's tablets of authority against the Yuan record: two ranks agree, the myriarch's lion is a tiger in the record, and the Book's highest tablet has no match. *(Diagram: this edition, from the Book via Yule–Cordier and the Yuan shi.)*](../media/diagrams/C5-paiza.svg){#fig-c5-paiza}
 
 You have handled the iron-backed warrants by which every traveller along the imperial road bows before the Great Kaan’s name. Now step through Cambaluc’s lacquered gates and inspect the sovereign himself—his sturdy frame, his four empresses, his crowded sons, and the stone-flagged halls at the capital’s core.
 
@@ -128,9 +128,9 @@ You have handled the iron-backed warrants by which every traveller along the imp
 
 [30] ? Ramusio-only. Challenging Niccolò and Maffeo to fetch a hundred learned men capable of out-performing court sorcerers to win Cublay’s baptism adapts their papal embassy request [@yc, 2.6 n. 2]. Yule brackets the entire speech from Ramusio’s text.
 
-[31] ~ Awarding chests of silver plate and costly jewels to loyal nobles after victory matches standard Mongol court *qubi* patronage [@yc, 2.7 n. 1].
+[31] ~ Awarding chests of silver plate and costly jewels to loyal nobles after victory matches standard Mongol court *qubi* patronage [@yc, 2.7 n. 1]. Publicly sharing out the spoils reinforced the personal bond between the sovereign and his battlefield commanders.
 
-[32] ~ Promoting captains of a hundred directly to chiliarchs over a thousand captures rapid wartime advancement under imperial reward [@yc, 2.7 n. 1].
+[32] ~ Promoting captains of a hundred directly to chiliarchs over a thousand captures rapid wartime advancement under imperial reward [@yc, 2.7 n. 1]. Advancing through the decimal command grades brought higher tablets of authority and larger retinues.
 
 [33] ~ Metal rank tablets (*paiza*) weighing 120 and 220 *saggi* align closely with surviving Yuan finds, though Chinese records pair the myriarch with a tiger rather than Polo’s lion [@yc, 2.7 n. 2; @hsiao1978military]. See [Diagram C5, tablets of authority](ch-01-cublay-nayan.md#cublay-kaan-puissance-nayan-and-the-ordo-of-victory).
 

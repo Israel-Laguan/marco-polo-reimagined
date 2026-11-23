@@ -98,6 +98,13 @@ end
 
 local PRINT_PX = 1350 -- 4.5 in measure at 300 dpi (illustration-style-guide.md, Technical spec)
 
+-- Pandoc expresses the edition's smaller raster placements as a percentage
+-- of the text measure. Unspecified widths use the full-width check.
+local function print_width_px(img)
+  local percent = (img.attributes.width or ''):match('^(%d+%.?%d*)%%$')
+  return percent and math.ceil(PRINT_PX * tonumber(percent) / 100) or PRINT_PX
+end
+
 -- 1. Figures: ../media/x.jpg -> media/x.jpg (paths are relative to book/); prefer a vector x.pdf.
 -- A file LaTeX cannot place (missing, wrong extension, GIF/SVG) becomes a labelled placeholder
 -- so the rest of the build still runs; a raster under 300 dpi at full width is a warning.
@@ -111,9 +118,10 @@ local function Image(img)
   if not kind then problem = 'missing file'
   elseif kind ~= ext then problem = 'is a ' .. kind .. ', not a .' .. ext
   elseif kind ~= 'pdf' and kind ~= 'png' and kind ~= 'jpg' then problem = kind .. ': export a PDF or PNG'
-  elseif px and px < PRINT_PX then
-    io.stderr:write(('book.lua: %s is %d px wide (%d dpi at full width; print needs %d px)\n')
-      :format(src, px, math.floor(px / 4.5), PRINT_PX))
+  elseif px and px < print_width_px(img) then
+    local required = print_width_px(img)
+    io.stderr:write(('book.lua: %s is %d px wide (%d dpi at placement; print needs %d px)\n')
+      :format(src, px, math.floor(px * 300 / required), required))
   end
   if problem then
     io.stderr:write('book.lua: placeholder for ' .. src .. ' (' .. problem .. ')\n')

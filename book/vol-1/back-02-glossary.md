@@ -70,6 +70,7 @@ Some entries include a draft pronunciation hint. Capital letters mark the stress
 - [**Hormos**]{#place-hormos} · Old Hormuz (Minab area), Iran · HOR-mos. The Book’s mainland Gulf port. Its exact site remains disputed. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Hormuz)
 - [**Ilkhan**]{#term-ilkhan} · Il-khan · IL-kahn. Title of the Mongol rulers of Iran and neighbouring territories.
 - [**Java the Less**]{#place-java-the-less} · Sumatra, Indonesia. Sumatra, where the Book says the fleet waited for the monsoon. [Wikipedia](https://en.wikipedia.org/wiki/Sumatra)
+- [**Jerusalem**]{#place-jerusalem} · Jerusalem. Site of the Church of the Holy Sepulchre, from whose lamp the Polos fetched oil for the Kaan. [Wikipedia](https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre)
 - [**Kaan**]{#term-kaan} · qa’an · KAHN. The title the Book gives the Great Khan, the supreme ruler of the Mongol Empire.
 - [**Kashan**]{#place-kashan} · Kashan, Iran (provisional). Persian caravan town mentioned in Odoric’s account of the Magi. [Wikipedia](https://en.wikipedia.org/wiki/Kashan)
 - [**Kenjanfu**]{#place-kenjanfu} · Xi'an, Shaanxi, China · ken-jan-FOO. Capital of Mangala’s appanage in the Book. [Wikipedia](https://en.wikipedia.org/wiki/Xi'an)

@@ -35,7 +35,9 @@ In the same city, the Kaan can pay out a fortune without opening a chest of gold
 
 Put yourself at the head clerk’s table. In Ramusio, the other officers have already signed or sealed the sheet. The chief officer puts vermilion on the Kaan’s seal and presses it down. That red impression is what the next man has to trust. A forged sheet, the Book warns, can cost a man his life [14].
 
-![The Kaan’s paper money as the Book describes it, from bast to the red seal, with the 1287 Zhiyuan issue and its official exchange against the old notes. *(Diagram: this edition, from the Book via Yule–Cordier; official rate per Guan and Yule.)*](../media/diagrams/C1-paper-money.svg)
+![The characters stand in reverse on the printing plate and read forwards on the two-guan sheet. The Zhiyuan issue began in 1287. The dates of this plate and impression are uncertain. *(Currency Museum, Bank of Japan. Photograph by PHGCOM, CC BY-SA 3.0.)*](../media/public-domain/II-05_zhiyuan-2-guan-note-and-plate.jpg){#fig-zhiyuan-note}
+
+![Diagram C1. The Kaan’s paper money as the Book describes it, from bast to the red seal, with the 1287 Zhiyuan issue and its official exchange against the old notes. *(Diagram: this edition, from the Book via Yule–Cordier; official rate per Guan and Yule.)*](../media/diagrams/C1-paper-money.svg){#fig-c1-paper-money}
 
 In the market, the Kaan can insist people take the sheets in payment. Much as Polo makes of the threat behind them, he is delighted by what they let you do. You can carry the value of ten gold coins without the weight of one [15]. A trader with pearls or silver can sell to the Kaan at a valuation made by twelve specialists, get paid promptly in paper and buy his next cargo with it [16]. A baron who wants bullion for a belt or a piece of plate can go to the mint to buy it back. If the paper wears out, the mint will replace it for three in every hundred of its value [17]. That’s a charge for you to note if you’re carrying it a long way in the rain.
 
@@ -48,6 +50,8 @@ Twelve men have their own set of rooms in a palace at Cambaluc. The Book calls t
 On the roads from Cambaluc a courier can look for the buildings of the *Yamb*, the horse post, every twenty-five or thirty miles in Polo’s reckoning. The longer crossings can take thirty-five or forty-five miles between stations. A bed with silk on it is there for a man who can stop. For a man who can’t, there are fresh horses [20]. Polo has more than three hundred thousand horses in the network and ten thousand station houses [21]. Leave the great inventory in the capital for a moment. A man riding out from one of the stations needs to know the next one will have his horse.
 
 Between the horse posts, listen for the bells. A foot-runner wears them on his belt and a man coming out to relieve him can hear him before they meet. A clerk is there to note the time, and the next runner goes off with a slip of paper. Polo gives him about three miles to go [22]. Fruit gathered in Cambaluc one morning can be on the Kaan’s table at Chandu the following evening, if you give the relay the speed Polo does [23]. It is a wonderful way of explaining an expensive post. The Kaan can have ripe fruit with his dispatches.
+
+![Diagram C2. Horses at the main posts, runners between them, and the urgent messenger’s change of mount. Distances follow the Book’s reckoning. *(This edition, after Yule–Cordier.)*](../media/diagrams/C2-yam.svg){#fig-post-roads}
 
 On urgent business, the Book puts the rider on a fresh horse before he’s had time to cool down. The dispatch changes hands at the next station, and Polo puts two hundred miles or more in a day. Torches slow them at night. A tablet with a gerfalcon on it can claim a fresh horse even from somebody using the road on his own account [24]. At a station supplied by the neighbouring villages, half the horses can rest at grass while the others are on duty. A river crossing needs boats to be ready too [25]. Whether it’s a horse, a clerk or a boatman, there has to be somebody at the far end waiting to do their bit.
 
@@ -99,7 +103,7 @@ Leave the good boots at the door. Marco has business from the Kaan that takes hi
 
 [13] ✓ The Book describes the use of inner bark to make the notes. The likely paper mulberry is distinct from the mulberry fed to silkworms, which supplies Polo with a familiar point of reference [@yc, 2.24; @vogel2013marco, ch. 1].
 
-[14] ✓ Ramusio-only in part. The sequence of signatures, seals and the final red impression is bracketed in Yule. The issue of paper notes is already in the base account [@yc, 2.24]. See [Diagram C1, paper money](../media/diagrams/C1-paper-money.pdf).
+[14] ✓ Ramusio-only in part. The sequence of signatures, seals and the final red impression is bracketed in Yule. The issue of paper notes is already in the base account [@yc, 2.24]. See [Diagram C1, paper money](#fig-c1-paper-money).
 
 [15] ~ The Book makes acceptance universal and puts the force of the Kaan behind it. Its argument for the ease of taking payments in paper depends on being able to spend the notes at the next stop [@yc, 2.24; @vogel2013marco, ch. 1].
 
@@ -115,7 +119,7 @@ Leave the good boots at the door. Marco has business from the Kaan that takes hi
 
 [21] ✗ Polo’s tallies of horses and buildings are estimates on an imperial scale. Ramusio’s version offers its own way of justifying the figures [@yc, 2.26 n. 4].
 
-[22] ~ The three-mile stages, bells and clerks belong to Polo’s account of the foot relay. Yule compares later descriptions of the time records kept at posts [@yc, 2.26 n. 6]. See [Diagram C2, the post roads](../media/diagrams/C2-yam.pdf).
+[22] ~ The three-mile stages, bells and clerks belong to Polo’s account of the foot relay. Yule compares later descriptions of the time records kept at posts [@yc, 2.26 n. 6]. See [Diagram C2, the post roads](#fig-post-roads).
 
 [23] ~ The fruit is Polo’s example of the speed of a relay between the two capitals. Yule compares another royal household’s transport of perishable fruit [@yc, 2.26 n. 5].
 
