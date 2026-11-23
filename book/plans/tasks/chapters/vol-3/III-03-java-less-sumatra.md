@@ -131,3 +131,7 @@ Pasai: the 1297 inscription postdates the proposed c. 1292 visit. Lambourn dates
 **S-18 library follow-up:** Yatim 1985 thesis p. 94 offers a dating error or replacement as alternatives; its OCR was independently read. Neither possibility proves replacement. Lambourn and Ismail directly read as already recorded. See [source-check intake](../../../research/results/S-18-library-returns-2026-11-16-intake.md).
 
 **Targeted continuity pass (2026-11-17), applied to `III-03.T2`:** Partly applied (the M7 stockade item only): :31 now flags the 2,000-man landing and stockade, and the wood and victuals, as Ramusio’s; :33 and :51 no longer use them as established detail; Note [10] carries “Ramusio-only.” with `[@yc, 3.10]`. Still unflagged: the bracketed coconut-liquor praise and the other Ramusian passages the lint lists (Ramusio 2/5). Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 31 sequential claim-level `[n]` Notes, preserved `S-21` rhinoceros/sago nuances and sappanwood table. Lint: `PASS E0 W0 (1,818 w · 2% verbatim · 0 quotes · 1 asides)`.

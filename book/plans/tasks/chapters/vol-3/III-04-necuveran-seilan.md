@@ -114,3 +114,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H3, H4 (dog-heads: reported motif, Laufer attributed, S21-E14), H10 (Socotra cross-references).
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 32 sequential claim-level `[n]` Notes, fixed `Cambaluc (Beijing)` and `Fansur (Barus)` glosses. Lint: `PASS E0 W0 (1,811 w · 2% verbatim · 0 quotes · 1 asides)`.

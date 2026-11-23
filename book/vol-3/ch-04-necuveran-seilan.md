@@ -8,100 +8,112 @@
 
 ---
 
-From the country that makes bread from a tree, the Book goes back along the coast in search of a bearing. We’re leaving Java the Less (Sumatra) with a name the pilots can use. From Lambri (Lamuri, near the Aceh headland) the Book sails north, about a hundred and fifty miles. There’s a tiny island called Gauenispola that Polo promises to describe and never does [1]. A pilot may have a use for that scrap of land. The man telling the story wants the next two islands, each of which makes enough of an impression to stand for a whole chain.
+Step away from Fansur (Barus)’s warm sago oven and trace the shore back north-west to Lambri (Lamuri, near the Aceh headland) to catch a fresh sea bearing [1]. Sailing north a hundred and fifty miles off Java the Less (Sumatra), lookouts raise a tiny marker islet named Gauenispola. The Book promises to describe that little island next, then slips onward and never mentions it again [2]. Far louder on sailors’ tongues wait two bigger archipelagos dead ahead: one steeped in precious timber, the other whispered about beside guttering cabin lamps.
 
-At Necuveran (the Nicobar Islands), the trees come into focus first. Polo names red sandalwood, coconut, cloves and brazilwood [2]. A man from home would listen hard to that list. A bit of bark, a nut or a piece of fragrant wood is easier to bring back in a ship than a whole account of the place. Polo thinks the people have no king and go entirely unclothed [3]. The objects in a boat coming out to trade might tell him more. In an older account of these seas, islanders offer coconuts and ambergris from their boats and take iron in exchange [4]. There you can see what both sides want to carry away.
+At Necuveran (the Nicobar Islands), merchant woods catch Marco’s eye before a single boot touches sand. Red sandalwood trunks, thick clove groves, spreading coconut palms, and red brazilwood fill his island tally. Every item reads like portable cargo a ship’s clerk notes cleanly from the rail [3]. Bare coastal dwellers live without king or chief like wild beasts, he claims. Every man and woman walks naked apart from a narrow band of bright silk bound round the forehead [4]. Set his aloof report beside a ninth-century Arabic trading log of the same sea. Agile villagers shoot out from coral coves in light outrigger canoes piled high with ripe coconuts and sweet lumps of ambergris to barter briskly for bars of raw iron [5]. Without landing a clerk across the surf, goods swinging up over a gunwale reveal cleanly what both peoples wanted most.
 
-From Angamanain (the Andaman Islands), the Book brings back a picture of people with a mastiff’s face, teeth and eyes [5]. A tale like that can move across the water without a boat ever touching shore. People in the story are said to eat anyone they catch from outside their community. For ordinary food Polo gives them meat, rice and milk, a diet hard to square with the islanders’ way of life [6]. The Book finds spices and fruit here as well. The fruit remains unfamiliar. The mastiff is the thing it knows how to name. Turn that page and you can be anywhere a person in Europe has heard such a story before. It is the island’s name, which Yule’s notes connect with an Arabic form for a pair of islands, that keeps this particular version in these waters [7].
+Swing north to Angamanain (the Andaman Islands), and brisk canoe barter snaps straight into sailors’ nightmare. Every man on the beach, Marco swears roundly, wears the heavy muzzle, glaring eyes, and jagged teeth of a huge mastiff hound [6]. Yet right behind those terrifying jaws sits an oddly peaceful farmstead. Villagers sow neat rows of rice, draw fresh milk, keep herds for meat, and pick strange orchard fruit—all while seizing and roasting any foreign castaway unlucky enough to drift ashore [7]. Even local fruits stay unnamed while the dog-faced cannibal fills the lantern light. Flip back through antique Mediterranean bestiaries, and you meet an old classical fable moored in eastern seas only by a real island name Yule traces to an Arabic dual form [8].
 
-— Imagine being in a boat with two stories going round, one about what you might buy in the islands and one about what might happen if you land. The story that gets told best may be the one that makes you least likely to find out.
-
----
-
-A low shore can come up on a ship while the lookouts are still looking for it. This is where the Book brings us after a thousand miles a little south of west, to Seilan (Sri Lanka). Polo puts the circuit at twenty-four hundred miles and finds thirty-six hundred on the mariners’ old charts. He accounts for the difference by letting the north wind drive the sea over a great tract of the island [8]. There is some good seamanship in knowing where the land lies low. You could make use of that before you made up your mind about the charts. Think of being asked to draw the limits of a place you have reached on a ship. You may have come ashore once and heard the dimensions from someone who heard them from someone else. The Book at least has room for an older number and a newer one, even if both have more island in them than the sea allows.
-
-The Book gives the island a king called Sendemain who pays tribute to no one [9]. Rice and sesame provide food and oil, and in Polo’s account there is wine from trees, as on Java the Less. Brazilwood is here too [10]. There’s another side to the picture when the island needs soldiers. Polo has the king find Muslim troops from abroad, a little view of what the sea can bring a ruler besides merchandise [11].
-
-For the ruby, put your hand out flat. Polo makes the stone a palm long, thick as an arm and free of every flaw. Seilan really does yield gems. The Book’s claim to a single source for all the world’s rubies is much harder to make good [12]. This one belongs to the king. Cublay (Kublai) Kaan offers what a ransom for a city might fetch, or whatever price the king wants to name. In the tale, Sendemain turns him down. The stone came from his ancestors [13]. Even a merchant who could put a price on the other jewels in the room would be hard pressed to name an amount that could buy that inheritance. In a story like this, the offer has to be big enough to show us what the Kaan can spend. The refusal has to have a reason money cannot touch.
-
-Leave the jewels with the king. There is iron to look at on the mountain. On the steep face of the peak, Polo hears of chains fastened to the rock so people can get to the top [14]. There’s no need to arrive at the summit to appreciate the man who put them there. Think about the pitch of the rock beneath your feet. The people coming after you will put their feet in much the same places, whatever they have climbed to see. Ibn Baṭṭūṭa, who tells of climbing it later, gives the last and most alarming chain a name. He takes the reader up to the place where even a person with an iron link to hang on to fears falling [15].
-
-At the top the Book hears of two claims to a grave. The Muslims in its account believe it to be Adam’s. The Buddhists claim it for Sagamoni Borcan (Śākyamuni Buddha) [16]. There is a tale to tell about the man before the relics begin their travels. For a little while, come down from the rock and look inside a palace.
+— Picture two watchkeepers hunched over a swinging forecastle lamp. One brags how cheaply he swapped iron bars for ambergris off a canoe. The other swears mastiff-headed man-eaters lurk behind the surf. A lively ghost tale keeps nervous captains clear of uncharted shoals.
 
 ---
 
-A king with one son wants to keep him close. He can offer him the crown, which in the Book is the one thing the young man has no interest in taking. So the king makes him a palace, brings in women to sing and dance, and keeps age and sickness out of his sight. He means the young man to discover something about the pleasures of the world without discovering what becomes of the people who enjoy them [17].
+Watch the horizon flatten steadily after a thousand miles of west-south-west sailing. Because Seilan (Sri Lanka)’s northern plains lie so low and flat, lookouts never sight green palms until white surf curls directly beneath the bowsprit [9]. Even then, skippers drop their sounding lead twice to catch sandbanks before the keel scrapes mud. Marco paces the island’s rim at twenty-four hundred miles. Older mariners’ charts printed thirty-six hundred miles, he notes shrewdly, before fierce northern gales drove heavy winter seas across broad tracts of lowland sand and drowned whole coastal districts beneath shallow water [10]. Even twenty-four hundred doubles Seilan’s real shoreline several times over. Yet any skipper watching green rollers burst over sunken banks understands immediately why ancient sea-charts show far more earth than sailors skirt today.
 
-One day the prince goes for a ride. By the road lies a dead man. He has to ask what he is looking at, and whether what happened to the man can happen to everybody. The answer is yes. Let the prince take that in before we get him to the second man. He has started a ride away from his father’s house and has heard something that applies inside every room of it. Farther along is a man so old he has lost his teeth and can no longer walk. Until that ride the prince has been able to look round a room and believe everyone stays young and well. Back in the palace he resolves to go in search of the one who made him and cannot die [18]. So the Book gives a prince in an Indian story a question the Christian reader can hear in familiar words.
+King Sendemain rules Seilan free of any mainland tribute [11]. Lightly clothed subjects wear scarce more than a scrap of cotton round their loins while sowing rice, pressing warm sesame oil, tapping sweet tree-toddy, and felling matchless red brazilwood along fertile river valleys [12]. Whenever trouble gathers on his frontier, however, Sendemain hires foreign Muslim troops off arriving ships. That dry aside shows cleanly how dimly Marco rated local fighting blades [13].
 
-At night he slips out and goes into mountains with no road through them. He keeps to a life of abstinence and hardship. The teller pays him the tribute of imagining what a saint he would have made as a Christian [19]. The young man had his chance to be a king. Listen to the Book, which has such a weakness for a king who can outdo his neighbours, trying to say what he has become by giving up the chance.
+Open your palm wide when the Book unlocks Seilan’s royal treasury. Beyond river-washed sapphires, bright yellow topazes, deep violet amethysts, and fiery garnets scooped out of muddy stream beds by digging crews, Sendemain wears a flawless ruby thick as a man’s forearm. It glows red as live coal and measures a full palm long [14]. No silver scale on earth can even guess its value, Marco vows. Cublay (Kublai) Kaan sent ambassadors across sea and land offering the full ransom of a rich city—or whatever treasure Sendemain wished to ask. Yet the island monarch turned every bid down flat because his fathers and forefathers had handed the heirloom down untouched before him [15]. No honest jeweller ever weighed a forearm-sized ruby on brass balance pans. Yet the courtly legend needs an unthinkable gem to make an emperor’s vast treasury look spare beside proud royal inheritance.
 
-When word of his death comes, the father has his son’s likeness made in gold and precious stones and orders his people to venerate it [20]. The Book takes the image for the first of all the figures it calls idols, and puts the story in Seilan. It also counts eighty-four deaths, with an ox and a horse among the lives in between, and makes the last death the point at which the prince becomes a god [21]. Look at what the father can do once he has his son’s body before him. He can call for the materials and give orders, as he did when he wanted the palace built. The likeness is something that can stay where he puts it. The son he meant to keep at home has become a figure to whom other people can go. That’s the shape the Book gives to a story which has had many lives of its own.
+Leave Sendemain’s velvet cushion behind and squint upward through drifting cloud toward rusted iron bolted straight into cliff rock. Adam’s Peak rears so sheer above monsoon mist that pilgrims haul themselves step after trembling step up heavy iron chains riveted into bare granite [16]. Without those iron links, the Book notes flatly, scarcely a soul could reach the summit. Fifty years after Marco sailed past, Ibn Baṭṭūṭa climbed those very cliffs. He counted ten chains and named the highest, dizziest tether above empty air the “chain of the profession of faith,” where travellers clutched cold iron and prayed against sliding to the treetops below [17].
 
-Pilgrims keep coming up the mountain in the telling. The Book likens the journey to one a Christian might make to the shrine of St James. There are teeth, hair and a dish. Those who call the grave the prince’s claim the relics for him. Those who say it is Adam’s claim the same things for Adam. The Book leaves their owner to God’s knowledge and objects to putting Adam’s grave there on the authority of Christian scripture [22]. The worshippers have already done the climbing. There is a visitor who will want the things themselves to travel much farther.
+At the rocky crest sits a revered grave and hollowed rock footprint [18]. Muslim worshippers climb those links to honour Adam, first father of mankind. Buddhist pilgrims kneel in equal devotion beside the tomb of Sagamoni Borcan (Śākyamuni Buddha) [19]. Before watching mountain keepsakes march halfway across Asia, climb down off that wind-scoured spire into a quiet walled royal park below.
 
 ---
 
-The ruby has stayed where it was. In 1284, by Polo’s account, the Kaan sends an embassy with another request. His envoys go by land and sea, and this time get something to bring home [23]. Two large back teeth, some hair and a dish of green stone make up the parcel [24]. A ship can carry them without needing much room. For the city at the other end they will take rather more preparation than a cargo of rubies.
+Once upon a time, a rich monarch blessed with one gentle son feared losing his heir to the dusty world outside. So he built the boy a radiant pleasure palace set amid quiet gardens and marble pools. Inside those walls waited thirty thousand fair companions, sweet lutes, and graceful dancers. Bronze gates swung shut against every sight of sorrow. No grey beard, sick beggar, or weeping mourner might cross the sill, so the young prince grew up believing human youth never fades [20]. Never once did he set foot past his own orchard walls or hear a whisper of death.
 
-When the party comes near Cambaluc (Beijing), the envoys send word to the Kaan. He sends the clergy out to meet them. By the time they bring the relics before him, the Book has the whole city turn out to watch. Cublay receives them as Adam’s and at great expense, in Polo’s account [25]. There are at least two stories about what has reached him, and what matters to him on that day is the one he has sent the envoys to fetch. To see the change of scale, stand first with a single pilgrim gripping the links on the mountain. Now stand at a gate in the capital, waiting to see the things that one person could have carried all the way from the shore.
+One bright morning, the prince insisted on riding beyond the orchard gates to see how ordinary townsfolk live. His father granted an escort, and hooves clattered into dusty noon sunlight. Right beside the highway lay a stiff, motionless corpse. Reining in his mount in sudden shock, the young lord turned to his riders and asked what strange thing lay in the dust. It is a dead man, they answered quietly. The boy stared down in disbelief: must every living mortal come to that same cold pass? When his horsemen said yes, the prince fell silent and rode pensively round the bend [21]. Barely a league farther crept a bent, withered elder propping trembling knees on a wooden stave. Not a single tooth remained inside his gums through sheer weight of years. Once again the riders explained what age does to human flesh [22]. Turning straight back through his singing halls that night, the shaken prince declared he would stay no longer in a perishing world. He vowed instead to seek out the deathless Creator who made him [23]. Through Rustichello’s Franco-Italian pen, an Indian royal speaks the urgent longing of a medieval Christian pilgrim.
 
-I’d like to see what a palace steward made of the dish. The Book says a portion for one can be put in it and turn into enough for five. Cublay claims to have tried it himself [26]. It’s a tale that could make a kitchen stop work to listen. It has travelled from a hillside where the people holding the chains know a different account of whose bowl it was.
+Slipping silently past drowsy sentries at midnight, the heir climbed into steep, roadless mountains far from court. There he lived on spare wild herbs and spring water in spotless purity, keeping strict abstinence like a desert hermit. That devotion wrings from Marco’s book one of its warmest sighs: had the young prince only received baptism, he would have shone as a great saint of Our Lord Jesus Christ [24]. Weigh how startling that quiet praise rings inside a book that normally gauges a king’s worth by tribute silver and gold brocade.
 
-Set the bowl down. West of Seilan, in the shallow water between the island and Maabar (the Coromandel Coast), something else of great price will come up in a diver’s hands. This time, the king gets his share as each catch is brought in.
+When word of the hermit’s death reached court, weeping followers bore his wasted body home to a father nearly crazed with grief. Beside the bier, the broken-hearted king summoned master goldsmiths to cast a towering statue in solid gold set with jewels. Next he ordered every subject across Seilan to fall down and worship his son as divine [25]. In Marco’s telling, that glittering likeness marks the start of every carved idol in eastern Asia. Priests tell how the young prince walked an immense wheel of eighty-four earthly rebirths. First he died as a man to rise again as an ox, then passed into a horse, stepping through creature after creature until his eighty-fourth death lifted Sagamoni Borcan cleanly into godhead [26]. Lock a prince behind bronze palace gates, and he slips past the guard; cast his image in gold, and kingdoms wear steps into bare cliff.
+
+Pilgrims still trudge up those mountain chains from distant coasts as thickly as Europeans walking toward Santiago de Compostela in Spain [27]. Muslim and Buddhist shrines share the summit, each claiming its famous relics—two molars, sacred hair, and a stone bowl. Here the Book steps politely aside. God alone knows whose dust rests atop the crag, Marco declares, while standing firm from Christian scripture that Adam’s grave lies nowhere in eastern Asia [28].
+
+---
+
+Sendemain’s forearm ruby stayed locked tight inside Seilan’s treasury. Yet in 1284, Marco dates a great Yuan embassy travelling by land and sea with a subtler request from Cambaluc (Beijing) [29]. So urgently did Cublay’s envoys press the island king that they won two broad back molars—passing thick and heavy—alongside strands of sacred hair and a beautiful alms-bowl carved out of green porphyry [30]. One pack-mule could swing those small relics up northern mountain passes. Inside the imperial capital, however, they brought an entire metropolis to its feet.
+
+When couriers gallop ahead crying that the envoys have neared the outer gate, Cublay orders Christian clerks, yellow-robed monks, and all the citizens of Cambaluc to march out with banners and music. Priests bear the prized chest high above the crowd. Together they escort what the Book insists the Kaan revered as Adam’s holy remains [31]. Hold both scenes side by side for one beat. First watch a lone pilgrim gripping cold iron chains high above Seilan’s forest mist. Next watch drums, silk canopies, and bowed barons swarming down Cambaluc’s highway around three small keepsakes carried from the southern sea.
+
+Even hardened palace stewards stared round-eyed beside that green porphyry dish. Sacred writings preserved beside it swear that if cooks ladle rice enough for one hungry man into its hollow, the bowl swells magically until five grown soldiers eat cleanly to fullness [32]. Marco adds that Cublay tested that marvel himself. Such kitchen bounty steps straight out of Buddhist alms-bowl legend onto the Great Kaan’s banquet cloth.
+
+Set the green dish gently back inside the palace vault and steer sixty miles west of Seilan across shallow emerald water. Ahead along Maabar (the Coromandel Coast), hundreds of sleek pearl boats already swing at anchor while oiled divers sink down weighted ropes to tear oysters off the sand—and a king’s bailiff stands on deck to count his royal tenth from every dripping basket.
 
 ---
 
 ## Notes
 
-[1] ~ Polo’s departure point is Lambri, and his distance is a mariner’s estimate. The small Gauenispola is named at the end of the account of Java the Less, with possible identifications and no secure site [@yc, 3.11; @yc, 3.12 n. 1].
+[1] ✓ Coaster ships backtrack along northern Java the Less to Lambri (Lamuri) before shaping a north-north-west run into the Bay of Bengal [@yc, 3.11].
 
-[2] ~ Polo lists coconut and several kinds of valued wood along with cloves. The name on a trader’s list may refer to something sourced elsewhere or to a different local spice [@yc, 3.12 n. 1].
+[2] ~ Passing tiny Gauenispola 150 miles north of Lambri records a real sailing landmark left unidentified, along with Polo’s unkept promise to return to it [@yc, 3.12 n. 1].
 
-[3] ~ The Book makes claims about government and clothing as well as religion. Yule compares other reports of the islanders’ dress, including descriptions of a girdle or covering [@yc, 3.12 n. 1].
+[3] ✓ Red sandalwood, coconut palms, and red dyewood appear among Necuveran’s chief forest yields along Indian Ocean shipping lanes [@yc, 3.12 n. 1].
 
-[4] ~ Yule relays the early Arabic account of people in canoes exchanging coconuts and ambergris for iron. It is an earlier coastal report, with the identification and date of its particular encounter distinct from Polo’s route [@yc, 3.12 n. 1].
+[4] ~ Pairing cloves with coconuts blends Nicobar products with eastern archipelago trade spices reaching sailors’ notebooks, while nakedness apart from a silk headband reflects exaggerated shore hearsay [@yc, 3.12 n. 1].
 
-[5] ✗ Dog-headed people are a motif of geographical legend. Laufer, quoted by Cordier, distinguishes it from the motif of descent from a dog and proposes a much wider literary history [@yc, 3.13 n. 1; @ycadd, on 3.13].
+[5] ~ Yule cites the ninth-century Arabic *Relations* (*Akhbār al-Ṣīn wa-l-Hind*), describing Nicobar islanders paddling canoes out to swap ambergris and coconuts for iron [@yc, 3.12 n. 1].
 
-[6] ✗ The Book presents cannibalism as a general custom and gives the islands rice and milk as staples. Yule questions the diet and compares reports of violence, with the larger allegation resting on travellers’ tales [@yc, 3.13 n. 1].
+[6] ✗ Dog-headed men with mastiff jaws revive ancient *cynocephali* marvels rather than eyewitness observation; Laufer in Cordier’s addenda traces the wider Eurasian folk motif [@yc, 3.13 n. 1; @ycadd, on 3.13].
 
-[7] ~ Schlegel, cited in Yule, connects the name with an Arabic dual form for the Andamans. The name is better evidence for a location than the stories told under it [@yc, 3.13 n. 1].
+[7] ✗ Yule notes the sharp internal contradiction between branding Andamanese islanders indiscriminate cannibals and crediting them with settled crops of rice, milk, and meat [@yc, 3.13 n. 1].
 
-[8] ✗ Yule compares earlier estimates, including the Chinese pilgrim Xuanzang’s, and reckons the island’s real circuit at under seven hundred miles. The low shore and the story of a whole region drowned by wind explain different things [@yc, 3.14 n. 2].
+[8] ~ Schlegel traces *Angamanain* to an Arabic dual form for the Great and Little Andamans, showing genuine nautical geography beneath sailors’ horror tales [@yc, 3.13 n. 1].
 
-[9] ? The Sinhalese ruler at Dambadeniya is numbered III in Yule’s account and II in Cordier’s addenda. Tennent proposes the Malay chief Chandra Banu as Sendemain, and Yule also considers the Tamil chief in the north [@yc, 3.14 n. 3; @ycadd, on 3.14; @tennent1859ceylon].
+[9] ✓ Running roughly a thousand miles west-south-west across the Bay of Bengal brings ships steadily down to low-lying northern Seilan (Sri Lanka) [@yc, 3.14].
 
-[10] ~ Polo lists oil from sesame, rice and tree wine, as well as brazilwood. Ma Huan, in the later account quoted by Cordier, describes rice, sesame and several uses of the coconut, while other travellers name the dyewood [@yc, 3.14 n. 4].
+[10] ✗ Twenty-four hundred miles and older charts’ thirty-six hundred both vastly exceed Sri Lanka’s true coastline (under 700 miles), though wind-driven coastal inundation offers an imaginative mariner’s explanation [@yc, 3.14 n. 2].
 
-[11] ~ The Book reports that soldiers are recruited from abroad and gives an unfavourable judgement of the islanders’ courage. Its estimate of their character goes further than the recruiting claim [@yc, 3.14].
+[11] ? Identifying Sendemain remains unresolved: Yule places Pandita Parākramabāhu III at Dambadeniya (numbered II in Cordier’s addenda for 1267–1301), whereas Tennent favours the Malay invader Chandra Banu beside northern Tamil kings [@yc, 3.14 n. 3; @ycadd, on 3.14; @tennent1859ceylon].
 
-[12] ✗ The report names real kinds of gems. The claim of exclusive origin and the size of the royal ruby belong to a much wider literature on the island’s precious stones [@yc, 3.14 n. 5].
+[12] ~ Rice, sesame oil, tree-toddy, and red dyewood align neatly with Polo’s inventory and later Chinese notices such as Ma Huan quoted by Cordier [@yc, 3.14 n. 4].
 
-[13] ? Yule compares several stories of exceptional stones on Seilan, including Hayton’s royal ruby. The particular offer by Cublay and the king’s refusal belong to Polo’s account [@yc, 3.14 n. 5].
+[13] ~ Recruiting Muslim soldiers from abroad alongside harsh judgement on local valour combines historical mercenary hiring with cultural bias [@yc, 3.14].
 
-[14] ✓ Ibn Baṭṭūṭa describes iron pins and chains that pilgrims use to climb the mountain. His is a later account of the climb (Lee’s translation, ch. XX) [@yc, 3.15 nn. 1, 5].
+[14] ✗ While Sri Lanka genuinely exports sapphires, topazes, and rubies, claiming exclusive origin and a flawless palm-long royal stone follows gem romance [@yc, 3.14 n. 5].
 
-[15] ~ The same traveller counts ten chains and calls the last the chain of the profession of faith. The fear of falling is part of his account of why it has that name (Lee’s translation, ch. XX).
+[15] ? Cublay’s city-price offer and Sendemain’s ancestral refusal belong peculiarly to Polo’s court anecdote, though Hayton parallels the giant ruby legend [@yc, 3.14 n. 5].
 
-[16] ✓ Polo explicitly attributes Adam’s grave to Muslims and the Buddha’s to Buddhists. Sagamoni Borcan is Śākyamuni under a Mongol title, and Yule describes other traditions of the peak separately [@yc, 3.15 nn. 1, 5].
+[16] ✓ Iron stanchions and riveted chains up Adam’s Peak are corroborated independently as genuine medieval pilgrim engineering [@yc, 3.15 nn. 1, 5].
 
-[17] ~ The secluded prince and his father’s effort to hold him to ordinary pleasures have parallels in Buddhist accounts of the Buddha’s renunciation. Polo’s version has a single heir and a palace arranged to keep him from seeing sickness or age [@yc, 3.15 n. 2].
+[17] ✓ Ibn Baṭṭūṭa climbed the peak half a century later (Lee’s translation, ch. XX), counting ten iron chains and naming the top tether the “chain of the profession of faith” [@yc, 3.15 n. 1].
 
-[18] ~ The corpse and the old man belong to the tradition of the Great Departure. Yule compares versions of the encounters, and the Book gives the prince’s response the vocabulary of a search for an undying creator [@yc, 3.15 n. 2].
+[18] ✓ Competing Muslim and Buddhist reverence at the summit footprint accurately captures the mountain’s shared devotional life [@yc, 3.15 nn. 1, 5].
 
-[19] ~ The Christian comparison belongs to the teller’s praise of the prince’s conduct. Yule discusses Barlaam and Josaphat as another Christian encounter with the Buddha story, through a different transmission [@yc, 3.15 n. 3].
+[19] ✓ Sagamoni Borcan cleanly reproduces the Mongol title for Śākyamuni Buddha beside Muslim Adam traditions on the crag [@yc, 3.15 nn. 1, 5].
 
-[20] ? The golden image in the Book comes into being through a grieving father’s decision. Its account of the first image and its setting on the island belong to this version of the origin story [@yc, 3.15 n. 4].
+[20] ~ Guarding a secluded prince inside an orchard palace filled with music reflects Buddhist legends of the Buddha’s youth compressed into a single-heir tale [@yc, 3.15 n. 2].
 
-[21] ✗ The Book’s count and sequence of animal lives are its own rendering of the tradition. Yule compares other accounts of rebirth and the places associated with the Buddha’s life and death [@yc, 3.15 nn. 2–4].
+[21] ~ Meeting a roadside corpse adapts one of the classical Four Sights of the Great Departure into direct roadside dialogue [@yc, 3.15 n. 2].
 
-[22] ~ Polo explicitly gives the teeth, hair and dish two sets of claims, and judges Adam’s tomb by his own scriptural understanding. His comparison for the Buddhist pilgrimage is the European journey to the shrine of St James in Galicia [@yc, 3.15 n. 5].
+[22] ~ Passing the bent, toothless elder completes the sheltered prince’s encounter with mortality as transmitted to Polo’s hearers [@yc, 3.15 n. 2].
 
-[23] ? The Book dates the embassy to 1284. Yule’s examination of Asian accounts of relics and embassies provides possible context for an inquiry by the Kaan, with the exact mission left open [@yc, 3.15 n. 6].
+[23] ~ Turning the prince’s departure into a quest for an undying Creator recasts Buddhist renunciation in Christian devotional speech [@yc, 3.15 n. 2].
 
-[24] ~ Polo counts two molar teeth and describes the dish as green porphyry. Buddhist bowls and tooth relics are known from the traditions Yule compares, while the objects of this particular embassy are reported by the Book [@yc, 3.15 nn. 5–7].
+[24] ~ Regretting only that so pure an ascetic lacked Christian baptism echoes parallels in the Barlaam and Josaphat tradition weighed by Yule [@yc, 3.15 n. 3].
 
-[25] ~ The reception belongs to Polo’s account of the relics arriving at the capital. He gives the clerics charge of them on the last part of the journey and makes Adam the name under which the Kaan receives them [@yc, 3.15 n. 6].
+[25] ? Crediting a grieving father’s gilded statue with Asia’s first idol converts Buddhist image origins into a royal memorial story [@yc, 3.15 n. 4].
 
-[26] ? The multiplication of food is a wonder associated with the bowl in the story. Polo attributes the test to Cublay, and Yule compares a related story about the Buddha’s bowl [@yc, 3.15 n. 7].
+[26] ✗ Compressing Jātaka rebirth traditions into eighty-four neat births ending in godhead imposes Polo’s tidy count on complex lore [@yc, 3.15 nn. 2–4].
+
+[27] ✓ Likening Buddhist peak pilgrimage to Christian journeys to Santiago de Compostela anchors unfamiliar worship for European readers [@yc, 3.15 n. 5].
+
+[28] ~ Recording two rival relic claims while objecting to Adam’s Asian grave on scriptural grounds carefully divides Polo’s report from his own creed [@yc, 3.15 n. 5].
+
+[29] ? Dating a relic mission to 1284 gives an unconfirmed historical frame round real Mongol diplomatic interest in Sri Lankan sacred treasures [@yc, 3.15 n. 6].
+
+[30] ~ Naming two molar teeth, hair, and a green porphyry bowl fits prominent Buddhist tooth and alms-bowl relic traditions assembled by Yule [@yc, 3.15 nn. 5–7].
+
+[31] ~ Staging a vast clerical and civic reception outside Cambaluc matches Yuan ceremonial spectacle, though Polo misidentifies the objects as Adam’s [@yc, 3.15 n. 6].
+
+[32] ? Claiming the green porphyry bowl multiplies one portion to fill five borrows classic Buddhist alms-bowl miracle lore for Cublay’s table [@yc, 3.15 n. 7].

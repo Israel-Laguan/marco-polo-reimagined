@@ -124,3 +124,7 @@ Pelliot entry 271 LAR, Toyo Bunko image 0166 OCR, treats Lār/Lāṭa as the lik
 From the [R-4 intake](../../../research/results/R-4-intake.md) (10 checks, 10 hits); F-61. Note [7]: keep "rasāyana tradition", now with a source. Mercury-and-sulphur preparations were taken by mouth in 13th-century Indian medicine (`wujastyk2013perfect`); the twice-monthly regime from childhood is the Book's. Optional: Yule's note that Arghun took such an elixir before his death in 1291 (`[@yc, 3.20, note 5]`). For the naked ascetics, "Digambara-adjacent" is too specific: say the group cannot be named, that the ash suggests Śaiva practice and the non-killing Jain-like rules, and that manuscripts differ between cow-dung and ox-bones. Polo's "Lar" is obscure (Yule).
 
 **FINAL-ACCESS handoff (2026-11-17):** Hammer-Purgstall, *Geschichte der Ilchane* I (Darmstadt: Leske, 1842), p. 391, seen as a page image: the Bachschi's sulphur-and-mercury panacea, which Arghun took for eight months. Locator for Note [7] if it cites Arghun; Quatremère p. 194 stays unread (best effort). [FINAL-ACCESS intake](../../../research/results/FINAL-ACCESS-intake.md)
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 45 sequential claim-level `[n]` Notes, standardized Ramusio labels, and preserved `C10-pole-star.svg`. Lint: `PASS E0 W0 (1,801 w · 4% verbatim · 0 quotes · 0 asides)`.

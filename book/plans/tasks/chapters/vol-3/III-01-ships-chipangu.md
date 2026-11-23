@@ -130,3 +130,7 @@ Separate Sasaki 2008 thesis from the 2015 book and 2011 discovery. A dated seal 
 
 Sasaki 2015's pages could not be reproduced, but its basis, Sasaki's 2008 MA thesis (Texas A&M OAKTrust, open access), and his open conference paper "The Archaeological Investigation of 'Kamikaze'" can be cited for the timber evidence instead. That evidence: about forty scorched timbers, possibly from Japanese attacks; species mix (camphor 32.8%, pine 22.4%, China fir 14.9% of 174 hull samples); and signs of repair or reuse. Sasaki also cautions that one poor mast step does not prove hasty construction. See the [note](../../../research/results/kept-gaps-indirect-routes-2026-11-17.md). Fire traces still do not disprove the storm.
 
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 61 sequential claim-level `[n]` Notes, standardized `Ramusio-only.` / `Ramusio-only in part.` labels, preserved `A15-invasions-of-japan.svg` and comparison table, and synced `locators.md`. Lint: `PASS E0 W0 (1,825 w · 3% verbatim · 2 quotes · 1 asides)`.

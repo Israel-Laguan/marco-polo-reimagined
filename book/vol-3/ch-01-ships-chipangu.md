@@ -9,37 +9,37 @@
 
 ---
 
-A man taking one of those cabins at Zayton (Quanzhou) could pay for the privacy and still have to think about the timber under the bed. The Book is ready to go to India in the ships of Manzi (South China), the name northern people and Mongols used for the conquered Song country. It gives the big ones a single deck, fifty or sixty cabins for merchants and a hull of fir. A man on deck can count four masts, with two more brought into use on occasion, and see there is a single rudder behind all of it [1].
+Step aboard a merchantman riding off Zayton (Quanzhou) [1]. The private cabin you paid good silver for sits directly over a fir hull built for the Indian Ocean [2]. Northern speakers and Mongol clerks call this conquered Song realm Manzi (South China) [3]. Around the broad waist of the vessel run fifty or sixty neat timber cabins under one deck. Each cabin carries a proper wooden door where a merchant locks his sample-bags and sleeps dry above the bilge [4]. Look aloft from the planked waist and count four tall masts stepped through the deck. Two spare masts lie lashed beside the bulwarks, ready to raise when fair monsoon winds invite full canvas. Behind everything turns one heavy axial rudder at the stern [5].
 
-Now go down to the cargo. Ramusio gives the larger ships some thirteen compartments, with planks framed to keep the water from spreading, and puts a leak in one of them. The bilge is kept clear. A man needs to be able to see where the water is coming from before he can even begin telling the others what to carry out. The sailors take the goods out of that section and put them in the next, where the water has yet to reach. They can work on stopping the leak and then put the goods back [2]. The ship in the story may have hit a rock. Ramusio also gives the job to a whale that mistakes the foam beside the ship for food [3]. Try it out from the whale’s point of view. It is night in the account and there is something white rippling out from a thing that has no business there. From the deck they notice the blow first. Whichever it is, a merchant with pepper below would like to know how far a leak can spread before his sacks are in the wet.
+Climb down through the waist hatch into the lower hold before the dockers batten the boards shut [6]. In Ramusio’s fuller text, the largest ocean hulls divide below into thirteen timber compartments framed tightly to halt a sudden rush of water [7]. Keep the bilge clean, seasoned sailors insist, so a watchman with a horn lantern spots a jetting seam at once. A vessel may stave her planks against a jagged reef. Ramusio also pictures a cruising whale mistaking white bow-foam at night for drifting fry and slamming straight into the hull [8]. Whichever blows the timber open, the watch wakes the deck in seconds. Porters scramble down to haul pepper sacks and ginger crates out of the flooded bay into the dry compartment next door. Shipwrights wedge oakum and tallow into the cracked strake, and the goods return cleanly to a dry bay [9].
 
-— A wreck found at Zayton in 1973 and excavated in 1974 gives us twelve bulkheads and thirteen compartments. There are also holes through which a little water could go from one to the next. Picture the people who have to move the cargo. There is rather more for them to think about than the number of walls between it and the sea [4].
+— A merchant ship dug out of coastal silt near Zayton in 1974 holds twelve transverse bulkheads forming thirteen compartments, built in the late thirteenth century [10]. Small limber holes pierced near the keel allowed bilge-water to trickle toward the pump, so hauling heavy sacks in a hurry was still damp, back-breaking work beneath the lantern [11].
 
-Look at what goes into the seam between two planks. They use iron nails to hold the doubled sides and work in a mixture of lime, chopped hemp and oil from a tree. The Book makes the oil and fibre into something you could take in a lump and work into the place you wanted it [5]. It is a detail to take back to someone used to seeing pitch at a shipyard. There is another comparison to make when the wind fails and you see four men haul at one of the great sweeps [6].
+Run a thumb along the outer seam between two strakes while she still lies on the ways [12]. Shipwrights fasten a double skin of fir planking with long iron spikes. Next they knead a pale paste of quicklime, shredded hemp, and pungent tree-oil into a sticky putty that seals every joint tighter than European pitch [13]. When the sea falls glassy calm and every mat sail droops against the shrouds, those tall hulls move by sheer muscle. Four sweating seamen lean together against each clumsy sweep to haul the ship across dead water [14].
 
-Polo reckons in baskets of pepper and gives a big ship five or six thousand of them. He has at least two hundred crew. Ramusio raises that to three hundred for some vessels and says earlier ships were bigger still [7]. A tender can carry another thousand baskets in the Book. It can also tow the big ship while the men on board her get to work on their sweeps. Ramusio gives the crew something else to watch: with a wind from astern, the bigger sails take the wind from those on the tenders and the ship can run them down [8]. The little boats slung at the sides have work of their own, laying out anchors and bringing supplies aboard [9].
+Marco measures a vessel’s burden by the pepper basket rather than the tun. Five or six thousand woven baskets fill the hold beneath a crew of at least two hundred sailors [15]. Ramusio raises that complement to three hundred hands on the largest hulls and maintains that earlier shipyards launched bulkier ships still [16]. Ahead of each great merchantman pulls a stout tender carrying a thousand baskets of her own, towing her flagship in calm airs while the big hull’s sweeps rise and fall [17]. Yet Ramusio warns of a crisp seamanship hazard astern. When a sudden beam gale fills the flagship’s broad sails, the master watches the bow closely lest his taller hull overtake the tender and ride her down [18]. Even in harbour, small pinnaces slung from side davits never rest. They ferry water casks and haul heavy stone anchors clear along the channel [19].
 
-As the ship grows old, the Book puts another layer of wood on the outside for each major repair. By the time she has grown six planks thick, a ship that went to sea in her youth is given the shorter runs along the coast. After that, the yard that has kept her going can have her back to break up [10]. Bear in mind how much work goes into keeping a ship afloat while we turn to the account of the place that cost the Kaan a fleet.
+Old timber buys itself a second and third life at Zayton’s yards [20]. Whenever salt and teredo worm pit the outer strakes, carpenters simply spike fresh fir sheathing cleanly over the worn planking without stripping old wood away. They repeat that timber coat up to six layers thick [21]. Once a hull rides heavy and sluggish inside six wooden skins, she drops off the long India run for shorter coastal voyages until shipbreakers haul her onto the mudflats for firewood [22]. Even what lies inside the hold respects dry timber: merchants vow that grain stowed cleanly in such a vessel keeps sweet a full year without rotting [23]. Keep that quiet yard arithmetic—nails, lime putty, spare masts, and honest bilges—firmly in mind before we push east into rumours of palace roofs paved in bullion.
 
 ---
 
-To put Chipangu (Japan) in front of the reader, Polo opens a distance of some fifteen hundred miles from the mainland. He describes an island that owes allegiance to nobody and gold in such quantity that there is no end to it. Very few merchants make the voyage in his telling. Ramusio adds that its lord forbids the gold to leave [11]. Whoever carried the story away had no such trouble with it.
+Steer out into the high seas fifteen hundred miles east from the mainland, and the Book raises Chipangu (Japan) [24]. No foreign prince rules its valleys. Marco swears the island’s domestic hoard of gold passes any clerk’s counting [25]. Few mainland skippers risk the open crossing, and Ramusio supplies a blunt royal reason: Chipangu’s king forbids any grain of gold to cross the surf [26]. Traders who never saw the quay needed no customs pass to carry the glitter home in tavern talk.
 
-Stand beneath the palace roof as the Book describes it. Your first thought may be what it would cost to do the same for a church at home. The lead that lies above your head in church is gold here. There is more of it at the windows and enough underfoot to make plates two fingers thick [12]. Two fingers’ thickness is a choice detail. You can check that measure at a building of your own by putting two fingers to a paving stone. Then you have only to imagine how many stones carry you from the door to the end of the hall.
+Stand in imagination beneath the royal eaves. Where a cathedral builder at home lays dull grey sheets of lead across steep rafters, this palace roofs every ridge and gable with plates of beaten gold [27]. Gold encases every window frame. Heavy golden flagstones—*“a good two fingers thick”*—pave the broad audience halls underfoot [28]. Press two fingers edge-to-edge beside a marble threshold in your own parish church, and you weigh the sheer extravagance of that claim in half a heartbeat.
 
-The Book describes round rose-coloured pearls worth as much as white ones. Ramusio puts one in the mouth of the dead when they are to be cremated [13]. Two hundred years and more later, in the copy scholars associate with Columbus, there are notes about gold and red pearls which Juan Gil attributes to the admiral’s hand [14]. The person to whom the price matters most just at present is Cublay (Kublai). For him the Book makes possession of the island come down to ships and men.
+Rose-pink stones gleam beside the bullion. Along with smooth white pearls, the Book prizes large round rose-coloured pearls that fetch every silver penny a white pearl commands [29]. Ramusio follows one such gem all the way to the grave, where mourners tuck a red pearl inside a dead kinsman’s mouth before lighting the pyre or lowering the body into earth [30]. Two centuries on, a printed Latin copy of Marco’s travels preserved in Seville still bears ink marginal notes on Chipangu’s gold and red pearls, which Juan Gil assigns to Christopher Columbus’s quill [31]. Back in thirteenth-century Cambaluc (Beijing), however, the prize that caught Cublay (Kublai) Kaan’s eye was simple tribute.
 
-His commanders are Abacan and Vonsainchin in this account. They take a great host with horses and foot soldiers aboard, sailing from Zayton and Kinsay (Hangzhou). They occupy the open country and villages, and the larger strongholds stay out of their hands [15].
+To seize that untouched treasury, Cublay launches a great armada out of Zayton and Kinsay (Hangzhou) under two captains named Abacan and Vonsainchin [32]. Horse and foot storm ashore across Chipangu’s coastal plains and fire open villages, yet every walled fortress slams its gates tight against the invaders [33].
 
 ![The Yuan–Goryeo expedition of 1274 and the Eastern and Southern fleets of 1281. Dashed tracks reconstruct the general courses. Hakata Bay is a regional reference for the landings; Takashima marks the offshore wreck area of the 1281 campaign. *(Map: this edition, from the National Archives of Japan, the National Institute of Korean History and the Takashima site record.)*](../media/maps/A15-invasions-of-japan.svg)
 
-A wind comes down from the north. In the Book, the commanders fear losing every ship if they stay put and decide to get away together. They are driven against a smaller island. From the shore the survivors see the ships that can still sail make for home. Polo leaves some thirty thousand men on that island, without food. The storm lets up and the ships that escaped could, as he tells it, come back. Polo gives the bad blood between the commanders as the reason they stay their course [16]. A man standing on the beach has just seen his chance of going home sail away from him.
+Then the sky blackens out of the north [34]. Fearing a rocky lee shore, Abacan and Vonsainchin slip cables and claw seaward. Half their hulls splinter against a small island reef while luckier ships clear the headland for home [35]. Thirty thousand soaking, hungry soldiers stand stranded upon the wet shingle [36]. When the northern gale blows itself out, the escaped captains hold clear sea enough to turn back and lift their comrades off. Marco blames bitter hatred between the two admirals for leaving every castaway to starve on the beach [37]. Imagine peering across empty grey rollers until the last friendly lugsail vanishes beneath the horizon.
 
-The men watch the islanders come with ships of their own. When everybody from those ships has landed, the stranded soldiers make off as though they mean to run away. Ramusio has them come round by a different path on an island high in the middle, leading the pursuers off from their ships [17]. For a moment the boats are within sight of one party and out of sight of the other. By the time the men coming down realise it, the Book has already got its stranded army aboard.
+Soon island fighters row out in triumphant flotillas to strip the stranded garrison [38]. As soon as local troops scramble ashore and form ranks to march inland, the ragged Tartar survivors slip neatly round behind them. Ramusio stages the manoeuvre with crisp terrain detail: the castaways steal along a hidden path round a steep central ridge and sprint down to the unguarded enemy ships [39]. Picture the islanders glancing back from the ridge just in time to see their own pennants billowing out into deep water.
 
-Then put yourself at the gate of the capital, in the position of someone who can see the familiar banners coming and thinks the men who went away under them are coming back. That, in the Book, is how the stranded army gets inside [18]. They are besieged for seven months, wait in vain for word to get through to Cublay, and give themselves up in exchange for their lives. Polo dates the surrender to 1279 and says the Kaan has both commanders killed [19].
+Under those captured island standards, the desperate castaways steer brazenly straight up to Chipangu’s royal capital [40]. Watchmen peering from the gatehouse spy familiar fleet banners crowding the bay and throw the portals wide, yielding the stronghold to a starving garrison without drawing a single bowstring [41]. For seven months the invaders hold those borrowed walls while siege lines tighten around them. With no relief convoy ever breaking the horizon, they finally surrender on a promise of their lives [42]. Marco dates that capitulation to 1279 and reports that an enraged Cublay later ordered both quarrelsome admirals executed [43].
 
-The invasions took place in 1274 and 1281. The second campaign ended in disaster and a storm is an important part of the historical accounts. The seizure of a capital under borrowed banners and a seven-month occupation belong to Polo’s story [20].
+History parts one sweeping shipwreck tale into two distinct expeditions, sailing in 1274 and 1281 [44]. A sudden late-summer tempest really did smash the combined invasion fleets in 1281 and pass into Japanese chronicle as the divine wind. Yet capturing a royal capital beneath stolen pennants belongs squarely to the Book’s romance [45].
 
 | Episode | The Book | Other evidence |
 |---|---|---|
@@ -48,80 +48,144 @@ The invasions took place in 1274 and 1281. The second campaign ended in disaster
 | Loss of the ships | The fleet caught by a north wind | ✓ A storm and catastrophe in accounts of 1281. Wrecks off Takashima give material evidence of the fleet. |
 | Return under captured banners | Survivors take a capital and hold it seven months | ? Other accounts report the killing or capture of survivors. They give no support to the capture of the capital. |
 
-Wrecks discovered off Takashima (Takashima Kōzaki site area) in 2011 and 2014 give us parts of ships whose construction the investigators interpret as Chinese [21]. Think of the difference between finding the timber and finding someone who saw the storm. The timber can tell you what it was like to build or repair a ship. It takes a written account to tell you what someone thought was happening over his head. Some wreck timbers have scorch marks. The marks leave plenty of room for a ship to have been damaged before it went down in a storm [22].
+Divers working the seabed off Takashima (Takashima Kōzaki site area) in 2011 and 2014 raised Chinese-framed hull timbers from the shattered 1281 fleet [46]. Yet cold timber on the sea-floor tells only the carpenter’s half of a disaster. A diver measures iron nail patterns and bulkhead spacing; only a chronicle remembers panic in the dark when anchor ropes parted. Several recovered Takashima ribs even carry deep char and scorch marks, clear scars of fire and fighting before the storm dragged those hulls down [47].
 
-The Book remembers one more incident from the landing. At a tower where the garrison refuses to give in, the conquerors find that eight men cannot be wounded with a blade. They kill them with clubs and take small stones from beneath the skin of their arms. The stones are the source of the protection in the tale [23]. They are quite a prize to be carrying away in the Book’s telling. The ships sent for the gold will get very little else to take home.
+One stubborn watchtower adds a final camp-fire marvel before the armada closes [48]. Eight captured defenders turn every Mongol sword-edge until baffled conquerors club them slowly to death with wooden staves. Cutting open their arms, the soldiers dig out small enchanted pebbles tucked beneath the skin [49]. Whatever truth rests in Asian amulet lore, iron-proof stones make a grim pocket-prize for armies sent east to bring back slabs of palace gold.
 
 ---
 
-Before we quit those waters, look in at a temple as the Book invites us to. Its images have several heads and any number of arms, up to a thousand. Ask someone why they are made that way and the answer in the Book is that they make them as their forebears did [24]. The Book also gives the islanders a story of eating captives who cannot ransom themselves [25]. A person who brings back both accounts can collect a good audience. Having seen a figure with a dozen hands anywhere in Asia would give you a start in describing the first. You could put the teller to some trouble by asking him which temple, which island, and who showed him round. The Book is prepared to tell us where in these waters Marco’s experience gives out.
+Step inside an island temple before weighing anchor [50]. Gilded statues glare down with clustered heads and whole thickets of arms—four, ten, even a thousand hands radiating across one trunk—because, the Book shrugs when anyone asks, their fathers carved them that way before them [51]. Outside the courtyard runs a darker rumour of islanders who slaughter and roast unransomed prisoners at a feast [52]. Multi-armed bodhisattvas genuinely fill East Asian shrines. Stony silence, meanwhile, meets any reader asking which specific quay Marco’s informant stepped onto. For twelve manuscript chapters, truth be told, the Venetian has been steering across pilots’ charts rather than his own deck.
 
-The pilots know 7,459 islands in the Sea of Chin in the account. The Book puts fragrant woods and pale and black pepper on them and has merchants go out from Zayton and Kinsay for the profit [26]. A merchant waiting to get home can know the year by the wind. Go with the winter wind and wait for the summer wind to carry you back. In between it is the same ocean that the Book divides into named seas, much as a European sailor can pass from waters he calls by one country’s name to waters he calls by another’s [27].
+Across the wide Sea of Chin east of Manzi, seasoned skippers count 7,459 spice islands [53]. Holds bursting with fragrant wood, pale pepper, and black pepper entice bold venturers out from Zayton and Kinsay to gamble a year on the monsoon [54]. Two winds turn the calendar year into one clean shuttle: sail south-west down the winter breeze, pack the hold, and ride the steady summer wind back north [55]. Named waters change like harbour markers across one unbroken sea, Marco observes sharply, just as sailors at home speak of the English Sea or the Sea of Rochelle without crossing a fence [56].
 
-Then comes the admission about these outlying waters. “Moreover, Messer Marco Polo never was there.” The Book allows the islanders a further independence. They pay the Kaan no tribute [28]. There is quite a difference to an emperor between having a fleet that has tried to get to a place and being able to expect something regularly out of it. A skipper who can return with a full hold has his own measure of what it was worth to go.
+Right at the close of this island roll falls an honest admission: *“Moreover, Messer Marco Polo never was there.”* [57] Every one of those seven thousand islands stays clean outside Cublay’s tax ledgers [58]. Between claiming islands on a grand court map and landing customs clerks at the pier lies a month of open monsoon swell.
 
-In Ramusio there is another stretch of coast to consider. The Gulf of Cheinan (Hainan and the Gulf of Tonkin) has islands with copper and gold that people gather where the rivers come out. There is a living for a trader going back and forth between the islands and the mainland. The gulf seems almost big enough to be a world on its own [29].
+Here Ramusio inserts a distinct coastal sweep into the Gulf of Cheinan (Hainan and the Gulf of Tonkin), washing mainland bays for two months’ sail [59]. Copper ingots and river-panned gold draw traders between busy villages and low offshore reefs in a lively gulf economy of its own [60].
 
-Come back to the berth at Zayton. This time we’re sailing for a king who pays his duty in elephants.
+Coil the wet hawsers back onto Zayton’s stone bollard and clear the heavy rudder from the mud. Our next slant of wind blows south-west toward Chamba (Champa) [61], where an ageing king buys off an invading Mongol army with a living tribute of war-elephants.
 
 ---
 
 ## Notes
 
-[1] ~ The timber, deck, cabins, rudder and masts are in the main ship account. Manzi is a designation for the conquered southern realm used by northern and Mongol speakers [@yc, 3.1 nn. 1–2; @yc, 2.48].
+[1] ✓ Zayton (modern Quanzhou) serves as the departure haven for the Indian Ocean voyage across Book 3. Manzi’s seagoing merchant fleet anchors the opening chapter before the text turns to islands Marco never visited [@yc, 3.1 n. 1].
 
-[2] ✓ From Ramusio in Yule’s edition. The description shows the work of isolating a leak and moving the cargo before repairing the hull. For a sectional view see [Plate C12, the seagoing junk](../media/plates/C12-seagoing-junk.png) [@yc, 3.1 n. 3].
+[2] ✓ Fir planking, a single deck, and heavy seagoing framing form the structural core of Polo’s junk description [@yc, 3.1 nn. 1–2]. For a cross-section of the vessel design, see [Plate C12, the seagoing junk](../media/plates/C12-seagoing-junk.png).
 
-[3] ~ From Ramusio in Yule’s edition. The whale pursuing foam at night is given as one explanation for the leak the sailors have to contain [@yc, 3.1].
+[3] ✓ Manzi was the northern Chinese and Mongol designation for the conquered Southern Song realm rather than a Song self-name [@yc, 2.48].
 
-[4] ✓ Pearson, Li and Li describe thirteen compartments divided by twelve bulkheads. The wreck is dated broadly to the late thirteenth century. Green and colleagues discuss the limber holes and what their presence means for the description of the divisions as watertight [@pearson2002quanzhou; @green1998quanzhou].
+[4] ✓ Fifty to sixty private merchant cabins arranged under a single deck underline the passenger comfort of large ocean junks [@yc, 3.1 n. 1].
 
-[5] ✓ Yule and Cordier compare observations of caulking with fibre and oil, including oil derived from a tree’s nuts. The account of the iron nails, doubled planks and the compound is Polo’s [@yc, 3.1 n. 4].
+[5] ✓ Four permanent masts, two stepped auxiliary masts, and a single stern axial rudder match southern Chinese seagoing rig practice cited by Yule and Cordier [@yc, 3.1 n. 2].
 
-[6] ~ The four men to a sweep are Polo’s count. Yule cites accounts of sweeps and an account of larger crews working each one [@yc, 3.1 n. 5].
+[6] ✓ Keeping the bilge clean so watchmen could trace incoming water belonged to standard shipboard maintenance [@yc, 3.1 n. 3].
 
-[7] ~ Yule’s bracketed Ramusio additions extend the crew estimate and describe greater size formerly. The baskets of pepper serve Polo as the measure of capacity [@yc, 3.1 n. 6].
+[7] ✓ Ramusio-only. Yule prints the thirteen watertight compartments inside brackets directly from Ramusio’s 1559 edition [@yc, 3.1 n. 3].
 
-[8] ~ The large tender and towing with the ship using its sweeps are in the base text. The bracketed detail about sailing on a beam wind or running down a tender when it is astern of the wind is from Ramusio [@yc, 3.1].
+[8] ~ Ramusio-only. Ramusio supplies the dramatic night hazard of a cruising whale mistaking white bow-foam for food and striking the hull alongside reef damage [@yc, 3.1].
 
-[9] ~ Boats carried along the sides, and their uses at anchor and for supplies, are described in the Book. It also equips the larger tenders with boats of their own [@yc, 3.1].
+[9] ✓ Ramusio-only. Isolating a holed bay by shifting goods into an adjacent dry compartment while carpenters seal the seam comes solely from Ramusio’s expanded account [@yc, 3.1 n. 3].
 
-[10] ~ The Book describes applying another thickness of plank at each repair, then changing to coastal runs. The exact limit of six is Polo’s [@yc, 3.1 n. 6].
+[10] ✓ Pearson, Li and Li report twelve transverse bulkheads dividing thirteen cargo compartments in the late-thirteenth-century hull excavated near Zayton in 1974 [@pearson2002quanzhou].
 
-[11] ~ The distance and the description of abundant gold are in the base account. Ramusio supplies the prohibition of export, which Yule brackets. Yule discusses the Chinese name behind Chipangu [@yc, 3.2 nn. 1–2].
+[11] ✓ Green and colleagues examine small limber holes along the keel of that wreck, showing that bilge drainage complicated any absolute notion of watertight boxes [@green1998quanzhou].
 
-[12] ~ The golden roof, floors and windows are in the main text. Yule calls the palace a tale and compares other accounts of the wealth of the island [@yc, 3.2 n. 3].
+[12] ✓ Double-planked fir hulls fastened with long iron spikes appear in Yule’s base ship description [@yc, 3.1 n. 4].
 
-[13] ~ The rose-coloured pearls are in the base account. Ramusio supplies the passage Yule brackets about burial and cremation and the pearl in the mouth [@yc, 3.2 n. 4].
+[13] ✓ Yule and Cordier compare Chinese *chunam* caulking—quicklime, shredded hemp, and tung or nut oil kneaded into durable putty—across later maritime accounts [@yc, 3.1 n. 4].
 
-[14] ~ Gil attributes remarks on the gold and red pearls on fol. 57v to Columbus. The attribution comes here through his study [@gil2006marcocristobal, p. 30].
+[14] ~ Four seamen per heavy sweep represent Polo’s figure for Manzi junks; Yule cites later observers recording even larger rowing crews on big oars [@yc, 3.1 n. 5].
 
-[15] ~ The names, ports and capture of open country are in the Book’s account. Yule compares the names with those in the accounts he uses to reconstruct the two expeditions [@yc, 3.2; @yc, 3.3 n. 1].
+[15] ~ Five or six thousand baskets of pepper measure freight capacity in mercantile terms, worked by at least two hundred sailors [@yc, 3.1 n. 6].
 
-[16] ~ The north wind, the number left behind and the rivalry driving the abandonment are the Book’s particulars. See [Map A15](../media/maps/A15-invasions-of-japan.svg) for the approximate routes of the historical expeditions [@yc, 3.2; @yc, 3.3 n. 1].
+[16] ~ Ramusio-only in part. Yule brackets Ramusio’s higher crew figure of three hundred hands and his remark that earlier Chinese ships had been built larger still [@yc, 3.1 n. 6].
 
-[17] ~ Ramusio-only. The height of the island and the two paths occur in the bracketed part of Yule’s translation. The feigned flight and seizure of the ships occur in the base account [@yc, 3.3].
+[17] ~ The thousand-basket tender towing a becalmed flagship under sweeps stands in Yule’s base French text [@yc, 3.1].
 
-[18] ? The banners, gates and seizure of the capital are in the Book. Yule treats the capture of a capital as uncertain when comparing the story to other accounts [@yc, 3.3 n. 1].
+[18] ~ Ramusio-only in part. While the tender belongs to the main account, Ramusio adds the danger of running down a tender when sailing before a quartering gale [@yc, 3.1].
 
-[19] ~ The seven months in the city, surrender and two punishments form the end of the Book’s campaign narrative. Yule compares different fates of commanders and separates the date from the chronology of the campaigns [@yc, 3.3 nn. 1–2].
+[19] ~ Smaller side-boats slung both on great ships and on tenders handled anchors, lines, and harbour supply [@yc, 3.1].
 
-[20] ✓ Yule compares Japanese and Chinese historical accounts. Rossabi discusses the two expeditions and the storms. His account gives context for the losses, while the Book supplies the ruse and seven months in a capital [@yc, 3.3 n. 1; @rossabi1988khubilai, chs. 4, 8].
+[20] ~ Repairing aged hulls by fastening fresh outer sheathing directly over worn planks matches traditional Chinese yard maintenance [@yc, 3.1 n. 6].
 
-[21] ✓ Ikeda, Sasaki and Kimura report the 2011 and 2014 discoveries and infer a Chinese origin from the hull construction. Their work gives evidence about the fleet, with the attachment of either ship to any particular narrative uncertain [@ikeda2019takashima, pp. 1635–38].
+[21] ~ Up to six successive plank thicknesses before retirement represent Polo’s specific shipyard limit [@yc, 3.1 n. 6].
 
-[22] ~ Sasaki’s thesis discusses scorched timber and evidence of repair or reuse. A scorch mark cannot by itself establish the circumstances in which the ship sank [@sasaki2008origin].
+[22] ~ Downgrading heavily sheathed hulls from oceanic passages to coastal traffic and final breaking reflects commercial reality [@yc, 3.1 n. 6].
 
-[23] ~ The efficacy of the stones is a reported marvel. Yule compares later descriptions of subcutaneous amulets, which give a parallel for the practice of wearing stones [@yc, 3.3 n. 3].
+[23] ~ The claim that grain stays sweet for a full year in a well-built ship appears inside Ramusio’s expanded timber notice [@yc, 3.1].
 
-[24] ~ Yule compares East Asian images with multiple heads and arms. The Book groups images from several places together and gives the explanation someone is said to offer when asked [@yc, 3.4 n. 1].
+[24] ~ Chipangu derives from Chinese *Riben-guo*, placed 1,500 miles east across open water in Polo’s mariner reckoning [@yc, 3.2 n. 1].
 
-[25] ? The eating of a prisoner who cannot buy his freedom is an unconfirmed story in the Book. Its claim extends from Chipangu to other islands [@yc, 3.4].
+[25] ✓ Sovereign independence from the Yuan court is historical; endless bullion exaggerates Japanese gold rumours circulating along Fujian quays [@yc, 3.2 nn. 1–2].
 
-[26] ~ Polo attributes the count to mariners. The islands cannot be individually identified from the description, and the list of profitable goods is Polo’s [@yc, 3.4 n. 2].
+[26] ~ Ramusio-only. Yule brackets the sovereign ban on exporting gold from Chipangu solely from Ramusio’s text [@yc, 3.2].
 
-[27] ✓ The winter and summer winds give the voyage its schedule. The comparison between European and Asian names for parts of the ocean is Polo’s way of distinguishing the extent of a named sea from that of the ocean itself [@yc, 3.4 n. 3].
+[27] ✗ Roofing an entire royal palace with sheets of beaten gold like European church lead belongs to hearsay marvel [@yc, 3.2 n. 3].
 
-[28] ✓ In Yule the admission of absence and the statement about tribute close the account of the islands in the Sea of Chin. Yule’s note quotes the separate Cheinan passage from Ramusio after this point [@yc, 3.4 n. 4].
+[28] ✗ Golden paving-slabs two fingers thick and gilded windows extend the legendary palace picture reported at second hand [@yc, 3.2 n. 3].
 
-[29] ~ Ramusio-only. The gulf and the trade of its islands are given in the passage Yule quotes. Pelliot associates the name with Hainan and the Gulf of Tonkin. The dimensions and borders belong to the geography of this account [@yc, 3.4 n. 4; @pelliot1959notes, vol. 1, pp. 242–243].
+[29] ~ Round rose pearls valued equal to white pearls reflect genuine East Asian demand for tinted pearls [@yc, 3.2 n. 4].
+
+[30] ~ Ramusio-only. Tucking a red pearl inside a dead person’s mouth before cremation or burial enters Yule inside Ramusio’s brackets [@yc, 3.2].
+
+[31] ~ Gil attributes the Latin marginal notes on Chipangu’s gold and red pearls on fol. 57v of the Seville Colombina volume to Christopher Columbus’s hand [@gil2006marcocristobal, p. 30].
+
+[32] ~ Abacan and Vonsainchin compress commanders of the 1274 and 1281 Mongol–Korean invasions sailing from southern ports [@yc, 3.2; @yc, 3.3 n. 1].
+
+[33] ~ Burning open countryside while fortified strongholds held out simplifies northern Kyushu fighting [@yc, 3.2; @yc, 3.3 n. 1].
+
+[34] ✓ A sudden northern storm shatters the armada in both the Book and Japanese records of the 1281 *kamikaze* typhoon [@yc, 3.3 n. 1; @rossabi1988khubilai, chs. 4, 8]. See [Map A15](../media/maps/A15-invasions-of-japan.svg).
+
+[35] ~ Fleet ships fleeing seawards and smashing on an islet blend storm chaos with the Takashima wreck zone [@yc, 3.3 n. 1].
+
+[36] ~ Abandoning thirty thousand stranded troops matches the vast casualties trapped in Kyushu in 1281 [@yc, 3.3 n. 1; @rossabi1988khubilai, ch. 8].
+
+[37] ? Blaming bitter hostility between Abacan and Vonsainchin for abandoning castaways is Polo’s dramatic explanation [@yc, 3.3 n. 1].
+
+[38] ~ Islanders crossing to strip the shipwrecked army echoes Japanese counter-attacks on Takashima survivors [@yc, 3.3 n. 1].
+
+[39] ~ Ramusio-only in part. Feigning flight to seize the islanders’ hulls belongs to the base text, while Ramusio supplies the high central ridge and twin paths [@yc, 3.3].
+
+[40] ✗ Sailing straight to Chipangu’s capital under captured pennants has no support in Japanese or Yuan annals [@yc, 3.3 n. 1].
+
+[41] ✗ Watchmen flinging city gates open to captured standards extends the ruse into pure camp romance [@yc, 3.3 n. 1].
+
+[42] ✗ Holding the royal capital seven months before surrendering on terms contradicts Japanese records of execution and captivity [@yc, 3.3 n. 1].
+
+[43] ✗ Dating surrender to 1279 conflates the 1274 and 1281 campaigns; historical commanders faced dismissal or varying fates rather than this tidy twin execution [@yc, 3.3 nn. 1–2].
+
+[44] ✓ Rossabi distinguishes the 1274 probing raid from the massive two-fleet invasion of 1281 destroyed by storm [@rossabi1988khubilai, chs. 4, 8].
+
+[45] ✓ Yule compares Chinese and Japanese historical records side by side to isolate the real typhoon from the stolen-capital stratagem [@yc, 3.3 n. 1].
+
+[46] ✓ Ikeda, Sasaki and Kimura report the 2011 and 2014 Takashima underwater excavations, confirming Chinese hull joinery from the 1281 Southern Fleet [@ikeda2019takashima, pp. 1635–38].
+
+[47] ~ Sasaki’s dissertation documents charred and reused timbers on Takashima wrecks, showing combat fire before sinking [@sasaki2008origin].
+
+[48] ◇ Stone amulets inserted beneath skin to stop iron blades belong to widespread Southeast and East Asian warrior folklore noted by Yule [@yc, 3.3 n. 3].
+
+[49] ◇ Beating charmed defenders to death with wooden staves and cutting stones from their arms adapts a stock marvel to the Kyushu landings [@yc, 3.3 n. 3].
+
+[50] ✓ Multi-headed and multi-armed temple images reflect real Buddhist iconography such as thousand-armed Avalokiteśvara grouped loosely here [@yc, 3.4 n. 1].
+
+[51] ~ Explaining multi-limbed idols simply as ancestral custom preserves a coastal trader’s offhand reply [@yc, 3.4 n. 1].
+
+[52] ? Eating unransomed captives extends an unverified cannibalism trope across Chipangu and outlying islands [@yc, 3.4].
+
+[53] ~ Pilots’ tally of 7,459 islands offers an impressionistic mariner figure for western Pacific archipelagos [@yc, 3.4 n. 2].
+
+[54] ✓ White pepper, black pepper, and aromatic woods genuinely drew Fujian merchant fleets south-east each year [@yc, 3.4 n. 2].
+
+[55] ✓ Winter outward passages and summer homebound passages accurately capture the monsoon shuttle [@yc, 3.4 n. 3].
+
+[56] ✓ Comparing Asian sea names to the English Sea and Sea of Rochelle shows how cleanly Polo understood one unbroken ocean [@yc, 3.4 n. 3].
+
+[57] ✓ Disclaiming firsthand presence (*“Moreover, Messer Marco Polo never was there”*) closes the Sea of Chin chapter in the French text before Ramusio’s insert [@yc, 3.4 n. 4].
+
+[58] ✓ None of those 7,459 islands paid regular revenue to Cublay’s treasury [@yc, 3.4].
+
+[59] ~ Ramusio-only. The separate Gulf of Cheinan description is quoted by Yule solely from Ramusio; Pelliot identifies Cheinan with Hainan and the Gulf of Tonkin [@yc, 3.4 n. 4; @pelliot1959notes, vol. 1, pp. 242–243].
+
+[60] ~ Copper ingots and river-panned gold traded between mainland bays and coastal islands belong to Ramusio’s gulf passage [@yc, 3.4 n. 4].
+
+[61] ✓ Sailing south-west from Zayton leads straight into Chamba (Champa) at the opening of Chapter III-2 [@yc, 3.5].

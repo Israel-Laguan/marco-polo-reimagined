@@ -124,3 +124,7 @@ Moule–Pelliot gives edited Latin and translation for a loss involving Comnenus
 **S-18 source correction:** The 1,000 lire in *imprestiti* conditionally bequeathed to Marcolino and the separate 1,000 lire Marco received for losses are different sums. Similarity of bequests does not establish that Yule’s 1328 report refers to this exact will. See [intake](../../../research/results/S-18-remaining-library-return-2026-11-16-intake.md).
 
 **Targeted continuity pass (2026-11-17), applied to `III-09.T1`:** Applied: M1/F-15 (:31 aside and Note [12] rewritten: the embassy is corroborated, the Polos are not named; Yang’s inference as Ma reports; Jackson pp. 98–99; preparations distinguished from sailing at :27 and Note [10]); n4 (:29 and Note [11]: Ramusio names no port; Hormos is Yule’s); the M7 stockade hedge (:25, Note [9]); Rashid’s undated Abhar marriage (:29, Note [11]); Cocachin’s death date attributed to Yule, with 1299 noted (:33, Note [13]); “flagship” removed (:43). Not done: n3 (Note [17] arithmetic), the Coja-survival wording, the ★ in Note [3], and a person’s check. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 28 sequential claim-level `[n]` Notes, applied `2026-11-17` / `F-15` / `F-33` handoffs, preserved `A16-cocachin-return.svg`, `C11-monsoon-cocachin.svg`, and table, and synced `locators.md`. Lint: `PASS E0 W0 (1,801 w · 2% verbatim · 0 quotes · 0 asides)`.

@@ -123,3 +123,7 @@ Yule proposed the Aden/Adel identification and Yikunno Amlak c. 1278; keep these
 **S-18 translation follow-up (2026-11-17):** An online text extraction of Cook’s 2020 translation pp. 175–178 gives Ibn ʿAbd al-Ẓāhir’s account of the 1290 embassy and an envoy’s death at ʿAydhāb; note 280 suggests a connection to Polo. The chronicle passage itself does not identify Polo’s bishop or describe the alleged circumcision and war. Check a reliable edition image and the Arabic before relying on exact wording. See [intake](../../../research/results/S-18-targeted-archive-return-2026-11-17-intake.md).
 
 **FINAL-ACCESS handoff (2026-11-17):** The Arabic *Tashrīf al-ayyām* (Cairo 1961, ed. Murād Kāmil, rev. al-Najjār), seen as page images: the Abyssinian embassy of Ramaḍān 689 runs pp. 170–173; the envoy's death at ʿAydhāb is at the top of p. 172 (the sentence starts on p. 171). Cite these pages for the Arabic; Cook's translation (pp. 175–178) stays unread on the page. [FINAL-ACCESS intake](../../../research/results/FINAL-ACCESS-intake.md)
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 39 sequential claim-level `[n]` Notes, fixed `Madeigascar` aside/gloss, and standardized Ramusio labels. Lint: `PASS E0 W0 (1,810 w · 2% verbatim · 0 quotes · 2 asides)`.

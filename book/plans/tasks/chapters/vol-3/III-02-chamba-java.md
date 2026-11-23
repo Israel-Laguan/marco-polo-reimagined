@@ -129,3 +129,7 @@ From the [U-2 intake](../../../research/results/U-2-intake.md) (14 checks agains
 - **Applied 2026-11-17 (Note [8]; body l. 27 unchanged).** **F-52, Note [8] and body l. 27:** "loss ~3,000" becomes "more than 3,000 dead by the return to Quanzhou (Shi Bi's biography)". The envoy is Meng Qi only in Gao Xing's biography; "branded" holds. The force is 20,000 in 500 or 1,000 ships, and only 5,000 went. Optional: the commanders were caned and fined a third, Gao Xing excepted. Cite `[@yuanshi1370, juan 17, 162, 210]`.
 
 **FINAL-ACCESS handoff (2026-11-17):** Maspero, "Le royaume de Champa", *T'oung Pao* 12 (1911), ch. VIII (OCR read): Sögetü ("Sagatou") campaign 1281–85; Champa "délivré des Mongols" and Sögetü's death in 1285, p. 474; no tribute passage found beyond p. 592. Brandes's *Pararaton* (VBG 49, OCR read): the Tatar envoys and troops attack Daha; Raṅga Lawe then turns on the Tatars over the princesses (Javanese text pp. [23]–[24]; translation page not read). Leads for Notes [3] and [8]; no edit made. [FINAL-ACCESS intake](../../../research/results/FINAL-ACCESS-intake.md)
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 30 sequential claim-level `[n]` Notes, preserved `U-2` Sogetu/Java handoffs and standardized Ramusio labels. Lint: `PASS E0 W0 (1,835 w · 3% verbatim · 0 quotes · 1 asides)`.

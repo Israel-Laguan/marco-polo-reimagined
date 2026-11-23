@@ -136,3 +136,7 @@ _Created after the gating spikes close. Expected shapes:_
 From the [R-2 intake](../../../research/results/R-2-intake.md) (12 checks, 12 hits). If III-10 or III-B1 mentions the 1324 inventory, use F-60 and cite `formentin2024sentenza` (pp. 217–221). The inventory lists two plain silver belts and a gold jewel (*bocheta*), not a "Tartar knight's belt" or a *boghta* headdress. It does list a large gold *tola de comandamento* (a paiza, its most valuable item), Tartar-work quilts, a Tartar-style garment, musk, aloe wood and rhubarb. Do not present the objects as proof that Marco travelled. Enrichment, not a correction: the current text does not mention the inventory.
 
 **Targeted continuity pass (2026-11-17), applied to `III-10.T1`:** F-16 only: :21 and Note [7] give Gullino’s Badoer identification and leave the marriage year open (no “c. 1300”); Moreta’s second marriage to Tommaso Gradenigo per Gullino (:23, Note [8]); Bellela’s death left at the late 1320s with the 1326/1328 references unreconciled; :39 and Note [16] set Jacopo’s capture at Ayas under 1296 (F-34). Agnese, the inventory and the other items are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.
+
+## W4 audit (2026-11-23)
+
+Re-voiced reception chapter to Voice Guide v3, split stacked Notes to 34 sequential claim-level `[n]` Notes, preserved `**[reception]**`, 4 `###` headings, `F-16`/`F-18`/`F-35`/`S-13`/`S-20` handoffs, and synced `locators.md`. Lint: `PASS E0 W0 (1,800 w · 3% verbatim · 0 quotes · 2 asides)`.

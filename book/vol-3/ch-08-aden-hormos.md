@@ -8,98 +8,106 @@
 
 ---
 
-The king of Abash (the Ethiopian highlands) has left the country the Book calls Aden in the story of his campaign. In the tale about the bishop, Aden is the name given to the place where the king’s troops fight. Here we can go to the Arabian port itself, with people coming in who have something they mean to sell. Their ships are from India. Look at a sack of pepper coming off one of them. If it is going to Alexandria, nobody can leave it on the same deck and expect it to get there [1].
+Leave the highland war-horns of Abash (the Ethiopian highlands) behind and drop straight down to Aden, the blazing seaport whose borderlands we just watched burn [1]. Out on these rocky quays, pious crusader tales give way abruptly to ledgers, ship charters, and customs ink. Tall ocean hulls from India crowd Aden’s outer anchorage, ridden deep down to the scuppers with black pepper, dried ginger, and costly eastern spices [2]. Watch closely at the timber wharf: not a single pepper sack stays aboard its big Indian ship for the final leg toward Europe. Every captain must unload onto smaller craft built for reefs and shallow Red Sea shoals.
 
-Seven days in smaller craft, in Polo’s reckoning, will get the pepper to a landing. Then it goes on a camel for thirty days. At the Nile there is a boat again, and the river takes the cargo down to Alexandria [2]. Ramusio makes a longer affair of the passage through the Red Sea and gives the smaller boats and a canal names of their own [3]. The port where the sacks went ashore may depend on which account you are following. What Polo wants you to remember is how many hands it takes to bring pepper as far as a Mediterranean buyer. In the account Marino Sanudo gives, a rise on the Nile can let goods go on through the canal to Alexandria. His way of moving the sacks has stages of its own. Even once you’ve got them as far as the river, you need to know what the water is going to do [4].
+Follow one split pepper bale off the gangplank. First stevedores heave cargo onto shallow coastal barks that spend seven days beating northward up the Red Sea to a desert landing [3]. There shouting camel drivers lash heavy sacks onto pack-saddles for thirty gruelling desert marches across scorching stone until green Nile water shines ahead. Slender river barges float those bales steadily downstream into Alexandria’s waiting warehouses, keeping Saracen merchants supplied along every quay. Marco insists no easier or shorter spice road exists anywhere toward Egypt [4]. Ramusio stretches that Red Sea stage much further, naming light Arab *zerms* skimming up the gulf and swinging cargo into the *Calizene* canal toward coastal shipping [5]. Compare Marino Sanudo’s Venetian contemporary log beside Marco’s route. In Sanudo’s notebook, pepper passes across desert camels onto the Nile and rides high summer floodwaters through Alexandria’s canal when river levels crest [6]. Ports and day-counts shift across ledgers, yet every line confirms one merchant reality: Indian pepper crosses half a dozen backs before shaking onto a Venetian table. Even a spice merchant in Venice (Venezia) who never saw the Red Sea paid for every camel driver, river boatman, and customs clerk along that thirty-seven-day chain.
 
-The Soldan of Aden takes a share of goods going both ways. His government is the Rasulid one in Yemen, and Aden is its port [5]. A ship taking pepper off at the quay can put on horses for India. There are fine chargers, palfreys to ride and strong animals that will do a day’s work. Polo reckons an Indian buyer can pay a hundred marks of silver or more for a charger [6]. The old French has a term for the useful horses that suggests they can take either of two saddles. Yule thinks it means one for a rider and one for a pack. A dealer could say a good deal in those few words about what different buyers might be prepared to pay for. Before the ship leaves there is a payment to the Soldan. The prince can make a good deal out of horses and pepper without having to take care of either on the ocean.
+Two-way toll-gates enrich Aden’s Soldan—historically the wealthy Rasulid sovereign ruling from inland Taʿizz [7]. Incoming spice ships pay steep landing silver. Then those same vessels turn cleanly round to load fine Arabian chargers, pacing palfreys, and sturdy two-saddle nags bound east for Maabar (Coromandel Coast) [8]. An Indian king pays a hundred marks of silver or more for one high-stepping warhorse. Port export taxes pour steady bullion back into Aden’s treasury until Marco swears scarce a prince on earth outweighs the Soldan in treasure [9]. Every bale of pepper arriving from the east and every horse hoof stepping onto a plank leaves silver coins clinking inside the customs house. Picture customs scribes sitting beneath palm awnings from dawn till dusk, tallying spice chests with one hand and horse-tolls with the other while Indian monsoon winds fill the bay.
 
-What else a ruler can send from this coast is told in a different voice. When the Soldan of Babylon, the Mamluk ruler of Egypt, captures Acre in 1291, Polo has the ruler of Aden send him thirty thousand horsemen and forty thousand camels [7]. The story credits hostility to Christians for making the two rulers act together. A man buying a horse on the quay has no reason to count soldiers by the tens of thousands. A Christian audience that remembers the loss of Acre is being given a different sort of account to hear.
+War breaks across ledger pages for one fierce minute. When Egypt’s Mamluk Soldan of Babylon marched out to storm Christian Acre in 1291, Marco hears that Aden’s sovereign sent thirty thousand horsemen and forty thousand laden camels north. He acted less from warmth toward Cairo, which he hated cordially, than from bitter hostility toward Christians [10]. A spice factor weighing pepper bales on Aden’s pier rarely stops to count thirty thousand troopers. A Christian reader still mourning Acre’s fall learns quickly why western galleys found the Red Sea road barred tight.
 
-— Stay with the pepper a moment. A buyer in Alexandria sees the end of a journey. A man at Aden has to decide who can get the sack over the next stretch and how much to pay him. The same cargo looks different every time someone puts it down.
-
----
-
-Take the coast to Esher (Ash-Shihr). The Book puts it four hundred miles from Aden and gives it its own ruler under the Soldan. The ships can bring Indian goods in and take off Arab horses here too [8]. Polo sends some of the country’s incense through the hands of the ruler before it gets anywhere near a ship. Anyone who has collected a hundredweight, in the Book, will be paid ten gold livres. A merchant buying that same weight from the ruler pays sixty [9]. You can see why a ruler who makes that much on the turn would want to be the only man allowed to buy it.
-
-Rice has to come in by sea to a place that grows very little of its own. Dates are plentiful. For a silver groat such as Polo knows from Venice, he puts two large tuna on the table [10]. There is wine made from sugar, rice or dates.
-
-On a coast where fresh fish may be cheap in season, drying it makes a difference to the rest of the year. Cut a large one into pieces roughly a pound each. If the sun dries them well enough, they can keep like biscuit [11].
-
-Now take a look at the sheep. Polo has them with little horns where their ears ought to be [12]. As for the horses, oxen and camels, he has something odder still to say about feeding them. The country offers almost no forage in his account. From March through May, people catch small fish in quantity and dry them for the animals to eat over the rest of the year. He has the beasts eat them straight out of the water too [13]. After all those ships taking horses away to India, here is a harder question about the horses that stay. What are you going to give them to eat before there is a buyer?
-
-At Dufar (Dhofar) the Book puts the incense on the tree. It looks to Polo like a small fir. A cut in the bark lets the resin come out, and some of it, he says, runs in the heat without a cut at all [14]. A prince who sees the incense only when a hundredweight comes to his scales may never have to wait for a drop of it. On the hill, a person with a knife can only take what comes out of the bark. It takes a load from many trees to bring a merchant a hundredweight. Follow it back out to the coast and you can see what the price at Esher leaves out, from the small cuts on the hillside to the journey down.
-
-The port has a share in the traffic with India, and horses go out from it. Polo puts a count in charge, under the Soldan of Aden, and gives him towns and villages of his own [15]. Its distance from Esher is five hundred miles in the Book. The way through these places looks more dependable when you read it by what the ships would come for than when you try each of its compass bearings.
+— Stay beside one split pepper sack on Aden’s wharf for a single beat. A buyer in Alexandria sees the clean end of a long voyage. A broker sweating under Aden’s awning counts seven days by shallow bark, thirty days across red stone, and two customs clerks watching both ends of the road.
 
 ---
 
-At Calatu (Qalhat), a ship from India has to bring grain. The Book will find none grown in the place, and says every incoming merchant brings some [16]. From the harbour, spices make for the towns of the interior. In the opposite direction go Arab horses. Polo has a number of opinions about what their buyers do with the animals, from feeding them cooked food to doing without farriers. The money there is in the trade can be set against his confidence about why the horses die once they land [17].
+Lift anchor out of Aden’s heat and sail four hundred miles north-west—so Marco’s skewed coastal compass reads—to Esher (Ash-Shihr), a broad roadstead governed justly by its own prince beneath Aden’s overlordship across many towns and villages [11]. Here too big Indian vessels empty cloth and spice bales to load sleek Arab chargers bound for southern Indian kings [12]. Over the wharves rules a strict royal monopoly on pure white frankincense. Not a single harvester may sell a crumb of white resin directly to sea captains. The ruler buys up every hundredweight at ten gold livres and sells that same hundredweight cleanly to arriving merchants at sixty [13]. A clean six-fold mark-up shows effortlessly why armed clerks watch every mule-track dropping out of the hills. Nobody slips a basket of resin past the beach guards when the crown pockets fifty livres on every single hundredweight.
 
-Look up from the cargo to the walls. The ruler of Hormos (Old Hormuz, in the Minab area) has a place to go at Calatu if he is hard pressed by someone more powerful [18]. The position is as valuable to him as the fortifications. Work on the town’s defences and the spread of new quarters can be dated here to the late thirteenth century. We can see how much had gone into a place a ruler might hope to hold. The ships in the harbour give him a means of getting there when he needs it. He answers to the ruler of Kerman (Kermān) in the Book. If there is trouble, he can go down to his ships and move his court here. Then, in Polo’s account, he can interfere with the ships coming into the Gulf and put a stop to the ruler of Kerman’s income from their cargoes [19]. He has a stronger castle still, which Polo gives no name.
+Step off the customs jetty onto Esher’s shingle beach for supper. Dry sand yields almost no wheat or grain, so cargo dhows bring rice in at brisk profits beside endless golden groves of sweet dates [14]. Look at the fish trestles instead. Silver sea-tunny pile so thickly along the wooden benches that one Venice silver groat buys two huge fish outright, washed down with cool wine fermented from sugar, rice, or pressed dates [15]. Where fresh catches turn foul overnight beneath fierce sun, fishermen slice big fish into crisp pound-weight blocks. They cure the fillets hard on hot rock and stack savoury dried slabs like ship’s biscuit to eat all year round [16].
 
-If you stood in Kerman waiting for the customs to come in, you could feel someone making a decision at the harbour without ever seeing a sail. Polo makes a ruler’s dependence on the port almost as easy to see as the bales coming down a gangplank. Down by the sea there are dates and salt fish for ordinary people, and better things on the tables of the rich [20]. For everybody, the grain starts with a ship being allowed in.
+Stranger sights trot through Esher’s dusty alleys at dawn. Sheep nibble waste beside mud walls with zero outer ears—sporting two tiny neat horns squarely where ear-flaps ought to sit [17]. Stranger still looks the horse manger. Because parched stone yields neither grass nor clover—making this one of the driest shores on earth—coastal villages turn straight to the sea for fodder. Every March, April, and May, netters haul staggering shoals of tiny silvery fish up the shingle beach. They cure vast heaps in white sun-glare and feed them year-round as sole fodder to horses, oxen, and camels, watching tall steeds gobble live wriggling minnows straight off wet willow baskets [18]. After watching Aden hoist pampered warhorses onto Indian decks, picture costly desert stallions crunching sun-dried minnows beside the well while awaiting foreign buyers. Once the trade season closes, dhows weigh anchor and leave the beaches silent until the next monsoon returns.
 
-There is one bit of the Gulf that the Book almost passes over. It puts Kisi (Kish) five hundred miles west and north-west from Calatu and gives it no more description here [21]. Keep it in mind as one of the places a ship might have to do business, rather than a mark to fix the rest of the bearings by. Polo’s own numbers will carry us northward again from Calatu, three hundred miles this time, to a port whose ships we’ve already had occasion to look at [22].
+Five hundred miles onward up the coast stands Dufar (Dhofar), another brisk horse-shipping haven governed by a local count under Aden across many subject towns [19]. Climb behind town onto sun-bleached limestone hills where white incense actually grows, and a customs prince’s clean six-fold mark-up shrinks back to small knives in thorny bark. Trees scarcely taller than little European firs bleed pale fragrant sap wherever gatherers notch trunks—or drip white tears cleanly without a cut under blistering summer sun [20]. Gatherers scrape hardened pale gum off bark into wicker baskets and haul it down dusty mule-paths to coastal weighing sheds. Sixty gold livres chalked down at Esher wharf look far leaner beside hours spent scraping sticky resin drops off dry hillside dust. Even here along arid cliffs, horse-ships wait in the roadstead to trade Arabian chargers for Indian spices and fine cottons before the wind turns.
 
 ---
 
-At Hormos, keep an eye on the roofs. To a person who has just come ashore in the heat, a tall opening on the side of a house can look like a queer place to have left a window. The Book has the opening face the wind and draw it down inside [23]. A sailor at Aden needs a wind to get out of the place. Here the man who expects to stay for an afternoon wants to sit in it. Outside there is the same heat we heard about on the road from Kerman. The house makes something of it a person can live with.
+Six hundred miles further north-west—still on Marco’s crooked Gulf compass—opens the deep Gulf of Calatu (Qalhat), sheltering a steep walled sea-town [21]. Dry cliffs yield no grain here either, so harbour law compels every incoming merchant ship to stow wheat or barley in its hold just to keep town ovens warm [22]. No skipper enters the roadstead empty of bread-corn if he hopes to land silk or pepper. Spices landed across stone jetties climb inland by camel caravan toward Persian bazaars while Arab chargers step aboard ships bound for India [23]. Once again Marco pauses over India’s dying stables, blaming boiled-rice mash, cooked trash, and missing farriers for wasting high-priced Gulf stallions faster than dhows can replace them [24].
 
-Put your hand where the air comes down for a moment. A man who saw the opening from the street might know the direction of the breeze. Inside, somebody gets to decide whether the trick was worth the work of building it. The details that draw Polo’s eye to a port can be as small as the place a person goes to cool down, once everybody already knows that ships go there.
+Lift your eyes from Calatu’s grain sacks to its strong stone ramparts—genuine thirteenth-century towers, kilns, and crowded quarters traced by archaeologists today [25]. Whenever the Melic of Hormos (Old Hormuz, in the Minab area) clashes with his powerful inland overlord, the Soldan of Kerman (Kermān), he wastes no cavalry climbing steep Persian passes. Instead, the Melic steps calmly aboard his war-ships and crosses down-gulf to impregnable Calatu—or an even stronger unnamed sea-castle guarding the narrow mouth—and shuts the entire Gulf gate tight [26]. One naval blockade cuts Kerman’s treasury off from every silver dirham of Indian customs duty until the inland Soldan rides down to yield to his vassal’s terms. A port lord owning stout galleys needs no mountain castle when his anchors command the choke point of the sea. Watch how swiftly power shifts from saddle to keel once customs silver depends on open water.
 
-The Book says it comes round to Hormos again because the road taken on the way back was different from the road out [24]. There are sewn ships in the earlier account, with hides over the cargo and horses on top. Here the Book stops with the place itself. If you’ve been trying to keep the road in your head, you can now put a finger on the same place twice and be following one story each time. The earlier account makes you notice what a person has to stand on to go to sea with horses. This one leaves you looking at the houses of the people who stay.
+Ordinary townspeople at Calatu eat contentedly off sweet dates and salted fish while richer merchants buy finer imported fare [27]. Casting one lookout’s glance five hundred miles west-north-west from these headlands toward island-market Kisi (Kish), Marco leaves Kisi unvisited for now [28]. His coastal bearings sweep schematically round Arabia’s rim rather than across a surveyor’s chart [29].
 
-Set the ships aside for a moment and think about what a man first has to get in order to board one. Three men at Cambaluc (Beijing) are trying to work out how much longer they can ask the emperor to let them go home.
+---
+
+Three hundred miles north-northwest above Calatu, sails drop down beside familiar timber wharves at Hormos—a blistering coastal metropolis under Kerman where Volume One first watched shipwrights stitch hull planks with coconut-husk cordage [30]. Heat beats off the salt flats like an open bakery kiln. Walk down Hormos’s narrow alleys now, and Marco points your eyes away from harbour hulls straight up toward rooftop carpentry. Along the windward wall of nearly every stone house yawns a hooded plaster chimney-scoop turned squarely into the sea breeze. Those tall shafts draw cool moving air downward into stifling inner rooms—for without those clever rooftop wind-catchers, Marco vows flatly, no mortal soul could endure summer noon inside [31]. Imagine sitting in dim plaster shade while midday glare turns outer courtyards into shimmering white salt.
+
+Stand beneath one cool plaster breeze-shaft and feel two halves of an immense circle click neatly together. In Volume One, Marco brought you down from Kerman’s dusty passes to watch frail stitched planks load chargers onto Hormos surf while summer winds drove citizens neck-deep into stream water. Now coastal bearings from Zayton (Quanzhou) loop round India and Arabia onto that very same shingle beach, trading one road out for one salt-stained circuit back [32]. Look closely at what that closing harbour accomplishes for the whole Book. Volume Three’s ocean itinerary ends right where Volume One’s Persian desert road once reached salt water, leaving only the human story of how three Venetians actually talked their way onto those ships. Every compass bearing, customs ledger, and monsoon port along the Indian Ocean now closes into a single unbroken ring.
+
+Yet set the salt-caked astrolabe and plaster wind-catchers quietly aside before stepping ashore in Venice. Far back across the continent in silk robes at Cambaluc (Beijing), three weary Venetians stare quietly at sewn-in pockets heavy with rubies while watching an ageing emperor fade—wondering desperately how three prized foreign servants ever win leave to pass the palace gates and climb aboard ships for home. Remember that every harbour we just sailed past—from Zayton’s fir shipyards to Hormos’s salt flats—was first crossed by three Latins praying their ageing patron would sign their passports before it was too late.
 
 ---
 
 ## Notes
 
-[1] ✓ Aden’s role in trade between the Indian Ocean and the Red Sea is well attested. Yule cites Ibn Baṭṭūṭa on the port and on the Indian and Egyptian merchants who did business there [@yc, 3.36 n. 1].
+[1] ✓ Turning directly from the Abash–Aden highland conflict to Aden harbour links East African highland news cleanly onto Red Sea spice traffic [@yc, 3.35–36].
 
-[2] ~ Yule compares the route with Marino Sanudo’s account of goods moving from the sea towards the Nile. The exact landing and Polo’s seven- and thirty-day stages remain uncertain [@yc, 3.36 n. 1].
+[2] ✓ Aden’s anchorage functioned as the primary medieval transfer station between oceanic Indian shipping and Red Sea traffic; Yule cites Ibn Baṭṭūṭa’s contemporary witness [@yc, 3.36 n. 1].
 
-[3] ~ From Ramusio in Yule’s discussion. The longer passage and the references to the *zerms* and the *Calizene* canal occur in the version Yule quotes, which he suspects was revised [@yc, 3.36 n. 1].
+[3] ~ Seven days in small coastal boats north up the Red Sea represents Polo’s rough estimate for reaching transshipment ports such as ʿAydhāb or Quseir [@yc, 3.36 n. 1].
 
-[4] ~ In Yule’s quotation, Marino Sanudo puts one stage on camels and another on the Nile. He describes goods continuing from Cairo to Alexandria through a canal when the water is high, with timings that differ from Polo’s [@yc, 3.36 n. 1].
+[4] ~ Thirty days by camel across the Eastern Desert to the Nile and downstream barge carriage to Alexandria map the historical Kārimī spice route [@yc, 3.36 n. 1].
 
-[5] ✓ The Soldan is the Rasulid sovereign of Yemen. Yule gives Taʿizz as the seat of his government and treats Aden as the focus of Polo’s account of his revenues [@yc, 3.36 nn. 1–3].
+[5] ~ Ramusio-only. Longer Red Sea sailing estimates, light Arab *zerms*, and the *Calizene* canal enter Yule’s notes via Ramusio, whose revision Yule views cautiously [@yc, 3.36 n. 1].
 
-[6] ~ The traffic in fine horses to India was important, and the hundred marks is the Book’s estimate of what a good charger fetched. Yule’s discussion compares other accounts of the ruler’s income from the trade [@yc, 3.36 nn. 2–3].
+[6] ~ Yule prints Marino Sanudo’s contrasting logistics: direct camel portage, Nile navigation, and high-water transit through the Alexandria flood canal [@yc, 3.36 n. 1].
 
-[7] ? The Mamluks took Acre in 1291. Yule compares reports of aid summoned from elsewhere while treating the very large figures Polo assigns to the ruler of Aden with reservation [@yc, 3.36 n. 4].
+[7] ✓ Aden’s “Soldan” accurately names the Rasulid dynasty of Yemen, whose capital stood inland at Taʿizz while harbour tolls enriched the crown [@yc, 3.36 nn. 1–3].
 
-[8] ~ Esher is Ash-Shihr, on the coast of the Hadramawt. Yule locates the port, while the distance and bearing are given as they stand in the Book [@yc, 3.37 n. 1].
+[8] ✓ Charging dual harbour duties on incoming Indian spices and outgoing Arabian cavalry—including versatile *roncins* taking either pack or riding saddle—reflects Rasulid fiscal policy [@yc, 3.36 nn. 2–3].
 
-[9] ~ The Book credits the ruler with a monopoly and gives prices of ten and sixty for buying and selling. The frankincense economy is real, while the ratio is Polo’s account of how the ruler profits by it [@yc, 3.37 n. 2].
+[9] ~ Pricing fine Arabian chargers at a hundred silver marks or more in Indian ports matches Maabar cavalry valuations [@yc, 3.36 nn. 2–3; @yc, 3.17 n. 7].
 
-[10] ~ Dates, imported provisions and fish are the Book’s account of how the place eats. The pair of tuna for a Venetian groat is its measure of the local abundance [@yc, 3.37].
+[10] ? Aden’s alleged dispatch of 30,000 horsemen and 40,000 camels to the Mamluk siege of Acre in 1291 dramatises Muslim solidarity beyond documented numbers [@yc, 3.36 n. 4].
 
-[11] ~ Polo describes cutting large fish and drying the portions for storage. Yule compares another account of fish dried and eaten in pieces on the Arabian coast [@yc, 3.37 n. 5].
+[11] ~ Placing Esher (Ash-Shihr on the Hadramawt coast) four hundred miles north-west reflects Polo’s skewed Arab sea bearings beneath Aden’s overlordship [@yc, 3.37 n. 1].
 
-[12] ~ Yule cites accounts of short-eared sheep and sheep with a different form of horn. The Book gives the effect as having horns instead of ears [@yc, 3.37 n. 3].
+[12] ✓ Active Indian shipping and thriving Arabian horse exports out of Ash-Shihr are well attested [@yc, 3.37 n. 1].
 
-[13] ~ Yule compares reports of feeding fish to animals on arid coasts, including Ibn Baṭṭūṭa’s report from Dufar. The timing, universality and exclusive diet are claims of Polo’s account [@yc, 3.37 n. 4].
+[13] ~ Royal frankincense monopoly buying at ten gold livres per hundredweight and reselling at sixty illustrates Hadramawt price mark-ups [@yc, 3.37 n. 2].
 
-[14] ~ The trees that yield the resin are frankincense trees. Yule’s notes discuss the plants and the collection of resin, while the resemblance to a small fir is Polo’s description [@yc, 3.38 n. 2].
+[14] ~ Grain deficits supplied by sea rice beside abundant local dates fit arid southern Arabian coastal towns [@yc, 3.37].
 
-[15] ~ The town in the Book belongs to the incense-producing region of Dhofar, where more than one site has been proposed. The jurisdiction and horse traffic are given as Polo reports them [@yc, 3.38 n. 1].
+[15] ~ Abundant large tuna sold two per Venetian groat alongside rice-, sugar-, and date-wines captures port abundance [@yc, 3.37].
 
-[16] ~ The Book presents Calatu as an importer of grain and a distribution port for Indian goods. Yule’s later witness comparisons show the scale of coastal trade without establishing that every incoming vessel carried grain [@yc, 3.39 nn. 1–2].
+[16] ✓ Slicing large fish into pound-sized blocks cured hard in coastal sun for biscuit-like storage matches Yule’s Arabian shore parallels [@yc, 3.37 n. 5].
 
-[17] ~ Arab horses were exported to India in considerable numbers. The Book’s explanations of mortality are its own, and should be read beside the demand described in [Chapter III-5, “Maabar”](ch-05-maabar-st-thomas.md) [@yc, 3.39 n. 2; @yc, 3.17].
+[17] ~ Describing short-eared coastal sheep as sporting little horns in place of ears turns real breed variation into a traveller’s oddity [@yc, 3.37 n. 3].
 
-[18] ✓ The remains at Qalhat include late thirteenth-century walls, kilns and buildings. Yule’s sources connect the port with Hormos, and Rougeulle places its development in the same broad period as Polo’s account [@yc, 3.39 n. 1; @rougeulle2017qalhat].
+[18] ✓ Feeding livestock—horses, oxen, and camels—on dried small fish netted during March–May aligns closely with Ibn Baṭṭūṭa’s Dhofar observations cited by Yule [@yc, 3.37 n. 4].
 
-[19] ~ The loss of customs is the leverage Polo’s account gives the ruler of Hormos. Yule suggests Muscat for the unnamed stronger position, with the identification open [@yc, 3.39 n. 3].
+[19] ~ Dufar (Dhofar), placed five hundred miles further under Aden, exports Arab chargers to India across seasonal monsoon fleets [@yc, 3.38 n. 1].
 
-[20] ~ Dates and salt fish are staples in the Book’s account of the port. Polo distinguishes them from what the wealthier inhabitants can buy [@yc, 3.39].
+[20] ✓ Comparing frankincense trees to little firs notched with knives—and exuding natural summer drops under fierce sun—captures *Boswellia* resin harvesting [@yc, 3.38 n. 2].
 
-[21] ~ Kisi is Kish in the Gulf, already associated with its trade in the Persia chapters. The distance and direction from Calatu are the Book’s [@yc, 3.40 n. 3; @yc, 1.16].
+[21] ~ Positioning Calatu (Qalhat) inside its Gulf six hundred miles north-west continues Polo’s compressed directional line [@yc, 3.39 n. 1].
 
-[22] ~ The series of distances between the ports is schematic, and the repeated north-west bearings along Arabia should not be used to plot their relative positions. See [Map A16, the return route](../media/maps/A16-cocachin-return.pdf) [@yc, 3.37–40].
+[22] ~ Requiring incoming vessels to carry imported grain supplies a plausible fiscal rule for dry Omani harbours [@yc, 3.39 nn. 1–2].
 
-[23] ✓ Yule compares the wind-catchers with structures described in later accounts from the Gulf and elsewhere. The important detail in the Book is the passage that catches the breeze and leads it down into the interior [@yc, 3.40 n. 2].
+[23] ✓ Qalhat served as an active distribution harbour sending Indian spices inland while shipping Arabian cavalry east [@yc, 3.39 n. 2].
 
-[24] ? The Book says it mentions Hormos again because it used a different way to return. Its account of the port and Kerman in [Chapter I-7](../vol-1/ch-07-kerman-hormos.md) leaves the chronology and timing of any outward visit open [@yc, 3.40; @yc, 1.19].
+[24] ~ Repeating boiled-food mismanagement and scarce farriers cross-references Maabar’s cavalry attrition in [Chapter III-5](ch-05-maabar-st-thomas.md) [@yc, 3.39 n. 2; @yc, 3.17].
+
+[25] ✓ Archaeological excavations by Rougeulle confirm late thirteenth-century defensive ramparts, kilns, and dense urban quarters at Qalhat matching Hormuz rule [@yc, 3.39 n. 1; @rougeulle2017qalhat].
+
+[26] ~ Blockading the Gulf strait from Qalhat—plus an unnamed stronger sea fortress perhaps near Muscat—explains the Melik’s fiscal leverage over Kerman [@yc, 3.39 n. 3].
+
+[27] ~ Contrasting ordinary dates-and-salt-fish diets with aristocratic imports marks social lines inside the port [@yc, 3.39].
+
+[28] ~ Passing mention of Kisi (Kish Island) 500 miles WNW nods briefly back to an earlier Gulf emporium from Volume I [@yc, 3.40 n. 3; @yc, 1.16].
+
+[29] ~ Repeated north-west coastal bearings chart a rough narrative chain rather than surveyor’s compass lines; see [Map A16, the return route](../media/maps/A16-cocachin-return.pdf) [@yc, 3.37–40].
+
+[30] ✓ Returning 300 miles NNW closes the southern loop squarely at Hormos (Old Hormuz), already paired with sewn vessels in [Chapter I-7](../vol-1/ch-07-kerman-hormos.md) [@yc, 3.40 n. 1; @yc, 1.19].
+
+[31] ✓ Architectural rooftop wind-catchers (*bādgīr*) funneling summer breezes downward into hot rooms match enduring Persian Gulf cooling engineering cited by Yule [@yc, 3.40 n. 2].
+
+[32] ? Explaining this return visit through two distinct outbound-and-return journeys leaves unresolved whether Marco visited Hormos once or twice [@yc, 3.40; @yc, 1.19].

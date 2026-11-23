@@ -115,3 +115,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H5 (fish-fed livestock: Book's claim), H14 (Dhofar frankincense: UNESCO context only, S21-E10).
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 32 sequential claim-level `[n]` Notes, fixed `Kisi` name policy, and standardized Ramusio labels. Lint: `PASS E0 W0 (1,809 w · 2% verbatim · 0 quotes · 1 asides)`.

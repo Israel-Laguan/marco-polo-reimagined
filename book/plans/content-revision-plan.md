@@ -208,6 +208,25 @@ Targeted command from `book/`: `python3 tools/lint.py -v vol-2/ch-{07,08,15}-*.m
 | [I-11](../vol-1/ch-11-lop-tangut.md) | Provisions lead into the Lop crossing, its voices and desert travellers’ reports. The Notes separate Mogao, Chingintalas and the Great Wall debate. | 1,803 words, 2% Yule overlap, 0 errors, 0 warnings |
 | [I-12](../vol-1/ch-12-caracoron-tenduc.md) | A single chapter follows the ordered scenes from Caracoron and the cane to the moving household, the trade in musk and camlets, and the cranes at Chagannor. | 2,306 words, 1% Yule overlap, 0 errors, 0 warnings |
 
+**Completed Volume III rollout summary (2026-11-23)**
+
+All twelve Volume III chapters (`III-1`–`III-12`) were re-voiced to Voice Guide v3, claim-anchored with sequential `[n]` Notes, checked for `Ramusio-only.` / `Ramusio-only in part.` provenance, and verified across `II-15 → III-1 → … → III-12`. Targeted lint passes across all 40 chapters (`40/40 PASS`, `E0`; non-blocking `Caidu`/`Caindu` proximity warnings remain in `I-10`, `II-1`, `II-14`, `II-15`).
+
+| Chapter | Voice and Notes | Targeted lint |
+|---|---|---|
+| [III-1](../vol-3/ch-01-ships-chipangu.md) | Zayton fir shipyards, watertight bulkheads, and Chipangu gold/storms carried in 61 claim-level Notes with `A15` map and table. | 1,825 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-2](../vol-3/ch-02-chamba-java.md) | Chamba elephant tribute, Sondur/Condur, Locac, Pentan, and Java spices carried in 30 claim-level Notes (`U-2` Sogetu/Java handoffs preserved). | 1,835 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-3](../vol-3/ch-03-java-less-sumatra.md) | Java the Less kingdoms, five-month Samara camp, rhinoceros/unicorn, and sago carried in 31 Notes with `S-21` nuances and sappanwood table. | 1,818 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [III-4](../vol-3/ch-04-necuveran-seilan.md) | Necuveran, Angamanain, and Seilan ruby/Adam’s Peak/Sagamoni traditions carried in 32 claim-level Notes. | 1,811 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [III-5](../vol-3/ch-05-maabar-st-thomas.md) | Maabar pearl fisheries, Sonder Bandi Davar, Gulf warhorses, and St Thomas at Mailapur carried in 46 Notes with `A17` map. | 1,820 words, 5% Yule overlap, 0 errors, 0 warnings |
+| [III-6](../vol-3/ch-06-mutfili-kesmacoran.md) | Mutfili diamonds and Rudrama Devi charter, Lar Brahmans/yogis, Cail, Coilum, Melibar, Gozurat, and Kesmacoran in 45 Notes with `C10` chart. | 1,801 words, 4% Yule overlap, 0 errors, 0 warnings |
+| [III-7](../vol-3/ch-07-male-abash.md) | Male and Female, Scotra whaling, Madeigascar/Ruc, Zanghibar giraffe, and 1288 Abash bishop in 39 Notes. | 1,810 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [III-8](../vol-3/ch-08-aden-hormos.md) | Aden pepper/horse tolls, Esher frankincense and fish-fed horses, Dufar, Calatu blockade, and Hormos wind-catchers in 32 Notes. | 1,809 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [III-9](../vol-3/ch-09-cocachin-return.md) | Cocachin return from Cambaluc to Venice (1295) in 28 Notes with `A16` map, `C11` chart, comparison table, and `F-15`/`F-33` handoffs. | 1,801 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [III-10](../vol-3/ch-10-ca-polo-milione.md) | Ca’ Polo homecoming, *Milione*, musk suit, Donata/daughters, Cepoy/Pipino/d’Abano, and 1324 will in 34 Notes (`**[reception]**`). | 1,800 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-11](../vol-3/ch-11-afterlives.md) | Reception from 1375 Catalan Atlas and Columbus’s margins to 1995 Wood debate and 2024 Foligno codex in 37 Notes (`**[reception]**`, `B5` timeline). | 1,801 words, 4% Yule overlap, 0 errors, 0 warnings |
+| [III-12](../vol-3/ch-12-reliability-essay.md) | Closing reliability essay across 9 sections and 8-row evidence ledger in 39 claim-level Notes (`**[reception]**`). | 2,583 words, 1% Yule overlap, 0 errors, 0 warnings |
+
 I-2 passed targeted lint as found (1,893 words, 12% overlap, zero errors and warnings) and has its own completed v3 entry above. III-10, III-11 and III-12 follow their separate section plans.
 
 - **I-7 apparatus.** A4 resolves. The sewn-plank parallels have an uncertain original date (Note 20). C13 remains a media item and Canosalmi an unfixed site. The text attributes the abandoned sea plan to Yule and Haw (Note 27); the Book gives a change in narrative direction.

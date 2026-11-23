@@ -9,114 +9,128 @@
 
 ---
 
-Here is the first of the two islands off Kesmacoran (the Makran coast). The Book puts five hundred miles of sea between it and the mainland, and thirty more between it and its neighbour. At Male you’ll find the men and at Female the women. The Book’s islanders are Christian and keep a period of separation around childbirth which Polo attributes to the Old Testament [1]. The larger separation is set by the calendar. In March the men cross to the women, and at the end of May they go home to fish, work their land and trade. In the account, a boy stays with his mother until he’s fourteen. Then it’s his turn to make the crossing and be brought up among the men [2].
+Leave the mainland coast of Kesmacoran (the Makran coast) astern and steer five hundred miles straight south into empty blue swell. Out on open ocean rise two small sister islands lying barely thirty miles apart: Male and Female [1]. All inhabitants are baptized Christians keeping strict Old Testament purity rules. Whenever wives fall pregnant, husbands withdraw completely until forty days after childbirth, never approaching their beds before that appointed span closes [2]. Stranger still runs their yearly calendar. Men keep house alone upon Male for nine months while women tend fruit groves and raise small sons upon Female. Every March, husbands hoist lug-sails and cross thirty miles south to live with their wives through April and May. Come June, they sail back north to fish, farm, and trade. Boys stay beside their mothers until age fourteen, then cross permanently to grow up among men—leaving mothers to nurse small girls and gather orchard fruit while husbands supply every household store of meat, milk, and rice [3]. Picture those thirty miles of open channel crowded each spring with little husband-boats crossing south, then emptying again at June’s first monsoon puff.
 
-The things a sailor can bring away give the place a more familiar look. There is fish dried for sale and good ambergris [3]. The men have a bishop. The Book knows the name of the island where his archbishop lives, even if it offers little a pilot could use to find the two islands it has just described [4]. A story about people living apart can take you a surprisingly long way into the business of drying fish. The men have more to sell than they need to put by for their own households. If the buyer comes during those three months in the spring, he might have to think which island to make for first. In a place a listener can imagine buying supplies, it is easier to give the rest of the story an address. Yule finds plenty of addresses for it in other tellings. The Book leaves this pair at sea [5].
-
----
-
-At Scotra (Socotra) a trader finds salted fish, cotton cloth and ambergris again [6]. The size of the fish is worth a seller mentioning twice. Somebody with a ship to provision may have been glad to find that out before he heard anything to make him wonder whether he ought to set foot on the island.
-
-The Book gives the island an archbishop who answers to the head of the Eastern church at Baudas (Baghdad) [7]. Most people arriving by ship will have other business. The account puts ships on their way to Aden in here to trade for gold, and pirates land with things they know the islanders will buy [8]. A man offered a fine bolt of cloth could ask where it was woven. The seller would find the question of which ship it came off rather less convenient.
-
-Ramusio’s text has a hunt for whales. A small cask on a line marks where a whale struck by a dart has gone. The account takes the whale ashore, and there is oil to be got from its head [9]. When you see a piece of ambergris in a merchant’s hand, you may be a long way from knowing what animal it came from, much less where in that animal it formed. Ramusio has it in the stomach. It forms in the sperm whale’s intestines [10].
-
-Somebody on a ship whose business lies elsewhere might like to pass Scotra with a fair wind. Polo has heard that the islanders can bring up a contrary wind and make the ship turn back. The archbishop tries to put a stop to the business, and the reply in the Book is that their ancestors did it and they mean to keep doing it [11]. Outside the tale a man can wait for a wind to change. Inside it he may be better off finding a friend on land.
-
-Take what the Book calls Madeigascar (identified by Pelliot and Andreose with Mogadishu). Polo makes it an island about four thousand miles round. He gives its four elders government over the place and makes its people eat a prodigious number of camels. The merchants offer cloth of gold and silk and can do great business in ivory [12]. To make sense of that description it helps to put a finger inland from the coast where you could bring a camel or an elephant to market. Andreose sees a name for the mainland port beneath the various readings of the text [13].
-
-— Keep an eye on the names as they change hands. A man who has heard a port named aloud can point it out on a coast if he knows the coast. Put the name in a copy and leave the setting to somebody who knows only the copy and the place can acquire the sea all round it.
-
-Ships from Maabar (Coromandel Coast) reach this part of the world in twenty days in Polo’s account. Getting back takes them more than three months. He explains it by a current that always runs south. Beyond these coasts the same current makes him think there is no hope a ship will come back [14]. For a captain who needs his ship again next season, a quick passage out could be rather a poor recommendation. A bird has another way of getting there.
-
-The Book’s informants have seen a thing they call the Ruc. Think of an eagle and give it a spread of thirty paces from wingtip to wingtip. In their story it carries an elephant up in its talons and drops it where it means to have dinner [15]. The Book puts that bird beside the griffin of European pictures and wants us to see what a different creature the story has given it. Yule has much else to compare it with. There is a long way from a large bird, or an object held up as one of its feathers, to an explanation of the tale.
-
-The Great Kaan sends to enquire about those places and recover a detained envoy, in the Book [16]. Ramusio brings in a feather so big that the Kaan can give rich presents to the men who have brought it without ever asking them to go back and find him the bird. The feather is given as ninety spans long, with a quill two palms round [17]. Put two hands round your part of that very curious object and try asking the man beside you where he supposes the rest of the bird has been left.
+Ask a harbour purser rather than a romantic chronicler how those separated spouses paid their way, and solid freight steps straight onto the sand. Drying frames along Male pile high with large cured sea-fish alongside fine grey lumps of ambergris, enough to feed every family year round and still fill visiting traders’ holds [4]. Merchants call for dried fish and ambergris rather than tall tales of divided households. Both little islands obey a single bishop answering upward to the great archbishop of Scotra (Socotra), though the Book leaves pilots with no fixed harbour bearing [5]. Even a sailors’ yarn about divided marriages needs dried fish on deck before foreign skippers pay port anchorage. Henry Yule hunts across ancient Indian Ocean logs—probing everything from Abd al-Kūrī to the Maldives—without ever pinning these twin wonder-isles onto a real sea-chart [6].
 
 ---
 
-At Zanghibar (Zanzibar and the Swahili coast), there are two animals you could recognise from the account. One is a sheep with a white body and a black head [18]. The other is the giraffe. Polo gives it long forelegs and a neck that puts its little head about three paces above the ground. He makes its body slope towards the shorter hind legs, and has a nice eye for the spots. It’s worth looking again at the proportions he gives it when you think how little a reader at home could compare it with [19].
+Five hundred miles further south looms Scotra (Socotra), a rocky ocean crossroads smelling sharply of brine, resin, and salt-cured hides. Baptized Christian islanders walk bare like mainland Indians while trading woven cotton cloth, rich ambergris, and huge slabs of excellent salt fish over daily bowls of rice, flesh, and milk [7]. Their independent archbishop owes no duty to Rome, Marco notes carefully, looking eastward instead to the great patriarch presiding at Baudas (Baghdad), who rules bishops across these eastern seas much as Rome rules western Christendom [8].
 
-There is a great deal of ivory to buy, the Book says. Take its reckonings for wines as a man buying something to drink might, and you hear of dates, rice, spices and sugar [20]. Its estimate of the people themselves is a different affair. It treats the appearance of people the writer is thinking of from far away as a licence for abuse, although it has no trouble imagining a merchant who would want to trade with them [21].
+Look past church bells onto Scotra’s open anchorage, and brisk illicit traffic hums along the sand. Ships bound for Aden pause to buy cheap bullion gold. Meanwhile, bold corsair squadrons beach hulls openly to spread captured Muslim and pagan silks along market mats—eagerly purchased by island Christians with few awkward questions asked [9]. Out past the breaking surf, Ramusio’s harbour expansion stages a breathless whale hunt. Whalers hurl barbed iron harpoons whose hooks lock fast inside blubber, trailed on long coils tied to a floating cask (*bottesella*). Once the wounded whale bleeds out and drifts beside the bobbing buoy, small boats tow the massive carcass ashore. Crews render clear lamp-oil from the head and slice grey ambergris out of its stomach [10]. Modern marine science places ambergris formation cleanly inside the sperm whale’s lower intestine rather than its belly, likely coiled round undigested squid beaks [11].
 
-When the Book puts men in wooden fighting towers on elephants at Zanghibar, it gives them a way of going to battle much closer to what it has told us of India. It even has the elephants take wine to make them fierce before they start [22]. An elephant killed for ivory and an elephant with a wooden castle on its back ask very different things of the people who live beside it. We can keep the trade in sight while we ask where the Book got the fighting animal.
+Yet no skipper clears Scotra without respecting local superstition. Marco hears that Scotran elders rank among the most cunning weather-sorcerers on earth. Should any dishonest captain cheat an islander, enchanters raise fierce contrary gales out of clear sky to whip his escaping vessel right back into harbour. They brush aside their archbishop’s stern sermons because, they argue stoutly, their fathers stirred the wind that way before them, and darker spells go unspoken in a polite book [12].
 
 ---
 
-From the coast, follow the Book into Abash (Ethiopian highlands). This is Middle India in its reckoning. It assigns the country six kings, three Christian and three Muslim, and makes one of the Christian kings lord over them all [23]. It places the Christians’ hot-iron marks on the face, alongside the water of baptism. That is the Book’s explanation of what it has heard about the marks [24]. It gives Abash a previous visit from St Thomas on his way to Maabar, where the Book has already taken us to his shrine [25].
+Now the ocean steers a thousand miles south to Madeigascar (identified by Pelliot and Andreose with Mogadishu), pitched by the Book as a giant island measuring four thousand miles around [13]. Four Muslim elders (*esheks*) govern its crowded port wards. Townsmen slaughter camels in staggering numbers every week, swearing camel meat makes the wholesomest, tastiest roast on earth [14]. Beyond butcher booths, whole forests yield red sandalwood while coastal fishermen gather abundant whale and “Oil-head” ambergris alongside immense piles of elephant-tusk ivory traded keenly for cloth of gold and bright silks [15]. Leopards, bears, and lions prowl inland thickets.
 
-The king himself means to go to Jerusalem. The men around him persuade him to send a bishop in his place [26]. Go with the bishop to the Holy Sepulchre and see what he has taken all this way. There is an offering to make on behalf of the man who sent him, and he has to be able to tell that man what he saw once he gets back. The trouble starts on the way home. In the land the Book calls Aden, the ruler seizes him and demands that he change his religion. The bishop refuses. The ruler has him circumcised by force and sends him away with the insult meant for his king [27]. The man can survive the order and eventually travel on. For his king, who took care to send him in his stead, it will matter that the envoy has been let go to deliver the news in person.
+— Watch a single copied name twist an entire shoreline across medieval desks. When scribes garble one Somali coastal harbour spelling across three manuscripts, a bustling mainland trading port suddenly swells into a four-thousand-mile island anchored in southern waves [16].
 
-It’s an awkward story to tell in the right order when the king is delighted to see you. The bishop gives his account of the pilgrimage first. The king hears him out, then learns what happened on the way back. He declares he will give up his crown unless he avenges the bishop. The Book gets horse, foot and elephants together for him and sends them across a defended pass. He ravages the country for a month and takes his army home when it would have to go through narrower passes to get any farther [28]. He can come away saying what he has done. The people who live where he fought would have rather different news to take home.
+Ships sailing out from Maabar (Coromandel Coast) ride swift monsoon currents southward to these bays in barely twenty days, Marco observes, yet struggle over three gruelling months beating north against an unyielding current. Beyond these capes, mariners warn, that southbound torrent sweeps ships down into dark seas whence no hull ever claws home [17].
 
-The Book dates the affair 1288. Yule’s conjecture makes the king Yikunno Amlak, about a decade earlier, and puts the war in the African kingdom of Adal. Trimingham favours Yagbeʾa Ṣeyon for the king and gives the place as Adal too, with a qualification about depending on Polo [29]. There is a known Ethiopian embassy to Cairo in 1290. An envoy died at ʿAydhāb. Whether that envoy and the bishop in the Book had anything to do with each other remains open [30]. It is in the distance from the king’s vow to the place his troops reach that these questions matter. A name in an account of a war can take you to a very different shore from the same name in an account of a voyage.
+Out over those forbidden southern reefs wheels the Book’s grandest winged prodigy: the colossal bird islanders name the Ruc [18]. Forget European wall-hangings painting half-eagle, half-lion griffins, Marco warns firmly from his informants’ word. Shaped purely like a mountain-sized eagle spreading thirty paces from wingtip to wingtip, with thick quills twelve paces long, the Ruc dives onto grazing elephants. It sinks curved talons deep behind their shoulders, beats up into cloud, and drops heavy prey onto bare rock to smash before dining [19]. Curious for truth behind coastal tales, Cublay (Kublai) Kaan sent ambassadors south to recover a detained envoy and inspect those southern wonders [20]. Ramusio’s fuller court scene watches those envoys lay one single Ruc wing-feather before the emperor’s dais—measuring ninety spans long with a quill shaft two palms round. Older texts pair that feather with two fierce wild-boar tusks weighing over fourteen pounds apiece off beasts tall as great buffaloes, alongside giraffes and wild asses [21]. Wrap both hands round a shaft two palms thick and ask yourself what size bird dropped it off the masthead.
 
-There are things to buy in the towns of Abash. The Book gives them merchants who can sell a fine cotton buckram, and puts sesame, rice, milk and meat on their tables [31].
+---
 
-Next come to the Arabian port of Aden itself and watch a sack of pepper change ships.
+Swing past Madeigascar into Zanghibar (Zanzibar and the Swahili coast), pitched at two thousand miles around under its own independent king [22]. Marco’s coastal portrait mixes sharp animal eyes with ugly racial caricature borrowed from medieval travel convention. He paints dark, crisp-haired townsfolk with the strength of four men and appetites for five [23]. Turn thankfully toward pastures and wharves instead. Zanghibar herds distinctive white-bodied sheep crowned cleanly with pitch-black heads seen nowhere else [24]. Its ports load ships with heavy elephant ivory and whale ambergris, while folk live on rice, dates, meat, milk, and sweet fermented spice-and-sugar wines [25].
+
+Best of all stands Marco’s quiet roadside sketch of the giraffe. Its short body slopes steeply downward toward brief hind legs, balanced by towering forelegs and a slender long neck. Above those shoulders, a gentle little red-and-white spotted head rises three paces high in the air [26]. Set those cool proportions beside European bestiary guesses, and you hear a crisp observer’s eye cutting straight through hearsay. Less reliable sits Zanghibar’s battlefield picture. Bare warriors ride camels and elephants crowned with tall wooden castles holding ten to sixteen fighters armed with lances, swords, and stones. First, grooms dose each beast with wine to stir battle fury—handing African elephants an Indian war-role that Masʿūdī explicitly denied [27].
+
+Before swinging north out of eastern seas, Marco pauses to count the whole charted ocean on mariners’ rolls: 12,700 inhabited and desert islands washing across India’s sea, ringed by thirteen mainland kingdoms of India the Greater from Maabar to Kesmacoran and eight mainland kingdoms of India the Lesser between Chamba (Champa) and Mutfili (Motupalli) [28].
+
+---
+
+Step ashore at last upon the cool plateau of Abash (Ethiopian highlands), which the Book honours as Middle India [29]. Six sovereign kings rule these high plains—three Christian and three Muslim—under one supreme Christian monarch holding court in the mountainous centre while his Saracen vassals guard lower eastern marches [30].
+
+Walk through an Abash market town and note every neighbour’s brow marked cleanly beside the font. Christian subjects carry three hot-iron scars—one running straight from forehead down to mid-nose, one branding each cheek—as a solemn mark of noble birth completing baptism by water. Jewish subjects carry two cheek scars, Muslims one crisp line descending from brow toward the nose [31]. Long ago, priests remind visitors proudly, Messer St Thomas preached through these valleys and won their fathers to Christ before crossing the ocean to his martyrdom in Maabar [32].
+
+Yet the chapter’s beating heart thuds in 1288 round a wounded bishop trudging home from Jerusalem [33]. Determined to kneel at the Holy Sepulchre, Abash’s Christian sovereign bowed to anxious barons who feared hostile borderlands, dispatching a holy bishop of spotless life in his royal stead to lay rich offerings beside the tomb [34]. Coming down safely from Jerusalem, the aged prelate marched homeward straight through the hostile territory of Aden, where Christians were hated unto death. Dragged before Aden’s fierce Soldan and ordered to renounce Christ for Islam, the bishop answered stoutly that guards might hack him to pieces before he betrayed his Maker. Burning with insult meant directly for his Christian king, the Soldan ordered soldiers to circumcise the old bishop by force and turned him bleeding onto the desert track [35].
+
+Think of that bitter return inside the highland palace. First the scarred prelate knelt gladly to recount every stone he beheld inside Jerusalem’s walls while his king listened in pious reverence. Then he dropped his voice and showed Aden’s cruel outrage. Nearly choked with rage and grief, the Christian king swore aloud before every court baron never to wear golden crown or govern kingdom again unless his swords shook Aden to the sea [36]. Mounted squadrons, foot archers, and castle-bearing elephants poured down guarded border passes against three Muslim kings. They shattered their frontier lines, ravaged towns and plains across an entire month of fire and vengeance, and slew vast numbers of the Soldan’s host. Only when treacherous narrow mountain defiles blocked the advance—passes where a handful of men might ambush an army—did the victorious king turn his elephants homeward [37].
+
+— Lay chronicles outside Marco’s border drama on your table, and names shift subtly. Yule picked King Yikunno Amlak fighting Adal roughly a decade earlier, while Trimingham favoured Yagbeʾa Ṣeyon reigning 1285–94 beside Adal—whereas Ibn ʿAbd al-Ẓāhir’s Arabic court chronicle independently records a genuine Ethiopian embassy to Cairo in 1290 whose royal envoy died en route at ʿAydhāb, leaving the true connection tantalisingly open [38].
+
+Beyond steel and bugles, Abash settles back into honest trade across crowded markets. Farmers and weavers harvest sesame, rice, milk, donkey-tall ostriches, parrots, giraffes, and fine woven cotton buckram, alongside baboons and monkeys with all-but-human faces [39]. Pack-trains carry those woven cottons and hides down toward Red Sea ports before the monsoon shifts. Step down out of those breezy highlands straight onto Aden’s blistering harbour apron—where a single sack of Indian pepper shifts ships twice before reaching Alexandria.
 
 ---
 
 ## Notes
 
-[1] ~ The bearings, distances and observance around childbirth are the Book’s. Yule discusses places that later readers associated with the pair without finding islands in the position described [@yc, 3.31 n. 1].
+[1] ~ Placing Male and Female five hundred miles south of Kesmacoran and thirty miles apart follows mariner legend without matching real hydrography [@yc, 3.31 n. 1].
 
-[2] ~ The three months together and the age of fourteen for a boy’s crossing are given in the story. Yule compares other versions of people who are said to live on separate islands [@yc, 3.31 n. 1].
+[2] ~ Baptism combined with a forty-day postpartum separation echoes Mosaic purification motifs woven into sailors’ stories of distant Christian islands [@yc, 3.31 n. 1].
 
-[3] ~ Ambergris and dried fish are commodities in the account. Polo makes fish available for sale as well as local consumption [@yc, 3.31].
+[3] ~ Crossing for March, April, and May and sending boys at fourteen to join fathers on Male preserves an ancient island separation tale [@yc, 3.31 n. 1].
 
-[4] ? The bishop’s connection to Scotra is a concrete detail of the story. Yule thinks that islands known in the region may have been associated with the tale over time [@yc, 3.31 n. 1].
+[4] ~ Dried sea-fish and ambergris traded to visiting merchant hulls anchor the legend in familiar western Indian Ocean commodities [@yc, 3.31].
 
-[5] ? Yule reviews locations proposed for the story, including Abdul Kuri and the Kuria Muria group. The descriptions of the Maldives and the islands near Scotra supply distinct evidence, and the pair as described remains unidentified [@yc, 3.31 n. 1].
+[5] ? Naming a local bishop under Scotra’s archbishop gives the myth an ecclesiastical anchor within Eastern Church geography [@yc, 3.31 n. 1].
 
-[6] ~ Salt fish, cloth and ambergris are goods in the Book’s description of Scotra. The account of where ambergris comes from is treated in Note 10 [@yc, 3.32].
+[6] ? Yule reviews proposals from the Maldives and Kuria Muria to Abd al-Kūrī without locating any historical twin-island society [@yc, 3.31 n. 1].
 
-[7] ~ Polo describes an archbishop in touch with the Eastern hierarchy at Baudas. Yule discusses the older record of Christianity on the island and the various accounts of that hierarchy [@yc, 3.32 nn. 2–3].
+[7] ✓ Baptized Christian islanders trading cotton, ambergris, rice, and large salt fish align accurately with medieval Scotra (Socotra) [@yc, 3.32].
 
-[8] ~ The trade in gold and the sale of stolen cargo are parts of the Book’s account. Yule’s witnesses give context for the island’s place on shipping routes [@yc, 3.32 nn. 2–3].
+[8] ✓ Submitting to an Eastern archbishop dependent on the Catholicos at Baudas (Baghdad) accurately preserves Church of the East jurisdiction on Socotra [@yc, 3.32 nn. 2–3].
 
-[9] ~ Ramusio-only. The printed wording retold here has a small floating cask, *bottesella*, and oil from the head. The Zelada transcription discussed by Burgio and Fornasiero describes multiple little casks and boards [@ramusio1559navigationi, vol. 2, fol. 57v; @burgio2011terzo, p. 133 nn. 19–20; @yc, 3.32 n. 1].
+[9] ~ Hosting ships bound for Aden alongside brazen corsair fence-sales captures Socotra’s ambiguous crossroads along Gulf sea-lanes [@yc, 3.32 nn. 2–3].
 
-[10] ✓ The sperm whale’s intestine is the source of ambergris. The paper proposes irritation from cephalopod beaks as a possible mechanism [@brito2016ambergris, abstract].
+[10] ~ Ramusio-only. Barbed iron whaling harpoons trailed with a floating *bottesella* cask, head oil, and belly ambergris enter Yule from Ramusio; Burgio and Fornasiero contrast Zelada’s phrasing of multiple casks and boards [@ramusio1559navigationi, vol. 2, fol. 57v; @burgio2011terzo, p. 133 nn. 19–20; @yc, 3.32 n. 1].
 
-[11] ~ In the Book the archbishop opposes the conjuring up of contrary winds. Yule compares later stories of an island reputation for such practices [@yc, 3.32 n. 4].
+[11] ✓ Sperm-whale intestines, not stomachs, produce ambergris, likely formed around irritating squid beaks as Brito notes [@brito2016ambergris, abstract].
 
-[12] ~ The Big Island, its four elders, its camels and the ivory trade are the Book’s account. Yule compares Ibn Baṭṭūṭa’s report of the slaughter of camels at the mainland port and gives separate evidence for elders at Brava [@yc, 3.33 n. 1].
+[12] ~ Claiming island elders raise storms to force cheating skippers back into port blends coastal reputation for magic with local ancestral pride [@yc, 3.32 n. 4].
 
-[13] ~ Andreose argues for Mogadishu and a corruption of the name. He notes *Mogdaxo* in Zelada, *Madaschor* in V, and *Mogclasio* in F’s index, which he interprets as a misreading of *Mogdasio*. Pelliot likewise chooses Mogadishu [@andreose2024textual, pp. 76–77; @pelliot1959notes, vol. 2, pp. 779–781].
+[13] ✗ Expanding Madeigascar into a four-thousand-mile ocean island conflates mainland East Africa with huge island estimates [@yc, 3.33 n. 1].
 
-[14] ~ The outward and return durations are the Book’s. Yule compares accounts of southerly currents along the African coast. The claim of one direction at all seasons belongs to Polo’s explanation [@yc, 3.33 n. 4].
+[14] ~ Governing by four elders (*shaykhs*) and daily camel slaughter match Ibn Baṭṭūṭa’s Mogadishu customs and Brava’s elder council in Yule [@yc, 3.33 n. 1].
 
-[15] ~ The size and the elephant carried away belong to the reported Ruc story. Yule traces comparisons with other tales of enormous birds. They leave the development and transmission of this one open [@yc, 3.33 n. 5].
+[15] ~ Red sandalwood groves, whale and “Oil-head” ambergris, heavy ivory trade, and silk-and-gold imports match East African coastal ports [@yc, 3.33 nn. 2–3].
 
-[16] ? The Book connects a mission of enquiry with efforts to release a detained envoy. The account leaves the historical identification and outcome of the missions uncertain [@yc, 3.33].
+[16] ✓ Andreose demonstrates how Zelada’s *Mogdaxo*, V’s *Madaschor*, and F’s *Mogclasio* reveal copying corruption from Mogadishu (*Mogdasio*), confirming Pelliot’s identification [@andreose2024textual, pp. 76–77; @pelliot1959notes, vol. 2, pp. 779–781].
 
-[17] ~ Ramusio-only. Yule brackets the presentation of the feather and the emperor’s rewards. The dimensions are the ones claimed in that text [@yc, 3.33 n. 6].
+[17] ~ Contrasting twenty-day southbound runs from Maabar against three-month returns records the fierce Agulhas/Somali southern drift magnified into a point of no return [@yc, 3.33 n. 4].
 
-[18] ✓ Yule compares reports of white-bodied, black-headed sheep in the region. The absence of any other kinds is Polo’s claim [@yc, 3.34 n. 2].
+[18] ◇ Giant elephant-lifting eagles called *Ruc* replace European half-lion griffins with Arab *rukhkh* seafaring legends assembled by Yule [@yc, 3.33 n. 5].
 
-[19] ✓ The Book gives recognisable proportions for a giraffe. Yule comments on the accuracy of the physical description [@yc, 3.34 n. 3].
+[19] ◇ Thirty-pace wingspans, twelve-pace quills, and dropping elephants to smash on rocks belong strictly to sailors’ giant-bird folklore [@yc, 3.33 n. 5].
 
-[20] ~ The staples, drink and ivory are the Book’s trade and diet report. Yule discusses trade along the East African coast [@yc, 3.34 n. 4].
+[20] ? Sending Yuan missions southward to gather island curiosities and free a detained envoy remains unconfirmed in court annals [@yc, 3.33].
 
-[21] ✗ Polo’s island description applies a coastal name to a place of fabulous extent. The descriptions of its people carry the writer’s prejudices [@yc, 3.34 n. 1].
+[21] ~ Ramusio-only in part. Ramusio inserts the ninety-span, two-palm feather carried to Cublay, while base texts supply the fourteen-pound tusks off buffalo-sized boars [@yc, 3.33 n. 6].
 
-[22] ✗ The account of mounted warriors and fighting towers gives African elephants an Indian role. Yule contrasts what Masʿūdī says about elephants on the coast and their lack of domestic use there [@yc, 3.34 n. 5].
+[22] ✗ Two-thousand-mile extent for Zanghibar turns Swahili coastal trading zones into an oversized island continent [@yc, 3.34 n. 1].
 
-[23] ~ The kings and their relations are arranged as the Book tells them. Middle India is its name for Abash, and Yule compares similar geographical language in other writers [@yc, 3.35 n. 1].
+[23] ✗ Giant proportions and grotesque physical caricatures reflect hostile medieval racial tropes rather than honest observation [@yc, 3.34 n. 1].
 
-[24] ? Yule records differing accounts of the practice and a denial that branding formed part of baptism. The Book’s religious explanation is its own [@yc, 3.35 n. 2].
+[24] ✓ Black-headed white fat-tailed sheep accurately match distinctive Somali/East African coastal breeds noted by Yule [@yc, 3.34 n. 2].
 
-[25] ~ The preaching in Abash extends the story of Thomas back from the shrine in Maabar. Both links are part of the Book’s account of the saint [@yc, 3.35; @yc, 3.18].
+[25] ✓ Abundant ivory trade, ambergris, and fermented drinks from dates, rice, spices, and sugar reflect Swahili coast staples [@yc, 3.34 n. 4].
 
-[26] ~ The Book has the king agree to send a prelate to the Holy Sepulchre in his stead. The visit and the presentation of the offering are given in the story [@yc, 3.35].
+[26] ✓ Long neck, tall forelegs, sloping back, red-and-white circular spots, and three-pace head height give an accurate eyewitness-level giraffe sketch [@yc, 3.34 n. 3].
 
-[27] ? The threat and forced circumcision are the Book’s account of the insult. The chronicle of the embassy discussed in the later Note supplies no confirmation of them [@yc, 3.35 n. 5; @loiseau2019hati, pp. 642–643].
+[27] ✗ Mounting fighting castles on wine-drunk war elephants transfers Indian military habits to Africa; Yule notes Masʿūdī explicitly denied elephant domestication there [@yc, 3.34 n. 5].
 
-[28] ~ The deployment of war elephants, battles at passes and month’s ravaging are the Book’s account. Yule treats the elephants with reserve [@yc, 3.35 nn. 4–5].
+[28] ~ Counting 12,700 Indian islands, thirteen Greater India kingdoms, and eight Lesser India kingdoms frames Marco’s whole Asian sea map [@yc, 3.34 nn. 6–7].
 
-[29] ? Yule proposes Yikunno Amlak and Adal. Trimingham reads the place as Adal and proposes Yagbeʾa Ṣeyon, reigning in 1285–94, with reliance on the Book conditional [@yc, 3.35 n. 5; @trimingham1952islam, pp. 69–70].
+[29] ✓ Calling Abash (Ethiopian highlands) Middle India reflects standard medieval geographic division across three Indias [@yc, 3.35 n. 1].
 
-[30] ? The embassy and the envoy’s death at ʿAydhāb appear in Ibn ʿAbd al-Ẓāhir’s chronicle (*Tashrīf al-ayyām*, Cairo 1961, pp. 170–173). Loiseau discusses the embassy, and the identification of the envoy with Polo’s bishop remains uncertain [@loiseau2019hati, pp. 642–643, 652–653].
+[30] ~ Pairing three Christian kings with three Muslim vassal kings beneath one central Christian sovereign sketches medieval Solomonic–Adal highland politics [@yc, 3.35 n. 1].
 
-[31] ~ Polo names foods and cotton cloth among the products of Abash. He returns to trade in the towns at the end of the chapter [@yc, 3.35].
+[31] ? Attributing three facial hot-iron marks to Christian baptism—beside two marks for Jews and one for Muslims—misreads Ethiopian scarification traditions [@yc, 3.35 n. 2].
+
+[32] ~ Crediting St Thomas with preaching in Abash before crossing to Maabar bridges African Christianity neatly back to the Mylapore shrine [@yc, 3.35; @yc, 3.18].
+
+[33] ? Anchoring the Abash war episode precisely to 1288 sets a crisp chronological claim unverified outside Polo [@yc, 3.35 n. 5].
+
+[34] ~ Persuading the king to send a bishop rather than risk an overland pilgrimage to Jerusalem introduces the diplomatic insult tale [@yc, 3.35].
+
+[35] ? Forced circumcision by the Soldan of Aden in spite to the king stands unconfirmed in contemporary Muslim or Christian chronicles [@yc, 3.35 n. 5; @loiseau2019hati, pp. 642–643].
+
+[36] ~ Swearing off crown and kingdom until vengeance fell upon Aden renders royal outrage in high chivalric speech [@yc, 3.35].
+
+[37] ~ Victory at a frontier pass, war-elephant castles, and a month of devastation halting before narrow defiles remain uncorroborated battle drama [@yc, 3.35 nn. 4–5].
+
+[38] ? Yule suggested Yikunno Amlak fighting Adal earlier; Trimingham proposes Yagbeʾa Ṣeyon (r. 1285–94) cautiously; meanwhile Ibn ʿAbd al-Ẓāhir logs an actual 1290 Cairo embassy whose envoy died at ʿAydhāb, studied by Loiseau [@yc, 3.35 n. 5; @trimingham1952islam, pp. 69–70; @loiseau2019hati, pp. 642–643, 652–653].
+
+[39] ~ Sesame, rice, ass-sized ostriches, giraffes, and fine cotton buckram end the Abash chapter on abundant highland trade goods [@yc, 3.35].

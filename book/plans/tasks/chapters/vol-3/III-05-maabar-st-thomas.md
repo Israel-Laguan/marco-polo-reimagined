@@ -117,3 +117,7 @@ _Created after the gating spikes close. Expected shapes:_
 ## S-21 source handoff
 
 S-21 closed 2026-11-13 ([closure](../../../research/results/S-21-closure.md)). Apply in this file's chapter tasks: H5, H9. **Draft conflict (fixed 2026-11-17; re-voice must keep the fix):** the aside at `vol-3/ch-05-maabar-st-thomas.md:29` says “Breeding failure in South India is independently corroborated”; attribute or cut. Shark-charmers: Book's account; optional later history per H9 (hereditary, government-paid; Tennent 1859; abolished mid-1880s per Kunz 1908 and Smith 1912; Fernando’s 1856 and Ostroff’s qualified report of no charmers employed after 1859 may be attributed in a Note only; Ostroff does not explicitly say state employment). S21-E34–E37.
+
+## W4 audit (2026-11-23)
+
+Re-voiced to Voice Guide v3, split stacked Notes to 46 sequential claim-level `[n]` Notes, standardized Ramusio labels, and preserved `A17-book-and-coast.svg`. Lint: `PASS E0 W0 (1,820 w · 5% verbatim · 2 quotes · 1 asides)`.
