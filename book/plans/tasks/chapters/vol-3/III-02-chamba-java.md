@@ -1,10 +1,12 @@
 # III-02 — Chamba, Java, Locac, Pentam: The Southern Ocean Road
 
-**File:** `vol-3/ch-02-chamba-java.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-02-chamba-java.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 1,814 | 46% | [R/M] | issues: Note [13] placeholder; Notes [4]–[6] overlap | no |
+
+**W4 voice pass (2026-11-23).** 1,810 words, 3% Yule overlap, zero errors and warnings. Notes 6–7, 18–20 and 26 carry F-51, F-52 and F-43. Notes 15–16 distinguish the Book’s spice list from the market comparison.
 
 ## Backlog (from critique; not yet tasks)
 

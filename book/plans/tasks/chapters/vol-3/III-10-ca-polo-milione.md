@@ -2,11 +2,13 @@
 
 **2026-11-16 partial correction:** The manuscript and Note [8] now identify Bellela’s husband as Bertuccio Querini, attributing the 1326–27 evidence through Bolognari and flagging Gallo/primary acts as unseen. The original critical/factual tasks, exact death-date question and re-voice remain open. The earlier backlog language below that calls the husband unknown is superseded. See [intake](../../../research/results/S-15-priority-return-2026-11-16-intake.md).
 
-**File:** `vol-3/ch-10-ca-polo-milione.md` · **Status:** backlog · **Kind:** narrative (reception)
+**File:** `vol-3/ch-10-ca-polo-milione.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative (reception)
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,373 | 36% | — (missing; README "[reception]") | issues: stray **[V]** in Note [1] | **yes** (> 3,200) |
+
+**W4 voice pass (2026-11-23).** 2,324 words, 3% Yule overlap, zero errors and warnings. Notes 10–13, 17, 24–30 preserve the qualified household, translation, death and inventory handoffs.
 
 ## Backlog (from critique; not yet tasks)
 

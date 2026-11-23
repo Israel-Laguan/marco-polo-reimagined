@@ -1,6 +1,8 @@
 # II-05 — Ahmad the Bailo, Paper Money, Posts, Coal, and Charity
 
-**File:** `vol-2/ch-05-ahmad-paper-coal.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-05-ahmad-paper-coal.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 40 sequential Notes. Targeted lint: 1,890 words, 1% Yule overlap, 0 errors, 0 warnings. Former Note 7 is now Notes 8 and 11–12. Coal and its Ramusio bath context are Notes 30–31. The former Note 24 was dissolved into claim-level Notes.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

@@ -1,10 +1,12 @@
 # III-06 — Mutfili to Kesmacoran: Diamonds, Brahmans, and the Westward Shore
 
-**File:** `vol-3/ch-06-mutfili-kesmacoran.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-06-mutfili-kesmacoran.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,675 | 63% | [R] | issues: placeholder Notes [9], [13], [20]; mixed ★/◇ in [4] | **yes** (> 3,200) |
+
+**W4 voice pass (2026-11-23).** 1,976 words, 4% Yule overlap, zero errors and warnings. Notes 2 and 14–15 carry the F-31 and F-61 handoffs. Notes 28, 31, 33 and 40 trace the reported Pole Star sightings for C10.
 
 ## Backlog (from critique; not yet tasks)
 

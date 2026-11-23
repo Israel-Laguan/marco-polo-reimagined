@@ -1,10 +1,12 @@
 # III-01 — Ships of Manzi and the Island of Chipangu
 
-**File:** `vol-3/ch-01-ships-chipangu.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-01-ships-chipangu.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,294 | 48% | [R] | ok (15/15, sequential) | no |
+
+**W4 voice pass (2026-11-23).** 1,852 words, 3% Yule overlap, zero errors and warnings. Note 4 carries F-14. Notes 20–22 separate the campaign accounts and Takashima evidence, and Notes 28–29 retain the order of the Sea of Chin admission and Ramusio’s gulf.
 
 ## Backlog (from critique; not yet tasks)
 

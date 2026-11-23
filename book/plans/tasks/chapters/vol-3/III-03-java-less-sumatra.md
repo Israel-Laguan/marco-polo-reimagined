@@ -1,6 +1,8 @@
 # III-03 — Java the Less: Ferlec to Fansur — Sumatran Kingdoms
 
-**File:** `vol-3/ch-03-java-less-sumatra.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-03-java-less-sumatra.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 27 sequential Notes. Targeted lint: 1,830 words, 2% overlap, 0 errors, 0 warnings. Notes 7–9 address the rhinoceros and the different witness details. Notes 11–16 separate the wait, camp reports and food. See W4 for the companion issues.
 
 > **2026-11-17 source correction:** The historical critique below incorrectly treats all Samara camp details as Ramusio-only. F and V include wooden defences; Z also gives the 2,000 men and ditches. Apply the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) before T2–T5. The coconut comparison's distribution remains unverified.
 

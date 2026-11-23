@@ -1,12 +1,14 @@
 # I-12 — Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords
 
-**File:** `vol-1/ch-12-caracoron-tenduc.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-12-caracoron-tenduc.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 **U-1A (2026-11-17):** the funeral passage and Notes 12–13 now attribute Yule's report instead of treating Rashid as direct confirmation; Möngke's 20,000 and the sacrifices' timing remain open. Preserve these limits in re-voice; see the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,037 | 16% | — (n/a in Vol. I) | ok; [3] and [13] duplicates | no (S-07: stays one chapter) |
+
+**W4 voice pass (2026-11-23).** A single chapter follows the ordered scenes from Caracoron and the cane to the moving household, the trade in musk and camlets, and the cranes at Chagannor. Targeted lint: 2,306 words, 1% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–50.
 
 ## Backlog (from critique; not yet tasks)
 

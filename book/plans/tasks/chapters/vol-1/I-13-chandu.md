@@ -1,10 +1,12 @@
 # I-13 — Chandu: Bamboo Palace, White Horses, Bacsi and Sensin
 
-**File:** `vol-1/ch-13-chandu.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-13-chandu.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,576 | 58% | — (n/a in Vol. I) | ok; [5] ★ marker; [8] and [10] empty | no |
+
+**W4 voice pass (2026-11-23).** 1,816 words, 2% Yule overlap, zero errors and warnings. Notes 6–10 give witness scope for the cane palace and correct Palladius’s placement of the Palm Hall. Note 11 carries the C17 comparison.
 
 ## Backlog (from critique; not yet tasks)
 

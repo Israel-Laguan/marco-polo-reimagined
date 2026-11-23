@@ -1,10 +1,12 @@
 # III-08 — Aden, Esher, Dufar, Calatu, Hormos Again
 
-**File:** `vol-3/ch-08-aden-hormos.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-08-aden-hormos.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,080 | 64% | — (missing; outline gives [R/M]) | ok (21/21) | no |
+
+**W4 voice pass (2026-11-23).** 1,813 words, 3% Yule overlap, zero errors and warnings. Notes 3–4 distinguish Ramusio’s canal detail from Sanudo’s stages. Notes 18–19 carry the Calatu archaeology and unresolved refuge handoff.
 
 ## Backlog (from critique; not yet tasks)
 

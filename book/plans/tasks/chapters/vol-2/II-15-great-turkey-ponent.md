@@ -1,6 +1,8 @@
 # II-15 — Great Turkey, Caidu's Daughter, and the Wars of the Ponent
 
-**File:** `vol-2/ch-15-great-turkey-ponent.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-15-great-turkey-ponent.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** The voice pass and chapter apparatus edit are in the manuscript, with 30 sequential Notes. Targeted lint: 1,833 words, 2% Yule overlap, 0 errors, 1 reviewed name-similarity warning (Caidu/Caindu). The former Nomogan Note 3 is now Notes 4 and 6. The corrected succession is in Notes 15 and 17–18, and the Book’s Terek outcome and the historical one are Notes 29 and 30.
 
 **U-1A (2026-11-17):** the Nomoghan passage and Note 3 now distinguish Polo's two battles from the later capture; its identification with the second battle is unresolved, and Pelliot's objection to Yule is attributed. See the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md); preserve these distinctions in re-voice.
 

@@ -8,114 +8,124 @@
 
 ---
 
-Marco Polo opens the second volume with Cublay Kaan (Qubilai / Kublai), the lord of Cambaluc (Khanbaliq / Beijing) and of lands without a known equal. The title *Kaan* means Great Lord or Emperor, and Polo gives Cublay the lineage to match it: he is descended from Chinghis Kaan (Chinggis Khan), the founder of Mongol imperial rule. The Ordo of Victory has moved from the summer court of Chandu (Shangdu) to the man who holds it. [1]
+Leave the summer park at Chandu (Shangdu) and follow the man who can have its ropes pulled up whenever he wishes. Cublay Kaan (Kublai) has a capital at Cambaluc (Beijing), and a title that makes the scale of his claim clear before he says a word. A Kaan is a lord of lords. The Book sets out to make the case that no other ruler has had so much land, treasure and power at his disposal [1]. Start with the part a man can claim by being born into the right family. Then see what happens when another man from the same family comes to claim it.
 
-See [the map of Kublai’s realm and its Nayan inset, II-F2](front-02-maps-cathay-manzi.md#map-of-kublais-realm).
+See [the map of imperial realm and its Nayan inset, II-F2](front-02-maps-cathay-manzi.md#map-of-kublais-realm).
 
-Polo calls Cublay the sixth lord of the line and makes him forty-three when he first takes the throne in 1256, then eighty-five and reigning forty-two years in 1298. The schedule is shaky. Cublay was proclaimed Kaan in 1260, after Mongou (Möngke)’s death, and the succession had Ariq Böke as well as Cublay to settle; he was the fifth Supreme Kaan, and he died in February 1294. The Book’s age and reign figures belong to its prison-house composition, not a consistent imperial chronology. Its numbers tell a listener how immense Cublay’s reign seemed; they are not a reliable set of dates. [2]
+By Polo's reckoning the empire came to Cublay in 1256, when he was forty-three. The Book still has him reigning in the year of the prison, 1298. He was proclaimed in 1260, while a rival claim was being made by his brother Ariq Böke, and died in February 1294 [2]. Keep that difference in mind when the Book tells us how often he went to war. In its telling, only one campaign after his accession was serious enough to take him into the field himself [3].
 
-For the rest of the campaign, the year matters less than the occasion. Polo says Cublay had fought often before his accession but entered battle in person only once afterwards, against Nayan in 1286. The name of the rebel is usually Nayan. A modern rendering of the date is 1287. That shift is small beside the larger difference between the Book’s remembered campaign and the Chinese record, for the latter can place Cublay’s army, his lieutenants and the revolt in a sequence that Polo does not give. [3]
+The man who does it is Nayan. The Book makes him an uncle of Cublay's. Their family tree instead takes Nayan back to another branch, that of Temüge Otchigin, the youngest brother of Chinghis (Chinggis Khan) [4]. What the Book wants you to see first is a young prince with an enormous number of horsemen. To a man who comes for a day to sell animals, Nayan may seem a very great lord indeed. The question that matters to Cublay is where the prince thinks his right to rule begins and ends. That makes a quarrel over a relationship into a quarrel the people who live between two princes are going to have to endure. He is one of the lords who owes obedience to Cublay and would prefer to exercise it over other men [5].
 
-Nayan was about thirty, wealthy in lands and able to field about three hundred thousand horsemen. The Book calls him Cublay’s uncle, but genealogies make him a cousin of a younger generation: a great-great-grandson of Temüge Otchigin (Yule's *Uchegin*), Chinghis's youngest brother. His appanage lay toward Cauly (Korea) and Chorcha (Manchuria). This is the eastern side of the rebellion, not a distant marcher tale; Nayan ruled princes and herdsmen from a settled Mongol line and carried the family name into a dispute over obedience.
+Caidu (Kaidu), Cublay's Ögedeid rival, was another reigning prince of the family. Polo has Nayan send envoys with a plan to attack Cublay from east and west at once. Caidu is said to answer warmly and bring another hundred thousand horsemen. The spoken dialogue is not a court transcript, but the anti-Cublay alliance is credible at its core [6].
 
-Caidu (Kaidu), Cublay's Ögedeid rival, was another reigning prince of the family. Polo has Nayan send envoys with a plan to attack Cublay from east and west at once. Caidu is said to answer warmly and bring another hundred thousand horsemen. The spoken dialogue is not a court transcript, but the anti-Cublay alliance is credible at its core. [4]
+When Cublay learns of the plot he tells very few people. Yet the Book gets him three hundred and sixty thousand horsemen and a hundred thousand on foot within ten or twelve days. It calls the horsemen the court's own falconers and whippers-in. Think how different the same count would sound to a man charged with feeding them [7]. He has the animals to consider first. And he has to find a man who knows the pastures ahead, or the figure he hears at court is of little use. The claim about whippers-in uses a name from the hunt to give an outsider some idea of the numbers the emperor has at hand. The men in charge of the animals would hear it a little differently.
 
-When Cublay learned of the revolt, he kept the council close and assembled his host within ten or twelve days. Polo gives him three hundred and sixty thousand horsemen and a hundred thousand foot, with a proviso that these were only men within reach. The falconers and whippers-in in the court are meant to make the scale absurdly vivid. Behind the joke lies a serious calculation: Cublay will bring the nearest forces fast and keep the wider imperial muster out of Nayan’s sight.
+Ramusio's version gives a reason the summons does not go out farther. There are men who have to be left in the provinces because of the offices they hold there [8]. An astrologer gives the emperor what he wants to hear at home, an assurance of victory [9].
 
-The astrologers then declared that Cublay should advance, for the omens promised victory. He rejoiced and began a campaign in which the Book gives him strict control of information. [5]
+Twenty days on the road and, says the Book, the emperor is where someone else would have needed thirty marches to get. Cublay's people have made sure no warning slips through. The story gets to Nayan asleep beside the wife he favours, then cuts straight to the sight that awaits him when he gets up [10].
 
-His army reached the plain in twenty days. Nayan had perhaps four hundred thousand horse, Polo says, but Cublay’s scouts surrounded the country and caught every scout approaching. No warning escaped the cordon. When the imperial host appeared, Nayan was taken asleep in the arms of a favourite wife. The plain lay more than thirty marches from the court, close to the Liao and Nonni country, and the speed of Cublay’s approach is as much a part of the story as his numbers.
+Picture the height of the emperor's standard. The Book has him on rising ground, in a boarded tower carried by four elephants. Its word for a wooden defence familiar from a castle makes a tower appear above the heads of the men on the plain [11]. From below, much of the emperor himself might be hidden by the boarding. A soldier would know where to look from the height of the cloth flying over it. Think of a man coming out of a tent on the other side of the plain and making that discovery. The man wants to know what else has come up in the time he has been sleeping. Some of the riders have a foot soldier sitting behind them. Yule compares a report from Gaubil for the shared saddles. It is still a question whether that report can stand as a witness independent of Polo [12].
 
-Polo also gives Cublay a headquarters from which one can see the whole plain. The elephants carry the wooden tower, the standard rises above the divisions, and the standard-bearer has room to move between the banners. The scene is a court pageant laid across a battlefield, in which the emperor’s public person is visible to both armies. [6]
+The men are ready, and all you hear for a moment is singing and the sound of a two-stringed instrument. Neither side can begin until the great drum gives the signal. First Cublay's sounds, and then Nayan's [13]. Larner hears in the formal arrangement of the scene the prose of Arthurian battle [14].
 
-Cublay took his place on a rise, within a wooden tower borne by four trained elephants. His troops stood in divisions, and many horsemen carried a footman behind the saddle. The footman held a lance, while the rider kept control of the bow and the charge. From the ground, the imperial command would have seemed a moving spectacle: one elevated standard, great divisions of cavalry, and the plain filling beyond sight.
+The story gives the fight the rest of the morning. Polo fills the air with arrows and has men brought down until the emperor's side prevails. He gives the two armies seven hundred and sixty thousand riders between them. The numbers tell you something about the force with which the scene is being told. At noon a prince and his barons are in the emperor's hands [15]. The noise that filled the plain is gone by the time the victorious soldiers can reckon who is missing. We have watched the rising ranks and heard the instruments that made the armies seem to act as one. Now the story narrows to what is to happen to one man.
 
-The two armies arranged themselves while kettledrums and two-stringed instruments sounded. Polo says neither army could begin until the prince’s great *nakkara* gave the sign. The singing, the horses and the drum would make the plain one of arranged spectacle before the charge. It was not enough to meet in ranks; the prince had to give the sound that released both hosts.
-
-Then the cavalry moved as a row of battle, not yet proof of how the real campaign lines had met. [7]
-
-They fought from morning until noon. Bows and crossbows covered the air, maces and lances broke up the ranks, and the kettledrum beat until Nayan’s army gave way. Nayan’s men fled, while Cublay’s forces closed on the riders and the prince’s company. The Book puts seven hundred and sixty thousand horsemen on the field, apart from foot soldiers; the figure is an imperial spectacle, not a muster. Nayan and his barons were taken. [8]
-
-The Chinese campaign notices confirm Cublay’s personal command and Nayan’s defeat, but the date, troop totals and religious colouring belong to different kinds of evidence. The main action is generally dated to summer 1287. The Book then records Nayan’s execution. [9]
+The Yuan records place the main action in the summer of 1287 and describe the emperor's command and Nayan's defeat. Their notices of different engagements and commanders leave room for doubt about how they correspond to the Book's single mighty battle [16].
 
 | Feature / Claim | Book account (Polo) | *Yuan shi* annals & biographies | Analysis & limits | Verdict |
 |---|---|---|---|---|
 | Kinship & status | Uncle of Cublay, aged 30, ruler of vast eastern territories | Junior-generation cousin (descendant of Chinghis’s brother Temüge Otchigin) | Princely line in Manchuria confirmed; kinship generation altered in the Book | ~ / ✗ genealogy |
-| Forces engaged | Nayan 400,000 horse; Cublay 460,000 horse, 360,000 foot | Annals (j. 14, 154): Tabudai attacks with reported 60,000; vanguard repulses | Both sources employ epic convention; chronicle figures are annalistic claims | ~ / ◇ |
-| Elephant bartizan | Cublay commands from a wooden castle mounted on four elephants | Annals mention no elephants; Li Ting commands crossbows and fire-pao | Elephant tower is Book claim; unsupported in searched Chinese annals | ◇ Polo claim only |
+| Forces engaged | Nayan 400,000 horse on the plain; Cublay raises 360,000 horse and 100,000 foot | Annals (j. 14, 154): Tabudai attacks with reported 60,000; vanguard repulses | Both sources employ epic convention; chronicle figures are annalistic claims | ~ / ◇ |
+| Elephant bartizan | Cublay commands from a wooden castle mounted on four elephants | Passages checked mention no elephants; Li Ting commands crossbows and fire-pao | Elephant tower is Book claim; unsupported in searched Chinese annals | ? Independent confirmation open |
 | Cross on standard | Nayan carries Christian cross on his battle banner | Nestorian Christianity attested among Onggirat and eastern Mongol nobility | Faith attested among eastern nobility; cross banner unmentioned in Chinese sources | ~ / ? |
-| Execution method | Rolled in a carpet and shaken to death to avoid shedding imperial blood | Nayan bound and executed after capture (j. 14, 162) | Mongol bloodless execution practice for royal kin independently confirmed | ✓ |
+| Execution method | Rolled in a carpet and shaken to death to avoid shedding imperial blood | Nayan bound and executed after capture (j. 14, 162) | Yule adduces parallels for avoiding royal bloodshed | ~ exact method |
 
-Polo says Nayan was a baptized Christian and carried the cross on his banner. When Cublay heard he was captured, he ordered a secret death. The Book says attendants wrapped him in a carpet and tossed him until he died, sparing Imperial blood the dishonour of open spillage. The method appears designed to keep royal blood off the earth and out of the sun’s view; its exact mechanics belong to narrative ritual rather than an eyewitness report. [10]
+Look back at the rebel's standard now that it is down. There is a cross on it in the Book, which has Nayan baptised a Christian [17]. He is still the emperor's kin. Polo has attendants wrap him in a carpet and kill him away from public view. The explanation is that his blood must not touch the ground or be shed in the sight of the sun [18].
 
-The defeated prince’s provinces returned to Cublay. Polo names four: Chorcha (Jurchen / Manchuria), Cauly (Kaoli / Korea or a frontier district), Barscol and Sikintinju. Together they made a great eastern dominion. The identification of some places remains soft, but the Chinghisid appanage in the north-east is the historical thread. Hatan, a branch that survived Nayan, continued to trouble the frontier after 1287.
+The Book names Nayan's four provinces as Chorcha (Jurchen country), Cauly (Korea or its frontier), Barscol and Sikintinju. It gives their allegiance back to the emperor. The identification of some places is open, and the capture of Nayan did not bring the fighting in the north-east to an end [19].
 
-The names also show why the Book sees Nayan’s revolt as more than a quarrel at court. His lands reached between the settled Korean frontier and the nomad country beyond the rivers. Cublay’s victory returned that bridge to imperial control, at least for the moment; Caidu’s threat remained farther west. [11]
+Now hear what people say about the cross. Muslims, Jews and others deride the Christians for carrying something that has failed to help one of their own. Cublay tells the Christians their cross was right to do nothing for a rebel. Give the court a moment to realise the turn he has given the insult [20].
 
-Polo’s story turns Christian. Saracens and others jeered because Nayan’s cross had not saved him. Cublay answered that the cross had done well: it gave no help to a rebel who deserved defeat. The Christians agreed that their cross does not serve wrongdoing. The exchange put religion and loyalty on the same ground, and the gibes ceased.
+— The inscriptions of Nanghin (Kaifeng) put the synagogue in 1163 [21]. The question raised by this particular story is whether there were Jews present at the time and place where Polo's jeer is heard. Evidence for that remains thin [22].
 
-— Polo’s Jews are scarcely visible elsewhere in this stretch of the narrative. Nanghin (Kaifeng) records a synagogue founded in 1163, while Monte Corvino, Marignolli and Ibn Battuta met Jewish communities elsewhere. That tradition is later reception, and Jewish presence in the 1287 episode itself remains thinly documented. [12]
+Cublay goes back to Cambaluc and his court's festivities. Caidu, hearing what happened, keeps himself ready for war [23].
 
-Cublay returned to Cambaluc and resumed his festivals. Caidu, learning of Nayan’s death, prepared for war but feared the same fate. Polo insists Cublay campaigned in person only once, because this rebellion was too grave to entrust to another. [13]
+Ramusio brings Easter into the palace. The emperor has the Gospels brought forward, incensed and kissed by the men attending him [24]. Ask what a visitor belonging to any of the court's other religions would see at one of his own festivals. Ramusio gives each the honour of imperial attendance and has Cublay say that he pays respect to four prophets and would like to know which has the greatest power in heaven [25]. The scene depends upon people seeing what the emperor chooses to honour. At Easter the book makes its passage through the hands of the men of the court. A baron kisses it where the Christians who brought it can see him. The person outside the court can hear what he did without ever seeing the book.
 
-The next passage is wholly Ramusio. In that sixteenth-century version, Cublay remained at Cambaluc through March, summoned Christians for Easter, and had the Gospels incensed, kissed and honoured by his barons. The ceremony is unlike the court festivals of the main manuscript sequence. It belongs to a later expansion of the text, not to the older French line.
+Ramusio also takes the question of baptism back to the elder Polos, when the emperor sends them to the Pope. How could he answer his own men if their holy men can bring him a cup untouched at table and the Christians can do nothing of the sort? Let the Pope send his hundred learned men to demonstrate their powers, and then, in the story, he and his barons will be baptised [26].
 
-Ramusio turns Cublay’s outward toleration into a public catechism. The Kaan asks the assembled religions to answer what he most fears he cannot know by force alone: which faith Heaven has given the greatest authority.
+At the distribution after the victory you can do an inventory the way Marco might. Some of the men have silver plate to take home. Some have jewels. A man might go to the audience in command of a hundred and come away in command of a thousand [27]. What he can show another man when he goes abroad will also change.
 
-Ramusio has Cublay say that Christians, Muslims, Jews and idolaters worship four prophets, and that he honours all four until heaven reveals which is greatest. Cublay also confesses that the Christian faith seems truest, but refuses to let Christians carry the cross in procession because of Christ’s execution. [14]
+Lay the tablets beside one another. A silver one for a commander of a hundred, gold or gilded silver for the man with a thousand, and gold with a lion's head for the man with ten thousand. The first two weigh a hundred and twenty *saggi* each. The lion weighs two hundred and twenty [28]. There is a demand for obedience on the tablet, and a written warrant says what the man can do. Beyond the court he has something he can put in front of a stranger and say what he needs [29]. If you are that stranger it matters more than his claim to have been brave. Before you agree to have a man take an animal from your stable, you want to know whose authority he has to do it. The difference between what he has got to show and what the next man can show is the difference the Book wants us to see in the grades of metal.
 
-In another Ramusian passage, Cublay asked why he did not become Christian. He was said to fear that baptism would expose him to unconverted barons, and to want proof as dramatic as the works attributed to idols. Had the Pope sent a hundred learned men who could defeat those works, he replied, he and his barons would convert. Marco and Maffeo are named as hearers. Rubruck’s account of Mongou’s court and later evidence of Cublay’s learned patrons support multi-faith toleration; the proposed conversion mission is the weaker, conventionalized clause. [15]
-
-After the victory Cublay raised every officer according to rank and service, giving silver, gold, jewels and tablets of authority. A commander of a hundred received less than a commander of a thousand, and a captain of ten thousand more again. The Book prizes deeds done for the lord, even when it cannot measure their pay. Promotion was a visible sign that the army had survived by obedience, and that merit could rise one grade at a time.
-
-Polo presents the reward as both a commercial inventory and a system of commands. Plate, jewels and precious stones fall to the officers, but the higher tablet carries the more enduring privilege: a warrant that can make the emperor’s will travel along a road in the bearer’s hands. [16]
-
-The tablets fell into grades. A hundred-man captain held silver, a thousand-man captain gold or gilded silver, and a ten-thousand-man commander gold with a lion’s head. The tablets for the smaller grades weighed one hundred and twenty *saggi* each, while the lion tablet reached two hundred and twenty. The inscriptions invoked the Emperor’s god-given power and warned disobedience with death. Warrants declared the holder’s rank and privileges. [17]
-
-The highest general in the Book was entitled to a three-hundred-*saggi* tablet with a lion below a crescent sun-and-moon emblem. The rank carried a gold canopy, a silver chair and written warrants. A gerfalcon tablet went only to the greatest barons, giving them Cublay’s full authority to requisition horses and goods wherever they travelled. Yuan practice confirms the institution, but not every detail of Polo’s hierarchy. [18]
+The general at the top of the Book's order may take a silver chair and have a golden canopy held over his head. His tablet weighs three hundred *saggi* and carries a lion with the sun and moon [30]. A tablet bearing gerfalcons goes to very few. Polo gives its bearer the emperor's authority to take horses for his messengers wherever he needs them [31]. That is a different way to make a bird known at court. The falconer's bird goes out with him and comes back to his hand if all goes well. This bird goes out on a piece of metal. It can take its bearer across the empire, and there will be men along the road who have never seen the face of the emperor but know perfectly well what the emperor's bird requires of them when it appears.
 
 ![The Book's tablets of authority against the Yuan record: two ranks agree, the myriarch's lion is a tiger in the record, and the Book's highest tablet has no match. *(Diagram: this edition, from the Book via Yule–Cordier and the Yuan shi.)*](../media/diagrams/C5-paiza.svg)
 
-The campaign closes with promotion and a hierarchy of seals: Cublay rewards his captains and turns victory into the machinery of court. The order of rank becomes a second army of privilege, extending the emperor’s command from the battlefield to every road and province under his authority and care at court and on the frontier alone. [19]
+You've seen the marks by which a stranger can recognise the emperor's authority on the road. Now come inside and look at the man his officers have to face when they go to court.
 
 ---
 
 ## Notes
 
-[1] ✓ / ~ [@yc, 2.1] Cublay as most potent Lord of his age (forces, lands, treasure). ✓ Yuan scale unmatched in Eurasia; ~ Adam-to-now superlative is book rhetoric.
+[1] ~ The Book explains the title and makes the claim of unprecedented imperial power [@yc, 2.1].
 
-[2] ✓ / ✗ [@yc, 2.2] Right Imperial descent from Chinghis; disputed succession won by ability. ✓ Chinghizide genealogy and Ariq Böke contest historical. ✗ Acceded 1256; sixth Supreme Kaan — ✓ 1260 accession; fifth Kaan (Yule). Age ~85 in 1298 and reign of 42 years are schematic from the 1298 dictation horizon; he died Feb. 1294.
+[2] ✗ The Book puts the accession in 1256 and the reign still going in 1298. Cublay was proclaimed in 1260 and won the succession struggle against Ariq Böke. He died in 1294 [@yc, 2.2 nn. 1–2].
 
-[3] ✗ / ~ “Never went to war save once” after accession. Ariq Böke 1261 and a possible 1289 sortie contradict the absolute claim; the Book emphasises Nayan’s gravity. Campaign year given as 1286; *Yuan Shi* / Gaubil: main action summer 1287. As cited in Yule: Gaubil [-@gaubil1739histoire] [@yc, 2.4].
+[3] ✗ The absolute claim about one campaign has exceptions, including the contest with Ariq Böke. The Book puts Nayan in 1286 [@yc, 2.2 n. 3].
 
-[4] ✓ / ~ [@yc, 2.2] Nayan–Caidu coordinated rising. ✓ Kaidu pressure and Nayan league real; ~ envoys’ dialogue form. Nayan’s 300,000 and Caidu’s 100,000 are round numbers.
+[4] ✓ Pelliot identifies the line of Temüge Otchigin, called Uchegin by Yule. It makes Nayan a cousin in a junior generation [@pelliot1959notes, vol. 2, “Naian”; @yc, 2.2 n. 4].
 
-[5] ✗ / ? Nayan “uncle” of Cublay; young man of ~30. Pelliot identifies him as a Temüge-Otchigin descendant, not as a descendant of Belgütei. The age and eastern appanage remain under-documented. Pelliot [-@pelliot1959notes, vol. 2, “Naian”]; Yule–Cordier [@yc, 2.2].
+[5] ~ The prince’s youth and claimed muster of three hundred thousand belong to the Book [@yc, 2.2].
 
-[6] ✗ / ~ Secret 10–12 day levy of 360,000 horse + 100,000 foot (“falconers”). ~ Rapid imperial response plausible; ✗ round mega-numbers. Ramusio adds a garrison system (*Aolu* in Mongol-Chinese documents per Palladius) explaining why full levy was not summoned. As cited in Yule: Palladius [@yc, 2.3].
+[6] ~ The regional threat from Caidu is real. The reported exchange and his hundred thousand are the Book’s [@yc, 2.2; @rossabi1988khubilai, ch. 8].
 
-[7] ~ / ◇ Twenty-day forced march; Nayan surprised asleep with wife. ~ Surprise theme in Chinese strands (Gaubil / Pauthier); ◇ bedchamber detail. Place more than thirty marches from court; Kaan made it in twenty. As cited in Yule: Gaubil [-@gaubil1739histoire], Pauthier [@yc, 2.4].
+[7] ✗ The Book numbers the rapid levy at 360,000 horse and 100,000 foot. Rossabi contrasts the book’s figure with a historical estimate [@yc, 2.3; @rossabi1988khubilai, ch. 8].
 
-[8] ✓ / ~ Elephant-borne bartizan; foot on horsemen’s cruppers; pre-battle singing; fight only after Prince’s *nakkara*. ✓ Crupper transport in Gaubil; *naqqāra* as pan-Asiatic signal-drum (Joinville; Della Valle; Ain-i-Akbari). ~ Four-elephant tower as Polo spectacle; mass chorus unique to Polo among Yule’s parallels. Nestorian Christianity among eastern Mongol princes historically real; banner-cross as Polo paints it is emblematic. As cited in Yule: Gaubil [-@gaubil1739histoire], Joinville [@yc, 2.4].
+[8] ~ Ramusio-only in Yule. Yule and Cordier discuss the provincial garrison explanation and Palladius’s comparison with the *aolu* system [@yc, 2.3 n. 1].
 
-[9] ✗ [@yc, 2.4] Host totals ~760,000 horse in the field. Rhetorical inflation. Battle endured morning to noon; Nayan captured with his barons.
+[9] ~ The consultation is part of the Book’s account before the army goes out [@yc, 2.3].
 
-[10] ✓ / ~ Carpet execution to avoid shedding Imperial blood. ✓ Blood-avoidance maxim (Ricold; SE Asian parallels for bloodless royal death); ~ exact method. Nayan as baptized Christian with Cross on banner: ~ / ? Nestorian princes attested; this banner scene emblematic. As cited in Yule: Ricold [@yc, 2.5].
+[10] ~ The shortened march, the absence of warning and the sleeping prince belong to the Book’s account of surprise [@yc, 2.3–2.4].
 
-[11] ✓ / ~ [@yc, 2.5] Four provinces: Chorcha, Cauly, Barscol, Sikintinju under Nayan. ✓ NE appanage (Manchuria / Korea frontier / Kien-chow); ~ Barscol ID (Barkul west vs Manchu-frontier Abalahu / Bars Koto). Rebellion not ended with Nayan—Hatan (Hachiun line) continued 1287–91.
+[11] ? The French term is *bretesche*. The Yuan passages checked do not settle the tower’s historicity. The suggested parallel in Rashid remains unverified [@yc, 2.4 n. 1; @yuanshi1370, j. 14, 154, 162].
 
-[12] ? / ◇ [@yc, 2.5] Jews present to gibe Christians after the battle. Slender Polo basis; Jews in Yuan China otherwise thinly documented at this date. Loewe [-@loewe1987jewish] finds Yuan-shi mentions only in 1329, 1340 and 1354. ~ / ◇ Cublay’s public defence of the cross as against wrongdoing fits the Chinghisid multi-faith patronage tone; the speech form is the Book’s.
+[12] ? Yule adduces Gaubil. The possibility that the comparison depends on the Book leaves its use as independent evidence open [@yc, 2.4 n. 2].
 
-[13] ✓ / ~ [@yc, 2.6] Return to Cambaluc; Caidu alarmed. ✓ Capital / Shangdu seasonal orbit; Kaidu threat ongoing. Personal-command claim for Nayan only: see [3].
+[13] ~ The Book has music and singing before the signal. Yule compares examples of the *naqqāra* [@yc, 2.4 n. 3].
 
-[14] ? / ◇ Ramusio-only. Easter Gospels incense; “I honour all four prophets.” Ramusio layer versus the Geographic text. ✓ Multi-faith patronage in the Rubruck–Möngke parallel; the wording is contested. Do not merge this as unmarked Geographic fact.
+[14] ~ Larner discusses the formal staging of the Nayan battle in witness F, chapter 79, and its affinities with Arthurian prose [@larner1999marco, ch. 6, p. 109 in the 2001 edition].
 
-[15] ? / ✗ Ramusio-only. Conversion wish and need for 100 learned Latins echo the Prologue embassy. Conventional conversion rhetoric; unlikely as a literal policy pledge. Simultaneous patronage is plausible Chinghisid political practice (Yule; Koeppen), not private wistfulness à la Akbar. As cited in Yule: Koeppen [@yc, 2.6].
+[15] ✗ This total comes from Polo’s combined horsemen. The duration and the capture are narrated in the same battle scene [@yc, 2.4].
 
-[16] ✓ / ~ [@yc, 2.7] Graded promotions and rich presents after victory. ✓ Reward culture; ~ amounts “astonishing” as rhetoric. Sanang Setzen on Chinghiz rewarding *Orlok* as comparative type.
+[16] ✓ The annals and biographies report Cublay’s command, the sixth-month engagement and Li Ting’s actions. A single location and matching numbers cannot be inferred from the entries [@yuanshi1370, j. 14, 154, 162; @rossabi1988khubilai, ch. 8].
 
-[17] ✓ / ~ [@yc, 2.7] Graded *paiza* (silver / gilt / lion-head); weights in *saggi*; inscribed obedience formula; written warrants (*yarligh*). ✓ *Paiza* / *yarligh* institution firm (Persian historians; Rubruck’s golden plate); ~ exact weights and inscription wording are Book formulation.
+[17] ? Nayan’s baptism and cross are the Book’s specific claims. Christianity among Mongol princes offers context [@yc, 2.4 n. 6].
 
-[18] ✓ / ~ Sun-and-moon tablet; golden umbrella; silver chair; gerfalcon tablet conferring full requisition. ✓ High *paiza* powers and umbrella honour pan-Asiatic (Carpini; Chinese *Wan min sàn*; Burma etiquette); ~ absolute phrasing (“even a king’s horses”). As cited in Yule: Carpini [@yc, 2.7].
+[18] ~ Yule compares avoidance of royal bloodshed in other accounts. The carpet and secrecy belong to Polo’s report [@yc, 2.5 n. 1].
 
-[19] ~ / ? Polo’s battle narrative vs Chinese campaign records. Shared: personal command, Nayan’s defeat, NE theatre. Diverge on scale, date, religious drama, sequel (Hatan). Comparative: *Yuan Shi*; Rashīd al-Dīn on Kaidu front; Rossabi [-@rossabi1988khubilai, ch. 8]; Hsiao Ch’i-ch’ing [-@hsiao1978military] on Yuan military institutions; Yule App. on Nayan; Larner [-@larner1999marco, ch. 6] on the Arthurian battle diction of the Nayan chapter.
+[19] ? The Book gives four provinces and discusses the renewed allegiance. Yule’s commentary treats disputed names and the later fighting involving Hatan [@yc, 2.5 n. 2].
+
+[20] ~ The religious taunt and Cublay’s answer belong to the main narrative. Ramusio also mentions Jews in a separate court passage [@yc, 2.5 n. 3; @yc, 2.6 n. 2].
+
+[21] ✓ The inscriptional account reported by Cordier gives the Kaifeng synagogue a foundation in 1163 [@yc, 2.5 n. 3].
+
+[22] ? Loewe finds notices in the *Yuan shi* for 1329, 1340 and 1354 in a fiscal context. They leave the presence of Jews at the 1287 episode open [@loewe1987jewish; @yc, 2.5 n. 3].
+
+[23] ~ The return, festivities and Caidu’s continuing readiness are described by Polo [@yc, 2.6 n. 1].
+
+[24] ~ Ramusio-only in Yule. The blessing of the Gospels at Easter is in the extended passage quoted by Yule [@yc, 2.6 n. 2].
+
+[25] ? Ramusio-only in Yule. The four prophets and the emperor’s remarks about honour and the cross are reported there. Rubruck’s account of Mongou’s patronage describes a separate court [@yc, 2.6 n. 2].
+
+[26] ? Ramusio-only in Yule. The speech to Niccolò and Maffeo is framed as part of their mission to the Pope. The offer of baptism echoes the embassy’s request for learned men [@yc, 2.6 n. 2].
+
+[27] ~ The material gifts and promotions follow the victory in the Book’s account [@yc, 2.7 n. 1].
+
+[28] ~ The listed ranks, metals, weights and lion are Polo’s. The comparison with Yuan ranks has a tiger where the Book gives the myriarch a lion [@yc, 2.7 n. 2; @hsiao1978military].
+
+[29] ✓ Yule compares tablets and written orders in other sources. The precise inscription is given by the Book [@yc, 2.7 n. 2].
+
+[30] ~ The chair, canopy and heaviest tablet are the Book’s marks of high authority. Yule compares the honour of the umbrella in other accounts [@yc, 2.7 nn. 2–3].
+
+[31] ~ The Book gives the gerfalcon tablet powers to requisition horses and goods. Yule compares the tablet with related warrants [@yc, 2.7 n. 4].

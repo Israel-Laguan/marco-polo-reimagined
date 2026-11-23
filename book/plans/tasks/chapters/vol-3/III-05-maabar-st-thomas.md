@@ -1,10 +1,12 @@
 # III-05 — Maabar: Pearls, Suttee, Horses, and St Thomas
 
-**File:** `vol-3/ch-05-maabar-st-thomas.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-05-maabar-st-thomas.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,805 | 38% | [R/M] | issues: Notes [13]/[15] out of step; [15] placeholder; [10] duplicates [8] | no |
+
+**W4 voice pass (2026-11-23).** 1,816 words, 4% Yule overlap, zero errors and warnings. Notes 4–8 carry the fishery evidence and Notes 12–15 distinguish the horse shipments from the Book’s explanations. Notes 30–34 cover the shrine.
 
 ## Backlog (from critique; not yet tasks)
 

@@ -1,10 +1,12 @@
 # I-11 — Charchan, Lop, Tangut, Camul: Desert Voices and the Edge of Cathay
 
-**File:** `vol-1/ch-11-lop-tangut.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-11-lop-tangut.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,741 | 46% | — (n/a in Vol. I) | ok | no |
+
+**W4 voice pass (2026-11-23).** Provisions lead into the Lop crossing, its voices and desert travellers’ reports. The Notes separate Mogao, Chingintalas and the Great Wall debate. Targeted lint: 1,803 words, 2% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–31.
 
 ## Backlog (from critique; not yet tasks)
 

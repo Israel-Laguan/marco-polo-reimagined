@@ -1,10 +1,12 @@
 # I-04 — Lesser and Greater Hermenia; Turcomania; Georgiania
 
-**File:** `vol-1/ch-04-hermenia-georgiania.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-04-hermenia-georgiania.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,375 | 49% | — (n/a in Vol. I) | orphan Note [15] | no |
+
+**W4 voice pass (2026-11-23).** Ayas trade leads to the mountain route. The Notes distinguish Paipurth, the provenance of reported material, the Baku gloss and Sasanian Derbend. Targeted lint: 1,808 words, 1% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–27.
 
 ## Backlog (from critique; not yet tasks)
 

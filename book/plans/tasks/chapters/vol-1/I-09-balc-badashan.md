@@ -1,6 +1,8 @@
 # I-09 — Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys
 
-**File:** `vol-1/ch-09-balc-badashan.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-09-balc-badashan.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 30 sequential Notes. Targeted lint: 1,812 words, 2% overlap, 0 errors, 0 warnings. F-57 is now Note 6. The F/Ramusio horses and recovery are Notes 18–21, and the Zelada/Ramusio account about butchers is Note 29.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

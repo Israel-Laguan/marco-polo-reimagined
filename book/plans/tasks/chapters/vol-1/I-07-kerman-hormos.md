@@ -1,6 +1,8 @@
 # I-07 — Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman
 
-**File:** `vol-1/ch-07-kerman-hormos.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-07-kerman-hormos.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 28 sequential Notes. Targeted lint: 1,822 words, 0% overlap, 0 errors, 0 warnings. The former Note 16 is now Note 27. The merged narrative and witness comparisons are in Notes 9, 20–23 and 26.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

@@ -1,6 +1,8 @@
 # II-13 — Kinsay: Capital of Manzi
 
-**File:** `vol-2/ch-13-kinsay.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-13-kinsay.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 42 sequential Notes. Targeted lint: 1,820 words, 2% Yule overlap, 0 errors, 0 warnings. The earlier Note 9 is now Notes 37–42, with the Vogel locator mapped to 37 and 41–42. The bridge comparison and its limits are in Note 3.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

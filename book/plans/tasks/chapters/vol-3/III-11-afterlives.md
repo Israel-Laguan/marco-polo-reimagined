@@ -1,10 +1,12 @@
 # III-11 — Afterlives: Maps, Columbus, and the Making of a Witness
 
-**File:** `vol-3/ch-11-afterlives.md` · **Status:** backlog · **Kind:** narrative (reception)
+**File:** `vol-3/ch-11-afterlives.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative (reception)
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,682 | 0% | — (missing; README "[reception]") | ok (12/12); lint-scaffolding strings in Notes | no |
+
+**W4 voice pass (2026-11-23).** 2,436 words, 3% Yule overlap, zero errors and warnings. Notes 1–7, 10–22 and 33 keep the dates, separate texts and evidence for the 2024 Foligno announcement.
 
 ## Backlog (from critique; not yet tasks)
 

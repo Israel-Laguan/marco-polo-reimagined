@@ -1,6 +1,8 @@
 # I-08 — Cobinan, the Arbre Sec, and the Old Man of the Mountain
 
-**File:** `vol-1/ch-08-arbre-sec-old-man.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-08-arbre-sec-old-man.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 24 sequential Notes. Targeted lint: 1,807 words, 2% overlap, 0 errors, 0 warnings. The Dry Tree has separate Notes 9–11. The former Note 12 is now Notes 19–23, with V and Ramusio in Note 20.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

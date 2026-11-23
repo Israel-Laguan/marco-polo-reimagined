@@ -1,10 +1,12 @@
 # I-06 — Tauris, Persia of the Three Kings, and the Eight Kingdoms
 
-**File:** `vol-1/ch-06-tauris-persia.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-06-tauris-persia.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,753 | 58% | — (n/a in Vol. I) | ok; [4] repeats [1] | no |
+
+**W4 voice pass (2026-11-23).** 1,816 words, 1% Yule overlap, zero errors and warnings. Notes 17–19 give the F-54 status, proposed copying error and Yule’s calculation.
 
 ## Backlog (from critique; not yet tasks)
 

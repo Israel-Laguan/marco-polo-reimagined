@@ -1,10 +1,12 @@
 # III-07 — Male and Female, Scotra, Madeigascar, Zanghibar, Abash
 
-**File:** `vol-3/ch-07-male-abash.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-07-male-abash.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,742 | 46% | — (missing; outline gives [R]) | ok (21/21) | no |
+
+**W4 voice pass (2026-11-23).** 1,821 words, 2% Yule overlap, zero errors and warnings. Note 9 distinguishes the printed Ramusio account from the Zelada parallel, Note 13 checks Pelliot and Andreose, and Notes 29–30 keep the bishop’s story distinct from the historical embassy.
 
 ## Backlog (from critique; not yet tasks)
 

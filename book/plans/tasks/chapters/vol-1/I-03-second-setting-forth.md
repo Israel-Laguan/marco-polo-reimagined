@@ -1,10 +1,12 @@
 # I-03 — The Second Setting-Forth: Pope, Oil, and the Boy Marco
 
-**File:** `vol-1/ch-03-second-setting-forth.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-03-second-setting-forth.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,621 | 34% | — (n/a in Vol. I) | ok [1–16] | no |
+
+**W4 voice pass (2026-11-23).** The court audience and Ayas quay are joined by the flask. Separate Notes cover the two road reconstructions, Gregory’s friars and the disputed scripts. Targeted lint: 1,825 words, 0% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–25.
 
 ## Backlog (from critique; not yet tasks)
 

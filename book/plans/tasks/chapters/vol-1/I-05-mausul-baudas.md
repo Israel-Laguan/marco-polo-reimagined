@@ -1,10 +1,12 @@
 # I-05 — Mausul, Baudas, and the Mountain That Moved
 
-**File:** `vol-1/ch-05-mausul-baudas.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-05-mausul-baudas.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,994 | 61% | — (n/a in Vol. I) | [16] mismatch; [6] repeats [5] | no |
+
+**W4 voice pass (2026-11-23).** 1,816 words, 1% Yule overlap, zero errors and warnings. Note 4 carries the F-02 correction. Notes 13–16 and the table distinguish the checked accounts of the Calif’s death.
 
 ## Backlog (from critique; not yet tasks)
 

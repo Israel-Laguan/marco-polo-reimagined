@@ -1,6 +1,8 @@
 # III-04 — Necuveran, Angamanain, Seilan: Islands of Rumour and the Foot on the Peak
 
-**File:** `vol-3/ch-04-necuveran-seilan.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-04-necuveran-seilan.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 26 sequential Notes. Targeted lint: 1,836 words, 2% overlap, 0 errors, 0 warnings. F-44 is now Note 9. The climb and names for the grave are Notes 14–16, and the embassy and arrival are Notes 23–26.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

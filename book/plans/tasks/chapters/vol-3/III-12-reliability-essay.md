@@ -1,10 +1,12 @@
 # III-12 — Closing Essay: Reliability, Silence, and the Art of the Book
 
-**File:** `vol-3/ch-12-reliability-essay.md` · **Status:** backlog · **Kind:** essay
+**File:** `vol-3/ch-12-reliability-essay.md` · **Status:** v3 drafted, reader review pending · **Kind:** essay
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 3,826 | 0% | — (missing; README "[reception]") | issues: 13/13 but sparse for an essay; [4] Curzola, [6] stele, [13] SERIES-STATUS | **yes** (> 3,500 essay limit) |
+
+**W4 voice pass (2026-11-23).** 2,861 words, 1% Yule overlap, zero errors and warnings. The nine-section essay and evidence ledger preserve the Curzola/Ayas distinction (Note 6), the embassy limits (Notes 13–14), Bolad’s identity (Note 15) and the disputed absence and office arguments (Notes 16–20, 24–28).
 
 ## Backlog (from critique; not yet tasks)
 

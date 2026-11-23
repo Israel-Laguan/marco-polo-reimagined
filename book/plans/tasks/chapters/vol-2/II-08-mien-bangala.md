@@ -1,6 +1,8 @@
 # II-08 — Mien and Bangala: Elephants, Battle, Towers of Gold and Silver
 
-**File:** `vol-2/ch-08-mien-bangala.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-08-mien-bangala.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** The voice pass and chapter apparatus edit are in the manuscript, with 30 sequential Notes. Targeted lint: 1,841 words, 2% Yule overlap, 0 errors, 0 warnings. The disputed battle date is Note 2, the distinct Yuan engagements are Notes 13–14, the tomb plating is Note 22 and the regular invasion is Note 24. See W4 for the source handoff.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

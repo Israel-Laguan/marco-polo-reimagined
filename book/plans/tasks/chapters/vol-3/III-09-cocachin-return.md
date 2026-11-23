@@ -1,12 +1,14 @@
 # III-09 — The Princess Cocachin: Departure, Sea Passage, and the Way Home
 
-**File:** `vol-3/ch-09-cocachin-return.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-3/ch-09-cocachin-return.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 > **2026-11-17 source correction:** The historic backlog and the prior targeted-pass note below overstate Samara's Ramusio exclusivity and the fleet's chronology. Apply the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) to the chapter, Notes and media before T1–T5; the corrections are not yet implemented.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,767 | 38% | — (missing; README gives [V/M]) | issues: Note [12] one-sided; Note [17] arithmetic | no |
+
+**W4 voice pass (2026-11-23).** 1,810 words, 3% Yule overlap, zero errors and warnings. Notes 12–17 carry route, chronology and mortality variants. Notes 18, 21–22 and 27 preserve the dated succession, embassy and will handoffs.
 
 ## Backlog (from critique; not yet tasks)
 

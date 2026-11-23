@@ -4,20 +4,20 @@
 
 ## Implementation progress
 
-**Updated:** 2026-11-21
+**Updated:** 2026-11-23
 
 [Follow-up chat prompts](next-session-prompts.md#voice-v3-rollout-2026-11-21) cover the series-wide voice pass, the Notes and companions, and illustrations with targeted research.
 
 - **Voice Guide v3 adopted:** [II-3 *Feasts, Robes, and the Twelve Thousand Keshican*](../vol-2/ch-03-feasts-keshican.md) is the approved benchmark. The canonical file matches the approved prototype and passes targeted lint with zero errors and warnings. The prototype's banquet plate, Appendix C and numbered ledger references still need companion matching. For the next apparatus pass, recover the checked distinction between the club-bearing attendants and the tall palace guards in the previous Note 5, and the limit of the witness comparisons in the previous Note 15.
 - **First v3 continuation:** [II-4 *Hunt, Hounds, Litter, and the Traffic of a Million*](../vol-2/ch-04-hunt-traffic.md) bridges from the White Feast to the spring hunt, with claim-level anchors, manuscript provenance in the Notes, and links to the volume companions. The narrator invites the reader into the hunt, singles out the hawk’s label, and stays at the city gates when the court moves on. The outro leads from the silk carts to the summons that opens Achmath’s story. Targeted lint passes with zero errors and warnings (2,012 words, 2% Yule overlap).
-- **Earlier pass:** II-2 was the S-01 pilot. II-3, II-8, and II-4 passed the previous standard in Batch A. II-8 is next in that batch for v3.
+- **Earlier pass:** II-2 was the S-01 pilot. II-3, II-8, and II-4 passed the previous standard in Batch A. The v3 pass on II-8 is recorded under W4.
 - **Batch B — complete:** II-14 *Fuju & Zayton*, II-10 *Manzi & the Sung*, and II-6 *Pulisanghin & Sindafu* are re-voiced. Each passes targeted lint; II-6 retains the non-blocking place-name warning that “Jiangzhou” is close to “Liangzhou.”
 - **Earlier W4 pass — II-12 complete:** *Kian, Suju, and the Approach to Heaven’s City* is re-voiced, its Mar Sargis reports are distinguished, and its Ramusio additions are flagged. Targeted lint passes with 0 errors and 0 warnings (1,832 words; 3% Yule overlap; Ramusio 2/2); `git diff --check` passes.
 - **Earlier W4 pass — II-1 complete:** *Cublay Kaan: Puissance, Nayan, and the Ordo of Victory* is re-voiced with Nayan’s Temüge Otchigin descent corrected and the Ramusio passages flagged. Targeted lint passes with 0 errors (1,800 words; 2% Yule overlap; Ramusio 4/4); targeted `git diff --check` passes.
 - **Earlier W4 pass — II-11 complete:** *Yanju and Saianfu* is re-voiced with the Polo governorship claim, Nanghin identification, siege chronology, and engine authorship kept distinct. Targeted lint passes with 0 errors and 0 warnings (1,800 words; 2% Yule overlap); targeted `git diff --check` passes.
 - **Earlier W4 pass — II-9 complete:** *Caugigu, Anin, Coloman, Cuiju — and Back* is re-voiced with the southwest identities, distances and tiger-dog set-piece kept as reported. Targeted lint passes with 0 errors and 0 warnings (1,851 words; 2% Yule overlap); targeted `git diff --check` passes.
 - **Cross-file critical/factual corrections started:** factual corrections applied in II-1, II-10, II-11, II-14, II-15, I-11, I-12, III-3, III-10, and III-12, with III-12 and II-11/court chronology also tightened for provenance and open questions.
-- **Next work:** apply v3 to II-8 and use v3 for the next chapters in the worst-first queue (II-15, II-7, II-13, II-5). Preserve and revalidate the existing factual passes.
+- **Next work:** audit the earlier Vol. II passes and follow the Vol. I and Vol. III queues in W4. Preserve and revalidate the existing factual passes.
 - **Completion for v3:** a chapter passes lint and its voice and Notes receive a read against the II-3 benchmark, including a check of the claim at each anchor and each companion reference.
 
 ## Verdict in one paragraph
@@ -137,23 +137,111 @@ Check Yule's brackets, the chapter backlog, and `tools/ramusio-manifest.json`. T
 4. Put each anchor at its claim and give it one matching Note — split a paragraph that makes several distinct claims rather than leaving one trailing anchor (the split renumbers the chapter; update `plans/registry/locators.md` pointers and the task file when it does). Begin with a verdict (✓ ~ ✗ ?) and write two or three sentences of curiosity, witness contrast, or authority and navigation. Give checked citations and send extended debates or definitions to the relevant companion.
 5. End with a short outro that carries a detail into the next chapter’s first event or question. Run targeted lint and read for voice, source fidelity, anchor placement, and companion references. Review in batches of three or four chapters.
 
-**v3 rollout:** II-3 (benchmark promoted) → II-4 (re-voiced) → II-8 (next v3 pass).
+**v3 rollout:** II-3 (benchmark promoted) → II-4 (re-voiced) → II-8 → II-15 → II-7 → II-13 → II-5.
 
 - **Vol. I — I-2 complete (2026-11-23):** *The House of Polo and the Elder Voyage* is re-voiced to v3 with the Terek-outcome correction (F-01: the Book's winner reversed; routed across the frozen Terek, winter 1262–63), the house background re-attributed to Venetian records (m8), the notes re-anchored claim-by-claim (25 Notes: [1]–[3] records / Andrea tradition / brothers and Maffeo), the Maffeo marriage claims hedged per F-17 (no bachelor, no childless claim, no will year printed), and Pipino/Ramusio provenance labels in Notes [24]–[25]. All S-04/S-05 name glosses applied (Barca, Alaü, Cublay, Sigatay, Barac, Abaga). Targeted lint passes with 0 errors and 0 warnings (1,893 words; 12% Yule overlap; 5 quotes; 3 asides); `tools/build/build.sh ch02` places the A3 map with no placeholders or size warnings.
 
+**Vol. II v3 batch (2026-11-23)**
+
+| Chapter | Voice and Notes | Targeted lint |
+|---|---|---|
+| [II-8](../vol-2/ch-08-mien-bangala.md) | Opens at the Zardandan exchange. The two 1277 operations stay separate in the prose and table. Thirty Notes distinguish the battle reports, the descent, the tower story and Bangala, including the Ramusio tomb addition. | 1,841 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [II-15](../vol-2/ch-15-great-turkey-ponent.md) | Court wagers, the Persian succession and the northern fur route. Thirty Notes preserve the disputed Nomogan battle and separate Polo’s winner from the historical Terek outcome. | 1,833 words, 2% overlap, 0 errors, 1 name-similarity warning (Caidu/Caindu are distinct) |
+| [II-7](../vol-2/ch-07-tebet-carajan.md) | Campfire, mould, cowries and tally stick frame the trip. Thirty-seven Notes restore the separate Yachi/Talifu claims, retain the crocodilian hedge and attribute Vogel’s presence argument. | 1,937 words, 1% overlap, 0 errors, 0 warnings |
+| [II-13](../vol-2/ch-13-kinsay.md) | Tracks the workings of the city from bridge approaches to the revenue account. Forty-two Notes distinguish the accounts behind the figures and mark the individual Ramusio additions. | 1,820 words, 2% overlap, 0 errors, 0 warnings |
+| [II-5](../vol-2/ch-05-ahmad-paper-coal.md) | Leads from the summons into the palace, mint and post road. Forty Notes distinguish Bolad, the rival murder accounts and the base coal passage from Ramusio’s baths, and give provenance for the red seal and relief details. | 1,890 words, 1% overlap, 0 errors, 0 warnings |
+
+Targeted command from `book/`: `python3 tools/lint.py -v vol-2/ch-{07,08,15}-*.md`. Compared the closes and openings at II-6→7→8→9 and II-14→15→III-1, using British-English speech renders to check cadence. Recheck each outer joint when the adjacent chapter receives its v3 pass.
+
+**Apparatus handoff for this batch**
+
+- **II-8.** A11 resolves to the southwest circuit in II-7. Check the suggested Vochan battle plate caption against Notes 2, 9, 13 and 14 before using an exact site or identifying Polo’s battle with the third-month fight. The direct Burmese chronicle check remains open under S-17. The chapter identifies the tomb plating as the retained Ramusio addition (Note 22).
+- **II-15.** C8 resolves to the succession diagram. Keep the separate Book and historical chronologies, especially Argon’s 1284 accession, the 1295 successions and the corrected Terek outcome (Notes 29–30). “Caidu” and “Caindu” are separate entries in the character and place systems.
+- **II-7.** A11 and C9 resolve. The old salt-cake Note 7 is now Notes 13–15 and its S-26 locator points to the new range. The direct check of Wen et al. (1980) remains open. The species hedge rests on the scope of the Iijima supplementary table (Note 25).
+
+- **II-13.** The bridge comparison uses the reported figures; Mascherpa’s underlying Chinese sources and counting boundaries remain open. Moule’s 117/230 split is known on relay and needs an inspected passage. The published West Lake plate exists, with placement in the media workstream.
+- **II-5.** The Z question remains open under F-09. The comparison table distinguishes Cai’s identification of the two titles from the additional conspirator in the Chinese account Yule relays. C1 and C2 resolve; the 1287 conversion is official, in *guan*, with both issues continuing to circulate.
+
+**Audit of earlier Vol. II passes.** Targeted lint ran on II-1, II-2, II-3, II-4, II-6, II-9 to II-12 and II-14. All ten passed. II-1 flagged Kublai used bare and the Caidu/Caindu similarity; II-6 flagged Jiangzhou/Liangzhou. The benchmark and continuation remain the models. The v2 chapters still need work beyond lint: II-1/2 have broad paragraph-end anchors; II-6, II-12 and II-14 have paragraphs whose later-witness label and Note come apart; II-9 to II-12 and II-14 have compressed captions or route summaries where the narrator needs a scene. II-9 now opens on the tribute kingdom’s tattoos and turns at Juju; II-14 now hands the Zayton customs to Caidu’s demand. Their remaining v3 apparatus and voice work is open.
+
+**First Vol. I and Vol. III passes (2026-11-23)**
+
+| Chapter | Voice and Notes | Targeted lint |
+|---|---|---|
+| [I-7](../vol-1/ch-07-kerman-hormos.md) | Kerman’s workshops lead into the low country, stitched ships and the road back. Twenty-eight Notes keep the Sigatay correction and separate the two shared Zelada/Ramusio details from Ramusio’s army story. | 1,822 words, 0% Yule overlap, 0 errors, 0 warnings |
+| [I-9](../vol-1/ch-09-balc-badashan.md) | Melon strips, salt picks, stones and unshod horses carry the route. Thirty Notes distinguish the Dogana reading, the monopoly from the geology, and Ramusio’s horses and mountain recovery. | 1,812 words, 2% overlap, 0 errors, 0 warnings |
+| [I-8](../vol-1/ch-08-arbre-sec-old-man.md) | Desert water, the furnace and the tree lead into a legend told to Polo. Twenty-four Notes separate the fortress campaign from the garden, including V’s destruction of the castle and Ramusio’s addition of the garden. | 1,807 words, 2% overlap, 0 errors, 0 warnings |
+| [III-4](../vol-3/ch-04-necuveran-seilan.md) | Sailors’ reports lead to Sendemain’s ruby, the climb and the account of Sagamoni. Twenty-six Notes distinguish the peak’s two traditions and leave the relic embassy and royal ruby open. | 1,836 words, 2% overlap, 0 errors, 0 warnings |
+| [III-3](../vol-3/ch-03-java-less-sumatra.md) | The raised rudder leads to the island, the camp and the tree that makes bread. Twenty-seven Notes distinguish the claims about the camp across witnesses, the rhino descriptions and the party’s claim to have eaten sago. | 1,830 words, 2% overlap, 0 errors, 0 warnings |
+
+| [III-8](../vol-3/ch-08-aden-hormos.md) | Cargo moves between ships, camels and ports. Twenty-four Notes distinguish the Red Sea route estimates, the Ramusio canal account and the archaeology at Calatu. | 1,815 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-6](../vol-3/ch-06-mutfili-kesmacoran.md) | A customs charter leads to the diamond stories, then the coast is read from the deck. Forty-three Notes distinguish Rudrama Devi’s succession, ascetic practices, the pepper trade and the successive reported sightings of the Pole Star. | 1,976 words, 4% overlap, 0 errors, 0 warnings |
+
+| [I-5](../vol-1/ch-05-mausul-baudas.md) | Cloth and the river route lead into the two Calif stories. Twenty-eight Notes keep the date of the siege, distinct accounts of the Calif’s death and later commemoration separately anchored. | 1,816 words, 1% Yule overlap, 0 errors, 0 warnings |
+| [I-6](../vol-1/ch-06-tauris-persia.md) | Market, tombs and fire lead to the road and its cargo. Twenty-seven Notes keep the exact road-stage witnesses, provincial identifications and horse valuation in view. | 1,816 words, 1% Yule overlap, 0 errors, 0 warnings |
+| [III-1](../vol-3/ch-01-ships-chipangu.md) | The trader’s deck gives way to the reported gold roof and the fleet. Twenty-nine Notes separate the excavated ships, Ramusio’s additions and the Book’s historical and legendary claims. | 1,852 words, 3% Yule overlap, 0 errors, 0 warnings |
+
+| [III-2](../vol-3/ch-02-chamba-java.md) | The elephant tribute opens the route. Twenty-nine Notes distinguish Polo’s dates and claims from the Yuan records, and the market for Java spices from the question of cultivation. | 1,812 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-7](../vol-3/ch-07-male-abash.md) | The crossings at Male and Female lead to Scotra, the Ruc and the bishop’s account. Thirty-one Notes separate the whale witnesses, the textual case for Mogadishu and the Abash embassy evidence. | 1,821 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [I-13](../vol-1/ch-13-chandu.md) | The cranes at the last stop lead into the park, its portable palace and the rituals of the court. Twenty-four Notes distinguish the roofing variants, the palm-fibre tower and the separate Palm Hall. | 1,816 words, 2% Yule overlap, 0 errors, 0 warnings |
+
+| [III-5](../vol-3/ch-05-maabar-st-thomas.md) | The diver’s catch leads to the trade in pearls and horses and to the shrine at Mailapur. Thirty-four Notes distinguish the fishery shares, the claims about the horses and the shrine traditions. | 1,816 words, 4% Yule overlap, 0 errors, 0 warnings |
+| [III-9](../vol-3/ch-09-cocachin-return.md) | Gold tablets lead from the court to the fleet and back to Venice. Twenty-eight Notes keep the witnesses’ passenger and loss figures separate, and identify the limits of the Persian and Chinese embassy accounts. | 1,810 words, 3% Yule overlap, 0 errors, 0 warnings |
+
+| [III-10](../vol-3/ch-10-ca-polo-milione.md) | Homecoming, the household, early readers and the will to 1324. Thirty-one Notes keep the Malipiero tradition, the household records and the documentary and literary evidence distinct. | 2,324 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-11](../vol-3/ch-11-afterlives.md) | The history of readers, from the 1375 Atlas to the 2024 Foligno announcement. Thirty-three Notes distinguish the cartographic and print evidence, the dates of the Columbus copy and notes, and the later debate. | 2,436 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [III-12](../vol-3/ch-12-reliability-essay.md) | Nine argumentative sections with an evidence ledger. Thirty-seven Notes separate the factual claims from the basis of competing readings, and locate the full Wood discussion here. | 2,861 words, 1% Yule overlap, 0 errors, 0 warnings |
+
+| [I-1](../vol-1/ch-01-genoa-prison.md) | The public reading opens the prison story. The battle and competing capture traditions have separate Notes, alongside the 1301 testimony and the Franco-Italian manuscript evidence. | 1,823 words, 3% Yule overlap, 0 errors, 0 warnings |
+| [I-3](../vol-1/ch-03-second-setting-forth.md) | The court audience and Ayas quay are joined by the flask. Separate Notes cover the two road reconstructions, Gregory’s friars and the disputed scripts. | 1,825 words, 0% Yule overlap, 0 errors, 0 warnings |
+| [I-4](../vol-1/ch-04-hermenia-georgiania.md) | Ayas trade leads to the mountain route. The Notes distinguish Paipurth, the provenance of reported material, the Baku gloss and Sasanian Derbend. | 1,808 words, 1% Yule overlap, 0 errors, 0 warnings |
+| [I-10](../vol-1/ch-10-pamier-cotan.md) | Fire, high pasture and the stones of Cotan carry the route. The hanging pillar, its witnesses and the uncertain Pamier identifications have their own Notes. | 1,835 words, 2% Yule overlap, 0 errors, 1 warning |
+| [I-11](../vol-1/ch-11-lop-tangut.md) | Provisions lead into the Lop crossing, its voices and desert travellers’ reports. The Notes separate Mogao, Chingintalas and the Great Wall debate. | 1,803 words, 2% Yule overlap, 0 errors, 0 warnings |
+| [I-12](../vol-1/ch-12-caracoron-tenduc.md) | A single chapter follows the ordered scenes from Caracoron and the cane to the moving household, the trade in musk and camlets, and the cranes at Chagannor. | 2,306 words, 1% Yule overlap, 0 errors, 0 warnings |
+
+I-2 passed targeted lint as found (1,893 words, 12% overlap, zero errors and warnings) and has its own completed v3 entry above. III-10, III-11 and III-12 follow their separate section plans.
+
+- **I-7 apparatus.** A4 resolves. The sewn-plank parallels have an uncertain original date (Note 20). C13 remains a media item and Canosalmi an unfixed site. The text attributes the abandoned sea plan to Yule and Haw (Note 27); the Book gives a change in narrative direction.
+- **III-4 apparatus.** Sendemain stays unresolved (Note 9). The Lee abridgment gives the ascent with iron pins and chains (Notes 14–15). The report of the 1284 embassy still needs a matching independent record, and the earliest Christian association of the peak remains open under F-23. Keep the Adam and Sagamoni claims as the two the Book itself gives.
+
+- **I-8 and I-9 apparatus.** C6 and A5 resolve. Check the A5 label for Dogana against the suspected copying error in I-9, Note 6. Keep the Dry Tree unfixed and the historical fortress distinct from the garden. The direct Boyle/Juvaini passage remains an open lead.
+- **III-3 apparatus.** F and V have wooden defences; Z and Ramusio have the ditches and about two thousand men. The source of the coconut praise in Yule is Ramusio; its distribution across witnesses is open. Keep the account of the camp and the separate Prologue wait distinct in the A16 and C11 captions. The two arguments about the rhino’s species are attributed in Notes 7–9; the claim of seeing it remains open.
+
+- **III-6 apparatus.** The Motupalli charter is the 1244–45 inscription in Hultzsch (Note 3). Keep the Rudrama succession separate from Polo’s widow story (Note 2), the two kinds of claims about diamond extraction (Notes 4–8), and the uncertainties over the Chughi accounts (Notes 14–15). Check the C10 heights against Notes 28, 31, 33 and 40 and their anchors.
+- **III-8 apparatus.** A16 resolves. Keep late thirteenth-century archaeology at Calatu distinct from Polo’s unnamed refuge in the customs story (Notes 18–19). The canal detail is from Ramusio as quoted by Yule (Note 3), and Sanudo’s stages are a separate account (Note 4).
+
+- **I-5 apparatus.** F-02 is now Note 4. The table follows the restricted S-16 comparison. In particular, Rashīd’s account of execution at Waqf gives no method and the Ṭūsī attribution is debated (Note 14). A4 should continue to show the route via Mausul and Baudas as a variant. Any treasure tower or moving mountain caption needs to identify the respective story.
+- **I-6 apparatus.** F-54 is now Note 17, and the proposed copying error in Istanit has its own Note 18. Note 19 uses Yule’s £193 directly. Later Genoese activity in Note 2 leaves the date of Polo’s visit open. The precise sites of St Barsamo and the fire castle remain open.
+- **III-1 apparatus.** The A15 map and C12 plate resolve. Retain the twelve bulkheads, thirteen compartments and limber holes in the Quanzhou comparison (Note 4). Keep the Takashima hull interpretation and scorch marks separate from historical accounts of the storm (Notes 21–22). The date and attribution of the Columbus marginalia stay qualified (Note 14). Yule’s statement of Polo’s absence closes the base Sea of Chin narrative, before his quoted Ramusio passage (Notes 28–29).
+
+- **III-2 apparatus.** Keep the F-51 and F-52 Yuan evidence in Notes 6–7 and 18–20. Keep F-43 conditional (Note 26). A16 can show Pelliot’s proposed reading of Pentam and the Singapore Strait as such (Note 27), with Malaiur unresolved (Note 29). The Book’s Java spice list and the evidence for trade have separate anchors (Notes 15–16).
+- **III-7 apparatus.** The single floating cask is from Ramusio’s 1559 print; Zelada’s version has multiple small casks and boards in the published transcription (Note 9). Pelliot’s Toyo Bunko scan for the Madeigascar argument is at vol. II, scans 184–185 (Note 13); Andreose gives variant readings with different transcription of F’s index. Keep the Ruc caption as a reported marvel (Note 15). The Abash campaign and the 1290 embassy stay on distinct footing (Notes 28–30).
+- **I-13 apparatus.** The roof detail in C16 can distinguish the split canes shared across witnesses, the nails in Ramusio and L and the details of the dragons in Ramusio (Notes 6–8). Keep Sa Dula’s tower distinct from the Palm Hall in the western garden at Cambaluc (Notes 9–10), and use Note 11 for C17. UNESCO’s extent is that of the property (Note 2).
+
+- **III-5 apparatus.** A17 resolves and the geographical sequence has its own anchor (Note 2). S18-F10 dates distinguish the kings named Sundara (Note 3). The fishery claims, later charm office and Mannar archaeological comparison are in Notes 4–8. The evidence for the horse trade and Polo’s explanation for losses remain distinct (Notes 12–15).
+- **III-9 apparatus.** A16 and C11 resolve. Keep the 1290 preparations, subsequent sailing proposals, the Prologue’s “Java” and the separate five-month wait at Samara distinct (Notes 12–15). Keep the counts in Notes 16–17 separate and the loss in Maffeo’s edited will distinct from the reconstruction of what happened in Trebizond (Note 27). The embassy comparison names its actual source access (Notes 21–22) and leaves the Polos’ appearance in the outside records unconfirmed.
+
+- **III-10 apparatus.** The homecoming is Ramusio’s tradition (Notes 1–4). Preserve the 1319 identification and the uncertainty over the 1305 namesake (Notes 5–7), the qualified Agnese evidence (Note 13), and the documentary limits of the marriage, will and inventory (Notes 10–12, 24–25, 28–30).
+- **III-11 apparatus.** B5 resolves. Keep the Marciana map’s date separate from the 1459 despatch, and the Gouda printing date separate from the dates of the marginalia (Notes 6–7, 11, 14–17). The Foligno count is reported by the project for 2024 (Note 33). For the next B5 review use the printed edition sequence in Notes 10–13 and 18–20, and the Jesuit chronology in Notes 21–22.
+- **III-12 apparatus.** The ledger points to the narrative chapters. The Ahmad comparison gives Bolad’s identity and no support for a Polo office (Note 15). The replies to Wood distinguish the 1997 publication from the 2002 text read for its specific arguments (Note 25). Notes 29–32 give edition-specific comparator citations. Two newly keyed editions are Rockhill’s 1900 Rubruck and the 1992 reprint of the 1929 Gibb selection.
+
+Targeted lint also covered the two transition edits. II-9 recorded 1,809 words and 3% overlap, II-14 recorded 1,816 words and 2% overlap, each with zero errors and warnings. The neighbouring closes and openings were compared with British-English speech renders for I-4→5→6→7→8→9→10, I-12→13→II-1, II-4→5→6, II-8→9→10, II-12→13→14→15→III-1 and III-1→2→3→4→5→6→7→8→9→10→11→12. Recheck the earlier-draft joins when those chapters are revised.
+
 **Earlier passes and outstanding order:** II-2 was the S-01 pilot. The earlier Vol. II pass also covered II-14, II-10, II-6, II-12, II-1, II-11, and II-9. Use v3 for the remaining worst-first work:
-  - Vol. II: II-15 → II-7 → II-13 → II-5.
-  - Vol. I: I-7 (70%) → I-9 → I-8 → I-5 → I-6 → I-13 → I-10 → I-4 → I-11 → I-3. **I-2 complete (2026-11-23).**
-  - Vol. III: III-4 (77–78%) → III-3 → III-8 → III-6 → III-1 → III-2 → III-7 → III-5 → III-9 → III-10.
+  - Vol. II: finish the v3 revisions identified in the audit for II-1, II-2, II-6, II-9 to II-12 and II-14.
+  - Vol. I: all thirteen have v3 drafts or an approved v3 pass. Independent reader review remains open on the revised chapters.
+  - Vol. III: all twelve have v3 drafts. Reader review remains open.
 - **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).
 - **III-10 to III-12** (S-07): re-voice with section plans, no rebuild. III-10 ends at 1324; III-11 tells the reception as events; III-12 argues (home of Wood's full case and of the series' principles). Plans in each `.T3`.
 
-**Over length:**
-- II-13 (3,432): cut about 350.
-- III-6 (3,637): cut about 500.
-- III-10 (3,339): cut about 500.
-- III-12 (3,784): cut about 900.
-- II-2 and II-5 sit at the ceiling.
+- **I-1 apparatus.** Notes 5, 7–8 and 20 separate the command tradition, Ramusio's Curzola, Jacopo's Ayas and the October 1298 inference. Check A18, B1 and related front/back discussion against them. Note 16 retains the checked Larner argument and Note 22 gives Andreose's composition account.
+- **I-3 apparatus.** Keep the Venetian bailie (Note 7) separate from the Polos' itinerary. Note 10 follows the F-39 Yule hedge. Notes 14–15 retain the two outbound routes and the source-specific chronology. The scripts table compares candidates and corroborated regional usage (Note 20).
+- **I-4 apparatus.** Keep Paipurth as proposed (Note 12), the Georgian source layer at Note 14, the Baku gloss at Note 16 and the Derbend claims at Notes 21–22.
+- **I-10 apparatus.** For A5, retain the qualifications on the route and on the candidate site in Note 24. Fire and Wood are in Notes 8–9 and the F-50 pillar comparison is in Notes 15–18. The Caidu/Caindu near-spelling warning concerns different proper names.
+- **I-11 apparatus.** Keep the witnesses to the desert story distinct (Notes 5–8), the reference to Mogao conditional (Note 10), and the Chingintalas and textile arguments separate (Notes 20–22). F-24 and F-59 are in Notes 25–26.
+- **I-12 apparatus.** A6 should leave Caracoron as an excursion in the text and Tenduc unfixed. The temple and hypothetical palace are in Note 5, the final defeat in Note 13, the limit on the funeral comparison in Note 17 and the disputed Natigay reading in Note 25. The silk, yak and musk passages remain scoped to their witnesses.
+
+**Length follow-up:** Re-measure II-2 in its v3 pass.
 
 The critique gives a cut plan for each. Most of the cuts come out of the recaps.
 

@@ -1,12 +1,16 @@
 # I-01 — In a Genoese Prison: How This Book Was Made
 
-**File:** `vol-1/ch-01-genoa-prison.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-01-genoa-prison.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 > **2026-11-17 source handoff:** Reconcile Jacopo's 1296 with the proposed 1294 emendation and Ramusio's Curzola tradition; the 2026 archival lead remains unresolved. See the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) before the prose, Notes and capture-map passes.
 
+> **2026-11-23 status refresh:** the chapter passes targeted lint at **0 errors · 0 warnings — 1,800 words · 5% verbatim · 0 quotes · 2 asides** (asides 77 and 72 words). "Anyway" 0; archaisms 0; the Tana/Trebizond and Rustichello name-policy items are resolved. The claim-level anchor split was applied the same day (19 Notes, model before-the-period placement); Cigni 2017 now cited in Note [8] per the S-15 external check. Following the v3 pass, media placement (T5) and the independent reader review remain.
+
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,011 | 7% | — (n/a in Vol. I) | ok [1–15] | no |
+| 1,800 | 5% | — (n/a in Vol. I) | ok [1–19] | no |
+
+**W4 voice pass (2026-11-23).** The public reading opens the prison story. The battle and competing capture traditions have separate Notes, alongside the 1301 testimony and the Franco-Italian manuscript evidence. Targeted lint: 1,823 words, 3% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–24.
 
 ## Backlog (from critique; not yet tasks)
 
@@ -24,15 +28,15 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 — none found
 
 ### Voice and prose
-- Hinge budget: "Anyway" ×2 (0 of them "Anyway, next he…"), over the M6 lint budget of ≤1 per chapter. Fix: at most one "Anyway"; close asides with a plain return. — vol-1 M6 · ch-01:21, :37
-- Long academic dash-aside: 157 words. Fix: cap at ~60–80 words, keep one key fact plus a cross-reference to the Note, move lists of names to Notes. — vol-1 M11 · ch-01:21
+- Hinge budget: "Anyway" ×2 (0 of them "Anyway, next he…"), over the M6 lint budget of ≤1 per chapter. Fix: at most one "Anyway"; close asides with a plain return. — vol-1 M6 · ch-01:21, :37 → **resolved (2026-11-23): "Anyway" now 0; asides close without exit formulas.**
+- Long academic dash-aside: 157 words. Fix: cap at ~60–80 words, keep one key fact plus a cross-reference to the Note, move lists of names to Notes. — vol-1 M11 · ch-01:21 → **resolved (2026-11-23): asides now 77 and 72 words.**
 
 ### Notes and apparatus
-— none found
+- **Anchor placement (VOICE-GUIDE.md § Notes, 2026-11-23):** → **resolved same day.** All 15 body paragraphs closed on a single trailing anchor; anchors moved to their claims and the stacked-claim paragraphs split — Rustichello's compiler identity vs Meloria conjecture ([7]/[8], with Cigni 2017 cited per the S-15 external check), the 1299 peace paragraph into terms / Polo's release / Rustichello's release ([14]/[15]/[16]), and early circulation vs Ramusio's kindly gentleman ([17]/[18], now labelled "Ramusio-only."). 19 Notes total, sentence-final anchors before the full stop per the II-3/II-4 model; citations check green; `locators.md` row renumbered [12] → [13].
 
 ### Naming and gazetteer
-- "Venice (Venezia) and Genoa (Genova)": when the book form is the English form, the gloss is noise. — vol-1 nit 1 · ch-01:13
-- Gazetteer lacks rows for **Genoa** and **Curzola** (both needed for the ch-01 map). Fix: add rows (M8 gazetteer fix). — vol-1 M8 · gazetteer.csv
+- "Venice (Venezia) and Genoa (Genova)": when the book form is the English form, the gloss is noise. — vol-1 nit 1 · ch-01:13 → still open (decide in T3 with the naming pass).
+- Gazetteer lacks rows for **Genoa** and **Curzola** (both needed for the ch-01 map). Fix: add rows (M8 gazetteer fix). — vol-1 M8 · gazetteer.csv → **resolved by S-04**; applied (Tana and Trebizond glossed, Rusticiano/Rusticien resolved).
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `I-01.T3`.
 
 ### Length and structure
@@ -68,20 +72,21 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-01.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
 - `I-01.T6` Lint pass and human voice read
 
-### I-01.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #26 (batch 7)
-- **Now:** 1,982 words · 7% verbatim · "You must know" 0 · "Anyway" 2 · formula hinges 2 · archaisms 1 · Book first person 0 · asides 2
+### I-01.T3 — Re-voice to the v3 standard
+- **Status:** open (lint already green 2026-11-23) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #26 (batch 7)
+- **Now:** 1,800 words · 5% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges ≤ 3 · archaisms 0 · Book first person 0 · asides 2 (77 and 72 words)
 - **Do:**
   - Verbatim already within limit; voice and structure pass only.
-  - Asides over 80 words: :21 (159), :37 (106). Trim; move traveller/scholar lists to Notes.
+  - Asides over 80 words: :21 (159), :37 (106). Trim; move traveller/scholar lists to Notes. — **already done (2026-11-23): 77 / 72 words.**
   - Cut any closing recap to ≤ 1 forward sentence.
-  - Remove "So/Thus …" restatement paragraphs :11, :27, :45; merge any identification content into Notes.
-  - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene.
+  - Remove "So/Thus …" restatement paragraphs :11, :27, :45; merge any identification content into Notes. — no recaps flagged at 2026-11-23 lint.
+  - Zero archaisms, Book first person and "You must know" outside marked quotes; "Anyway" ≤ 1; formula hinges ≤ 3; quotes ≤ 2 per scene. — all currently met.
   - Resolve every item under *Voice and prose* and *Length and structure* above, and fold in this file's T1/T2 items (W2 facts, W3 flags) in the same pass.
-  - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800.
-  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. Now: bare variants: Pagan → Mien ×1; unglossed first mentions: Tana, Trebizond. `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` lists them as `name_policy` warnings; the rule becomes an error once every chapter has had its pass.
-  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. Now: bare variants: Rusticiano → Rustichello ×2, Rusticien → Rustichello ×1; unglossed first mentions: none. The lint lists them as `name_policy` warnings marked (S-05).
-- **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
+  - **Anchor placement (VOICE-GUIDE.md § Notes 2026-11-23):** apply the anchor-split convention listed under *Notes and apparatus* in the backlog — split paragraphs that stack distinct claims (the L59 treaty paragraph is the main case) and renumber; then re-run the citations check and update `plans/registry/locators.md` and the T4 notes. — **done (2026-11-23): 19 Notes; see the backlog entry.**
+  - Re-measure length after the re-voice (pilot dropped 40%); apply a cut plan only if still over 3,200; floor 1,800. — 1,800 words, at the floor; do not cut further without adding an equivalent beat.
+  - **Naming (S-04 ✓):** Use the book form (`gazetteer.csv` `book_name`) throughout; give each place one gloss on first mention (book form + modern form, e.g. *Cascar (Kashgar)*); no bare modern or alternate forms outside quotations. Chapter-specific conflicts are listed under *Naming and gazetteer* above. — Tana and Trebizond are glossed and Rusticiano/Rusticien resolved; the open item is nit 1 (drop the Venezia/Genova gloss noise).
+  - **People (S-05 ✓):** Same rule for people (`plans/registry/characters.yaml`): the book form throughout (Yule's form where Polo names the person, e.g. *Cublay*, *Alaü*, *Argon*; the modern form where he does not, e.g. *Chabi*, *Bolad*), glossed once on first mention (*Cublay (Kublai)*); no bare variant outside quotations. — clean at 2026-11-23.
+- **Done when:** lint green (S-02) + human voice read against the v3 standard (`VOICE-GUIDE.md` v3; models II-3/II-4)
 
 ### I-01.T2 — Ramusio flags and labels to the S-03 convention
 - **Status:** backlog · **Depends:** S-03 ✓, `I-01.T3` (the flags are written during the re-voice pass)
@@ -92,14 +97,14 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-01.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-01.T3` (re-voice renumbers Notes)
-- **Now:** 15 Notes · 0 ★ · 0 without a lead marker
+- **Status:** open (lint green 2026-11-23) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-01.T3` (re-voice renumbers Notes)
+- **Now:** 19 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
-  - Run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
-  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-  - **S-12 (2026-11-10):** Note [8] (dictation language, Franco-Italian register) may cite the F text in its modern edition, `eusebi2018devisement` (open access), beside Benedetto.
+  - Run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space). — green at 2026-11-23.
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too. — **anchor-placement split done (2026-11-23):** 19 Notes, claim-level anchors, sentence-final anchors before the full stop; `locators.md` row updated.
+  - **S-12 (2026-11-10):** Note [9] (dictation language, Franco-Italian register) may cite the F text in its modern edition, `eusebi2018devisement` (open access), beside Benedetto. — applied (parallel-text box cites Eusebi).
   - **S-13 ✓ (`registry/scholarship.md` Q1 and § The 2024 anniversary):** Notes on composition: Franco-Italian is settled; F belongs with the thirty-odd French manuscripts copied in Genoa by Pisan prisoners; the Book was then rewritten in Venice in stages (`andreose2024textual`, read). The end of the captivity: a record published in 2026 may put Marco in Venice by October 1298 (`bolognari2026venezia`, read); give it as Bolognari's inference.
-  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [12]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Larner supports Rustichello’s romance shaping, not an invented Marco persona; retain the corrected body and Note together.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [12]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task. Larner supports Rustichello’s romance shaping, not an invented Marco persona; retain the corrected body and Note together. — Note [13] (was [12], renumbered in the 2026-11-23 split); registry row updated.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-01.T5 — Media placement (figures, tables, captions)
@@ -121,10 +126,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
 
 ### I-01.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 6 errors · 3 warnings — failing: asides, budgets, quotes; warnings: recaps
-- **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md`; fix every error; take the warnings into the human read.
-- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+- **Status:** lint done (2026-11-23, 0 errors · 0 warnings); human voice read open · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-11-23, `plans/status/lint-baseline.md`):** 0 errors · 0 warnings — 1,800 words · 5% verbatim · 0 quotes · 2 asides. (The 2026-10-22 snapshot of 6 errors · 3 warnings — asides, budgets, quotes — is superseded.)
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md`; fix every error; take the warnings into the human read. — lint is green; keep it green through the T3 anchor-split renumber.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against the v3 standard.
 
 
 **S-15 intake → I-01.T1/T4:** Follow `registry/facts.md` S15-F2–F3 and `research/results/S-15-raw.md` #11–15. Attribute Jacopo's 1296 Ayas account and Ramusio's Curzola story; identify Yule/Bolognari's 1294 interpretation as an argument, not a refutation of any possible later skirmish. The exact prison, shared cell, Rustichello's lay status and Meloria capture are unverified; frame composition as collaboration. Cite Bolognari 2024 and Yule for Notes.

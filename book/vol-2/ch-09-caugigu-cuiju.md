@@ -8,76 +8,98 @@
 
 ---
 
-Marco Polo turns after Bangala to Caugigu (Jinghong or a disputed Upper Red River / northern Vietnam region). His account then strings together Anin (Jianshui or Annam), Coloman (a disputed Guizhou / Guangxi border frontier) and Cuiju (a provisional Guiyang area) before bringing the traveller back to Sindafu (Chengdu) and Juju (Zhuozhou). Much of this route is reported geography rather than an established personal circuit. Yule thought Polo followed the road only in the final stretch, and modern identifications remain uncertain. [1]
+Gold and good cotton in Bangala were worth going some distance for. In the next country, Caugigu (perhaps around Jinghong, or on the Upper Red River), gold and spices are cheap, says Polo. He puts thirty days between here and Bangala [1]. Distance from the sea explains the price to a man who wants to buy. The man who makes the journey in the other direction has to work out how long he can afford to have his money tied up in his load. He might find people wanting to buy at a town well short of the coast, and be glad to have made something on the goods before he reaches the best market. How much do you take at the price a dealer is offering here? The advantage is in being willing to wait, and a man still has to eat while he waits. It takes a long road to carry the goods to the place where they will fetch more [2].
+
+The king sends tribute to Cublay (Kublai) every year [3]. Put the king's treasure aside for a moment and look at a man's arm. The dragons there go where he goes. You can tell which people the Book thinks best dressed without seeing a stitch of their clothes.
 
 See [the map of the southwest circuit, II-7](ch-07-tebet-carajan.md#map-of-the-southwest-circuit).
 
-Caugigu is a province toward the east, ruled by a king who sends tribute to Cublay (Kublai). Polo describes a court rich in wives and a country rich in gold and spices. The king may take any beautiful woman he hears of, keeping at least three hundred. Elephants, rice wine and plentiful game fill the rest of the landscape. The people mark their faces, necks, chests, arms and bellies with tattooed lions, dragons and birds. Their rank is measured by how much of this work they bear. [2]
+A visitor to Caugigu can find elephants, cattle, game and wine made from rice and spices [4]. There is another count the Book makes to impress him. The king is supposed to have at least three hundred wives and to take any woman he hears is beautiful. That is what the story would have a listener know about what a king can do here [5].
 
-Tattoo was more than decoration in this report. It showed that a person belonged to a visible rank and carried a lasting sign of allegiance or elegance. Polo gives no ceremony for the marking and no date for the practice, but he makes the inked body part of the province’s tribute economy. Gold, spice and women are likewise signs of royal abundance, while elephants mark the country as a mainland kingdom of military roads rather than a coastal market.
+Look at the needlework Polo remembers. The marks can go on a chest or a face as well as an arm, with lions and birds as well as dragons. The more there is to see, the handsomer he says it makes a person [6]. The design you'd see halfway down a man's arm goes on under his clothes. Someone who saw it at a place where men had taken their shirts off would have a different account from the one you could take home from a formal visit to the king's court. The Book is willing to tell you what turns heads on this road. We have no such good account of how the mark was made, what it meant to the person who wore it, or who did the work.
 
-The name and place do not settle into one location. Yule places Caugigu around Kiang-Hung in the Upper Laos–Shan country. Pelliot [-@pelliot1959notes] sees the name as a rendering of Kiao-Chi-Kwe and sets the description on the Upper Red River, with the northern Vietnamese kingdom as the name’s source. The location is uncertain, so this chapter follows no single identification. The payment of tribute, elephants, inland trade and tattooed élite are the report’s recurring details. [3]
+— There is more than one place to put the people in this account. Yule looks to the country around Jinghong, while Pelliot finds a name that points to northern Vietnam and a description that might belong on the Upper Red River. A name can travel well enough to be heard a long way from the place of which it was first used [7].
 
-Anin (Anin, a disputed southeast Carajan (Yunnan) or Annam region) lies farther east and north-east along Polo’s itinerary. Its people raise cattle and till the fields, speak a separate language and wear costly bracelets of gold and silver. They sell horses to Indian merchants and keep buffalo, oxen and fine pastures. Polo gives distances of twenty-five days from Caugigu and eight days to Coloman, with Bangala thirty days behind Caugigu. [4]
+Farther east, as the Book has it, a man interested in horses might go to Anin (perhaps Jianshui or an area in Annam). Visitors from India come to buy them. The Book lets you see the pasture that supports herds of buffalo and oxen [8]. A man in the trade would be interested in what his competitors have paid and whether there are enough good horses still to be had. Sometimes the people he needs are already on their way out of the country with the animals he would like to buy. Ask them what to expect farther on and they might have a better tale for you than the one you get at the market.
 
-Those measures should not be read as surveyed miles. Manuscripts disagree on the first interval, and the chapter already moves far outside a certain route. The lifeways are more consistent than the map: pastoral wealth, horse trade, metal ornaments and a separate language fit upland societies of southern Carajan (Yunnan). Yule associated Anin with Homi or a market in the same upland region, while Pelliot [-@pelliot1959notes] preferred an Annamite reading. The names do not establish a tribal or national identity.
+People wear gold and silver rings on their arms and legs. The men have the more costly ornaments, says Polo [9]. You could ask a man coming back from Anin what it cost him to bring a horse away, and another man whether he had seen the gold on the riders' arms. They could be speaking about the same place and give you two very different reasons to imagine it prosperous.
 
-The bracelets add a second kind of measure. Polo gives the men the more valuable ornaments, then connects wealth to the horses sold west and south. The route is one of exchange rather than a catalogue of crops: pasture supports cattle, cattle support trade, and metal ornaments display the success of both. The text has more confidence in this economic pattern than in the dates that separate one province from the next.
+How far did they go? One reading of the Book makes it twenty-five days from Caugigu to Anin. Another has fifteen [10]. The distances are reports and the place is disputed. Yule looked towards Homi or the country around the town. Pelliot looked for an Annamite name [11]. A traveller returning by a different road could hear another name for the country and never discover how much of what he is told he already knows.
 
-Coloman (a disputed Kolo-man or alternate-manuscript highland region) is eastward again. Polo describes handsome brown soldiers, towns and villages among great mountains, and positions so strong that nature seems to fortify them. The dead are burnt. Their bones go into small chests and are carried into mountain caverns, where they hang beyond the reach of men or beasts. Cowrie shells serve petty trade, while gold serves larger exchanges. [5]
+Another eight days in the Book brings you to Coloman (the Guizhou or north-eastern Yunnan uplands, provisionally) [12]. The towns lie among great mountains with strong positions. Polo admires the people as soldiers even while he offers the great ridges to explain what makes the settlements hard to reach [13].
 
-The hanging bones make the hill itself part of a social boundary. Neither animal nor thief can reach the remains, while the position of the cavern keeps the dead above ordinary traffic. Polo moves immediately from burial to gold and cowries, as though to show both a people’s visible fortifications and their two kinds of currency. The chapter does not explain the rite or claim to have seen the cavern. It records what the informants said of the mountain.
+Go up a little farther and stop where the Book says a man can go no farther. You are high enough for the houses you have come past to be out of sight, and a man could have told you to look there from a long way below. He has shown you enough to imagine how carefully people chose a place where something entrusted to the mountain could be left in peace. It has the people burn their dead, put the bones in little chests and take them up to caverns where they hang the boxes beyond the reach of people and animals [14]. The man who told the story has managed to give the listener the height and the difficulty of the place. He has no need to say that he climbed to it himself.
 
-The Kolo-man name belongs to the contested upland frontier of Carajan and Cuiju. Yule placed Coloman around western Cuiju, where ridge and pass made defence easy. Pelliot [-@pelliot1959notes] read the alternate manuscript form as a Chinese name for “Tu-lao-man” in the north-east Carajan frontier. Both readings treat this as a martial mountain people, but neither makes the funeral rite more than an account heard by the Book.
+Under the mountains are rich men with a great deal to sell. To pay for something small, a man may count out shells. There is gold for a greater purchase, and both currencies serve in other places just named [15]. A gold bracelet would tell you what one man has to show for his dealings. The small shells would be more use in finding out what he pays for his dinner. The Book calls the shells porcelain, the familiar name for a bright white thing that can go by the handful as money. That is the purse you want to have ready when the market is no more than a few people standing near the road with things you can use. The men who buy whole loads have quite another business to do. A description that has room for the shells and the gold leaves both sizes of exchange in view.
 
-Cuiju (a provisional Guiyang-area region) comes after Coloman along a river. Twelve days bring the traveller to Fungul (Yibin/Suifu, possibly a lower Sichuan frontier river city). Polo says the inhabitants make summer cloth from bark fibre and pay for goods with the Great Kaan’s paper money. The province has silk and a river route that carries goods between its towns. [6]
+By the time you get to Cuiju (perhaps the Guiyang area), you have spent twelve days along a river, in Polo's reckoning. He brings you to Fungul (possibly Yibin or Suifu), with other candidates for the river station and for the province as a whole [16].
 
-Polo calls the animals of the region lions. In Chinese usage they are generally tigers. They can raid boats and snatch a man from the bank. He says the inhabitants keep fierce dogs large enough to face a tiger in pairs. The dogs hound it, bite behind or at the haunch, and turn away when it counters. The travellers then shoot it with arrows if it turns to protect its rear against a tree.
+— A very good river port can be found on a map without settling what the people who lived there called it. The suggested placements of Fungul and Cuiju try to fit waterways, distances and names that do not lead us all to the same place [17].
 
-The set-piece is more vivid than its natural history. Yuan-era travellers could encounter large dogs in southern caravans, and tigers lived in the southwest hills. The dog-and-tiger hunt should be treated as a tale of courage and practical escort, not a zoological count. Fungul itself remains uncertain: Yule discussed a nearby river-city identification, and later records keep that broad junction plausible. [7]
+Here you can buy fine cloth for summer that people make out of the bark of trees [18]. You can pay for it with the Great Kaan's paper. The Book marks this as the beginning of the country where his notes are current again [19]. Someone who has brought shells out of the mountains would have to find out how much the men ahead of him will allow for what he is carrying. A bolt of summer cloth, however, can go as easily along the river as the silk they carry on it [20].
 
-The scene may also carry a practical piece of caravan knowledge. A large dog can distract a predator while armed men keep their distance, and a group facing a riverbank tiger can buy time for bowmen to act. Polo exaggerates the danger and turns the road into a repeating contest, but the story has an intelligible function: no one travels alone, and the dogs are as important to trade as the bark cloth or the river boats.
+At night a boatman has another thing on his mind. Tie up close to the bank and, in the Book's account, what it calls a lion will make off with one of the men. You can imagine how much a man waiting to go ashore wants to hear that story before he takes another step [21]. The same animal gives the tale-teller a creature worth opposing with something you can take along. There are dogs big enough to stand up to it, two together in the story [22].
 
-The river journey continues for twelve more days to Sindafu. Towns line the way; people trade, use paper money and live under the Kaan. The return route from Sindafu is the longest in the chapter. Polo says it retraces the provinces and cities already described for seventy days until the traveller reaches Juju. [8]
+First comes the barking. You hear it from the grass and then from the trees, where the beast tries to get its back against a trunk. Now the men who have stood listening can see it. The tale will give them the last word with their bows [23]. A man listening to the story at home can tell the Book is pleased with the dogs. A boatman who has to decide where the crew are going to sleep might have something more practical to say about the same reach of water. He wants to know where other people tie up, how far the current will take him after dusk and where there is anybody to ask about the state of the river. There is quite a difference between the forbidding bank the story leaves you with and the one a man would be pleased to reach on a dark evening.
 
-From Juju, four days toward the south lead to Cacanfu (Hejian). The Book promises to describe that city later. This final note closes the report by joining the southwestern circuit to the route across Cathay and Manzi. The whole southwest passage is a composite of hearsay, partial routes and later mapmaking. It deserves its places in the record, but not every interval or identification should be made precise. [9]
+After another twelve days of towns along the river you come to Sindafu (Chengdu), according to Polo [24]. Think of the roofed bridge from the first journey, when there was money to be made by setting out shops in the morning and taking them away at night. You may have seen it busy from the other bank and wondered what difference a roof could make to a bridge. Now you know there are men who can take their shop away with them when they leave. The Book gives you no need to stop there to learn how it is done. It turns you out through the same towns and provinces you crossed on the way from the capital. Seventy days to Juju (Zhuozhou) by its count [25].
 
-Cacanfu is the hinge between the southern passage and the chapter yet to come. Juju has already appeared as a point on the road north, and Cacanfu moves that road back toward the provinces of Cathay. The distance is small in the Book, only four days, compared with the seventy and twenty-five-day spans before it. That difference is part of the story’s treatment of place: a known road is brief, while a reported land is made vast by time.
+The chapters behind us have put quite different kinds of journeys into a single line. A horse that has come from Anin can stand before you in a place to which no horse-dealer from Anin has ever had reason to go. A man who brought it from the market can tell you what he heard there. You can have rather good evidence for the price and still have to ask how far the tale has gone on the strength of a few words exchanged in a town. Our guide has been able to tell you where he would send you for a horse and what will buy a shirt along a river. He has often left the journey between the two to the confidence of the man who told him the number of days.
 
-Across the whole circuit, the people change in Polo’s account by costume, currency and combat. Caugigu has tattooed bodies and elephants. Anin has metal ornaments and horse trade. Coloman has mountain forts and cave-hung bones. Cuiju has bark cloth and paper money. The progression is not a census of ethnic groups, and the Book’s language such as “peculiar language” or “handsome people” says little about the speakers themselves. It does show which goods and customs struck a listener as markers of difference.
-
-The currencies mark the boundary especially clearly. Cowries move at the local level in Coloman and the southwest, while paper money belongs to the Great Kaan’s fiscal territory. Gold, silver and spices connect inland markets to broader exchange, but Polo does not pretend they are available equally everywhere. Caugigu’s gold and spices are cheap because the coast is far. Coloman finds gold and uses cowries for petty traffic. The economy is local and connected at the same time.
-
-The animals do similar work. Elephants belong to Caugigu, tigers to Cuiju and oxen to the pastoral descriptions around Caugigu and Anin. In every case the animal is presented as a measure of the land: great beasts, strong pastures and difficult riverbanks make the province vivid. They also reveal the limits of the text. “Lion” is a traveller’s label for one kind of animal, and “tiger” is the more probable name.
-
-The return is geographically compressed. Polo sends the traveller from the southwest through Sindafu, over the route already told, and back to Juju before the next stage southward. The sequence preserves the pattern of imperial circulation: tribute lands, market peoples, paper-money districts and provincial capitals on the road to the court’s northern capital. It does not prove that Marco personally traced every reported kingdom.
-
-The route also reverses the reader’s direction. The preceding chapters move southwest from court and campaign country; this chapter turns east, north-east and then back to a road already familiar. Anin and Coloman are less important as exact points than as a report of what lay between Carajan and Cuiju. Caugigu, Cuiju and Fungul add mainland kingdoms, mountain peoples and river ports to that zone. The return to Sindafu and Juju tells us that the southwestern world is being folded back into the wider Yuan itinerary.
-
-The chapter’s military language is equally cautious. Polo calls the Kolo-man people good soldiers because they live among strong mountains and defend their towns. That is a judgement about a martial reputation, not a count of troops or an order of battle. It does not make every mountain community one tribe, and it should not be used to turn a report of local dress or funeral practice into an ethnic biography.
-
-The trade descriptions are more concrete. Pastures and horses fit an exchange network reaching into India; bark fibre and silk fit river workshops; paper money marks imperial administration; cowries and gold mark older or more local systems of payment. These details need not come from the same journey. They can have been collected at court, on the road or by merchants who knew the region. Polo gives them one sequence, but the sequence does not prove the source.
-
-The return to the court road is also a return to a more familiar scale of evidence. Cathay and Manzi use paper money, imperial routes and named provincial cities. The southwest report uses kings, clans, animals and distances in days. Polo’s narrative joins those scales at Sindafu. He makes the traveller cross from a doubtful province to a known road, then retrace familiar ground to Juju. That turn is useful as structure even where the places remain disputed.
+At Juju we're back at the fork where the western road began. A man can stop at an inn here, settle his bill and take the other turning in the morning. Have your paper money ready to spend in the towns on the four days south to Cacanfu (Hejian) [26].
 
 ---
 
 ## Notes
 
-[1] ✗ / ◇ [@yc, 2.59] The broad southwest circuit is likely reported rather than witnessed. Yule permits a personal route only in the latter part. Useful as a Yuan frontier ethnography, not a reliable diary.
+[1] ? The thirty days are the distance reported by Polo [@yc, 2.56–2.57].
 
-[2] ◇ / ~ Caugigu has a tributary king, gold, spices, elephants, rice wine and elaborate tattoo. The harem is a reported topos with at least 300 wives. ~ Inland trade and domestic elephants fit southwest mainland patterns. As cited in Yule [@yc, 2.56].
+[2] ~ Polo explains why the gold and spices fetch less so far from the sea [@yc, 2.56].
 
-[3] ? Caugigu name and place are disputed. Yule places the region around Kiang Hung (Jinghong); Pelliot [-@pelliot1959notes, vol. 1, entry 128] derives the name from Kiao-Chi-Kwe and places the Upper Red River description near northern Vietnam. The location and the name need not designate the same kingdom.
+[3] ~ Tribute is an annual payment in the Book’s description of the king’s relation to the Great Kaan [@yc, 2.56].
 
-[4] ~ / ? / ◇ Anin is placed as an upland market in Yule or Annam in Pelliot [-@pelliot1959notes, vol. 1, entry 22]. ✓ Pastoral wealth, horses, buffalo and cattle, silver and gold ornaments are internally plausible. Manuscript distances and the 25/15-day interval vary; do not turn the report into a linear itinerary. As cited in Yule: Garnier [@yc, 2.57].
+[4] ~ The elephants, cattle and rice wine are part of the Book’s inventory [@yc, 2.56].
 
-[5] ✓ / ~ Coloman has brown, tall, good soldiers, mountain strongholds, cremation and hanging bone-chests. ✓ Cowries and gold suit southwestern trade. ? Exact identity and cave rite remain disputed; Yule favours western Cuiju, Pelliot [-@pelliot1959notes, vol. 2, entry 363] north-east Carajan. As cited in Yule: Magaillans, Bridgman [@yc, 2.58].
+[5] ~ The supposed number and the king’s right to take wives are the Book’s account of his court [@yc, 2.56].
 
-[6] ✓ / ~ / ? Cuiju is provisionally placed in the southwest circuit. ✓ Bark-fibre cloth and paper money recur in commercial descriptions. ? Fungul = Yibin/Suifu, Phungan-lu or another river city; the exact match remains unresolved. As cited in Yule: Perny, Richthofen [@yc, 2.59].
+[6] ~ Polo reports tattooing and the admiration given to it. His description provides no independent identification of a people [@yc, 2.56].
 
-[7] ✗ / ~ / ◇ “Lions” mean tigers or a loose felid term. ✓ Tigers were present in southwest China; large dogs could accompany caravans. ◇ The dog-versus-tiger set-piece carries Rustichello’s dramatic method, not a proven hunt. As cited in Yule: Macleod [@yc, 2.59].
+[7] ? Yule proposed Kiang-Hung. Pelliot derives the name from Kiao-Chi-Kwe and looks to the Upper Red River for the description [@yc, 2.56 n. 1; @pelliot1959notes, vol. 1, entry 128].
 
-[8] ~ / ? The twelve river-days to Fungul and another twelve to Sindafu compress a route rather than map a modern road. Yule proposes a personal return through western Cuiju and eastern Carajan, but the exact direction is unresolved. As cited in Yule: Hosie [@yc, 2.59].
+[8] ~ The horse trade with India and herds are Polo’s report [@yc, 2.57].
 
-[9] ~ / ✓ [@yc, 2.59] The seventy-day return to Juju compresses ground already described. ✓ Cacanfu = Hejian is reached four days south of Juju on the Cathay road. The circuit’s geography is a return structure, not a measured itinerary.
+[9] ~ Polo describes the ornaments and regards the men’s as dearer [@yc, 2.57].
+
+[10] ? The text has variants of twenty-five or fifteen days [@yc, 2.57 n. 2].
+
+[11] ? Yule discusses southern Yunnan candidates and Pelliot reads the name in connection with Annam [@yc, 2.57 n. 1; @pelliot1959notes, vol. 1, entry 22].
+
+[12] ~ The eight days are the reported interval in the Book [@yc, 2.57–2.58].
+
+[13] ? Yule looks to western Guizhou and Pelliot reads a variant as Tu-lao-man and favours the adjoining Yunnan frontier. The description of formidable mountain settlements is Polo’s [@yc, 2.58 nn. 1–2; @pelliot1959notes, vol. 2, entry 363].
+
+[14] ~ Burning the dead and hanging the chests are reported by the Book. The comparison leaves the rite’s exact location open [@yc, 2.58].
+
+[15] ~ The Book gives cowries for petty traffic and reports gold. It extends those currencies to Bangala, Caugigu and Anin [@yc, 2.58].
+
+[16] ? Polo’s first twelve days along the river bring him to Fungul. The exact site and route are debated [@yc, 2.59 n. 1].
+
+[17] ? Fungul has been identified with Yibin, Luzhou or Phungan-lu. Interpretations of Cuiju include a broad Guizhou location and alternatives towards the Sichuan river routes [@yc, 2.59 n. 1].
+
+[18] ~ The summer cloth of bark fibre is in the Book. Yule adduces comparisons for plant-based textiles [@yc, 2.59 n. 2].
+
+[19] ~ The point of transition to the Kaan’s paper currency follows Polo’s sequence [@yc, 2.59].
+
+[20] ~ River commerce in silk and other wares belongs to the Book’s description [@yc, 2.59 n. 5].
+
+[21] ~ Yule considers tigers in explaining the Book’s lions. The risk to the boats is episodic hearsay [@yc, 2.59 n. 3].
+
+[22] ~ The dogs are the means of safe travel in Polo’s account. Yule adduces comparisons for the large dogs of the region [@yc, 2.59 n. 4].
+
+[23] ~ The confrontation by the tree is the Book’s set piece [@yc, 2.59].
+
+[24] ? The Book then has a second stage of twelve days to Sindafu. The reconstruction of this approach remains open [@yc, 2.59 n. 6].
+
+[25] ? The Book takes seventy days to return over the familiar route. Yule considers a possible personal journey in this part of the circuit [@yc, 2.59 n. 7].
+
+[26] ✓ Cacanfu is Hejian. Polo gives four days south from Juju [@yc, 2.59–2.60].

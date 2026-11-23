@@ -1,10 +1,12 @@
 # I-10 — Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country
 
-**File:** `vol-1/ch-10-pamier-cotan.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-1/ch-10-pamier-cotan.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
 | 2,740 | 51% | — (n/a in Vol. I) | ok | no |
+
+**W4 voice pass (2026-11-23).** Fire, high pasture and the stones of Cotan carry the route. The hanging pillar, its witnesses and the uncertain Pamier identifications have their own Notes. Targeted lint: 1,835 words, 2% Yule overlap, 0 errors, 1 warning. Current anchors are numbered 1–25.
 
 ## Backlog (from critique; not yet tasks)
 

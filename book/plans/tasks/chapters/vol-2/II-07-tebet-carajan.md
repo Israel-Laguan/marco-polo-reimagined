@@ -1,6 +1,8 @@
 # II-07 — Tebet, Caindu, Carajan, Zardandan
 
-**File:** `vol-2/ch-07-tebet-carajan.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-07-tebet-carajan.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** The voice pass and chapter apparatus edit are in the manuscript, with 37 sequential Notes. Targeted lint: 1,937 words, 1% Yule overlap, 0 errors, 0 warnings. Former salt-cake Note 7 is now Notes 13–15 (weights, stamp, exchange and Vogel); Yachi and Talifu now have distinct Notes 19–24. See W4 for the source handoff.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
