@@ -105,6 +105,8 @@ One system, four parts: **Notes** (numbered, at the chapter's end), **markers** 
 
 Place each `[n]` immediately after the name, figure, object, or claim it covers, before the prose moves on. For example, “Polo calls them Keshican [1]” and “four companies of three thousand [2]” tell the reader exactly where each Note belongs. Number anchors in reading order and give each one a single matching Note under `## Notes`.
 
+**Anchor placement (2026-11-23, from the I-2 pass):** a paragraph that makes several distinct claims carries several anchors — split the Note rather than land one trailing `[n]` over the whole paragraph. A paragraph-closing anchor is a review point: either it is a single-claim paragraph (fine), or it stacks claims and needs more anchors. Anchor each claim at the sentence or clause that raises it, e.g. the I-2 opener “Venetian records … came from. [1]”, the Andrea tradition “of San Felice. [2]”, and the brothers’ division “…ventures that follow. [3]”. Splitting renumbers the chapter: re-run the citations check, and update `plans/registry/locators.md` pointers, back-matter or cross-chapter references, and the chapter task file when numbers move.
+
 Open with the verdict and write two or three readable sentences about the anchored detail. Skip bolded labels, strings of verdicts, and lists of authorities. Choose the form that suits the claim.
 
 1. **Curiosity.** Explain a word, object, or custom, with a memorable detail that earns the detour.
@@ -207,6 +209,6 @@ The Markdown stays plain; the build (`tools/build/`, S-08 closed 2026-11-10) con
 
 1. Read the backlog file in `plans/tasks/chapters/` and the Yule chapters it covers.
 2. Verify the epigraph and open on a concrete bridge into the new scene. Retell scene by scene and keep at most two marked quotations per scene.
-3. Apply the W2 factual findings and W3 provenance review. Give claims direct anchors and write their Notes in two or three sentences with checked sources and useful pointers.
+3. Apply the W2 factual findings and W3 provenance review. Give each claim a direct anchor beside it and write its Note in two or three sentences with checked sources and useful pointers; split multi-claim paragraphs into several anchors instead of one trailing note.
 4. Read the narrative aloud for pace, voice, and continuity. Read the outro against the next chapter’s opening. Check the claim at each anchor against its Note and follow each companion pointer.
 5. Run chapter lint and compare the result with II-3 in the human voice read.

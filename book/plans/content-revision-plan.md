@@ -134,14 +134,16 @@ Check Yule's brackets, the chapter backlog, and `tools/ramusio-manifest.json`. T
 1. Keep the exact Yule–Cordier epigraph. Use the first paragraph to pick up a concrete detail from the preceding chapter and take the reader into the new scene with immediate scale, danger, or sensory detail.
 2. Use Marco's eye for trade and practical detail and Rustichello's feel for spectacle. Give the modern narrator Ramusio’s curiosity as an editor and a sense of which details are worth stopping for. Stage catalogues as actions and let the narrator shift the reader’s viewpoint or offer a comparison at natural pauses. Keep the established budgets for verbatim overlap, length, and marked quotations.
 3. Apply W2 factual findings and W3 witness provenance. Put each sequential `[n]` beside its claim. Use an in-scene clause for any correction a listener needs.
-4. Give each anchor one matching Note. Begin with a verdict (✓ ~ ✗ ?) and write two or three sentences of curiosity, witness contrast, or authority and navigation. Give checked citations and send extended debates or definitions to the relevant companion.
+4. Put each anchor at its claim and give it one matching Note — split a paragraph that makes several distinct claims rather than leaving one trailing anchor (the split renumbers the chapter; update `plans/registry/locators.md` pointers and the task file when it does). Begin with a verdict (✓ ~ ✗ ?) and write two or three sentences of curiosity, witness contrast, or authority and navigation. Give checked citations and send extended debates or definitions to the relevant companion.
 5. End with a short outro that carries a detail into the next chapter’s first event or question. Run targeted lint and read for voice, source fidelity, anchor placement, and companion references. Review in batches of three or four chapters.
 
 **v3 rollout:** II-3 (benchmark promoted) → II-4 (re-voiced) → II-8 (next v3 pass).
 
+- **Vol. I — I-2 complete (2026-11-23):** *The House of Polo and the Elder Voyage* is re-voiced to v3 with the Terek-outcome correction (F-01: the Book's winner reversed; routed across the frozen Terek, winter 1262–63), the house background re-attributed to Venetian records (m8), the notes re-anchored claim-by-claim (25 Notes: [1]–[3] records / Andrea tradition / brothers and Maffeo), the Maffeo marriage claims hedged per F-17 (no bachelor, no childless claim, no will year printed), and Pipino/Ramusio provenance labels in Notes [24]–[25]. All S-04/S-05 name glosses applied (Barca, Alaü, Cublay, Sigatay, Barac, Abaga). Targeted lint passes with 0 errors and 0 warnings (1,893 words; 12% Yule overlap; 5 quotes; 3 asides); `tools/build/build.sh ch02` places the A3 map with no placeholders or size warnings.
+
 **Earlier passes and outstanding order:** II-2 was the S-01 pilot. The earlier Vol. II pass also covered II-14, II-10, II-6, II-12, II-1, II-11, and II-9. Use v3 for the remaining worst-first work:
   - Vol. II: II-15 → II-7 → II-13 → II-5.
-  - Vol. I: I-7 (70%) → I-9 → I-8 → I-5 → I-6 → I-13 → I-10 → I-4 → I-11 → I-3 → I-2.
+  - Vol. I: I-7 (70%) → I-9 → I-8 → I-5 → I-6 → I-13 → I-10 → I-4 → I-11 → I-3. **I-2 complete (2026-11-23).**
   - Vol. III: III-4 (77–78%) → III-3 → III-8 → III-6 → III-1 → III-2 → III-7 → III-5 → III-9 → III-10.
 - **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).
 - **III-10 to III-12** (S-07): re-voice with section plans, no rebuild. III-10 ends at 1324; III-11 tells the reception as events; III-12 argues (home of Wood's full case and of the series' principles). Plans in each `.T3`.
@@ -155,7 +157,7 @@ Check Yule's brackets, the chapter backlog, and `tools/ramusio-manifest.json`. T
 
 The critique gives a cut plan for each. Most of the cuts come out of the recaps.
 
-**S-01 finding:** a full re-voice shrank II-2 by 40% (3,167 → 1,894) with no fact lost. Re-voice first, then re-measure; apply a cut plan only if a chapter is still over 3,200. Watch the 1,800 floor instead. I-1 (two "Anyway" exits, two-paragraph closing recap) and I-2 (28% verbatim) also get a T3.
+**S-01 finding:** a full re-voice shrank II-2 by 40% (3,167 → 1,894) with no fact lost. Re-voice first, then re-measure; apply a cut plan only if a chapter is still over 3,200. Watch the 1,800 floor instead. I-1 (two "Anyway" exits, two-paragraph closing recap) still gets a T3; I-2's pass is done (2026-11-23).
 
 ### W5 — Apparatus normalisation
 
