@@ -2,6 +2,26 @@
 
 Scope: `vol-2/` (ch-01 to ch-15, front-01, front-02, back-01, README) checked against VOICE-GUIDE.md, outline-volumes.md (Vol. II), gazetteer.csv, and the Yule–Cordier text in `refs/` (searched by phrase and with an automated 7/8-word n-gram comparison; no ref file was read whole). The review was read-only, and this file is the only thing written.
 
+> **Resolution & Verification Status (2026-11-24):** Superseded by the Voice Guide v3 rewrite and subsequent apparatus/fact-check passes. Confirmed directly against `vol-2/*.md`, `gazetteer.csv`, `refs/`, and `plans/registry/facts.md`:
+> - **Lint & Metrics:** `python3 tools/lint.py vol-2/*.md` passes `19/19` files (`E0`, `W0`). Narrative lengths are 1,801–2,157 words (under the 3,200 ceiling) and verbatim Yule 7-gram overlap is 1–4% (chapters), 3% (`front-01`), 5% (`back-01`), and 11% (`front-02`).
+> - **Resolved (confirmed in current files):**
+>   - **C1** (`ch-05` Note [12] & comparison table, `ch-11` Note [14], `back-01` Note [1] — Po-lo identified as Bolad, marked `✗`).
+>   - **C2** (re-voiced across all 15 chapters; 1–4% Yule overlap, 0 archaisms, 0 first-person Book lines).
+>   - **C3** (`front-01`, `front-02`, `back-01` epigraphs replaced with verified Yule–Cordier lines in `refs/`).
+>   - **M1** (Ramusio-only provenance flags added across `ch-02`, `03`, `04`, `05`, `12`, `13`, `14` Notes and checked by `lint.py`).
+>   - **M2 / M11** (`front-01`, `front-02`, `gazetteer.csv` separate Cachanfu = Puzhou/Hezhong and Kenjanfu = Xi'an; "Nestorians noted" removed; Pazanjin folded into `cachanfu` aliases; Caugigu = Kiang Hung, Cacanfu = Hejian, Nanghin = Kaifeng; missing Vol. II gazetteer rows added; first-mention glosses enforced by `name_policy`).
+>   - **M3 / M4** (drafting instructions, outline-beat lists, `Soft ...:`/`Gazetteer: *visited*` labels, opening/closing recaps, and formulaic hinges removed; `lint.py` enforces 0).
+>   - **M5** (`ch-01` line 17 & Note [5] — Temüge Otchigin).
+>   - **M6** (`ch-11` lines 48, 58–59, Notes [29]–[34] — 1275 court arrival, Muslim engineers Alawating and Ysemain from *Yuan shi*).
+>   - **M7** (`✓ ~ ✗ ◇ ?` markers used throughout; no `★` markers; `ch-05` Note [12] `✗`; `ch-15` Note [18] notes 1294 is a year off).
+>   - **M8** (`front-01` has "Reading the marks" key; `front-02` has rebuilt map list A9–A14, no "placeholders" or mislabelled `map-hangzhou-kinsay`).
+>   - **M10** (all 15 chapters within 1,801–2,157 words).
+>   - **M12** (`ch-02` line 53 & Notes [45]–[47] cover tea, foot-binding, and the Great Wall).
+>   - **M13** (`ch-14` Note [32] — "? plausibly identified with Dehua... though Lin and Zhang show Tingzhou/Changting"; Note [20] hedges Fujian local histories per `F-13`).
+>   - **m1–m15 & N1–N9** (all 15 minor items and 9 nits resolved in the current text: `ch-15` Kiacatu/Baidu/Baraq–Abaga chronology and Pharaoh's rat/Lac glosses; `ch-02` Chinkin 1284–85 vs Jan 1286; `ch-07` Yachi/Talifu citations [19]–[23] and Sentemur/Hügechi dating; `ch-08` Vochan battle and unicorn/rhinoceros note; `ch-10` Bayan 1268 `✗`; `ch-12` Mar Sarghis `@moule1915christians`; `ch-13` 42 claim-level Notes; `ch-04` *Milione* reception framing; `ch-01` Kaifeng 1163 tablets; `ch-06` Juju south-west; `ch-09`/`ch-10` epigraphs verified in `refs/`).
+> - **Tracked / Intentionally Hedged (1 item):**
+>   - **M9** (`ch-05` Note [1]): Currently hedged ("Ramusio-only in Yule's edition... absent from the Geographic French") without citing Zelada (Z) / Moule–Pelliot (1938), because the Z Ahmad collation has not been directly inspected. Tracked in [`plans/tasks/cross/APP-apparatus.md`](../tasks/cross/APP-apparatus.md) (`APP.T11g`) and [`plans/registry/facts.md`](../registry/facts.md) (`F-09`).
+
 ---
 
 ## 1. Volume verdict
