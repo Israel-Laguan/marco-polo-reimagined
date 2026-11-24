@@ -1,10 +1,10 @@
 # II-B1 — Trivia and Disputes — Volume II
 
-**File:** `vol-2/back-01-trivia-and-disputes.md` · **Status:** backlog · **Kind:** back
+**File:** `vol-2/back-01-trivia-and-disputes.md` · **Status:** v3 drafted, reader review pending · **Kind:** back
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 876 | n/a | — | ok (7/7) | no |
+| 432 | 5% | — | ok [1–8] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -56,8 +56,8 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-B1.T6` Lint pass and human read
 
 ### II-B1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, S-06 ✓
-- **Now:** bare variants: Shangdu → Chandu ×1, Dadu → Cambaluc ×1, Yangzhou → Yanju ×1, Xiangyang → Saianfu ×1, Hangzhou → Kinsay ×1, Quanzhou → Zayton ×1
+- **Status:** done (2026-11-24) · **Depends:** S-04 ✓, S-06 ✓
+- **Now:** 0 bare variants (`gazetteer.bare_variants` clean); Achmath/Bolad (`F-08`), Saianfu (`F-07`), and epigraph (`C3`) aligned.
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
@@ -66,7 +66,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### II-B1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Status:** done (2026-11-24; 432 narrative words) · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
   - Disputes become a shortlist (one line each, ≤ 40 words, chapter and Note): Yanju (:33), Saianfu (:35), Kinsay numbers (:37), paper money (:39), coal (:41).
   - Cut trivia that the chapters or II-F1 already tell (m12): two capitals (:15), paper money (:17), coal "quiet proof" (:19), Book IV (:27). Ahmad (:21) → one line (per F-08).
@@ -77,8 +77,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### II-B1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 6 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 8 Notes, 0 ★, lint clean) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Now:** 8 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -87,7 +87,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### II-B1.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** in progress (lint E0 W0 on 2026-11-24; awaiting human read) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

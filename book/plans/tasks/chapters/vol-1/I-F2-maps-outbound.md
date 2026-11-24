@@ -1,14 +1,14 @@
 # I-F2 — Maps for the Outbound Road
 
-**File:** `vol-1/front-02-maps-outbound.md` · **Status:** backlog · **Kind:** front
+**File:** `vol-1/front-02-maps-outbound.md` · **Status:** revised 2026-11-24, human review pending · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,067 | n/a | — (n/a in Vol. I) | ok | no |
+| 297 | 4% | — (n/a in Vol. I) | ok | no |
 
-## Backlog (from critique; not yet tasks)
+## Original critique
 
-Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+The references below point to the draft examined in the critique. The task entries record the revisions.
 
 ### Critical
 - Epigraph is invented or conflated: *"from this city of Lop it is forty days' journey across the desert…"*. In Yule the Lop desert takes **a month** at its narrowest (Y:22928); "forty days" belongs to **Etzina** (Y:24539–24541). Fix: *"And here, where its breadth is least, it takes a month to cross it."* (Book I, Of the City of Lop and the Great Desert). Content plan W1.1. — vol-1 C2 · front-02:4
@@ -41,9 +41,8 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Media hooks
 - **Hero plate:** none (map guide)
 - **Secondary plates:** none
-- **Maps:** A1 Series overview (generated; "Each volume's front-02"). Existing: `map-marco-polo-overview.*` keep, re-caption as the whole round trip; `map-marco-polo-shepherd.jpg` keep as a historical-cartography curiosity (Shepherd 1911 base), half page at most; `map-asia-mongol-empire.*` replace with generated political map (A2, placed at I-F1). Critique §5: the two existing overview maps suit front-02 only; per-chapter maps need the M8 gazetteer fix first.
-- **Timelines / diagrams / tables:** place tables (regenerate from fixed gazetteer)
-- **Characters appearing:** Marco Polo, the elder Polo brothers (unnamed here), Tedaldo Visconti / Gregory X, the Great Khan (Kublai, unnamed); Prester John and King George (via Tenduc's "legends")
+- **Maps:** A1 series round trip. The index points to A2 in I-F1 and A18, A3, A4, A5 and A6 in their chapters. Legacy maps and credits are covered by `MED.T2`.
+- **Tables:** three place tables and the no-fix list from the series gazetteer.
 
 ## Gated by spikes
 - S-02 Acceptance lint and thresholds
@@ -56,46 +55,30 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-11 ✓ closed for plates only; the kept Shepherd 1911 map and the Wikimedia credits moved to `MED.T2`
 
 ## Tasks
-_Created after the gating spikes close. Expected shapes:_
-- `I-F2.T1` Critical and factual fixes
-- `I-F2.T3` Re-voice to the S-01 standard (incl. length cuts)
-- `I-F2.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning. Move each `*Caption:*` paragraph into its image brackets (`BLD.T6` flags it).
-- `I-F2.T6` Lint pass and human voice read
 
 ### I-F2.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
-- **Now:** bare variants: Hormuz → Hormos ×3, Iran → Persia ×1, Old Hormuz → Hormos ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1, Wakhan → Vocan ×1, Pamir → Pamier ×1, Kashgar → Cascar ×1 (+4 more)
-- **Do:**
-  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
-  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-  - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-25: the Mongol map caption names the 1294 frame, "c. 1294" (four khanates); never place the animated file itself, whose static frame is 1206 (with `MED.T1`).
-- **Done when:** `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+- **Status:** revised 2026-11-24, human names and factual review pending · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
+- **Applied:** Kept the exact Yule Lop epigraph. The guide gives the Tauris and Yule routes as reconstructions and treats the return to Kerman as narrative sequence. The abandoned sailing plan is attributed to Yule.
+- **Names and tables:** Applied Book forms and first-mention glosses. Updated the gazetteer to attribute the Badashan recovery to Ramusio, remove the invalid alias and supply a complete Sinju description. Regenerated the tables and no-fix list and checked that they match the generator. Checked prose names and glosses separately because front-matter lint omits `name_policy`.
+- **F-25:** The 1294 frame is archived under `MED.T2`. I-F2 points to the edition's 1260 map in I-F1.
 
 ### I-F2.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
-- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
-  - Home of the Vol. I route (:13–21) and the map list; add the missing Venice–Genoa and first-journey maps to the list (outline beat 5), or list them as planned (`MAP`).
-  - Keep the cautions on identifications (Old Hormuz :90); keep :92 as a one-sentence caution (the numbers argument lives in III-12 §5).
-  - Cut the closing "Anyway, the maps are here…" (:94).
-  - Place tables are regenerated by `GAZ.T5`; don't hand-edit them.
-  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
-- **Target:** ≤ 500 prose words (lint cap 1,200).
-- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
+- **Status:** revised 2026-11-24, human voice review pending · **Depends:** S-07 ✓
+- **Applied:** The guide keeps the three route summaries, map index, generated tables and identification cautions. The travel-time caution points to III-12's “Famous stress-points” section. The closing recap was cut. The guide is 297 prose words against a target of 500.
+- **Human review:** Read against the S-07 role matrix and II-2 for voice.
 
 ### I-F2.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 5 Notes · 0 ★ · 0 without a lead marker
-- **Do:**
-  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
-  - Run `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
-  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+- **Status:** revised 2026-11-24, human Notes review pending · **Depends:** S-03 ✓, `APP.T2` ✓
+- **Applied:** Six Notes with lead markers and sequential anchors. The route and Hormos dispute have separate anchors. The pointers to I-2, I-3, I-7 and I-9 were checked against the current chapter Notes.
+- **Check:** `markers`, `tags` and `citations` pass.
+
+### I-F2.T5 — Media placement
+- **Status:** verified 2026-11-24 · **Depends:** S-08 ✓, S-09 ✓, `MED.T2` ✓
+- **Applied:** A1 stays in the guide with its round-trip caption. The index links to the existing figure and map-heading anchors, including the Adriatic inset and the elder Polos’ first voyage.
+- **Check:** Volume I PDF and HTML builds completed. All six index links reach their maps in both builds. Pages xvii–xxiv were proofed, including the figure, tables and Notes. The build reported zero placeholders and zero undersized rasters.
 
 ### I-F2.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** automated checks pass, human sign-off pending · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 9 errors · 0 warnings — failing: markers, quote_verify, scaffolding
-- **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md`; fix every error; take the warnings into the human read.
-- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
-
-**Targeted continuity pass (2026-11-17), applied to `I-F2.T1`:** M2 only: :17, the Hormuz place-table row and Note [3] now give the turn back to Kerman as the Book’s and the abandoned sea plan as Yule’s inference. The m1 route difference (Tauris vs Baghdad), captions and names are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.
+- **Checked 2026-11-24:** `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` reported 0 errors and 0 warnings. `python3 tools/gazetteer.py check` reported 198 rows and 0 problems.
+- **Remaining:** Human review of names, Notes and voice.

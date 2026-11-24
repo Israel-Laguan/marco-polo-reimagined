@@ -6,13 +6,15 @@
 
 ---
 
-Volume II needs a different map habit than Volume I. You are no longer dragging a caravan from Ayas to Lop; you are circling a court, then riding circuits west, southwest, and south through canal country to the Fujian havens. The tables below list the places Volume II names [1].
+The roads in Volume II spread out from Cambaluc (Beijing). The tables give the Book’s place names, modern equivalents and suggested locations [1].
 
-### How the Volume II map hangs together
+### The circuits of Volume II
 
-Start at **Cambaluc** (Beijing). One road of description runs **west and southwest** across the Pulisanghin bridge toward Shanxi, Kenjanfu (Xi’an) country, Sichuan’s Sindafu, then Yunnan’s Carajan — with Tebet and Mien (Burma) mostly as side-report. Another movement — the one modern readers often love most — runs **southeast into Manzi**: canal and river cities, Yanju (Yangzhou), the Saianfu siege story, Suju (Suzhou), Hangzhou’s Kinsay, then down the coast to Fuju (Fuzhou) and Zayton (Quanzhou) [2].
+**The two capitals.** Find Cambaluc and Chandu (Shangdu) on Map A7. From the winter capital the Book follows the roads that carry the Kaan’s messengers into the provinces [2].
 
-Politically you are inside Yuan China after the Mongol conquest of the north and during/after the absorption of the Song south. Ethnographically Polo still splits the world into Cathay (north) and Manzi (south) in the older foreigner’s tongue.
+**West and southwest.** The west road crosses the Pulisanghin (Lugou Bridge) and the Yellow River on its way to Cachanfu (Puzhou), Kenjanfu (Xi’an) and Sindafu (Chengdu). The southwest circuit follows the Book through the marches of Tebet (eastern Tibet) into Carajan (Yunnan). The course through the borderlands is reconstructed, and the branch to Mien (the Bagan kingdom in Myanmar) follows Polo’s report [3].
+
+**The Grand Canal and the Fujian road.** The Book turns south through canal country into Manzi, passing Yanju (Yangzhou) before it crosses the Yangzi. Saianfu (Xiangyang) belongs to a western digression. The main sequence passes through Suju (Suzhou) and Kinsay (Hangzhou), then follows river valleys and mountain passes to Fuju (Fuzhou) and the haven of Zayton (Quanzhou) [4].
 
 ### Map of the round trip
 
@@ -21,6 +23,12 @@ Politically you are inside Yuan China after the Mongol conquest of the north and
 ### Map of Kublai’s realm
 
 ![Map A7. Kublai’s realm around 1290. Shaded areas show approximate cores of the ten eastern administrative zones. Ochre lines trace the west road, southwest circuit, Grand Canal corridor and Fujian road. The inset shows the broad region of Nayan’s 1287 revolt and Chandu, the departure point named in the Yuan annals. The location of the decisive engagement remains uncertain. *(Map: this edition, after Tan via Li and colleagues, figure 1; the Book and Yuan shi.)*](../media/maps/A7-kublais-realm.svg)
+
+### Maps in the chapters
+
+[A9. Cambaluc city plan (II-2)](ch-02-person-palace.md#fig-a9-dadu-city-plan), [A10. West road (II-6)](ch-06-pulisanghin-sindafu.md#fig-a10-west-road) and [A11. Southwest circuit (II-7)](ch-07-tebet-carajan.md#map-of-the-southwest-circuit) cover the capital and the roads west.
+
+[A12. Canal spine (II-10)](ch-10-manzi-sung.md#map-of-the-canal-spine) and [A13. Fujian road (II-14)](ch-14-fuju-zayton.md#fig-a13-fujian-road) follow the roads south. The [A13 inset](ch-14-fuju-zayton.md#fig-a13-tyunju-inset) shows Zayton and Tyunju (possibly Dehua). [A14. Mongol horizon (II-15)](ch-15-great-turkey-ponent.md#fig-mongol-horizon) shows the western realms of the volume’s last chapter.
 
 ### Place table — capital approaches and west / southwest circuit
 
@@ -70,9 +78,9 @@ Politically you are inside Yuan China after the Mongol conquest of the north and
 | Cayu | Gaoyou, Jiangsu, China | Silk, fish, cheap game. |
 | Tiju | Taizhou, Jiangsu, China | About 25 mi east of the canal. |
 | Tinju | Nantong (Tung-chau), Jiangsu, China | Salt city; Tung-chau or I-chin candidates. |
-| Yanju | Yangzhou, Jiangsu, China | Polo claims to have governed it three years (contested). |
+| Yanju | Yangzhou, Jiangsu, China | Canal city on the approach to the Yangzi. |
 | Nanghin | Kaifeng (Yuan Nan-ching / Bianliang Lu), Henan, China | Western silk province in the Book, placed at Kaifeng after Pelliot, with Anqing as Yule’s alternative. |
-| Saianfu | Xiangyang, Hubei, China | Siege and the mangonels; visit vs report debated. |
+| Saianfu | Xiangyang, Hubei, China | Fortified city west of the canal route. |
 | Sinju | Yizheng, Jiangsu, China | City of Sinju on the Kian, 15 mi from Yanju. |
 | Caiju | Guazhou, Jiangsu, China | Canal's southern hinge on the Kiang. |
 | Chinghianfu | Zhenjiang, Jiangsu, China | Golden Island abbey in the river opposite Caiju. |
@@ -91,7 +99,7 @@ Politically you are inside Yuan China after the Mongol conquest of the north and
 | Unken | Minhou (Hu-kwan), Fujian, China | Sugar city; Cordier: Hu-kwan. |
 | Fuju | Fuzhou, Fujian, China | Fujian circuit; Yule's Fuju = Fu-chau. |
 | Zayton | Quanzhou, Fujian, China | Great haven; embarkation of the return fleet. |
-| Tyunju | Dehua, Fujian, China | Porcelain town (Cordier: Tek-hwa); only the 'sole source' boast fails. |
+| Tyunju | Dehua area, Fujian, China (provisional) | Porcelain locality placed provisionally at Dehua after Cordier, with Tingzhou or Changting as another reading. |
 
 ### Place table — other places in the Book
 
@@ -105,18 +113,18 @@ Politically you are inside Yuan China after the Mongol conquest of the north and
 
 ### Map cautions for Volume II
 
-**Yanju / Yangzhou** is a solid city identification; Polo’s claim to have governed it is the quarrel, not the pin on the map. **Saianfu** is solidly Xiangyang; whether the Polos’ engineers truly delivered the decisive mangonels is the quarrel. **Caugigu, Anin, Coloman, Cuiju** are ethnonym-heavy and soft — good for reading Yule’s footnotes, bad for pretending precision. **Tebet** in Polo is eastern marches and musk country more than a Lhasa travel diary [3].
-
-Cambaluc itself also appears in Volume I’s place tables because the elder brothers and Marco’s arrival share the capital; Volume II is where the city becomes a full machine on the page.
-
-Anyway, keep these maps nearby when the storyteller says *next he mentions Sindafu* or *then Polo describes Kinsay*. The circuits are long; the book’s memory is longer.
+Map A11 uses provisional regional references for Caugigu (near Jinghong), Anin (near Jianshui), Coloman (the Guizhou borderlands) and Cuiju (near Guiyang) [5]. Vuju (Huzhou) lies near Suju, and Vuju (Jinhua) on the way to Fuju.
 
 ---
 
 ## Notes
 
-[1] ✓ The place tables give each place's book name, its modern name, and its role in Volume II, following the series gazetteer and Yule–Cordier unless a chapter Note states otherwise [@yc, bk. 2]. Map and figure sources are listed in the [media credits](../media/ATTRIBUTIONS.md).
+[1] ✓ The tables follow the series gazetteer, based on Yule–Cordier and the identifications discussed in the chapter Notes [@yc, bk. 2]. Where a disputed place is plotted, the modern name gives the reference used for it. See the [media credits](../media/ATTRIBUTIONS.md) for map sources.
 
-[2] ✓ Yule organises Book II into the dual circuits radiating from Cambaluc: the western road through Shanxi, Shaanxi, Sichuan, and Yunnan (Chapters II-6 to II-9) and the south-eastern Grand Canal and coastal road through Manzi to Zayton (Chapters II-10 to II-14) [@yc, 2.26, 2.35, 2.60]. Compare [Map A7, Kublai’s realm](#map-of-kublais-realm).
+[2] ✓ The Book describes the Kaan’s winter residence at Cambaluc and the roads for imperial messengers [@yc, 1.61, 2.10–11, 2.26]. For the court’s seasonal movements and the site of the new capital, see II-2, Notes 14 and 35.
 
-[3] ? Uncertain southwestern frontier toponyms (Caugigu, Anin, Coloman, Cuiju) and contested personal service claims at Yanju and Saianfu are weighed in their respective chapter Notes [@yc, 2.56–59, 2.68, 2.70; @pelliot1959notes]. For a concise checklist of the Volume II controversies, see [Back Matter II-1](back-01-trivia-and-disputes.md#disputed-claims--the-volume-ii-shortlist).
+[3] ✓ The west road follows the Book’s sequence. For Cachanfu and Kenjanfu, see II-6, Notes 28 and 30. ~ The mapped southwest circuit reconstructs the course between the stages of the Book and distinguishes reported places [@yc, 2.35–59].
+
+[4] ✓ Maps A12 and A13 follow the Book’s sequence south. A12 marks the digression west to Nanghin and Saianfu [@yc, 2.60–82]. For the competing identifications of Nanghin, see II-11, Note 18. For the identification of Zayton, see II-14, Note 26.
+
+[5] ? The southwest identifications cover broad areas. For Yule’s Kiang Hung and Pelliot’s Upper Red River readings of Caugigu, see II-9, Note 7. The readings for Anin, Coloman and Cuiju are discussed in II-9 and the caption to Map A11 [@yc, 2.56–59; @pelliot1959notes, vol. 1, entry 128].

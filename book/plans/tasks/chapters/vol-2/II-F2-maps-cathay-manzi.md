@@ -1,14 +1,14 @@
 # II-F2 — Maps for Cathay and Manzi
 
-**File:** `vol-2/front-02-maps-cathay-manzi.md` · **Status:** backlog · **Kind:** front
+**File:** `vol-2/front-02-maps-cathay-manzi.md` · **Status:** revised 2026-11-24, human review pending · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 766 | n/a | — | 3/3; Note [1] leaks `/workspace` path | no |
+| 290 | 11% | — | 5/5 | no |
 
-## Backlog (from critique; not yet tasks)
+## Original critique
 
-Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit · **[W]** content-plan only.
+The references below point to the draft examined in the critique. The task entries record the revisions. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit · **[W]** content-plan only.
 
 ### Critical
 - **[C]** Invented epigraph: "And so I will tell you of the great province of Manzi…" is not in Yule–Cordier. Fix: "And when you pass this river you enter the great province of Manzi" (Bk II.lxv, verified). Observation (not in critique): ch-10:4 quotes the same Yule line (as "So when you pass…", N5), so the swap would echo II-10's epigraph. — vol-2 C3 · front-02:4; content plan W1.1
@@ -38,11 +38,10 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - **[M]** Map list covers only half the outline's four (Cambaluc and Shangdu; SW circuit; Grand Canal/Manzi spine; Zayton). `map-cambaluc.jpg` (Dadu plan) and `map-caugigu.jpg` (Yule Itinerary No. V) exist but are unused. Fix: add map-cambaluc and map-caugigu (SW circuit section). — vol-2 M8 · front-02 (whole)
 
 ## Media hooks
-- **Hero plate:** — none (map page)
-- **Secondary plates:** — none
-- **Maps:** A1 series overview (each volume's front-02, replaces the Wikimedia one); A7 Kublai's realm c. 1290 (II-front-02). Existing files: `map-china-yuan.png` (deduped 2026-11-17, MED.T3; multimedia plan: **replace** with generated map, too small); `map-cambaluc.jpg` (**replace** with redrawn A9 Dadu plan); `map-caugigu.jpg` (keep as small facsimile, superseded by A11); `map-hangzhou-kinsay.*` (**drop**). Multimedia "Order of work" step 1: fix these mis-captions now.
-- **Timelines / diagrams / tables:** place tables (regenerate from gazetteer, W5)
-- **Characters appearing:** Marco Polo (claims at Yanju/Saianfu); Prince Mangala (in critique's Kenjanfu row fix only)
+
+- **Maps in the guide:** A1 series round trip and A7 Kublai’s realm, including the Nayan inset.
+- **Chapter map index:** A9 (II-2), A10 (II-6), A11 (II-7), A12 (II-10), A13 and its Tyunju inset (II-14), and A14 (II-15). See `MED.T2` for legacy media and credits.
+- **Tables:** three place tables and the no-fix list from the series gazetteer.
 
 ## Gated by spikes
 - S-02 Acceptance lint and thresholds
@@ -55,47 +54,34 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-11 ✓ closed for plates only; facsimile credits and Wikimedia mis-credits are `MED.T1` (captions) and `MED.T2` (ATTRIBUTIONS)
 
 ## Tasks
-_Created after the gating spikes close. Expected shapes:_
-- `II-F2.T1` Critical and factual fixes (epigraph, Cachanfu/Kenjanfu rows)
-- `II-F2.T3` Prose clean-up (placeholders, tic)
-- `II-F2.T5` Media placement and caption correction (A1, A7, Cambaluc, Caugigu; drop Kinsay "map") · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning. Move each `*Caption:*` paragraph into its image brackets (`BLD.T6` flags it).
-- `II-F2.T6` Lint pass and human read
 
 ### II-F2.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
-- **Now:** bare variants: Beijing → Cambaluc ×1, Tibet → Tebet ×1, Yunnan → Carajan ×1, Burma → Mien ×1, Yangzhou → Yanju ×1, Xiangyang → Saianfu ×1, Suzhou → Suju ×1, Hangzhou → Kinsay ×1 (+2 more)
-- **Do:**
-  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
-  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-  - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-11: the Cachanfu row is fixed by the `GAZ.T5` regeneration (Puzhou/Hezhong); check it, and drop "Nestorians noted".
-- **Done when:** `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+- **Status:** revised 2026-11-24, human names and factual review pending · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
+- **Epigraph:** Retained the verified Book II.26 quotation about the roads out of Cambaluc. It avoids repeating the Manzi crossing used in II-10.
+- **Names and tables:** Applied Book forms and first-mention glosses. Regenerated the tables and no-fix list and checked that they match the generator. Checked prose names separately because front-matter lint omits `name_policy`.
+- **Identifications:** Cachanfu is Puzhou/Hezhong and Kenjanfu is Xi’an (F-11). Pazanjin survives as an alias of Cachanfu. Acbalec Manzi is in the western table. Caugigu uses Yule’s provisional Kiang Hung reference and Nanghin uses Pelliot’s Kaifeng with Yule’s Anqing alternative. Both Vuju entries appear. The Tyunju row now gives Dehua as provisional and names Tingzhou/Changting as an alternative.
 
 ### II-F2.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
-- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
-  - Home of the Vol. II circuits (take over II-F1 :41–48, merged with :13) and the map list (M8: add Cambaluc and Shangdu, the SW circuit; `map-cambaluc`, `map-caugigu`).
-  - Kinsay (:31): caption only; the numbers live in II-13. Yanju/Saianfu (:69): identification only.
-  - Cut "The images below are placeholders" (:9) and the closing "Anyway…" (:73).
-  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
-- **Target:** ≤ 500 prose words (lint cap 1,200).
-- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
+- **Status:** revised 2026-11-24, human voice review pending · **Depends:** S-07 ✓
+- **Applied:** The guide gives the capitals and circuits, the map index, the generated tables and the identification cautions. It distinguishes reconstructed courses from reported places. The Yanju and Saianfu table entries describe the locations. II-11 holds the disputes. Removed the closing recap. The guide is 290 prose words against a target of 500.
+- **Human review:** Read against the S-07 role matrix and II-2 for voice.
 
 ### II-F2.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 3 Notes · 0 ★ · 0 without a lead marker
-- **Do:**
-  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
-  - Run `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
-  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+- **Status:** revised 2026-11-24, human Notes review pending · **Depends:** S-03 ✓, `APP.T2` ✓
+- **Applied:** Five marked Notes with sequential anchors. The Notes cover gazetteer use, the capitals and messenger roads, the western and southwest circuits, the southern route, and disputed southwest identifications. The chapter Note locators were checked in II-2, II-6, II-9, II-11 and II-14.
+- **Check:** `markers`, `tags` and `citations` pass.
+
+### II-F2.T5 — Media placement
+- **Status:** verified 2026-11-24 · **Depends:** S-08 ✓, S-09 ✓, `MED.T2` ✓
+- **Applied:** A1 and A7 retain their credits and uncertainty labels. The map index points to seven existing chapter map destinations.
+- **Check:** Volume II PDF and HTML builds completed. All seven index links reach their maps in both builds. Print pages xv–xxiii were proofed, including map captions, table breaks and Notes. The PDF build reported zero placeholders and zero undersized rasters.
 
 ### II-F2.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** automated checks pass, human sign-off pending · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 7 errors · 0 warnings — failing: markers, quote_verify, scaffolding
-- **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md`; fix every error; take the warnings into the human read.
-- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+- **Checked 2026-11-24:** `python3 tools/lint.py -v vol-2/front-02-maps-cathay-manzi.md` reported 0 errors and 0 warnings. `python3 tools/gazetteer.py check` reported 198 rows and 0 problems.
+- **Remaining:** Human review of names, factual wording, Notes and voice.
 
 ## S-17 map handoff (2026-11-11)
 
-Use `registry/facts.md` S17-F4/F6 and the [intake](../../../research/results/S-17-intake.md) when placing A9–A13. The Dadu palace plan and exact wall/gate coordinates still require a cited reconstruction; label uncertain elements. The southwest place markers are provisional regional interpretations, with Yule/Pelliot alternatives in captions. Tyunju/Dehua remains provisional pending a philological source. Follow the individual `MAP.T09`–`MAP.T13` tasks.
+See `registry/facts.md` S17-F4/F6, the [intake](../../../research/results/S-17-intake.md), and `MAP.T09`–`MAP.T13`. A9 credits Fu Xinian’s reconstruction as reproduced by Funo and distinguishes reconstructed and approximate features. A11 uses provisional regional references and gives the Yule and Pelliot alternatives in its caption. The A13 inset gives Dehua and Tingzhou/Changting as competing readings for Tyunju.

@@ -1,10 +1,10 @@
 # III-B1 — Trivia, Disputes, and Afterlives — Volume III
 
-**File:** `vol-3/back-01-trivia-and-afterlives.md` · **Status:** backlog · **Kind:** back
+**File:** `vol-3/back-01-trivia-and-afterlives.md` · **Status:** v3 drafted, reader review pending · **Kind:** back
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 780 | n/a | — | ok (7/7) | no |
+| 458 | 2% | — | ok [1–8] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -52,8 +52,8 @@ _Created after the gating spikes close. Expected shapes:_
 - `III-B1.T6` Lint pass and human voice read
 
 ### III-B1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, S-06 ✓
-- **Now:** bare variants: Japan → Chipangu ×1, Sumatra → Java the Less ×1, Andaman → Angamanain ×1, Malabar → Melibar ×1, Madagascar → Madeigascar ×1
+- **Status:** done (2026-11-24) · **Depends:** S-04 ✓, S-06 ✓
+- **Now:** 0 bare variants (`name_policy` clean); Adam's Peak (`F-23`), Cocachin (`F-15`), *Madeigascar* (`andreose2024textual`), shark-charmers (`S21-E36`), Trebizond (`S18-E15`), and pasta (`S15-H5`/`S20-E4`) aligned.
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
@@ -64,7 +64,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-B1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Status:** done (2026-11-24; 458 narrative words) · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
   - Disputes become a shortlist (one line each, chapter and Note): Chipangu gold (:31), Cocachin with Yang Zhijiu (:33, per F-15).
   - Cut everything III-10, III-11 and III-12 already tell: *Milione* (:23), the book outran the man (:27), personal landings (:35), Columbus (:37), Wood (:39), Great Wall harvest (:41), Ramusio's homecoming (:43), "Afterlives in one breath" (:45–49).
@@ -75,8 +75,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### III-B1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 6 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 8 Notes, 0 ★, lint clean) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Now:** 8 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -85,7 +85,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-B1.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** in progress (lint E0 W0 on 2026-11-24; awaiting human read) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 3 errors · 0 warnings — failing: markers, quote_verify
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/back-01-trivia-and-afterlives.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

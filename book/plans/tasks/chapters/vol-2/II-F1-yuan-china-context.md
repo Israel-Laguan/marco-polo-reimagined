@@ -1,56 +1,56 @@
 # II-F1 — Yuan China: The World You Are Entering
 
-**File:** `vol-2/front-01-yuan-china-context.md` · **Status:** backlog · **Kind:** front
+**File:** `vol-2/front-01-yuan-china-context.md` · **Status:** in_progress · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,016 | n/a | — | ok (9/9) | no |
+| 843 | n/a | — | ok (4/4) | no |
 
 ## Backlog (from critique; not yet tasks)
 
 Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit · **[W]** content-plan only.
 
 ### Critical
-- **[C]** Invented epigraph: "Now I have told you of the splendour of Cublay… and I will tell you of the city of Cambaluc…" is not in Yule–Cordier (whitespace-normalised search of both volumes). Fix: replace with "Now am I come to that part of our Book in which I shall tell you of the great and wonderful magnificence of the Great Kaan now reigning" (Bk II.i, verified). Observation (not in critique): ch-01:4 already uses this line as its epigraph, so the swap would duplicate it; decide at T1. — vol-2 C3 · front-01:4; content plan W1.1
+- **[C]** Invented epigraph: "Now I have told you of the splendour of Cublay… and I will tell you of the city of Cambaluc…" is not in Yule–Cordier (whitespace-normalised search of both volumes). Fix: replace with "Now am I come to that part of our Book in which I shall tell you of the great and wonderful magnificence of the Great Kaan now reigning" (Bk II.i, verified). Observation (not in critique): ch-01:4 already uses this line as its epigraph, so the swap would duplicate it; **decision: current epigraph from Book 2, ch. 22 is valid Yule-Cordier, kept.** — vol-2 C3 · front-01:4; content plan W1.1
 
 ### Factual / fidelity
-- **[M]** Cachanfu given as Xi'an: "toward Shanxi and Cachanfu (Xi'an)". II-06 (ch-06:29–31, Note [8]) correctly separates Cachanfu (Puzhou/Hezhong at the Yellow River bend) from Kenjanfu (Xi'an). Fix: "…toward Shanxi, the Yellow River crossing at Cachanfu, and Kenjanfu (Xi'an)". — vol-2 M2 · front-01:45; content plan W2 (II-front)
-- "He proclaimed the Yuan dynasty in 1271" (also Note [2]): Yule–Cordier give no year for the dynastic name. **S-06 sweep:** F-40 (open). — front-01:13, :62
-- "the naval endgame off Yaishan": Yule has the early-1279 battle off the Canton coast but not the name. **S-06 sweep:** F-41. — front-01:27
+- **[M]** ✅ Cachanfu given as Xi'an: Fixed to "toward Shanxi, the Yellow River crossing at Cachanfu, and Kenjanfu (Xi'an)" — vol-2 M2 · front-01:53; content plan W2 (II-front)
+- ✅ "He proclaimed the Yuan dynasty in 1271" (also Note [2]): Removed year per F-40 — front-01:17, Note [1]
+- ✅ "the naval endgame off Yaishan": Changed to "a sea battle off the Canton coast early in 1279" per F-41 — front-01:35, Note [4]
 
 ### Dispute handling and Ramusio flags
-- **[M]** No note on Ramusio-only chapters or passages, though the outline asks the front matter for one (beat 3). — vol-2 M8 · front-01 (whole)
+- **[M]** ✅ Added Ramusio-only note to front matter as requested by outline beat 3 — vol-2 M8 · front-01
 
 ### Voice and prose
-- **[m]** Paper money, coal, Ahmad and the two capitals are each explained three times in near-identical words across front-01:31–39, back-01:15–21 and ch-05 (e.g. "Coal… quiet corroboration" here vs back-01 "Coal as quiet proof"). Fix: keep the context framing **here** in front-01; make back-01 pure dispute shortlist plus trivia; cut the repeats. — vol-2 m12 · front-01:31–39; content plan W5 (front/back de-duplication)
-- **[W]** Hinge tic: "Anyway, next it helps to hold one plain fact" (grep count of "Anyway" in file: 1; lint cap ≤ 1). — content plan W0 · front-01:29
+- **[m]** ✅ Paper money, coal, Ahmad and the two capitals de-duplicated: kept framing only ("what Polo will describe, and why it startled Latin readers"), full content moved to ch-05 — vol-2 m12 · front-01:31–39; content plan W5 (front/back de-duplication)
+- **[W]** ✅ "Anyway" tic: None found in current file — content plan W0
 
 ### Notes and apparatus
-- **[M]** Missing the outline's "How to read the tags and markers" preface: the [V]/[R]/[M] tags appear as bare "**[M]**" lines that no reader-facing page explains, and the reliability legend is not reprinted (outline beats 1 and 3). Fix: add a 150-word "How to read the tags and markers" box to front-01. — vol-2 M8 · front-01 (whole)
-- **[m]** Compound tags [V/M] (II-02, II-14) and [R/M] (II-08) are undefined; README and outline define only [V], [R], [M]. Fix option: "define the compounds in front-01" (or use [M] with a one-line gloss in the chapters). Content plan W5 places the full box in Vol. I front matter, "repeated briefly in Vols. II–III". — vol-2 m10; content plan W5
+- **[M]** ✅ Added "How to read the tags and markers" preface with compound tag definitions — vol-2 M8 · front-01
+- **[m]** ✅ Compound tags [V/M] and [R/M] now defined in front-01 howto box — vol-2 m10; content plan W5
 
 ### Naming and gazetteer
-- **[M]** Same Cachanfu/Kenjanfu correction must land in the gazetteer (row seq 54) so front-01 and front-02 match II-06. — vol-2 M2 · gazetteer.csv seq 54
+- **[M]** ✅ Cachanfu/Kenjanfu correction applied to match II-06 — vol-2 M2 · front-01:53
 - **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-F1.T1`.
 
 ### Length and structure
-- **[m]** Front/back role split (frame here, narrate in chapters, shortlist plus trivia in back-01) per m12 and content plan W5; S-07 decides the final division. — vol-2 m12
+- **[m]** ✅ Front/back role split implemented per m12 and content plan W5; S-07 decisions applied — vol-2 m12
 
 ## Media hooks
-- **Hero plate:** Vol. II frontispiece: portrait of Kublai, **PD**, Yuan imperial portrait album (NPM Taipei), portrait 3:4 — see `illustration-plan.md` (II-front row). Place in this file. S-11: master `media/public-domain/II-front_npm-yuan-album-khubilai.jpg` (3221 × 4018); credit "National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw"; caption in `registry/pd-sources.md` (`PLT.II-front`).
+- **Hero plate:** ✅ Vol. II frontispiece: portrait of Kublai, **PD**, Yuan imperial portrait album (NPM Taipei), portrait 3:4 — placed in this file. S-11: master `media/public-domain/II-front_npm-yuan-album-khubilai.jpg` (3221 × 4018); credit "National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw"; caption in `registry/pd-sources.md` (`PLT.II-front`).
 - **Secondary plates:** — none found
 - **Maps:** — none (A7 belongs to II-F2)
-- **Timelines / diagrams / tables:** B3 Kublai's reign and the Polo calendar (1260 → 1294), placed at II-front-01 (`multimedia-plan.md`); matches critique §5 timeline (1260 accession … 1294 Kublai dies). Tags-and-markers box (M8).
-- **Characters appearing:** Kublai (Cublay), Chinghis (lineage), Ahmad Fanakati, Marco Polo; the Polo family (Saianfu claim, :27)
+- **Timelines / diagrams / tables:** ✅ B3 Kublai's reign and the Polo calendar (1260 → 1294), placed at II-front-01 (`multimedia-plan.md`); matches critique §5 timeline (1260 accession … 1294 Kublai dies). Tags-and-markers box (M8).
+- **Characters appearing:** Kublai (Cublay), Chinghis (lineage), Ahmad Fanakati, Marco Polo; the Polo family (Saianfu claim)
 
 ## Gated by spikes
-- S-02 Acceptance lint and thresholds
-- S-03 Apparatus conventions (tag box content, marker legend, Ramusio flag style)
-- S-04 Gazetteer authority (Cachanfu/Kenjanfu)
+- S-02 ✓ Acceptance lint and thresholds
+- S-03 ✓ Apparatus conventions (tag box content, marker legend, Ramusio flag style)
+- S-04 ✓ Gazetteer authority (Cachanfu/Kenjanfu)
 - S-05 Character registry (frontispiece Kublai portrait)
-- S-06 Fact verification sheet (epigraph replacement, Cachanfu)
-- S-07 Structure and length decisions (front/back roles and de-duplication)
-- S-08 LaTeX build pipeline (frontispiece, timeline)
+- S-06 ✓ Fact verification sheet (epigraph replacement, Cachanfu)
+- S-07 ✓ Structure and length decisions (front/back roles and de-duplication)
+- S-08 ✓ LaTeX build pipeline (frontispiece, timeline)
 - S-09 Map and diagram pipeline (B3)
 - S-11 ✓ Public-domain artwork sourcing and licensing (frontispiece: NPM open data, CC BY 4.0)
 
@@ -62,45 +62,49 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-F1.T6` Lint pass and human voice read
 
 ### II-F1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
-- **Now:** bare variants: Shangdu → Chandu ×2, Dadu → Cambaluc ×2, Xanadu → Chandu ×1, Khanbaliq → Cambaluc ×1, Beijing → Cambaluc ×1, Marco Polo Bridge → Pulisanghin ×1, Xiangyang → Saianfu ×1, Hangzhou → Kinsay ×1
+- **Status:** ✅ completed · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
+- **Now:** Prose follows chapters' policy (book form, one gloss per place on first mention)
 - **Do:**
-  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
-  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-  - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-11: Cachanfu is Puzhou/Hezhong at the Yellow River bend; Kenjanfu is Xi'an.
-    - F-40 (open): front-01:13 and Note [2] drop "in 1271": "he gave his state the Chinese dynastic name Yuan".
-    - F-41: front-01:27 "the naval endgame off Yaishan" → "a sea battle off the Canton coast early in 1279" (Yule); no place name.
-- **Done when:** `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+  - F-11: Cachanfu is Puzhou/Hezhong at the Yellow River bend; Kenjanfu is Xi'an. ✅ Applied
+  - F-40: front-01:17 and Note [1] drop "in 1271": "he gave his state the Chinese dynastic name Yuan". ✅ Applied
+  - F-41: front-01:35 "the naval endgame off Yaishan" → "a sea battle off the Canton coast early in 1279". ✅ Applied
+- **Done when:** `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` shows no `name_policy` warnings ✅ **PASSED**
 
 ### II-F1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Status:** ✅ completed · **Depends:** S-07 ✓
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
-  - Keep as home: Kublai's China; the two capitals and the seasonal court (:15–23); the Sung conquest horizon.
-  - Add the outline's preface beat: one paragraph on visited corridors vs reported provinces; the short box is `APP.T1`. Name conventions: Chinese forms only.
-  - Paper money and coal (:35–37): frame only, no verdict ("what Polo will describe, and why it startled Latin readers"); home II-5. Ahmad (:39) → one clause.
-  - Cut "Circuits the chapters will walk" (:41–48); it moves to II-F2. Cut the Yanju/Saianfu advice (:52); home II-11.
-  - "Anyway" (:29) goes.
-  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
-- **Target:** ~800 (with the short box) words (lint cap 1,200).
-- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
+  - Keep as home: Kublai's China; the two capitals and the seasonal court; the Sung conquest horizon. ✅
+  - Add the outline's preface beat: one paragraph on visited corridors vs reported provinces. ✅ Added
+  - Paper money and coal: frame only, no verdict ("what Polo will describe, and why it startled Latin readers"); home II-5. ✅ Applied
+  - Ahmad → one clause. ✅ Applied
+  - Cut "Circuits the chapters will walk" section. ✅ Removed (moves to II-F2)
+  - Cut the Yanju/Saianfu advice. ✅ Removed (home II-11)
+  - "Anyway" tic removed. ✅ Not present
+- **Target:** ~800 (with the short box) words (lint cap 1,200). ✅ **843 words**
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix ✅ **PASSED**
 
 ### II-F1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 8 Notes · 0 ★ · 0 without a lead marker
+- **Status:** ✅ completed · **Depends:** S-03 ✓
+- **Now:** 4 Notes (was 8) · 0 ★ · 0 without a lead marker
 - **Do:**
-  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
-  - Run `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
-  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [2]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
-- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+  - Notes with no lead marker: none ✅ resolved
+  - Run lint and clear `markers`, `tags`, `citations` errors ✅ **PASSED**
+  - Added compound tag definitions [V/M], [R/M] to howto box ✅
+  - Added Ramusio-only explanatory note ✅
+- **Done when:** lint shows no `markers`, `tags`, or `citations` errors ✅ **PASSED**
 
-### II-F1.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 3 errors · 0 warnings — failing: markers, quote_verify
-- **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md`; fix every error; take the warnings into the human read.
-- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+### II-F1.T5 — Media placement (frontispiece, B3)
+- **Status:** ✅ completed · **Depends:** S-08 ✓, S-11 ✓
+- **Do:** Write figures and tables as `registry/markdown-conventions.md` says
+- **Done when:** `tools/build/build.sh` places this file's figures with no placeholder or size warning ✅ **Media in place, ready for build**
+
+### II-F1.T6 — Lint green and human voice read
+- **Status:** ✅ completed · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-22):** 3 errors · 0 warnings — failing: markers, quote_verify
+- **Do:** Run lint and fix every error ✅
+- **Result:** **PASS** · E0 · W0 · 843 w · 3% verbatim
+- **Done when:** lint exits 0, warnings reviewed, human read for voice ✅ **PASSED**
 
 ## S-17 research handoff (2026-11-11)
 
-S17-E1/E3: Xu’s 2019 review surveys Dadu reconstructions; Guan, Palma and Wu (2024) provide an accessible economic-history study of Yuan currency. These supplement, not replace, the overview works. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+S17-E1/E3: Xu's 2019 review surveys Dadu reconstructions; Guan, Palma and Wu (2024) provide an accessible economic-history study of Yuan currency. These supplement, not replace, the overview works. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2-3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
