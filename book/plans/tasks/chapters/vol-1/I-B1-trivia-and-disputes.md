@@ -63,8 +63,8 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-B1.T6` Lint pass and human voice read
 
 ### I-B1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, S-06 ✓
-- **Now:** bare variants: Pamir → Pamier ×4, Hormuz → Hormos ×2, Baghdad → Baudas ×1, Old Hormuz → Hormos ×1, Dry Tree → Arbre Sec ×1, Alamut → Old Man of the Mountain ×1, Balkh → Balc ×1, Badakhshan → Badashan ×1 (+1 more)
+- **Status:** done (2026-11-24) · **Depends:** S-04 ✓, S-06 ✓
+- **Now:** 0 bare variants (`gazetteer.bare_variants` clean); epigraph adapted per m4, `Western` per nit 8, de Rachewiltz (1971) cited per m12, Hormos and F-34 hedged.
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
@@ -73,7 +73,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-B1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Status:** done (2026-11-24; 619 narrative words) · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
   - Disputes become a shortlist: one line each (verdict + chapter and Note), ≤ 40 words: Curzola (:33, per F-34), the "1250" date (:35), the conversion pledge (:37, without "weak joint"), Baudas mountain (:39), Assassins (:41), Arbre Sec (:43), Pipino's first meeting (:51).
   - Cut: Great Wall silence (:45; home III-12 §4), visited vs reported (:47; the tags say it), numbers and days' journeys (:49; III-12 §5).
@@ -84,7 +84,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### I-B1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Status:** done (2026-11-24; 9 Notes, 0 ★, lint clean) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
 - **Now:** 10 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
@@ -94,7 +94,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-B1.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** in progress (lint E0 W0 on 2026-11-24; awaiting human read) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -102,7 +102,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T1 / trivia
 
-- **Status:** backlog. Choose from S16-E9/E12/E15/E17 or the Hormuz route dispute, with attribution and without duplicating chapter notes. See [S-16 closeout](../../../research/results/S-16-closeout.md).
+- **Status:** done (2026-11-24). Added S16-E12 (“Roof of the world” / John Wood) and Hormos route inference with attribution. See [S-16 closeout](../../../research/results/S-16-closeout.md).
 
 ## S-21 source handoff
 

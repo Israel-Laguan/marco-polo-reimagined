@@ -114,7 +114,7 @@ The Book keeps its wonder intact when we give every marvel the exact foundation�
 
 [7] ~ Curzola is Ramusio’s tradition; Jacopo d’Acqui gives Ayas under 1296, often treated as a confusion with the 1294 battle. See [I-1](../vol-1/ch-01-genoa-prison.md) [@yc, Introduction §§ 36–38; @bolognari2024chronica].
 
-[8] ✓ Comparing independent witnesses limits what a printed version can tell us about earlier forms. Yule, the Moule–Pelliot edition, and recent studies trace how early redactions and clerical Latin diverged from vernacular exemplars [@yc, Introduction §§ 89–90; @moule1938description; @gadrat2022dominicans; @simion2024integral].
+[8] ✓ Comparing independent witnesses limits what a printed version can tell us about earlier forms. Yule, the Moule–Pelliot edition, and recent studies trace how early redactions and clerical Latin diverged from vernacular exemplars; Simion also treats Ramusio as an active editor whose choices belong to the transmission history [@yc, Introduction §§ 89–90; @moule1938description; @gadrat2022dominicans; @simion2018ipertesti, pp. 9–30; @simion2024integral].
 
 [9] ✓ F and V describe wooden defences. Zelada and Ramusio have the number of men and the ditches. See [III-3](ch-03-java-less-sumatra.md) for the details and locators [@eusebi2018devisement; @simion2019devisement; @moule1938description; @yc, 3.10].
 
