@@ -38,8 +38,8 @@ The draft is **accurate and complete in structure**. Every outline beat is cover
 - quotation verification splits at "…" and reports invented vs misquoted;
 - "≤ 2 per scene" is checked per paragraph, because the chapters have no scene breaks;
 - v3 checks numeric anchor and Note pairing even if the Notes section is missing, rejects bold labels immediately after a verdict, and looks for provenance in the Notes for near-verbatim Ramusio matches. Unanchored matches are review warnings. Compare paraphrases to the bracketed source and first-draft manifest by hand;
-- place names are checked as warnings only (S-04 closed: aliases exist, so `name_policy` flags bare non-canonical forms and unglossed first mentions; it becomes an error when the last chapter has had its naming pass);
-- people's names follow the same rule and the same check (S-05 closed: `plans/registry/characters.yaml`; warnings tagged *(S-05)*, 120 bare variants in 26 people at close).
+- place names are checked by `name_policy`, which reports bare non-canonical forms and unglossed first mentions as errors (GAZ.T7).
+- people's names follow the same rule from `plans/registry/characters.yaml`. Errors carry the *(S-05)* tag (CHR.T6).
 
 Baseline: `plans/status/lint-baseline.md` (1/49 files pass). The original table:
 

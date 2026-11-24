@@ -210,7 +210,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | zanghibar | III | Zanghibar |  | zan-gee-BAR | East African coast region associated with Zanzibar. |  | Approved |
 | place | zardandan | II | Zardandan |  | zar-dan-DAN | Gold-Teeth country on the southwestern frontier. | The name means “gold teeth” in Persian [@yc, 2.50 n. 2]. | Approved |
 | place | zayton | I II III | Zayton |  | ZAY-ton | Quanzhou, the great trading port from which the return fleet sails in the Book. | Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. | Approved |
-| person | abaqa | II III | Abaga |  | AH-bah-gah | Ilkhan who succeeded Hülegü. |  | Approved |
+| person | abaqa | I II III | Abaga |  | AH-bah-gah | Ilkhan who succeeded Hülegü. |  | Approved |
 | person | ahmad | II III | Achmath |  | AKH-mat | Finance minister in Kublai’s service, killed in a conspiracy. |  | Approved |
 | person | teguder | II | Acomat |  | AH-ko-mat | Ilkhan and uncle of Arghun, who deposed him. |  | Approved |
 | person | aijaruc | II | Aijaruc |  | eye-jah-ROOK | Kaidu’s daughter, famed in the Book for her wrestling. |  | Approved |

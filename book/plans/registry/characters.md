@@ -5,7 +5,7 @@ The registry is the **single authority for people**: how the prose names them, t
 | File | Holds |
 |---|---|
 | [`characters.yaml`](characters.yaml) | 54 people: book form, gloss, variants, other names, dates, role, relations, what the Book gets wrong, which spike must verify, chapters (generated) |
-| [`character-cards.yaml`](character-cards.yaml) | 19 visual cards, the Polo party's itinerary by year, 22 plate scenes with their figures |
+| [`character-cards.yaml`](character-cards.yaml) | 26 visual cards, the Polo party's itinerary by year, 22 plate scenes with their figures |
 | [`../status/character-name-diff.md`](../status/character-name-diff.md) | generated: bare variants and unglossed first mentions per chapter |
 
 ```
@@ -16,7 +16,7 @@ python3 tools/characters.py chapters         # rewrite `chapters` in characters.
 python3 tools/characters.py report --md      # > plans/status/character-name-diff.md
 ```
 
-The lint applies the naming rule through `name_policy` (narrative chapters, **warnings**, tagged *(S-05)*), alongside the place rule.
+The lint applies the naming rule through `name_policy`. In narrative chapters, violations are **errors** tagged *(S-05)*. The report uses the same first-mention check.
 
 ## Naming policy
 
@@ -29,11 +29,11 @@ The lint applies the naming rule through `name_policy` (narrative chapters, **wa
 - **Exemptions** (as for places): front/back matter and the reception chapters III-10 to III-12 may use modern forms in prose. Polo's own people still take the book form where those chapters retell the Book.
 - **Out of scope.** Scholars, editors and witnesses cited as sources (Ramusio, Pipino, Jacopo d'Acqui, Yule, Wood) belong in the bibliography. Saints and figures of legend (St Thomas, Adam, Alexander) are not characters. *Prester John* is a legendary row in `gazetteer.csv`, which owns that form; the people Polo pins the name on (Unc Can, King George) are here.
 
-**Where the chapters stand** (2026-10-22, `report`): 26 people have bare variants in the narrative chapters (**120** occurrences), and 12 chapter first mentions have no gloss. The worst are *Kublai* for *Cublay* (16 in 11 chapters), *Hulagu*/*Alau*/*Hülegü* for *Alaü* (16), *Möngke*/*Mangu* for *Mongou* (14), *Chinggis* for *Chinghis* (9) and *Chagatai* for *Sigatay* (8). The reference chapter II-2 has three: *Chingkim* used bare after its own gloss (:21, :39) and *Chinghis* unglossed (:15). Each narrative chapter's `.T3` now carries a **People (S-05 ✓)** step listing its own cases.
+The 2026-11-24 naming sweep found zero bare variants and zero missing first glosses. The [generated report](../status/character-name-diff.md) records the results. Earlier findings remain in the chapter naming tasks.
 
 ## The cast
 
-Ranked by the number of manuscript files whose prose names them (generated `chapters` field; Notes excluded).
+The 2026-10-22 cast snapshot ranks people by the number of manuscript files whose prose names them. The YAML `chapters` field holds the current references.
 
 | Rank | Book form (gloss) | Files | Group | Card |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ Ranked by the number of manuscript files whose prose names them (generated `chap
 | 18–22 | Casan (Ghazan) ✓, Kiacatu (Geikhatu), Bayan ✓, Abaga (Abaqa), Bundukdar (Baibars) | 3 each | | |
 | 23– | Nayan ✓, Chinkin (Chingkim), Facfur, Bolgana, Temur, Oulatay, Litan, King George, Barac, Mar Sarghis, Sentemur, Clement IV | 2 each | | |
 
-Single-chapter figures are in the registry only when a plate shows them (Aijaruc, Donata, the daughters, Peter the Tartar, Cepoy, the Caliph, Chabi), when the text gets them wrong (Unc Can, Baidu, Acomat), or when they matter to another entry (Dorjé, Mangalai, Coja, Apusca, Empress Dowager Xie, Andrea Polo). **Bolad** is in the registry although no chapter names him yet: HOT.3 will add him.
+Single-chapter figures are in the registry only when a plate shows them (Aijaruc, Donata, the daughters, Peter the Tartar, Cepoy, the Caliph, Chabi), when the text gets them wrong (Unc Can, Baidu, Acomat), or when they matter to another entry (Dorjé, Mangalai, Coja, Apusca, Empress Dowager Xie, Andrea Polo). HOT.3 identifies **Bolad** in II-05 and III-12.
 
 ## Who is where, when
 
@@ -74,7 +74,7 @@ The itinerary in `character-cards.yaml` is coarse on purpose (regions, by year).
 | 1271 | Acre, Layas (Nov) | 17, sets out | Tedaldo elected Gregory X (1 Sept) |
 | 1272–74 | Persia, Badashan, Pamier, Lop, Tangut | 18–20 | **Xiangyang falls March 1273: no Polos** |
 | 1275 | Kemenfu / Chandu | 21 | Cublay c. 60 |
-| 1275–91 | in China | 21–37, missions | Bayan takes Lin'an 1276 (Polos not there); Chabi d. 1281; Achmath murdered 1282; Chingkim d. Jan 1286; Nayan 1287 (no Polos on the field) |
+| 1275–91 | in China | 21–37, missions | Bayan takes Lin'an 1276 (Polos not there); Chabi d. 1281; Achmath murdered 1282; Chingkim d. mid-1280s; Nayan 1287 (no Polos on the field) |
 | 1291 | Zayton, sail early 1291 (or 1292) | 37 | Argon already dead (March 1291) |
 | 1291–93 | the voyage; Samara five months | 37–39 | — |
 | 1293–94 | Cocachin to Casan; Kiacatu at Tauris | 39–40 | Cublay d. Feb 1294 (news reaches them in Persia) |
@@ -95,12 +95,16 @@ These go to S-06 (and S-14 / S-15 for the research). A chapter states them only 
 |---|---|---|---|
 | Alaü / Barca | Outcome of the 1262–63 war (the Book has it backwards) | S-14 #1 | I-02 |
 | Nayan | Descent from Temüge Otchigin, not Belgutai; 1287 not 1286 | S-14 #4 | II-01 |
-| Chinkin | Death: Jan 1286 (*Yuan shi*) vs Yule's 1284–85; Dorjé the elder son (Yule), his mother disputed | S-14 #6 (Dorjé's mother: open; *Yuan shi* 107 and 114 name none, FINAL-ACCESS) | II-02 |
+| Chabi | Birth year and age unestablished | *Yuan shi* 106 and 114 give no birth year (CHR-people-4 and FINAL-ACCESS) | Registry and card |
+| Dorjé | Eldest son of Cublay; birth year and mother unknown | *Yuan shi* 107 gives his rank, and 114 names Chinkin as Chabi’s son (FINAL-ACCESS) | II-02 Note [11] |
+| Chinkin | Death in the mid-1280s. January 1286 is a lead from the *Yuan shi* chronology; Yule gives 1284–85. | S-14 #6 and F-06 | II-02 Note [12] |
 | Kiacatu, Baidu, Casan | Brother, cousin, accession 1295 | S-14 #5 | II-15 |
 | Achmath / Bolad | The annals' "Po-lo" is Bolad | settled (Yule–Cordier addenda); HOT.3 | II-05, II-11, III-12 |
 | Argon | Death 10 March 1291 (Yule = 7 Rabīʿ I 690; "7 March" is the Hijri day misread) | **settled** (CHR-people-2) | III-09 |
-| Oulatay, Apusca, Coja | Named in the 1290 Yongle dadian notice (with 160 people); the Polos not named; nothing on who survived, so "only Coja" is the Book's alone | S-14 #15 (Cleaves 1976 reported, not seen) | III-09, III-12 |
-| Maffeo | Widower of Marta. The will is dated *more veneto* 1309, i.e. 6 Feb 1310 modern, which reconciles Yule's 1309 and Gullino's 1310. Its Juliana and Clara are nuns of Santa Caterina di Mazzorbo, "filiabus anime mee" (spiritual daughters), so it does not support Bruno's two natural daughters. | Orlandini 1926 doc. 6 (OCR read; FINAL-ACCESS intake); clause page unchecked | I-02, III-10 |
+| Oulatay, Apusca, Coja | The 1290 *Yongle dadian* notice names the envoys and reports about 160 companions. The notice leaves the envoys' fate open. Ramusio names Coja as the only surviving envoy. | S-14 #15 and FINAL-ACCESS (Cleaves 1976, p. 181, checked) | III-09, III-12 |
+| Maffeo | Widower of Marta. Orlandini’s edition dates the will to 6 February 1310 modern (1309 Venetian). It calls the nuns Juliana and Clara his spiritual daughters. Yule reports an earlier date from a separate 1328 proceeding. | Orlandini 1926 doc. 6 (OCR read), FINAL-ACCESS and S-18 targeted archive intakes; see F-17 | I-02 Note [3] |
+| Bellela | Bertuccio Querini was her husband. Her exact death year is unresolved. | Bolognari 2020 cites Gallo’s 1326–27 records. | III-10 Note [15] |
+| Peter the Tartar | Marciana Cod. Lat. V, 58 (=2437), no. 33 in Bartoli Langeli’s edition of Marco’s will. | 2019 edition read. The original and live catalogue were uninspected. | III-10 Note [27] |
 | Donata | Identified as Badoer, daughter of Vitale, by Gullino; marriage date uncertain; Yule gives death 1333–36. | S-15 external intake | III-10 |
 | Niccolò | Second wife probably Fiordelisa (Trevisan?) (Yule's conjecture); illegitimate Stefano and Zannino (Yule: settled); death before end of 1300 | S-15 (the wife) | III-10 |
 | Rustichello | Identification with Arthurian compiler supported by manuscript comparison; Cigni favors Meloria captivity, an inference. Lay or clerical status remains unsourced. | S-15 external intake | I-01, III-12 |

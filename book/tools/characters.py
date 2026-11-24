@@ -248,9 +248,8 @@ def forms_of(p, kinds=("book_name", "aliases", "also")):
     return out
 
 
-def usage():
+def usage(paras):
     """{person id: {rel: {"canon": n, "gloss": n, "bare": {form: [lines]}}}} over prose paragraphs."""
-    paras = {p: gazetteer.body_paras(p) for p in gazetteer.manuscript()}
     out = defaultdict(dict)
     for person in load():
         canon = [person["book_name"]] + person["also"]
@@ -279,7 +278,7 @@ def usage():
 
 
 def cmd_chapters():
-    use = usage()
+    use = usage({p: gazetteer.body_paras(p) for p in gazetteer.manuscript()})
     lines, cur = PEOPLE.read_text(encoding="utf-8").split("\n"), None
     for n, line in enumerate(lines):
         m = re.match(r"- id: (\S+)", line)
@@ -300,7 +299,13 @@ def order(rel):
 
 
 def cmd_report(md):
-    use, rows, no_gloss = usage(), [], []
+    paras = {p: gazetteer.body_paras(p) for p in gazetteer.manuscript()}
+    use, rows, no_gloss = usage(paras), [], []
+    for path, paragraphs in paras.items():
+        rel = str(path.relative_to(BOOK))
+        if gazetteer.in_rule_scope(rel):
+            no_gloss.extend((gazetteer.chapter_id(rel), p["book_name"])
+                            for _, p in missing_glosses(rel, paragraphs))
     for p in load():
         agg = defaultdict(list)
         for rel, rec in sorted(use.get(p["id"], {}).items(), key=lambda x: order(x[0])):
@@ -308,8 +313,6 @@ def cmd_report(md):
                 continue
             for f, lns in rec["bare"].items():
                 agg[f].append((gazetteer.chapter_id(rel), len(lns)))
-            if p["gloss"] and rec["canon"] and not rec["gloss"] and not rec["bare"]:
-                no_gloss.append((gazetteer.chapter_id(rel), p["book_name"]))
         if agg:
             rows.append((p, agg))
     total = sum(n for _, agg in rows for fs in agg.values() for _, n in fs)
@@ -318,16 +321,18 @@ def cmd_report(md):
         print("`python3 tools/characters.py report --md` · prose of the narrative chapters (III-10 to III-12, "
               "front and back matter excluded; Notes, quotations and tables excluded). A *bare variant* is a "
               "non-canonical form used outside a gloss beside the book form.\n")
-        print(f"**{len(rows)} people** have bare variants (**{total}** occurrences); {len(no_gloss)} chapter "
-              "first mentions of a book form that needs a gloss have none.\n")
+        print(f"**{len(rows)} people** have bare variants (**{total}** occurrences). "
+              f"The sweep found **{len(no_gloss)}** missing first-mention glosses.\n")
         print("## Bare variants by person\n\n| Book form | Gloss | Variants used bare (chapter ×count) |\n|---|---|---|")
         for p, agg in rows:
             parts = [f"**{f}** — " + ", ".join(f"{c} ×{n}" for c, n in fs) for f, fs in agg.items()]
             print(f"| {p['book_name']} | {p['gloss'] or '—'} | {'; '.join(parts)} |")
-        print("\n## Book forms with no gloss anywhere in the chapter\n")
+        print("\n## Missing first-mention glosses\n")
         g = defaultdict(list)
         for c, b in no_gloss:
             g[c].append(b)
+        if not g:
+            print("None.")
         for c in sorted(g, key=lambda c: (len(c.split("-")[0]), c)):
             print(f"- **{c}:** {', '.join(sorted(set(g[c])))}")
     else:
@@ -372,8 +377,18 @@ def glossed_at(t, m, person):
     return bool(re.match(r"\s*[(—–]", t[end:end + 6]))
 
 
-def needs_gloss(rel=""):
-    return [p for p in load() if p["gloss"] and in_scope(p["id"], rel)]
+def missing_glosses(rel, paragraphs):
+    """Yield (line, person) when the first use of a book form lacks a gloss."""
+    for person in load():
+        if not person["gloss"] or not in_scope(person["id"], rel):
+            continue
+        rx = gazetteer.form_re(person["book_name"])
+        for ln, paragraph in paragraphs:
+            match = rx.search(paragraph)
+            if match:
+                if not glossed_at(paragraph, match, person):
+                    yield ln, person
+                break
 
 
 def main(argv):

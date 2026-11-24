@@ -124,7 +124,7 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 | Code | Area | Main gate |
 |---|---|---|
 | [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | S-04 ✓, S-09 ✓ |
-| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | S-05 ✓; S-15 best effort done; remaining `CHR.T7` checks need library or archive access |
+| [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | **Done 2026-11-24.** Glossary coverage verified, naming lint enforced, T7 closed best effort. |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 35 GEN + 6 PD heroes, secondaries, legacy retirement | S-10 ✓, S-11 ✓ |
 | [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 | S-09 ✓ |
 | [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 ✓ (`TBL.T1` style done) |
@@ -188,10 +188,10 @@ A manuscript file is **done** when:
   | Retired marker ★ in Notes; every Note opens with a marker; no "Dispute:" label *(S-03)* | 0 | 0 | 0 |
   | Tag line: exactly one of `**[V]**` `**[R]**` `**[M]**` `**[reception]**` in Vol. II–III narrative/essay files; none elsewhere *(S-03)* | yes | yes | none |
   | Ramusio passage reproduced in a paragraph → inline "Ramus…" flag + "Ramusio-only." label in a cited Note *(S-03)* | yes | — | — |
-  | Place names: book form from `gazetteer.csv`, modern/alternate form only as a first-mention gloss (`name_policy`, warning until every chapter has had its pass) *(S-04)* | warning | — | — |
-  | People's names: the same rule against `registry/characters.yaml` (`name_policy`, tagged *(S-05)*) | warning | — | — |
+  | Place names: book form from `gazetteer.csv`, modern/alternate form only as a first-mention gloss (`name_policy`) *(S-04)* | error | — | — |
+  | People's names: the same rule against `registry/characters.yaml` (`name_policy`, tagged *(S-05)*) | error | — | — |
 
-- **every lint warning has been looked at during the human read.** Warnings are heuristics: "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), name spellings close to a gazetteer name, bare non-canonical place and person names and unglossed first mentions (S-04, S-05, `name_policy`). Marked quotations in the essay and front/back may cite non-Yule sources, so for those files a missing match is a warning, not an error;
+- **every lint warning has been looked at during the human read.** Warnings are heuristics for "So/Thus" restatements, repeated paragraph openers, stub Notes, average sentence > 25 words, fewer Ramusio flags than the first draft carried (`tools/ramusio-manifest.json`), and spellings close to a gazetteer name. Marked quotations in the essay and front/back may cite non-Yule sources, so the lint warns about a missing match in those files.
 - every backlog item is resolved or explicitly deferred with a reason;
 - its media hooks are placed or deferred;
 - a human has read it for voice.

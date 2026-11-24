@@ -58,7 +58,7 @@ The Kaan still waited for learned men and for oil of the Sepulchre; Christendom 
 
 [2] ~ The Andrea of San Felice genealogy is Ramusio tradition, not an archival fact [@yc, Introduction, § 11]. Ramusio said that older records named Andrea as father of the three brothers, and Tanase reports that no surviving record of him has been found [-@tanase2025educazione].
 
-[3] ~ The division of the brothers’ roles fills in the same tradition where the Book is silent [@yc, Prol. 1]. On Maffeo the documents are ambiguous: Gullino reports that his wife Marta died before him [-@gullino2015matteo], Jacoby reads his last testament as showing no surviving wife or offspring [-@jacoby2006relatives], and Bruno claims two natural daughters [-@bruno2023quietanza]. The question stays open, and the testament’s year is itself disputed.
+[3] ~ The division of the brothers’ roles fills in the same tradition where the Book is silent [@yc, Prol. 1]. Maffeo’s will of 6 February 1310 (1309 by the Venetian calendar) names his late wife Marta and calls the nuns Juliana and Clara his spiritual daughters [@orlandini1926marco, doc. 6]. The bequest leaves open whether Maffeo had children. Yule reports an earlier date for a will in his summary of a 1328 proceeding [@yc, Introduction § 23].
 
 [4] ~ The year 1260 is Yule’s correction of the manuscripts’ “1250”, discussed in the date aside below [@yc, Prol. 1 nn. 1–2]. It fits the end of Baldwin II’s Latin reign at Constantinople, which ran until Michael Palaeologus retook the city in July 1261.
 

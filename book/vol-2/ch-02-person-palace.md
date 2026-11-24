@@ -78,7 +78,7 @@ Leave that solitary watch-bell swinging in winter dark above silent avenues, and
 
 [10] ✓ Assigning seven princes to regional appanages and provinces accords broadly with Yuan frontier viceroyalties held by Cublay’s sons [@yc, 2.9 n. 2]. Mangalai’s Shaanxi command in Chapter II-6 illustrates one such real princely charge.
 
-[11] ✓ Dorjé died in youth before formal succession stabilized, leaving Chinkin as senior surviving heir [@yc, 2.9 n. 1]. Yule traces both brothers cleanly through eastern genealogies.
+[11] ~ The *Yuan shi* lists Dorjé as Cublay’s eldest son and gives neither his mother nor his birth year [@yuanshi1370, juan 107]. Its biography of Chabi names Chinkin as her son without naming Dorjé [@yuanshi1370, juan 114]. Yule suggests Dorjé died young [@yc, 2.9 n. 1].
 
 [12] ? Chinkin’s premature death falls safely in the mid-1280s, though sources waver slightly over month and year [@yc, 2.9 n. 1]. Yule prints the twelfth lunar month of 1284–1285, while *Yuan shi* calendars pointing toward January 1286 remain an active chronological check.
 

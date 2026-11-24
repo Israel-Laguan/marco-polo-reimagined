@@ -33,7 +33,7 @@ people:
   relations: "son of Niccolò; nephew of Maffeo; husband of Donata (marriage date uncertain); father of Fantina, Bellela and Moreta; possibly father of Agnese, wife of Nicolò Calbo, whose 7 July 1319 will names her father Marco (reported as Marco Polo in secondary accounts; exact testament wording not inspected; ASVe, Notarile Testamenti, b. 830, n. 36, f. 11r, per press report; identification with the traveller qualified by Orlando 2025)"
   book_says: []
   verify: [S-15]
-  chapters: "I-F1;I-F2;I-01;I-02;I-03;I-04;I-05;I-06;I-07;I-08;I-09;I-10;I-11;I-12;I-13;I-B1;II-F1;II-F2;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-08;II-09;II-10;II-11;II-12;II-13;II-14;II-15;II-B1;III-F2;III-01;III-02;III-03;III-04;III-05;III-06;III-07;III-08;III-09;III-10;III-11;III-12;III-B1"
+  chapters: "I-F1;I-F2;I-01;I-02;I-03;I-05;I-06;I-07;I-08;I-09;I-10;I-11;I-12;I-B1;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-09;II-10;II-11;II-12;II-14;II-B1;III-F1;III-01;III-02;III-03;III-04;III-05;III-06;III-07;III-08;III-09;III-10;III-11;III-12;III-B1"
 - id: niccolo
   book_name: Niccolò
   aliases: [Nicolo, Nicolas, Nicolò, Niccolo]
@@ -47,7 +47,7 @@ people:
   relations: "son of Andrea according to Ramusio (not independently documented; Tanase 2025); father of Marco; Marco's mother died before 1269; his second wife was probably Fiordelisa (Trevisan?), mother of the younger Maffeo, whose will of 1300 is extant (Yule's conjecture from Marco the Elder's 1280 will); two illegitimate sons, Stefano and Zannino (Giovannino) (Yule)"
   book_says: []
   verify: [S-15]
-  chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
+  chapters: "I-F1;I-02;I-03;I-B1;II-01;II-11;III-09;III-10;III-11"
 - id: maffeo
   book_name: Maffeo
   aliases: []
@@ -55,13 +55,13 @@ people:
   gloss: ""
   born: null
   died: 1318
-  dates: "birth unknown; will of 6 February 1310 modern, dated more veneto 1309 (Orlandini 1926 doc. 6, OCR read; Yule's February 1309 is the Venetian year); dead by 1318 (Yule)"
+  dates: "birth unknown; will of 6 February 1310 modern, dated more veneto 1309 in Orlandini 1926 doc. 6 (OCR read); Yule reports a will dated February 1309 modern (1308 Venetian) via a 1328 proceeding that has not been checked; dead by 1318 (Yule)"
   group: polo
   role: "Niccolò's brother and partner on both journeys"
   relations: "son of Andrea according to Ramusio; uncle of Marco; widower of Marta (the 1310 will: \"condam Marthe uxori mee\"); the will's Juliana and Clara are nuns of Santa Caterina di Mazzorbo, \"filiabus anime mee\" (spiritual daughters), so it does not support Bruno 2023's two natural daughters (Orlandini 1926 doc. 6, OCR read; FINAL-ACCESS intake)"
   book_says: ["I-02:9 'so far as the book tells, remained a bachelor': the Book says nothing of it; Bolognari and Simion describe him as widower of Marta (via Burgio 2024)"]
   verify: [S-15, S-14]
-  chapters: "I-F1;I-01;I-02;I-03;I-11;I-B1;II-01;II-11;II-B1;III-09;III-10;III-12"
+  chapters: "I-F1;I-02;I-11;II-01;II-11;III-09;III-10;III-B1"
 - id: andrea
   book_name: Andrea Polo
   aliases: []
@@ -89,7 +89,7 @@ people:
   relations: "named with Marco in the Book's account of Genoese imprisonment; shared cell and exact method of composition not established"
   book_says: ["legacy plate drawing-genoa-dictation shows him as a monk in chains: lay or clerical status is unverified"]
   verify: [S-15]
-  chapters: "I-F1;I-01;I-02;I-04;I-05;I-B1;II-09;II-10;II-11;II-15;III-02;III-11;III-12"
+  chapters: "I-01;I-02;I-04;I-05;II-01;II-03;II-04;II-09;II-10;II-11;III-04;III-12"
 - id: donata
   book_name: Donata
   aliases: []
@@ -159,7 +159,7 @@ people:
   relations: "household of Marco"
   book_says: []
   verify: [S-15]
-  chapters: "III-10"
+  chapters: ""
 - id: cepoy
   book_name: Thibault de Cepoy
   aliases: []
@@ -189,7 +189,7 @@ people:
   relations: "Visconti of Piacenza"
   book_says: []
   verify: []
-  chapters: "I-F2;I-02;I-03;I-05"
+  chapters: "I-02;I-03"
 - id: clement-iv
   book_name: Clement IV
   aliases: []
@@ -203,21 +203,21 @@ people:
   relations: ""
   book_says: []
   verify: []
-  chapters: "I-02;III-10"
+  chapters: "I-02"
 - id: baibars
   book_name: Bundukdar
-  aliases: [Bendocquedar]
+  aliases: [Baibars, Bendocquedar]
   also: [the Soldan of Babylon]
   gloss: Baibars
-  born: 1223
-  died: 1277
-  dates: "c. 1223 – 1 July 1277; Mamluk sultan 1260–77"
+  born: null
+  died: null
+  dates: "Mamluk sultan (Yule: 1259–1276)"
   group: levant
   role: "Mamluk sultan whose raid into Armenia (1271) turned back the two friars"
   relations: ""
   book_says: []
-  verify: []
-  chapters: "I-03;I-04;III-08"
+  verify: [S-06]
+  chapters: "I-03"
 
 # ---- the Mongol house and Yuan court
 - id: chinghis
@@ -233,7 +233,7 @@ people:
   relations: "father of Jochi, Chagatai, Ögedei, Tolui; grandfather of Kublai, Hulagu, Möngke, Berke"
   book_says: ["I-12 Book: killed by an arrow in the knee at Caaju soon after defeating Unc Can; he died in 1227 on the Tangut campaign"]
   verify: []
-  chapters: "I-09;I-10;I-12;I-13;II-F1;II-01;II-02;II-15;III-12"
+  chapters: "I-12;I-13;II-F1;II-01;II-02;II-03;II-15"
 - id: mongke
   book_name: Mongou
   aliases: [Möngke, Mangu, Mongu]
@@ -247,7 +247,7 @@ people:
   relations: "son of Tolui; brother of Kublai, Hulagu, Ariq Böke"
   book_says: []
   verify: []
-  chapters: "I-05;I-11;I-12;II-01;II-03;II-07;III-12"
+  chapters: "I-11;I-12;II-07"
 - id: chagatai
   book_name: Sigatay
   aliases: [Chagatai, Chaghatai, Jagatai]
@@ -303,7 +303,7 @@ people:
   relations: "son of Tolui; brother of Möngke and Hulagu; husband of Chabi; father of Dorji, Chingkim, Mangala, Nomukhan; grandfather of Temür"
   book_says: ["II-01:15 the chapter's own dispute aside: Möngke died 1259 not 1256; fifth, not sixth, Great Kaan"]
   verify: []
-  chapters: "I-F1;I-02;I-03;I-05;I-10;I-11;I-12;I-13;II-F1;II-01;II-02;II-06;II-07;II-08;II-15;III-01;III-02;III-09;III-12"
+  chapters: "I-F1;I-02;I-03;I-07;I-10;I-12;I-13;II-F1;II-01;II-02;II-03;II-04;II-05;II-06;II-07;II-08;II-09;II-10;II-11;II-12;II-13;II-14;II-15;II-B1;III-01;III-02;III-03;III-04;III-07;III-09;III-11;III-12"
 - id: chabi
   book_name: Chabi
   aliases: [Jamui, Jamui Khatun, Chabui]
@@ -338,8 +338,8 @@ people:
   also: []
   gloss: Chingkim
   born: 1243
-  died: 1286
-  dates: "1243 – 12th month of Zhiyuan 22 (Jan 1286, Yuan shi); Yule gives '12th moon of 1284–85, aged 43'"
+  died: null
+  dates: "b. 1243; d. mid-1280s (F-06). Yule gives '12th moon of 1284–85, aged 43'; January 1286 from the Yuan shi chronology remains an unchecked lead"
   group: yuan
   role: "Kublai's heir; died before him"
   relations: "son of Kublai and Chabi; father of Temür"
@@ -359,7 +359,7 @@ people:
   relations: "son of Chingkim"
   book_says: []
   verify: []
-  chapters: "II-02;II-07"
+  chapters: "II-02"
 - id: mangala
   book_name: Mangalai
   aliases: [Mangala, Manggala]
@@ -401,7 +401,7 @@ people:
   relations: "from Fanakat on the Jaxartes; protégé of Chabi"
   book_says: []
   verify: [S-14]
-  chapters: "II-F1;II-04;II-05;II-06;II-B1;III-11;III-12"
+  chapters: "II-04;II-05;II-B1;III-12"
 - id: bolad
   book_name: Bolad
   aliases: [Pulad, Boluo]
@@ -415,7 +415,7 @@ people:
   relations: "later Kublai's envoy to the Ilkhans, Rashid al-Din's informant"
   book_says: ["II-05:25 'the Emperor desired Polo, Assessor of the Privy Council' read as Marco: it is Bolad (HOT.3; also II-11 Note, III-12)"]
   verify: []
-  chapters: ""
+  chapters: "II-05;II-B1;III-12"
 - id: bayan
   book_name: Bayan
   aliases: []
@@ -429,7 +429,7 @@ people:
   relations: "not the huntsman Baian of II-04 (see baian)"
   book_says: ["II-10 'Hundred-Eyes' prophecy is legend; caption must not present it"]
   verify: []
-  chapters: "II-10;II-12;II-13"
+  chapters: "II-10;II-11;II-12;II-13"
 - id: baian
   book_name: Baian
   aliases: []
@@ -457,7 +457,7 @@ people:
   relations: "descendant of Temüge Otchigin, Chinggis's youngest brother (Pelliot, Notes on Marco Polo, reported), not of Belgutai; his Christianity rests on Polo's cross standard (no baptism in Rashid or the Yuan shi, reported); the Book calls him Kublai's uncle"
   book_says: ["II-01:19 'great-great-grandson of Chinghiz's brother Belgutai': Otchigin line (Yule's Uchegin), S-14 #4", "II-01 year 1286 vs 1287"]
   verify: [S-14]
-  chapters: "II-01;III-12"
+  chapters: "II-01"
 - id: kaidu
   book_name: Caidu
   aliases: [Kaidu, Qaidu, Caidou, Kaydu]
@@ -471,7 +471,7 @@ people:
   relations: "grandson of Ögedei, so a first cousin once removed of Kublai (the Book's 'nephew'); father of Aijaruc"
   book_says: []
   verify: []
-  chapters: "I-F1;I-10;II-01;II-15;III-12"
+  chapters: "I-F1;I-10;II-01;II-14;II-15"
 - id: aijaruc
   book_name: Aijaruc
   aliases: [Khutulun, Qutulun, Aigiarne]
@@ -499,7 +499,7 @@ people:
   relations: ""
   book_says: []
   verify: []
-  chapters: "II-10;III-12"
+  chapters: "II-10"
 - id: mar-sarghis
   book_name: Mar Sarghis
   aliases: [Mar Sargis, Ma Xuelijisi, Marsarchis]
@@ -513,7 +513,7 @@ people:
   relations: ""
   book_says: []
   verify: [S-14]
-  chapters: "II-11;II-12"
+  chapters: "I-10;II-12"
 
 # ---- the Song
 - id: facfur
@@ -559,7 +559,7 @@ people:
   relations: "brother of Kublai; father of Abaqa and Tegüder"
   book_says: ["I-02:17 the Book's outcome of the 1262 war with Barca is backwards: Hulagu was routed on the Terek, 1263 (S-14 #1)"]
   verify: [S-14]
-  chapters: "I-F1;I-02;I-05;I-06;I-08;I-09;I-12;II-10;II-15"
+  chapters: "I-F1;I-02;I-05;I-08;I-12;II-15"
 - id: berke
   book_name: Barca
   aliases: [Berke, Barka, Bereke]
@@ -573,7 +573,7 @@ people:
   relations: "grandson of Chinggis; Hulagu's cousin and enemy"
   book_says: ["I-02 see Alaü"]
   verify: [S-14]
-  chapters: "I-F1;I-02;I-B1;II-15"
+  chapters: "I-F1;I-02;II-15"
 - id: barac
   book_name: Barac
   aliases: [Baraq, Borrak, Borak]
@@ -601,7 +601,7 @@ people:
   relations: "son of Hulagu; father of Arghun and Gaykhatu"
   book_says: []
   verify: [S-14]
-  chapters: "II-11;II-15;III-09"
+  chapters: "I-02;II-11;II-15"
 - id: teguder
   book_name: Acomat
   aliases: [Tegüder, Tekuder, Ahmad Tegüder]
@@ -629,7 +629,7 @@ people:
   relations: "son of Abaqa; husband of Bolgana; father of Ghazan"
   book_says: []
   verify: [S-14]
-  chapters: "II-15;III-F1;III-09;III-12"
+  chapters: "II-15;III-F1;III-09;III-12;III-B1"
 - id: bolgana
   book_name: Bolgana
   aliases: [Bulughan, Balgana]
@@ -643,7 +643,7 @@ people:
   relations: "wife of Arghun"
   book_says: []
   verify: []
-  chapters: "I-03;III-09"
+  chapters: "III-09"
 - id: cocachin
   book_name: Cocachin
   aliases: [Kököchin, Kokachin, Kukachi, Cogatin]
@@ -657,7 +657,7 @@ people:
   relations: "kinswoman of Bolgana; wife of Ghazan"
   book_says: []
   verify: [S-14]
-  chapters: "I-03;I-B1;II-15;II-B1;III-F1;III-03;III-09;III-11;III-12;III-B1"
+  chapters: "III-F1;III-F2;III-09;III-11;III-12;III-B1"
 - id: oulatay
   book_name: Oulatay
   aliases: [Uladai, Ulatai, Oulatai]
@@ -671,7 +671,7 @@ people:
   relations: "with Apusca and Coja"
   book_says: []
   verify: [S-14]
-  chapters: "II-15;III-09"
+  chapters: "II-15;III-09;III-12"
 - id: apusca
   book_name: Apusca
   aliases: [Abishqa, Apushka]
@@ -685,7 +685,7 @@ people:
   relations: ""
   book_says: []
   verify: [S-14]
-  chapters: "III-09"
+  chapters: "III-09;III-12"
 - id: coja
   book_name: Coja
   aliases: [Khoja, Khwaja]
@@ -695,11 +695,11 @@ people:
   died: null
   dates: "named (Huozhe) in the Yongle dadian notice of 1290 with the three envoys and 160 people, about provisions; it says nothing of survivors (Cleaves 1976, reported)"
   group: ilkhanate
-  role: "Arghun's envoy; the Book alone says he was the only envoy to survive the voyage"
+  role: "Arghun's envoy; Ramusio names him as the sole surviving envoy, which the Chinese provisioning notice cannot establish"
   relations: ""
   book_says: []
   verify: [S-14]
-  chapters: "III-09"
+  chapters: "III-09;III-12"
 - id: gaykhatu
   book_name: Kiacatu
   aliases: [Geikhatu, Gaykhatu, Gaikhatu]
@@ -713,7 +713,7 @@ people:
   relations: "Arghun's brother (the Book: his uncle)"
   book_says: ["II-15:33 body makes 'the better texts' call him Abaga's brother: he was Arghun's brother (vol-2 m1)"]
   verify: [S-14]
-  chapters: "II-15;III-09;III-12"
+  chapters: "II-15;III-09"
 - id: baidu
   book_name: Baidu
   aliases: []
@@ -741,7 +741,7 @@ people:
   relations: "son of Arghun; husband of Cocachin"
   book_says: ["II-15:33 'Casan began to reign in the year 1294': 1295 (Note [6] already says 1295)"]
   verify: [S-14]
-  chapters: "II-15;III-09;III-12"
+  chapters: "II-15;III-F1;III-09;III-12;III-B1"
 
 # ---- Baudac, the Assassins and the steppe west
 - id: mustasim
@@ -757,7 +757,7 @@ people:
   relations: ""
   book_says: ["I-05 the starving-in-the-tower death is the Western/Polo version; Muslim sources say trampled in a carpet"]
   verify: []
-  chapters: "I-B1"
+  chapters: ""
 - id: old-man
   book_name: the Old Man of the Mountain
   aliases: []
@@ -771,7 +771,7 @@ people:
   relations: ""
   book_says: ["I-08 the Book has Alaü destroy Aloadin himself: his son surrendered in 1256"]
   verify: []
-  chapters: "I-08;I-09;I-B1;III-10;III-12"
+  chapters: "I-08;III-10"
 
 # ---- reception
 - id: columbus
@@ -787,4 +787,4 @@ people:
   relations: ""
   book_says: []
   verify: [S-14]
-  chapters: "I-B1;III-F1;III-01;III-10;III-11;III-12;III-B1"
+  chapters: "III-F1;III-01;III-11;III-B1"

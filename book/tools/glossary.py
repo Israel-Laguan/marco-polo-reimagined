@@ -56,7 +56,7 @@ def read_entries():
                 elif confidence == "disputed":
                     gloss = f"{gloss} Identification disputed." if modern else gloss
                     modern = modern or "Modern identification disputed"
-                elif confidence == "probable":
+                elif confidence == "probable" and not modern.endswith(" (provisional)"):
                     modern = f"{modern} (provisional)"
 
         head = f"[**{name}**]{{#{kind}-{ident}}}"

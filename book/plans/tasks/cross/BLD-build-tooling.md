@@ -38,9 +38,31 @@ S-02 ✓ (lint) · S-08 ✓ (LaTeX, closed 2026-11-10) · S-09 ✓ (media script
 - **Do:** typeset the *Abbreviations* page with APP's explanatory prose (the Roman-to-Arabic locator mapping) above the generated list; *Works cited* heading per volume; the glossary (GLO) as a two-column list; decide on an index (people and places from `gazetteer.csv` and `registry/characters.yaml`) or record why not. Layout nits from S-08: maps in the F2 files float away from their headings (place them `[H]`, or drop the headings into the captions); running heads truncate long titles, so consider short titles (`## Title {short="…"}`); figure numbering "Figure n" vs "Map n" / "Plate II.4" (illustration style guide).
 - **Done when:** one volume builds with every front and back element in place and a person has checked the pages.
 - **Done:** Volume I built from the committed manuscript at 159 pages, with no placeholders, missing glyphs or undefined citations. *Abbreviations* includes APP.T7's locator explanation and the generated shorthand list. Both it and *Works cited* have linked contents entries. F2 map headings and legacy captions print together as `Plate I.1`, `Plate I.2`, and so on. The print filter accepts `{short="…"}` for running heads and uses the chapter ID when an unshortened chapter title is too wide. An end-to-end test verifies both contents entries, the short head and numbering across front matter and a chapter.
-- **Done (current manuscript):** Rebuilt I, II and III at 159, 176 and 152 pages. All three have the contents entries, correctly numbered F2 plates, and zero missing glyphs, unresolved citations or image placeholders. Ragged-right *Works cited* removed the long Chinese-title overflow in II and III.
-- **Glossary proof:** All three volumes now typeset B2 as a two-column list between Trivia and Works cited. HTML and EPUB use one reflowable list. See [GLO](GLO-glossary.md) for the proof and pronunciation review status.
-- **Left:** Reader review of the refreshed Volume I proof and the glossaries. The index is deferred until page locations stabilize and the person and place registries can be checked as page-level entries. The F2 media tasks own caption migration and four undersized rasters across the series. One Volume II chapter line still overruns the measure by at least 10 pt.
+- **Earlier proof (159, 176 and 152 pages):** Ragged-right *Works cited* resolved the long Chinese-title overrun in Volumes II and III.
+- **Glossary proof:** All three volumes typeset B2 in two columns between Trivia and Works cited. HTML and EPUB use one reflowable list. See [GLO](GLO-glossary.md) for the pronunciation review status.
+- **Proof reviewed 2026-11-24.** Built Volumes I, II and III at 181, 231 and 201 pages from the working manuscript, including the revised III-F2 map guide. The captured book files match commit `4d73549`. Across the three 6 × 9 in proofs, all 58 chapter-level contents links reached their listed folios, all 90 plate labels were consecutive within their volumes, and all five F2 maps kept their headings and captions on the map page. The revised III-F2 links land on Map A15 at folio 5, Map A17 at 52 and Diagram C11 at 108 (PDF pages 27, 74 and 130).
+- **Build results.** All 49 tests passed after the corrections. The three proofs report zero missing glyphs, unresolved citations, image placeholders, undersized rasters and lines overrunning by 10 pt or more.
+- **Volume III corrections.** F1 now runs *The Indian Ocean World* on folios x–xiv (PDF pages 10–14). The opening and contents retain the full title. Rewording the opening sentence of the [III-6](../chapters/vol-3/III-06-mutfili-kesmacoran.md) Coilum paragraph removed its 12.06 pt overrun at folio 68 (PDF page 90). The revised proof is 201 pages and the checklist folios still match.
+- **Index deferred.** Revisit once pagination stabilizes and person and place entries can be verified against page locations.
+
+#### Reader proof checklist
+
+Use the 24 November proofs for Volumes I and II and the revised proof for Volume III. Folios are the book’s page labels. PDF pages count from the first sheet of the file.
+
+| Review pages | Folios | PDF pages | Check |
+|---|---|---|---|
+| I · Half-title and title | i, iii | 1, 3 | Series title and volume title |
+| I · Contents and Abbreviations | v–vii | 5–7 | Contents links and clarity of the YC locator explanation |
+| I · F1 and F2 | ix–xxiv | 9–24 | Reading key, timelines, Plate I.4 (PDF page 18), and tables across page turns |
+| I · First chapter opening | 1–2 | 25–26 | Arabic numbering and the running head |
+| I · Trivia and Disputes | 137–141 | 161–165 | Readability of the timeline, map, and notes |
+| I · Glossary | 143–149 | 167–173 | Two-column order and pronunciation hints |
+| I · Works cited | 151–157 | 175–181 | Legibility and hanging indents |
+| II · Glossary | 193–200 | 217–224 | Two-column order and pronunciation hints |
+| III · Glossary | 161–167 | 183–189 | Two-column order and pronunciation hints |
+
+- [ ] **Layout approval.** Approve the Volume I front and back matter and all three glossary layouts, or record corrections by volume and PDF page.
+- [ ] **Pronunciation approval.** Approve the glossary house style, or record changes in [GLO](GLO-glossary.md). Samples include *Desert of Lop* (I, PDF p. 170), *Juju* and *Pulisanghin* (II, pp. 220 and 222), and *Kinsay* and *Milione* (III, pp. 186–187).
 
 ### BLD.T6 — Lint rules for the build conventions
 - **Status:** done 2026-11-17 · **Depends:** S-08 ✓

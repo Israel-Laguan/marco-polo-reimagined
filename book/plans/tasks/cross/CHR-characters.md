@@ -1,14 +1,14 @@
 # CHR — Characters
 
-**Status:** waiting (2026-11-19): T1, T2, T4, T5, T8 and T9 are done. What is left waits on other work: T3 on S-08 and GLO, T6 on every chapter's naming pass, and T7 on library or archive access (S-05 closed 2026-10-22) · **Plan doc:** S-05; `registry/characters.md`; `illustration-style-guide.md` § Recurring figures
+**Status:** complete (2026-11-24). T3 and T6 are done, and T7 is closed best effort under the final access decision. The remaining uncertainties are recorded below. · **Plan doc:** S-05, `registry/characters.md` and `illustration-style-guide.md` § Recurring figures
 
 ## Scope
 The recurring people of the book, as one source of truth for **text** (names, dates, relationships, titles) and **images** (age, dress, attributes per tradition). Scholars (Yule, Wood…) are out of scope; they belong in the bibliography.
 
-**Authority:** `registry/characters.yaml` (54 people) and `registry/character-cards.yaml` (19 cards, the Polo itinerary, 22 plate scenes). Tooling: `python3 tools/characters.py check | ages | cue | chapters | report`. The lint's `name_policy` warns on people too, tagged *(S-05)*.
+**Authority:** `registry/characters.yaml` (54 people) and `registry/character-cards.yaml` (26 cards, the Polo itinerary, 22 plate scenes). Tooling: `python3 tools/characters.py check | ages | cue | chapters | report`. The lint's `name_policy` reports character-name errors with the *(S-05)* tag.
 
-## Backlog
-- Known text errors on people (each also in its chapter backlog; each registry row's `book_says` lists them):
+## Earlier findings and ongoing maintenance
+- Findings from the original text review (chapter tasks and registry rows retain the audit trail):
   - Berke vs Hulagu outcome (I-2).
   - Chagatai as "brother" of the Kaan (I-7).
   - Aung Khan's defeat (I-12).
@@ -17,16 +17,15 @@ The recurring people of the book, as one source of truth for **text** (names, da
   - Kiacatu / Baidu / Ghazan (II-15); Baidu's 1294 too (S-05).
   - "Po-lo" = Bolad, not Marco (II-5, II-11, III-12; `HOT.3`).
   - Donata Badoer (III-10); Niccolò's sons (III-10, S-05).
-  - Maffeo's marital status (I-2; S-06 still open, F-17; `CHR.T7` → S-15).
-  - Baibars's dates (I-3): `characters.yaml` bundukdar gives "1260–77" and "1 July 1277"; Yule says he reigned 1259–1276. S-06 still open, F-39; until a source is seen, the row's `dates` should read "Mamluk sultan (Yule: 1259–1276)".
-  - Argon's death day, 7 or 10 March 1291 (III-9, S-05).
+  - Maffeo's marital status (I-2): his edited will names Marta as his late wife. See T7 and F-17 for the limits of the evidence.
+  - Baibars's dates (I-3, F-39): the registry and Note [10] attribute the reign of 1259–1276 to Yule. The other dates remain unverified in the fact sheet.
+  - Argon's death (III-9, S-05): 10 March 1291 in the registry and chapter.
   - Rustichello’s lay or clerical status is unverified (I-1 plate; S-15).
 - Visual: cards exist for Marco, Niccolò, Maffeo, Rustichello, Cublay, Chabi, Chinghis, Alaü, the Caliph, Bayan, Nayan, Caidu, Aijaruc, Cocachin, Casan, Tedaldo, Donata, Peter the Tartar and Cepoy, and since 2026-11-19 for Unc Can (Toghrul), Oulatay, Apusca, Coja, Fantina, Bellela and Moreta. Each card has an accepted house sheet in `media/characters/`. Kublai ages from about 50 (I-2) to about **76** (III-9), not 78.
 - Co-presence: `tools/characters.py ages` proves no Polos at Xiangyang (II-11), no Chabi after 1281 (II-03), no Argon at the bride's arrival (III-9 secondary). The text, not the itinerary, keeps the Polos off the Nayan field (II-01) and out of Bayan's camp (II-10).
-- Waiting on: costume entries from S-22 (headgear, hair, armour by period) for the `dress` lines; the open facts in `CHR.T7` (library checks; family rows via S-15).
 
 ## Gated by spikes
-S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · S-22 (costume, for `CHR.T5`)
+S-05 ✓ (registry) · S-08 ✓ (glossary layout) · S-15 ✓ (family research, best effort) · S-22 ✓ (costume cues)
 
 ## Tasks
 
@@ -41,9 +40,8 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Done when:** every GEN plate showing a recurring person has a scene row, and `ages` reports 0 problems.
 
 ### CHR.T3 — Glossary entries for people (with `GLO`)
-- **Status:** ready · **Depends:** S-08 (layout)
-- **Do:** one glossary entry per registry person whose `gloss` is set (book form → modern form → respelling → one-line role from `role`), in volume order of first appearance. Respellings are house suggestions, reviewed by a person (same rule as places).
-- **Done when:** `GLO.T1` lists the people beside the places; every `gloss` form has an entry.
+- **Status:** done (2026-11-24). All 24 registry people with a `gloss` have a checklist row and appear in the glossaries for their assigned volumes, alongside the place and term entries. Abaga now also appears in Volume I, where I-02 names him.
+- The glossaries retain GLO's alphabetical layout and selective pronunciation hints. The pronunciation and publication review remains with GLO.
 
 ### CHR.T4 — Contested facts to verdicts
 - **Status:** done (2026-10-22) for everything research could settle
@@ -60,27 +58,22 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Done when:** each card's dress lines cite an S-22 entry or a period source.
 
 ### CHR.T7 — Library checks for the open people facts
-- **Status:** backlog for source-level checks · **Best-effort research:** done in S-15; further progress depends on the named editions, library or archive access. The project may proceed using the hedges in the registry.
-- **Why here:** two research runs could not settle these (`research/results/CHR-people-2-intake.md` § Still open). Each needs a specific book or record seen, not another search run.
+- **Status:** done, best effort (2026-11-24), under the [final access closure](../../research/results/FINAL-ACCESS-intake.md). The registry, chapters and cards use the readings and hedges below. The archive and library gaps are recorded for reference.
 
-  | Row | Open question | Where to look | Owner |
-  |---|---|---|---|
-  | `chabi` | Birth 1216 or 1227 (age blank until then) | *Yuan shi* 114 (biographies of empresses); Rossabi 1988 | CHR.T7 |
-  | `dorji` | Mother (Chabi or another wife); birth year | *Yuan shi* 107 (imperial genealogy) | CHR.T7 |
-  | `coja` | Did any envoy survive besides Coja? | Cleaves 1976, full text (JSTOR) | CHR.T7 |
-  | `maffeo` | Married to Marta per Bolognari–Simion via Burgio; children disputed; compare the original and dates | Orlandini 1926 doc. 6; 1328 act; Bolognari–Simion 2024 | CHR.T7 |
-  | `bellela` | Husband Bertuccio Querini confirmed by Bolognari 2020 citing Gallo; reconcile 1326 and 1328 references for death | Gallo 1957–58 pp. 320–21; 1328 act | CHR.T7 |
-  | `marco` | Possible daughter Agnese: see Bolognari before stronger identification or birth date; 1254 is inferred | Bolognari, *Studi Medievali* 62 (2021) | CHR.T7 |
-  | `rustichello` | Lay or clerical status remains unknown; card presents clothing as a convention | Larner 1999; scholarship on the Arthurian compilation | CHR.T7 |
-  | `peter-the-tartar` | **Settled at edition level:** Cod. Lat. V, 58 (=2437), no. 33; manuscript and live catalogue not inspected | Bartoli Langeli in Plebani 2019, edition read | done; catalogue optional |
-
-- **Do:** for each row, see the source, write the verdict into `characters.yaml` (`dates`, `relations`, `book_says`), add the work to `registry/bibliography.bib` as `confirmed`, and update the *Contested facts* table in `registry/characters.md`. Where a verdict changes an age (Chabi, Dorjé), run `tools/characters.py ages` and adjust the cards.
-- **Done when:** every row above has a seen source or an agreed hedge in the chapter text.
+  | Person | Wording in use | Evidence and limits |
+  |---|---|---|
+  | Chabi | Birth year and age unspecified. | *Yuan shi* 106 and 114 give no birth year. The 1216 and 1227 leads remain unverified. |
+  | Dorjé | Cublay’s eldest son. His mother and birth year are unknown (II-02 Note [11]). | *Yuan shi* 107 gives his rank among the sons. The biography of Chabi in juan 114 names Chinkin as her son. |
+  | Coja | Ramusio names him as the sole surviving envoy. The Chinese provisioning notice leaves survival open (III-09). | Cleaves 1976, p. 181, was checked. The rest of the article and the notice itself were unavailable for direct inspection. |
+  | Maffeo | The edited 6 February 1310 will names his late wife Marta and two spiritual daughters. His children, if any, are unverified (I-02 Note [3]). | Orlandini 1926, doc. 6, checked in OCR. Yule’s earlier date comes through a separate 1328 proceeding whose record was unavailable. |
+  | Bellela | Bertuccio Querini was her husband. Her exact death year remains open (III-10 Note [15]). | Bolognari 2020 cites Gallo’s 1326–27 records. Reconciliation of the dates requires the underlying records. |
+  | Marco | Born c. 1254 by inference. Agnese’s identification as his daughter remains possible (III-10 Note [16]). | Moule–Pelliot I for the inferred birth year. Bolognari 2021 and the 1319 will were unavailable for direct inspection. |
+  | Rustichello | Lay or clerical status is unspecified. The card labels his dress a convention. | No source seen establishes his status. |
+  | Peter the Tartar | The will is Marciana Cod. Lat. V, 58 (=2437), no. 33. | Bartoli Langeli’s 2019 edition was read. The original and live catalogue were uninspected. |
 
 ### CHR.T6 — Consistency sweep and promotion to error
-- **Status:** backlog · **Depends:** every narrative chapter's `.T3` (each carries a **People (S-05 ✓)** step)
-- **Do:** after each W4 batch, run `tools/characters.py chapters` and `report --md > plans/status/character-name-diff.md`. When the last narrative chapter has had its pass, make the people half of `name_policy` an error, together with `GAZ.T7`.
-- **Done when:** the report shows 0 bare variants and 0 unglossed first mentions; the rule is an error.
+- **Status:** done (2026-11-24). The naming sweep covered all 37 in-scope narrative chapters. Updated the registry's chapter references, added Baibars to the aliases for Bundukdar, and regenerated the [naming report](../../status/character-name-diff.md). The report and lint share the first-mention check.
+- **Verified:** 0 bare variants, 0 missing first-mention glosses, and both findings now fail `name_policy` with the *(S-05)* tag. The separate human voice read remains with each chapter.
 
 
 ### CHR.T8 — Reference list per card
@@ -100,10 +93,4 @@ S-05 ✓ (closed and finalized 2026-10-22) · S-15 (family rows of `CHR.T7`) · 
 - **Done when:** every card whose figure appears in a GEN plate has an accepted sheet. Polo-family sheets say "house convention, no authentic likeness" in the sidecar.
 - **Settled (2026-11-18):** style-guide rule 9 now allows `edit OK` reference files and our own accepted sheets as image inputs; `look only` files never. List every attached file in the sidecar.
 
-### S-15 handoff — family and collaborator records (2026-11-11)
-
-**Applied:** `characters.yaml` now qualifies Agnese and her proposed dates/parentage, the two Maffeo will reports, capture, Rustichello's role and lay status, and Pietro's will identifier (no. 33 in the 2019 edition). `registry/characters.md` contested table updated. Source-by-source verdicts and unverified works: `research/results/S-15-raw.md` #6–15, #19.
-
-**CHR.T7 remains open:** read Orlandini and compare the 1309/1310 testament evidence; see Bolognari 2021 before treating Agnese as the traveller's proven daughter; check Bellela's death date in the underlying 1326–28 records; check Rustichello's lay status. Don't turn Yule's silence into proof Bellela was unmarried. The will is Cod. Lat. V, 58 (=2437), no. 33 in Bartoli Langeli’s 2019 edition; the archival original was not inspected. No precise Donata marriage year is demonstrated.
-
-**External S-15 check (2026-11-11) supersedes earlier handoff:** Bellela's husband Bertuccio Querini is supported by Bolognari 2020 citing Gallo, and Moreta's second marriage by Gullino. Maffeo married Marta per Bolognari–Simion through Burgio 2024; whether he had children is disputed. Andrea is attributed to Ramusio, not an independently seen document. See `research/results/S-15-external-intake.md`. CHR.T7 remains open for will text and death-date reconciliation.
+The [S-15 intake](../../research/results/S-15-external-intake.md) also records Moreta’s second marriage per Gullino, Andrea’s name in Ramusio, and the uncertainty over Donata’s marriage year. See [F-17](../../registry/facts.md#s-14-claims) for the updated Maffeo evidence.

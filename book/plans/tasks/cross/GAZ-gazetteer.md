@@ -58,7 +58,7 @@ S-04 and S-09 closed. S-16, S-17 and S-18 intakes complete on a best-effort basi
 - **Done when:** no row's `notes` says "approximate" without a source, and `disputed` rows name their candidates.
 
 ### GAZ.T7 — Promote `name_policy` to an error
-- **Status:** done (2026-11-21). Place-name violations are errors and the 49-file lint run reports zero. S-05 character findings retain warning severity.
+- **Status:** done (2026-11-21). Place-name violations are errors and the 49-file lint run reported zero. On 2026-11-24, CHR.T6 promoted character-name findings to errors as well.
 - **Do:** change the `name_policy` severity in `tools/lint.py` from warning to error and rebaseline.
 - **Done when:** `python3 tools/lint.py` reports no `name_policy` errors on the 49 files.
 

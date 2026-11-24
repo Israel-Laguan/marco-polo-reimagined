@@ -2,7 +2,9 @@
 
 **2026-11-16 partial correction:** The unsupported bachelor clause was removed from the manuscript; Note [1] now attributes the Marta report to Gullino. The date comparison, his alleged children, and the remaining `.T1` work are still open. See [intake](../../../research/results/S-15-priority-return-2026-11-16-intake.md).
 
-**2026-11-23 full pass:** T1 (facts), T3 (v3 re-voice), T2 (Pipino/Ramusio flags), T4 (Notes), T6 (lint) and T5 (media check) are done. F-01 applied (Terek rout aside; Note [9] now ✓ war/date, ✗ outcome); m8 applied ("Venetian records, not the Book"); the first paragraph's claims split into Notes [1]–[3] (records / Andrea tradition / brothers and Maffeo), and the remaining paragraphs re-anchored claim-by-claim (25 Notes total); Maffeo family claims hedged per F-17/S15-F4 (no will year printed); m12 resolved via Allsen (checked key), no de Rachewiltz addition. Targeted lint: **0 errors, 0 warnings · 1,893 words · 12% verbatim · 5 quotes · 3 asides**; build places A3 with no placeholders. Remaining open: F-17 will-date dispute and elder Marco's ship (research, CHR.T7), and the human voice read.
+**2026-11-23 full pass:** T1 (facts), T3 (v3 re-voice), T2 (Pipino/Ramusio flags), T4 (Notes), T6 (lint) and T5 (media check) are done. F-01 applied (Terek rout aside; Note [9] now ✓ war/date, ✗ outcome); m8 applied ("Venetian records, not the Book"); the first paragraph's claims split into Notes [1]–[3] (records / Andrea tradition / brothers and Maffeo), and the remaining paragraphs re-anchored claim-by-claim (25 Notes total); m12 resolved via Allsen (checked key), no de Rachewiltz addition. Targeted lint: **0 errors, 0 warnings · 1,893 words · 12% verbatim · 5 quotes · 3 asides**; build places A3 with no placeholders. The elder Marco's ship and the human voice read remain open.
+
+**2026-11-24 CHR.T7 closeout:** Note [3] uses Orlandini's 6 February 1310 edition date, names Marta, and leaves possible children open. Yule's earlier date comes from his summary of a separate 1328 proceeding. See F-17 for the evidence limits.
 
 **File:** `vol-1/ch-02-house-of-polo.md` · **Status:** done (2026-11-23) · **Kind:** narrative
 
@@ -78,9 +80,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-01: the outcome is backwards: Hulagu's army under Abaqa was routed beyond the Terek in the winter of 1262–63 (Yule's Bk IV note). Note [5] → "✓ war and date; ✗ outcome". — **Applied:** inline Terek-rout clause (book forms: Alaü, Abaga (Abaqa)); Note [9] ✓/✗ with `[@yc, 4.25 n. 3]`.
-    - F-17 (open): drop "remained a bachelor"; if a clause is wanted, "the documents name no wife or child for him". — **Applied:** bachelor clause dropped; marriage/family hedged in Note [3] (Gullino, Jacoby, Bruno keys; F-17 row governs). No will year printed (1309/1310 dispute stays open).
-  - Still-open rows use their hedge. When a library check settles one, update `registry/facts.md` first, then the chapter. — F-17, S15-F4 remain the governing hedges; no registry change needed for this pass.
-  - **S-13 ✓:** the elder Matteo's will is 6 February 1310 in `bolognari2026venezia` and February 1309 in F-17; settle it (Venetian year?) before a date is printed. — No will year is printed in the chapter; settlement stays open (CHR.T7).
+    - F-17: Note [3] follows Orlandini doc. 6 for the will's date and Marta. Possible children remain unverified.
+  - **S-13 ✓:** Note [3] distinguishes the date of the edited will from the date Yule reports via the 1328 proceeding. F-17 and S15-F4 record both readings.
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet. — met by the 2026-11-23 pass; the human check against `facts.md` is part of the final read.
 
 ### I-02.T3 — Re-voice to the v3 standard

@@ -7,6 +7,27 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools"))
 import lint  # noqa: E402
 
 
+class CharacterNameLintTests(unittest.TestCase):
+    def test_modern_name_is_allowed_as_a_gloss_and_rejected_bare(self):
+        rel = "vol-1/ch-03-second-setting-forth.md"
+        ctx = {"gaz_rows": []}
+        glossed = lint.Doc(rel, text="Bundukdar (Baibars) marched into Armenia.")
+        self.assertEqual(list(lint.c_name_policy(glossed, ctx)), [])
+
+        bare = lint.Doc(rel, text="Baibars marched into Armenia.")
+        self.assertEqual(list(lint.c_name_policy(bare, ctx)), [
+            ("error", 1, "“Baibars” used bare; the book form for this person is “Bundukdar” (S-05)"),
+        ])
+
+    def test_missing_first_gloss_is_an_error_even_when_supplied_later(self):
+        doc = lint.Doc("vol-1/ch-03-second-setting-forth.md", text=(
+            "Bundukdar led the army.\n\nBundukdar (Baibars) marched into Armenia."
+        ))
+        self.assertEqual(list(lint.c_name_policy(doc, {"gaz_rows": []})), [
+            ("error", 1, "first mention of “Bundukdar” has no gloss (Baibars) (S-05)"),
+        ])
+
+
 class NoteLintTests(unittest.TestCase):
     def test_inline_anchor_pairs_with_one_note(self):
         doc = lint.Doc("vol-2/ch-04-hunt.md", text=(

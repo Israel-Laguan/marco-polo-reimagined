@@ -5,6 +5,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 
 ::: glossary
 
+- [**Abaga**]{#person-abaqa} · Abaqa · AH-bah-gah. Ilkhan who succeeded Hülegü.
 - [**Abhar**]{#place-abhar} · Abhar, Zanjan, Iran · AB-har. Iranian town near which the Cocachin embassy met Ghazan. [Wikipedia](https://en.wikipedia.org/wiki/Abhar)
 - [**Acre**]{#place-acre} · Acre (Akko), Israel. Crusader port and staging point for the Polos’ second departure. [Wikipedia](https://en.wikipedia.org/wiki/Acre,_Israel)
 - [**Alaü**]{#person-hulagu} · Hulagu · ah-lah-OO. Founder of the Ilkhanate and conqueror of Baghdad.

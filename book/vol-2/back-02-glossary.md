@@ -113,7 +113,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Tiju**]{#place-tiju} · Taizhou, Jiangsu, China (provisional) · TEE-joo. Town the Book places east of the canal. [Wikipedia](https://en.wikipedia.org/wiki/Taizhou,_Jiangsu)
 - [**Tinju**]{#place-tinju} · Nantong (Tung-chau), Jiangsu, China · TIN-joo. Salt town tentatively identified with Nantong. Other proposed sites include Yizheng. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Nantong)
 - [**Toscaol**]{#term-toscaol} · tosḳáúl · tos-ka-OOL. Watchers posted in pairs to keep sight of the Kaan’s hawks [@yc, 2.20 n. 1].
-- [**Tyunju**]{#place-tyunju} · Dehua, Fujian, China (provisional) · TYOON-joo. Porcelain town near Zayton, provisionally identified with Dehua. [Wikipedia](https://en.wikipedia.org/wiki/Dehua_County)
+- [**Tyunju**]{#place-tyunju} · Dehua area, Fujian, China (provisional) · TYOON-joo. Porcelain town near Zayton, provisionally identified with Dehua. [Wikipedia](https://en.wikipedia.org/wiki/Dehua_County)
 - [**Unken**]{#place-unken} · Minhou (Hu-kwan), Fujian, China · OON-ken. Sugar town on the Fuju road. Houguan in the Minhou area is one of the proposed sites. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Minhou_County)
 - [**Venice**]{#place-venice} · Venice, Italy. The Polos’ home and the starting point of the journeys. [Wikipedia](https://en.wikipedia.org/wiki/Venice)
 - [**Vochan**]{#place-vochan} · Baoshan (Yongchang), Yunnan, China (provisional) · VO-chan. Town in the Gold-Teeth country and the setting for the Book’s battle account. [Wikipedia](https://en.wikipedia.org/wiki/Baoshan,_Yunnan)

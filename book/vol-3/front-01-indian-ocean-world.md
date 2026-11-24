@@ -1,5 +1,5 @@
 # Front Matter III-1
-## The Indian Ocean World (and Why a Princess Boards a Ship)
+## The Indian Ocean World (and Why a Princess Boards a Ship) {short="The Indian Ocean World"}
 
 > *“And when the ships had been equipt…”*
 > — Marco Polo, Prologue, ch. 18 (Yule–Cordier)
