@@ -6,7 +6,7 @@
 
 This directory holds drafted chapters of Volume III (ships of Manzi; Chipangu; the southern Ocean road through Champa, Java, and Sumatra; Nicobars–Andamans–Seilan; Maabar and western India; the wonder-coasts of Male/Female, Scotra, Madeigascar, Zanghibar, Abash, and Aden; Arabian ports; the Cocachin return; Venice reception; afterlives of the Book; closing reliability essay).
 
-**Status:** The first draft includes all 12 chapters and four front and back matter files. Re-voicing and human review are tracked in the [chapter tasks](../plans/tasks/chapters/vol-3/). See [series status](../SERIES-STATUS.md).
+**Status:** All 12 chapters and four front and back matter files have completed the Voice Guide v3 rewrite and apparatus pass; remaining targeted checks and human review are tracked in the [chapter tasks](../plans/tasks/chapters/vol-3/). See [series status](../SERIES-STATUS.md).
 
 ## Drafting conventions
 
@@ -30,7 +30,7 @@ Volume III uses `[V]`, `[R]`, and `[M]` for visited, reported, and mixed materia
 
 | File | Chapter |
 |------|---------|
-| [ch-01-ships-chipangu.md](ch-01-ships-chipangu.md) | III-1 — *Ships of Manzi and the Island of Chipangu* **[R]** |
+| [ch-01-ships-chipangu.md](ch-01-ships-chipangu.md) | III-1 — *Ships of Manzi and the Island of Chipangu* **[M]** |
 | [ch-02-chamba-java.md](ch-02-chamba-java.md) | III-2 — *Chamba, Java, Locac, Pentam: The Southern Ocean Road* **[M]** |
 | [ch-03-java-less-sumatra.md](ch-03-java-less-sumatra.md) | III-3 — *Java the Less: Ferlec to Fansur — Sumatran Kingdoms* **[M]** |
 | [ch-04-necuveran-seilan.md](ch-04-necuveran-seilan.md) | III-4 — *Necuveran, Angamanain, Seilan: Islands of Rumour and the Foot on the Peak* **[M]** |

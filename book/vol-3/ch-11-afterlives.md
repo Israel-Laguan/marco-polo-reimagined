@@ -36,7 +36,7 @@ Walk into Seville’s Biblioteca Colombina today and open one surviving copy of 
 
 ![Marginal notes on the Abyssinia–Aden opening of Pipino’s Latin Polo, printed at Gouda around 1483–84. Columbus and others annotated this copy. The hand and date of each note on this page remain uncertain. *(Biblioteca Capitular y Colombina, Seville. Photograph by Hispalois, CC BY-SA 4.0. Cropped to the right page.)*](../media/public-domain/III-11_colombina-right-page.jpg){#fig-colombina-notes width=78%}
 
-— Back on the Chipangu page, watch what the Admiral’s pen underscores: bullion, pearls, spices, and islands worth reaching [18]. We can see plainly what caught his eye in Seville, even when we cannot follow his ink back before 1492.
+— Back on the Chipangu page, watch what the Admiral’s pen underscores: bullion, pearls, spices, and islands worth reaching [18]. Before 1492, Columbus’s knowledge of Cathay and Chipangu came chiefly through Paolo dal Pozzo Toscanelli’s 1474 correspondence, so we can see plainly what caught his eye in Seville even when we cannot follow his ink back before the first voyage.
 
 Anthologies soon swept Polo into wider currents. In 1532 Basel’s *Novus Orbis* printed him among New World and Asian voyages [19]. Then in 1559, two years after his death, Giovanni Battista Ramusio’s *Navigationi et viaggi* volume two gave Europe both the San Giovanni Grisostomo homecoming feast and a composite Italian text blending witnesses [20]. Ramusio’s volume set Marco inside a grander company of travellers while reminding editors to keep room on the desk for the manuscripts he wove together. Twenty years later, in 1579, John Frampton printed the first English translation in London—worked not from Italian or Latin, as Marsden showed, but from Santaella’s Castilian [21]. An English reader opening Frampton met Marco through a chain of translators reaching back from London to Seville.
 
@@ -102,7 +102,7 @@ Seven centuries on, readers still return to the Book’s opening pledge—to wei
 
 [17] ? Gil relates John Day’s letter to the Seville copy and argues for a particular period of reading. The reference in the letter leaves the identification open [@gil2006marcocristobal, pp. 25–27, 30–34; @larner1999marco, ch. 9].
 
-[18] ~ Shawcross finds a concentration on material things in the Admiral’s notes. Their date and sequence remain uncertain [@shawcross2023materiality; @gil2006marcocristobal, pp. 25–27, 30–34].
+[18] ~ Shawcross finds a concentration on material things in the Admiral’s notes. Their date and sequence remain uncertain, and Yule notes that Columbus’s pre-1492 information on Cathay and Chipangu came largely at second hand through Toscanelli’s 1474 letters [@shawcross2023materiality; @gil2006marcocristobal, pp. 25–27, 30–34; @yc, Introduction § 74 n. 3].
 
 [19] ✓ Cordier lists the 1532 Basel *Novus Orbis* among the printed sources of the Book. A Paris edition followed that year [@yc, vol. 2, Appendix H].
 

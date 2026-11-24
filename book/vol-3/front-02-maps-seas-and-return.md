@@ -8,7 +8,7 @@
 
 From Zayton (Quanzhou), the sea chapters run down the South China Sea coast to Chamba (Champa), then through the islands and west to Seilan (Sri Lanka) and Maabar (the Coromandel Coast) [1]. The Book mixes places Polo claims to have seen with accounts he heard from others [2].
 
-Map A16 follows a proposed route for Cocachin’s embassy, from Zayton to the Arabian Sea crossing and the landfall at Hormos (Old Hormuz, in the Minab area) [3]. The Prologue names a stop at “Java.” Yule reads that name as Java the Less (Sumatra) and connects it with the five-month wait at Samara (Samudera Pasai) described separately in Book III [4]. Rashid al-Din records the envoys’ arrival for Cocachin’s marriage at Abhar, west of Qazvin, and leaves the Polos unnamed [5].
+Map A16 follows a proposed route for Cocachin’s embassy, reconstructing an embarkation at Zayton and a Persian Gulf landfall at Hormos (Old Hormuz, in the Minab area) where the Prologue leaves both ports unnamed [3]. The Prologue names a stop at “Java.” Yule reads that name as Java the Less (Sumatra) and connects it with the five-month wait at Samara (Samudera Pasai) described separately in Book III [4]. Rashid al-Din records the envoys’ arrival for Cocachin’s marriage at Abhar, west of Qazvin, and leaves the Polos unnamed [5].
 
 From Trebizond (Trabzon), the Prologue takes the travellers through Constantinople (Istanbul) and Negropont (Chalkida on Euboea) to Venice [6].
 

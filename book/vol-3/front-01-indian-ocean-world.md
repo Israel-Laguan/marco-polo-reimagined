@@ -38,7 +38,7 @@ The homeward push is not only homesickness. In the book’s frame, the Polos obt
 
 That political errand explains the shape of Volume III’s ending better than a tourist’s whim. The same ocean that carries pepper and camphor carries a woman whose wedding is statecraft. Many of the escort die on the passage, according to the book; the Polos survive to deliver their charge and continue overland via Trebizond (Trabzon) toward the Black Sea and Venice. Without Cocachin, the return is a merchant’s wish; with her, it is an imperial commission that happens to point home [6].
 
-Hold the monsoon calendar in mind: leave Zayton with Yuan ships; coast and island-hop with the seasons; wait when the wind says wait; make Hormos; then finish as land travellers again through Ilkhanid country.
+Hold the monsoon calendar in mind: under the standard reconstruction of the Prologue’s unnamed ports, the fleet leaves Zayton with Yuan ships; coasts and island-hops with the seasons; waits when the wind says wait; makes Hormos; and finishes as land travellers again through Ilkhanid country.
 
 ![Diagram C11. Monsoon months in the two seas, and the fleet's calendar: the debated departure and Yule's reading of the Book's intervals. *(Chart: this edition, from Deng 2011 and the Book via Yule–Cordier.)*](../media/diagrams/C11-monsoon-cocachin.svg){#fig-c11-monsoon-overview}
 
