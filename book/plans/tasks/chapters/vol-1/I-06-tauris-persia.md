@@ -79,8 +79,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-06.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #19 (batch 5)
-- **Now:** 2,702 words · 58% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 3 · archaisms 5 · Book first person 2 · asides 2
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #19 (batch 5)
+- **Current lint (2026-11-24):** 1,815 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass sharpened Tauris gem-bazaar atmosphere, Magi fire-temple storytelling, horse-drive logistics, and Yasdi-to-Kerman outro into I-07; human voice read remains pending.
+- **Earlier baseline:** 2,702 words · 58% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 3 · archaisms 5 · Book first person 2 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :23 (100%), :25 (100%), :27 (100%), :35 (74%), :37 (82%), :41 (96%).
   - Asides over 80 words: :31 (132). Trim; move traveller/scholar lists to Notes.

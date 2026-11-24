@@ -77,8 +77,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-11.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ · **W4 order:** #37 (batch 10)
-- **Now:** 2,646 words · 0% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 0 · Book first person 0 · asides 2
+- **Status:** v3 draft recorded; literary polish applied (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ · **W4 order:** #37 (batch 10)
+- **Current lint (2026-11-24):** 1,833 w · 4% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary review changes (2026-11-24):** Preserved the distinct reception form from 1375 onward; added a brief reader-perspective reflection on trusting engraved coastlines versus manuscript memory in the Renaissance cartography section.
+- **Earlier baseline:** 2,646 words · 0% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 0 · Book first person 0 · asides 2
 - **Do:**
   - Verbatim already within limit; voice and structure pass only.
   - **Structure (S-07 ✓): target 2,400–2,800. The reception as events, from 1375;** the arguments belong to III-12. Section plan in `plans/spikes/S-07-structure-length.md` § 3:

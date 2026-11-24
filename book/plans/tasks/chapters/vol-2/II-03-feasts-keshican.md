@@ -60,8 +60,9 @@ _Created after the gating spikes close. Expected shapes:_
 - `II-03.T6` Lint pass and human voice read
 
 ### II-03.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #1 (batch 1)
-- **Now:** 3,101 words · 80% verbatim · "You must know" 6 · "Anyway" 2 · formula hinges 4 · archaisms 10 · Book first person 0 · asides 2
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #1 (batch 1)
+- **Current lint (2026-11-24):** 2,157 w · 2% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 3,101 words · 80% verbatim · "You must know" 6 · "Anyway" 2 · formula hinges 4 · archaisms 10 · Book first person 0 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :19 (100%), :23 (99%), :29 (99%), :33 (94%), :37 (98%), :39 (81%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :17, :19, :21, :33, plus any listed under *Dispute handling* above.

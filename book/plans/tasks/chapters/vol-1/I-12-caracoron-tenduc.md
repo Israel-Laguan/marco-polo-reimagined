@@ -82,8 +82,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-12.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ (no split) · **W4 order:** #38 (batch 10)
-- **Now:** 3,114 words · 16% verbatim · "You must know" 0 · "Anyway" 5 · formula hinges 7 · archaisms 2 · Book first person 1 · asides 5
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ (no split) · **W4 order:** #38 (batch 10)
+- **Current lint (2026-11-24):** 1,809 w · 1% verbatim · 0 quotes · 4 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary & storytelling pass (2026-11-24):** Preserved all four <80-word asides, U-1A funeral limits, Jeje'er Heights (1203), and Natigay hedge; tightened moving-camp, *kemiz*, decimal-army, Bargu, musk-deer, and Tenduc/Chagannor scenes to remove catalogue cadence; revised outro to avoid echoing I-13's opening verb phrase. Human voice review remains open.
+- **Earlier baseline:** 3,114 words · 16% verbatim · "You must know" 0 · "Anyway" 5 · formula hinges 7 · archaisms 2 · Book first person 1 · asides 5
 - **Do:**
   - Retell to ≤ 15% verbatim.
   - **Structure (S-07 ✓): one chapter, told as scenes; target 2,300–2,800; four asides** (Caracoron, Chinghis chronology, succession, King George). Section plan in `plans/spikes/S-07-structure-length.md` § 1:

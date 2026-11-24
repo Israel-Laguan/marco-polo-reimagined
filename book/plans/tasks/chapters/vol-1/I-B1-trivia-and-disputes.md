@@ -1,10 +1,10 @@
 # I-B1 — Trivia and Disputes — Volume I
 
-**File:** `vol-1/back-01-trivia-and-disputes.md` · **Status:** backlog · **Kind:** back
+**File:** `vol-1/back-01-trivia-and-disputes.md` · **Status:** v3 drafted, reader review pending · **Kind:** back
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,259 | n/a | — (n/a in Vol. I) | ok | no |
+| 619 | 0% | — (n/a in Vol. I) | ok [1–9] | no |
 
 ## Backlog (from critique; not yet tasks)
 

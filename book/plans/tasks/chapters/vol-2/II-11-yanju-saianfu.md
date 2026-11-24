@@ -82,8 +82,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-11.T3 — Re-voice to the S-01 standard
-- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #9 (batch 3)
-- **Now:** 2,529 words · 57% verbatim · "You must know" 3 · "Anyway" 3 · formula hinges 4 · archaisms 2 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #9 (batch 3)
+- **Current lint (2026-11-24):** 1,801 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Literary pass (2026-11-24): varied the opening away from II-10's "Step..." outro, tightened invented roadside/workshop colour in Coiganju and Yanju, replaced repeated "Picture..." openers at Yanju and Saianfu, and verified II-10 -> II-11 -> II-12 transitions. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 2,529 words · 57% verbatim · "You must know" 3 · "Anyway" 3 · formula hinges 4 · archaisms 2 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (92%), :21 (94%), :25 (99%), :41 (100%), :43 (96%), :47 (99%).
   - Asides over 80 words: :27 (234), :39 (106), :45 (257). Trim; move traveller/scholar lists to Notes.

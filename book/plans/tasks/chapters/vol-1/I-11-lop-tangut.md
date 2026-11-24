@@ -76,8 +76,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-11.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #23 (batch 6)
-- **Now:** 2,773 words · 46% verbatim · "You must know" 1 · "Anyway" 4 · formula hinges 4 · archaisms 7 · Book first person 0 · asides 4
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #23 (batch 6)
+- **Current lint (2026-11-24):** 1,804 w · 3% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary & storytelling pass (2026-11-24):** Sharpened Lop desert-crossing logistics and night-straggler scene with verified Yule epigraph quote (*"the sound of a variety of musical instruments, and still more commonly the sound of drums"*); tightened Sachiu sheep-feast and camphor-coffin funeral scenes, Camul/asbestos contrasts, and Sukchur/Jiayuguan/Campichu pacing with a narrator pause leading into Etzina (I-12). Human voice review remains open.
+- **Earlier baseline:** 2,773 words · 46% verbatim · "You must know" 1 · "Anyway" 4 · formula hinges 4 · archaisms 7 · Book first person 0 · asides 4
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :27 (74%), :37 (79%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :15, :19, :37, plus any listed under *Dispute handling* above.

@@ -79,8 +79,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-10.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #5 (batch 2)
-- **Now:** 3,068 words · 69% verbatim · "You must know" 7 · "Anyway" 2 · formula hinges 5 · archaisms 6 · Book first person 1 · asides 2
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #5 (batch 2)
+- **Current lint (2026-11-24):** 1,854 w · 3% verbatim · 1 quotes · 2 asides; 0 errors, 0 warnings. Literary pass (2026-11-24): varied the Kinsay crisis opener (avoiding repeated "Picture..."), checked II-09 -> II-10 -> II-11 transitions. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 3,068 words · 69% verbatim · "You must know" 7 · "Anyway" 2 · formula hinges 5 · archaisms 6 · Book first person 1 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (90%), :27 (94%), :43 (86%), :57 (93%), :65 (92%), :71 (95%).
   - Cut the closing recap :73 (122 words) to ≤ 1 forward sentence.

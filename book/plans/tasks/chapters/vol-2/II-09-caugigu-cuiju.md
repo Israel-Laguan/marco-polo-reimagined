@@ -71,8 +71,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-09.T3 — Re-voice to the S-01 standard
-- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #10 (batch 3)
-- **Now:** 2,039 words · 55% verbatim · "You must know" 2 · "Anyway" 1 · formula hinges 5 · archaisms 4 · Book first person 0 · asides 1
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #10 (batch 3)
+- **Current lint (2026-11-24):** 1,811 w · 4% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Literary pass (2026-11-24): removed invented/anachronistic props (e.g., chilli pods, tin broth bowls, cedar chests, tung oil jars, Shanxi cities) against `yule-ii-lvi-lix.txt`, trimmed adjective stacking, tightened the II-08 -> II-09 -> II-10 bridges, and expanded grounded commentary on overland freight, cliff burials, paper-money borders, and the 87-day/70-day return arc. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 2,039 words · 55% verbatim · "You must know" 2 · "Anyway" 1 · formula hinges 5 · archaisms 4 · Book first person 0 · asides 1
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :13 (95%), :17 (98%), :23 (94%), :27 (88%), :35 (100%), :37 (100%).
   - Asides over 80 words: :41 (138). Trim; move traveller/scholar lists to Notes.

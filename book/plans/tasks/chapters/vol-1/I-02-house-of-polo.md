@@ -85,7 +85,8 @@ _Created after the gating spikes close. Expected shapes:_
 
 ### I-02.T3 — Re-voice to the v3 standard
 - **Status:** done (2026-11-23) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #25 (batch 7)
-- **Now:** 1,893 words · 12% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges 0 · archaisms 0 · Book first person 0 · asides 3 (all ≤ 60 words, no exit formulas)
+- **Current lint (2026-11-24):** 1,893 w · 12% verbatim · 5 quotes · 3 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass reviewed openings, pauses, and Viterbo outro into I-03 and fixed stray leading whitespace; human voice read remains pending.
+- **Earlier baseline:** 1,893 words · 12% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges 0 · archaisms 0 · Book first person 0 · asides 3 (all ≤ 60 words, no exit formulas)
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :23 (73%). — the envoys' speech is paraphrased with 2 short marked quotes.
   - Asides over 80 words: :31 (119), :43 (108). Trim; move traveller/scholar lists to Notes. — all asides ≤ 60 words.

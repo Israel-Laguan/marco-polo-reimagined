@@ -66,8 +66,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-06.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #30 (batch 8)
-- **Now:** 3,634 words · 63% verbatim · "You must know" 4 · "Anyway" 2 · formula hinges 1 · archaisms 2 · Book first person 1 · asides 5
+- **Status:** v3 draft recorded; literary/storytelling pass completed (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #30 (batch 8)
+- **Current lint (2026-11-24):** 1,842 w · 4% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Smoothed the Mailapur-to-Mutfili opening bridge, varied imperative openings across Cail, Coilum, Comari, and Eli, and added a narrator aside at Comari linking the returning Pole Star to Sumatra. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 3,634 words · 63% verbatim · "You must know" 4 · "Anyway" 2 · formula hinges 1 · archaisms 2 · Book first person 1 · asides 5
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (78%), :19 (98%), :41 (84%), :43 (84%), :51 (94%), :59 (98%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :19, :23, :31, plus any listed under *Dispute handling* above.

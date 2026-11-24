@@ -69,8 +69,9 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-04.T6` Lint pass and human voice read
 
 ### I-04.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #22 (batch 6)
-- **Now:** 2,330 words · 49% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 4 · archaisms 3 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #22 (batch 6)
+- **Current lint (2026-11-24):** 1,868 w · 1% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass replaced "The Book" / "a man who" repetition with concrete scene openings and sensory pauses (Ayas quay, Turcoman uplands, Ararat pass timing, naphtha spring, Derbend bottleneck, St Leonard's fish), added marked Yule quote (*"a hundred shiploads"*), and tightened the outro into I-05; human voice read remains pending.
+- **Earlier baseline:** 2,330 words · 49% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 4 · archaisms 3 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (84%), :19 (74%), :21 (77%), :29 (72%), :31 (72%), :33 (76%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :21, :33, plus any listed under *Dispute handling* above.

@@ -75,8 +75,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-01.T3 — Re-voice to the S-01 standard
-- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #8 (batch 2)
-- **Now:** 3,101 words · 61% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 7 · archaisms 13 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #8 (batch 2)
+- **Current lint (2026-11-24):** 1,818 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary pass (2026-11-24):** Trimmed repetitive modifiers ("cleanly", stacked adjectives/adverbs), varied paragraph openers around the Ramusio Easter passage and paiza section, added a short narrator pause after the Nayan battle, and confirmed the II-01 -> II-02 transition. Human voice review remains open.
+- **Earlier baseline:** 3,101 words · 61% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 7 · archaisms 13 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :17 (82%), :25 (89%), :29 (96%), :43 (81%), :45 (80%), :47 (97%).
   - Asides over 80 words: :15 (110), :35 (183). Trim; move traveller/scholar lists to Notes.

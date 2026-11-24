@@ -71,8 +71,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-02.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #32 (batch 8)
-- **Now:** 1,792 words · 46% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 4 · archaisms 0 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; literary/storytelling pass completed (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #32 (batch 8)
+- **Current lint (2026-11-24):** 1,830 w · 3% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Varied imperative openings at Chamba, Java, and Pentam, added a narrator transition into the date variants and shoal-rudder scene, and tightened the closing bridge into III-3. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 1,792 words · 46% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 4 · archaisms 0 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (75%), :19 (76%), :25 (93%), :29 (97%), :31 (96%), :35 (83%).
   - Asides over 80 words: :27 (112), :33 (98). Trim; move traveller/scholar lists to Notes.

@@ -73,8 +73,9 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-01.T6` Lint pass and human voice read
 
 ### I-01.T3 — Re-voice to the v3 standard
-- **Status:** open (lint already green 2026-11-23) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #26 (batch 7)
-- **Now:** 1,800 words · 5% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges ≤ 3 · archaisms 0 · Book first person 0 · asides 2 (77 and 72 words)
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #26 (batch 7)
+- **Current lint (2026-11-24):** 1,812 w · 3% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass tightened merchant-shipping pacing and 1299 treaty/release flow while preserving outro transition into I-02; human voice read remains pending.
+- **Earlier baseline:** 1,800 words · 5% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges ≤ 3 · archaisms 0 · Book first person 0 · asides 2 (77 and 72 words)
 - **Do:**
   - Verbatim already within limit; voice and structure pass only.
   - Asides over 80 words: :21 (159), :37 (106). Trim; move traveller/scholar lists to Notes. — **already done (2026-11-23): 77 / 72 words.**

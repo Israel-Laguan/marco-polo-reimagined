@@ -60,7 +60,8 @@ SCAFFOLD = [  # (pattern, flags); searched in the whole file, Notes included
     (r"\b(likely_visited|reported_only)\b", 0),
     (r"[Gg]azetteer:?[^.;\n]{0,40}\*(visited|likely visited|uncertain|reported only)\*", 0),
 ]
-NAME_STOP = {"Book", "Books", "Notes", "Note", "Polo", "Marco", "Kaan", "Khan", "Great", "Ramusio", "Yule"}
+# Caidu is a person in characters.yaml, not a variant of the place Caindu.
+NAME_STOP = {"Book", "Books", "Notes", "Note", "Polo", "Marco", "Kaan", "Khan", "Great", "Ramusio", "Yule", "Caidu"}
 
 
 # ---------------------------------------------------------------- parsing

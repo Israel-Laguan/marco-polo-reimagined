@@ -8,7 +8,7 @@
 
 ---
 
-The messenger has reached Achmath (Ahmad Fanakati) in the Old City. The crown prince is supposed to be back, and he wants the minister at the palace now. Achmath goes out into the night. At the gate Cogatai, who commands the garrison, wants to know where he’s going. He hasn’t heard a thing about the prince’s return. In the account Yule took from Ramusio, he follows the minister with some of his men [1].
+The messenger has reached Achmath (Ahmad Fanakati) in the Old City. The crown prince is supposed to be back, and he wants the minister at the palace now. Achmath goes out into the night. At the gate Cogatai, who commands the garrison, wants to know where he’s going. Cogatai hasn’t heard a thing about the prince’s return, and in the account Yule took from Ramusio, he follows the minister with some of his men [1].
 
 We have a little time before they reach the hall. Achmath has made his way from the household of Chabi, the empress, to high office in the service of Cublay (Kublai) Kaan [2]. The Book calls him *bailo*, which would give a Venetian an idea of a man with the right to act for a ruler [3]. He has been in a position to hand out offices as well as collect revenues. In Ramusio’s account, a man who wants a governorship can pay for it. Achmath offers posts to men whose daughters he wants, and the women have little choice in the bargain [4]. The Kaan seldom sees a reason to refuse him. The people who might have given him one have to live with his minister.
 

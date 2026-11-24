@@ -72,8 +72,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-06.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #6 (batch 2)
-- **Now:** 3,022 words · 64% verbatim · "You must know" 0 · "Anyway" 3 · formula hinges 8 · archaisms 6 · Book first person 0 · asides 2
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #6 (batch 2)
+- **Current lint (2026-11-24):** 1,958 w · 1% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary pass (2026-11-24):** Removed repetitive "cleanly", "crisp", and "brisk" modifiers, fixed punctuation around the Sindafu toll-house reckoning, added a short narrator pause on Sindafu's covered bridge, and verified the II-06 -> II-07 transition. Human voice review remains open.
+- **Earlier baseline:** 3,022 words · 64% verbatim · "You must know" 0 · "Anyway" 3 · formula hinges 8 · archaisms 6 · Book first person 0 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :23 (74%), :31 (88%), :35 (74%), :37 (87%), :39 (87%), :43 (99%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :27, plus any listed under *Dispute handling* above.

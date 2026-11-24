@@ -4,7 +4,7 @@ Generated from `registry/bibliography.bib` by `tools/sources_index.py`; do not e
 
 Status is the comment above each entry: **confirmed** (a record was opened: catalogue, DOI, publisher page or the text), **unconfirmed** (claimed, not checked), **known** (standard work, no record opened). Trust rules: `research/README.md`. Name → key map: `registry/name-keys.csv`.
 
-Totals: confirmed 273 · known 11 · see note 60 · unconfirmed 39 · **383 entries**
+Totals: confirmed 273 · known 11 · see note 61 · unconfirmed 39 · **384 entries**
 
 | Key | Citation | Status | Access | Cited in |
 |---|---|---|---|---|
@@ -299,6 +299,7 @@ Totals: confirmed 273 · known 11 · see note 60 · unconfirmed 39 · **383 entr
 | `ricci1931travels` | Polo, Marco; Ricci, Aldo (trans.). 1931. *The Travels of Marco Polo*. New York: Viking Press. | **confirmed** · (Open Library OL42483586W: the Viking issue; the London Routledge issue not seen) |  | — |
 | `richthofen1877china` | Richthofen, Ferdinand von. 1877/1912. *China: Ergebnisse eigener Reisen und darauf gegründeter Studien*. Berlin: D. Reimer. | **confirmed** |  | — |
 | `rockhill1891land` | Rockhill, William Woodville. 1891. *The Land of the Lamas: Notes of a Journey through China, Mongolia, and Tibet*. New York: Century. | **confirmed** |  | I-13 |
+| `rockhill1900journey` | William of Rubruck; Rockhill, William Woodville (ed.); Rockhill, William Woodville (trans.). 1900. *The Journey of William of Rubruck to the Eastern Parts of the World, 1253–55*. London: Hakluyt Society. | **see note** · (group note) III-03: interpretation checked in S-21-E9; catalogue confirms publication details. | [link](https://archive.org/details/journeywilliamr01ruysgoog) | I-12, I-F1, II-03, III-12 |
 | `ronchi1982milione` | Polo, Marco; Ronchi, Gabriella (ed.). 1982. *Milione. Le divisament dou monde: Il Milione nelle redazioni toscana e franco-italiana*. Milano: Mondadori. | **confirmed** · (Open Library OL575892W) |  | — |
 | `rong2015khotan` | Rong, Xinjiang. 2015. “Reality or Tale? Marco Polo's Description of Khotan”. *Journal of Asian History* 49: 161–174. | **see note** · S-16 final intake: metadata verified in journal issue; full text not read. | [link](https://doi.org/10.13173/jasiahist.49.1-2.0161) | — |
 | `rong2019marco` | Rong, Xinjiang; Dang, Baohai (ed.). 2019. *Make Boluo yu 10–14 shiji de sichou zhi lu [马可·波罗与10–14世纪的丝绸之路; Marco Polo and the Silk Road, 10th–14th Centuries]*. Beijing: Beijing daxue chubanshe. | **unconfirmed** · (reported by Ma 2025 and by Vogel and Theobald 2024; no catalogue record opened) |  | — |

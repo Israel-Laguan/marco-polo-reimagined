@@ -70,8 +70,10 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-13.T6` Lint pass and human voice read
 
 ### I-13.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #20 (batch 5)
-- **Now:** 2,617 words · 58% verbatim · "You must know" 2 · "Anyway" 3 · formula hinges 3 · archaisms 4 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #20 (batch 5)
+- **Current lint (2026-11-24):** 1,806 w · 2% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary & storytelling pass (2026-11-24):** Varied opener from I-12 outro; added verified Yule quote (*"all gilt and painted"*); sharpened contrast between surface spectacle and unseen labour (gerfalcon keepers, cane-palace dismantling, sacred white mares, Bacsi/Sensin double ledger); refined outro bridge into Volume II (II-01). Human voice review remains open.
+- **Earlier baseline:** 2,617 words · 58% verbatim · "You must know" 2 · "Anyway" 3 · formula hinges 3 · archaisms 4 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (86%), :21 (91%), :25 (75%), :31 (90%), :33 (100%), :37 (95%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :15, plus any listed under *Dispute handling* above.

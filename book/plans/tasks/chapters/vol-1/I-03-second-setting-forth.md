@@ -77,8 +77,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-03.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #24 (batch 6)
-- **Now:** 2,588 words · 34% verbatim · "You must know" 0 · "Anyway" 4 · formula hinges 6 · archaisms 3 · Book first person 0 · asides 4
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #24 (batch 6)
+- **Current lint (2026-11-24):** 1,813 w · 0% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass reduced "The Book" repetition, sharpened Ayas quay logistics and Carajan mission pacing, added marked Yule quote (*"'tis my son and your liegeman"*), and checked the flask outro into I-04; human voice read remains pending.
+- **Earlier baseline:** 2,588 words · 34% verbatim · "You must know" 0 · "Anyway" 4 · formula hinges 6 · archaisms 3 · Book first person 0 · asides 4
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :31 (70%), :35 (78%), :37 (72%), :39 (96%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :39, plus any listed under *Dispute handling* above.

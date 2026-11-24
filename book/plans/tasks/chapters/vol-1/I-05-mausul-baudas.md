@@ -76,8 +76,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-05.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #18 (batch 5)
-- **Now:** 2,949 words · 61% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 2 · archaisms 5 · Book first person 2 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #18 (batch 5)
+- **Current lint (2026-11-24):** 1,830 w · 1% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass reduced "The Book" tics, sharpened Tigris textile trade and Alaü/Caliph treasury drama, added marked Yule quote (*"faith as a grain of mustard seed"*), enriched cobbler-workshop scene, and checked Tauris outro into I-06; human voice read remains pending.
+- **Earlier baseline:** 2,949 words · 61% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 2 · archaisms 5 · Book first person 2 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :23 (73%), :25 (86%), :31 (95%), :35 (96%), :39 (95%), :43 (100%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :13, plus any listed under *Dispute handling* above.

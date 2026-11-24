@@ -77,8 +77,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-14.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #4 (batch 1)
-- **Now:** 2,635 words · 72% verbatim · "You must know" 6 · "Anyway" 3 · formula hinges 6 · archaisms 6 · Book first person 2 · asides 4
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #4 (batch 1)
+- **Current lint (2026-11-24):** 1,820 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Literary pass (2026-11-24): trimmed ungrounded opener colour (plaster houses, water-wheels) in Tanpiju, replaced "Picture..." with "Watch..." in the Fuju harbour scene, and verified II-13 -> II-14 -> II-15 transitions. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 2,635 words · 72% verbatim · "You must know" 6 · "Anyway" 3 · formula hinges 6 · archaisms 6 · Book first person 2 · asides 4
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :33 (99%), :41 (97%), :47 (94%), :49 (97%), :53 (93%), :67 (100%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :31, :33, :53, :55, :61, plus any listed under *Dispute handling* above.

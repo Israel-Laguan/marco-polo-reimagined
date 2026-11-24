@@ -71,7 +71,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-12.T3 — Re-voice to the S-01 standard
-- **Status:** complete · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #7 (batch 2)
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #7 (batch 2)
+- **Current lint (2026-11-24):** 1,801 w · 3% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Literary pass (2026-11-24): tightened the Kiang trackers scene (replacing "Picture..." with "Watch..." and trimming redundant adjectives) and verified II-11 -> II-12 -> II-13 transitions. Measurements are automated; source, apparatus and human review remain separate.
 - **Result:** 1,832 words · 3% verbatim · targeted lint passes with 0 errors and 0 warnings
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :17 (92%), :19 (97%), :23 (90%), :29 (96%), :47 (100%), :65 (99%).

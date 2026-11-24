@@ -80,8 +80,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-07.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #15 (batch 4)
-- **Now:** 2,976 words · 70% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 6 · archaisms 3 · Book first person 1 · asides 2
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #15 (batch 4)
+- **Current lint (2026-11-24):** 1,802 w · 0% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass sharpened Kerman workshops, Reobarles/Canosalmi pacing, Hormos stitched-ship and *samūm* scenes, added marked Yule quote (*"wretched affairs"*), fixed first-mention gloss on `Cublay (Kublai)`, and checked bitter-water outro into I-08; human voice read remains pending.
+- **Earlier baseline:** 2,976 words · 70% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 6 · archaisms 3 · Book first person 1 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :13 (78%), :19 (93%), :23 (82%), :33 (73%), :35 (97%), :41 (98%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :15, :35, :39, plus any listed under *Dispute handling* above.

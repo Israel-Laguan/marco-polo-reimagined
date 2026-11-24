@@ -80,8 +80,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** a person has read the chapter's Polo place names against `gazetteer.csv`. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-12.T3 — Prose pass to the S-01 standard, with the S-07 section plan
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 ✓, S-06 ✓, S-07 ✓; do after `III-11.T3` (the Wood and "why a retelling" material moves here) · S-13 ✓ (its §6 and §9 items are in `III-12.T1`)
-- **Now:** 3,753 words (essay range 2,500–3,500) · "Soft" ×44 · opening recap :9–11 · closing recap :127
+- **Status:** v3 draft recorded; literary review completed (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 ✓, S-06 ✓, S-07 ✓; do after `III-11.T3` (the Wood and "why a retelling" material moves here) · S-13 ✓ (its §6 and §9 items are in `III-12.T1`)
+- **Current lint (2026-11-24):** 2,601 w · 1% verbatim; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary review (2026-11-24):** Reviewed the closing essay in full against `VOICE-GUIDE.md`, the II-3/II-4 benchmarks, and the III-11 → III-12 bridge; preserved the 9-section essay form, 8-row evidence ledger, and all 39 Notes without further prose edits.
+- **Earlier baseline:** 3,753 words (essay range 2,500–3,500) · "Soft" ×44 · opening recap :9–11 · closing recap :127
 - **Do:** essay register (it argues, it does not retell), and the voice rules that apply to it: no scaffolding, no archaisms, no Book first person, no recaps. Section plan in `plans/spikes/S-07-structure-length.md` § 3, target 2,800–3,200:
   0. Cut the opening recap (:9–11); open on the method line of the epigraph.
   1. What kind of book (:15–21) → ~380.

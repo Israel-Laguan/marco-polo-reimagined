@@ -72,8 +72,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-07.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #12 (batch 3)
-- **Now:** 3,082 words · 46% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges 5 · archaisms 8 · Book first person 0 · asides 0
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #12 (batch 3)
+- **Current lint (2026-11-24):** 1,937 w · 1% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary pass (2026-11-24):** Specified "a Caindu household" in the hat-on-the-door passage and verified the II-07 -> II-08 transition and S-15/S-21 hedges. Human voice review remains open.
+- **Earlier baseline:** 3,082 words · 46% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges 5 · archaisms 8 · Book first person 0 · asides 0
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :13 (78%), :25 (71%), :47 (75%).
   - Cut the closing recap :53 (123 words) to ≤ 1 forward sentence.

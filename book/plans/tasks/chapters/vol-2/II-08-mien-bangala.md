@@ -69,8 +69,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-08.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #2 (batch 1)
-- **Now:** 2,887 words · 77% verbatim · "You must know" 3 · "Anyway" 1 · formula hinges 5 · archaisms 9 · Book first person 0 · asides 1
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #2 (batch 1)
+- **Current lint (2026-11-24):** 1,837 w · 2% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Literary pass (2026-11-24): smoothed repetition in the downhill market opening ("Polo gives us..." / "Polo gives no name...") and verified II-07 -> II-08 -> II-09 transitions. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 2,887 words · 77% verbatim · "You must know" 3 · "Anyway" 1 · formula hinges 5 · archaisms 9 · Book first person 0 · asides 1
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :21 (99%), :29 (100%), :31 (97%), :35 (87%), :41 (87%), :43 (93%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :41, plus any listed under *Dispute handling* above.

@@ -70,8 +70,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-08.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #29 (batch 8)
-- **Now:** 2,055 words · 64% verbatim · "You must know" 0 · "Anyway" 3 · formula hinges 8 · archaisms 4 · Book first person 1 · asides 6
+- **Status:** v3 draft recorded; literary polish applied (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #29 (batch 8)
+- **Current lint (2026-11-24):** 1,837 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary review changes (2026-11-24):** Revised the opening to avoid echoing III-07's "Leave…" opener, replaced repeated "Picture…" and "Lift…" cues, added a short narrator pause after Dufar connecting the customs ledger to the frankincense bark, smoothed the Hormos closing ring metaphor, and trimmed duplicate "quietly" in the outro.
+- **Earlier baseline:** 2,055 words · 64% verbatim · "You must know" 0 · "Anyway" 3 · formula hinges 8 · archaisms 4 · Book first person 1 · asides 6
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :11 (95%), :23 (88%), :25 (84%), :37 (92%), :39 (92%), :41 (90%).
   - Asides over 80 words: :13 (86), :27 (89). Trim; move traveller/scholar lists to Notes.

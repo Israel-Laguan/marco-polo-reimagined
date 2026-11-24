@@ -72,8 +72,10 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-09.T6` Lint pass and human voice read
 
 ### I-09.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #16 (batch 4)
-- **Now:** 3,150 words · 65% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 4 · archaisms 1 · Book first person 2 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #16 (batch 4)
+- **Current lint (2026-11-24):** 1,804 w · 2% verbatim · 2 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary & storytelling pass (2026-11-24):** Sharpened quartermaster vs. merchant perspective at Sapurgan and Taican; added verified Yule quotes (*"sweeter than honey"*, *"supply the whole world to the end of time"*); deepened contrast between Syghinan ruby monopoly and Ramusio's high-plateau fever recovery; turned Pashai/Keshimur products and coral trade into a tighter sequence with a short narrator pause. Human voice review remains open.
+- **Earlier baseline:** 3,150 words · 65% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 4 · archaisms 1 · Book first person 2 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :21 (71%), :23 (94%), :29 (78%), :31 (76%), :33 (76%), :41 (100%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :31, :43, plus any listed under *Dispute handling* above.

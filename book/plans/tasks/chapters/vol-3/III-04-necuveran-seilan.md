@@ -69,8 +69,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-04.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #27 (batch 7)
-- **Now:** 2,599 words · 78% verbatim · "You must know" 5 · "Anyway" 3 · formula hinges 5 · archaisms 3 · Book first person 7 · asides 3
+- **Status:** v3 draft recorded; literary/storytelling pass completed (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #27 (batch 7)
+- **Current lint (2026-11-24):** 1,806 w · 3% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Smoothed the III-3 to III-4 Lambri bridge, varied imperative openings across Angamanain and Seilan, enriched Adam's Peak and the sheltered palace scene, and varied the closing transition into III-5. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 2,599 words · 78% verbatim · "You must know" 5 · "Anyway" 3 · formula hinges 5 · archaisms 3 · Book first person 7 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :21 (95%), :25 (97%), :29 (100%), :31 (100%), :33 (100%), :41 (99%).
   - Asides over 80 words: :19 (87), :37 (111). Trim; move traveller/scholar lists to Notes.

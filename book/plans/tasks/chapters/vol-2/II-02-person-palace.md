@@ -86,7 +86,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-02.T3 — S-01 pilot re-voice
-- **Status:** done (2026-10-21; human read approved) · **Depends:** —
+- **Status:** done (2026-11-23); independent human voice review pending on 2026-11-24 polish · **Depends:** —
+- **Current lint (2026-11-24):** 1,805 w · 1% verbatim · 2 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary pass (2026-11-24):** Removed repetitive "cleanly" and "quietly" modifiers across the palace, Green Mount, and city-wall scenes, sharpened sensory detail at the curfew gate, and verified the II-02 -> II-03 transition. Human voice review remains open.
 - **Result:** 1,893 words · 2% verbatim · 0 "You must know" / "Anyway" / formula hinges / archaisms · 10/10 Ramusio passages flagged. Measurements and before/after in `spikes/S-01-voice-standard.md`.
 - **Left for other tasks:** S-03 confirmation of the ◇ / [M] conventions it assumed (T4); S-06 check of Notes [6] and [20] (T1).
 

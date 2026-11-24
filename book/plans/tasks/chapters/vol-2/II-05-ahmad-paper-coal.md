@@ -84,8 +84,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-05.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #14 (batch 4)
-- **Now:** 3,235 words · 31% verbatim · "You must know" 0 · "Anyway" 3 · formula hinges 3 · archaisms 8 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #14 (batch 4)
+- **Current lint (2026-11-24):** 1,891 w · 1% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary pass (2026-11-24):** Clarified the Cogatai pronoun reference in the opening paragraph and verified the II-04 -> II-05 and II-05 -> II-06 transitions. Human voice review remains open.
+- **Earlier baseline:** 3,235 words · 31% verbatim · "You must know" 0 · "Anyway" 3 · formula hinges 3 · archaisms 8 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :13 (72%), :45 (72%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :45, :51, plus any listed under *Dispute handling* above.

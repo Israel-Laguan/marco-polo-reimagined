@@ -1,14 +1,14 @@
 # I-F1 — The World Before the Road
 
-**File:** `vol-1/front-01-world-before-the-road.md` · **Status:** backlog · **Kind:** front
+**File:** `vol-1/front-01-world-before-the-road.md` · **Status:** revision applied 2026-11-24, independent human review pending · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,467 | n/a | — (n/a in Vol. I) | [10]/[11] out of order | no |
+| 1,070 | 1% | — (n/a in Vol. I) | 14 anchors and Notes in order | no |
 
-## Backlog (from critique; not yet tasks)
+## Original critique findings
 
-Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+The line and Note numbers in this section refer to the critique draft. Current dispositions are recorded under Tasks.
 
 ### Critical
 - Epigraph is invented: *"Ye must know that in the year of Christ… there were living in Venice two brothers…"* is not in Yule ("there were living in Venice two brothers" has 0 hits). The real Prologue ch. I opening is at Y:12495. Fix: replace with *"It came to pass in the year of Christ 1260, when Baldwin was reigning at Constantinople…"*, attributed "Prologue, ch. I (Yule–Cordier)". Also listed in content plan W1.1. — vol-1 C1 · front-01:4
@@ -40,7 +40,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - **Secondary plates:** none
 - **Maps:** A2 The world in 1260 (Mongol successor khanates, Mamluks, Byzantium, Venetian and Genoese posts). Replaces `map-asia-mongol-empire.*` / `map-mongol-empire.gif` (a 1206–1294 animation, F-25; see I-F2).
 - **Timelines / diagrams / tables:** B1 The Polo family, 1254–1324; B2 Mongol politics, 1206–1295 (critique §5 timelines 1 and 3: "Pair with front-01").
-- **Characters appearing:** Niccolò Polo, Maffeo Polo, Marco Polo, Rustichello (via preamble), Kublai, Hulagu, Berke, Kaidu, Michael Palaeologus, William of Rubruck, John of Plano Carpini, Jacopo d'Acqui (Note [6]); Prester John (legendary)
+- **Characters appearing:** Niccolò Polo, Maffeo Polo, Marco Polo, Marco the Elder, Cublay, Alaü, Barca, Caidu, Sigatay, Michael Palaeologus, William of Rubruck, John of Plano Carpini, Ramusio and Jacopo d’Acqui (Note [11]), William Buchier (Note [12]).
 
 ## Gated by spikes
 - S-02 Acceptance lint and thresholds
@@ -52,26 +52,22 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 - S-09 Map and diagram pipeline (A2, B1, B2)
 
 ## Tasks
-_Created after the gating spikes close. Expected shapes:_
-- `I-F1.T1` Critical and factual fixes
-- `I-F1.T3` Re-voice to the S-01 standard (incl. length cuts)
-- `I-F1.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `I-F1.T6` Lint pass and human voice read
 
 ### I-F1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
-- **Now:** bare variants: Cilician Armenia → Lesser Hermenia ×1, Hormuz → Hormos ×1, Badakhshan → Badashan ×1, Pamir → Pamier ×1
+- **Status:** manuscript and registry updated 2026-11-24, independent name review pending · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
+- **Applied:** verified the existing Prologue epigraph. Retained place and person names use book forms with first-use glosses, including Lesser Hermenia in the A2 caption. The scope sentence points to I-F2, which carries Yule’s Hormos inference. The comparison of alternate routes (critique m1) belongs to I-F2.
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
   - **Facts (S-06 ✓, `registry/facts.md`):**
-    - F-34: Note [6]: Curzola is Ramusio's tradition, which Yule accepts; Jacopo puts the capture at Ayas.
-    - F-25: until A2 replaces it, the Mongol map is captioned from its 1294 frame (with `MED.T1`).
-    - F-38 (open end): front-01:29 "War of Saint Sabas (1256–1270)" → "the war that broke out at Acre in 1255 over the church of St Sabba, and lasted for years" (Yule); no end year.
+    - F-34: Note [11] (was [6]) distinguishes Ramusio's Curzola tradition, favoured by Yule, from Jacopo’s Ayas account. It points to I-1, Notes 7–8.
+    - F-25: A2 is in place and shows 1260. The older Mongol Empire animation is a separate asset.
+    - F-38: the dispute over St Sabba began in 1255 and grew into a war that lasted years (Note [10], YC Introduction §31). The end date remains open in the facts registry.
 - **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-F1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Status:** manuscript revision applied 2026-11-24, independent role and voice review pending · **Depends:** S-07 ✓; I-1 and I-2 `.T3` ✓
+- **Applied:** added a series preface under 60 words linked to III-12, kept the historical framing and reader’s key, and reduced the treatment of the detour and papal commission to one I-2 pointer. The scope sentence links to I-F2. The silences and repeated reliability advice were cut.
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
   - Keep as home: Mediterranean trade and Venice–Genoa rivalry; Mongol successor realms; name and date conventions (:56).
   - Add a series preface of ≤ 60 words (purpose; the rules themselves live in III-12 §8). The full *How to read this book* box is `APP.T1`.
@@ -84,8 +80,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 11 Notes · 0 ★ · 0 without a lead marker
+- **Status:** revision and lint complete 2026-11-24, independent Notes review pending · **Depends:** S-03 ✓, `APP.T2` ✓
+- **Now:** 14 claim anchors and 14 matching Notes in sequence, 0 ★, 0 without a lead marker. The audited locators and scope of Note [1] are intact. The reader’s key is in place and the old workspace-path Note has been superseded.
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -93,10 +89,16 @@ _Created after the gating spikes close. Expected shapes:_
   - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [1]; preserve the checked locators, scope and corrections from [the locator registry](../../../registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
+### I-F1.T5 — Figures and captions
+
+- **Status:** done 2026-11-24 · **Depends:** S-08 ✓, S-09 ✓
+- **Verified:** `tools/build/build.sh i-f1-check vol-1/front-01-world-before-the-road.md` built A2, B2 and B1 with zero placeholders, undersized rasters or overfull lines at or above 10 pt. The three rendered captions and the reader’s key were visually checked. I-F2’s incoming map link still matches the heading.
+
 ### I-F1.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 5 errors · 1 warnings — failing: citations, markers, quote_verify, scaffolding; warnings: names
+- **Status:** lint passed 2026-11-24, independent human review pending · **Depends:** every other task in this file · S-02 ✓
+- **Current lint:** 1,070 words, 1% Yule overlap, 0 errors, 1 `names` warning. `Mongolica` in *Pax Mongolica* is a false positive for `Mongolia`.
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 5 errors · 1 warning — failing: citations, markers, quote_verify, scaffolding; warnings: names
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
 
-**Targeted continuity pass (2026-11-17), applied to `I-F1.T1`:** F-34 and M2 only: :29 now says the captivity is traditionally after Curzola; Note [6] credits Curzola to Ramusio and later tradition and says Jacopo d’Acqui names Ayas; :54 presents the Hormos sea plan as Yule’s inference. Names, the m1 route difference and the [10]/[11] order (now `APP.T9`) are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.
+**Earlier continuity pass (2026-11-17):** F-34 and M2 corrected the capture attribution and labelled the Hormos sea plan as Yule’s inference. `APP.T9` restored citation order before the current revision.

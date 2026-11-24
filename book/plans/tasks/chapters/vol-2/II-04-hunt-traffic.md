@@ -70,8 +70,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### II-04.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #3 (batch 1)
-- **Now:** 3,141 words · 71% verbatim · "You must know" 2 · "Anyway" 3 · formula hinges 4 · archaisms 15 · Book first person 0 · asides 3
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #3 (batch 1)
+- **Current lint (2026-11-24):** 2,012 w · 2% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Earlier baseline:** 3,141 words · 71% verbatim · "You must know" 2 · "Anyway" 3 · formula hinges 4 · archaisms 15 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :21 (90%), :27 (96%), :33 (97%), :35 (96%), :47 (90%), :49 (99%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :15, :23, :33, :47, plus any listed under *Dispute handling* above.

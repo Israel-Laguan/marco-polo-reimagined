@@ -70,8 +70,10 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-10.T6` Lint pass and human voice read
 
 ### I-10.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #21 (batch 6)
-- **Now:** 2,783 words · 51% verbatim · "You must know" 0 · "Anyway" 2 · formula hinges 4 · archaisms 5 · Book first person 0 · asides 2
+- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #21 (batch 6)
+- **Current lint (2026-11-24):** 1,804 w · 2% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary & storytelling pass (2026-11-24):** Replaced abstract placeholders with drovers, shepherds, and oasis traders; added verified Yule quote (*"good six palms"*); heightened suspense of Samarcan's three-day hanging-pillar ultimatum and Mar Sarghis transmission; tightened Yarcan/Cotan/Pein sequence and twenty-day marriage clock pause, bridging cleanly to Charchan (I-11). Human voice review remains open.
+- **Earlier baseline:** 2,783 words · 51% verbatim · "You must know" 0 · "Anyway" 2 · formula hinges 4 · archaisms 5 · Book first person 0 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :13 (99%), :21 (77%), :27 (97%), :29 (100%), :35 (96%), :39 (87%).
   - Flag Ramusio-only passages (inline tag + "◇ Ramusio-only" Note) at :13, :33, plus any listed under *Dispute handling* above.

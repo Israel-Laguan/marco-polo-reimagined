@@ -76,8 +76,10 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### III-10.T3 — Re-voice to the S-01 standard
-- **Status:** backlog · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ · **W4 order:** #36 (batch 9)
-- **Now:** 3,337 words · 36% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 4 · Book first person 0 · asides 1
+- **Status:** v3 draft recorded; literary polish applied (2026-11-24); independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ · **W4 order:** #36 (batch 9)
+- **Current lint (2026-11-24):** 1,844 w · 3% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary review changes (2026-11-24):** Preserved the distinct reception form ending at 1324; varied the doorstep "Picture…" cue to a direct narrator observation and added a closing sentence to the *Milione* section contrasting parlour humour with parish filing labels.
+- **Earlier baseline:** 3,337 words · 36% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 1 · archaisms 4 · Book first person 0 · asides 1
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (83%).
   - **Structure (S-07 ✓): target 2,300–2,600. Scope ends at 1324 plus the manuscripts and readers of Marco's lifetime;** the maps, Columbus, print and Wood belong to III-11/III-12. Section plan in `plans/spikes/S-07-structure-length.md` § 3:
