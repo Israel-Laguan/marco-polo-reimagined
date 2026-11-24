@@ -10,13 +10,15 @@
 **Reading the marks.** Notes open with ✓ corroborated · ~ plausible · ✗ probably wrong · ? contested (◇ marvel or hearsay). Tags: **[V]** mostly seen or done · **[R]** mostly heard · **[M]** both · **[reception]** the Book's afterlife. A provenance label such as “Ramusio-only.” or “Ramusio-only in part.” in a Note identifies material from a later witness and defines its scope. Full key: Volume I, front matter.
 :::
 
-Volume III leaves the canal cities and takes the monsoon road. Ships of Manzi, the rumour of Chipangu (Japan), Champa’s coast, Sumatra’s winter wait, Seilan’s peak, Maabar’s pearls, the long western shore toward Hormuz — and then the political errand that finally brings the Polos home: escorting the lady Cocachin for an Ilkhanid marriage. Before the chapters begin, here is the maritime weather system in plain storyteller’s talk.
+Volume III leaves the canal cities and takes the monsoon road. Ships of Manzi, the rumour of Chipangu (Japan), Chamba’s (Champa) coast, Java the Less’s (Sumatra) winter wait, Seilan’s (Sri Lanka) peak, Maabar’s (Coromandel) pearls, the long western shore toward Hormos (Hormuz) — and then the political errand that finally brings the Polos home: escorting the lady Cocachin for an Ilkhanid marriage. Before the chapters begin, here is the maritime weather system in plain storyteller’s talk.
+
+Notice how Book III shifts gear from the overland road: much of what follows is report-heavy sea lore gathered from pilots and merchants rather than Marco’s own footsteps, until the return voyage in III-9 restores the autobiography. Across India and the African coast, the retelling keeps the Book’s own names — Maabar, Melibar, Abash, Madeigascar — with modern equivalents given once in brackets on first mention.
 
 ### Maritime Asia as a season, not a highway
 
-The Indian Ocean and South China Sea of Polo’s day were not crossed by inventing a straight line on a chart and hoping. They were crossed by **monsoon logic**. Summer and winter winds reversed; captains waited in havens for the right breath; a wrong-season sailing could strand a fleet for months. When the book says the Polos wintered five months in Java the Less (Sumatra), that wait is not laziness — it is seamanship. Freight, diplomacy, and survival all obeyed the same calendar [1].
+The Indian Ocean and South China Sea of Polo’s day were not crossed by inventing a straight line on a chart and hoping. They were crossed by **monsoon logic**. Summer and winter winds reversed; captains waited in havens for the right breath; a wrong-season sailing could strand a fleet for months. When the book says the Polos wintered five months in Java the Less, that wait is not laziness — it is seamanship. Freight, diplomacy, and survival all obeyed the same calendar [1].
 
-Ports formed a necklace more than a single empire: Zayton (Quanzhou) and the Manzi coast; Chamba (Champa) on the Vietnamese shore; Malay and Sumatran polities; Seilan (Sri Lanka); the Coromandel and Malabar coasts of India; Gozurat (Gujarat) approaches; Kesmacoran (Makran); then the Arabian incense ports and Aden’s gate toward the Red Sea. Some of these Polo’s fleet touches; many he reports from mariners’ talk in the same shipboard evenings that fill wonder-books. Volume III is honest about that mix when the retelling keeps [V] and [R] in view [2].
+Ports formed a necklace more than a single empire: Zayton (Quanzhou) and the Manzi coast; Chamba on the Vietnamese shore; Malay and Sumatran polities; Seilan; Maabar and Melibar (Malabar) on India’s coasts; Gozurat (Gujarat) approaches; Kesmacoran (Makran); then the Arabian incense ports and Aden’s gate toward the Red Sea. Some of these Polo’s fleet touches; many he reports from mariners’ talk in the same shipboard evenings that fill wonder-books. Volume III is honest about that mix when the retelling keeps [V] and [R] in view [2].
 
 Camphor from Fansur, pepper from Coilum (Quilon), pearls from Maabar, horses badly shipped to Indian courts, frankincense from Dufar — the commodities are the argument that these coasts were real even when a particular landing is soft.
 
@@ -36,7 +38,7 @@ The homeward push is not only homesickness. In the book’s frame, the Polos obt
 
 That political errand explains the shape of Volume III’s ending better than a tourist’s whim. The same ocean that carries pepper and camphor carries a woman whose wedding is statecraft. Many of the escort die on the passage, according to the book; the Polos survive to deliver their charge and continue overland via Trebizond (Trabzon) toward the Black Sea and Venice. Without Cocachin, the return is a merchant’s wish; with her, it is an imperial commission that happens to point home [6].
 
-Hold the monsoon calendar in mind: leave Zayton with Yuan ships; coast and island-hop with the seasons; wait when the wind says wait; make Hormos (Old Hormuz); then finish as land travellers again through Ilkhanid country.
+Hold the monsoon calendar in mind: leave Zayton with Yuan ships; coast and island-hop with the seasons; wait when the wind says wait; make Hormos; then finish as land travellers again through Ilkhanid country.
 
 ![Diagram C11. Monsoon months in the two seas, and the fleet's calendar: the debated departure and Yule's reading of the Book's intervals. *(Chart: this edition, from Deng 2011 and the Book via Yule–Cordier.)*](../media/diagrams/C11-monsoon-cocachin.svg){#fig-c11-monsoon-overview}
 
@@ -46,7 +48,7 @@ Not every Volume III shore is equal. Seilan’s Adam’s Peak and Maabar’s pea
 
 ### What you are about to read
 
-Chapters III-1 to III-8 give ships, islands, and coasts. III-9 returns to autobiography with Cocachin’s voyage. III-10 and III-11 shift to Venice reception and the book’s afterlives — maps, Columbus, print. III-12 closes with a reliability essay for the whole series. Front maps in the next file show the seas; back matter pockets the gold-and-Columbus trivia and points at the Wood debate without pretending to settle it in a pocket list.
+Chapters III-1 to III-8 give ships, islands, and coasts. III-9 returns to autobiography with Cocachin’s voyage. III-10 and III-11 shift to Venice reception and the book’s afterlives — maps, Columbus, print. III-12 closes with a reliability essay for the whole series. Front maps in the next file show the seas; the back matter collects the trivia and afterlives.
 
 The road became a sea-road. The sea-road, under a princess’s commission, became a way home. That is Volume III’s hinge — monsoon first, marriage politics second, legend along the gunwales.
 
@@ -54,7 +56,7 @@ The road became a sea-road. The sea-road, under a princess’s commission, becam
 
 ## Notes
 
-[1] ✓ Monsoon wind reversals governed every sailing schedule across the South China Sea and Indian Ocean [@hall1985maritime; @chaudhuri1985trade]. Polo’s five-month wait on northern Sumatra (Java the Less) matches the seasonal rhythm between the north-east and south-west monsoons; see [Chart C11, the monsoon](#ilkhanid-marriage-politics--why-cocachin-matters).
+[1] ✓ Monsoon wind reversals governed every sailing schedule across the South China Sea and Indian Ocean [@hall1985maritime; @chaudhuri1985trade]. Polo’s five-month wait on northern Sumatra (Java the Less) matches the seasonal rhythm between the north-east and south-west monsoons; see [Chart C11, the monsoon](#fig-c11-monsoon-overview).
 
 [2] ? Many islands and western coasts in Book III are described expressly from pilots' and merchants' reports rather than personal landfalls [@yc, 3.1–40]. The `[V]`, `[R]`, and `[M]` chapter tags and individual Notes distinguish likely ports of call along the Champa–Sumatra–Ceylon–India route from outlying hearsay.
 

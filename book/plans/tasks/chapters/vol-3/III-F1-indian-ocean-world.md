@@ -1,10 +1,10 @@
 # III-F1 — The Indian Ocean World (and Why a Princess Boards a Ship)
 
-**File:** `vol-3/front-01-indian-ocean-world.md` · **Status:** backlog · **Kind:** front
+**File:** `vol-3/front-01-indian-ocean-world.md` · **Status:** in_progress · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 838 | n/a | — | ok (8/8) | no |
+| 960 | n/a | — | ok (7/7) | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -46,13 +46,13 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `III-F1.T1` Critical and factual fixes
-- `III-F1.T5` Media placement (C11) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `III-F1.T6` Lint pass and human voice read
+- `III-F1.T1` Critical and factual fixes ✅ completed
+- `III-F1.T5` Media placement (C11) · S-08 ✓: ✅ completed (`tools/build/build.sh iii-f1 vol-3/front-01-indian-ocean-world.md`: `0 placeholders, 0 undersized rasters, 0 overfull lines (>= 10pt), 11 pages`).
+- `III-F1.T6` Lint pass and human voice read (lint green ✅; human read pending)
 
 ### III-F1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
-- **Now:** bare variants: Hormuz → Hormos ×2, South China → Manzi ×1, Japan → Chipangu ×1, Champa → Chamba ×1, Sumatra → Java the Less ×1, Coromandel → Maabar ×1, Malabar → Melibar ×1, Gujarat → Gozurat ×1 (+1 more)
+- **Status:** ✅ completed (facts 2026-11-17; names 2026-11-24) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
+- **Now:** first-mention glosses applied in prose (`Chamba (Champa)`, `Java the Less (Sumatra)`, `Seilan (Sri Lanka)`, `Maabar (Coromandel)`, `Melibar (Malabar)`, `Hormos (Hormuz)`); later repeat glosses removed; `lint.py` shows E0 W0 (no `name_policy` warnings).
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
   - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
@@ -61,19 +61,19 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### III-F1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Status:** ✅ completed (2026-11-24) · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
   - Keep as home: monsoon logic; what "India" means; the Ilkhanid politics of the Cocachin errand (:31–33, frame only; the voyage is III-9).
-  - Add the preface beat (report-heavy sea book; return restores autobiography) and Indian/African name forms; the short box with *[reception]* is `APP.T1`.
+  - Added the preface beat (report-heavy sea book; return in III-9 restores autobiography) and Indian/African name forms (`Maabar`, `Melibar`, `Abash`, `Madeigascar`); the short box with *[reception]* is `APP.T1`. ✅
   - Chipangu (:27): frame only. Cut the Columbus overstatement ("bent the Atlantic", M4); home III-11.
-  - Keep "What you are about to read" (:43) as the scope paragraph; "Anyway" (:35) goes.
+  - Kept "What you are about to read" as the scope paragraph, trimmed the back-matter clause to a one-line pointer; "Anyway" gone. ✅
   - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
-- **Target:** ≤ 1,000 words (lint cap 1,200).
+- **Target:** ≤ 1,000 words (lint cap 1,200). **Actual:** 960 w.
 - **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### III-F1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 7 Notes · 0 ★ · 0 without a lead marker
+- **Status:** ✅ completed (2026-11-24) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Now:** 7 Notes · 0 ★ · 0 without a lead marker · Note [1] link fixed to `#fig-c11-monsoon-overview`.
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - Run `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -81,7 +81,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-F1.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** in_progress (lint green ✅ 2026-11-24: `PASS · E0 W0 · 960 w · 1% verbatim`; human voice read pending) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
