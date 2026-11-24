@@ -36,13 +36,13 @@ When Volume II speaks of twelve thousand Keshican (guard), robes of one colour i
 
 ### The Sung conquest horizon
 
-While Cublay's northern machine ran, the conquest of the Southern Song — Polo's **Manzi** — was still the great unfinished or newly finished business of the age. Saianfu (Xiangyang) fell after a long siege in the 1270s; Kinsay (Hangzhou) surrendered in 1276; residual Song resistance guttered out by 1279 with a sea battle off the Canton coast early in 1279. Volume II's Manzi chapters therefore sit on a moving floor: some descriptions feel like travel in a newly pacified rich south; the Saianfu mangonel story claims a Polo-family cameo in the conquest toolkit — a claim historians still chew [4].
+While Cublay's northern machine ran, the conquest of the Southern Song — Polo's **Manzi** — was still the great unfinished or newly finished business of the age. Saianfu (Xiangyang) fell after a long siege in the 1270s; Kinsay (Hangzhou) surrendered in 1276; residual Song resistance guttered out early in 1279 with a sea battle off the Canton coast. Volume II's Manzi chapters therefore sit on a moving floor: some descriptions feel like travel in a newly pacified rich south; the Saianfu mangonel story claims a Polo-family cameo in the conquest toolkit — a claim historians still chew [4].
 
 When Polo praises Kinsay's lakes, markets, and paper records of houses, he is describing the former Song capital under Yuan rule — a city that had been, until yesterday in historical time, the heart of a rival Chinese world. The wonder is conquest's inheritance as much as eternal splendour.
 
 ### Paper money, coal, and the *yam* world
 
-Volume II is where Latin readers met institutional marvels that still startle: paper money, coal, and the imperial post system — what Polo will describe, and why it startled Latin readers.
+Volume II is where Latin readers met institutional marvels that still startle: paper money, coal, and the imperial post system — what Polo will describe, and why it startled Latin readers [5].
 
 ### How to listen in Volume II
 
@@ -56,8 +56,10 @@ You are entering a world where a Venetian could watch a Mongol emperor feast in 
 
 [1] ✓ Cublay gave his state the Chinese dynastic name Yuan and ruled as both Mongol Great Khan and Chinese-style emperor [@yc, 2.1 n. 1; @rossabi1988khubilai, ch. 5]. Allsen [-@allsen1997commodity] examines how the court marshalled artisans, textiles, and administrators across the wider Mongol commonwealth.
 
-[2] ✓ Chandu (Shangdu) and Cambaluc (Khanbaliq / Dadu) functioned as the dual seasonal capitals of the Yuan realm [@yc, 1.61; @yc, 2.10-11; @steinhardt1990chinese]. Both walled sites have been surveyed by modern Chinese archaeologists; see [Map A9, Dadu city plan](ch-02-person-palace.md#fig-a9-dadu-city-plan).
+[2] ✓ Chandu (Shangdu) and Cambaluc (Khanbaliq / Dadu) functioned as the dual seasonal capitals of the Yuan realm [@yc, 1.61; @yc, 2.10-11; @steinhardt1990chinese]. Both walled sites have been surveyed by modern Chinese archaeologists; see [Map A9, Dadu city plan](ch-02-person-palace.md#fig-a9-dadu-city-plan). Xu [-@xu2020dadu] reviews a century of Dadu reconstruction work: much of the palace layout is still inferred, and Ming builders moved the north wall south after 1368, so Polo's Cambaluc does not map neatly onto later Beijing.
 
 [3] ✓ The *yam* postal relay network linked the capitals to the provinces through horse stations, foot-runners, and metal tablets of authority (*paiza*) [@yc, 2.26]. Chinese administrative codes and Persian chronicles corroborate the system in detail; see [Chapter II-5, Notes 20-25](ch-05-ahmad-paper-coal.md#notes).
 
 [4] ✓ The final conquest of the Southern Song ran from the siege of Xiangyang (1268-73) and Bayan's capture of Hangzhou (1276) to a sea battle off the Canton coast early in 1279 [@yc, 2.65, 2.70]. The Book's claim that the Polos supplied the counterweight trebuchets at Saianfu clashes with the siege chronology; see [Chapter II-11, Notes 21-37](ch-11-yanju-saianfu.md#notes).
+
+[5] ✓ Yuan paper money began with the Zhongtong issue of 1260; in 1287 the new Zhiyuan notes were officially set at five Zhongtong each, and the old notes stayed in use [@guan2024yuan]. Details are in [Chapter II-5, Notes](ch-05-ahmad-paper-coal.md#notes).

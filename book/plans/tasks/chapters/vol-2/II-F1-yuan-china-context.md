@@ -1,10 +1,10 @@
 # II-F1 — Yuan China: The World You Are Entering
 
-**File:** `vol-2/front-01-yuan-china-context.md` · **Status:** in_progress · **Kind:** front
+**File:** `vol-2/front-01-yuan-china-context.md` · **Status:** completed · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 843 | n/a | — | ok (4/4) | no |
+| 841 | n/a | — | ok (5/5) | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -105,6 +105,17 @@ _Created after the gating spikes close. Expected shapes:_
 - **Result:** **PASS** · E0 · W0 · 843 w · 3% verbatim
 - **Done when:** lint exits 0, warnings reviewed, human read for voice ✅ **PASSED**
 
+### II-F1.T7 — S-17 enrichment
+- **Status:** ✅ completed · **Depends:** S-17 intake
+- **Do:**
+  - Note [2] (Dadu): added sentence citing `xu2020dadu` (Xu's 2019 review of Dadu reconstruction work, noting inferred palace layout and Ming north-wall relocation after 1368). ✅ Applied
+  - Paper money paragraph: added marker `[5]` and Note [5] citing `guan2024yuan` (1260 Zhongtong issue, 1287 official 1:5 Zhiyuan conversion, old notes remaining in use, pointer to Chapter II-5 Notes). ✅ Applied
+  - Sung conquest prose: removed duplicated "by 1279" before "early in 1279". ✅ Applied
+- **Result:** **PASS** · E0 · W0 · 841 w · 3% verbatim · 5/5 citations
+- **Done when:** `python3 tools/lint.py -v vol-2/front-01-yuan-china-context.md` exits 0 with E0 · W0 ✅ **PASSED**
+
 ## S-17 research handoff (2026-11-11)
+
+Applied in II-F1.T7 (2 of 2–3 items).
 
 S17-E1/E3: Xu's 2019 review surveys Dadu reconstructions; Guan, Palma and Wu (2024) provide an accessible economic-history study of Yuan currency. These supplement, not replace, the overview works. [Source audit and unresolved questions](../../../research/results/S-17-intake.md). Choose within the 2-3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
