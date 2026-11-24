@@ -6,17 +6,25 @@
 
 ---
 
-The sea chapters describe ports, coasts and kingdoms along and beyond the main shipping routes. The tables keep this geography in view. The map of the round trip connects these seas with the earlier land routes. The dedicated return map follows the embassy account back to the Mediterranean, where the Prologue gives a much clearer sequence of named stages [1].
+From Zayton (Quanzhou), the sea chapters run down the South China Sea coast to Chamba (Champa), then through the islands and west to Seilan (Sri Lanka) and Maabar (the Coromandel Coast) [1]. The Book mixes places Polo claims to have seen with accounts he heard from others [2].
 
-Read the Book’s maritime sequence as a mixture of claimed stops and reports. It describes Chamba and the Sumatran kingdoms in the sea chapters. The return passage instead gives “Java” and the Sea of India, with few intermediate details [2].
+Map A16 follows a proposed route for Cocachin’s embassy, from Zayton to the Arabian Sea crossing and the landfall at Hormos (Old Hormuz, in the Minab area) [3]. The Prologue names a stop at “Java.” Yule reads that name as Java the Less (Sumatra) and connects it with the five-month wait at Samara (Samudera Pasai) described separately in Book III [4]. Rashid al-Din records the envoys’ arrival for Cocachin’s marriage at Abhar, west of Qazvin, and leaves the Polos unnamed [5].
+
+From Trebizond (Trabzon), the Prologue takes the travellers through Constantinople (Istanbul) and Negropont (Chalkida on Euboea) to Venice [6].
 
 ### Map of the round trip
 
-![Map A1. The round trip by volume. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashes show reconstructed stages and dots show reported places. Crossing from Chamba to Samara is one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
+![Map A1. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashed lines show reconstructed routes and dotted lines show routes described at second hand. The dashed Chamba–Samara leg shows one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area, where the exact site of Old Hormuz remains uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
 ### Map of the Cocachin return
 
-![Map A16. The Cocachin return. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The Prologue names “Java”; Yule links that passage to the Book’s five months at Samara. The solid western line joins the four named stages from Trebizond to Venice along an illustrative course. Rashid al-Din records the embassy at Abhar. Yule dates departure to early 1292; Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
+![Map A16. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The solid western line joins the four stages named in the Prologue from Trebizond to Venice along an illustrative course. A separate marker locates the marriage that Rashid al-Din records at Abhar. Yule dates departure to early 1292. Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area, where the exact site of Old Hormuz remains uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
+
+### Maps in the chapters
+
+[Map A15 (III-1)](ch-01-ships-chipangu.md#fig-a15-invasions-of-japan) traces the fleets bound for Chipangu (Japan). [Map A17 (III-5)](ch-05-maabar-st-thomas.md#fig-a17-book-and-coast) shows where the Book’s account doubles back around Comari (Cape Comorin).
+
+See [C11. The monsoon calendar (III-9)](ch-09-cocachin-return.md#fig-c11-monsoon-cocachin) for how seasonal winds inform the proposed voyage dates.
 
 ### Place table — island and Southeast Asian road
 
@@ -78,18 +86,24 @@ Read the Book’s maritime sequence as a mixture of claimed stops and reports. I
 
 ### Map cautions
 
-*Hormos and Tauris also serve the return. Their main entries appear in Volume I.*
-
-**Java vs Java the Less:** Great Java is modern Java. The Book describes its five-month stay in the separate account of Samara on Java the Less, or Sumatra. **Madeigascar** appears as an island in the Book. Pelliot connects the name to Mogadishu, which is the gazetteer’s provisional reference. **Islands of Men and Women** stay legendary (deliberately not placed on the map). **Chipangu** is a reception magnet, not a landfall [3].
-
-The map in [III-9](ch-09-cocachin-return.md) accompanies a chart of the monsoon seasons and the disputed voyage calendar.
+Great Java (modern Java) has its own account in Book III, separate from Java the Less [7]. The table’s identification of Madeigascar (Mogadishu) is provisional [8]. The main entries for Hormos and Tauris (Tabriz) are in Volume I.
 
 ---
 
 ## Notes
 
-[1] ✓ The place tables give each place's book name, its modern name, and its role in Volume III, following the series gazetteer and Yule–Cordier unless a chapter Note states otherwise [@yc, bk. 3]. Map and figure sources are listed in the [media credits](../media/ATTRIBUTIONS.md).
+[1] ~ The Book’s opening bearings from Zayton through Chamba belong to the sea chapters [@yc, 3.5–8]. Its account of the Indian coast begins with a crossing from Seilan to Maabar [@yc, 3.16].
 
-[2] ~ Book III is structured as a maritime periplus moving west from Zayton to the Persian Gulf, whereas the homeward voyage of Cocachin stands back in the Prologue [@yc, Prol. 17–18; @yc, 3.1–40]. The `[V]`, `[R]`, and `[M]` chapter tags mark where personal travel gives way to shipboard report.
+[2] ~ Polo recounts the wait at Samara in the first person. In the account of Great Java, he gives the island’s size on the authority of mariners [@yc, 3.6, 3.10].
 
-[3] ? Disputed and legendary maritime toponyms—including Locac, Dagroian, Male and Female, and the scribal transmission of *Madeigascar*—are examined in their respective chapter Notes [@yc, 3.7, 3.10, 3.31, 3.33; @pelliot1959notes, vol. 2, pp. 779–781]. For a summary of the Chipangu, Cocachin, and Columbus debates, see [Back Matter III-1](back-01-trivia-and-afterlives.md#disputed-claims-and-pointers).
+[3] ? Book III names Zayton as the starting point for the crossing to Chamba [@yc, 3.5]. The Prologue leaves both ports unnamed and gives no list of intermediate calls [@yc, Prol. 18]. For the proposed embarkation at Zayton and Yule’s suggested landfall at Hormos, see III-9, Notes 12 and 20.
+
+[4] ? Yule identifies the Prologue’s “Java” as Java the Less and offers two ways to count the Samara wait in the voyage’s chronology [@yc, Prol. 18 n. 4; @yc, 3.10; @yc, Introduction § 22 n. 19]. See III-3, Note 14, and III-9, Notes 13–15.
+
+[5] ✓ Rashid al-Din records the marriage at Abhar [@thackston1998rashiduddin, p. 606]. Jackson examines the Persian and Chinese records for the embassy and points out that both leave the Polos unnamed [@jackson1998travels, pp. 98–99]. See III-9, Notes 21 and 22.
+
+[6] ~ The Prologue gives those four stages in that order [@yc, Prol. 18]. The solid line on Map A16 connects them along an illustrative course. See III-9, Note 28.
+
+[7] ~ The island chapters give Great Java and Java the Less separate descriptions [@yc, 3.6, 3.9 n. 1]. See III-3, Note 1, for the identification of Java the Less.
+
+[8] ? The Book describes Madeigascar as an island. Pelliot connects its name to the Somali port and points to details that fit mainland East Africa [@yc, 3.33; @pelliot1959notes, vol. 2, pp. 779–781]. See III-7, Note 13.

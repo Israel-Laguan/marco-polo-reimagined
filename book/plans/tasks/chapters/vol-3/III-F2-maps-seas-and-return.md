@@ -1,16 +1,14 @@
 # III-F2 — Maps for the Seas and the Return
 
-**File:** `vol-3/front-02-maps-seas-and-return.md` · **Status:** backlog · **Kind:** front
-
-> **2026-11-17 source correction:** The old media hook below treats the Samara stop as certain. Apply the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md), including A1/A16 review, before using or placing the pilot maps.
+**File:** `vol-3/front-02-maps-seas-and-return.md` · **Status:** revised 2026-11-24, human review pending · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 790 | n/a | — | ok (3/3) | no |
+| 237 | 12% | — | 8/8 | no |
 
-## Backlog (from critique; not yet tasks)
+## Original critique
 
-Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one.
+References point to the draft examined in the critique. The task entries record the revisions.
 
 ### Critical
 - Invented epigraph: "And from Zayton they sailed…", labelled a "Book III itinerary hinge". It does not exist in Yule; the Prologue never names Zayton (III-09 Note [8] concedes as much). Fix: use Prologue xviii, "They put forth to sea, and after sailing for some three months they arrived at a certain Island towards the South…" (`yule-vol1.txt`). — vol-3 C1 · front-02:4
@@ -39,53 +37,43 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 - Front/back de-duplication per W5 (front matter frames; chapters narrate). — content-revision-plan W5 · front-02
 
 ## Media hooks
-- **Hero plate:** none (front matter)
-- **Secondary plates:** none
-- **Maps:** **A1** series overview (generated; each volume's front-02); **A16** the Cocachin return (III-9 + III-front-02). Critique §5 item 1 plotting order: Cambaluc → Zayton [inferred] → Chamba [possible] → Pentam → Samara / Java the Less [certain] → Necuveran → Seilan → Maabar / Cail → Coilum → Comari → Eli → Melibar → [Gozurat / Cambaet optional] → Kesmacoran → Hormos [inferred] → Kerman → Abhar → Tauris → Trebizond → Constantinople → Negropont → Venice; solid for Prologue-named stages, dashed for inferred; seasonal labels; inset of Ilkhanate/Yuan borders c. 1294. Prerequisite: gazetteer rows for Abhar and Negropont.
-- **Existing media:** `map-marco-polo-overview.png` keep, re-caption as the whole round trip; `map-indian-ocean.*` drop; `map-return-route.jpg` drop (multimedia triage)
-- **Timelines / diagrams / tables:** the two existing place tables (:33, :50), to be regenerated from the gazetteer
-- **Characters appearing:** Cocachin, the Polos, Columbus
+- **Maps in the guide:** A1 series overview and A16 Cocachin return. Both depict Chamba–Samara as inferred. A16 identifies Abhar separately as an embassy site and shows the named western stages along an illustrative course. See [MAP.T01 and MAP.T16](../../cross/MAP-maps.md) and the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md).
+- **Chapter links:** A15 (III-1), A17 (III-5) and C11 (III-9).
+- **Tables:** Both place tables and the no-fix list come from the series gazetteer.
 
 ## Gated by spikes
+
 - S-02, S-03 (Notes format), S-04 (gazetteer authority; Male/Maldives; Yule forms), S-06 (map and Male corrections), S-07 (front/back roles), S-08 (tables, figures), S-09 (A1, A16)
 
 ## Tasks
-_Created after the gating spikes close. Expected shapes:_
-- `III-F2.T1` Critical and factual fixes (epigraph, captions now)
-- `III-F2.T5` Media placement (A1, A16) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning. Move each `*Caption:*` paragraph into its image brackets (`BLD.T6` flags it).
-- `III-F2.T6` Lint pass and human voice read
 
 ### III-F2.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** backlog · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
-- **Now:** bare variants: Sumatra → Java the Less ×2, Hormuz → Hormos ×1, Nicobars → Necuveran ×1, Malabar → Melibar ×1, Sememant → Semenat ×1, Islands of Men and Women → Male and Female ×1
-- **Do:**
-  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
-  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
-  - **Facts (S-06 ✓, `registry/facts.md`):**
-    - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
-- **Done when:** `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+- **Status:** revised 2026-11-24, human names and factual review pending · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓.
+- **Epigraph:** Retained the exact Book III.1 quotation verified in the local Yule–Cordier text. It replaces the invented quotation flagged in the original critique.
+- **Names:** Checked prose against the gazetteer because `name_policy` omits front matter. The tables match their generated output, including Semenat, Calatu and the no-fix entry for Male and Female.
+- **Attribution:** Distinguishes the Prologue’s “Java” from the separate Samara passage and attributes their connection to Yule. Qualifies the proposed Zayton departure, intermediate calls and Hormos landfall. Abhar locates Cocachin’s marriage in Rashid al-Din’s record, which leaves the Polos unnamed.
 
 ### III-F2.T3 — De-duplicate to the S-07 role matrix
-- **Status:** backlog · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
-- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
-  - Home of the sea route and the map list (outline beat 4).
-  - Cut :13 ("coastal rosary" of visited vs reported) to one sentence; the tags say it. Keep :78 as a one-line monsoon caution.
-  - Cut the closing "Anyway…" (:80).
-  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
-- **Target:** ≤ 500 prose words (lint cap 1,200).
-- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
+
+- **Status:** revised 2026-11-24, human voice review pending · **Depends:** S-07 ✓.
+- **Applied:** The guide carries the sea route and map index, one sentence on claimed visits and reports, and a single monsoon pointer. Identification cautions cover Java, Madeigascar and the Volume I entries. The Chipangu reception aside is removed. Lint measures 237 prose words against a target of 500.
 
 ### III-F2.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
-- **Now:** 3 Notes · 0 ★ · 0 without a lead marker
-- **Do:**
-  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
-  - Run `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
-  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
-- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+- **Status:** revised 2026-11-24, human Notes review pending · **Depends:** S-03 ✓, `APP.T2` ✓.
+- **Applied:** Eight marked Notes with sequential anchors. Checked the Yule–Cordier passages and the pointers to III-3, Notes 1 and 14, III-7, Note 13, and III-9, Notes 12–15, 20–22 and 28. The Abhar locator follows the scan check recorded in the comparanda registry.
+- **Check:** `markers`, `tags` and `citations` pass.
+
+### III-F2.T5 — Media placement
+
+- **Status:** verified 2026-11-24 · **Depends:** S-08 ✓, S-09 ✓.
+- **Applied:** Retained A1 and A16’s vector artwork. The captions explain the reconstructed legs, Abhar’s separate marker, and the Minab-area reference. A16 keeps Yule’s and Yang Zhijiu’s attributed departure estimates. The index points to A15, A17 and C11.
+- **Check:** Volume III PDF and HTML built successfully. All three links resolve to their figures in both formats. Proofed print pages xv–xxii, including the maps and captions on xvi–xvii, the table breaks, and the eight linked Notes. The PDF build reported zero placeholders and zero undersized rasters. It reported one overfull line in Chapter III-6.
 
 ### III-F2.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
-- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify, scaffolding
-- **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md`; fix every error; take the warnings into the human read.
-- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+- **Status:** automated checks pass, human sign-off pending · **Depends:** every other task in this file · S-02 ✓.
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors and 0 warnings in `markers`, `quote_verify` and `scaffolding`.
+- **Checked 2026-11-24:** `python3 tools/lint.py -v vol-3/front-02-maps-seas-and-return.md` reported 0 errors and 0 warnings. `python3 tools/gazetteer.py check` reported 198 rows and 0 problems. Both tables and the no-fix list match `python3 tools/gazetteer.py tables 3`. All 49 book tests passed.
+- **Remaining:** Human review of names, factual wording and the Notes, and a voice read against II-2.
