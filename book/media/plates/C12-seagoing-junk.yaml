@@ -1,6 +1,6 @@
 plate: C12
 title: Seagoing junk cutaway
-status: draft
+status: accepted
 use: DIA base (labels added in TikZ)
 tradition: technical line and light wash
 caption: >-
@@ -32,3 +32,4 @@ review:
   sidecar: Pass; prompt, route, process and provenance recorded.
   must_get_right_bulkheads: Pass with limit; twelve internal dividers and thirteen compartments are visible on enlarged inspection; limber holes remain small at print size.
   must_get_right_limbers: Pass with limit; small holes drawn at bulkhead feet, not water-tight partitions.
+  must_get_right_masts: Pass with limit; the Book describes four tall masts plus two spares, while the three-mast base drawing is explicitly identified as schematic.

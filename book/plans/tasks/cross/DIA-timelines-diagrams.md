@@ -122,23 +122,23 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **2026-11-17 review:** F-15 reports a late-1290/early-1291 inference as well as Yule's 1292 reconstruction. Verify and label any range or alternatives in both B3 and C11; do not present the Samara wait or death-before-sailing as independently documented fleet events. [Handoff](../../status/critique-text-media-handoff-2026-11-17.md).
 
 ### DIA.C12 — Seagoing junk cutaway
-- **Status:** backlog · **Placement:** III-1 (preview II-14) · **Depends:** S-09 ✓, base plate `PLT.C12`
+- **Status:** done 2026-11-23 · `C12-seagoing-junk.*`, linked in III-1 · **Placement:** III-1 (preview II-14) · **Depends:** S-09 ✓, base plate `PLT.C12`
 - **Do:** Labels in TikZ over the plate; "thirteen" as the Book's number (F-14).
 
 ### DIA.C13 — Sewn-plank ship of Hormos
-- **Status:** backlog · **Placement:** I-7 · **Depends:** S-09 ✓, base plate `PLT.C13`
+- **Status:** done 2026-11-23 · `C13-sewn-plank-hormos.*`, linked in I-7 · **Placement:** I-7 · **Depends:** S-09 ✓, base plate `PLT.C13`
 - **Do:** Coir stitching, hide deck with horses.
 
 ### DIA.C14 — Traction vs counterweight trebuchet
-- **Status:** backlog · **Placement:** II-11 · **Depends:** S-09 ✓, base plate `PLT.C14`
+- **Status:** done 2026-11-23 · `C14-trebuchet-comparison.*`, linked in II-11 · **Placement:** II-11 · **Depends:** S-09 ✓, base plate `PLT.C14`
 - **Do:** Two machines side by side.
 
 ### DIA.C15 — Qanat cross-section
-- **Status:** backlog · **Placement:** I-8 · **Depends:** S-09 ✓, base plate `PLT.C15`
+- **Status:** done 2026-11-23 · `C15-qanat.*`, linked in I-8 · **Placement:** I-8 · **Depends:** S-09 ✓, base plate `PLT.C15`
 - **Do:** Could be pure TikZ (no plate) if `PLT.C15` is late.
 
 ### DIA.C16 — Cane palace roof
-- **Status:** backlog · **Placement:** I-13 · **Depends:** S-09 ✓, base plate `PLT.C16`
+- **Status:** done 2026-11-23 · `C16-cane-palace-roof.*`, linked in I-13 · **Placement:** I-13 · **Depends:** S-09 ✓, base plate `PLT.C16`
 - **Do:** Split bamboo tiles.
 
 ### DIA.C17 — Seasonal orbit (was map A8)

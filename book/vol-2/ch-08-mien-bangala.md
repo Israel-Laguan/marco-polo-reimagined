@@ -24,6 +24,8 @@ Down from the saddle. As Polo tells it, Nescradin has the men lead their horses 
 
 — Stand for a moment at the edge of that wood. From the plain you could see the elephants turn. From here you’d hear the towers break before you knew where the animals were going.
 
+![Dismounted archers face elephant towers in a reconstruction of the battle described by Polo. The Book’s numbers are inflated, and the battle’s identification remains debated. *(Modern illustration in the manner of Pagan temple murals. Not a historical artifact. This edition.)*](../media/plates/II-8-vochan-battle.png){#fig-ii-8-vochan-battle}
+
 Back in the saddle, the Mongols close with the men who followed the elephants onto the field. This is the part of the tale that could fill a hall. Swords and maces come out, riders fall among the foot soldiers, and the noise in the Book could drown a clap of thunder. Polo gives the king the larger army and the Mongols the steadier hand. By midday the king’s line breaks. The cavalry gives chase, then turns back to the wood [10].
 
 Catching an elephant is a different business from shooting one. The men fell trees to block the animals’ way out. They still need the king’s captured handlers to get near them and bring them under control [11]. Polo puts the haul at more than two hundred and makes it the beginning of the Kaan’s great elephant herds [12]. Before the fighting the towers had made the animals look like fortifications. Look at them now as something a commander can keep and put to work, if he can feed them and find people who know what they are doing. There’s a conqueror’s inventory for you. The most useful captives on that field may have been the people who knew how to get the elephants home.
@@ -82,7 +84,7 @@ Gold travels on from one report to the next. East of Bangala, Polo puts a king i
 
 [9] ~ The Yuan account likewise sends the elephants flying under arrows. The tethered horses and splintered towers belong to Polo’s staging, and Baber’s attempt to locate the battlefield from its terrain is one proposal, reproduced in Yule [@yuanshi1370, juan 210; @yc, 2.52 n. 3].
 
-[10] ~ The Yuan chronicle records a rout, while the sword-and-mace battle, its din and the midday pursuit are Polo’s. Yule notes that the Burmese annals as reported to him omit the earlier engagement, and that Phayre doubted it [@yuanshi1370, juan 210; @yc, 2.52 n. 3].
+[10] ~ The Yuan chronicle records a rout, while the sword-and-mace battle, its din and the midday pursuit are Polo’s [@yuanshi1370, juan 210]. Yule notes that the Burmese chronicle as reported to him omits the earlier engagement near Yung-ch’ang, leading Phayre to doubt it; the Burmese chronicle itself remains uninspected directly [@yc, 2.52 n. 3].
 
 [11] ~ The trees felled across the animals’ path and the reliance on captured handlers are details in the Book’s account. By this stage it gives the prisoners’ expertise more weight than the cavalry’s skill [@yc, 2.52].
 

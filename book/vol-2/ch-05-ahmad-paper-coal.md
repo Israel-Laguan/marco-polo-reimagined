@@ -35,6 +35,8 @@ In the same city, the Kaan can pay out a fortune without opening a chest of gold
 
 Put yourself at the head clerk’s table. In Ramusio, the other officers have already signed or sealed the sheet. The chief officer puts vermilion on the Kaan’s seal and presses it down. That red impression is what the next man has to trust. A forged sheet, the Book warns, can cost a man his life [14].
 
+![Clerks prepare paper money from mulberry-bark sheets. The workshop is conjectural; a paired photograph shows a Zhiyuan plate and sheet, whose individual date is unverified. *(Modern illustration in the manner of Yuan woodblock illustration. Not a historical artifact. This edition.)*](../media/plates/II-5-paper-money.png){#fig-ii-5-paper-money}
+
 ![The characters stand in reverse on the printing plate and read forwards on the two-guan sheet. The Zhiyuan issue began in 1287. The dates of this plate and impression are uncertain. *(Currency Museum, Bank of Japan. Photograph by PHGCOM, CC BY-SA 3.0.)*](../media/public-domain/II-05_zhiyuan-2-guan-note-and-plate.jpg){#fig-zhiyuan-note}
 
 ![Diagram C1. The Kaan’s paper money as the Book describes it, from bast to the red seal, with the 1287 Zhiyuan issue and its official exchange against the old notes. *(Diagram: this edition, from the Book via Yule–Cordier; official rate per Guan and Yule.)*](../media/diagrams/C1-paper-money.svg){#fig-c1-paper-money}

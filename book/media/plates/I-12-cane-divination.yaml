@@ -1,11 +1,10 @@
 plate: I-12
 title: Cane divination before Chinggis's battle
-status: draft
+status: accepted
 tradition: Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14)
-caption: ◇ Book theatre. In Polo’s account, Church of the East clerics read a psalm over split canes for Chinggis,
-  while Toghrul occupies the rival camp. Polo places the confrontation at Tenduc in 1200. The historical defeat
-  of Toghrul came elsewhere in 1203. Modern illustration in the manner of Ilkhanid Persian manuscript painting.
-  Not a historical artifact.
+caption: Church of the East clerics read a psalm, in their Syriac liturgy, over split canes for Chinghis while Unc Can’s
+  camp lies across the plain. Polo sets the confrontation at Tenduc in 1200; Toghrul’s final defeat came in 1203. Modern
+  illustration in the manner of Ilkhanid Persian manuscript painting. Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model (version not disclosed)
 job_id: none, chat output
@@ -119,9 +118,9 @@ detail_corrections:
   - media/plates/drafts/I-12/detail-correction-2.png
   selected: media/plates/drafts/I-12/detail-correction-2.png
   previous_sidecar: media/plates/drafts/I-12/before-detail-corrections.yaml
-  source: https://www.biblegateway.com/passage/?search=Psalm+22%2CPsalmi+22&version=VULGATE
-  historical_note: Latin was used to obtain verified literal text after the Syriac attempt produced inaccurate letters.
-    The depicted Church of the East clerics would ordinarily use Syriac.
+  historical_note: An intermediate draft used Latin text and was superseded by psalter_wash_revision. Church of the East
+    clerics in Inner Asia used a Syriac liturgical psalter (attested by Turfan/Bulayiq fragments); the final master uses
+    lettering-free wash bands and a vermilion rubric so no false script is shown.
 
 psalter_wash_revision:
   date: '2026-11-19'

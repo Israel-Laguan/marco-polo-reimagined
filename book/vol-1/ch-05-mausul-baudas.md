@@ -31,6 +31,8 @@ To explain what happened to the Calif, the Book takes us into his treasury. Baud
 
 Have a look at the two men the story sets before it. One is the ruler who kept the gold. The other is the ruler who brought the army. Alaü asks what use a pile like this is if you won't spend it on the men who could defend the city. The Calif has no answer. He can eat his gold, then, says Alaü. He shuts the treasury on him without food or water. Four days pass before the Book opens the door again, and the Calif is dead [13].
 
+![In the Book’s exemplum, Alaü shuts the Calif of Baudas in his treasure tower. Muslim accounts give different versions of al-Mustaʿṣim’s death after the city fell in 1258. *(Modern illustration in the manner of a French Gothic marvel manuscript. Not a historical artifact. This edition.)*](../media/plates/I-5-caliph-treasure.png){#fig-i-5-caliph-treasure width=78%}
+
 Different accounts leave him in different circumstances. Some give him a confrontation over his wealth and send him out again to be executed. Others make the gold the only thing there is to eat until he dies. The question of which story circulated where is easier to get purchase on than the question of what killed him. Here is what the relevant passages let us say about the end of the man later readers know as al-Mustaʿṣim [14].
 
 | Account | What happens to the Calif | Evidence |

@@ -88,7 +88,7 @@ Leave the customs clerk at the wharf before we take to the water. Far inland, Ca
 
 [19] ✓ Unken’s cane sugar supplied the Yuan court [@yc, 2.80 n. 8]. Bretschneider notes that sugarcane had already been cultivated in southern China since the second century BC, long before the refining techniques of the Mongol period [@yc, 2.80 n. 8].
 
-[20] ~ Ramusio-only. The story that men of “Babylonia” (meaning Cairo, whose *Misri* sugar was prized across Asia) taught Fujian boilers to refine white sugar with tree ash appears only in Ramusio [@yc, 2.80 n. 8]. Yule separately reports Fujian local histories crediting men “from the West” in Mongol times with teaching fine-sugar making; those local histories have not been inspected here.
+[20] ~ Ramusio-only. The story that men of “Babylonia” (meaning Cairo, whose *Misri* sugar was prized across Asia) taught Fujian boilers to refine white sugar with tree ash appears only in Ramusio [@yc, 2.80 n. 8]. Yule, citing a note from C. Phillips (and dropping a derivative Turkish Geography notice from Hajji Khalfa), reports Fujian local histories crediting men “from the West” in Mongol times with teaching fine-sugar making; those local histories have not been inspected directly [@yc, 2.80 n. 8].
 
 [21] ✓ Fuju is Fuzhou (Fu-chau), visited by Friar Odoric as *Fuzo* [@yc, 2.81 n. 1; @odoric1913travels, ch. 31]. Polo’s regional name *Chonka* remains unexplained despite proposals linking it to *Quanzhou*, *Jian’guo*, or *Zhongguo* [@yc, 2.81 n. 1].
 

@@ -20,6 +20,8 @@ Chinghis (Chinggis Khan) comes to power among them and draws men from far and wi
 
 They come to the plain of Tenduc (the Hohhot region, provisionally), where the armies lie apart for two days. Chinghis wants to know the outcome before he goes into battle. The astrologers he calls on are Muslim and Christian. Only the Christians can give him an answer in the story. They take a cane, split it down the middle and assign one part to each of the two lords. Nobody may put a hand to either. A psalm is read. The Book makes the half named for Chinghis climb on top of the other while everyone is watching [10].
 
+![Church of the East clerics read a psalm, in their Syriac liturgy, over split canes for Chinghis while Unc Can’s camp lies across the plain. Polo sets the confrontation at Tenduc in 1200; Toghrul’s final defeat came in 1203. *(Modern illustration in the manner of Ilkhanid Persian manuscript painting. Not a historical artifact. This edition.)*](../media/plates/I-12-cane-divination.png){#fig-i-12-cane-divination}
+
 At the appointed time the armies fight. Polo has Prester John die on the field and Chinghis take his country [11]. A few more years of conquest and the Book kills Chinghis too, with an arrow in the knee at a place called Caaju [12].
 
 — The insult has a history behind it in failed marriage negotiations. The final defeat of Unc Can came in 1203 at the Jeje'er Heights between the Tula and the Kerulen, after an earlier clash near Buir Nor. He got away and was killed by the Naiman. Chinghis lived another two dozen years. The speed of the Book's reckoning belongs with the cane and the two armies waiting on the plain [13].

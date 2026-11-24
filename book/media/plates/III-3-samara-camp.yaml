@@ -1,9 +1,9 @@
 plate: III-3
 title: Five months stranded at Samara
-status: draft
+status: accepted
 tradition: Javanese and Sumatran temple relief
 caption: >-
-  A modest shore camp at Samara during the monsoon, after Polo's account. The large stockade and two thousand men belong to later redactions. Modern illustration in the manner of Javanese and Sumatran relief. Not a historical artifact.
+  A shore camp at Samara during the five-month monsoon wait, with palm-tappers and junks at anchor. The Franco-Italian and Venetian texts describe wooden defences; the Zelada Latin and Ramusio add ditches, five timber towers and about two thousand men. The shelters, vessels and dress shown are conjectural. Modern illustration in the manner of Javanese and Sumatran temple relief. Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model (version not disclosed)
 job_id: none, chat output
@@ -16,7 +16,7 @@ reference_images: []
 figures: []
 cues: []
 unsourced:
-- No direct period camp image has been checked; huts, garments, palm-tapping method, junks and the unnamed party are generic reconstruction, not archaeology.
+- No direct period camp image survives; the 2008 Lampoh Kota / Ulee Tanoh test-pit post-moulds (~25 cm circular black-soil stains at 30–40 cm depth) and 2010 Cot Astana brickwork reported in Oetomo & Surachman 2012 (Spike S-27) provide no c. 1290 shelter elevation, roof joinery, or defensive plan. Huts, garments, palm-tapping gear, junks and the unnamed party are conjectural reconstructions.
 post: >-
   convert media/plates/drafts/III-3/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-3-samara-camp.png
 review:

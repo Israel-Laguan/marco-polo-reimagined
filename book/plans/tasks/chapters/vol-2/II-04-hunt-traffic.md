@@ -1,6 +1,8 @@
 # II-04 — Hunt, Hounds, Litter, and the Traffic of a Million
 
-**File:** `vol-2/ch-04-hunt-traffic.md` · **Status:** backlog · **Kind:** narrative
+**File:** `vol-2/ch-04-hunt-traffic.md` · **Status:** v3 pass complete (2026-11-23) · **Kind:** narrative
+
+**W4 v3 (2026-11-23):** 24 sequential claim-level Notes. Targeted lint: 1,860 words, 2% Yule overlap, 0 errors, 0 warnings. F-53 (hunting closed season in *Yuan shi*, *Tongzhi tiaoge* j. 28, *Yuan dianzhang* j. 38 summary table, and Pétis de la Croix in YC 2.20 n. 9) is Note 17; Rossabi (ch. 6) locators are Notes 10 and 24.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|

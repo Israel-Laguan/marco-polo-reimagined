@@ -95,7 +95,7 @@ By 1375, however, a Majorcan workshop with gold leaf and sea-charts in hand foun
 
 [19] ~ The same colophon traces Thibault’s son Jean de Cepoy presenting a copy to Charles of Valois and making further transcripts for friends [@yc, Introduction § 45]. That presentation channel helped launch the courtly Old French tradition of the Book across northern Europe.
 
-[20] ~ Ramusio assigned Francesco Pipino’s Latin translation to 1320 and Yule suggested about 1315 [@yc, Introduction §§ 43, 60, 76]. Modern scholarship places Pipino's work in Marco’s lifetime, probably during the 1310s [@yc, Prologue, Pipino’s preface].
+[20] ~ Ramusio assigned Francesco Pipino’s Latin translation to 1320 and Yule suggested about 1315 [@yc, Introduction §§ 43, 60, 76]. Gadrat-Ouerfelli documents a 1310–1322 window (citing Dutschke), deriving from a Venetian-dialect exemplar akin to VA and surviving in sixty manuscripts [@gadrat2022dominicans, p. 287; @dutschke1993francesco, pp. 216–217].
 
 [21] ✓ Pipino’s Latin preface vouches for Marco’s upright Christian character—alongside his father Niccolò and uncle Maffeo—and recommends the book to edify faithful readers and inspire missionary zeal [@yc, Prologue, Pipino’s preface]. Turning the vernacular travelogue into church Latin opened libraries and monasteries across Christendom to the text.
 

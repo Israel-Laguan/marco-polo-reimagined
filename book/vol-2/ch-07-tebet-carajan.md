@@ -118,7 +118,7 @@ At the exchange in Zardandan, Polo reckons five weights of silver to one of gold
 
 [24] ~ The six-to-one exchange and the Indian origin of the cowries are what the Book reports at Talifu. Gill, cited by Yule, reports the later use of cowries in the region [@yc, 2.49 n. 2].
 
-[25] ~ The beast is usually identified as a crocodilian, with the species open. No record from Carajan appears in the twenty dated records tabulated by Iijima and colleagues from Wen and colleagues’ 1980 study. The great eyes, two feet and daytime burrow are features of Polo’s telling [@yc, 2.49 n. 3; @iijima2022hanyusuchus, supplementary table S1].
+[25] ~ The beast is usually identified as a crocodilian, with the species open. No record from Carajan appears in the twenty dated records tabulated by Iijima and colleagues from Wen and colleagues’ 1980 study, whose primary Chinese distribution table was not inspected directly [@yc, 2.49 n. 3; @iijima2022hanyusuchus, supplementary table S1; @wen1980malai]. The great eyes, two feet and daytime burrow are features of Polo’s telling.
 
 [26] ~ Ramusio-only in part. Yule brackets the crows alerting the hunters; the account of the blades already appears in the base text [@yc, 2.49].
 

@@ -108,7 +108,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-05.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-05.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-23; table D (I-5) and hero plate `plates/I-5-caliph-treasure.png` `#fig-i-5-caliph-treasure` placed and proofed) · **Depends:** S-08 ✓, `I-05.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-5) How the Caliph died:** Create comparison table showing Polo vs Hayton vs Rashid al-Din vs Ibn al-Furāt accounts of the Caliph's death. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **S-16 handoff:** Reference S16-E9: competing accounts of the caliph's death; Muqaṭṭam as Neggaz's comparison, not proven direct borrowing. Ensure the table distinguishes between Polo's account and independent sources.

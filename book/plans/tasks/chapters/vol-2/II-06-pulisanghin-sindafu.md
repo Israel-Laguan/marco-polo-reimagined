@@ -60,7 +60,7 @@ Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `II-06.T5` Media placement (hero, secondary, A10) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
+- `II-06.T5` Media placement (hero, secondary, A10) · **done (2026-11-23):** `maps/A10-west-road.svg` (`#fig-a10-west-road`) and hero plate `plates/II-6-pulisanghin-bridge.png` (`#fig-ii-6-pulisanghin-bridge`) placed and proofed with zero placeholder or size warnings.
 - `II-06.T6` Lint pass and human voice read
 
 ### II-06.T1 — Critical and factual fixes

@@ -126,7 +126,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-12.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-12.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-23; succession table D (I-12), diagram `diagrams/C4-mongol-decimal-army.svg` `#fig-c4-mongol-decimal-army`, and hero plate `plates/I-12-cane-divination.png` `#fig-i-12-cane-divination` placed and proofed) · **Depends:** S-08 ✓, `I-12.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-12) Kaan succession: Book vs record:** Create comparison table showing the succession of Kaans as presented in the Book versus historical records. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **S-19 comparison intake:** Use `plans/registry/comparanda.md` for checked witness locations and open leads. Say what each cited witness reports and give an edition-specific locator; verify lead passages before use. Do not treat shared subject matter as proof of Polo's presence.

@@ -114,7 +114,7 @@ The Book keeps its wonder intact when we give every marvel the exact foundation�
 
 [7] ~ Curzola is Ramusio’s tradition; Jacopo d’Acqui gives Ayas under 1296, often treated as a confusion with the 1294 battle. See [I-1](../vol-1/ch-01-genoa-prison.md) [@yc, Introduction §§ 36–38; @bolognari2024chronica].
 
-[8] ✓ Comparing independent witnesses limits what a printed version can tell us about earlier forms. Yule, the Moule–Pelliot edition and the current editorial project explain different approaches to that problem [@yc, Introduction §§ 89–90; @moule1938description; @simion2024integral].
+[8] ✓ Comparing independent witnesses limits what a printed version can tell us about earlier forms. Yule, the Moule–Pelliot edition, and recent studies trace how early redactions and clerical Latin diverged from vernacular exemplars [@yc, Introduction §§ 89–90; @moule1938description; @gadrat2022dominicans; @simion2024integral].
 
 [9] ✓ F and V describe wooden defences. Zelada and Ramusio have the number of men and the ditches. See [III-3](ch-03-java-less-sumatra.md) for the details and locators [@eusebi2018devisement; @simion2019devisement; @moule1938description; @yc, 3.10].
 
@@ -146,7 +146,7 @@ The Book keeps its wonder intact when we give every marvel the exact foundation�
 
 [23] ✗ The Yuan record names the engineers; Yule prints the competing accounts of their origins and places the family’s court arrival about 1275. See [II-11](../vol-2/ch-11-yanju-saianfu.md) [@yuanshi1370, juan 7–8, 203; @yc, 2.70 n. 5; @yc, Introduction § 19; @wood1995did].
 
-[24] ~ Mascherpa offers the comparison and discusses how the Book’s figures might have arisen. The Chinese sources and the areas covered by the underlying counts remain open [@mascherpa2024quinsai, p. 138].
+[24] ~ Mascherpa offers the comparison (35 *li* and 347 bridges, the latter from A. C. Moule) beside Yule's earlier *Hangzhou fuzhi* 35-*li* note and G. E. Moule's department and city bridge counts, and discusses how the Book’s figures might have arisen [@mascherpa2024quinsai, p. 138; @yc, 2.76 n. 2; @moule1957quinsai]. A. C. Moule's pages and the areas covered by the underlying Chinese gazetteer counts remain uninspected directly.
 
 [25] ~ The two campaigns and the storm in the second are discussed by Rossabi. The number of survivors and the occupation are particulars of the Book that the comparison does not independently establish [@rossabi1988khubilai, chs. 4, 8; @yc, 3.2–3].
 

@@ -85,7 +85,7 @@ Carry their sea-stained coats through one final doorway down a narrow Venetian a
 
 [14] ? Linking the Prologue’s three-month voyage to an island called “Java” directly to Samara’s five-month monsoon wait in Book 3 is Yule’s editorial reconstruction rather than an explicit Prologue statement [@yc, Prologue 18 n. 4; @yc, 3.10; @yc, Introduction § 22]. See [Chapter III-3](ch-03-java-less-sumatra.md) and [Chart C11, the monsoon](#fig-c11-monsoon-cocachin).
 
-[15] ? Eighteen further months in the Sea of India between “Java” and Argon's territory come from the Prologue [@yc, Prologue 18]. Yule’s calculated landfall at Hormos around November 1293 assumes the five-month Sumatran detention fell inside that eighteen-month span [@yc, Introduction § 22].
+[15] ? Eighteen further months in the Sea of India between “Java” and Argon's territory come from the Prologue [@yc, Prologue 18]. Yule weighs two reckonings—twenty-six months in all (`3 + 5 + 18`, sailing January 1292 to March 1294) or counting the five-month Sumatran detention inside the eighteen months to reach Hormos around November 1293 [@yc, Introduction § 22 n. 19].
 
 [16] ~ Manuscript witnesses diverge sharply on passenger survival: Yule prints eight surviving men out of six hundred (excluding mariners), whereas witness F counts eighteen survivors [@yc, Prologue 18 n. 5; @moule1938description, vol. 1, p. 91]. Either figure points to heavy mortality during a two-year tropical sea passage.
 
@@ -99,7 +99,7 @@ Carry their sea-stained coats through one final doorway down a narrow Venetian a
 
 [21] ✓ Rashīd al-Dīn places Cocachin's marriage with Casan at Abhar, west of Qazvin [@thackston1998rashiduddin, p. 606; @jahn1940geschichte, p. 40]. The passage carries no exact day, though its position in the chronicle points to 1293.
 
-[22] ✓ Ma reports Yang Zhijiu and Cleaves matching the *Yongle dadian* envoys to Polo’s trio, while Jackson stresses that neither the Chinese notice nor Rashīd al-Dīn's Persian chronicle names the Polos [@ma2025chinese; @jackson1998travels, pp. 98–99]. Boyle reads Rashīd's singular title *khwāja* as the proper name Coja [@boyle1970rashidfranks, p. 66].
+[22] ✓ Ma reports Yang Zhijiu and Cleaves matching the *Yongle dadian* envoys to Polo’s trio (and Cleaves's opening page collates the envoy forms *Oulatai*, *Apusca*, and *Coja*), while Jackson stresses that neither the Chinese notice nor Rashīd al-Dīn's Persian chronicle names the Polos; Cleaves's full text and the *Yongle dadian* scan remain uninspected directly [@ma2025chinese; @cleaves1976chinese, p. 181; @moule1938description, vol. 1, pp. 88–93; @jackson1998travels, pp. 98–99]. Boyle reads Rashīd's singular title *khwāja* as the proper name Coja [@boyle1970rashidfranks, p. 66].
 
 [23] ~ Cocachin’s weeping farewell to the three Venetians who had guarded her like a daughter stands in the Prologue, while the companion daughter of the king of Manzi appears in F and the Crusca manuscripts [@yc, Prologue 18 n. 8]. The scene gives the Polos a warm personal testimonial at the close of their eastern service.
 

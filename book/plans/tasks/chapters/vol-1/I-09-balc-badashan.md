@@ -107,7 +107,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-09.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-09.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-23; plate I-9 `#fig-i-9-balas-mines` placed and proofed) · **Depends:** S-08 ✓, `I-09.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-9) Geographic text vs Ramusio:** Create comparison table showing geographic descriptions in the Book versus Ramusio's version. This is part of the cross-chapter comparison for I-7/I-9/I-11. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **Table structure suggestion for I-09 portion:**

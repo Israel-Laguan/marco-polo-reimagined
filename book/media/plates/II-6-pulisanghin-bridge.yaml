@@ -1,9 +1,9 @@
 plate: II-6
 title: Caravan crossing the Pulisanghin bridge
-status: draft
+status: accepted
 tradition: Yuan landscape and ruled-line architectural handscroll
 caption: >-
-  A caravan crosses the Pulisanghin bridge. This reconstruction shows eleven arches; Polo reports twenty-four. The historic parapet and lions' original forms remain uncertain. Modern illustration in the manner of Yuan landscape and ruled-line painting. Not a historical artifact.
+  A caravan crosses the Pulisanghin bridge. The eleven arches and lion-topped posts follow the crossing as rebuilt under Kangxi in 1698 after the 1668 flood; earlier accounts give thirteen arches, and Polo gives twenty-four with columns resting on lower lions. Modern illustration in the manner of Yuan landscape and ruled-line painting. Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model (version not disclosed)
 job_id: none, chat output
@@ -16,7 +16,7 @@ reference_images: []
 figures: []
 cues: []
 unsourced:
-- The exact Jin-era parapet, lion forms, landscape and travellers' equipment are conjectural; the bridge was rebuilt in 1698.
+- The exact Jin-era (1189–1192) parapet, lion forms, landscape and travellers' equipment are conjectural; pre-1668 witnesses (Magaillans and the late-Ming Chinese account in Yule–Cordier, II, Bk II, ch. 35, n. 2) report thirteen arches before the 25 July 1668 flood, whereas the eleven-arch span shown reflects the Kangxi reconstruction of 1698.
 post: >-
   convert media/plates/drafts/II-6/gpt-r1-2.png -filter Lanczos -resize 2700x1350\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-6-pulisanghin-bridge.png
 review:

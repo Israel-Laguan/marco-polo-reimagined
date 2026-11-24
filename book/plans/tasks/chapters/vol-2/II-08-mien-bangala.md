@@ -103,7 +103,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-08.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `II-08.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-23; plate II-8 `#fig-ii-8-vochan-battle` placed and proofed) · **Depends:** S-08 ✓, `II-08.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (II-8) Mien battle numbers:** Create comparison table for Mien battle numbers. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **S-17 research limit:** The Vochan/Ngasaunggyan identification and Pagan chronology still need direct specialist and primary-source comparisons. Attribute battle details and numbers to their sources; do **not** infer a settled scholarly reconstruction from the supplied report.

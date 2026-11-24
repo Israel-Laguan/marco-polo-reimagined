@@ -1,6 +1,6 @@
 # PLT — Drawings and plates
 
-**Status:** 23 of 35 GEN hero slots placed and proofed, including all three S-10 pilots · **Plan docs:** `illustration-plan.md`, `illustration-style-guide.md`
+**Status:** 35 of 35 GEN hero slots placed and proofed, including all three S-10 pilots · **Plan docs:** `illustration-plan.md`, `illustration-style-guide.md`
 
 The [placement report](../../status/visual-placement-2026-11-23.md) lists the printed figures and the remaining draft decisions. Generator routes in the table are the original production specifications. The sidecars identify the actual route.
 
@@ -50,36 +50,36 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 | `PLT.I-1` | Marco dictating to Rustichello | Italian Gothic illumination | P | Akool | placed and proofed |
 | `PLT.I-3` | "Sire, 'tis my son and your liegeman" | YC | L | Akool | placed and proofed |
 | `PLT.I-4` | The quay at Layas | Cilician Armenian illumination | P | Akool, first of its tradition | placed and proofed |
-| `PLT.I-5` | Hulagu shuts the Caliph in the treasure tower | LdM marvel lens | P | Akool, first of its tradition | draft queued |
+| `PLT.I-5` | Hulagu shuts the Caliph in the treasure tower | LdM marvel lens | P | Akool, first of its tradition | placed and proofed |
 | `PLT.I-6` | Marco at the Magi tombs of Saba | Ilkhanid (JT) | L | Gemini chat | placed and proofed |
 | `PLT.I-7` | Marco escapes the Caraunas | Ilkhanid (JT) | L | — | placed and proofed |
 | `PLT.I-8` | The Dry Tree alone on the plain | LdM marvel lens | P | Akool, first of its tradition | placed and proofed |
-| `PLT.I-9` | The balas-ruby mines under royal seal | Ilkhanid (JT) | L | Gemini chat | draft queued |
+| `PLT.I-9` | The balas-ruby mines under royal seal | Ilkhanid (JT) | L | Gemini chat | placed and proofed |
 | `PLT.I-10` | Crossing the Pamier | Persianate (JT) | H | Gemini chat | placed and proofed |
 | `PLT.I-11` | Spirit voices in the Lop desert | Dunhuang Mogao murals | L | Akool, first of its tradition | placed and proofed |
-| `PLT.I-12` | Cane divination before Chinggis's battle | Ilkhanid (JT) | L | Gemini chat | draft queued |
+| `PLT.I-12` | Cane divination before Chinggis's battle | Ilkhanid (JT) | L | Gemini chat | placed and proofed |
 | `PLT.I-13` | Mare's-milk libation leaving Chandu | YC | H | Akool | placed and proofed |
-| `PLT.II-1` | Kublai on the elephant tower, Nayan battle | YC (Liu Guandao manner) | H | Akool | draft queued |
+| `PLT.II-1` | Kublai on the elephant tower, Nayan battle | YC (Liu Guandao manner) | H | Akool | placed and proofed |
 | `PLT.II-2` | Elephants carry trees up the Green Mount | *jiehua* | H | Akool, first of its tradition | placed and proofed |
 | `PLT.II-3` | The White Feast procession | YC | H | Akool | placed and proofed |
-| `PLT.II-5` | Printing the Kaan's paper money | Yuan woodblock (*pinghua*) | L | Akool, first of its tradition; check block material for the scene | draft queued |
-| `PLT.II-6` | Caravan on the Pulisanghin bridge | Yuan landscape / *jiehua* | H | Akool | draft queued |
+| `PLT.II-5` | Printing the Kaan's paper money | Yuan woodblock (*pinghua*) | L | Akool, first of its tradition; check block material for the scene | placed and proofed |
+| `PLT.II-6` | Caravan on the Pulisanghin bridge | Yuan landscape / *jiehua* | H | Akool | placed and proofed |
 | `PLT.II-7` | Exploding bamboo in the night camp | Dali kingdom scroll | L | Akool, first of its tradition | placed and proofed |
-| `PLT.II-8` | Battle of Vochan | Pagan temple murals | L | Akool, first of its tradition | draft queued |
+| `PLT.II-8` | Battle of Vochan | Pagan temple murals | L | Akool, first of its tradition | placed and proofed |
 | `PLT.II-9` | Two dogs hold a tiger at bay | Dali kingdom scroll | L | Akool, first of its tradition | placed and proofed |
 | `PLT.II-10` | Song envoys surrender the seal, 1276 | Southern Song academy | P | Akool | placed and proofed |
-| `PLT.II-11` | Counterweight trebuchet at Xiangyang | Ilkhanid (JT siege) | L | Gemini chat | draft queued |
+| `PLT.II-11` | Counterweight trebuchet at Xiangyang | Ilkhanid (JT siege) | L | Gemini chat (turned variant) | placed and proofed |
 | `PLT.II-12` | Trackers haul a junk up the Kiang | Yuan landscape | H | Akool | placed and proofed |
 | `PLT.II-13` | Pleasure barges on the West Lake | Song–Yuan city-genre scroll | H | — | placed and proofed |
 | `PLT.II-14` | Zayton harbour: junks unloading pepper | Song–Yuan city-genre scroll | H | Akool | placed and proofed |
 | `PLT.II-15` | Aijaruc throws the prince | Ilkhanid (JT) | L | Gemini chat | placed and proofed |
-| `PLT.III-2` | Junks lift their rudders in the shoal strait | Javanese temple relief | L | Akool, first of its tradition | draft queued |
-| `PLT.III-3` | Five months stranded at Samara | Javanese / Sumatran relief | L | Akool, first of its tradition | draft queued |
+| `PLT.III-2` | Junks lift their rudders in the shoal strait | Javanese temple relief | L | Akool, first of its tradition | placed and proofed |
+| `PLT.III-3` | Five months stranded at Samara | Javanese / Sumatran relief | L | Akool, first of its tradition | placed and proofed |
 | `PLT.III-4` | Pilgrims on Adam's Peak chains | Polonnaruwa murals | P | Akool, first of its tradition | placed and proofed |
 | `PLT.III-5` | Pearl divers and the shark-charmer | Chola temple mural | L | — | placed and proofed |
-| `PLT.III-6` | Corsair cordon off Malabar | Western Indian (Jain) palm-leaf | 4:1 | Akool, first of its tradition | draft queued |
+| `PLT.III-6` | Corsair cordon off Malabar | Western Indian (Jain) palm-leaf | 4:1 | Akool, first of its tradition | placed and proofed |
 | `PLT.III-7` | The rukh carrying off an elephant | Persian *'aja'ib* (Qazwini) | P | Gemini chat, first of its tradition | placed and proofed |
-| `PLT.III-8` | The wind-catchers of Hormos | Baghdad school (al-Wasiti) | L | Akool, first of its tradition | draft queued |
+| `PLT.III-8` | The wind-catchers of Hormos | Baghdad school (al-Wasiti) | L | Akool, first of its tradition | placed and proofed |
 | `PLT.III-9` | Golden tablets; Cocachin and the fleet | YC (+ Ilkhan court: JT) | H | Akool (YC) + Gemini (JT) | placed and proofed |
 | `PLT.III-10` | Jewels ripped from the Tartar coats | Venetian Gothic | P | Akool | placed and proofed |
 

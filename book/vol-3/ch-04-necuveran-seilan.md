@@ -76,7 +76,7 @@ Set the green dish gently back inside the palace vault and steer sixty miles wes
 
 [10] ✗ Twenty-four hundred miles and older charts’ thirty-six hundred both vastly exceed Sri Lanka’s true coastline of under 700 miles [@yc, 3.14 n. 2]. Attributing the shrinkage to fierce north winds eroding the low northern plains offers an imaginative mariner’s explanation for why older periplus figures looked too large.
 
-[11] ? Identifying Sendemain remains unresolved: Yule places Pandita Parākramabāhu III at Dambadeniya (numbered II in Cordier’s addenda for 1267–1301), whereas Tennent favours the Malay invader Chandra Banu beside northern Tamil kings [@yc, 3.14 n. 3; @ycadd, on 3.14; @tennent1859ceylon]. No single Sinhalese or Tamil royal title fits the transcription cleanly.
+[11] ? Identifying Sendemain remains unresolved: Yule places Pandita Parākramabāhu III at Dambadeniya (renumbered II in Cordier’s addenda for 1267–1301, with Parākramabāhu III placed in 1314–1319), whereas Tennent favours the Malay (*Javaku*) invader Chandra Banu and Yule also weighs a northern Tamil chief (*Chandra* or *Sundara*) [@yc, 3.14 n. 3; @ycadd, on 3.14; @tennent1859ceylon]. Hultzsch reports competing 1284 and 1288 dates for Bhuvanekabāhu I’s death, while modern *Cūlavaṃsa* regnal tables remain uninspected directly [@hultzsch1913singhalese, p. 531].
 
 [12] ~ Rice, sesame oil, tree-toddy, and red dyewood align neatly with Polo’s inventory and later Chinese notices such as Ma Huan quoted by Cordier [@yc, 3.14 n. 4]. Those staple products sustained both local island markets and calling merchant fleets.
 

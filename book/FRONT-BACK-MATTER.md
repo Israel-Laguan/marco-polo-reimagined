@@ -43,7 +43,7 @@ The PDF build adds two sections to each volume.
 - **Abbreviations** follows the contents and explains `YC`, `YC Add.`, and locators such as `YC 1.61`. It includes the shorthand list for the volume.
 - **Works cited** follows B2. The build uses the volume’s citations and the [bibliography database](plans/registry/bibliography.bib) to produce a Chicago author-date bibliography.
 
-Further reading for Volume III remains a proposal. See the [glossary review checklist](plans/registry/glossary-review.md), [bibliography spike](plans/spikes/S-12-bibliography-editions.md), and [build task](plans/tasks/cross/BLD-build-tooling.md#bldt4--front-and-back-matter-index-glossary-layout).
+Further reading for Volume III remains an editorial decision based on reader value rather than title overlap: Volume III’s **Works cited** lists the full scholarly apparatus alphabetically without guidance, and Chapters [III-11](vol-3/ch-11-afterlives.md) and [III-12](vol-3/ch-12-reliability-essay.md) weave editions and scholarship into a larger critical argument. The open choice is whether general readers would benefit from a short, curated one-page reading path (grouping accessible English translations, core narrative studies, and open-access 2024–2026 collections such as `@kinoshita2016description`, `@larner1999marco`, `@vogel2024marco`, and `@eusebi2018devisement` with one-line reader guidance) or whether `III-11`, `III-12`, and **Works cited** suffice without an extra back-matter section. See also the [glossary review checklist](plans/registry/glossary-review.md), [bibliography spike](plans/spikes/S-12-bibliography-editions.md), and [build task](plans/tasks/cross/BLD-build-tooling.md#bldt4--front-and-back-matter-index-glossary-layout).
 
 ## Series-level companions
 

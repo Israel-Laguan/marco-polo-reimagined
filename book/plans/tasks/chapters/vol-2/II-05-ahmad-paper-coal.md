@@ -120,7 +120,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### II-05.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `II-05.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-23; plate II-5 `#fig-ii-5-paper-money` placed and proofed) · **Depends:** S-08 ✓, `II-05.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (II-5) Ahmad's murder: Polo vs *Yuan shi* (Bolad):** Create comparison table for Ahmad's murder. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **S-17 table handoff:** Retain the separately checked S-14 findings and limits; S-17 did **not** re-adjudicate them. The table must maintain these limits.

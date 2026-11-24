@@ -1,9 +1,9 @@
 plate: I-5
 title: Hulagu shuts the Caliph in the treasure tower
-status: draft
+status: accepted
 tradition: French Gothic manuscript marvel lens
 caption: >-
-  As the Book tells the exemplum, Alaü shuts the Caliph of Baghdad among his riches. Muslim sources report different accounts, including death after being rolled in a carpet. Modern illustration in the manner of a French Gothic marvel manuscript. Not a historical artifact.
+  In the Book’s exemplum, Alaü shuts the Calif of Baudas in his treasure tower. Muslim accounts give different versions of al-Mustaʿṣim’s death after the city fell in 1258. Modern illustration in the manner of a French Gothic marvel manuscript. Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model (version not disclosed)
 job_id: none, chat output
@@ -20,7 +20,7 @@ figures:
 - {id: mustasim, year: 1258, cue: 'About 45, full dark beard; black Abbasid robe and turban; surrounded by treasure.'}
 cues: [C6, C37]
 unsourced:
-- Tower, treasure, soldiers, gestures and furnishings are marvel-lens inventions; the Book's death story is an exemplum, not verified history. C37 is a later comparative source.
+- Tower, treasure, soldiers, gestures and furnishings are marvel-lens inventions; the Book's death story is an exemplum, not verified history. In the early French manuscript tradition, BnF MS fr. 2810, fol. 9r (Omont 1907, pl. 12) illustrates the treasure-tower exemplum as a Gothic cutaway chamber, whereas BL Royal MS 19 D I, fol. 64r, shows only the walled city of Baudas and Bodleian MS Bodl. 264, fol. 222r, shows its siege. C37 is a later comparative source.
 post: >-
   convert media/plates/drafts/I-5/gpt-r1-2.png -filter Lanczos -resize 1350x1800\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-5-caliph-treasure.png
 review:
