@@ -1,10 +1,10 @@
 # I-11 — Charchan, Lop, Tangut, Camul: Desert Voices and the Edge of Cathay
 
-**File:** `vol-1/ch-11-lop-tangut.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-11-lop-tangut.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,741 | 46% | — (n/a in Vol. I) | ok | no |
+| 1,804 | 3% | — (n/a in Vol. I) | ok [1–31] | no |
 
 **W4 voice pass (2026-11-23).** Provisions lead into the Lop crossing, its voices and desert travellers’ reports. The Notes separate Mogao, Chingintalas and the Great Wall debate. Targeted lint: 1,803 words, 2% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–31.
 
@@ -68,7 +68,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-11.T6` Lint pass and human voice read
 
 ### I-11.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-11.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; F-24 Ming Jiayuguan 1372, M7 Wall reply, and S-21 natural-history limits applied) · **Depends:** S-06 ✓, `I-11.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - The Ming Jiayuguan pass dates to 1372 (State Party report and World Bank). Yule’s Wall wording describes his own day; what stood at the exact pass site in the 1270s remains uncertain (F-24, S-14).
@@ -76,7 +76,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-11.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #23 (batch 6)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #23 (batch 6)
 - **Current lint (2026-11-24):** 1,804 w · 3% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
 - **Literary & storytelling pass (2026-11-24):** Sharpened Lop desert-crossing logistics and night-straggler scene with verified Yule epigraph quote (*"the sound of a variety of musical instruments, and still more commonly the sound of drums"*); tightened Sachiu sheep-feast and camphor-coffin funeral scenes, Camul/asbestos contrasts, and Sukchur/Jiayuguan/Campichu pacing with a narrator pause leading into Etzina (I-12). Human voice review remains open.
 - **Earlier baseline:** 2,773 words · 46% verbatim · "You must know" 1 · "Anyway" 4 · formula hinges 4 · archaisms 7 · Book first person 0 · asides 4
@@ -94,7 +94,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-11.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-11.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [6], [8], [12], [14], [19], [24] labelled `Ramusio-only.` / `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-11.T3` (the flags are written during the re-voice pass)
 - **Now:** 4 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -102,8 +102,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-11-lop-tangut.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-11.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-11.T3` (re-voice renumbers Notes)
-- **Now:** 17 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 31 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-11.T3` (re-voice renumbers Notes)
+- **Now:** 31 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-11-lop-tangut.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
@@ -111,7 +111,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-11.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-11.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-24; Map A6, hero plate `#fig-i-11-lop-spirits`, and D (I-11) comparison table placed and proofed) · **Depends:** S-08 ✓, `I-11.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-11) Geographic text vs Ramusio:** Create comparison table showing geographic descriptions in the Book versus Ramusio's version. This is part of the cross-chapter comparison for I-7/I-9/I-11. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **Table structure suggestion for I-11 portion:**
@@ -125,7 +125,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines. Coordinate with I-07.T5 and I-09.T5 for consistency.
 
 ### I-11.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 30 errors · 2 warnings — failing: archaism, asides, budgets, ramusio, recaps, scaffolding, verbatim, you_must_know; warnings: ramusio, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-11-lop-tangut.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -133,7 +133,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T1 / T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E4/E13/E14: Mogao context, pilgrim parallels and Khara-Khoto without asserting direct transmission or Polo’s cave visit. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E4/E13/E14 applied in body and Notes [7], [10]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## S-21 source handoff
 

@@ -84,7 +84,7 @@ Off Lambri’s headland, beyond the sago ovens of Fansur, floats a tiny marker i
 
 [13] ~ Shaving, smoke-drying, stuffing, and saffron-staining small monkeys to sell to gullible western buyers as dried Indian pygmies exposes an actual maritime curio fraud [@yc, 3.9]. Polo takes evident pleasure in warning European collectors how easily port taxidermists manufactured monsters.
 
-[14] ~ Samara’s five-month weather halt anchors Polo’s stay on northern Sumatra [@yc, 3.10 n. 1]. Tying that monsoon wait directly to the Prologue’s “Java” stop on Cocachin’s return voyage is an editorial reconstruction; see [Chapter III-9](ch-09-cocachin-return.md) [@yc, Prol. 18].
+[14] ~ Samara’s five-month weather halt anchors Polo’s stay on northern Sumatra [@yc, 3.10 n. 1]. Tying that monsoon wait directly to the Prologue’s “Java” stop on Cocachin’s return voyage is an editorial reconstruction [@yc, Prol. 18]. See [Chart C11, the monsoon and voyage calendar](ch-09-cocachin-return.md#fig-c11-monsoon-cocachin).
 
 [15] ~ Timber camp defences appear already in both the Franco-Italian F manuscript and the Venetian V witness, as Simion shows [@simion2019devisement, § 3.2.3, p. 141]. The stockade was not invented in the sixteenth century.
 

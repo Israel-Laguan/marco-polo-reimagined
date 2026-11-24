@@ -73,11 +73,11 @@ When the caravan finally packs up, turn north toward Etzina (Khara-Khoto), where
 
 [5] ~ The voices calling a man by name and the drums or music occur in the main account. They belong to what the Book says the travellers hear [@yc, 1.39 nn. 2–3].
 
-[6] ~ From Ramusio in Yule’s edition. The apparent cavalcade and the man discovering his mistake at daylight are in the bracketed passage [@yc, 1.39 n. 2].
+[6] ~ Ramusio-only. The apparent cavalcade and the man discovering his mistake at daylight are in the bracketed passage [@yc, 1.39 n. 2].
 
 [7] ~ Earlier pilgrim reports contain similar kinds of desert story. The resemblance leaves transmission and the cause of the noises in Polo’s account open [@weerawardane2009journey; @wriggins2004xuanzang; @yc, 1.39 n. 3].
 
-[8] ~ From Ramusio in Yule’s edition. The bells and setting out a marker for the next day appear together with the advice to keep close [@yc, 1.39].
+[8] ~ Ramusio-only. The bells and setting out a marker for the next day appear together with the advice to keep close [@yc, 1.39].
 
 [9] ✓ Sachiu is Dunhuang. The Book names the communities and describes the livelihoods and religious houses of its Buddhist inhabitants [@yc, 1.40 nn. 1–2].
 
@@ -85,11 +85,11 @@ When the caravan finally packs up, turn north toward Etzina (Khara-Khoto), where
 
 [11] ~ The sheep and the feast on its meat are described in the Book. Yule compares other offerings and observances [@yc, 1.40 n. 3].
 
-[12] ~ From Ramusio in Yule’s edition. The priests’ portions of the sheep are in the bracketed passage [@yc, 1.40].
+[12] ~ Ramusio-only. The priests’ portions of the sheep are in the bracketed passage [@yc, 1.40].
 
 [13] ~ The cloth, offering and figures belong to Polo’s description of the funeral. Yule cites examples of paper offerings, while treating the Book’s account as applying more broadly than it should [@yc, 1.40 n. 4].
 
-[14] ~ From Ramusio in Yule’s edition. The calculation and the sealing of the joints are bracketed details. The wait and provision for the dead are also described in the base text [@yc, 1.40 n. 5].
+[14] ~ Ramusio-only in part. The astrological calculation and the sealing of the joints are bracketed details, while the wait and provision for the dead are also described in the base text [@yc, 1.40 n. 5].
 
 [15] ~ The daily meals and passage of the coffin through the wall are distinct from the steps of the cremation itself. Yule compares similar concerns about the route out [@yc, 1.40 n. 6].
 
@@ -99,7 +99,7 @@ When the caravan finally packs up, turn north toward Etzina (Khara-Khoto), where
 
 [18] ~ Shared by Pipino and Ramusio. The ordered provision of public accommodation is attested in both [@moule1938description, ch. 59, p. 155; @yc, 1.41].
 
-[19] ~ From Ramusio in Yule’s edition. The years and failed crops are in the bracketed passage, while the petition and permission occur in the base account [@yc, 1.41].
+[19] ~ Ramusio-only in part. The three years and failed crops are in the bracketed passage, while the petition and permission occur in the base account [@yc, 1.41].
 
 [20] ? The name, extent and position of the province are given by Polo. Yule considers candidate regions without identifying one that settles the position [@yc, 1.42 nn. 1–2].
 
@@ -109,7 +109,7 @@ When the caravan finally packs up, turn north toward Etzina (Khara-Khoto), where
 
 [23] ✓ Sukchur is Jiuquan. Yule discusses the different names for district and town and compares accounts of the trade in rhubarb [@yc, 1.43 nn. 2–3].
 
-[24] ~ The poisonous plant, hooves and native cattle are shared by Zelada and Ramusio. Ramusio gives the direction to use local animals. The loss of hooves is as reported [@moule1938description, ch. 61, p. 158; @yc, 1.43 n. 4].
+[24] ~ Ramusio-only in part. The poisonous plant, hooves and native cattle are shared by Zelada and Ramusio, while Ramusio adds the direction to use local animals. The loss of hooves is as reported [@moule1938description, ch. 61, p. 158; @yc, 1.43 n. 4].
 
 [25] ✓ The surviving pass was begun in 1372. Han works are reported in the wider region, with no conclusion here about the exact site in Polo’s day [@chinawh2004jiayuguan; @worldbank2007jiayuguan].
 

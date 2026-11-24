@@ -84,7 +84,7 @@ The 14 surviving files are archived in `media/legacy/`. The three front-02 secti
 | B2 | Mongol politics, 1206–1295 | I-front-01 |
 | B3 | Kublai's reign and the Polo calendar (1260 → 1294) | II-front-01 |
 | B4 | The Song endgame, 1268–1279 | II-10 / II-11 |
-| B5 | Reception, 1298 onward (manuscripts, print, Columbus, Ramusio, Yule, modern scholarship); [S-20 selection](research/results/S-20-closure.md), with unverified dates and claims omitted | III-11 |
+| B5 | Reception, 1298–2024 (manuscripts, print, maps and later responses), based on the [S-20 selection](research/results/S-20-closure.md) | III-11, with references in III-10 and III-B1 |
 | B6 | **Book date vs history** (a table-timeline, e.g. Baudas 1255 vs 1258; Chinghis 1187 vs 1206) | I-back-01 |
 
 ## C. Explanatory diagrams (16)
@@ -109,7 +109,7 @@ The 14 surviving files are archived in `media/legacy/`. The three front-02 secti
 |---|---|---|
 | C9 | Gold : silver ratio gradient (1:8 → 1:5 across Yunnan and Burma) | II-7 / II-8 |
 | C10 | Pole Star altitude: the Book's cubits vs real latitude | III-3 / III-6 |
-| C11 | Monsoon wind panels (NE Nov–Mar / SW May–Sep) + the Cocachin calendar strip | III-front-01, III-9 |
+| C11 | South China Sea and Indian Ocean wind seasons (S18-F4), with a Cocachin calendar strip showing the two departure readings (F-15) | III-F1, III-9, with references in III-1, III-3, III-5 and III-7 |
 
 **Labelled cutaways** (illustrated base from the plate pipeline, with labels overlaid in TikZ, so the labels are typeset rather than generated):
 

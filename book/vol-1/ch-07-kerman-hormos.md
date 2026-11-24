@@ -123,7 +123,7 @@ At Kerman buy bread if you like, but fill your water skins before taking the roa
 
 [22] ~ The seasonal hot wind is the *samūm*. The practices of sleeping outside the town and taking to the water are described by Polo and compared with other Gulf reports by Yule [@yc, 1.19 n. 4].
 
-[23] ✗ Ramusio-only in Yule’s edition. The force and its destruction occur in the bracketed account, including the claim that Marco was present at the time. The army story is a much stronger claim than the account of the hot wind [@yc, 1.19 n. 5].
+[23] ✗ Ramusio-only. The force and its destruction occur in the bracketed account, including the claim that Marco was present at the time. The army story is a much stronger claim than the account of the hot wind [@yc, 1.19 n. 5].
 
 [24] ~ Polo gives a winter sowing, a spring harvest and a separate month for dates. The exact timing and the blanket statement about vegetation belong to his description [@yc, 1.19].
 

@@ -1,6 +1,6 @@
 # III-F1 — The Indian Ocean World (and Why a Princess Boards a Ship)
 
-**File:** `vol-3/front-01-indian-ocean-world.md` · **Status:** in_progress · **Kind:** front
+**File:** `vol-3/front-01-indian-ocean-world.md` · **Status:** completed · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
@@ -47,8 +47,10 @@ Each item cites its critique ID (`vol-3.md` C1/M3/m4/nit) and `file:line`. It ho
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
 - `III-F1.T1` Critical and factual fixes ✅ completed
-- `III-F1.T5` Media placement (C11) · S-08 ✓: ✅ completed (`tools/build/build.sh iii-f1 vol-3/front-01-indian-ocean-world.md`: `0 placeholders, 0 undersized rasters, 0 overfull lines (>= 10pt), 11 pages`).
-- `III-F1.T6` Lint pass and human voice read (lint green ✅; human read pending)
+- `III-F1.T3` De-duplicate to the S-07 role matrix ✅ completed (2026-11-24)
+- `III-F1.T4` Notes and apparatus to the S-03 convention ✅ completed (2026-11-24)
+- `III-F1.T5` Media placement (C11) · S-08 ✓: ✅ completed (`tools/build/build.sh iii-f1 vol-3/front-01-indian-ocean-world.md`: `0 placeholders, 0 undersized rasters, 0 overfull lines (>= 10pt), 11 pages`)
+- `III-F1.T6` Lint pass and human voice read ✅ completed (2026-11-24: `PASS · E0 W0 · 960 w · 1% verbatim`)
 
 ### III-F1.T1 — Names to the S-04 policy; facts per S-06
 - **Status:** ✅ completed (facts 2026-11-17; names 2026-11-24) · **Depends:** S-04 ✓, `GAZ.T5`, S-06 ✓
@@ -81,9 +83,9 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### III-F1.T6 — Lint green and human read
-- **Status:** in_progress (lint green ✅ 2026-11-24: `PASS · E0 W0 · 960 w · 1% verbatim`; human voice read pending) · **Depends:** every other task in this file · S-02 ✓
+- **Status:** ✅ completed (2026-11-24: `PASS · E0 W0 · 960 w · 1% verbatim`) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-3/front-01-indian-ocean-world.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+- **Verified:** All critical and factual fixes applied (epigraph corrected to "had been equipt", Columbus overstatement toned down per S-06). Names policy applied (first-mention glosses: Chamba, Java the Less, Seilan, Maabar, Melibar, Hormos). De-duplication complete per S-07. Notes use ✓~✗?◇ convention with 0 ★. C11 diagram placed and referenced. Voice compliant (0 "Anyway", no archaisms).
 
-**Targeted continuity pass (2026-11-17), applied to `III-F1.T1`:** F-19 and F-15: “bend the Atlantic” is gone (:27 now says the Latin copy’s notes are undated; Note [5]); :31 and Note [6] say Rashid and the 1290 notice corroborate the embassy, name no Polos, and that Rashid mentions no sea route. Toscanelli is not mentioned in this file. Names and the de-duplication are not done. Lint shows no new errors for the file; the `.T3` re-voice and `.T6` human read stay open.

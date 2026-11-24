@@ -15,7 +15,7 @@ At the top of that climb lies Vocan (Wakhan), a pocket kingdom only three days w
 
 Look out between the ridges and see what the Book offers a drover with a worn-out horse. The river winds across a plain whose grass, Polo swears, will fatten a lean beast in ten days [3]. In Ramusio and the Tuscan TA witness, that stream pours out of a mountain lake [4]. Behind the wonder of the altitude sits a practical caravan question: can your pack-animals put on enough weight here to survive the barren crossing ahead? Every ounce of flesh on a mule’s ribs is insurance once the grass disappears, and every day spent grazing here buys another stage across the waste.
 
-Wild sheep roam these heights with horns *"good six palms"* long. Shepherds hollow them into bowls and stack spare horns into night pens to shelter their flocks from the wind [5]. In the Zelada Latin and Ramusio, wolves account for the scattered bones and horns—and Ramusio adds stone cairns piled beside the track to guide riders when snow buries the road [6]. A traveller spotting one of those cairns above the drift needs far less help from local guides than he would on an unmarked pass, and can keep his column moving even when the sky closes in. On a high plateau with no trees for landmarks, a heap of stones and a scatter of horn-pens are the only architecture in sight.
+Wild sheep roam these heights with horns *"good six palms"* long. Shepherds hollow them into bowls and stack spare horns into night pens to shelter their flocks from the wind [5]. In the Zelada Latin and Ramusio, wolves account for the scattered bones and horns—and Ramusio piles those horns and bones into great wayside heaps to guide riders when snow buries the road [6]. A traveller spotting one of those horn-heaps above the drift needs far less help from local guides than he would on an unmarked pass, and can keep his column moving even when the sky closes in. On a high plateau with no trees for landmarks, a cairn of bleached horns and a scatter of sheep-folds are the only architecture in sight.
 
 Then comes the Pamier (Pamir Plateau) itself: twelve days with every ounce of food packed on your saddles, where Polo sees no houses, no green blade, and not even a bird in the sky [7]. Even a camp-fire misbehaves, burning dull and taking forever to cook a pot of supper. A cooking fire has a humbler job than a beacon: a tired rider simply wants something hot in his belly before sleep and enough fuel left for morning. Centuries later, Lieutenant John Wood would boil water here to measure the altitude; the Book simply blames the freezing air [8]. Either way, if your kettle refuses to boil, it changes how far you think you are from the next kitchen, and makes every cold camp feel twice as far from home.
 
@@ -67,7 +67,7 @@ To this whole chain of oases the Book gives the name Great Turkey, and Ramusio s
 
 [5] ~ V also describes the horns made into bowls. Blyth uses *Ovis Polii* in 1841 and refers to Polo. The species name gives no separate evidence that Polo measured an individual animal [@simion2019devisement, 26.16–17; @yc, 1.32 n. 2; @blyth1841ovis, p. 195].
 
-[6] ~ The wolves occur in Zelada and Ramusio. The cairns that serve as markers in the snow are in Ramusio’s text [@moule1938description, ch. 50, pp. 141–142; @yc, 1.32].
+[6] ~ Ramusio-only in part. The wolves occur in Zelada and Ramusio, while the wayside heaps of horns and bones that serve as markers in the snow are in Ramusio’s text [@moule1938description, ch. 50, pp. 141–142; @yc, 1.32].
 
 [7] ~ The duration, lack of settlements and absence of birds belong to Polo’s account. Yule and Cordier consider different lines for the passage [@yc, 1.32 nn. 1–2].
 
@@ -95,9 +95,9 @@ To this whole chain of oases the Book gives the name Great Turkey, and Ramusio s
 
 [19] ~ The territory’s allegiance and Christian communities are given by Polo. The chapter treats Caidu as the ruler it has already named [@yc, 1.35].
 
-[20] ~ The swollen throat has support in V and L. The Book’s water explanation is in the bracketed Ramusio material, while reports of goitre in later visitors do not establish that cause [@simion2019devisement, 28.3; @moule1938description, ch. 53, p. 146; @yc, 1.35 n. 1].
+[20] ~ Ramusio-only in part. The swollen throat has support in V and L. The water explanation is in the bracketed Ramusio material, while reports of goitre in later visitors do not establish that cause [@simion2019devisement, 28.3; @moule1938description, ch. 53, p. 146; @yc, 1.35 n. 1].
 
-[21] ~ From Ramusio in Yule’s edition. He adds cotton and the skill of the craftsmen to the remarks about the resources of Yarcan [@yc, 1.35].
+[21] ~ Ramusio-only. He adds cotton and the skill of the craftsmen to the remarks about the resources of Yarcan [@yc, 1.35].
 
 [22] ✓ The French describes cotton, vineyards, gardens and trades at the oasis. Yule compares later reports about the agriculture [@eusebi2018devisement, ch. 53 §§ 4–8; @yc, 1.36 n. 3].
 
@@ -107,4 +107,4 @@ To this whole chain of oases the Book gives the name Great Turkey, and Ramusio s
 
 [25] ~ The twenty-day allowance is Polo’s account. Yule compares arrangements for temporary marriage elsewhere without establishing the precise rule in Pein [@yc, 1.37 n. 3].
 
-[26] ~ From Ramusio in Yule’s edition. The name Great Turkey is in the base account; the bracket expressly extends it to the city of Lop [@yc, 1.37].
+[26] ~ Ramusio-only in part. The name Great Turkey is in the base account; the bracketed Ramusio clause expressly extends it to the city of Lop [@yc, 1.37].

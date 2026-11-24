@@ -1,11 +1,13 @@
 # DIA — Timelines and diagrams
 
-**Status:** in progress (timelines B1–B4, B6 and DIA.T1 done 2026-11-19; all timelines, schematics C1–C8, C17 and charts C9–C11 done 2026-11-19; cutaways open) · **Plan doc:** `multimedia-plan.md` § B, § C
+**Status:** done 2026-11-24. Timelines B1–B6 and diagrams C1–C17 have PDF and SVG editions and manuscript placements. · **Plan doc:** `multimedia-plan.md` § B, § C
+
+**Verified 2026-11-24.** All 23 figures fit the 4.5 × 5.4 in measure, all 60 timeline entries point to fact-sheet rows, and the three volume PDFs build with no placeholders or undersized rasters.
 
 ## Scope
 Timelines (TikZ from YAML), schematic diagrams (TikZ), data charts (Python), and labelled cutaways (a plate base from `PLT` + TikZ labels).
 
-## Backlog
+## Figure inventory
 - **Timelines:**
   - B1 Polo family (I-F1)
   - B2 Mongol politics (I-F1)
@@ -43,7 +45,7 @@ Timelines (TikZ from YAML), schematic diagrams (TikZ), data charts (Python), and
 - C12 labels “thirteen” as the Book’s number; the Quanzhou hull’s thirteen compartments are a separate archaeological comparison (F-14), with limber holes qualifying any blanket watertight claim.
 
 ## Gated by spikes
-S-09 ✓ (pipeline, 2026-11-10) · S-06 ✓ (dates, closed 2026-11-03) · S-10 ✓ (cutaway bases are `PLT.C12`–`C16`, Akool route) · S-08
+S-09 ✓ (pipeline, 2026-11-10) · S-06 ✓ (dates, closed 2026-11-03) · S-10 ✓ (cutaway bases are `PLT.C12`–`C16`) · S-08 ✓ (print build, 2026-11-10)
 
 ## Tasks
 S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (values in `tools/media/style.yaml`).
@@ -69,7 +71,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Do:** Xiangyang siege as a span; the last battle unnamed (F-41).
 
 ### DIA.B5 — Reception, 1298 onward
-- **Status:** reviewed and extended 2026-11-19 ([review](../../research/results/B5-review-2026-11.md)): 20 events to 2024, break 1680–1815, linked in III-11. **Open:** Cépoy 1307, the 1319 "Milion" entry and Wood 1995 need facts.md rows before they go on; reuse in III-10 and III-B1 not linked · **Placement:** III-11 (reused in III-10, III-B1) · **Depends:** S-09 ✓, S-20 ✓ (qualified selection); layout and extension still open
+- **Status:** done 2026-11-24. The 23-event timeline adds the Cépoy colophon (1307), the Venetian roll's “Marco Polo Milion” (1319), and Wood's first edition (1995). Each addition has a fact-sheet row. The figure runs through 2024 with the 1680–1815 break and measures 4.50 × 5.15 in. [Earlier layout review](../../research/results/B5-review-2026-11.md). · **Placement:** III-11, referenced from III-10 and III-B1 · **Depends:** S-09 ✓, S-20 ✓
 - **Do:** **Piloted in S-09** (`tools/media/data/B5.yaml`, 13 events to 1903). S-20 closed with a [qualified B5 selection](../../research/results/S-20-closure.md); choose later items with source rows and add an axis break if needed. The pilot now marks Fra Mauro approximately mid-15th century, dates Góis’s death separately in its note, and does not date Columbus-circle annotations. Review the rendered layout and citations before production.
 
 ### DIA.B6 — Book date vs history
@@ -89,7 +91,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Do:** Polo's 4 × 3,000 vs Palladius's 400.
 
 ### DIA.C4 — Mongol decimal army
-- **Status:** done 2026-11-19 · `C4-decimal-army.*`, linked in I-12. Shows the Book's Tuc/Toman/Guz with the two blanks and Yule's glosses; **open:** Mongol *arban–jaghun–minggan* need a seen source and a facts.md row before they are added · **Placement:** I-12 · **Depends:** S-09 ✓, schematic build
+- **Status:** done 2026-11-24 · `C4-decimal-army.*` keeps the Book's Tuc/Toman/Guz, the two gaps and Yule's glosses. The Mongol column uses May's *arban*, *jaghun* and *minggan* and de Rachewiltz's *tümen*. See facts.md § Schematic data. · **Placement:** I-12 · **Depends:** S-09 ✓, schematic build
 - **Do:** *arban → tümen* vs the Book's terms.
 
 ### DIA.C5 — Paiza hierarchy
@@ -117,12 +119,12 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 - **Do:** Book's cubits against real latitude from the gazetteer.
 
 ### DIA.C11 — Monsoon panels + Cocachin calendar
-- **Status:** done 2026-11-19 · `C11-monsoon-cocachin.*`, linked in III-F1 and III-9 (III-1, III-5, III-7 reuse still open). Per-basin months from S18-F4 instead of the simplified NE Nov–Mar / SW May–Sep; both departure readings drawn (F-15), the voyage stages labelled as Yule's reading · **Placement:** III-F1, III-9 (reused in III-1, III-5, III-7) · **Depends:** S-09 ✓, charts.py or a map variant of A16
-- **Do:** NE Nov–Mar / SW May–Sep; the calendar strip uses the same 1291/1292 span as B3.
+- **Status:** done 2026-11-24 · `C11-monsoon-cocachin.*` uses per-basin months (S18-F4), both departure readings (F-15), and labels the voyage stages as Yule's reconstruction. · **Placement:** III-F1 and III-9, referenced from III-1, III-3, III-5 and III-7 · **Depends:** S-09 ✓, charts.py
+- **Do:** Show the wind seasons separately for the South China Sea and Indian Ocean. Keep the departure alternatives consistent with B3.
 - **2026-11-17 review:** F-15 reports a late-1290/early-1291 inference as well as Yule's 1292 reconstruction. Verify and label any range or alternatives in both B3 and C11; do not present the Samara wait or death-before-sailing as independently documented fleet events. [Handoff](../../status/critique-text-media-handoff-2026-11-17.md).
 
 ### DIA.C12 — Seagoing junk cutaway
-- **Status:** done 2026-11-23 · `C12-seagoing-junk.*`, linked in III-1 · **Placement:** III-1 (preview II-14) · **Depends:** S-09 ✓, base plate `PLT.C12`
+- **Status:** done 2026-11-24 · `C12-seagoing-junk.*` attributes thirteen compartments to Ramusio's text and labels the Quanzhou wreck's independent bulkhead count and limber holes (F-14). · **Placement:** III-1 and the II-14 preview · **Depends:** S-09 ✓, base plate `PLT.C12`
 - **Do:** Labels in TikZ over the plate; "thirteen" as the Book's number (F-14).
 
 ### DIA.C13 — Sewn-plank ship of Hormos

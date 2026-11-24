@@ -89,7 +89,7 @@ The park walls, the silk guy-cords, and the white mares all belong to the sovere
 
 [17] ? The claim concerns the bodies of people put to death by the authorities. Yule compares accounts with different details and records uncertainty about the charge [@yc, 1.61 n. 9].
 
-[18] ~ From Ramusio in Yule’s edition. The large buffet is his bracketed detail. The table’s height and the distance to the cups also appear in the body of the account [@yc, 1.61].
+[18] ~ Ramusio-only in part. The large buffet is his bracketed detail, while the table’s height and the distance to the cups also appear in the body of the account [@yc, 1.61].
 
 [19] ~ Yule discusses the form Bacsi and compares Odoric’s account of a related feat. Polo gives the scale of the audience and calls on the hearer’s belief in similar feats at home [@yc, 1.61 nn. 10–11].
 

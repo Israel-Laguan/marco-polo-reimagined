@@ -1,12 +1,12 @@
 # I-12 — Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords
 
-**File:** `vol-1/ch-12-caracoron-tenduc.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-12-caracoron-tenduc.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 **U-1A (2026-11-17):** the funeral passage and Notes 12–13 now attribute Yule's report instead of treating Rashid as direct confirmation; Möngke's 20,000 and the sacrifices' timing remain open. Preserve these limits in re-voice; see the [intake](../../../research/results/U-1A-return-2026-11-17-intake.md).
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,037 | 16% | — (n/a in Vol. I) | ok; [3] and [13] duplicates | no (S-07: stays one chapter) |
+| 1,809 | 1% | — (n/a in Vol. I) | ok [1–50] | no (S-07: stays one chapter) |
 
 **W4 voice pass (2026-11-23).** A single chapter follows the ordered scenes from Caracoron and the cane to the moving household, the trade in musk and camlets, and the cranes at Chagannor. Targeted lint: 2,306 words, 1% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–50.
 
@@ -74,7 +74,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-12.T6` Lint pass and human voice read
 
 ### I-12.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-12.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; F-03 Jeje'er Heights 1203, F-56 Natigay, and U-1A funeral limits applied) · **Depends:** S-06 ✓, `I-12.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-03: Aung Khan's final defeat was at the Chacher Ondur (Jeje'er) Heights in 1203; the Onon/Buir Nor fight was earlier (Yule).
@@ -82,7 +82,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-12.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ (no split) · **W4 order:** #38 (batch 10)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording), S-07 ✓ (no split) · **W4 order:** #38 (batch 10)
 - **Current lint (2026-11-24):** 1,809 w · 1% verbatim · 0 quotes · 4 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
 - **Literary & storytelling pass (2026-11-24):** Preserved all four <80-word asides, U-1A funeral limits, Jeje'er Heights (1203), and Natigay hedge; tightened moving-camp, *kemiz*, decimal-army, Bargu, musk-deer, and Tenduc/Chagannor scenes to remove catalogue cadence; revised outro to avoid echoing I-13's opening verb phrase. Human voice review remains open.
 - **Earlier baseline:** 3,114 words · 16% verbatim · "You must know" 0 · "Anyway" 5 · formula hinges 7 · archaisms 2 · Book first person 1 · asides 5
@@ -109,7 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-12.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-12.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [4], [26], [27], [30], [35], [38], [40] labelled `Ramusio-only.` / `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-12.T3` (the flags are written during the re-voice pass)
 - **Now:** 1 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -117,8 +117,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-12-caracoron-tenduc.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-12.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-12.T3` (re-voice renumbers Notes)
-- **Now:** 23 Notes · 1 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 50 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-12.T3` (re-voice renumbers Notes)
+- **Now:** 50 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - 1 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
   - Run `python3 tools/lint.py -v vol-1/ch-12-caracoron-tenduc.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -142,7 +142,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
 
 ### I-12.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 22 errors · 1 warnings — failing: archaism, asides, budgets, first_person, markers, quote_verify, ramusio, scaffolding, verbatim; warnings: ramusio
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-12-caracoron-tenduc.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -150,7 +150,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T1 / T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E5 and S-16 closeout: Great Hall as temple, hypothetical palace, disputed Tenduc. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E5 Great Hall as Buddhist temple, hypothetical palace, and disputed Tenduc applied in body and Notes [5], [44]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## U-3 source handoff (2026-11-17)
 

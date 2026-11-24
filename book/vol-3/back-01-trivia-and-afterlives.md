@@ -28,7 +28,7 @@ Volume III closes the sea road and opens the book’s long echo. This companion 
 
 **Cocachin (Kököchin) embassy.** Rashīd al-Dīn and a 1290 *Yongle dadian* notice matched by Yang Zhijiu corroborate the bride embassy from Cathay to Argon’s (Arghun’s) son Casan (Ghazan) without naming the Polos, while the sailing date remains debated; see III-9, Notes 13 and 21–22 [8].
 
-For the reception history from fourteenth-century world maps to Columbus, print, and modern scholarship, see [Chapter III-11](ch-11-afterlives.md); for the full ledger of hits, misses, and silences across all three volumes, see [Chapter III-12](ch-12-reliability-essay.md).
+Follow the Book from its earliest copies through maps, print, and modern scholarship in [Timeline B5, the Book's reception](ch-11-afterlives.md#fig-b5-reception). For the ledger of hits, misses, and silences across all three volumes, see [Chapter III-12](ch-12-reliability-essay.md).
 
 ---
 

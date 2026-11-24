@@ -1,14 +1,14 @@
 # I-01 — In a Genoese Prison: How This Book Was Made
 
-**File:** `vol-1/ch-01-genoa-prison.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-01-genoa-prison.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 > **2026-11-17 source handoff:** Reconcile Jacopo's 1296 with the proposed 1294 emendation and Ramusio's Curzola tradition; the 2026 archival lead remains unresolved. See the [text and media handoff](../../../status/critique-text-media-handoff-2026-11-17.md) before the prose, Notes and capture-map passes.
 
-> **2026-11-23 status refresh:** the chapter passes targeted lint at **0 errors · 0 warnings — 1,800 words · 5% verbatim · 0 quotes · 2 asides** (asides 77 and 72 words). "Anyway" 0; archaisms 0; the Tana/Trebizond and Rustichello name-policy items are resolved. The claim-level anchor split was applied the same day (19 Notes, model before-the-period placement); Cigni 2017 now cited in Note [8] per the S-15 external check. Following the v3 pass, media placement (T5) and the independent reader review remain.
+> **2026-11-24 closeout:** the chapter passes targeted lint at **0 errors · 0 warnings — 1,812 words · 3% verbatim · 0 quotes · 2 asides** (asides 77 and 72 words). "Anyway" 0; archaisms 0; the Tana/Trebizond and Rustichello name-policy items and nit 1 are resolved. Claim-level anchors run sequentially 1–24 (`Note [23]` provenance standardized to `Ramusio-only.`); Cigni 2017 is cited in Note [11] and Bolognari 2026 in Notes [8] and [20]; `locators.md` row `[16]` updated. Map `A18` (`#fig-a18-adriatic-inset`), hero plate `I-1` (`#fig-i-1-genoa-dictation`), parallel-text box, and D (I-1) witness table are placed and proofed.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,800 | 5% | — (n/a in Vol. I) | ok [1–19] | no |
+| 1,812 | 3% | — (n/a in Vol. I) | ok [1–24] | no |
 
 **W4 voice pass (2026-11-23).** The public reading opens the prison story. The battle and competing capture traditions have separate Notes, alongside the 1301 testimony and the Franco-Italian manuscript evidence. Targeted lint: 1,823 words, 3% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–24.
 
@@ -73,7 +73,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-01.T6` Lint pass and human voice read
 
 ### I-01.T3 — Re-voice to the v3 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #26 (batch 7)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #26 (batch 7)
 - **Current lint (2026-11-24):** 1,812 w · 3% verbatim · 0 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass tightened merchant-shipping pacing and 1299 treaty/release flow while preserving outro transition into I-02; human voice read remains pending.
 - **Earlier baseline:** 1,800 words · 5% verbatim · "You must know" 0 · "Anyway" 0 · formula hinges ≤ 3 · archaisms 0 · Book first person 0 · asides 2 (77 and 72 words)
 - **Do:**
@@ -90,7 +90,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against the v3 standard (`VOICE-GUIDE.md` v3; models II-3/II-4)
 
 ### I-01.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-01.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Note [23] labelled `Ramusio-only.`) · **Depends:** S-03 ✓, `I-01.T3` (the flags are written during the re-voice pass)
 - **Now:** 0 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -98,8 +98,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-01.T4 — Notes and apparatus to the S-03 convention
-- **Status:** open (lint green 2026-11-23) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-01.T3` (re-voice renumbers Notes)
-- **Now:** 19 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 24 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-01.T3` (re-voice renumbers Notes)
+- **Now:** 24 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space). — green at 2026-11-23.
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too. — **anchor-placement split done (2026-11-23):** 19 Notes, claim-level anchors, sentence-final anchors before the full stop; `locators.md` row updated.
@@ -109,7 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-01.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-01.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-24; Map A18 `#fig-a18-adriatic-inset`, hero plate `#fig-i-1-genoa-dictation`, parallel-text box, and D (I-1) table placed and proofed) · **Depends:** S-08 ✓, `I-01.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-1) Who captured Marco, and where? + text witnesses:** Create comparison table for capture accounts: preamble vs Jacopo d'Acqui vs Ramusio, with text witnesses F / Pipino / Z / Ramusio / Yule–Cordier in separate columns. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **2026-11-17 evidence handoff:** Separate each witness's claim from independent evidence and modern inference. Do **not** infer the Polos' presence from the envoy match. Label claims clearly as coming from each witness; keep independent evidence and modern inferences in separate rows or columns.
@@ -127,7 +127,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
 
 ### I-01.T6 — Lint green and human read
-- **Status:** lint done (2026-11-23, 0 errors · 0 warnings); human voice read open · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-11-23, `plans/status/lint-baseline.md`):** 0 errors · 0 warnings — 1,800 words · 5% verbatim · 0 quotes · 2 asides. (The 2026-10-22 snapshot of 6 errors · 3 warnings — asides, budgets, quotes — is superseded.)
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-01-genoa-prison.md`; fix every error; take the warnings into the human read. — lint is green; keep it green through the T3 anchor-split renumber.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against the v3 standard.

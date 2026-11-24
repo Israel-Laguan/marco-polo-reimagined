@@ -76,7 +76,7 @@ Still, you can hear the curiosity behind the question. A Venetian used to wine a
 
 At Yasdi (Yazd), ask for a silk that carries the name of the town itself — *Yasdi* — which merchants pack onto camels and carry far afield for sale [25]. Beyond the city, seven days across a level plain offer only three places to find shelter for the night. There is sport along the way: picture a rider slipping the hood off his hawk for a quick flight while the caravan plods toward the next caravanserai. Polo stocks the open woods and scrub with partridges, quail, and fine wild asses [26], and Yule's bracketed passage adds dates hanging from the palms [27].
 
-Before you leave the plain of Yasdi, though, look back once at the scrub and the three lonely halts. Between Tauris and Kerman, Polo has given us a Persia of gem-booths, fire-temples, eight shifting kingdoms, two-hundred-livre horses, and wild asses racing across the plain — a country where every stage mixes high commerce with old wonders.
+Before you leave the plain of Yasdi, though, look back once at the scrub and the three lonely halts. Seven days with only three roofed stops teaches a caravan master to ride with a hawk on his wrist for sport and an armed guard beside his camels, because the finest brocade in Persia still has to cross open gravel between one walled bazaar and the next.
 
 At the end of the seventh day, carry that Yasdi silk into Kerman (Kermān), where women and their daughters are waiting with needles to stitch birds and beasts across it.
 
@@ -136,4 +136,4 @@ At the end of the seventh day, carry that Yasdi silk into Kerman (Kermān), wher
 
 [26] ~ The stages, shelter and game are given as Polo records them. Yule considers more than one line for the road [@yc, 1.16 n. 2].
 
-[27] ~ Yule prints the production of dates in brackets. It is a detail of his reading of the woods, while their planting and the road’s precise line remain uncertain [@yc, 1.16 n. 2].
+[27] ~ Ramusio-only. Yule prints the production of dates in brackets; it is a detail of his reading of the woods, while their planting and the road’s precise line remain uncertain [@yc, 1.16 n. 2].

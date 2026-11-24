@@ -1,12 +1,12 @@
 # I-08 — Cobinan, the Arbre Sec, and the Old Man of the Mountain
 
-**File:** `vol-1/ch-08-arbre-sec-old-man.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-08-arbre-sec-old-man.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
-**W4 v3 (2026-11-23):** 24 sequential Notes. Targeted lint: 1,807 words, 2% overlap, 0 errors, 0 warnings. The Dry Tree has separate Notes 9–11. The former Note 12 is now Notes 19–23, with V and Ramusio in Note 20.
+**W4 v3 (2026-11-23):** 24 sequential Notes. Targeted lint: 1,806 words, 2% overlap, 0 errors, 0 warnings. The Dry Tree has separate Notes 9–11. The former Note 12 is now Notes 19–23, with V and Ramusio in Note 20.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,377 | 62% | — (n/a in Vol. I) | ok; [13] marker wrong | no |
+| 1,806 | 2% | — (n/a in Vol. I) | ok [1–24] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -60,11 +60,11 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-08.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `I-08.T6` Lint pass and human voice read
+- `I-08.T5` Media placement (figures, tables, captions) · S-08 ✓: **done (2026-11-24; hero plate `#fig-i-8-dry-tree`, Diagram C15 `#fig-c15-qanat`, and Diagram C6 `#fig-c6-tutia-furnace` placed and proofed).**
+- `I-08.T6` Lint pass and human voice read — **done (2026-11-24; E0 · W0).**
 
 ### I-08.T1 — Critical and factual fixes
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-06 ✓, `I-08.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; M2 Hormos phrasing, F-37/S16-E3 Alamut chronology, and S-21 tutia/Dry Tree limits applied) · **Depends:** S-06 ✓, `I-08.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
@@ -72,7 +72,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-08.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #17 (batch 5)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #17 (batch 5)
 - **Current lint (2026-11-24):** 1,806 w · 2% verbatim · 1 quotes · 2 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
 - **Literary & storytelling pass (2026-11-24):** Replaced generic placeholders ("a man", "someone") with concrete actors (Persian irrigators, furnace workers, muleteers, gatehouse captains); added verified Yule quote (*"will they nill they"*); sharpened Cobinan *tutia*/*spodium* contrast with a short narrator pause; tightened Old Man of the Mountain viewpoint shift and Alamut/Girdkūh siege outro leading into Sapurgan (I-09). Human voice review remains open.
 - **Earlier baseline:** 2,402 words · 62% verbatim · "You must know" 0 · "Anyway" 1 · formula hinges 2 · archaisms 2 · Book first person 0 · asides 2
@@ -90,7 +90,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-08.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-08.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Note [3] labelled `Ramusio-only.`, Note [20] labelled `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-08.T3` (the flags are written during the re-voice pass)
 - **Now:** 2 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -98,8 +98,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-08-arbre-sec-old-man.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-08.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-08.T3` (re-voice renumbers Notes)
-- **Now:** 13 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 24 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-08.T3` (re-voice renumbers Notes)
+- **Now:** 24 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-08-arbre-sec-old-man.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
@@ -108,7 +108,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-08.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 13 errors · 3 warnings — failing: archaism, asides, ramusio, scaffolding, verbatim; warnings: ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-08-arbre-sec-old-man.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -116,7 +116,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T1 / T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E3/E15/E17: attributed Alamut chronology, disputed tree interpretation and earlier intoxicant-and-visions legend. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E3/E15/E17 applied in Notes [9], [14], [19], [21]–[23]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## S-21 source handoff
 

@@ -84,7 +84,7 @@ Keep the coral packed for the road toward India. The Book turns back to Badashan
 
 [9] ✓ Taican is usually identified with Taloqan, and rock salt is worked in the region. The picture of traders coming from very far away is Polo’s measure of an important market, while the claim to supply the world is his flourish. Yule records works east and south-east of the town [@yc, 1.28 nn. 1–2].
 
-[10] ~ Ramusio-only in Yule’s text. The bracketed addition describes plentiful almonds and pistachios in neighbouring hills. The grain market and the salt are already in the earlier account [@yc, 1.28 n. 2].
+[10] ~ Ramusio-only. The bracketed addition describes plentiful almonds and pistachios in neighbouring hills. The grain market and the salt are already in the earlier account [@yc, 1.28 n. 2].
 
 [11] ~ Polo disparages the people in this stretch of the narrative. The cord head-dress, skins for clothing and boiled wine are the portable particulars, for which Yule cites later regional parallels [@yc, 1.28 n. 3].
 
@@ -104,9 +104,9 @@ Keep the coral packed for the road toward India. The Book turns back to Badashan
 
 [19] ? Ramusio-only. Yule compares other tales of unusual breeds associated with the region. The marked horses and their descent from Bucephalus belong to a legend told about the royal stud [@yc, 1.29 n. 4].
 
-[20] ~ Ramusio-only in Yule’s edition. Great flocks, streams and high plains appear in the bracketed account. Yule compares the sheep with species known in the mountains [@yc, 1.29 n. 6].
+[20] ~ Ramusio-only. Great flocks, streams and high plains appear in the bracketed account. Yule compares the sheep with species known in the mountains [@yc, 1.29 n. 6].
 
-[21] ? Ramusio-only in Yule’s edition. The recovery after about a year of illness is attributed to Marco in the added account. Yule suggests a site for the ascent, with the identification still open [@yc, 1.29 n. 7].
+[21] ? Ramusio-only. The recovery after about a year of illness is attributed to Marco in the added account. Yule suggests a site for the ascent, with the identification still open [@yc, 1.29 n. 7].
 
 [22] ~ The cost of cloth and the division between its buyers and wearers of skins belong to the Book. The figures for the cloth in the trousers express the effect of the ample cut [@yc, 1.29 n. 9].
 

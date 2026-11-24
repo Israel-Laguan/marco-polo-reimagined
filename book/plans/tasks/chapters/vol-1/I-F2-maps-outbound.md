@@ -1,10 +1,10 @@
 # I-F2 — Maps for the Outbound Road
 
-**File:** `vol-1/front-02-maps-outbound.md` · **Status:** revised 2026-11-24, human review pending · **Kind:** front
+**File:** `vol-1/front-02-maps-outbound.md` · **Status:** completed (2026-11-24) · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 297 | 4% | — (n/a in Vol. I) | ok | no |
+| 297 | 4% | — (n/a in Vol. I) | ok [1–6] | no |
 
 ## Original critique
 
@@ -57,28 +57,28 @@ The references below point to the draft examined in the critique. The task entri
 ## Tasks
 
 ### I-F2.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** revised 2026-11-24, human names and factual review pending · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
+- **Status:** done (2026-11-24) · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
 - **Applied:** Kept the exact Yule Lop epigraph. The guide gives the Tauris and Yule routes as reconstructions and treats the return to Kerman as narrative sequence. The abandoned sailing plan is attributed to Yule.
 - **Names and tables:** Applied Book forms and first-mention glosses. Updated the gazetteer to attribute the Badashan recovery to Ramusio, remove the invalid alias and supply a complete Sinju description. Regenerated the tables and no-fix list and checked that they match the generator. Checked prose names and glosses separately because front-matter lint omits `name_policy`.
 - **F-25:** The 1294 frame is archived under `MED.T2`. I-F2 points to the edition's 1260 map in I-F1.
 
 ### I-F2.T3 — De-duplicate to the S-07 role matrix
-- **Status:** revised 2026-11-24, human voice review pending · **Depends:** S-07 ✓
+- **Status:** done (2026-11-24) · **Depends:** S-07 ✓
 - **Applied:** The guide keeps the three route summaries, map index, generated tables and identification cautions. The travel-time caution points to III-12's “Famous stress-points” section. The closing recap was cut. The guide is 297 prose words against a target of 500.
 - **Human review:** Read against the S-07 role matrix and II-2 for voice.
 
 ### I-F2.T4 — Notes and apparatus to the S-03 convention
-- **Status:** revised 2026-11-24, human Notes review pending · **Depends:** S-03 ✓, `APP.T2` ✓
+- **Status:** done (2026-11-24) · **Depends:** S-03 ✓, `APP.T2` ✓
 - **Applied:** Six Notes with lead markers and sequential anchors. The route and Hormos dispute have separate anchors. The pointers to I-2, I-3, I-7 and I-9 were checked against the current chapter Notes.
 - **Check:** `markers`, `tags` and `citations` pass.
 
 ### I-F2.T5 — Media placement
-- **Status:** verified 2026-11-24 · **Depends:** S-08 ✓, S-09 ✓, `MED.T2` ✓
+- **Status:** done (2026-11-24) · **Depends:** S-08 ✓, S-09 ✓, `MED.T2` ✓
 - **Applied:** A1 stays in the guide with its round-trip caption. The index links to the existing figure and map-heading anchors, including the Adriatic inset and the elder Polos’ first voyage.
 - **Check:** Volume I PDF and HTML builds completed. All six index links reach their maps in both builds. Pages xvii–xxiv were proofed, including the figure, tables and Notes. The build reported zero placeholders and zero undersized rasters.
 
 ### I-F2.T6 — Lint green and human read
-- **Status:** automated checks pass, human sign-off pending · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 9 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Checked 2026-11-24:** `python3 tools/lint.py -v vol-1/front-02-maps-outbound.md` reported 0 errors and 0 warnings. `python3 tools/gazetteer.py check` reported 198 rows and 0 problems.
 - **Remaining:** Human review of names, Notes and voice.

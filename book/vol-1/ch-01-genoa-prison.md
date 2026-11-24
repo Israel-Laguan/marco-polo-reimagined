@@ -126,6 +126,6 @@ Beyond the prison bars and the clerks’ busy pens, Venice was still sending her
 
 [22] ✓ Andreose places witness F among French manuscripts copied by Pisan prisoners at Genoa and traces subsequent reworkings in Venice [@andreose2024textual]. That workshop setting explains how copies could begin circulating quickly in both French and Italian dialects.
 
-[23] ? Ramusio-only in Yule. Ramusio supplies a Genoese gentleman as helper. The early French preamble names the Pisan writer Rustichello [@yc, Introduction, § 37; @yc, Prol. preamble].
+[23] ? Ramusio-only. Ramusio supplies a Genoese gentleman as helper. The early French preamble names the Pisan writer Rustichello [@yc, Introduction, § 37; @yc, Prol. preamble].
 
 [24] ? The textual witnesses preserve separate versions, with differences in what they give and the order in which they give it. The early stages of their relationship remain debated [@benedetto1928milione; @moule1938description; @dutschke1993francesco; @andreose2024textual].

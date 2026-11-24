@@ -57,9 +57,9 @@ It is the kind of local marvel Rustichello loved to drop between two stretches o
 
 Now look out from the peaks over the Sea of Ghel — the Caspian. Polo hears that Genoese merchants carried ships overland from the nearest sea, twelve days away, to launch and sail it. Hauling timber across twelve days of mountain roads is no small gamble unless you know what cargo awaits on the far shore: the prized silk called *Ghellé* comes from these coasts [25]. Both V and the Zelada Latin stock the waters with sturgeon, Zelada adds salmon, and Ramusio places the catch at the river-mouths [26]. Polo also sends the Euphrates emptying into the Caspian, which it does not [27]. A dealer who knows *Ghellé* silk by touch can still get his river basins muddled.
 
-Every valley here offers something you can pack onto a mule: *Turquan* horses from the plateau, fine buckram from Arzinga, naphtha from the border springs, or *Ghellé* silk from the Caspian shore. Yet these mountain chapters stitch together several caravan roads rather than one straight track.
+A factor standing on that Caspian shore has come a long way from the galleys at Ayas, yet his ledger still asks the same questions: which ruler holds the pass, which harbour ships the bale, and how many pack-mules it takes to bring a load of *Ghellé* silk back across the hills.
 
-These mountain chapters stitch together several caravan roads and the goods that travelled them. Ayas belongs to the Polos' own departure, even if we cannot trace every pass they crossed [28]. Follow the bolts of silk and cloth of gold south-east out of the highlands, and the fabric itself gives you the name of the next city: Mausul (Mosul).
+These mountain chapters stitch together several caravan roads and the goods that travelled them, and Ayas belongs to the Polos' own departure even if we cannot trace every pass they crossed [28]. Follow the bolts of silk and cloth of gold south-east out of the highlands, and the fabric itself gives you the name of the next city: Mausul (Mosul).
 
 ---
 
@@ -87,11 +87,11 @@ These mountain chapters stitch together several caravan roads and the goods that
 
 [11] ~ Summer pasture and winter departure are the pattern described by Polo. Its reach over the whole host is the Book’s account [@yc, 1.3].
 
-[12] ~ From Ramusio in Yule’s edition. The castle stands on the road from Trebizond. Yule discusses silver-bearing lead in the region and reports of mines, without establishing the precise working in the description [@yc, 1.3 n. 3].
+[12] ~ Ramusio-only. The castle stands on the road from Trebizond. Yule discusses silver-bearing lead in the region and reports of mines, without establishing the precise working in the description [@yc, 1.3 n. 3].
 
 [13] ~ The Ark is in the base text, and Yule compares the tradition reported in Josephus. This is the story attached to the mountain [@yc, 1.3 n. 4].
 
-[14] ~ The snow barring the summit is shared by Zelada and Ramusio. The pasture, flocks and mud are the development in Ramusio [@moule1938description, ch. 22, p. 97; @yc, 1.3].
+[14] ~ Ramusio-only in part. The snow barring the summit is shared by Zelada and Ramusio, while the summer pasture, flocks and mud are the development in Ramusio [@moule1938description, ch. 22, p. 97; @yc, 1.3].
 
 [15] ~ The fuel and treatment for mange are given by the Book. The hundred shiploads are its estimate of abundance [@yc, 1.3 n. 5].
 
@@ -103,7 +103,7 @@ These mountain chapters stitch together several caravan roads and the goods that
 
 [19] ~ The birthmark is a dynastic story in the Book. Yule compares another account of a sign on the king’s shoulder [@yc, 1.4 n. 1].
 
-[20] ~ From Ramusio in Yule’s account. The division of territory is expressed in terms of the king’s ability to keep forts. The main text also gives the defiles and fortresses a part in limiting the conquest [@yc, 1.4 n. 1].
+[20] ~ Ramusio-only. The division of territory is expressed in terms of the king’s ability to keep forts. The main text also gives the defiles and fortresses a part in limiting the conquest [@yc, 1.4 n. 1].
 
 [21] ~ Polo makes the connection to the tale of Alexander and distinguishes the names of peoples. Yule discusses whether Derbend and related barriers are the places meant in the tradition [@yc, 1.4 n. 3].
 
@@ -115,7 +115,7 @@ These mountain chapters stitch together several caravan roads and the goods that
 
 [25] ✓ Yule discusses the name for the sea, the silk of Ghelan and reports of Genoese activity in the Caspian. Twelve days to another sea is Polo’s distance. He compares forms for the silk in the merchants’ books [@yc, 1.4 nn. 7–8].
 
-[26] ~ Sturgeon appear in V and Zelada, and salmon also appear in Zelada. Yule’s bracketed detail about the river-mouths is from Ramusio [@simion2019devisement, 12.4; @moule1938description, ch. 23, p. 99; @yc, 1.4 n. 9].
+[26] ~ Ramusio-only in part. Sturgeon appear in V and Zelada, and salmon also appear in Zelada. Yule’s bracketed detail about the river-mouths is from Ramusio [@simion2019devisement, 12.4; @moule1938description, ch. 23, p. 99; @yc, 1.4 n. 9].
 
 [27] ✗ The Euphrates drains in a different direction. Yule discusses the Caspian’s extent and the source of the names used for it [@yc, 1.4 nn. 7–8].
 

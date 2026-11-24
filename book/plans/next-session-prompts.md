@@ -12,12 +12,12 @@ Read The Book of the Million as an independent reader after the v3 rollout. Star
 Look for places where the narrator’s invitations feel repeated, a scene needs more room, or an outro sets up a different scene from the next chapter’s opener. Check that Marco’s practical eye, Rustichello’s spectacle, and the modern guide’s voice are distinct. Read III-10 through III-12 on their own terms as reception history and a closing essay. Return a prioritised list of chapter passages and proposed fixes for the editor’s review. A clean lint result establishes that the mechanical checks passed.
 ```
 
-### 2. Glossary and remaining apparatus checks
+### 2. Remaining apparatus checks
 
 ```text
-Continue from W5 in book/plans/content-revision-plan.md and GLO.T2 in book/plans/tasks/cross/GLO-glossary.md. The v3 Notes, companion cross-references, and three volume glossaries have been revised. The representative LaTeX output pairs 28 anchors with 28 Notes in II-3 and 24 with 24 in II-4.
+Continue from W5 in book/plans/content-revision-plan.md. The v3 Notes, companion cross-references, and three volume glossaries have been revised. The representative LaTeX output pairs 28 anchors with 28 Notes in II-3 and 24 with 24 in II-4.
 
-Prepare the pending pronunciation hints in book/plans/registry/glossary-review.md for human read-aloud review. Identify the forms that need a ruling and record actual review decisions in the registry before regenerating the glossaries. Check the Volume III Further reading proposal against the works and audience described in book/FRONT-BACK-MATTER.md. For any source gap listed in W5 that you take up, cite the passage you checked, preserve the existing hedge until the evidence warrants a change, and update the matching Note and locator together. If you edit the apparatus, verify the affected references and run targeted lint. Leave a list of decisions still needed.
+Check the Volume III Further reading proposal against the works and audience described in book/FRONT-BACK-MATTER.md. For any source gap listed in W5 that you take up, cite the passage you checked, preserve the existing hedge until the evidence warrants a change, and update the matching Note and locator together. If you edit the apparatus, verify the affected references and run targeted lint. Leave a list of decisions still needed.
 ```
 
 ### 3. Supporting images and targeted visual research

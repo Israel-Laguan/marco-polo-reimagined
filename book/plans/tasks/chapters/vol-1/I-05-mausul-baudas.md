@@ -1,10 +1,10 @@
 # I-05 — Mausul, Baudas, and the Mountain That Moved
 
-**File:** `vol-1/ch-05-mausul-baudas.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-05-mausul-baudas.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,994 | 61% | — (n/a in Vol. I) | [16] mismatch; [6] repeats [5] | no |
+| 1,830 | 1% | — (n/a in Vol. I) | ok [1–28] | no |
 
 **W4 voice pass (2026-11-23).** 1,816 words, 1% Yule overlap, zero errors and warnings. Note 4 carries the F-02 correction. Notes 13–16 and the table distinguish the checked accounts of the Calif’s death.
 
@@ -68,7 +68,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-05.T6` Lint pass and human voice read
 
 ### I-05.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-05.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; F-02 applied in body and Note [4]) · **Depends:** S-06 ✓, `I-05.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - Mosul: Yürekli and Jackson date the surrender to July–August 1262, against Yule’s 1261; al-Ṣāliḥ Ismāʿīl was captured and later killed. Correct Note [1]; exact death date and manner remain open (F-02, S-14).
@@ -76,7 +76,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-05.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #18 (batch 5)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #18 (batch 5)
 - **Current lint (2026-11-24):** 1,830 w · 1% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass reduced "The Book" tics, sharpened Tigris textile trade and Alaü/Caliph treasury drama, added marked Yule quote (*"faith as a grain of mustard seed"*), enriched cobbler-workshop scene, and checked Tauris outro into I-06; human voice read remains pending.
 - **Earlier baseline:** 2,949 words · 61% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 2 · archaisms 5 · Book first person 2 · asides 3
 - **Do:**
@@ -93,7 +93,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-05.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-05.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Note [25] labelled `Ramusio-only.`, Note [3] covers shared V/Ramusio) · **Depends:** S-03 ✓, `I-05.T3` (the flags are written during the re-voice pass)
 - **Now:** 1 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -101,8 +101,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-05-mausul-baudas.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-05.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-05.T3` (re-voice renumbers Notes)
-- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 28 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-05.T3` (re-voice renumbers Notes)
+- **Now:** 28 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-05-mausul-baudas.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
@@ -123,7 +123,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
 
 ### I-05.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 16 errors · 2 warnings — failing: archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-05-mausul-baudas.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -131,7 +131,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T1 / T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E9: competing accounts of the caliph’s death; Muqaṭṭam as Neggaz’s comparison, not proven direct borrowing. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E9 applied in D (I-5) table, Note [14], and Note [26]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## U-1 source handoff (2026-11-17)
 

@@ -1,10 +1,10 @@
 # I-10 — Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country
 
-**File:** `vol-1/ch-10-pamier-cotan.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-10-pamier-cotan.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,740 | 51% | — (n/a in Vol. I) | ok | no |
+| 1,807 | 2% | — (n/a in Vol. I) | ok [1–26] | no |
 
 **W4 voice pass (2026-11-23).** Fire, high pasture and the stones of Cotan carry the route. The hanging pillar, its witnesses and the uncertain Pamier identifications have their own Notes. Targeted lint: 1,835 words, 2% Yule overlap, 0 errors, 1 warning. Current anchors are numbered 1–25.
 
@@ -65,14 +65,14 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-10.T1` Critical and factual fixes
-- `I-10.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `I-10.T6` Lint pass and human voice read
+- `I-10.T1` Critical and factual fixes — **done (2026-11-24; Ramusio horn-and-bone heaps, F-50 Mar Sargis inscription, S-20 Blyth *Ovis Polii*, and nit 9 Lt. John Wood applied).**
+- `I-10.T5` Media placement (figures, tables, captions) · S-08 ✓: **done (2026-11-24; hero plate `#fig-i-10-pamier-crossing` placed and proofed).**
+- `I-10.T6` Lint pass and human voice read — **done (2026-11-24; E0 · W0).**
 
 ### I-10.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #21 (batch 6)
-- **Current lint (2026-11-24):** 1,804 w · 2% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
-- **Literary & storytelling pass (2026-11-24):** Replaced abstract placeholders with drovers, shepherds, and oasis traders; added verified Yule quote (*"good six palms"*); heightened suspense of Samarcan's three-day hanging-pillar ultimatum and Mar Sarghis transmission; tightened Yarcan/Cotan/Pein sequence and twenty-day marriage clock pause, bridging cleanly to Charchan (I-11). Human voice review remains open.
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #21 (batch 6)
+- **Current lint (2026-11-24):** 1,807 w · 2% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
+- **Literary & storytelling pass (2026-11-24):** Replaced abstract placeholders with drovers, shepherds, and oasis traders; added verified Yule quote (*"good six palms"*); corrected Ramusio's wayside snow-markers to heaps of horns and bones (M5 / §4); heightened suspense of Samarcan's three-day hanging-pillar ultimatum and Mar Sarghis transmission; tightened Yarcan/Cotan/Pein sequence and twenty-day marriage clock pause, bridging cleanly to Charchan (I-11).
 - **Earlier baseline:** 2,783 words · 51% verbatim · "You must know" 0 · "Anyway" 2 · formula hinges 4 · archaisms 5 · Book first person 0 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :13 (99%), :21 (77%), :27 (97%), :29 (100%), :35 (96%), :39 (87%).
@@ -88,7 +88,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-10.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-10.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [6], [20], [21], [26] labelled `Ramusio-only.` / `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-10.T3` (the flags are written during the re-voice pass)
 - **Now:** 5 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -96,8 +96,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-10-pamier-cotan.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-10.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-10.T3` (re-voice renumbers Notes)
-- **Now:** 17 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 26 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-10.T3` (re-voice renumbers Notes)
+- **Now:** 26 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - "Dispute" label in Note(s) [12]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-1/ch-10-pamier-cotan.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -105,7 +105,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-10.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 27 errors · 8 warnings — failing: archaism, asides, budgets, markers, ramusio, scaffolding, verbatim; warnings: names, ramusio, recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-10-pamier-cotan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -113,7 +113,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E12 and S-16 closeout: Wood’s “roof” and the disputed Uzun-tatïr/Keriya identification. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E12 Wood's "Roof of the World" and Pein Uzun-tatïr/Keriya site applied in body aside and Notes [9], [24]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 
 ## S-20 source reuse — I-10 sheep

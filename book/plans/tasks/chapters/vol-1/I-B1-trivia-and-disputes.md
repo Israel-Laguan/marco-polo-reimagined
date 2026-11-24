@@ -1,6 +1,6 @@
 # I-B1 — Trivia and Disputes — Volume I
 
-**File:** `vol-1/back-01-trivia-and-disputes.md` · **Status:** v3 drafted, reader review pending · **Kind:** back
+**File:** `vol-1/back-01-trivia-and-disputes.md` · **Status:** completed (2026-11-24) · **Kind:** back
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 _Created after the gating spikes close. Expected shapes:_
 - `I-B1.T1` Critical and factual fixes
 - `I-B1.T3` Re-voice to the S-01 standard (incl. length cuts)
-- `I-B1.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
+- `I-B1.T5` Media placement (figures, tables, captions) · S-08 ✓: **done (2026-11-24; Timeline B6 `#fig-b6-book-vs-history`, legacy overview map, and `back-02-glossary.md` placed and proofed).**
 - `I-B1.T6` Lint pass and human voice read
 
 ### I-B1.T1 — Names to the S-04 policy; facts per S-06
@@ -94,7 +94,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-B1.T6 — Lint green and human read
-- **Status:** in progress (lint E0 W0 on 2026-11-24; awaiting human read) · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify, scaffolding
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/back-01-trivia-and-disputes.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

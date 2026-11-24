@@ -15,7 +15,7 @@ Below the waist hatch lies the lower hold, and it is worth a look before the doc
 
 — A merchant ship dug out of coastal silt near Zayton in 1974 holds twelve transverse bulkheads forming thirteen compartments, built in the late thirteenth century [10]. Small limber holes pierced near the keel allowed bilge-water to trickle toward the pump, so hauling heavy sacks in a hurry was still damp, back-breaking work beneath the lantern [11].
 
-![Diagram C12. Cutaway combining the Book’s four-mast description with features of the late-thirteenth-century Quanzhou wreck: twelve bulkheads, limber holes, and an axial-rudder stock socket. *(Diagram: this edition; the rig and upper works are schematic.)*](../media/diagrams/C12-seagoing-junk.svg){#fig-c12-seagoing-junk}
+![Diagram C12. Ramusio's version describes thirteen compartments. The late-thirteenth-century Quanzhou wreck independently preserves thirteen compartments divided by twelve bulkheads, with limber holes at their feet. *(Diagram: this edition; the rig and upper works are schematic.)*](../media/diagrams/C12-seagoing-junk.svg){#fig-c12-seagoing-junk}
 
 Out on the ways, a thumb run along the outer seam between two strakes meets something stiffer than European tar [12]. Shipwrights fasten a double skin of fir planking with long iron spikes, then knead a pale paste of quicklime, shredded hemp, and pungent tree-oil into a sticky putty that seals every joint tighter than pitch [13]. When the sea falls glassy calm and every mat sail droops against the shrouds, those tall hulls move by sheer muscle. Four sweating seamen lean together against each clumsy sweep to haul the ship across dead water [14].
 
@@ -180,7 +180,7 @@ Back on Zayton’s stone quay, the wet hawsers are cast off and the heavy rudder
 
 [54] ✓ White pepper, black pepper, and aromatic woods genuinely drew Fujian merchant fleets south-east each year [@yc, 3.4 n. 2]. The cargo list shifts the horizon from Japan southward toward the spice islands of the archipelago.
 
-[55] ✓ Winter outward passages and summer homebound passages accurately capture the monsoon shuttle governing the South China Sea [@yc, 3.4 n. 3]. Ships cleared Zayton on the north-east winter wind and returned on the south-west summer monsoon.
+[55] ✓ Winter outward passages and summer homebound passages accurately capture the monsoon shuttle governing the South China Sea [@yc, 3.4 n. 3]. Ships cleared Zayton on the north-east winter wind and returned on the south-west summer monsoon. See the South China Sea panel in [Chart C11](ch-09-cocachin-return.md#fig-c11-monsoon-cocachin).
 
 [56] ✓ Comparing regional Asian sea names to the English Sea and the Sea of Rochelle shows how cleanly Polo understood the eastern waters as arms of one unbroken Ocean Sea [@yc, 3.4 n. 3]. That observation stood directly against classical Ptolemaic ideas of an enclosed Indian Ocean basin.
 

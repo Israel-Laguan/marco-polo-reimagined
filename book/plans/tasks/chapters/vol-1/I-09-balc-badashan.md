@@ -1,12 +1,12 @@
 # I-09 — Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys
 
-**File:** `vol-1/ch-09-balc-badashan.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-09-balc-badashan.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
-**W4 v3 (2026-11-23):** 30 sequential Notes. Targeted lint: 1,812 words, 2% overlap, 0 errors, 0 warnings. F-57 is now Note 6. The F/Ramusio horses and recovery are Notes 18–21, and the Zelada/Ramusio account about butchers is Note 29.
+**W4 v3 (2026-11-23):** 30 sequential Notes. Targeted lint: 1,804 words, 2% overlap, 0 errors, 0 warnings. F-57 is now Note 6. The F/Ramusio horses and recovery are Notes 18–21, and the Zelada/Ramusio account about butchers is Note 29.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 3,119 | 65% | — (n/a in Vol. I) | ok; [16] meta | no (near the 3,200 ceiling) |
+| 1,804 | 2% | — (n/a in Vol. I) | ok [1–30] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -67,12 +67,12 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-09.T1` Critical and factual fixes
-- `I-09.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `I-09.T6` Lint pass and human voice read
+- `I-09.T1` Critical and factual fixes — **done (2026-11-24; F-57 Dogana/Dogava and nit 9 Lt. John Wood applied).**
+- `I-09.T5` Media placement (figures, tables, captions) · S-08 ✓: **done (2026-11-24; Map A5, hero plate `#fig-i-9-balas-mines`, and D (I-9) table placed and proofed).**
+- `I-09.T6` Lint pass and human voice read — **done (2026-11-24; E0 · W0).**
 
 ### I-09.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #16 (batch 4)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #16 (batch 4)
 - **Current lint (2026-11-24):** 1,804 w · 2% verbatim · 2 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
 - **Literary & storytelling pass (2026-11-24):** Sharpened quartermaster vs. merchant perspective at Sapurgan and Taican; added verified Yule quotes (*"sweeter than honey"*, *"supply the whole world to the end of time"*); deepened contrast between Syghinan ruby monopoly and Ramusio's high-plateau fever recovery; turned Pashai/Keshimur products and coral trade into a tighter sequence with a short narrator pause. Human voice review remains open.
 - **Earlier baseline:** 3,150 words · 65% verbatim · "You must know" 1 · "Anyway" 3 · formula hinges 4 · archaisms 1 · Book first person 2 · asides 3
@@ -90,7 +90,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-09.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-09.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [10], [19], [20], [21] labelled `Ramusio-only.`, Note [18] `Ramusio-only in part.`, Note [29] `Zelada and Ramusio.`) · **Depends:** S-03 ✓, `I-09.T3` (the flags are written during the re-voice pass)
 - **Now:** 2 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -98,8 +98,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-09-balc-badashan.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-09.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-09.T3` (re-voice renumbers Notes)
-- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 30 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-09.T3` (re-voice renumbers Notes)
+- **Now:** 30 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
   - "Dispute" label in Note(s) [16]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
@@ -109,7 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-09.T5 — Media placement (figures, tables, captions)
-- **Status:** done (2026-11-23; plate I-9 `#fig-i-9-balas-mines` placed and proofed) · **Depends:** S-08 ✓, `I-09.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-24; Map A5, hero plate `#fig-i-9-balas-mines`, and D (I-9) comparison table placed and proofed) · **Depends:** S-08 ✓, `I-09.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-9) Geographic text vs Ramusio:** Create comparison table showing geographic descriptions in the Book versus Ramusio's version. This is part of the cross-chapter comparison for I-7/I-9/I-11. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **Table structure suggestion for I-09 portion:**
@@ -123,7 +123,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines. Coordinate with I-07.T5 and I-11.T5 for consistency.
 
 ### I-09.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 21 errors · 7 warnings — failing: archaism, asides, budgets, first_person, markers, ramusio, scaffolding, verbatim, you_must_know; warnings: names, openers, ramusio, recaps
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-09-balc-badashan.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -131,7 +131,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E11: balas spinels and Sar-e-Sang; modern mine context does not establish medieval methods. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E11 balas spinels and Sar-e-Sang geology qualified in body and Notes [15], [17]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## S-21 source handoff
 

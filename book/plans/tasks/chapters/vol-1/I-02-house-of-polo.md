@@ -6,11 +6,11 @@
 
 **2026-11-24 CHR.T7 closeout:** Note [3] uses Orlandini's 6 February 1310 edition date, names Marta, and leaves possible children open. Yule's earlier date comes from his summary of a separate 1328 proceeding. See F-17 for the evidence limits.
 
-**File:** `vol-1/ch-02-house-of-polo.md` · **Status:** done (2026-11-23) · **Kind:** narrative
+**File:** `vol-1/ch-02-house-of-polo.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,893 | 12% | — (n/a in Vol. I) | ok [1–20] | no |
+| 1,893 | 12% | — (n/a in Vol. I) | ok [1–25] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -109,8 +109,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-02-house-of-polo.md` shows no `ramusio` errors, and the flag count matches the passages found. — met (0 ramusio issues).
 
 ### I-02.T4 — Notes and apparatus to the S-03 convention
-- **Status:** done (2026-11-23) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-02.T3` (re-voice renumbers Notes)
-- **Now:** 20 Notes · 0 ★ · 0 without a lead marker · `markers`/`tags`/`citations` green
+- **Status:** done (2026-11-23; 25 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-02.T3` (re-voice renumbers Notes)
+- **Now:** 25 Notes · 0 ★ · 0 without a lead marker · `markers`/`tags`/`citations` green
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-02-house-of-polo.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space). — done; every Note opens with a verdict (✓ ~ ✗ ?, singly or as a ✓/✗ split pair), 2–3 sentences, checked keys.
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too. — Note [9] → ✓/✗ (F-01); Notes [10] and [21] trimmed to single-lead form; first-paragraph claims split into Notes [1]–[3]; the other paragraphs re-anchored claim-by-claim; anchors [1]–[25] sequential in reading order.
@@ -118,7 +118,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes. — lint green; Notes read in the pass, final human read open.
 
 ### I-02.T6 — Lint green and human read
-- **Status:** done for lint (2026-11-23); human voice read open · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 13 errors · 3 warnings — failing: archaism, asides, budgets, scaffolding, verbatim; warnings: recaps, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-02-house-of-polo.md`; fix every error; take the warnings into the human read. — run and green: **0 errors · 0 warnings** (1,893 words · 12% verbatim · 5 quotes · 3 asides). `plans/status/lint-baseline.md` regenerated (2026-11-23).
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against the v3 standard. — exit 0 and warnings cleared; the final human voice read remains the reader's review.

@@ -4,7 +4,7 @@ This folder runs the refinement of the manuscript on three fronts: **content**, 
 
 The [2026-11-17 critique follow-up review](status/critique-followup-review-2026-11-17.md) records the targeted fixes, remaining contradictions, and their task owners.
 
-The [follow-up chat prompts](next-session-prompts.md#follow-up-after-the-v3-rollout) cover independent reader review, remaining glossary and apparatus checks, and supporting images with targeted research.
+The [follow-up chat prompts](next-session-prompts.md#follow-up-after-the-v3-rollout) cover independent reader review, remaining apparatus checks, and supporting images with targeted research.
 
 ## How it works
 
@@ -126,11 +126,11 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 | [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | S-04 ✓, S-09 ✓ |
 | [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | **Done 2026-11-24.** Glossary coverage verified, naming lint enforced, T7 closed best effort. |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 35 GEN + 6 PD heroes, secondaries, legacy retirement | S-10 ✓, S-11 ✓ |
-| [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 | S-09 ✓ |
+| [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 · **done** 2026-11-24 | S-09 ✓ |
 | [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 ✓ (`TBL.T1` style done) |
 | [GAZ](tasks/cross/GAZ-gazetteer.md) | Gazetteer | S-04 |
 | [APP](tasks/cross/APP-apparatus.md) | Markers, tags, how-to-read box | S-03 |
-| [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | S-04 ✓, S-05 ✓, S-08 ✓ (layout → `BLD.T4`) |
+| [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | **Done 2026-11-24.** Pronunciation approved and all three proofs checked. |
 | [BLD](tasks/cross/BLD-build-tooling.md) | Lint, LaTeX build, media scripts | S-02 ✓, S-08 ✓, S-09 ✓ (`BLD.T2`, `T6` ready) |
 | [MED](tasks/cross/MED-existing-media.md) | Existing media triage | **Done 2026-11-21** |
 | [DOC](tasks/cross/DOC-status-docs.md) | Status and project docs | **Done 2026-11-21** (DOC.T4 reconciliation) |

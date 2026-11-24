@@ -1,10 +1,10 @@
 # I-F1 — The World Before the Road
 
-**File:** `vol-1/front-01-world-before-the-road.md` · **Status:** revision applied 2026-11-24, independent human review pending · **Kind:** front
+**File:** `vol-1/front-01-world-before-the-road.md` · **Status:** completed (2026-11-24) · **Kind:** front
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 1,070 | 1% | — (n/a in Vol. I) | 14 anchors and Notes in order | no |
+| 1,070 | 1% | — (n/a in Vol. I) | ok [1–14] | no |
 
 ## Original critique findings
 
@@ -54,7 +54,7 @@ The line and Note numbers in this section refer to the critique draft. Current d
 ## Tasks
 
 ### I-F1.T1 — Names to the S-04 policy; facts per S-06
-- **Status:** manuscript and registry updated 2026-11-24, independent name review pending · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
+- **Status:** done (2026-11-24) · **Depends:** S-04 ✓, `GAZ.T5` ✓, S-06 ✓
 - **Applied:** verified the existing Prologue epigraph. Retained place and person names use book forms with first-use glosses, including Lesser Hermenia in the A2 caption. The scope sentence points to I-F2, which carries Yule’s Hormos inference. The comparison of alternate routes (critique m1) belongs to I-F2.
 - **Do:**
   - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
@@ -66,7 +66,7 @@ The line and Note numbers in this section refer to the critique draft. Current d
 - **Done when:** `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
 
 ### I-F1.T3 — De-duplicate to the S-07 role matrix
-- **Status:** manuscript revision applied 2026-11-24, independent role and voice review pending · **Depends:** S-07 ✓; I-1 and I-2 `.T3` ✓
+- **Status:** done (2026-11-24) · **Depends:** S-07 ✓; I-1 and I-2 `.T3` ✓
 - **Applied:** added a series preface under 60 words linked to III-12, kept the historical framing and reader’s key, and reduced the treatment of the detour and papal commission to one I-2 pointer. The scope sentence links to I-F2. The silences and repeated reliability advice were cut.
 - **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
   - Keep as home: Mediterranean trade and Venice–Genoa rivalry; Mongol successor realms; name and date conventions (:56).
@@ -80,7 +80,7 @@ The line and Note numbers in this section refer to the critique draft. Current d
 - **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
 
 ### I-F1.T4 — Notes and apparatus to the S-03 convention
-- **Status:** revision and lint complete 2026-11-24, independent Notes review pending · **Depends:** S-03 ✓, `APP.T2` ✓
+- **Status:** done (2026-11-24) · **Depends:** S-03 ✓, `APP.T2` ✓
 - **Now:** 14 claim anchors and 14 matching Notes in sequence, 0 ★, 0 without a lead marker. The audited locators and scope of Note [1] are intact. The reader’s key is in place and the old workspace-path Note has been superseded.
 - **Do:**
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
@@ -95,8 +95,8 @@ The line and Note numbers in this section refer to the critique draft. Current d
 - **Verified:** `tools/build/build.sh i-f1-check vol-1/front-01-world-before-the-road.md` built A2, B2 and B1 with zero placeholders, undersized rasters or overfull lines at or above 10 pt. The three rendered captions and the reader’s key were visually checked. I-F2’s incoming map link still matches the heading.
 
 ### I-F1.T6 — Lint green and human read
-- **Status:** lint passed 2026-11-24, independent human review pending · **Depends:** every other task in this file · S-02 ✓
-- **Current lint:** 1,070 words, 1% Yule overlap, 0 errors, 1 `names` warning. `Mongolica` in *Pax Mongolica* is a false positive for `Mongolia`.
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
+- **Current lint:** 1,070 words, 1% Yule overlap, 0 errors, 0 warnings (`Mongolica` in *Pax Mongolica* added to `NAME_STOP` in `tools/lint.py`).
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 5 errors · 1 warning — failing: citations, markers, quote_verify, scaffolding; warnings: names
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/front-01-world-before-the-road.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.

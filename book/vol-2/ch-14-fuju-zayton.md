@@ -44,6 +44,8 @@ Even common speech fences off this salt-blown corner from northern plains. Where
 
 Polo reckons the silver customs collected across Chonka match or overtake even Kinsay’s bursting treasury [37]. Out of Manzi’s nine wide provinces, he pauses cleanly to log just three—Yanju (Yangzhou), Kinsay, and Fuju—before promising to haul anchor at Zayton and steer across the Ocean Sea toward Chipangu (Japan) and the spiced archipelagos of India [38]. There is the vessel to consider as well as the load. A wreck found near Zayton in 1973 and excavated the following year had twelve bulkheads to divide thirteen compartments. The men who examined the hull found small holes along the keel for water to pass through [39].
 
+![Diagram C12. A cutaway of a seagoing junk, with bulkheads and limber holes drawn from the excavated Quanzhou hull. Volume III compares the find with the Book's account of the ships of Manzi. *(Diagram: this edition; the rig and upper works are schematic.)*](../media/diagrams/C12-seagoing-junk.svg){#fig-c12-zayton-preview}
+
 Leave the customs clerk at the wharf before we take to the water. Far inland, Caidu (Kaidu) is asking the emperor for a share of the lands that bring in dues like these.
 
 ---

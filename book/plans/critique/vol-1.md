@@ -1,5 +1,7 @@
 # Volume I: Editorial Critique (*From Venice to the Khan*)
 
+> **Resolution Status (2026-11-24): Resolved.** All 3 Critical, 12 Major, 12 Minor, and 10 Nits findings—together with the `§4` illustration and `§5` multimedia deliverables—have been addressed across `vol-1/*.md`, `gazetteer.csv`, `tools/lint.py`, `plans/registry/locators.md`, and `plans/tasks/chapters/vol-1/*.md`. All 17 files in `vol-1/` pass `python3 tools/lint.py -v vol-1/*.md` with **0 errors and 0 warnings** (`E0 W0`). The original critique text below is preserved for audit.
+
 Scope: `vol-1/` (front-01, front-02, ch-01 to ch-13, back-01, README). This was a read-only pass. Line numbers refer to the files as they stand now. "Yule" means `refs/yule-vol1.txt`, and Yule line numbers are given as `Y:nnnn`.
 
 ---
@@ -25,11 +27,13 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
 - Problem: the epigraph *"Ye must know that in the year of Christ… there were living in Venice two brothers…"* does not appear in Yule. The phrase "there were living in Venice two brothers" has 0 hits.
 - Evidence: the real opening of Prologue ch. I is at Y:12495: "It came to pass in the year of Christ 1260, when Baldwin was reigning at Constantinople, that Messer Nicolas Polo… and Messer Maffeo Polo… were at the said city of CONSTANTINOPLE".
 - Fix: replace it with *"It came to pass in the year of Christ 1260, when Baldwin was reigning at Constantinople…"* and attribute it to "Prologue, ch. I (Yule–Cordier)".
+- **Status:** Resolved in `vol-1/front-01-world-before-the-road.md:4–5` (`HOT.1` / `I-F1.T1`).
 
 **C2. `front-02-maps-outbound.md:4`: the epigraph is invented or conflated** (axis: fidelity)
 - Problem: the epigraph reads *"from this city of Lop it is forty days' journey across the desert…"*. In Yule the Lop desert takes **a month** at its narrowest (Y:22928, "where its breadth is least, it takes a month to cross it"). The "forty days" comes from **Etzina** (Y:24539–24541).
 - Wider risk: this misstatement also teaches readers the wrong number, because line 92 of the same file talks about "forty days".
 - Fix: *"And here, where its breadth is least, it takes a month to cross it."* (Book I, Of the City of Lop and the Great Desert).
+- **Status:** Resolved in `vol-1/front-02-maps-outbound.md:4–5` (`HOT.1` / `I-F2.T1`); the erroneous "forty days" teaching note was removed.
 
 **C3. Systemic: chapters transcribe Yule instead of retelling it** (axis: voice, prose)
 - Evidence: share of narrative words inside verbatim 7-gram runs from Yule:
@@ -67,6 +71,7 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
   - Re-voice the marvel blocks in the ch-01 manner: summarise in the storyteller's own words and keep **one or two** short quoted lines per marvel as flavour, set off as quotations.
   - Target ≤25% verbatim per chapter.
   - Example rewrite for ch-05:33–35: "The Christians prayed eight days and nights, he says, until an angel told a bishop to seek out a certain one-eyed cobbler — a man so chaste that, when a customer's lovely foot stirred an impure thought, he took his own awl to his eye, as the Gospel bids. 'So you can judge what a holy man he was,' the book adds."
+- **Status:** Resolved across `vol-1/ch-01` through `ch-13` (W4 v3 re-voice). Measured verbatim Yule overlap is now `0%–12%` across all 13 chapters (well below the 15% lint ceiling), with 0 unquoted Book first-person lines.
 
 ### Major
 
@@ -74,6 +79,7 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
 - Problem: back-01 says the Curzola capture "is strong tradition (Jacopo d'Acqui and later tellings)". front-01 Note [6] makes the same claim. back-01:15 states as plain fact that the captivity came "after Curzola (Korčula), 1298".
 - Evidence: ch-01:21 and Note [5] say correctly that Jacopo puts the capture **at Ayas**, dated impossibly, and that Curzola rests on later tradition (Ramusio) plus inference from the year. Yule's sidenote at Y:7369 ("Grounds on which the story… rests") supports ch-01.
 - Fix for back-01:33: "…dictated in Genoa is the book's own claim (1298). Curzola as the battle is later tradition (Ramusio) plus inference from the year; Jacopo d'Acqui, the nearest witness, puts the capture at Ayas." In front-01 [6], change "(Jacopo d'Acqui and later tradition…)" to "(Ramusio and later tradition; Jacopo names Ayas)". At back-01:15, hedge the claim: "…during a Genoese captivity in 1298, traditionally after Curzola".
+- **Status:** Resolved in `vol-1/back-01-trivia-and-disputes.md` (`:31` and Note `[3]`) and `vol-1/front-01-world-before-the-road.md` (`:47` and Note `[11]`).
 
 **M2. The Hormuz "turning back" is stated as the Book's own words** (`back-01:19`, `ch-07:43` and Note [15], `ch-08:9`, `front-01:54`, `front-02:17`) (axes: dispute handling, continuity)
 - Problem:
@@ -88,6 +94,7 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
   - back-01: "**Did Hormuz turn them around?** Yule inferred that the Polos meant to sail from Hormuz and gave it up; the book itself only says 'let us return by another road to Kerman.' The stitched ships and the heat make the inference attractive, not certain."
   - ch-07 [15]: change the marker to `~` and reword it as "Book's narrative return to Kerman; Yule infers an abandoned sea plan".
   - ch-08:9: "Having brought the reader back from Hormos to Kerman…"
+- **Status:** Resolved in `vol-1/back-01-trivia-and-disputes.md` (`:15`, Note `[1]`), `vol-1/front-01-world-before-the-road.md` (`:63`), `vol-1/front-02-maps-outbound.md` (`:15`, Note `[4]`), `vol-1/ch-07-kerman-hormos.md` (retitled, `:72`, Note `[27]`), and `vol-1/ch-08-arbre-sec-old-man.md` (`:9`).
 
 **M3. `ch-02:17` and Note [5]: the outcome of the Berke–Hulagu war goes unflagged and is wrongly marked ✓** (axes: fidelity, dispute handling)
 - Problem: the chapter tells the Book's "Barca in the end was worsted" and then says "one of the better-corroborated beats… Rashid al-Din… agree[s]". Note [5] carries ✓.
@@ -96,11 +103,13 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
   - Yule's note (Y:12831–12834) corroborates only that the war happened (summer 1262, about eight months long), not who won.
   - Historically, Hulagu's army was routed at the Terek in early 1263, and Rashid al-Din records that defeat. This comes from general history; Yule's note is silent on it.
 - Fix: add an aside: "…came to blows then — though the outcome the book gives is backwards: Hulagu's army was routed on the Terek in the winter of 1263." Change the note to "✓ war and date; ✗ outcome".
+- **Status:** Resolved in `vol-1/ch-02-house-of-polo.md:17` and Note `[9]` (`F-01` applied).
 
 **M4. `ch-12:25` and Note [8]: the place of Aung Khan's final defeat is garbled** (axis: fidelity, an error in an aside)
 - Problem: the chapter says the final defeat came "near the Onon or Buir Nor in 1203".
 - Evidence: Yule (Y:25590–25600) says the Onon/Buir Nor battle was **"not the final defeat of Aung Khan… which took place some time later (in 1203) at… the Chacher Ondur (or Heights)… between the Tula and the Kerulun"**.
 - Fix: "…was not on the plain of Tenduc in 1200: an earlier clash lay near Buir Nor, and the final defeat came in 1203 at the Jeje'er (Chacher) Heights between the Tula and Kerulen; Aung Khan fled and was killed by Naiman officers."
+- **Status:** Resolved in `vol-1/ch-12-caracoron-tenduc.md:27` and Notes `[11]` and `[13]` (`F-03` applied).
 
 **M5. Systemic: Ramusian (bracketed) text is absorbed without a flag** (axis: dispute handling)
 - Background: Yule puts Ramusio's additions and other supplementary readings in square brackets. Some chapters flag them well: ch-04:31 ("some texts add"), ch-06:13 and :39, ch-08:13, ch-09:33. Many others are told as plain Book fact. back-01:13 promises such material is "never silently absorbed".
@@ -121,6 +130,7 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
   - front-02:73, Badakhshan "Marco's recovery" (Ramusio only).
 - Evidence: the bracket list is extracted to `scratchpad/critique/brackets.txt`. Examples: Y:17847 "[And to prove the great heat of this wind, Messer Mark related…"; Y:22948 "[Sometimes the stray travellers will hear… cavalcade…]".
 - Fix: add a 3–6-word tag ("Ramusio's text adds", "one version adds") at minimum to the load-bearing items: the Kerman army, the Lop cavalcade and bells, the Bucephalus breed, the Camul crop failure and the musk relic. Mark the matching Notes with "◇ Ramusio".
+- **Status:** Resolved across `vol-1/ch-01`–`ch-13` and `front-02:88` (W3 / `.T2` / `S-03`): all bracketed additions carry inline witness flags and `Ramusio-only.` / `Ramusio-only in part.` Note labels (including Pamir wayside heaps of horns and bones in `ch-10:18` and Note `[6]`).
 
 **M6. Systemic: the hinge formulas fatigue the reader** (axis: voice)
 - Evidence: see the scorecard below.
@@ -133,11 +143,13 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
   - Allow at most one "Anyway" per chapter, and close most asides with a plain return ("So, back to the road:" or simply the next sentence).
   - Rotate openers. Start on place or action, as ch-01, 06 and 09 already do: "Beyond Tonocain…", "The Book, having done with Baudas…".
   - Add a lint to the series style sheet with per-chapter budgets: "starts by narrating" 0 after ch-02; "Anyway" ≤1; "the book insists" ≤2.
+- **Status:** Resolved via `tools/lint.py` (`S-02`) and the W4 v3 re-voice across all 13 chapters (0 formula openers, `Anyway ≤ 1`, attribution verbs budgeted).
 
 **M7. `ch-11:43` and `back-01:45`: the Great Wall "seed" leaves out the main counter-argument** (axis: dispute handling)
 - Problem: ch-11 says "Suhchau sits just within its extreme north-west angle". That is Yule's 19th-century phrasing (Y:24254), and it implies the Wall stood there in the 1270s.
 - Missing context: the masonry Wall at Suzhou/Jiayuguan is **Ming** (the Jiayu Pass fort dates from 1372). In Polo's day the Hexi defences were eroded Han-era earthworks. This is the central reply to Wood, and the text gives only "a merchant itinerary need not chorograph every landmark".
 - Fix: add one clause: "…though the brick-and-stone Wall a modern reader pictures there is Ming, a century after Polo; in his day only eroded earthen ramparts of the Han ran along the Hexi road."
+- **Status:** Resolved in `vol-1/ch-11-lop-tangut.md:52` and Notes `[25]`–`[26]` (`F-24`), and de-duplicated in `back-01-trivia-and-disputes.md` (`S-07`, pointing to `III-12`).
 
 **M8. The gazetteer's naming conflicts with the chapters, and it has gaps** (axis: naming)
 - Problem: `gazetteer.csv` is declared the naming authority, and its readme says book_name "follows forms familiar from Polo / Yule". In practice its book_name column uses modern forms.
@@ -165,14 +177,17 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
 - Error in the gazetteer: the Badakhshan alias "Balashan" is wrong; Yule's form is Badashan.
 - Missing rows (about 25 Vol. I places): Sachiu/Dunhuang (a main stop in ch-11), Samarcand, Keshimur, Pashai, Casem, Dogana, Bolor, Chingintalas, Erguiul, Sinju, Egrigaia, Chagannor, Bargu, Kemenfu/Kaipingfu, Genoa, Curzola, Ucaca, Negropont, Kisi, Bastra, Camadi, Reobarles, Canosalmi, Derbend, Ararat, Conia and Casaria.
 - Fix: change gazetteer book_name to Yule forms and keep the modern form in modern_name. Add the missing rows, which the maps need anyway. Regenerate the front-02 tables.
+- **Status:** Resolved in `gazetteer.csv` (`S-04` / `GAZ.T5`), `vol-1/front-02-maps-outbound.md` place tables, and `name_policy` enforcement across all 13 chapters (`0` errors, `0` warnings).
 
 **M9. `ch-05` Note [16] does not match body [16]** (axis: citation integrity)
 - Problem: body [16] (line 47) is the mountain-miracle aside about dates, parallels and voicing. Note [16] instead discusses "Whole Mausul–Baudas block personally traversed". The parallels are actually in Note [14].
 - Fix: either rewrite [16] as "? Mountain-miracle legend cycle: impossible MS dates; parallels (Gregory Thaumaturgus, Muqaṭṭam, Nakhchivan relocation); voice without sneer or endorsement", and move the traversal note to a new [17] anchored at line 51 after "the Book does not say."; or anchor the current [16] at line 51.
+- **Status:** Resolved in `vol-1/ch-05-mausul-baudas.md` (Notes `[26]` and `[28]` in the v3 claim-level numbering).
 
 **M10. `ch-04` has an orphan Note [15]** (known issue, confirmed) (axis: citation integrity)
 - Evidence: the body cites [1]–[14] only; the last marker is [14] at line 35. Note [15] (line 71), on "Whole Caucasian block personally traversed", has no anchor.
 - Fix: at ch-04:37, "…is a question the notes must keep open. [15]"
+- **Status:** Resolved (`APP.T9` and `I-04.T4`; all 28 Notes in `ch-04-hermenia-georgiania.md` are sequentially anchored).
 
 **M11. Long academic asides kill momentum** (axis: prose, voice)
 - Problem: the Voice Guide says "Keep asides short… no long academic digressions mid-paragraph". These dash-asides run over 120 words:
@@ -199,14 +214,18 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
   - ch-13:39 (Daoists).
   - All of these list travellers by name (Wood, Gordon, Younghusband, Timkowski, Johnson, Grenard…), which is Yule's notes moved into the narrative.
 - Fix: cap each aside at about 60–80 words and keep one key fact plus a cross-reference to the Note. Move the lists of names to the Notes. Example for ch-10:17: "— This is one of the book's great hits. Chinese pilgrims already called these heights 'midway between heaven and earth'; the giant sheep now bear Marco's name, *Ovis poli*; and at this altitude water boils so low that rice never softens. Only Ramusio's version makes the fire-notice hearsay. [5]"
+- **Status:** Resolved across `vol-1/ch-01`–`ch-13` (W4 v3 re-voice; all asides `≤ 80` words, `≤ 4` per chapter, scholar lists moved to Notes).
 
 **M12. `ch-12` is inconsistent in texture and overloaded** (axes: prose, structure)
 - Problem: ch-12 is 17% verbatim Yule, but unlike the other chapters it is a telegraphic summary. Lines 35–49 read like note cards ("Justice: for petty theft…", "Their religion:…", "Five days east from Campichu…").
 - Load: it carries 23 citations and the most outline beats (Etzina, Caracoron, Chinghis, Prester John, the succession, burial, Tartar customs, Bargu, Erguiul, Sinju, Egrigaia, Tenduc, Chagannor).
 - Effect: the ethnography reads as a catalogue, and the Bargu digression (line 45) breaks the eastward road.
 - Fix: the outline allows a split (I-12a "How the Tartars Became Lords" and I-12b "Tartar Customs; Bargu to Chagannor"). Alternatively, keep one chapter, rewrite the customs paragraphs as narrated scenes, and cut the Bargu/gerfalcon material to about 80 words.
+- **Status:** Resolved in `vol-1/ch-12-caracoron-tenduc.md` (`S-07`: kept as one chapter, re-voiced as ordered scenes at 1,809 words, 1% verbatim, 50 sequential Notes).
 
 ### Minor
+
+- **Status (m1–m12):** All 12 Minor items are resolved in the v3 files (`front-02:15` presents both outbound routes as reconstructions; `ch-07:29` and Note `[13]` flag Sigatay's kinship and link to `I-10`; `front-01` citations `[1–14]` sequential; `back-01:4–5` uses Jacopo's exact deathbed words; Note markers and provenance labels standardized; `/workspace` and gazetteer scaffolding stripped; duplicate/meta Notes merged or populated; `ch-02:9` attributes family records to Venetian archives without the bachelor clause; closing list-recaps cut across all chapters including `ch-04:60–62` and `ch-06:79`; `front-01` de-duplicated against `ch-02`; `ch-05` Note `[4]` dates Mosul's surrender to July–August 1262; `back-01` Note `[5]` cites `derachewiltz1971papal`).
 
 **m1. `front-02:17` and `ch-03:23`: the outbound route differs** (axis: continuity)
 - front-02 gives Ayas → Anatolian highlands → **Tauris** → Kerman → Hormuz as the route.
@@ -268,6 +287,8 @@ Severity counts: **3 critical · 12 major · 12 minor · 10 nits.**
 
 ### Nits (10)
 
+- **Status (Nits 1–10):** All 10 nits are resolved (`ch-01:13`/`ch-03:9–11` drop redundant Venezia/Genova/Yerushalayim glosses; `ch-04:62` uses `Mausul (Mosul)`; `ch-06:59` aligns Istanit *sf/st* copyist confusion with Note `[18]`; `ch-07` Note `[17]` removes the postdate garble; `ch-06:61` and Note `[19]` cite Yule's £193 directly; `front-02:21` captions Map A1 as the round trip; `front-01` drops expository "Anyway"; `back-01:17` uses "Western"; `ch-09` Note `[8]` and `ch-10:20, :24` use "Lieutenant John Wood"; `ch-12:21` glosses `Tenduc (the Hohhot region, provisionally)` at first mention).
+
 1. ch-01:13 "Venice (Venezia) and Genoa (Genova)" and ch-03:9 "Venice (Venezia)": when the book form is the English form, the gloss is noise. ch-03:11 "Jerusalem (Yerushalayim)" likewise.
 2. ch-04:21 "Mosul (Mausul)" reverses the book-form-first rule.
 3. ch-06:33 says "Istanit… half-legible through manuscript wear", but Note [12] gives the real reason (copyist *sf/st* confusion). Align them.
@@ -317,6 +338,8 @@ Epigraph verification:
 ---
 
 ## 4. Illustration candidates
+
+> **Status (2026-11-24):** All 13 Volume I hero plates are placed and proofed: `PLT.I-02` public-domain miniature (`media/public-domain/I-02-alt_omont1907-pl3-fol2v-mono.jpg` in `ch-02`) and 12 generated hero plates (`media/plates/I-1-genoa-dictation.png` and `I-3`–`I-13`, all 13 verified in `plans/status/visual-placement-2026-11-23.md`). Secondary plates are deferred per `PLT`.
 
 ★ marks the hero image for each chapter. Each entry gives the anchor quote, what the scene shows, period notes, and any caution.
 
@@ -526,6 +549,14 @@ Epigraph verification:
 ---
 
 ## 5. Multimedia opportunities
+
+> **Status (2026-11-24):** Resolved across `MAP`, `DIA`, `TBL`, `GLO`, and `MED`:
+> - **Route-segment maps:** All 7 Volume I maps (`A1-series-overview.svg`, `A2-world-in-1260.svg`, `A18-adriatic-inset.svg`, `A3-elder-voyage.svg`, `A4-acre-to-hormos.svg`, `A5-balc-to-pein.svg`, `A6-lop-to-chandu.svg`) are generated, placed, and proofed.
+> - **Timelines:** `B1-polo-family.svg` and `B2-mongol-politics.svg` are placed in `front-01`; `B6-book-vs-history.svg` is placed in `back-01`.
+> - **Explanatory diagrams:** `C13` (`ch-07`), `C6` & `C15` (`ch-08`), `C4` (`ch-12`), and `C16` (`ch-13`) are placed and proofed in Volume I; `C5` (paiza) and `C17` (seasonal orbit, replacing `A8`) are placed in Volume II (`II-01` and `II-04`, cross-referenced from `ch-13` Note `[11]`); asbestos processing (`ch-11`) had no C-ID assigned and is covered in prose and the `ch-11` table.
+> - **Tables:** All D comparison tables (`ch-01` capture/witnesses, `ch-03` four scripts, `ch-05` Caliph's death, `ch-06` eight kingdoms, `ch-12` Kaan succession, and `ch-07`/`ch-09`/`ch-11` Geographic Text vs Ramusio) are placed and proofed (`TBL`).
+> - **Audio & pronunciation:** Per `S-08` (static print/EPUB/HTML edition), `ch-01` uses the printed `parallel-text` box for Rustichello's preamble, the pronunciation glossary is printed in `vol-1/back-02-glossary.md` (`GLO`, approved 2026-11-24), and the `ch-11` soundscape was dropped in favour of prose/Notes (`Note [7]`).
+> - **Fixes to existing media:** Legacy drawings (`drawing-venetian-galley`, `drawing-chandu-palace`, `drawing-genoa-dictation`) are retired (`PLT.LEGACY` / `MED.T2`); `front-02` `A1` is captioned as the round trip; `map-marco-polo-overview.png` appears as a legacy credit figure in `back-01`; the 1206–1294 Mongol Empire animation was archived under `MED.T2` with `A2` (`1260`) placed in `front-01`.
 
 ### Route-segment maps
 

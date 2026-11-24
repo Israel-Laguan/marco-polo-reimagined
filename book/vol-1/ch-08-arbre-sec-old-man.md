@@ -60,7 +60,7 @@ Inside a besieged castle, every crust is counted, and every day without relief s
 
 [2] ~ Yule compares accounts of saline watercourses in the region. Polo makes the shortage and the consequences for livestock part of the description of this particular crossing [@yc, 1.20 n. 2].
 
-[3] ~ Ramusio-only in Yule’s edition. The openings and the underground stream are bracketed. Yule compares the passage with Persian watercourses called *qanāts* or *kārēzes* and suggests that this example may once have supplied cultivated land [@yc, 1.20 n. 3].
+[3] ~ Ramusio-only. The openings and the underground stream are bracketed. Yule compares the passage with Persian watercourses called *qanāts* or *kārēzes* and suggests that this example may once have supplied cultivated land [@yc, 1.20 n. 3].
 
 [4] ✓ The place is identified with Kuhbanan, which Yule finds named by medieval geographers. Later reports also mention metalworking resources in the district, including the material associated with the iron and the steel that Yule discusses, while the size of Polo’s town is open to question [@yc, 1.21 n. 1].
 

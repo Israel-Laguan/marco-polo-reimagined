@@ -40,7 +40,8 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Caugigu**]{#place-caugigu} · Kiang Hung (Jinghong), Yunnan, China · kow-jee-GOO. Reported tributary country. Yule’s Kiang Hung and Pelliot’s Upper Red River reading differ. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Jinghong)
 - [**Cauly**]{#place-cauly} · Korea · KOW-lee. Korea, named in the account of Nayan’s campaign. [Wikipedia](https://en.wikipedia.org/wiki/Korea)
 - [**Cayu**]{#place-cayu} · Gaoyou, Jiangsu, China (provisional) · KYE-yoo. Canal town noted for fishing, game and silk. [Wikipedia](https://en.wikipedia.org/wiki/Gaoyou)
-- [**Chandu**]{#place-chandu} · Shangdu (Duolun County), Inner Mongolia, China · CHAN-doo (Chandu); chee-AN-doo (Ciandu). Kublai’s summer capital, earlier called Kaiping. From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Shangdu)
+- [**Chamba**]{#place-chamba} · Central Vietnam (Champa coast) (provisional) · CHAM-bah. Cham kingdom where the Book reports an elephant tribute. [Wikipedia](https://en.wikipedia.org/wiki/Champa)
+- [**Chandu**]{#place-chandu} · Shangdu (Duolun County), Inner Mongolia, China · CHAN-doo (Chandu); chee-AN-doo (Ciandu). Kublai’s summer capital, formerly Kaiping. Variant *Ciandu* [@pelliot1959notes, pp. 256–57]. From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Shangdu)
 - [**Changan**]{#place-changan} · Jiaxing, Zhejiang, China (provisional) · CHANG-an. Canal-road town between Suju and Kinsay, provisionally linked with Jiaxing. [Wikipedia](https://en.wikipedia.org/wiki/Jiaxing)
 - [**Changlu**]{#place-changlu} · Cangzhou, Hebei, China (provisional) · chang-LOO. Salt-working town on the northern canal corridor. [Wikipedia](https://en.wikipedia.org/wiki/Cangzhou)
 - [**Changshan**]{#place-changshan} · Changshan, Zhejiang, China · chang-SHAHN. Mountain crossing and town on the Fuju road. The modern location is debated. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Changshan_County)
@@ -58,6 +59,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Cuiju**]{#place-cuiju} · Guiyang area, Guizhou, China · kwee-JOO. Reported southwestern province. The Guiyang area is a provisional identification. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Guiyang)
 - [**Cuju**]{#place-cuju} · Modern identification disputed · KOO-joo. Last city of the Kinsay territory on the road to Fuju. Proposed sites include Chuzhou and Pucheng.
 - [**Cuncun**]{#place-cuncun} · Qinling–Hanzhong mountains, Shaanxi, China · KOON-koon. Mountain country on the route south from Kenjanfu. The route through it is debated. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Qinling)
+- [**Derbend**]{#place-derbend} · Derbent, Dagestan, Russia · der-BEND. Caspian gateway identified in the Book with Alexander’s Iron Gate. [Wikipedia](https://en.wikipedia.org/wiki/Derbent)
 - [**Egrigaia**]{#place-egrigaia} · Yinchuan (Ningxia), China (provisional) · eg-ree-GYE-ah. Tangut province whose capital area corresponds to modern Yinchuan. [Wikipedia](https://en.wikipedia.org/wiki/Yinchuan)
 - [**Fuju**]{#place-fuju} · Fuzhou, Fujian, China · FOO-joo. Fujian city near the coast, described just before Zayton. [Wikipedia](https://en.wikipedia.org/wiki/Fuzhou)
 - [**Fungul**]{#place-fungul} · Yibin (Suifu), Sichuan, China · fung-GOOL. River town downstream of Sindafu with competing identifications. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Yibin)
@@ -67,20 +69,22 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Hormos**]{#place-hormos} · Old Hormuz (Minab area), Iran · HOR-mos. The Book’s mainland Gulf port. Its exact site remains disputed. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Hormuz)
 - [**Ilkhan**]{#term-ilkhan} · Il-khan. Title of the Mongol rulers of Iran and neighbouring territories.
 - [**Java**]{#place-java} · Java, Indonesia. Large island the Book describes from report. [Wikipedia](https://en.wikipedia.org/wiki/Java)
-- [**Juju**]{#place-juju} · Zhuozhou, Hebei, China · JOO-joo (Juju); jee-OH-joo (Giogiu). Town on the southern road from Cambaluc. [Wikipedia](https://en.wikipedia.org/wiki/Zhuozhou)
+- [**Java the Less**]{#place-java-the-less} · Sumatra, Indonesia. The fleet’s reported monsoon stop. Yule identifies it with the Prologue’s “Java” [@yc, Prol. 18 n. 4]. [Wikipedia](https://en.wikipedia.org/wiki/Sumatra)
+- [**Juju**]{#place-juju} · Zhuozhou, Hebei, China · JOO-joo (Juju); jee-OH-joo (Giogiu). Town on the southern road from Cambaluc. Also written *Giogiu*. [Wikipedia](https://en.wikipedia.org/wiki/Zhuozhou)
 - [**Kaan**]{#term-kaan} · qa’an. The title the Book gives the Great Khan, the supreme ruler of the Mongol Empire.
 - [**Kelinfu**]{#place-kelinfu} · Jian'ou (Kien-ning), Fujian, China (provisional) · keh-lin-FOO. Fujian town the Book describes for marble bridges and silky-feathered fowl. [Wikipedia](https://en.wikipedia.org/wiki/Jian'ou)
 - [**Kenjanfu**]{#place-kenjanfu} · Xi'an, Shaanxi, China · ken-jan-FOO. Capital of Mangala’s appanage in the Book. [Wikipedia](https://en.wikipedia.org/wiki/Xi'an)
 - [**Keshican**]{#term-keshican} · keshig · keh-shee-KAN. Members of the Kaan’s imperial guard, which served in rotations [@yc, 2.12 n. 1].
 - [**Kiacatu**]{#person-gaykhatu} · Geikhatu · kee-ah-KAH-too. Ilkhan who, in the Book, gave the returning Polos four tablets of authority.
-- [**Kinsay**]{#place-kinsay} · Hangzhou, Zhejiang, China · KIN-say (Kinsay); kwin-SAY (Quinsay). Former Southern Song capital. Quinsay is another spelling of Polo’s name for it. From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. [Wikipedia](https://en.wikipedia.org/wiki/Hangzhou)
+- [**Kinsay**]{#place-kinsay} · Hangzhou, Zhejiang, China · KIN-say (Kinsay); kwin-SAY (Quinsay). Former Southern Song capital. Also written *Quinsay*. From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. [Wikipedia](https://en.wikipedia.org/wiki/Hangzhou)
 - [**Linju**]{#place-linju} · Linqing, Shandong, China · LIN-joo. Canal-road town conventionally placed at Linqing. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Linqing)
 - [**Litan**]{#person-li-tan} · Li Tan · lee-TAHN. Shandong commander who revolted against Kublai.
 - [**Lop**]{#place-lop} · Charklik / Ruoqiang, Xinjiang, China (provisional). Staging town at the desert crossing. [Wikipedia](https://en.wikipedia.org/wiki/Ruoqiang_Town)
 - [**Mangalai**]{#person-mangala} · Mangala · mang-ga-LYE. Kublai’s son who ruled from Kenjanfu.
 - [**Manzi**]{#place-manzi} · South China (south of the Yangzi) (provisional) · MAN-zee. The Book’s name for southern China, where the Southern Song had ruled. From Chinese *manzi*, a disparaging term for southern peoples [@yc, 2.47 n. 7]. [Wikipedia](https://en.wikipedia.org/wiki/Song_dynasty)
+- [**Mausul**]{#place-mausul} · Mosul, Iraq · maw-SOOL. Tigris city associated with muslin and several Christian communities. [Wikipedia](https://en.wikipedia.org/wiki/Mosul)
 - [**Mien**]{#place-mien} · Bagan / Myanmar (Pagan kingdom) (provisional) · mee-EN. Pagan kingdom described in the elephant battle account. [Wikipedia](https://en.wikipedia.org/wiki/Bagan)
-- [**Milione**]{#term-milione} · Il Milione · mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian). Polo’s nickname and a title of the book. Pozza identified the “Marco Polo Milion” in a 1319 confraternity list as the traveller [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s accounts of great wealth, while Jacopo d’Acqui linked it to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed a derivation from *Emilione*, which he took as a byname distinguishing Marco from other Polos [@vogel2013marco, p. xxiii].
+- [**Milione**]{#term-milione} · Il Milione · mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian). Polo’s nickname and a title of the book. Pozza identified him as the “Marco Polo Milion” in a 1319 confraternity list [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s tales of wealth and Jacopo d’Acqui to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed *Emilione* as the source, taking it as Marco’s byname [@vogel2013marco, p. xxiii].
 - [**Mongou**]{#person-mongke} · Möngke · MON-goo. Great Khan before Kublai, his younger brother.
 - [**Naccara**]{#term-naccara} · naqqāra · nah-KAH-rah. Kettledrum used as a battle signal in the Book [@yc, 2.4].
 - [**Nanghin**]{#place-nanghin} · Kaifeng (Yuan Nan-ching / Bianliang Lu), Henan, China (provisional) · NANG-ghin. Silk-producing locality. Pelliot favours Kaifeng, while Yule follows the Anqing reading. [Wikipedia](https://en.wikipedia.org/wiki/Kaifeng)
@@ -95,6 +99,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Pulisanghin**]{#place-pulisanghin} · Lugou (Marco Polo) Bridge, Beijing, China · poo-lee-sang-GEEN. Stone bridge southwest of Beijing on the road out of Cambaluc. Pelliot favours “bridge of the Sang-kan” [@pelliot1959notes, p. 812]. [Wikipedia](https://en.wikipedia.org/wiki/Marco_Polo_Bridge)
 - [**Rosia**]{#place-rosia} · Russia (Rus' lands) (provisional) · ROH-zee-ah. The northern Rus’ lands described in the Book. [Wikipedia](https://en.wikipedia.org/wiki/Kievan_Rus')
 - [**Saianfu**]{#place-saianfu} · Xiangyang, Hubei, China · sye-an-FOO. Fortified Song city famous for its siege and siege engines. [Wikipedia](https://en.wikipedia.org/wiki/Xiangyang)
+- [**Samara**]{#place-samara} · Samudera Pasai, Sumatra, Indonesia · sa-MAH-rah. Northern Sumatran kingdom associated with the fleet’s long wait. [Wikipedia](https://en.wikipedia.org/wiki/Samudera_Pasai_Sultanate)
 - [**Samarcan**]{#place-samarcan} · Samarkand, Uzbekistan · sa-mar-KAN. Central Asian city in the Book’s story of the miraculous pillar. [Wikipedia](https://en.wikipedia.org/wiki/Samarkand)
 - [**Sarai**]{#place-sarai} · Sarai (near Selitrennoye), Russia (provisional) · sah-RYE. Golden Horde capital on the lower Volga. The exact site is debated. Cordier records the interpretation “the Palace” [@yc, Prol. 2 n. 1]. [Wikipedia](https://en.wikipedia.org/wiki/Sarai_(city))
 - [**Sentemur**]{#person-esen-temur} · Esen-Temür · sen-teh-MOOR. Kublai’s grandson named as a king of Carajan.
@@ -116,7 +121,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Tyunju**]{#place-tyunju} · Dehua area, Fujian, China (provisional) · TYOON-joo. Porcelain town near Zayton, provisionally identified with Dehua. [Wikipedia](https://en.wikipedia.org/wiki/Dehua_County)
 - [**Unken**]{#place-unken} · Minhou (Hu-kwan), Fujian, China · OON-ken. Sugar town on the Fuju road. Houguan in the Minhou area is one of the proposed sites. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Minhou_County)
 - [**Venice**]{#place-venice} · Venice, Italy. The Polos’ home and the starting point of the journeys. [Wikipedia](https://en.wikipedia.org/wiki/Venice)
-- [**Vochan**]{#place-vochan} · Baoshan (Yongchang), Yunnan, China (provisional) · VO-chan. Town in the Gold-Teeth country and the setting for the Book’s battle account. [Wikipedia](https://en.wikipedia.org/wiki/Baoshan,_Yunnan)
+- [**Vochan**]{#place-vochan} · Baoshan (Yongchang), Yunnan, China (provisional) · VOH-chan. Town in the Gold-Teeth country and the setting for the Book’s battle account. [Wikipedia](https://en.wikipedia.org/wiki/Baoshan,_Yunnan)
 - [**Vughin**]{#place-vughin} · Wujiang, Jiangsu, China · VOO-ghin. Canal-road town tentatively identified with Wujiang. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Wujiang_District)
 - [**Vuju**]{#place-vuju-1} · Huzhou, Zhejiang, China (provisional) · VOO-joo. The Vuju the Book places a day from Suju. [Wikipedia](https://en.wikipedia.org/wiki/Huzhou)
 - [**Vuju**]{#place-vuju-2} · Jinhua (Wuzhou), Zhejiang, China (provisional) · VOO-joo. The Vuju on the road from Kinsay to Fuju, after Tanpiju. [Wikipedia](https://en.wikipedia.org/wiki/Jinhua)
@@ -125,6 +130,6 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Yanju**]{#place-yanju} · Yangzhou, Jiangsu, China · YAHN-joo. Canal city where Polo’s three-year role is disputed. [Wikipedia](https://en.wikipedia.org/wiki/Yangzhou)
 - [**yarligh**]{#term-yarligh} · yarlig · yar-LEEGH. Written order or decree issued under a Mongol ruler’s authority.
 - [**Zardandan**]{#place-zardandan} · Western Yunnan (Baoshan–Tengchong), China (provisional) · zar-dan-DAN. Gold-Teeth country on the southwestern frontier. The name means “gold teeth” in Persian [@yc, 2.50 n. 2].
-- [**Zayton**]{#place-zayton} · Quanzhou, Fujian, China · ZAY-ton. Quanzhou, the great trading port from which the return fleet sails in the Book. Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Quanzhou)
+- [**Zayton**]{#place-zayton} · Quanzhou, Fujian, China · ZAY-ton. Trading port where the Book’s return fleet embarks. Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Quanzhou)
 
 :::

@@ -1,10 +1,10 @@
 # I-06 — Tauris, Persia of the Three Kings, and the Eight Kingdoms
 
-**File:** `vol-1/ch-06-tauris-persia.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-06-tauris-persia.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,753 | 58% | — (n/a in Vol. I) | ok; [4] repeats [1] | no |
+| 1,826 | 2% | — (n/a in Vol. I) | ok [1–27] | no |
 
 **W4 voice pass (2026-11-23).** 1,816 words, 1% Yule overlap, zero errors and warnings. Notes 17–19 give the F-54 status, proposed copying error and Yule’s calculation.
 
@@ -71,7 +71,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-06.T6` Lint pass and human voice read
 
 ### I-06.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-06.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; nit 3 and nit 5 applied in body and Notes [18]–[19]) · **Depends:** S-06 ✓, `I-06.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
@@ -79,8 +79,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-06.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #19 (batch 5)
-- **Current lint (2026-11-24):** 1,815 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass sharpened Tauris gem-bazaar atmosphere, Magi fire-temple storytelling, horse-drive logistics, and Yasdi-to-Kerman outro into I-07; human voice read remains pending.
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #19 (batch 5)
+- **Current lint (2026-11-24):** 1,826 w · 2% verbatim · 0 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass sharpened Tauris gem-bazaar atmosphere, Magi fire-temple storytelling, horse-drive logistics, replaced the chapter-closing inventory recap (m9) on the Yasdi plain, and verified the outro into I-07.
 - **Earlier baseline:** 2,702 words · 58% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 3 · archaisms 5 · Book first person 2 · asides 2
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :23 (100%), :25 (100%), :27 (100%), :35 (74%), :37 (82%), :41 (96%).
@@ -95,7 +95,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-06.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-06.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Note [27] labelled `Ramusio-only.`, Notes [6] and [24] document shared V/Zelada/Ramusio) · **Depends:** S-03 ✓, `I-06.T3` (the flags are written during the re-voice pass)
 - **Now:** 2 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -103,8 +103,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-06-tauris-persia.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-06.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-06.T3` (re-voice renumbers Notes)
-- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 27 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-06.T3` (re-voice renumbers Notes)
+- **Now:** 27 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - "Dispute" label in Note(s) [11]: none remain — removed or merged 2026-11-17 (`APP.T2`/`APP.T9`).
   - Run `python3 tools/lint.py -v vol-1/ch-06-tauris-persia.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
@@ -112,7 +112,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-06.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-06.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-24; hero plate `#fig-i-6-saba-magi-tombs` and D (I-6) eight-kingdoms table placed and proofed) · **Depends:** S-08 ✓, `I-06.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-6) Eight kingdoms of Persia:** Create reference table listing the eight kingdoms/regions of Persia as described in the Book. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **Table structure suggestion:**
@@ -126,7 +126,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
 
 ### I-06.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 18 errors · 4 warnings — failing: archaism, asides, budgets, first_person, ramusio, scaffolding, verbatim, you_must_know; warnings: names, openers, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-06-tauris-persia.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -134,7 +134,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E18: later Genoese trade in Tabriz, not proof of a 1270s consulate or Polo visit. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E18 applied in body and Note [2], leaving the date of Polo's visit open). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## U-3 source handoff (2026-11-17)
 

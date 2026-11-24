@@ -253,7 +253,7 @@ local function Pandoc(doc)
         for _, entry in ipairs(list.content) do
           put(raw('\\noindent\\begin{minipage}[t]{\\linewidth}\\RaggedRight'))
           for _, x in ipairs(entry) do put(x) end
-          put(raw('\\end{minipage}\\par\\vspace{2pt}'))
+          put(raw('\\end{minipage}\\par\\vspace{1pt}'))
         end
       end
       put(raw('\\end{multicols}'))

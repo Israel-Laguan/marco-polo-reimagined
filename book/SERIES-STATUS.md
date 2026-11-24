@@ -4,7 +4,7 @@
 
 ## Overall
 
-- **Voice and Notes.** The v3 editorial pass covers all 40 chapters, including the closing reliability essay (III-12), and the 12 front and back matter files. All **52 manuscript files pass lint with zero errors**. Independent reader review and the human pronunciation review remain open.
+- **Voice and Notes.** The v3 editorial pass covers all 40 chapters, including the closing reliability essay (III-12), and the 12 front and back matter files. All **52 manuscript files pass lint with zero errors**. Independent reader review remains open. The editor approved the [glossary pronunciation house style](plans/tasks/cross/GLO-glossary.md) on 2026-11-24.
 - **Sources and companions.** The Notes, reading keys, glossaries, and companion references have been revised. The [revision plan](plans/content-revision-plan.md#w5--apparatus-normalisation) records remaining source checks and the Volume III *Further reading* proposal.
 - **Media placements.** All three volume proof PDFs now contain 36 newly placed or restored figures. The 23 November placement report records folios, plate numbers, effective resolution, source findings, inspected spreads and the remaining queue. All three PDFs built with zero placeholders and undersized-raster warnings. See the [placement report](plans/status/visual-placement-2026-11-23.md) and the [media credits](media/ATTRIBUTIONS.md) for details.
 

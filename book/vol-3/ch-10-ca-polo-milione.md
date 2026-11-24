@@ -91,7 +91,7 @@ By 1375, however, a Majorcan workshop with gold leaf and sea-charts in hand foun
 
 [17] ✓ Yule dates the treaty negotiated at Venice by Thibault de Cepoy and Pierre le Riche on behalf of Charles of Valois to 14 December 1306 [@yc, Introduction § 45]. Thibault's diplomatic stay in Venice created the occasion for acquiring a French copy of Marco's book.
 
-[18] ~ Two French manuscripts (Paris, BnF, fr. 5649, and Bern) carry the colophon note stating that Sire Marc Pol gave “the first copy” of his book to Thibault de Cepoy in Venice in August 1307 [@yc, Introduction § 45]. The note preserves a rare dated record of the author handing his work to an aristocratic patron.
+[18] ~ Two French manuscripts (Paris, BnF, fr. 5649, and Bern) carry the colophon note stating that Sire Marc Pol gave “the first copy” of his book to Thibault de Cepoy in Venice in August 1307 [@yc, Introduction § 45]. See [Timeline B5](ch-11-afterlives.md#fig-b5-reception) for the Cépoy notice and the 1319 confraternity entry.
 
 [19] ~ The same colophon traces Thibault’s son Jean de Cepoy presenting a copy to Charles of Valois and making further transcripts for friends [@yc, Introduction § 45]. That presentation channel helped launch the courtly Old French tradition of the Book across northern Europe.
 

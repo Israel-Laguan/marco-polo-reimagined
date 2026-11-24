@@ -95,7 +95,7 @@ For now leave them all in the hall at Chandu, among the silk robes and painted b
 
 [8] ~ William of Tripoli and his treatise on Islam dedicated to Tedaldo are independently attested in the material cited by Yule [@yc, Prol. 12 n. 1]. Nicolas of Vicenza and the joint papal commission to the Great Kaan come from the Book's account.
 
-[9] ~ Ramusio-only in Yule. Yule suspects exaggeration of the faculties and cites analogous bulls [@yc, Prol. 12 n. 2].
+[9] ~ Ramusio-only. Yule suspects exaggeration of the faculties and cites analogous bulls [@yc, Prol. 12 n. 2].
 
 [10] ~ Bundukdar is Baibars, the Mamluk sultan (Yule: reigned 1259–1276). The chronology of the attack as told is disputed [@yc, Prol. 12 n. 3].
 
@@ -119,12 +119,12 @@ For now leave them all in the hall at Chandu, among the silk robes and painted b
 
 [20] ? Pauthier, Yule, and Cordier debate candidate scripts including 'Phags-pa Mongol, Uighur, Arabic or Persian, Tibetan, and Chinese [@yc, Prol. 15 n. 1]. They compare the six-language Yuan inscription at the Juyong Pass and the chancellery practice of issuing orders in several scripts, though none of these comparisons settles which four the Prologue meant.
 
-[21] ~ The six months are the Prologue's estimate. Ramusio-only in Yule. The name Carajan is in his version [@yc, Prol. 15 n. 2].
+[21] ~ Ramusio-only in part. The six months are the Prologue's estimate, while the name Carajan appears in Ramusio's version [@yc, Prol. 15 n. 2].
 
 [22] ~ The envoy's education in observing local customs and novelties to satisfy the Kaan's curiosity comes from the Prologue [@yc, Prol. 15]. It supplies the Book's own explanation for why a young commissioner took note of strange manners and cities along his roads.
 
 [23] ~ The return, title, length of service, and court envy are the Book's account, while Pauthier's identification of a court official called *Po-lo* in 1277 with Marco is unproved and refers instead to Bolad [@yc, Prol. 15 n. 1; @yc, Prol. 16].
 
-[24] ~ Ramusio-only in Yule. The private business is in the bracketed passage [@yc, Prol. 16].
+[24] ~ Ramusio-only. The journeys on private business appear in the bracketed passage [@yc, Prol. 16].
 
-[25] ~ The requests and refusal are in the Prologue. Ramusio-only in Yule. The wealth and apprehension about the emperor's death are in bracketed passages [@yc, Prol. 17 n. 1; @yc, Prol. 18].
+[25] ~ Ramusio-only in part. The requests and refusal are in the Prologue, while the wealth in jewels and gold and the apprehension about the emperor's death appear in Ramusio's bracketed passages [@yc, Prol. 17 n. 1; @yc, Prol. 18].

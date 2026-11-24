@@ -1,6 +1,6 @@
 # GLO — Glossary
 
-**Status:** registry inclusion decisions complete (239/239) · Pronunciation house-style sign-off and page review pending · **Plan doc:** `multimedia-plan.md` § E
+**Status:** done 2026-11-24 · Pronunciation approved and proofs reviewed · **Plan doc:** `multimedia-plan.md` § E
 
 ## Scope
 The print replacement for the audio ideas is a back-of-volume glossary of places, people, titles and terms. Each entry gives the book form, the modern form where applicable, and a short gloss. A pronunciation hint appears where it helps with an unfamiliar form. The task also covers the I-1 parallel-text box (Franco-Italian Prologue opening beside Yule's English).
@@ -21,13 +21,19 @@ S-04 ✓ (place forms: `book_name` → `modern_name`, `aliases`; closed 2026-10-
 
 ## Tasks
 
-- **GLO.T1 — Entry lists.** The section is titled **Glossary** in each volume and its contents. Volumes I, II and III have 123, 121 and 116 entries. The [review checklist](../../registry/glossary-review.md) records 198 places, 24 people and 17 terms across the series. The volume assignments start with the registry chapter fields. The manuscript audit also checked Notes, tables, captions, maps and diagrams. The Volume I overview map, for example, brings in Kenjanfu, Sindafu and Talifu under their modern labels. [CHR.T3](CHR-characters.md#chrt3--glossary-entries-for-people-with-glo) verified coverage of all 24 people and added Abaga to Volume I on 2026-11-24.
-- **GLO.T2 — Respellings.** Omit hints for familiar English names and forms whose pronunciation is easy to look up. For a compound name, give a hint only for the unfamiliar part, as in **Desert of Lop (Pronounced LOP)**. Registry inclusion decisions are complete across all 239 rows (`211 Approved`, `28 Omit`), and the default English-reader policy has been applied: each entry gives one default reading (with hard-`g` `poo-lee-sang-GEEN` for *Pulisanghin*), adding a second reading only for explicit spelling variants (*Chandu* / *Ciandu*, *Juju* / *Giogiu*, *Kinsay* / *Quinsay*) and the Italian title *Milione*. Regenerated into the three volume glossaries with `python3 tools/glossary.py --write` from `book/`. Human pronunciation house-style sign-off remains pending before publication.
+- **GLO.T1 — Entry lists.** The section is titled **Glossary** in each volume and its contents. Volumes I, II and III have 125, 126 and 119 entries. The [review checklist](../../registry/glossary-review.md) records 198 places, 24 people and 17 terms across the series. The volume assignments start with the registry chapter fields and reflect appearances in the prose, Notes, tables, captions, maps and diagrams. The final audit added ten volume assignments for eight places. The shared route-map caption brings Chamba and Samara into Volumes I and II and Java the Less into Volume II. Derbend and Mausul also appear in Volume II, and Bangala, Fuju and Sarai in Volume III. [CHR.T3](CHR-characters.md#chrt3--glossary-entries-for-people-with-glo) verified coverage of all 24 people, including Abaga in Volume I.
+- **GLO.T2 — Respellings.** The editor approved the current readings and house style on 2026-11-24. The checklist records 211 entries with a hint and 28 that omit one. The hints give an English reading for unfamiliar forms and isolate the unfamiliar part of a compound where applicable, as in **Desert of Lop (Pronounced LOP)**. The second readings cover *Ciandu*, *Giogiu*, *Quinsay* and the Italian pronunciation of *Milione*. The final pass clarified the alternate spellings in their glosses and made the vowel explicit in *Soer*, *Vocan* and *Vochan*. Regenerate with `python3 tools/glossary.py --write` from `book/`.
 - **How to read this book.** The [Volume I opening guide](../../../vol-1/front-01-world-before-the-road.md) points readers to each volume’s glossary and [Wikipedia’s pronunciation respelling key](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key).
-- **GLO.T3 — I-1 parallel text.** The box pairs excerpts from the opening address through the invitation to have the Book read aloud, with an ellipsis in each panel. The wording was checked against the [publisher’s PDF, p. 35](https://doi.org/10.30687/978-88-6969-223-9/002) and the [local Yule–Cordier Prologue](../../../refs/yule-vol1.txt). Note [10] remains linked from the introduction.
+- **GLO.T3 — I-1 parallel text.** The box pairs excerpts from the opening address through the invitation to have the Book read aloud, with an ellipsis in each panel. The wording matches [Eusebi’s edition, p. 35](https://edizionicafoscari.it/media/pdf/books/978-88-6969-224-6/978-88-6969-224-6_69TdyXc.pdf) and the [local Yule–Cordier Prologue](../../../refs/yule-vol1.txt). The lead-in cites Note 14. Its print link runs from PDF page 28 to page 34.
 
-## Proof checks — 2026-11-21
+## Proof checks — 2026-11-24
 
-- PDF, HTML and EPUB built for all three volumes. Each contents link opens its glossary. The formats preserve entry order and place links. The Wikipedia API resolved all 174 distinct article URLs.
-- The print glossary starts on PDF page 165 in Volume I, 187 in Volume II and 155 in Volume III. The I-1 box sits side by side on PDF page 30, and stacks at narrow browser widths. Visual review covered the glossary pages and the Prologue box. The builds reported zero missing glyphs and unresolved citations.
-- The front-matter link and the Lop hint were verified in PDF, HTML and EPUB. They appear on PDF pages 9 and 168 of Volume I. All three glossaries and the updated opening guide pass lint. The full manuscript lint still reports existing issues. All 42 automated tests passed.
+- PDF, HTML and EPUB built for all three volumes. Each contents link opens its glossary, and all formats preserve the entry order and Wikipedia links. The Wikipedia API resolved all 178 distinct article URLs.
+- Visual review covered every two-column glossary page. The print entry spacing was tightened to keep Zayton on the final two-column glossary page in Volume I. The I-1 box sits side by side on PDF page 30 and stacks at narrow browser widths. The Volume I reading guide links to the respelling key on PDF page 9 and in the digital editions.
+- `tools/glossary.py --check` passed. The three PDFs report zero missing glyphs, unresolved citations, or line overruns of 10 pt or more. All 52 manuscript files passed lint, with one existing name-proximity warning in the Volume I reading guide. All 51 automated tests passed.
+
+| Volume | Glossary folios | PDF pages |
+|---|---:|---:|
+| I | 143–149 | 167–173 |
+| II | 193–200 | 217–224 |
+| III | 161–167 | 183–189 |

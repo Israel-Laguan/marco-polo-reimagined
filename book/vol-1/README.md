@@ -6,7 +6,7 @@
 
 This directory holds drafted chapters of Volume I (prologue through arrival at Chandu / Shangdu).
 
-**Status:** The first draft includes all 13 chapters and four front and back matter files. Re-voicing and human review are tracked in the [chapter tasks](../plans/tasks/chapters/vol-1/). See [series status](../SERIES-STATUS.md).
+**Status:** All 13 chapters and four front and back matter files have completed their Voice Guide v3, apparatus, and media passes (17/17 pass lint with zero errors). Task records live in [chapter tasks](../plans/tasks/chapters/vol-1/). See [series status](../SERIES-STATUS.md).
 
 ## Drafting conventions
 
@@ -19,7 +19,7 @@ Volume I chapters have no chapter tag.
 | File | Piece |
 |------|-------|
 | [front-01-world-before-the-road.md](front-01-world-before-the-road.md) | Historical context with timelines of Mongol politics and the Polo family |
-| [front-02-maps-outbound.md](front-02-maps-outbound.md) | Outbound place tables with a round-trip overview and a map of the Mongol realms in 1294 |
+| [front-02-maps-outbound.md](front-02-maps-outbound.md) | Outbound map index and place tables with the series round-trip overview (Map A1) |
 | *(chapters I-1–I-13 below)* | Narrative |
 | [back-01-trivia-and-disputes.md](back-01-trivia-and-disputes.md) | Trivia, disputed claims, and a timeline comparing dates in the Book with the historical record |
 | [back-02-glossary.md](back-02-glossary.md) | Glossary |

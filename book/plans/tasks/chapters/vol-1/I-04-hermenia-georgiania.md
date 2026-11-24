@@ -1,10 +1,10 @@
 # I-04 — Lesser and Greater Hermenia; Turcomania; Georgiania
 
-**File:** `vol-1/ch-04-hermenia-georgiania.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-04-hermenia-georgiania.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,375 | 49% | — (n/a in Vol. I) | orphan Note [15] | no |
+| 1,875 | 1% | — (n/a in Vol. I) | ok [1–28] | no |
 
 **W4 voice pass (2026-11-23).** Ayas trade leads to the mountain route. The Notes distinguish Paipurth, the provenance of reported material, the Baku gloss and Sasanian Derbend. Targeted lint: 1,808 words, 1% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–27.
 
@@ -64,13 +64,13 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-04.T1` Critical and factual fixes
-- `I-04.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `I-04.T6` Lint pass and human voice read
+- `I-04.T1` Critical and factual fixes — **done (2026-11-24).**
+- `I-04.T5` Media placement (figures, tables, captions) · S-08 ✓: **done (2026-11-24; hero plate `#fig-i-4-layas-quay` and Map A4 link placed and proofed).**
+- `I-04.T6` Lint pass and human voice read — **done (2026-11-24; E0 · W0).**
 
 ### I-04.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #22 (batch 6)
-- **Current lint (2026-11-24):** 1,868 w · 1% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass replaced "The Book" / "a man who" repetition with concrete scene openings and sensory pauses (Ayas quay, Turcoman uplands, Ararat pass timing, naphtha spring, Derbend bottleneck, St Leonard's fish), added marked Yule quote (*"a hundred shiploads"*), and tightened the outro into I-05; human voice read remains pending.
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #22 (batch 6)
+- **Current lint (2026-11-24):** 1,875 w · 1% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass replaced "The Book" / "a man who" repetition with concrete scene openings and sensory pauses (Ayas quay, Turcoman uplands, Ararat pass timing, naphtha spring, Derbend bottleneck, St Leonard's fish), added marked Yule quote (*"a hundred shiploads"*), removed the duplicated closing recap sentence (m9), and tightened the outro into I-05.
 - **Earlier baseline:** 2,330 words · 49% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 4 · archaisms 3 · Book first person 0 · asides 3
 - **Do:**
   - Retell to ≤ 15% verbatim. Worst blocks: :15 (84%), :19 (74%), :21 (77%), :29 (72%), :31 (72%), :33 (76%).
@@ -86,7 +86,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-04.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-04.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [12], [14], [20], [26] labelled `Ramusio-only.` / `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-04.T3` (the flags are written during the re-voice pass)
 - **Now:** 2 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -94,8 +94,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-04-hermenia-georgiania.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-04.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-04.T3` (re-voice renumbers Notes)
-- **Now:** 15 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 28 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-04.T3` (re-voice renumbers Notes)
+- **Now:** 28 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-04-hermenia-georgiania.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
@@ -104,7 +104,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-04.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 16 errors · 4 warnings — failing: archaism, asides, budgets, citations, ramusio, verbatim, you_must_know; warnings: names, ramusio, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-04-hermenia-georgiania.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -112,4 +112,4 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E1/E8: Sasanian Derbent and earlier Baku naphtha records. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E1/E8 Sasanian Derbend and earlier Baku naphtha records applied in body and Notes [16] and [22]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

@@ -46,7 +46,8 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Casem**]{#place-casem} · Kishm (Keshem), Badakhshan, Afghanistan (provisional) · KAH-sem. District on the approach to Badashan represented by the Kishm area. [Wikipedia](https://en.wikipedia.org/wiki/Kishim_District)
 - [**Cathay**]{#place-cathay} · North China (Yellow River basin) (provisional). The Book’s name for northern China. The name derives from the Khitan [@pelliot1959notes, s.v. Catai]. [Wikipedia](https://en.wikipedia.org/wiki/Cathay)
 - [**Chagannor**]{#place-chagannor} · No fixed modern identification · cha-gan-NOR. A palace of the Kaan on the way to Chandu.
-- [**Chandu**]{#place-chandu} · Shangdu (Duolun County), Inner Mongolia, China · CHAN-doo (Chandu); chee-AN-doo (Ciandu). Kublai’s summer capital, earlier called Kaiping. From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Shangdu)
+- [**Chamba**]{#place-chamba} · Central Vietnam (Champa coast) (provisional) · CHAM-bah. Cham kingdom where the Book reports an elephant tribute. [Wikipedia](https://en.wikipedia.org/wiki/Champa)
+- [**Chandu**]{#place-chandu} · Shangdu (Duolun County), Inner Mongolia, China · CHAN-doo (Chandu); chee-AN-doo (Ciandu). Kublai’s summer capital, formerly Kaiping. Variant *Ciandu* [@pelliot1959notes, pp. 256–57]. From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Shangdu)
 - [**Charchan**]{#place-charchan} · Qiemo (Cherchen), Xinjiang, China · char-CHAN. Oasis on the southern side of the Tarim Basin. [Wikipedia](https://en.wikipedia.org/wiki/Qiemo_County)
 - [**Chinghis**]{#person-chinghis} · Chinggis Khan · CHING-gis. Founder of the Mongol Empire and Kublai’s grandfather.
 - [**Chingintalas**]{#place-chingintalas} · No fixed modern identification · ching-in-TAH-las. Province the Book puts north of the Lop desert.
@@ -70,7 +71,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Greater Hermenia**]{#place-greater-hermenia} (Hermenia is pronounced her-MEE-nee-ah) · Armenian Highland (Turkey/Armenia). The Book’s name for the Armenian highland country.
 - [**Hormos**]{#place-hormos} · Old Hormuz (Minab area), Iran · HOR-mos. The Book’s mainland Gulf port. Its exact site remains disputed. Identification disputed. [Wikipedia](https://en.wikipedia.org/wiki/Kingdom_of_Hormuz)
 - [**Ilkhan**]{#term-ilkhan} · Il-khan. Title of the Mongol rulers of Iran and neighbouring territories.
-- [**Java the Less**]{#place-java-the-less} · Sumatra, Indonesia. Sumatra, where the Book says the fleet waited for the monsoon. [Wikipedia](https://en.wikipedia.org/wiki/Sumatra)
+- [**Java the Less**]{#place-java-the-less} · Sumatra, Indonesia. The fleet’s reported monsoon stop. Yule identifies it with the Prologue’s “Java” [@yc, Prol. 18 n. 4]. [Wikipedia](https://en.wikipedia.org/wiki/Sumatra)
 - [**Jerusalem**]{#place-jerusalem} · Jerusalem. Site of the Church of the Holy Sepulchre, from whose lamp the Polos fetched oil for the Kaan. [Wikipedia](https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre)
 - [**Kaan**]{#term-kaan} · qa’an. The title the Book gives the Great Khan, the supreme ruler of the Mongol Empire.
 - [**Kashan**]{#place-kashan} · Kashan, Iran (provisional). Persian caravan town mentioned in Odoric’s account of the Magi. [Wikipedia](https://en.wikipedia.org/wiki/Kashan)
@@ -78,14 +79,14 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Kerman**]{#place-kerman} · Kerman, Iran. Regional centre noted for turquoise and steel. [Wikipedia](https://en.wikipedia.org/wiki/Kerman)
 - [**Keshimur**]{#place-keshimur} · Kashmir (valley), India · kesh-ee-MOOR. Himalayan valley the Book describes from report. [Wikipedia](https://en.wikipedia.org/wiki/Kashmir)
 - [**King George**]{#person-king-george} · Körgüz of the Önggüd. Önggüd prince whom the Book calls a descendant of Prester John.
-- [**Kinsay**]{#place-kinsay} · Hangzhou, Zhejiang, China · KIN-say (Kinsay); kwin-SAY (Quinsay). Former Southern Song capital. Quinsay is another spelling of Polo’s name for it. From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. [Wikipedia](https://en.wikipedia.org/wiki/Hangzhou)
+- [**Kinsay**]{#place-kinsay} · Hangzhou, Zhejiang, China · KIN-say (Kinsay); kwin-SAY (Quinsay). Former Southern Song capital. Also written *Quinsay*. From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. [Wikipedia](https://en.wikipedia.org/wiki/Hangzhou)
 - [**Kisi**]{#place-kisi} · Kish (Qays) Island, Iran · KEE-see. Gulf island port in the trade between Baudas and the Indian Ocean. [Wikipedia](https://en.wikipedia.org/wiki/Kish_Island)
 - [**kumis**]{#term-kumis} · qymyz. Fermented mare’s milk.
 - [**Lesser Hermenia**]{#place-lesser-hermenia} (Hermenia is pronounced her-MEE-nee-ah) · Cilician Armenia, Turkey. Medieval Armenian kingdom around Cilicia and the port of Ayas. [Wikipedia](https://en.wikipedia.org/wiki/Armenian_Kingdom_of_Cilicia)
 - [**Lop**]{#place-lop} · Charklik / Ruoqiang, Xinjiang, China (provisional). Staging town at the desert crossing. [Wikipedia](https://en.wikipedia.org/wiki/Ruoqiang_Town)
 - [**Manzi**]{#place-manzi} · South China (south of the Yangzi) (provisional) · MAN-zee. The Book’s name for southern China, where the Southern Song had ruled. From Chinese *manzi*, a disparaging term for southern peoples [@yc, 2.47 n. 7]. [Wikipedia](https://en.wikipedia.org/wiki/Song_dynasty)
 - [**Mausul**]{#place-mausul} · Mosul, Iraq · maw-SOOL. Tigris city associated with muslin and several Christian communities. [Wikipedia](https://en.wikipedia.org/wiki/Mosul)
-- [**Milione**]{#term-milione} · Il Milione · mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian). Polo’s nickname and a title of the book. Pozza identified the “Marco Polo Milion” in a 1319 confraternity list as the traveller [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s accounts of great wealth, while Jacopo d’Acqui linked it to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed a derivation from *Emilione*, which he took as a byname distinguishing Marco from other Polos [@vogel2013marco, p. xxiii].
+- [**Milione**]{#term-milione} · Il Milione · mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian). Polo’s nickname and a title of the book. Pozza identified him as the “Marco Polo Milion” in a 1319 confraternity list [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s tales of wealth and Jacopo d’Acqui to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed *Emilione* as the source, taking it as Marco’s byname [@vogel2013marco, p. xxiii].
 - [**Mongou**]{#person-mongke} · Möngke · MON-goo. Great Khan before Kublai, his younger brother.
 - [**Natigay**]{#term-natigay} · Natigai · nah-tee-GYE. Name the Book gives a spirit associated with household and earthly affairs. Its precise identification is uncertain [@yc, 1.53; @yc, 2.34].
 - [**Negropont**]{#place-negropont} · Chalkida (Euboea), Greece · NEG-ro-pont. Venetian port and stopping point on the sea road home. [Wikipedia](https://en.wikipedia.org/wiki/Chalcis)
@@ -100,6 +101,7 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**Saba**]{#place-saba} · Saveh, Iran · SAH-bah. Persian town where the Book locates tombs of the Magi. [Wikipedia](https://en.wikipedia.org/wiki/Saveh)
 - [**Sachiu**]{#place-sachiu} · Dunhuang, Gansu, China · sa-CHOO. Major oasis on the Tangut route. [Wikipedia](https://en.wikipedia.org/wiki/Dunhuang)
 - [**Saianfu**]{#place-saianfu} · Xiangyang, Hubei, China · sye-an-FOO. Fortified Song city famous for its siege and siege engines. [Wikipedia](https://en.wikipedia.org/wiki/Xiangyang)
+- [**Samara**]{#place-samara} · Samudera Pasai, Sumatra, Indonesia · sa-MAH-rah. Northern Sumatran kingdom associated with the fleet’s long wait. [Wikipedia](https://en.wikipedia.org/wiki/Samudera_Pasai_Sultanate)
 - [**Samarcan**]{#place-samarcan} · Samarkand, Uzbekistan · sa-mar-KAN. Central Asian city in the Book’s story of the miraculous pillar. [Wikipedia](https://en.wikipedia.org/wiki/Samarkand)
 - [**Sapurgan**]{#place-sapurgan} · Shibarghan, Afghanistan · sa-poor-GAHN. Town on the approach to Balc. [Wikipedia](https://en.wikipedia.org/wiki/Sheberghan)
 - [**Sarai**]{#place-sarai} · Sarai (near Selitrennoye), Russia (provisional) · sah-RYE. Golden Horde capital on the lower Volga. The exact site is debated. Cordier records the interpretation “the Palace” [@yc, Prol. 2 n. 1]. [Wikipedia](https://en.wikipedia.org/wiki/Sarai_(city))
@@ -122,11 +124,11 @@ Some entries include a pronunciation hint. Capital letters mark the stressed syl
 - [**ulus**]{#term-ulus} · ulus · oo-LOOS. A Mongol domain and the people under its ruler.
 - [**Unc Can**]{#person-toghrul} · Toghrul, the Ong Khan of the Kereit · unk KAHN. Kereit ruler whom the Book calls Prester John.
 - [**Venice**]{#place-venice} · Venice, Italy. The Polos’ home and the starting point of the journeys. [Wikipedia](https://en.wikipedia.org/wiki/Venice)
-- [**Vocan**]{#place-vocan} · Wakhan Corridor, Afghanistan · VO-kan. Upper Oxus corridor leading to the Pamier. [Wikipedia](https://en.wikipedia.org/wiki/Wakhan)
+- [**Vocan**]{#place-vocan} · Wakhan Corridor, Afghanistan · VOH-kan. Upper Oxus corridor leading to the Pamier. [Wikipedia](https://en.wikipedia.org/wiki/Wakhan)
 - [**yam**]{#term-yam} · imperial relay. The Mongol relay network of stations, riders and fresh mounts.
 - [**Yanju**]{#place-yanju} · Yangzhou, Jiangsu, China · YAHN-joo. Canal city where Polo’s three-year role is disputed. [Wikipedia](https://en.wikipedia.org/wiki/Yangzhou)
 - [**Yarcan**]{#place-yarcan} · Yarkand (Yarkant), Xinjiang, China · yar-KAN. Tarim oasis between Cascar and Cotan. [Wikipedia](https://en.wikipedia.org/wiki/Yarkant_County)
 - [**Yasdi**]{#place-yasdi} · Yazd, Iran · YAZ-dee. Persian silk town on the road toward Kerman. [Wikipedia](https://en.wikipedia.org/wiki/Yazd)
-- [**Zayton**]{#place-zayton} · Quanzhou, Fujian, China · ZAY-ton. Quanzhou, the great trading port from which the return fleet sails in the Book. Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Quanzhou)
+- [**Zayton**]{#place-zayton} · Quanzhou, Fujian, China · ZAY-ton. Trading port where the Book’s return fleet embarks. Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. [Wikipedia](https://en.wikipedia.org/wiki/Quanzhou)
 
 :::

@@ -1,6 +1,8 @@
 # Glossary review checklist
 
-Read the suggestions aloud and mark each row **Approved** or **Omit**. Adjust the suggested reading in the same row when needed. The readings are English house suggestions for the book forms. Capitals show stress. Include a second reading only when it explains a distinct spelling variant named in the gloss (such as *Chandu* / *Ciandu*, *Juju* / *Giogiu*, or *Kinsay* / *Quinsay*) or the Italian book title *Milione*. An **Omit** decision keeps the entry and removes its suggested reading.
+The editor approved the current pronunciation house style and readings for all three volumes on 2026-11-24.
+
+For a new or revised entry, read the suggestion aloud and mark the row **Approved** or **Omit**. Adjust the suggested reading in the same row when needed. The readings are English house suggestions for the book forms. Capitals show stress. Include a second reading only when it explains a distinct spelling variant named in the gloss (such as *Chandu* / *Ciandu*, *Juju* / *Giogiu*, or *Kinsay* / *Quinsay*) or the Italian book title *Milione*. An **Omit** decision keeps the entry and removes its suggested reading.
 
 Use **Omit** for familiar English names or names whose pronunciation is easy to look up. When part of a name needs a hint, put the hint in parentheses beside the headword, as in “Desert of Lop (Pronounced LOP).”
 
@@ -29,7 +31,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | badashan | I | Badashan |  | ba-da-SHAHN | Mountain country noted for rubies and horses. |  | Approved |
 | place | baku | I | Baku |  | BAH-koo | Caspian city mentioned for its oil. |  | Omit |
 | place | balc | I | Balc |  | BALK | Ancient capital on the Afghan road to Badashan. |  | Omit |
-| place | bangala | II | Bangala |  | bang-GAH-lah | Reported frontier province. Its name and products suggest Bengal, while its position suggests Pegu. |  | Approved |
+| place | bangala | II III | Bangala |  | bang-GAH-lah | Reported frontier province. Its name and products suggest Bengal, while its position suggests Pegu. |  | Approved |
 | place | bargu | I | Bargu |  | BAR-goo | Northern plain in the Book, associated with the Lake Baikal region. |  | Approved |
 | place | basma | III | Basma |  | BAS-mah | Northern Sumatran kingdom in the Book’s description of rhinoceroses. |  | Approved |
 | place | bastra | I | Bastra |  | BAS-trah | Southern Iraqi port in the trade of Baudas. |  | Approved |
@@ -63,8 +65,8 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | cauly | II | Cauly |  | KOW-lee | Korea, named in the account of Nayan’s campaign. |  | Approved |
 | place | cayu | II | Cayu |  | KYE-yoo | Canal town noted for fishing, game and silk. |  | Approved |
 | place | chagannor | I | Chagannor |  | cha-gan-NOR | A palace of the Kaan on the way to Chandu. |  | Approved |
-| place | chamba | III | Chamba |  | CHAM-bah | Champa kingdom on the coast of what is now central Vietnam. |  | Approved |
-| place | chandu | I II III | Chandu |  | CHAN-doo (Chandu); chee-AN-doo (Ciandu) | Kublai’s summer capital, earlier called Kaiping. | From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. | Approved |
+| place | chamba | I II III | Chamba |  | CHAM-bah | Cham kingdom where the Book reports an elephant tribute. |  | Approved |
+| place | chandu | I II III | Chandu |  | CHAN-doo (Chandu); chee-AN-doo (Ciandu) | Kublai’s summer capital, formerly Kaiping. Variant *Ciandu* [@pelliot1959notes, pp. 256–57]. | From Chinese *Shangdu*, “Upper Capital” [@yc, 1.61 n. 2]. | Approved |
 | place | changan | II | Changan |  | CHANG-an | Canal-road town between Suju and Kinsay, provisionally linked with Jiaxing. |  | Approved |
 | place | changlu | II | Changlu |  | chang-LOO | Salt-working town on the northern canal corridor. |  | Approved |
 | place | changshan | II | Changshan |  | chang-SHAHN | Mountain crossing and town on the Fuju road. The modern location is debated. |  | Approved |
@@ -89,7 +91,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | cuncun | II | Cuncun |  | KOON-koon | Mountain country on the route south from Kenjanfu. The route through it is debated. |  | Approved |
 | place | curzola | I III | Curzola |  | kur-ZOH-luh | Adriatic island where the Venetian fleet was defeated in 1298. |  | Approved |
 | place | dagroian | III | Dagroian |  | da-GROY-an | Reported kingdom on the north coast of Sumatra. Its location is debated. |  | Approved |
-| place | derbend | I | Derbend |  | der-BEND | Caspian gateway identified in the Book with Alexander’s Iron Gate. |  | Approved |
+| place | derbend | I II | Derbend |  | der-BEND | Caspian gateway identified in the Book with Alexander’s Iron Gate. |  | Approved |
 | place | desert-of-lop | I | Desert of Lop |  | (Pronounced LOP) | The crossing where the Book tells of voices that mislead travellers. |  | Approved |
 | place | dogana | I | Dogana |  | do-GAH-nah | Polo’s apparent customs-house stop on the road to Badashan. |  | Approved |
 | place | dufar | III | Dufar |  | doo-FAR | Southern Arabian frankincense region. |  | Approved |
@@ -100,7 +102,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | etzina | I | Etzina |  | et-ZEE-nah | Ruined Tangut city on the desert road toward Caracoron. |  | Approved |
 | place | fansur | III | Fansur |  | fan-SOOR | Sumatran port on the camphor coast. |  | Approved |
 | place | ferlec | III | Ferlec |  | FER-lek | Northern Sumatran coastal kingdom associated with Perlak. |  | Approved |
-| place | fuju | II | Fuju |  | FOO-joo | Fujian city near the coast, described just before Zayton. |  | Approved |
+| place | fuju | II III | Fuju |  | FOO-joo | Fujian city near the coast, described just before Zayton. |  | Approved |
 | place | fungul | II | Fungul |  | fung-GOOL | River town downstream of Sindafu with competing identifications. |  | Approved |
 | place | ganfu | II | Ganfu |  | gan-FOO | Tidal port serving Kinsay in the Book. |  | Approved |
 | place | gauenispola | III | Gauenispola |  | gow-en-iss-POH-lah | Small island the Book places between Sumatra and the Nicobars. |  | Approved |
@@ -114,16 +116,16 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | happo | III | Happo |  | HAH-poh | Departure area in Goryeo for the northern fleet in the Japan invasions. |  | Approved |
 | place | hormos | I II III | Hormos |  | HOR-mos | The Book’s mainland Gulf port. Its exact site remains disputed. |  | Approved |
 | place | java | II III | Java |  | JAH-vah | Large island the Book describes from report. |  | Omit |
-| place | java-the-less | I III | Java the Less |  | JAH-vah the LESS | Sumatra, where the Book says the fleet waited for the monsoon. |  | Omit |
+| place | java-the-less | I II III | Java the Less |  | JAH-vah the LESS | The fleet’s reported monsoon stop. Yule identifies it with the Prologue’s “Java” [@yc, Prol. 18 n. 4]. |  | Omit |
 | place | jerusalem | I III | Jerusalem |  | juh-ROO-suh-lem | Site of the Church of the Holy Sepulchre, from whose lamp the Polos fetched oil for the Kaan. |  | Omit |
-| place | juju | II | Juju |  | JOO-joo (Juju); jee-OH-joo (Giogiu) | Town on the southern road from Cambaluc. |  | Approved |
+| place | juju | II | Juju |  | JOO-joo (Juju); jee-OH-joo (Giogiu) | Town on the southern road from Cambaluc. Also written *Giogiu*. |  | Approved |
 | place | kashan | I | Kashan |  | ka-SHAHN | Persian caravan town mentioned in Odoric’s account of the Magi. |  | Omit |
 | place | kelinfu | II | Kelinfu |  | keh-lin-FOO | Fujian town the Book describes for marble bridges and silky-feathered fowl. |  | Approved |
 | place | kenjanfu | I II | Kenjanfu |  | ken-jan-FOO | Capital of Mangala’s appanage in the Book. |  | Approved |
 | place | kerman | I III | Kerman |  | ker-MAHN | Regional centre noted for turquoise and steel. |  | Omit |
 | place | keshimur | I | Keshimur |  | kesh-ee-MOOR | Himalayan valley the Book describes from report. |  | Approved |
 | place | kesmacoran | III | Kesmacoran |  | kes-ma-ko-RAN | Makran coast on the way toward the Persian Gulf. |  | Approved |
-| place | kinsay | I II III | Kinsay |  | KIN-say (Kinsay); kwin-SAY (Quinsay) | Former Southern Song capital. Quinsay is another spelling of Polo’s name for it. | From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. | Approved |
+| place | kinsay | I II III | Kinsay |  | KIN-say (Kinsay); kwin-SAY (Quinsay) | Former Southern Song capital. Also written *Quinsay*. | From Chinese *xingzai*, the court’s temporary seat [@luo2024designations, pp. 386–89]. | Approved |
 | place | kisi | I III | Kisi |  | KEE-see | Gulf island port in the trade between Baudas and the Indian Ocean. |  | Approved |
 | place | lambri | III | Lambri |  | LAM-bree | Medieval Lamuri, on the Aceh headland. |  | Approved |
 | place | lar | III | Lar |  | LAR | Region the Book associates with Brahmans and merchants. |  | Omit |
@@ -137,7 +139,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | malaiur | III | Malaiur |  | ma-lye-OOR | Reported polity provisionally identified with Malayu in the Jambi region. |  | Approved |
 | place | male-and-female | III | Male and Female |  | MAYL and FEE-mayl | Two islands paired in the Book, with no secure identification. |  | Omit |
 | place | manzi | I II III | Manzi |  | MAN-zee | The Book’s name for southern China, where the Southern Song had ruled. | From Chinese *manzi*, a disparaging term for southern peoples [@yc, 2.47 n. 7]. | Approved |
-| place | mausul | I | Mausul |  | maw-SOOL | Tigris city associated with muslin and several Christian communities. |  | Approved |
+| place | mausul | I II | Mausul |  | maw-SOOL | Tigris city associated with muslin and several Christian communities. |  | Approved |
 | place | melibar | III | Melibar |  | MEL-i-bar | Southwestern coast of India in the Book. |  | Approved |
 | place | mien | II III | Mien |  | mee-EN | Pagan kingdom described in the elephant battle account. |  | Approved |
 | place | mutfili | III | Mutfili |  | moot-FEE-lee | Eastern Indian kingdom associated with Rudrama and the port of Motupalli. |  | Approved |
@@ -160,10 +162,10 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | saba | I III | Saba |  | SAH-bah | Persian town where the Book locates tombs of the Magi. |  | Approved |
 | place | sachiu | I | Sachiu |  | sa-CHOO | Major oasis on the Tangut route. |  | Approved |
 | place | saianfu | I II III | Saianfu |  | sye-an-FOO | Fortified Song city famous for its siege and siege engines. |  | Approved |
-| place | samara | III | Samara |  | sa-MAH-rah | Northern Sumatran kingdom associated with the fleet’s long wait. |  | Approved |
+| place | samara | I II III | Samara |  | sa-MAH-rah | Northern Sumatran kingdom associated with the fleet’s long wait. |  | Approved |
 | place | samarcan | I II III | Samarcan |  | sa-mar-KAN | Central Asian city in the Book’s story of the miraculous pillar. |  | Approved |
 | place | sapurgan | I | Sapurgan |  | sa-poor-GAHN | Town on the approach to Balc. |  | Approved |
-| place | sarai | I II | Sarai |  | sah-RYE | Golden Horde capital on the lower Volga. The exact site is debated. | Cordier records the interpretation “the Palace” [@yc, Prol. 2 n. 1]. | Approved |
+| place | sarai | I II III | Sarai |  | sah-RYE | Golden Horde capital on the lower Volga. The exact site is debated. | Cordier records the interpretation “the Palace” [@yc, Prol. 2 n. 1]. | Approved |
 | place | savast | I | Savast |  | sah-VAST | Anatolian city associated with the tradition of St Blaise. |  | Approved |
 | place | scotra | III | Scotra |  | SKO-trah | Island off the Horn of Africa, associated in the Book with Christians and ambergris. |  | Approved |
 | place | seilan | III | Seilan |  | say-LAHN | Island described for its rubies and the pilgrimage to Adam’s Peak. |  | Approved |
@@ -173,7 +175,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | sinju-1 | I | Sinju |  | SIN-joo | Province on the Tangut road in Volume I. |  | Approved |
 | place | sinju-2 | II | Sinju |  | SIN-joo | Canal and salt town near Yanju in Volume II. |  | Approved |
 | place | sinjumatu | II | Sinjumatu |  | sin-joo-mah-TOO | Canal city where the Book describes waterways dividing toward Cathay and Manzi. |  | Approved |
-| place | soer | III | Soer |  | SO-er | Omani port named in the Indian Ocean horse trade. |  | Approved |
+| place | soer | III | Soer |  | SOH-er | Omani port named in the Indian Ocean horse trade. |  | Approved |
 | place | soldaia | I | Soldaia |  | sol-DYE-uh | Crimean trading port where the elder Polos landed. |  | Approved |
 | place | soli | III | Soli |  | SOH-lee | Southeastern Indian country the Book describes for diamonds. |  | Approved |
 | place | sondur | III | Sondur |  | SON-door | Island named with Condur in the Book’s sailing directions. |  | Approved |
@@ -198,8 +200,8 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | ucaca | I | Ucaca |  | oo-KAH-kah | Volga town on the elder brothers’ road. |  | Approved |
 | place | unken | II | Unken |  | OON-ken | Sugar town on the Fuju road. Houguan in the Minhou area is one of the proposed sites. |  | Approved |
 | place | venice | I II III | Venice |  | VEN-iss | The Polos’ home and the starting point of the journeys. |  | Omit |
-| place | vocan | I | Vocan |  | VO-kan | Upper Oxus corridor leading to the Pamier. |  | Approved |
-| place | vochan | II | Vochan |  | VO-chan | Town in the Gold-Teeth country and the setting for the Book’s battle account. |  | Approved |
+| place | vocan | I | Vocan |  | VOH-kan | Upper Oxus corridor leading to the Pamier. |  | Approved |
+| place | vochan | II | Vochan |  | VOH-chan | Town in the Gold-Teeth country and the setting for the Book’s battle account. |  | Approved |
 | place | vughin | II | Vughin |  | VOO-ghin | Canal-road town tentatively identified with Wujiang. |  | Approved |
 | place | vuju-1 | II | Vuju |  | VOO-joo | The Vuju the Book places a day from Suju. |  | Approved |
 | place | vuju-2 | II | Vuju |  | VOO-joo | The Vuju on the road from Kinsay to Fuju, after Tanpiju. |  | Approved |
@@ -209,7 +211,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | place | yasdi | I | Yasdi |  | YAZ-dee | Persian silk town on the road toward Kerman. |  | Approved |
 | place | zanghibar | III | Zanghibar |  | zan-gee-BAR | East African coast region associated with Zanzibar. |  | Approved |
 | place | zardandan | II | Zardandan |  | zar-dan-DAN | Gold-Teeth country on the southwestern frontier. | The name means “gold teeth” in Persian [@yc, 2.50 n. 2]. | Approved |
-| place | zayton | I II III | Zayton |  | ZAY-ton | Quanzhou, the great trading port from which the return fleet sails in the Book. | Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. | Approved |
+| place | zayton | I II III | Zayton |  | ZAY-ton | Trading port where the Book’s return fleet embarks. | Arabic and Persian sources call it *Zaitūn*. Yule reports a proposed link with the old Chinese name *Citong* [@yc, 2.82 n. 2]. | Approved |
 | person | abaqa | I II III | Abaga |  | AH-bah-gah | Ilkhan who succeeded Hülegü. |  | Approved |
 | person | ahmad | II III | Achmath |  | AKH-mat | Finance minister in Kublai’s service, killed in a conspiracy. |  | Approved |
 | person | teguder | II | Acomat |  | AH-ko-mat | Ilkhan and uncle of Arghun, who deposed him. |  | Approved |
@@ -241,7 +243,7 @@ The pronunciation drafts draw on the [names research](../research/results/GAZ-na
 | term | kaan | I II III | Kaan | qa’an | KAHN | The title the Book gives the Great Khan, the supreme ruler of the Mongol Empire. |  | Omit |
 | term | keshican | II III | Keshican | keshig | keh-shee-KAN | Members of the Kaan’s imperial guard, which served in rotations [@yc, 2.12 n. 1]. |  | Approved |
 | term | kumis | I III | kumis | qymyz | KOO-miss | Fermented mare’s milk. |  | Omit |
-| term | milione | I II III | Milione | Il Milione | mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian) | Polo’s nickname and a title of the book. Pozza identified the “Marco Polo Milion” in a 1319 confraternity list as the traveller [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s accounts of great wealth, while Jacopo d’Acqui linked it to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed a derivation from *Emilione*, which he took as a byname distinguishing Marco from other Polos [@vogel2013marco, p. xxiii]. |  | Approved |
+| term | milione | I II III | Milione | Il Milione | mil-ee-OH-nay (anglicised) / mee-LYOH-neh (Italian) | Polo’s nickname and a title of the book. Pozza identified him as the “Marco Polo Milion” in a 1319 confraternity list [@vogel2013marco, pp. xxiii–xxiv]. Ramusio linked the name to Polo’s tales of wealth and Jacopo d’Acqui to family wealth [@bolognari2024chronica, pp. 38–39]. Baldelli Boni proposed *Emilione* as the source, taking it as Marco’s byname [@vogel2013marco, p. xxiii]. |  | Approved |
 | term | naccara | II III | Naccara | naqqāra | nah-KAH-rah | Kettledrum used as a battle signal in the Book [@yc, 2.4]. |  | Approved |
 | term | natigay | I II | Natigay | Natigai | nah-tee-GYE | Name the Book gives a spirit associated with household and earthly affairs. Its precise identification is uncertain [@yc, 1.53; @yc, 2.34]. |  | Approved |
 | term | ordo | II | ordo | ordu | OR-doh | The ruler’s court or camp, including its household and attendants. |  | Omit |

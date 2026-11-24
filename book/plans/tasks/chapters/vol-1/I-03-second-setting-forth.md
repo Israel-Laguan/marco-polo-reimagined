@@ -1,10 +1,10 @@
 # I-03 — The Second Setting-Forth: Pope, Oil, and the Boy Marco
 
-**File:** `vol-1/ch-03-second-setting-forth.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-03-second-setting-forth.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,621 | 34% | — (n/a in Vol. I) | ok [1–16] | no |
+| 1,813 | 0% | — (n/a in Vol. I) | ok [1–25] | no |
 
 **W4 voice pass (2026-11-23).** The court audience and Ayas quay are joined by the flask. Separate Notes cover the two road reconstructions, Gregory’s friars and the disputed scripts. Targeted lint: 1,825 words, 0% Yule overlap, 0 errors, 0 warnings. Current anchors are numbered 1–25.
 
@@ -69,7 +69,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-03.T6` Lint pass and human voice read
 
 ### I-03.T1 — Critical and factual fixes
-- **Status:** backlog · **Depends:** S-06 ✓, `I-03.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; F-39 hedged in Note [10]) · **Depends:** S-06 ✓, `I-03.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-39 (open): Note [7] reads "Bundukdar (Baibars), the Mamluk sultan (Yule: reigned 1259–1276)"; no 1277 until it is sourced.
@@ -77,7 +77,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-03.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #24 (batch 6)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #24 (batch 6)
 - **Current lint (2026-11-24):** 1,813 w · 0% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass reduced "The Book" repetition, sharpened Ayas quay logistics and Carajan mission pacing, added marked Yule quote (*"'tis my son and your liegeman"*), and checked the flask outro into I-04; human voice read remains pending.
 - **Earlier baseline:** 2,588 words · 34% verbatim · "You must know" 0 · "Anyway" 4 · formula hinges 6 · archaisms 3 · Book first person 0 · asides 4
 - **Do:**
@@ -94,7 +94,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-03.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-03.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [9], [21], [24], [25] labelled `Ramusio-only.` / `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-03.T3` (the flags are written during the re-voice pass)
 - **Now:** 1 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -102,8 +102,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-03-second-setting-forth.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-03.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-03.T3` (re-voice renumbers Notes)
-- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 25 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-03.T3` (re-voice renumbers Notes)
+- **Now:** 25 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-03-second-setting-forth.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
@@ -111,7 +111,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
 
 ### I-03.T5 — Media placement (figures, tables, captions)
-- **Status:** backlog · **Depends:** S-08 ✓, `I-03.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-24; Map A4, hero plate `#fig-i-3-presentation-at-kaiping`, and D (I-3) four-scripts table placed and proofed) · **Depends:** S-08 ✓, `I-03.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-3) The four scripts:** Create comparison table showing Pauthier's list vs Yule's options vs scripts actually in use. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **Table structure suggestion:**
@@ -124,7 +124,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines.
 
 ### I-03.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 17 errors · 1 warnings — failing: archaism, asides, budgets, quote_verify, ramusio, scaffolding, verbatim; warnings: sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-03-second-setting-forth.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -132,4 +132,4 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E7: Ayas bailie and Venetian commerce, as reported context. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E7 Ayas bailie and Venetian commerce applied in body aside and Note [7]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

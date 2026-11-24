@@ -1,10 +1,10 @@
 # I-13 — Chandu: Bamboo Palace, White Horses, Bacsi and Sensin
 
-**File:** `vol-1/ch-13-chandu.md` · **Status:** v3 drafted, reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-13-chandu.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,576 | 58% | — (n/a in Vol. I) | ok; [5] ★ marker; [8] and [10] empty | no |
+| 1,806 | 2% | — (n/a in Vol. I) | ok [1–24] | no |
 
 **W4 voice pass (2026-11-23).** 1,816 words, 2% Yule overlap, zero errors and warnings. Notes 6–10 give witness scope for the cane palace and correct Palladius’s placement of the Palm Hall. Note 11 carries the C17 comparison.
 
@@ -65,12 +65,12 @@ Each item cites its critique ID (`vol-1.md` C1/M3/m4/nit) and `file:line`. It ho
 
 ## Tasks
 _Created after the gating spikes close. Expected shapes:_
-- `I-13.T1` Critical and factual fixes
-- `I-13.T5` Media placement (figures, tables, captions) · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
-- `I-13.T6` Lint pass and human voice read
+- `I-13.T1` Critical and factual fixes — **done (2026-11-24; Palm Hall in Cambaluc Longfu Palace vs Sa Dula's Shangdu palm-fibre tower applied in body aside and Notes [9]–[10]).**
+- `I-13.T5` Media placement (figures, tables, captions) · S-08 ✓: **done (2026-11-24; Diagram C16 `#fig-c16-cane-palace-roof` and hero plate `#fig-i-13-mares-milk-libation` placed and proofed).**
+- `I-13.T6` Lint pass and human voice read — **done (2026-11-24; E0 · W0).**
 
 ### I-13.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #20 (batch 5)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #20 (batch 5)
 - **Current lint (2026-11-24):** 1,806 w · 2% verbatim · 1 quotes · 1 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate.
 - **Literary & storytelling pass (2026-11-24):** Varied opener from I-12 outro; added verified Yule quote (*"all gilt and painted"*); sharpened contrast between surface spectacle and unseen labour (gerfalcon keepers, cane-palace dismantling, sacred white mares, Bacsi/Sensin double ledger); refined outro bridge into Volume II (II-01). Human voice review remains open.
 - **Earlier baseline:** 2,617 words · 58% verbatim · "You must know" 2 · "Anyway" 3 · formula hinges 3 · archaisms 4 · Book first person 0 · asides 3
@@ -87,7 +87,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-13.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-13.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Notes [6], [18] labelled `Ramusio-only.` / `Ramusio-only in part.`) · **Depends:** S-03 ✓, `I-13.T3` (the flags are written during the re-voice pass)
 - **Now:** 4 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -95,8 +95,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-13-chandu.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-13.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-13.T3` (re-voice renumbers Notes)
-- **Now:** 17 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 24 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-13.T3` (re-voice renumbers Notes)
+- **Now:** 24 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - 3 ★ rating(s): handled by the `APP.T2` sweep; here, check that none remain and that merged "★ Dispute:" text reads as a proper clause.
   - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
@@ -109,7 +109,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-13.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 21 errors · 2 warnings — failing: archaism, asides, budgets, markers, ramusio, scaffolding, verbatim, you_must_know; warnings: ramusio, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-13-chandu.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -117,4 +117,4 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E6 and E1/E2/E7: UNESCO property extent and qualified cane-palace evidence. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E6 UNESCO extent and E1/E2/E7 cane-palace evidence applied in Notes [2], [9]–[10]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.

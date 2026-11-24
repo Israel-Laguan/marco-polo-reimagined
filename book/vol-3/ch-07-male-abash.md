@@ -95,7 +95,7 @@ Step down out of those breezy highlands straight onto Aden’s blistering harbou
 
 [16] ? Andreose argues that Zelada’s *Mogdaxo*, V’s *Madaschor* and the *Mogclasio* of F’s chapter index preserve stages of a scribal misreading of Mogadishu. Pelliot proposes the same identification [@andreose2024textual, pp. 76–77; @pelliot1959notes, vol. 2, pp. 779–781].
 
-[17] ~ Contrasting twenty-day southbound runs from Maabar against laborious three-month returns records the fierce Somali and Mozambique southward current magnified into a point of no return [@yc, 3.33 n. 4]. Arab pilots warned that vessels carried too far down the African channel struggled for months to beat back north.
+[17] ~ Contrasting twenty-day southbound runs from Maabar against laborious three-month returns records the fierce Somali and Mozambique southward current magnified into a point of no return [@yc, 3.33 n. 4]. Arab pilots warned that vessels carried too far down the African channel struggled for months to beat back north. See [Chart C11](ch-09-cocachin-return.md#fig-c11-monsoon-cocachin) for the Indian Ocean’s seasonal winds.
 
 [18] ~ Giant elephant-lifting eagles called *Ruc* replace European half-lion griffins with Arab *rukhkh* seafaring legends assembled by Yule [@yc, 3.33 n. 5]. Polo explicitly corrects his European listeners by insisting the bird is shaped like an colossal eagle rather than a winged quadruped.
 

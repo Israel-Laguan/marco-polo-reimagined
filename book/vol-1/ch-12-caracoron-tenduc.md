@@ -54,7 +54,7 @@ When a trooper rides out on campaign without his wagons, Marco’s eye drops str
 
 Orders travel as cleanly as the cavalry. However vast the host, a commander gives word to ten officers, each of whom passes it to ten below him. Two rank-names dropped out of the French manuscripts, yet the decimal chain stays clear [29]—commanding an army that can feign flight and still ambush a careless pursuer [30].
 
-![Diagram C4. The decimal army and the Book's names for its grades, two of them lost from the manuscripts, with Yule's glosses. *(Diagram: this edition, from the Book via Yule–Cordier.)*](../media/diagrams/C4-decimal-army.svg){#fig-c4-decimal-army}
+![Diagram C4. The Book's names for the grades of the decimal army alongside Mongol terms and Yule's glosses. *(Diagram: this edition, from Yule–Cordier and Timothy May.)*](../media/diagrams/C4-decimal-army.svg){#fig-c4-decimal-army}
 
 Out on the shared pastures, hot-iron brands let every herder sort his own cattle from his neighbour’s without fences, while shepherds watch the sheep [31]. Horse-thieves pay ninefold ransom; lesser thefts draw counted blows starting at seven [32]. Stranger still to European ears is the wedding of dead children: two bereaved families draw up a marriage contract, burn it, and commit paper dowries to the fire so the parents become kin as though the couple had lived [33].
 
@@ -82,7 +82,7 @@ From the cranes on the plain of Chagannor, three days in the saddle bring you to
 
 [3] ~ Caracoron is the historical Mongol capital in the Orkhon valley, though the Book does not establish that Marco visited it in person [@yc, 1.46 n. 1]. His description introduces a broad historical and ethnographic excursion on the steppe Mongols.
 
-[4] ~ Ramusio-only in Yule. The rampart, citadel and palace are in his bracketed passage [@yc, 1.46].
+[4] ~ Ramusio-only. The rampart, citadel and palace are in his bracketed passage [@yc, 1.46].
 
 [5] ✓ Rubruck describes the city and the silver tree; its maker was from Paris [@rockhill1900journey, account of Mongou’s palace at Caracarum]. Archaeology identifies the excavated Great Hall as a Buddhist temple. The palace under Erdene Zuu remains a proposal [@bemmann2021karakorum; @dai2015hall].
 
@@ -126,15 +126,15 @@ From the cranes on the plain of Chagannor, three days in the saddle bring you to
 
 [25] ? Pelliot follows Banzarov in linking Natigay, Carpini's Itoga and Etügen. Mostaert's reading, discussed by Ragagnin, is *Načigai*, attested in a fragment dated 1312 [@pelliot1959notes, vol. 2, “Natigai”; @ragagnin2017natigay].
 
-[26] ~ Ramusio-only in Yule. The opening of the chapter in his version gives the god of Heaven, the incense and the prayer [@yc, 1.53].
+[26] ~ Ramusio-only. The opening of the chapter in his version gives the god of Heaven, the incense and the prayer [@yc, 1.53].
 
-[27] ~ The kit and the use of dried milk belong to the Book. Ramusio-only in Yule. The preparation and the bottle churned by the ride are in the bracketed passage [@yc, 1.54 nn. 3–5].
+[27] ~ Ramusio-only in part. The kit and the use of dried milk belong to the Book, while the preparation and the bottle churned by the ride are in the bracketed passage [@yc, 1.54 nn. 3–5].
 
 [28] ~ The Book treats grazing and the capacity to travel without supplies as advantages. Its account includes prolonged endurance and drinking horse blood in extremity [@yc, 1.54 nn. 3–4].
 
-[29] ✓ Organizing steppe armies in decimal units of ten, a hundred, a thousand, and ten thousand (*tümen*) is a foundational Mongol military institution [@yc, 1.54 n. 2]. Yule supplies the Turkic and Mongol terms for the two command grades left blank in the French manuscripts; see [Diagram C4, the decimal army](#fig-c4-decimal-army).
+[29] ✓ Organizing the army in units of ten, a hundred, a thousand, and ten thousand is recorded in the *Secret History of the Mongols* [@derachewiltz2004secret, §§ 121 and 191]. The Book's French text leaves the names for ten and a thousand blank, and Yule gives Turkic parallels for both [@yc, 1.54 n. 2]. See [Diagram C4, the decimal army](#fig-c4-decimal-army).
 
-[30] ~ Polo gives the pursuing army's view of the mounted archers. The elaboration about avoiding a mêlée and pretending to flee is from Ramusio in Yule [@yc, 1.54 n. 6].
+[30] ~ Ramusio-only in part. Polo gives the pursuing army's view of the mounted archers, while the elaboration about avoiding a mêlée and pretending to flee is from Ramusio [@yc, 1.54 n. 6].
 
 [31] ~ Marking horses, cattle, and camels with each owner's brand allowed large herds to graze unpenned across shared pasturelands [@yc, 1.55 n. 2]. Flocks of sheep and goats, by contrast, required constant watching by mounted or foot shepherds.
 
@@ -144,17 +144,17 @@ From the cranes on the plain of Chagannor, three days in the saddle bring you to
 
 [34] ? Yule links Bargu with the Baikal region. The identification of the Mescript, whose animals are ridden in the story, is disputed [@yc, 1.56 n. 1].
 
-[35] ~ Ramusio-only in Yule. The moulting birds and fish are in the bracketed passage [@yc, 1.56 n. 2].
+[35] ~ Ramusio-only. The moulting birds and fish are in the bracketed passage [@yc, 1.56 n. 2].
 
 [36] ~ The nests, far northern ocean and different destinations for hawks are the Book's account. The North Star behind the traveller towards the south is an exaggeration [@yc, 1.56 nn. 3–4].
 
 [37] ✓ Yule identifies the shaggy wild and domesticated cattle of the Tangut highlands as yaks (*Bos grunniens*) [@yc, 1.57 nn. 1–3]. Their strength at the plough and burden-carrying across high mountain passes were prized throughout the Tibetan marches.
 
-[38] ~ Ramusio-only in Yule. The hair taken to Venice and the crosses are in bracketed passages [@yc, 1.57 n. 3].
+[38] ~ Ramusio-only. The hair taken to Venice and the crosses with domestic cattle are in bracketed passages [@yc, 1.57 n. 3].
 
 [39] ~ The animal is the Siberian or Alpine musk deer (*Moschus*), whose abdominal pod yields the prized perfume [@yc, 1.57 n. 4]. Polo mistakes the glandular secretion for congealed blood and gives the buck four tusks instead of its two elongated upper canines.
 
-[40] ~ Ramusio-only in Yule. The dried head and feet are a claim of the later witness [@yc, 1.57 n. 4].
+[40] ~ Ramusio-only. The dried head and feet brought to Venice are a claim of the later witness [@yc, 1.57 n. 4].
 
 [41] ~ The distinction between the white camlets and the rest belongs to the Book. Yule discusses several proposed identifications for the capital [@yc, 1.58 nn. 1–3].
 

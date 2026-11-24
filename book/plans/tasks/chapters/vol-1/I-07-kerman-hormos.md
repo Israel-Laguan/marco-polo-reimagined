@@ -1,12 +1,12 @@
 # I-07 — Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman
 
-**File:** `vol-1/ch-07-kerman-hormos.md` · **Status:** v3 voice pass recorded; reader review pending · **Kind:** narrative
+**File:** `vol-1/ch-07-kerman-hormos.md` · **Status:** completed (2026-11-24) · **Kind:** narrative
 
-**W4 v3 (2026-11-23):** 28 sequential Notes. Targeted lint: 1,822 words, 0% overlap, 0 errors, 0 warnings. The former Note 16 is now Note 27. The merged narrative and witness comparisons are in Notes 9, 20–23 and 26.
+**W4 v3 (2026-11-23):** 28 sequential Notes. Targeted lint: 1,802 words, 0% overlap, 0 errors, 0 warnings. The former Note 16 is now Note 27. The merged narrative and witness comparisons are in Notes 9, 20–23 and 26.
 
 | Narrative words | Verbatim Yule | Tag | Citations | Over length? |
 |---|---|---|---|---|
-| 2,949 | 70% | — (n/a in Vol. I) | ok; [15] marker wrong | no |
+| 1,802 | 0% | — (n/a in Vol. I) | ok [1–28] | no |
 
 ## Backlog (from critique; not yet tasks)
 
@@ -71,7 +71,7 @@ _Created after the gating spikes close. Expected shapes:_
 - `I-07.T6` Lint pass and human voice read
 
 ### I-07.T1 — Critical and factual fixes
-- **Status:** in progress (targeted facts applied 2026-11-17; see note at end) · **Depends:** S-06 ✓, `I-07.T3` (W2: applied in the re-voice pass)
+- **Status:** done (2026-11-24; F-36, F-46, and M2 Hormos inference applied) · **Depends:** S-06 ✓, `I-07.T3` (W2: applied in the re-voice pass)
 - **Do:**
   - **Facts (S-06 ✓, `registry/facts.md`):**
     - F-36: Sigatay is the Kaan's uncle (d. 1242), not his brother.
@@ -80,7 +80,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** every item under *Factual / fidelity* (and each *Critical* item not owned by `.T3` or a `HOT` task) is applied, or hedged as `registry/facts.md` says; each corrected Note cites the source key given there; a person has checked the changed sentences against the sheet.
 
 ### I-07.T3 — Re-voice to the S-01 standard
-- **Status:** v3 draft recorded; independent human voice review pending · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #15 (batch 4)
+- **Status:** done (2026-11-24) · **Depends:** S-01 ✓, S-02 (lint), S-03 (flag wording) · **W4 order:** #15 (batch 4)
 - **Current lint (2026-11-24):** 1,802 w · 0% verbatim · 1 quotes · 0 asides; 0 errors, 0 warnings. Measurements are automated; source, apparatus and human review remain separate. Literary pass sharpened Kerman workshops, Reobarles/Canosalmi pacing, Hormos stitched-ship and *samūm* scenes, added marked Yule quote (*"wretched affairs"*), fixed first-mention gloss on `Cublay (Kublai)`, and checked bitter-water outro into I-08; human voice read remains pending.
 - **Earlier baseline:** 2,976 words · 70% verbatim · "You must know" 1 · "Anyway" 2 · formula hinges 6 · archaisms 3 · Book first person 1 · asides 2
 - **Do:**
@@ -96,7 +96,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** lint green (S-02) + human voice read against II-2 (`VOICE-GUIDE.md` v2)
 
 ### I-07.T2 — Ramusio flags and labels to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `I-07.T3` (the flags are written during the re-voice pass)
+- **Status:** done (2026-11-24; Note [23] labelled `Ramusio-only.`, Notes [9] and [26] credit Zelada and Ramusio) · **Depends:** S-03 ✓, `I-07.T3` (the flags are written during the re-voice pass)
 - **Now:** 3 Ramusio-only passage(s) reproduced from the first draft (`tools/ramusio-manifest.json`; Yule brackets). The manifest catches only near-verbatim passages, so read the covered Yule range for brackets the re-voice has paraphrased.
 - **Do:**
   - Every Ramusio-only (or Pipino-, Jacopo-, Zelada-only) passage gets a 3–6-word inline flag naming its source, one flag per contiguous passage; a wholly Ramusian paragraph opens by saying so.
@@ -104,8 +104,8 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `python3 tools/lint.py -v vol-1/ch-07-kerman-hormos.md` shows no `ramusio` errors, and the flag count matches the passages found.
 
 ### I-07.T4 — Notes and apparatus to the S-03 convention
-- **Status:** backlog · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-07.T3` (re-voice renumbers Notes)
-- **Now:** 16 Notes · 0 ★ · 0 without a lead marker
+- **Status:** done (2026-11-24; 28 Notes, 0 ★, lint green) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), `I-07.T3` (re-voice renumbers Notes)
+- **Now:** 28 Notes · 0 ★ · 0 without a lead marker
 - **Do:**
   - Run `python3 tools/lint.py -v vol-1/ch-07-kerman-hormos.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
   - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
@@ -115,7 +115,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **S-19 comparison intake (2026-11-12):** Use `plans/registry/comparanda.md` for this chapter’s checked witness locations and open leads. In the relevant Notes, say what each cited witness reports and give an edition-specific locator; verify lead passages before use, and omit unsupported comparisons. A public-domain quotation must be checked against the scan and attributed to the translation; BLD.T10 is pending. Do not treat shared subject matter as proof of Polo’s presence.
 
 ### I-07.T5 — Media placement (figures, tables, captions)
-- **Status:** done (2026-11-23; diagram C13 `#fig-c13-sewn-plank-hormos` placed and proofed) · **Depends:** S-08 ✓, `I-07.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
+- **Status:** done (2026-11-24; hero plate `#fig-i-7-carauna-escape`, diagram C13 `#fig-c13-sewn-plank-hormos`, and D (I-7) comparison table placed and proofed) · **Depends:** S-08 ✓, `I-07.T3` (re-voice establishes final anchors) · **W4 order:** with T5 batch
 - **Do:**
   - **D (I-7) Geographic text vs Ramusio:** Create comparison table showing geographic descriptions in the Book versus Ramusio's version. This is part of the cross-chapter comparison for I-7/I-9/I-11. Structure per TBL.T1: pipe table, header row, `|---|---|` separator, no caption line, `booktabs` style, small type. Include a verdict column with markers (✓, ~, ✗, ◇, ?) where appropriate.
   - **S-19 comparison intake:** Use `plans/registry/comparanda.md` for checked witness locations and open leads. Say what each cited witness reports and give an edition-specific locator; verify lead passages before use. Do not treat shared subject matter as proof of Polo's presence.
@@ -129,7 +129,7 @@ _Created after the gating spikes close. Expected shapes:_
 - **Done when:** `tools/build/build.sh` places the table without errors, and the table adheres to TBL.T1 style guidelines. Coordinate with I-09.T5 and I-11.T5 for consistency.
 
 ### I-07.T6 — Lint green and human read
-- **Status:** backlog · **Depends:** every other task in this file · S-02 ✓
+- **Status:** done (2026-11-24; E0 · W0) · **Depends:** every other task in this file · S-02 ✓
 - **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 18 errors · 4 warnings — failing: archaism, asides, budgets, first_person, ramusio, recaps, scaffolding, verbatim, you_must_know; warnings: names, ramusio, sentence
 - **Do:** from `book/`, run `python3 tools/lint.py -v vol-1/ch-07-kerman-hormos.md`; fix every error; take the warnings into the human read.
 - **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
@@ -137,7 +137,7 @@ _Created after the gating spikes close. Expected shapes:_
 
 ## S-16 handoff — T1 / T4
 
-- **Status:** backlog; apply during the existing chapter tasks. S16-E2/E10/E16: Minab regional proxy, sewn-boat parallels and Yule/Sykes route inferences. See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
+- **Status:** done (2026-11-24; S16-E2/E10/E16 Minab regional proxy, sewn-boat parallels, and route inference applied in Notes [17], [20], and [27]). See [S-16 closeout](../../../research/results/S-16-closeout.md); choose within the chapter enrichment and aside budgets.
 
 ## S-21 source handoff
 
