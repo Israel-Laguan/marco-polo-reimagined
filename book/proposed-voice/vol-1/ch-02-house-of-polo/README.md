@@ -18,7 +18,7 @@ Let's calmly analyze and revise I-02 (The House of Polo and the Elder Voyage) to
 1. Read @[book/proposed-voice/PROPOSED-VOICE-GUIDE.md], @[book/proposed-voice/BIG-PICTURE-NARRATION-PLAN.md], and this chapter's diagnostic brief @[book/proposed-voice/vol-1/ch-02-house-of-polo/README.md].
 2. Read the current chapter @[book/vol-1/ch-02-house-of-polo.md] and its fact/apparatus constraints in @[book/plans/tasks/chapters/vol-1/I-02-house-of-polo.md].
 3. First, show me your analysis and specific proposal for:
-   - Big-Picture Arc & Mode Cue: Narrative Arc: Follow Niccolò and Maffeo from Constantinople and Soldaia across the Volga and Bocara to Cublay's court and back to Venice.
+   - Big-Picture Arc & Mode Cue: Narrative Arc ("A family ventures out — and we go with them"): Show the Polos as real humans seeking profit and Venice's commercial reach from Constantinople and Soldaia, venturing east with a pouch of jewels into a changing world and finding far more than they bargained for as the Barca–Alaü war traps them and draws them across the Volga and Bocara to Cublay's court.
    - Pillar 1: Dramatic Introduction (catching the Incoming Baton — "From I-01: The Venetian trading house of Polo sending two brothers with a pouch of jewels across the Greater Sea." — and exploding with theatrical scale/stakes)
    - Pillar 2: Inserted Dramatic & "For Modern Audiences" Interludes
    - Pillar 3: Dramatic Outro (landing the closing image and handing off the Outgoing Baton — "To I-03: Returning to Venice in 1269 with the Kaan's golden tablet while the cardinals at Viterbo stall on electing a Pope, and young Marco waits.")
