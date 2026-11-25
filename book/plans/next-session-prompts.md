@@ -20,14 +20,18 @@ Continue from W5 in book/plans/content-revision-plan.md. The v3 Notes, companion
 Check the Volume III Further reading proposal against the works and audience described in book/FRONT-BACK-MATTER.md. For any source gap listed in W5 that you take up, cite the passage you checked, preserve the existing hedge until the evidence warrants a change, and update the matching Note and locator together. If you edit the apparatus, verify the affected references and run targeted lint. Leave a list of decisions still needed.
 ```
 
-### 3. Supporting images and targeted visual research
+### 3. Illustration editorial review
+
+Completed 2026-11-25. See the [editorial decisions and revised proof placements](status/visual-placement-2026-11-23.md#editorial-review--25-november-2026). The original handoff is below.
 
 ```text
-Continue the illustration and media pass from book/plans/status/visual-placement-2026-11-23.md. That report documents 36 placements across the three print proofs, the figures and restored map/diagram links, image credits, source findings, inspected spreads, successful volume builds, zero placeholders or undersized-raster warnings, and 49 passing tests. Read its remaining queue and choose the next unresolved item from the PLT and MAP task files.
+Review two unresolved illustration decisions for The Book of the Million in /home/anthony/code/marco-polo-reimagined. Start with book/plans/illustration-plan.md, book/plans/illustration-style-guide.md and book/plans/status/visual-placement-2026-11-23.md. Use the chapter anchors to find the printed assets, and open the artwork alongside the manuscript captions and accepted sidecars.
 
-Several draft scenes remain queued where the composition or period detail needs stronger evidence. First check whether the question is covered by the open Samara-camp spike or the existing visual research. For any unresolved detail that would change a caption or composition, record the source, what it supports, and the limit. A focused spike is appropriate when research is still needed.
+1. III-9, Cocachin's farewell. Inspect the artwork used in book/vol-3/ch-09-cocachin-return.md and the unplaced draft book/media/plates/III-9-departure-fleet.png. The chapter describes two golden tablets and the accepted court-farewell sidecar records seven visible tablets. Recommend whether to correct the image or qualify the caption. Decide separately whether the fleet draft adds enough alongside Map A16 and Diagram C11 to warrant placement.
 
-For each proposed next placement, verify the asset, rights, caption, chapter anchor and print destination. Add accepted assets using the established conventions, update book/media/ATTRIBUTIONS.md and the relevant chapter task, then update the placement report with printed folio, figure number, effective resolution and proof-check result. Build and inspect the affected volume. Report what was placed and what remains queued.
+2. Borderline period reviews. Find the printed hero plates whose accepted sidecars mark review.period as Borderline. Inspect each plate against its scene brief and printed caption. Recommend keeping it with a documented rationale, qualifying the caption, or revising the image. Reconcile claims such as the placement report's statement that I-9 passed every review item with the evidence in its sidecar.
+
+Present the decisions with the relevant images and file references. Once the editorial choices are agreed, update the affected assets, captions, sidecars, attribution entries and placement records. Rebuild the affected volumes and inspect the revised figures at their printed size.
 ```
 
 ## Earlier handoffs (2026-11-17)

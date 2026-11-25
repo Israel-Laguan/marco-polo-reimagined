@@ -24,7 +24,7 @@ Down from the saddle. As Polo tells it, Nescradin has the men lead their horses 
 
 — Stand for a moment at the edge of that wood. From the plain you could see the elephants turn. From here you’d hear the towers break before you knew where the animals were going.
 
-![Dismounted archers face elephant towers in a reconstruction of the battle described by Polo. The Book’s numbers are inflated, and the battle’s identification remains debated. *(Modern illustration in the manner of Pagan temple murals. Not a historical artifact. This edition.)*](../media/plates/II-8-vochan-battle.png){#fig-ii-8-vochan-battle}
+![Dismounted archers face elephant towers in a reconstruction of the battle described by Polo. The Book’s numbers are inflated, and the battle’s identification remains debated. The elephant towers, equipment, and dress are conjectural. *(Modern illustration in the manner of Pagan temple murals. Not a historical artifact. This edition.)*](../media/plates/II-8-vochan-battle.png){#fig-ii-8-vochan-battle}
 
 Back in the saddle, the Mongols close with the men who followed the elephants onto the field. This is the part of the tale that could fill a hall. Swords and maces come out, riders fall among the foot soldiers, and the noise in the Book could drown a clap of thunder. Polo gives the king the larger army and the Mongols the steadier hand. By midday the king’s line breaks. The cavalry gives chase, then turns back to the wood [10].
 

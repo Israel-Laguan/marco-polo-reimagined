@@ -2,7 +2,7 @@
 
 **Status:** 35 of 35 GEN hero slots placed and proofed, including all three S-10 pilots · **Plan docs:** `illustration-plan.md`, `illustration-style-guide.md`
 
-The [placement report](../../status/visual-placement-2026-11-23.md) lists the printed figures and the remaining draft decisions. Generator routes in the table are the original production specifications. The sidecars identify the actual route.
+The [placement report](../../status/visual-placement-2026-11-23.md) lists the printed figures. Its [November 25 editorial review](../../status/visual-placement-2026-11-23.md#editorial-review--25-november-2026) records the revised court and corsair plates, the unplaced fleet draft, and the decisions on the borderline period reviews. Generator routes in the table are the original production specifications. The sidecars identify the actual route.
 
 ## Scope
 Event illustrations: 35 generated (GEN) hero plates, 6 public-domain (PD) heroes, about 25 optional secondaries, plus retirement of six legacy illustrations. Cutaway bases for diagrams C12–C16 are produced here and labelled in `DIA`.
@@ -77,10 +77,10 @@ S-10 ✓ (generator and pilot, closed 2026-11-10: `media/plates/`, `plans/image-
 | `PLT.III-3` | Five months stranded at Samara | Javanese / Sumatran relief | L | Akool, first of its tradition | placed and proofed |
 | `PLT.III-4` | Pilgrims on Adam's Peak chains | Polonnaruwa murals | P | Akool, first of its tradition | placed and proofed |
 | `PLT.III-5` | Pearl divers and the shark-charmer | Chola temple mural | L | — | placed and proofed |
-| `PLT.III-6` | Corsair cordon off Malabar | Western Indian (Jain) palm-leaf | 4:1 | Akool, first of its tradition | placed and proofed |
+| `PLT.III-6` | Corsair cordon off Malabar, family aboard a corsair craft | Western Indian (Jain) palm-leaf | 4:1 | Akool, first of its tradition | revised and proofed 2026-11-25 |
 | `PLT.III-7` | The rukh carrying off an elephant | Persian *'aja'ib* (Qazwini) | P | Gemini chat, first of its tradition | placed and proofed |
 | `PLT.III-8` | The wind-catchers of Hormos | Baghdad school (al-Wasiti) | L | Akool, first of its tradition | placed and proofed |
-| `PLT.III-9` | Golden tablets; Cocachin and the fleet | YC (+ Ilkhan court: JT) | H | Akool (YC) + Gemini (JT) | placed and proofed |
+| `PLT.III-9` | Cocachin’s court farewell and the Polos’ two tablets | YC | H | Akool (YC) + Gemini (JT) | revised and proofed 2026-11-25 |
 | `PLT.III-10` | Jewels ripped from the Tartar coats | Venetian Gothic | P | Akool | placed and proofed |
 
 **No modern reference found (S-23, 2026-11-13):** I-7, I-8, I-9, II-5, II-6, II-7, II-9, III-3, III-4, III-5, III-6, III-7, III-8. These rest on period art and scholarship alone: expect more rounds, as for "first of its tradition". III-5 is already done; review it if a source turns up.

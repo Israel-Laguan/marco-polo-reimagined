@@ -1,14 +1,14 @@
 # Image generation guide — reproducing the plates locally
 
-How to make a plate candidate from this repo, as worked out in S-10 (2026-11-10). Rules, the review checklist and per-tradition negatives live in `illustration-style-guide.md`. This file covers only the mechanics.
+Use this guide to generate and file plate candidates. The S-10 pilot established the Akool and Gemini routes. Codex image generation supplied 32 of the 35 generated hero plates in the November 23 proofs. The [style guide](illustration-style-guide.md) defines the review checklist and per-tradition negatives. Each placed plate's sidecar records the route actually used.
 
 ## 1. Prerequisites
 
-- Python 3.10+ (the stdlib is enough; no `pip install`).
+- Python 3.10+ for the repository scripts (the standard library is sufficient).
 - ImageMagick (`convert`, `identify`), for cropping and upscaling.
-- API keys in your shell. **Never commit them.**
+- API keys for the Akool or NIM command-line routes. **Never commit them.**
   ```bash
-  export AKOOL_API_KEY=...      # main generator (paid: ~4 credits per image at 4k)
+  export AKOOL_API_KEY=...      # paid API, ~4 credits per image at 4k
   export NVIDIA_API_KEY=...     # optional: NIM FLUX.2 Klein (free; blocks many prompts)
   ```
   If the keys sit in a `.env` file: `set -a; . path/to/.env; set +a`.
@@ -30,6 +30,15 @@ NEGATIVE: text, calligraphy, inscription, seal, signature, <tradition-specific t
 Examples: `media/plates/prompts/II-13.txt`, `III-5.txt` (accepted) and `I-7.txt` (failed on Akool).
 
 ## 3. Generate candidates
+
+### Codex image generation
+
+1. Use the text from `media/plates/prompts/<plate>.txt` in the image-generation request, including the negative instructions. Save any revision prompt in the same directory.
+2. Attach eligible inputs under [style guide rule 9](illustration-style-guide.md#rules-for-every-plate). Record each attached file, its role, licence and credit in the sidecar. The [III-9 revision sidecar](../media/plates/III-9-court-farewell-palace-revised.yaml) shows how to record accepted character sheets.
+3. Save candidates under `media/plates/drafts/<plate>/`. Review them with the checklist below and record the rounds, corrective turns and selected file. The [II-6 sidecar](../media/plates/II-6-pulisanghin-bridge.yaml) records a corrective turn and the post-processing command.
+4. In the sidecar record the generator, the model version if shown, the date, prompt, negative instructions, input files, and post-processing. Use `version not disclosed` or `none, chat output` when the model version or job ID, respectively, is unavailable. File the accepted master and attribution as in §6.
+
+### Akool and NIM
 
 Run from `book/`:
 
@@ -71,13 +80,13 @@ Faces smeared in the raw image stay smeared: re-roll, don't upscale. Real-ESRGAN
 - Master: `media/plates/<vol>-<ch>-<slug>.png`.
 - Sidecar: `media/plates/<vol>-<ch>-<slug>.yaml`. Copy the shape of `II-13-west-lake-barges.yaml`: plate, tradition, caption (with the rule-1 label), generator, model, job id, date, prompt, negative, post-processing, and review notes.
 - Add a row to `media/ATTRIBUTIONS.md` § Generated plates.
-- Keep the rejected candidates in `media/plates/drafts/<plate>/` with their `.json` files. `drafts/s10-pilot/` holds the whole S-10 grid: `p1` = I-7, `p2` = II-13, `p3` = III-5; `akool` = round 1, `akool2` = round 2 with negatives, `klein` = NIM.
+- Keep rejected candidates in `media/plates/drafts/<plate>/` with their generation records when available. The S-10 grid is in `drafts/s10-pilot/`. The labels `p1`, `p2` and `p3` refer to I-7, II-13 and III-5. The labels `akool`, `akool2` and `klein` refer to the first Akool round, the second round with negatives, and NIM.
 
-## 7. Traditions the API model can't do (Ilkhanid)
+## 7. Gemini chat pilot (Ilkhanid)
 
-Flux Krea draws Safavid turbans for any "Persian miniature" prompt. **Ilkhanid plates use Gemini (chat app)**, which passed I-7 in two turns (the follow-up text is in `media/plates/I-7-carauna-escape.yaml`). Use a chat image model (GPT-image or Gemini, in their web chat) with `media/plates/prompts/I-7-chat.txt`.
+Flux Krea drew Safavid turbans in all eight I-7 pilot candidates. Gemini chat passed I-7 in two turns using `media/plates/prompts/I-7-chat.txt`. The [I-7 sidecar](../media/plates/I-7-carauna-escape.yaml) records the corrective follow-up.
 
-- Those models follow long prose and in-prompt "avoid" lists, so the negatives sit inside the text.
-- If the chat accepts an image, attach a public-domain *Jami' al-Tawarikh* folio as a **style** reference, e.g. Edinburgh Ms Or 20 f.110v on Wikimedia Commons. Add: "Use the attached only for style. Do not copy its composition."
+- Keep the negative instructions in the prompt text.
+- If using a folio as a style reference, follow the same input rules as for Codex. Ask the model to use the folio's style and create a new composition.
 - Other period references gathered by S-11 are in `media/references/` (*'aja'ib* birds for III-7, the *Mōko* scroll strips, Catalan Atlas sheets, LdM folios). Its README says which may be edit input and which are "look only" (BnF scans). Added 2026-11-13: Cocharelli folios (Genoese dress, counting house, harbour, interiors; edit OK outside the UK), the Annales Ianuenses pages and the Carte Pisane crop (look only), and the Singhasari statue photos (look only).
 - Save the result into `media/plates/drafts/I-7/`, with a `.json` or `.yaml` noting the chat model, date and prompt. Then review it as above.

@@ -1,10 +1,10 @@
-# Supporting visuals · 23 November 2026
+# Supporting visuals · 23 November 2026 proof snapshot
 
-The three volume proofs contain 53 new or restored placements: 35 modern hero illustrations (all 35 GEN hero slots placed and proofed), nine historical reproductions, eight diagrams (including the five cutaway and schematic diagrams C12–C16) and one map. The table below lists 59 illustration, diagram and map placements in the current proofs: those 53 new or restored placements plus six diagrams already present in the previous proof (C1, C4, C6, C7, C10 and C11). The PDFs contain 78 figure labels overall; the other 19 are maps, timelines and reference graphics tracked in their own ledgers. The review began with 44 generated PNGs (40 scene images including variants and four cutaway bases), ten historical JPEGs, 18 map pairs, 12 finished diagram pairs and six timeline pairs. All remaining queued hero plates and cutaway diagrams have been verified, captioned with their explicit evidential limits and comparanda, placed, and proofed. No placeholders or undersized rasters remain.
+The November 23 proofs contain 53 new or restored placements: 35 modern hero illustrations (all 35 GEN hero slots placed and proofed), nine historical reproductions, eight diagrams (including the five cutaway and schematic diagrams C12–C16) and one map. The table below lists 59 illustration, diagram and map placements in those proofs: the 53 new or restored placements plus six diagrams already present in the previous proof (C1, C4, C6, C7, C10 and C11). The PDFs contain 78 figure labels overall; the other 19 are maps, timelines and reference graphics tracked in their own ledgers. The review began with 44 generated PNGs (40 scene images including variants and four cutaway bases), ten historical JPEGs, 18 map pairs, 12 finished diagram pairs and six timeline pairs. All remaining queued hero plates and cutaway diagrams have been verified, captioned with their explicit evidential limits and comparanda, placed, and proofed. No placeholders or undersized rasters remain.
 
 ## Printed placements
 
-Numbers below are the shared figure sequence in this proof. Page numbers are the printed folios. The chapter links name stable figure destinations. Raster resolution is measured from the embedded image and its actual size on the page, including any enlargement already documented in a master’s sidecar. The inventory omits unchanged maps, timelines and other reference graphics.
+The figure numbers and printed folios below refer to the November 23 proofs and may shift in later builds. Use the chapter links to reach the stable figure anchors. Raster resolution is measured from the embedded image and its actual size on the page, including any enlargement already documented in a master’s sidecar. The inventory omits unchanged maps, timelines and other reference graphics.
 
 ### Volume II
 
@@ -74,7 +74,7 @@ Numbers below are the shared figure sequence in this proof. Page numbers are the
 | III-6 | [C10 · Height of the North Star](../../vol-3/ch-06-mutfili-kesmacoran.md#fig-c10-pole-star) | III.13 | 71 | vector |
 | III-7 | [The rukh carries off an elephant](../../vol-3/ch-07-male-abash.md#fig-iii-7-rukh-elephant) | III.14 | 83 | 385 |
 | III-8 | [The wind-catchers of Hormos](../../vol-3/ch-08-aden-hormos.md#fig-iii-8-hormos-windcatchers) | III.15 | 96 | 322 |
-| III-9 | [Golden tablets, Cocachin and the fleet](../../vol-3/ch-09-cocachin-return.md#fig-iii-9-court-farewell-palace-revised) | III.16 | 106 | 600 |
+| III-9 | [Cocachin’s court farewell](../../vol-3/ch-09-cocachin-return.md#fig-iii-9-court-farewell-palace-revised) | III.16 | 106 | 600 |
 | III-9 | [C11 · Monsoon months and Cocachin calendar](../../vol-3/ch-09-cocachin-return.md#fig-c11-monsoon-cocachin) | III.18 | 108 | vector |
 | III-10 | [Jewels ripped from the seams of the Tartar coats](../../vol-3/ch-10-ca-polo-milione.md#fig-iii-10-tartar-coat-jewels) | III.19 | 119 | 385 |
 | III-11 | [Marginalia in the Colombina Polo](../../vol-3/ch-11-afterlives.md#fig-colombina-notes) | III.20 | 133 | 510 |
@@ -92,7 +92,7 @@ Numbers below are the shared figure sequence in this proof. Page numbers are the
   - **II-6 (`#fig-ii-6-pulisanghin-bridge`, Plate II.19, p. 70, 600 ppi):** Historical check of the Lugou Bridge (Jin 1189–1192; Ming Jiajing embankment repairs) in Yule–Cordier (Bk II, ch. 35, n. 2, citing Magaillans, Ament, Intorcetta and Bretschneider) confirms that pre-1668 witnesses record thirteen arches before the flood of 25 July 1668 destroyed two arches and the Kangxi reconstruction of 1698 established the eleven-arch span and single lion-topped pilasters. The plate is placed facing Map A10 (p. 71) with a caption distinguishing the 1698 eleven-arch configuration from the thirteen arches in pre-1668 accounts and the twenty-four arches and double-lion columns in Polo.
   - **III-3 (`#fig-iii-3-samara-camp`, Plate III.8, p. 31, 322 ppi):** Closed spike [S-27](../spikes/S-27-samara-shore-camp.md) traced the wooden posts cited in Oetomo and Surachman 2012 (*Berkala Arkeologi Sangkhakala* 15.1: 142–154) to the 2008 Puslitbang Arkenas test pits at Lampoh Kota and Ulee Tanoh (~25 cm circular black-soil post-moulds at 30–40 cm depth, interpreted as decayed domestic house piles) alongside the 2010 Cot Astana *Kotak I* collapsed brick wall. Because neither deposit supplies a c. 1290 date or superstructure elevation, the modest shore-camp relief is placed with a caption distinguishing F and V’s wooden defences from Z and Ramusio’s ditches, five timber towers and two thousand men, and identifying the shelters, vessels and dress as conjectural. The linked [`s27-shelter-crop.png`](../../media/plates/drafts/III-3/s27-shelter-crop.png) is a retained detail crop from this accepted plate for comparison and proofing, not a separate candidate or placement.
 - Eight final hero plates and five cutaway diagrams were verified and placed:
-  - **I-9 (`#fig-i-9-balas-mines`, Plate I.20, p. 85, 322 ppi):** Reconstructed spinel mine in Badakhshan. Passes all review lines; caption explicitly states it is a reconstruction after Polo and balas rubies are spinels, not verified archaeological excavations.
+  - **I-9 (`#fig-i-9-balas-mines`, Plate I.20, p. 85, 322 ppi):** Reconstructed spinel mine in Badakhshan, placed with limits. The [accepted sidecar](../../media/plates/I-9-balas-mines.yaml) rates period and gem size Borderline and the sealing method Pass with limit. The caption identifies balas rubies as spinels and the operation as a reconstruction after Polo.
   - **II-1 (`#fig-ii-1-nayan-elephant-tower`, Plate II.5, p. 4, 600 ppi):** Nayan battle of 1287 with Kublai seated atop the 4-elephant timber tower. Passes all review lines (white tug standard, cross pennon on rebel side, older Kublai, no Polos on field). Caption notes the inflated spectacle totals.
   - **II-5 (`#fig-ii-5-paper-money`, Plate II.15, p. 58, 322 ppi):** Printing the Kaan's paper money. Blank sheet convention adheres to review guidelines; paired with the photograph of the Zhiyuan bronze plate and note (p. 59) and C1 diagram (p. 60).
   - **II-8 (`#fig-ii-8-vochan-battle`, Plate II.24, p. 98, 322 ppi):** Battle of Vochan in Pagan temple mural idiom. Dismounted archers shooting into elephant towers. Caption qualifies numbers and debated identity.
@@ -111,8 +111,36 @@ Numbers below are the shared figure sequence in this proof. Page numbers are the
 
 | Chapter or task | Editorial decision |
 |---|---|
-| All hero plates (`PLT.I-1` through `PLT.III-10`) | **Fully resolved and placed.** All 35 GEN hero plates are placed in the text, proofed across volumes 1–3, and catalogued in `ATTRIBUTIONS.md`. |
-| All cutaway diagrams (`DIA.C12` through `DIA.C16`) | **Fully resolved and placed.** All 5 cutaways are compiled into vector SVGs and PDFs with TikZ callouts, placed in chapters, and proofed. |
-| Queue status | **0 items remaining.** Hero plate queue and schematic cutaway queue are completely cleared. |
+| All hero plates (`PLT.I-1` through `PLT.III-10`) | **Placement complete.** All 35 GEN hero plates are placed in the text, proofed across volumes 1–3, and catalogued in `ATTRIBUTIONS.md`. |
+| All cutaway diagrams (`DIA.C12` through `DIA.C16`) | **Placement complete.** All 5 cutaways are compiled into vector SVGs and PDFs with TikZ callouts, placed in chapters, and proofed. |
+| Queue status | **0 outstanding placements** in the hero and schematic cutaway queues. |
+
+## Editorial review · 25 November 2026
+
+- **Cocachin’s court farewell.** The revised master shows two blank gold tablets, one in the Khan’s hand and one with the bowing Polo, as the Book describes for the three Polos. The revised caption attributes the count and qualifies the venue, staging, and participation of the Polos. The [seven-tablet master](../../media/plates/III-9-court-farewell-palace-revised.yaml) is superseded.
+- **Cocachin’s departure fleet.** The [fleet draft](../../media/plates/III-9-departure-fleet.yaml) stays unplaced. Its thirteen hulls follow Yule’s count, which differs from Moule–Pelliot’s fourteen. The speculative vessel forms and coastline add atmosphere. A16 and C11 already supply the route, possible stops, monsoons, and competing departure chronologies beside the farewell.
+- **Malabar corsairs.** The family now sails in a signalling corsair boat, in line with Polo’s account. The central merchant ship carries sailors and cargo. The caption distinguishes the reported fire or smoke relay from the imagined handheld signals and close spacing. The [previous master](../../media/plates/III-6-malabar-corsairs.yaml) is superseded.
+
+The folios below refer to the November 25 builds. The chapter figure anchors above still resolve to the printed placements. Each of the twelve Borderline period plates was checked in the proof, with its editorial disposition recorded below and the seven retention rationales in the linked sidecars.
+
+| Subject | Decision and sidecar | Plate | Folio | Effective ppi |
+|---|---|---|---:|---:|
+| I-9 Balas mines | [Retain with rationale](../../media/plates/I-9-balas-mines.yaml) | I.20 | 89 | 322 |
+| I-10 Pamier crossing | [Retain with rationale](../../media/plates/I-10-pamier-crossing.yaml) | I.21 | 99 | 600 |
+| I-11 Lop spirits | [Retain with rationale](../../media/plates/I-11-lop-spirits.yaml) | I.23 | 107 | 322 |
+| II-7 Exploding bamboo | [Qualify clothing, tack, and camp](../../media/plates/II-7-exploding-bamboo.yaml) | II.22 | 83 | 322 |
+| II-8 Vochan | [Qualify towers, equipment, and dress](../../media/plates/II-8-vochan-battle.yaml) | II.24 | 96 | 322 |
+| II-9 Dogs and tiger | [Qualify the onlookers, dress, and style](../../media/plates/II-9-dogs-and-tiger.yaml) | II.25 | 108 | 322 |
+| II-11 Xiangyang trebuchet | [Retain the turned variant with rationale](../../media/plates/II-11-xiangyang-trebuchet-turned.yaml) | II.30 | 134 | 322 |
+| III-2 Shoal rudders | [Retain with rationale](../../media/plates/III-2-shoal-rudders.yaml) | III.7 | 22 | 322 |
+| III-3 Samara camp | [Retain with rationale](../../media/plates/III-3-samara-camp.yaml) | III.8 | 31 | 322 |
+| III-4 Adam’s Peak | [Retain with rationale](../../media/plates/III-4-adams-peak-pilgrims.yaml) | III.9 | 42 | 385 |
+| III-6 Malabar corsairs | [Revise artwork and caption](../../media/plates/III-6-malabar-corsairs-family-revised.yaml) | III.12 | 70 | 600 |
+| III-8 Hormos wind-catchers | [Qualify the tower models and vessel](../../media/plates/III-8-hormos-windcatchers.yaml) | III.15 | 96 | 322 |
+| III-9 Cocachin’s court farewell | [Revise artwork and caption](../../media/plates/III-9-court-farewell-two-tablets.yaml) | III.16 | 106 | 600 |
+| III-9 A16 Return route | [Verify chapter placement](../../vol-3/ch-09-cocachin-return.md#fig-a16-cocachin-return) | III.17 | 107 | vector |
+| III-9 C11 Monsoon calendar | [Verify chapter placement](../../vol-3/ch-09-cocachin-return.md#fig-c11-monsoon-cocachin) | III.18 | 108 | vector |
+
+All three volumes rebuilt with zero placeholders, undersized-raster warnings, or overfull lines of 10 pt or more. Both revised images and their captions were inspected at proof size. The two masters each embed at 600 ppi. All 52 manuscript files passed lint, and all 51 tests passed.
 
 [Image credits and sidecars](../../media/ATTRIBUTIONS.md) · [Map ledger](../tasks/cross/MAP-maps.md) · [Plate ledger](../tasks/cross/PLT-plates.md)

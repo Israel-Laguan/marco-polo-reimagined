@@ -1,6 +1,7 @@
 plate: III-6
 title: Corsair cordon off Malabar
-status: accepted
+status: superseded
+superseded_by: media/plates/III-6-malabar-corsairs-family-revised.png
 tradition: Western Indian Jain palm-leaf painting
 caption: >-
   A corsair cordon off Malabar, with a family aboard the merchant vessel. The signalling and tactics are stylized. Modern illustration in the manner of Western Indian palm-leaf painting. Not a historical artifact.
@@ -21,7 +22,7 @@ post: >-
   convert media/plates/drafts/III-6/gpt-r1-1.png -crop 2172x543+0+90 +repage -filter Lanczos -resize 2700x675\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-6-malabar-corsairs.png
 review:
   script: Pass; no lettering or seals.
-  period: Borderline; garments and boats are generic; signalling is invented.
+  period: Borderline; garments and boats are generic; handheld torches are conjectural, and the smoke relay follows the Book.
   scene: Pass; boats encircle a family vessel and produce smoke.
   rule_6: Pass; no sacred figures.
   idiom: Borderline; strong Western Indian palette and profiles, but specific Jain palm-leaf idiom needs review.

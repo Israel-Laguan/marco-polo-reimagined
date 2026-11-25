@@ -1,6 +1,6 @@
 # Illustration Plan — Event Plates
 
-**Status:** draft v1 (2026-10-21) · **Rules:** `illustration-style-guide.md` · **Scene research:** `critique/vol-*.md` §4 (anchors, period notes and cautions for about 120 candidate scenes) · **Recurring figures:** `registry/character-cards.yaml` (S-05)
+**Status:** Hero plates and cutaway diagrams placed and proofed (2026-11-23) · **Rules:** `illustration-style-guide.md` · **Scene research:** `critique/vol-*.md` §4 (anchors, period notes and cautions for about 120 candidate scenes) · **Recurring figures:** `registry/character-cards.yaml` (S-05)
 
 ## Sourcing: real first, generated second
 
@@ -13,9 +13,9 @@ For several events, **a genuine public-domain artwork of that very subject exist
 
 **Licences (S-11, 2026-11-10):** sources, masters, captions and credit lines for every PD slot are in `registry/pd-sources.md`. BnF scans need a paid licence for commercial print, so I-2 and III-12 use free facsimiles instead (user's decision, 2026-11-10): Omont's 1907 monochrome reproduction for I-2, the Library of Congress's 1959 hand-coloured facsimile for III-12. III-7 found no commercial-use source and is now GEN.
 
-**Count:** 41 hero slots (40 chapters + the Vol. II frontispiece): **35 GEN + 6 PD**, plus about 25 optional secondaries. That is roughly 35–60 plates to commission, plus 5 cutaway bases for the multimedia plan (C12–C16).
+**Placed and proofed:** 41 hero plates (35 generated and 6 historical reproductions) for 40 chapters and the Vol. II frontispiece, plus all five multimedia cutaway diagrams (C12–C16).
 
-The [November placement report](status/visual-placement-2026-11-23.md) records the accepted files, print locations and queued scenes.
+The [November 23 proof snapshot](status/visual-placement-2026-11-23.md) records the placements and links to their chapter anchors. The [November 25 editorial review](status/visual-placement-2026-11-23.md#editorial-review--25-november-2026) records the revised plates, caption qualifications, and the decision to leave the fleet draft unplaced.
 
 ## Hero plates
 
@@ -41,7 +41,7 @@ Abbreviations:
 | I-8 | The Dry Tree alone on the plain | GEN | LdM marvel lens | P | A solitary tree and passing caravan; plane is one interpretation, species disputed | Legendary landmark; exact site and species uncertain |
 | I-9 | The balas-ruby mines under royal seal | GEN | Ilkhanid (JT) | L | Badakhshan highland dress; oil lamps; officers sealing stones | Balas rubies are spinels; mining scene follows Polo, not a verified excavation reconstruction |
 | I-10 | Crossing the Pamier: wild sheep and a fire that won't cook | GEN | Persianate (JT) | H | *Ovis poli*; snow plateau | Omit the horn cairns (Ramusio-only) |
-| I-11 | The straggler hears spirit voices in the Lop desert | GEN | **Dunhuang Mogao murals** (Yuan caves 3 and 465) | L | Night dunes; lone rider; phantom caravan faint | Folklore; "cavalcade" is Ramusio |
+| I-11 | The straggler hears spirit voices in the Lop desert | GEN | Dunhuang wall painting | L | Night dunes, lone rider, faint phantom caravan. The landscape and traveller are conjectural. | The ghostly caravan visualizes folklore. The cavalcade is a later Ramusio detail. |
 | I-12 | Cane divination before Chinggis's battle | GEN | Ilkhanid (JT) | L | Nestorian clerics, split canes, psalter; 1203; S-22 cue C5, C6 | Book theatre; site and date wrong |
 | I-13 | Mare's-milk libation as the court leaves Chandu | GEN | YC | H | White mares; shamans and lamas; cane palace with silk guy-cords and gilt dragon columns; S-22 cue C1, C2, C3 | — |
 
@@ -57,10 +57,10 @@ Abbreviations:
 | II-3 | The White Feast procession | GEN | YC | H | Everyone in white; tribute in nines; a *handful* of elephants and camels; S-22 cue C1, C2, C8 | "5,000 elephants" inflated |
 | II-4 | Kublai hunting | **PD** | Liu Guandao, *Khubilai Khan Hunting* (1280), a hanging scroll | P | — | Secondary Omont 1907, pl. 47, reproduces the later French elephant-litter scene |
 | II-5 | Printing the Kaan's paper money | GEN | Yuan woodblock (*pinghua*) | L | Mulberry-bark sheets; vermilion seal; clerks; check printing-block material for the scene | Pair with the licensed photo of a Zhiyuan plate and sheet; sheet's age unverified |
-| II-6 | Caravan crossing the Pulisanghin bridge | GEN | Yuan landscape / *jiehua* | H | Jin bridge; verify period-specific arch and lion details | Verify Polo's arch count against the selected witness |
-| II-7 | Green bamboo exploding in the night camp, Tebet marches | GEN | Dali kingdom scroll | L | Hobbled, hooded horses; Kham forest | — |
-| II-8 | Battle of Vochan: dismounted archers vs war elephants | GEN | **Pagan temple murals** | L | Howdah castles breaking into the trees; dozens, not 2,000 | Numbers inflated |
-| II-9 | Two great dogs hold a tiger at bay on the Cuiju road | GEN | Dali kingdom scroll | L | A **tiger** (the Book says "lion") | — |
+| II-6 | Caravan crossing the Pulisanghin bridge | GEN | Yuan landscape / *jiehua* | H | The printed plate follows the 1698 Kangxi rebuilding, with eleven arches and lion-topped posts. | Earlier accounts give thirteen arches. Polo gives twenty-four and describes columns resting on lower lions. [Printed caption](../vol-2/ch-06-pulisanghin-sindafu.md#fig-ii-6-pulisanghin-bridge) |
+| II-7 | Green bamboo exploding in the night camp, Tebet marches | GEN | Dali kingdom scroll | L | Hobbled, hooded horses; Kham forest | Clothing, tack, and camp arrangement are conjectural. |
+| II-8 | Battle of Vochan: dismounted archers vs war elephants | GEN | **Pagan temple murals** | L | Howdah castles breaking into the trees; dozens, not 2,000 | Numbers are inflated and identification is debated. Towers, equipment, and dress are conjectural. |
+| II-9 | Two great dogs hold a tiger at bay on the Cuiju road | GEN | Blue-green scroll interpretation from a Dali scroll brief | L | A **tiger** (the Book says "lion") | Onlookers and dress are imagined. |
 | II-10 | Song envoys surrender the seal to Bayan, 1276 | GEN | Southern Song academy (elegiac) | P | Lin'an outskirts; Empress Dowager Xie's envoys | Book compresses events; no "Hundred Eyes" |
 | II-11 | Counterweight trebuchet at Xiangyang | GEN | Ilkhanid (JT siege idiom, apt for Persian engineers) | L | Hinged box counterweight; Song walls across the Han | **No Venetians**: the Polos weren't there |
 | II-12 | Trackers haul a junk up the Kiang | GEN | Yuan landscape | H | Bamboo hawsers; Golden Island monastery | — |
@@ -77,15 +77,20 @@ Abbreviations:
 | III-3 | Five months stranded at Samara | GEN | Javanese / Sumatran relief | L | Junks at anchor; toddy-tappers; monsoon sky; a **modest** camp | Wooden defences appear in F and V; 2,000 men and ditches appear in Z and Ramusio. The scene illustrates textual accounts; no period Samara camp reference is established. |
 | III-4 | Pilgrims climbing Adam's Peak on iron chains | GEN | Polonnaruwa murals | P | Buddhist and Muslim pilgrims together | Dual tradition; don't resolve it |
 | III-5 | Pearl divers and the shark-charmer | GEN | Chola temple mural | L | Gulf of Mannar boats; stone weights; Brahman charmer on deck | The charm is belief |
-| III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Smoke-signal relay; families aboard | — |
+| III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Fire or smoke relay. Family aboard a corsair craft. | Handheld signals and close spacing are artistic choices. |
 | III-7 | The rukh carrying off an elephant | GEN | Persian *'aja'ib* painting (al-Qazwini manuscripts); S-11 found no PD copy free for commercial use | P | Elephant in the bird's talons; sea and coast below | Legend; Aepyornis in caption |
-| III-8 | The wind-catchers of Hormos at noon | GEN | Baghdad school (al-Wasiti) | L | Old mainland Hormuz; *bād-gīr* towers as a type; S-22 cue C7 | — |
-| III-9 | Kublai gives the Polos golden tablets; Cocachin and the fleet | GEN | YC | H | 'Phags-pa paiza; Cocachin **unmarried: braids, no *boqta*** (S-05); Cublay c. 75; 13 junks; S-22 cue C1, C4 | Port and year (1291 vs 1292) debated |
+| III-8 | The wind-catchers of Hormos at noon | GEN | Baghdad school (al-Wasiti) | L | Old mainland Hormuz; *bād-gīr* towers as a type; S-22 cue C7 | Tower forms draw on later examples. The harbour ship and rig are conjectural. |
+| III-9 | Cocachin’s court farewell and the Polos’ two tablets | GEN | YC | H | Two blank gold *paiza* for the three Polos. Cocachin **unmarried: braids, no *boqta*** (S-05), Cublay c. 75, S-22 cues C1 and C4. | Venue and staging are conjectural. The Polos’ participation rests on their account. Map A16 and Diagram C11 cover the voyage. |
 | III-10 | Jewels ripped from the seams of the Tartar coats | GEN | Venetian Gothic | P | 1295 Veneto-Byzantine interior; **no Salute domes**; S-22 cue C8 | Ramusio tradition: not a documented homecoming |
 | III-11 | Columbus's annotated copy | **PD** | Postils, Biblioteca Colombina (CC BY-SA photograph); alternative: the 1477 Creussner woodcut in Dibdin's 1822 facsimile | P | — | Notes by Columbus and his circle; dates and hand(s) visible in the crop uncertain. Do not imply the copy or postils were used before 1492; credit photographer. [Caption](registry/pd-sources.md) |
 | III-12 | Caravan of the Catalan Atlas (1375) | **PD** | Cresques workshop, from the LoC 1959 hand-coloured facsimile | H | — | Often read as the Polos; that is uncertain. Its inscription says it left Sarai for Cathay. Credit as a facsimile: its colours are not the original's |
 
-### Secondary plates (optional, about 25; pick after the heroes)
+### Printed secondary plates
+
+- **II-3:** [The Khan at table](../vol-2/ch-03-feasts-keshican.md#fig-khan-at-table), from Omont 1907, pl. 43, after fr. 2810, fol. 39r.
+- **II-4:** [The elephant litter](../vol-2/ch-04-hunt-traffic.md#fig-elephant-litter), from Omont 1907, pl. 47, after fr. 2810, fol. 42v. Polo supplies the crane and cast.
+
+### Optional secondary candidates
 
 - **Vol. I:**
   - Dawn at Curzola (I-1)
@@ -99,7 +104,6 @@ Abbreviations:
   - Steppe camp with ger-carts (I-12)
   - Kublai with a leopard on his crupper (I-13)
 - **Vol. II:**
-  - The elephant litter (II-4), placed from Omont 1907, pl. 47, after fr. 2810, fol. 42v. Polo supplies the crane and cast.
   - Yam runner with bells (II-5)
   - Roofed bridge market, Sindafu (II-6)
   - Salt-cake money (II-7)
@@ -139,9 +143,9 @@ The review step uses the scene's "must get right" and "caution" columns as a che
 - European ships in Asian harbours;
 - the wrong number of people (crowds where the text implies a few).
 
-## Pilot (before commissioning all 34)
+## S-10 pilot
 
-Three plates across very different traditions test whether the chosen generator can hold a regional idiom at all:
+The pilot tested whether the available generators could reproduce three distinct regional idioms.
 
 **Pilot 1 — I-7, Ilkhanid**
 
@@ -199,16 +203,18 @@ Three plates across very different traditions test whether the chosen generator 
         photographic realism.
 ```
 
-Judge each pilot plate on idiom fidelity, period errors, and whether a reader could mistake it for a real artifact (the caption must prevent that). Lock the generator and settings only after all three pass.
+The pilot assessed idiom fidelity, period errors, and whether a reader could mistake the image for a historical artifact.
 
 *S-10 result (2026-11-10):*
 - **Passed:** Pilot 2 (II-13) and Pilot 3 (III-5) with Akool Flux Krea plus a negative prompt (`media/plates/`).
 - **Failed:** Pilot 1 (I-7). The model draws Safavid-style turbaned riders, not *Jami' al-Tawarikh* Mongols, in 8 of 8 seeds.
-- **Ilkhanid, resolved the same day:** Gemini chat with `media/plates/prompts/I-7-chat.txt` plus one corrective follow-up passed (I-7 accepted). I-6, I-9, I-12, II-11, II-15 and III-9's Ilkhan half use that route.
+- **Ilkhanid, resolved the same day:** Gemini chat with `media/plates/prompts/I-7-chat.txt` plus one corrective follow-up passed for I-7. The pilot informed the original routes in the plate ledger. The sidecars identify the generator used for each placed master.
 
 ## S-17 caption and object handoff (2026-11-11)
 
-The CUHK catalog (`cuhkzhiyuanblocks`) describes *bronze* Zhiyuan printing blocks for 200 and 500 *wen*. It does not establish that an individual block was made in exactly 1287, nor identify the familiar 2-*guan* image; check a selected object's catalog and image rights before reproducing it. The Met paiza (`metpaiza1993256`) is late thirteenth-century iron with silver inlay, not Marco's identifiable personal tablet. S-17 did not verify a period-specific Lugou arch or lion count: check bridge history and restoration before a precise caption. These are caption references, not authorization to reuse images.
+The CUHK catalog (`cuhkzhiyuanblocks`) describes *bronze* Zhiyuan printing blocks for 200 and 500 *wen*. It does not establish that an individual block was made in exactly 1287, nor identify the familiar 2-*guan* image; check a selected object's catalog and image rights before reproducing it. The Met paiza (`metpaiza1993256`) is late thirteenth-century iron with silver inlay, not Marco's identifiable personal tablet. These are caption references, not authorization to reuse images.
+
+S-17 left the Jin-era bridge details open. The November 23 production review documented which features belong to the 1698 rebuilding and how the caption should describe the different arch counts. [Production findings](registry/visual-references.md#exemplum-divination-bridge-and-shore-camp--production-findings-23-november-2026)
 
 ## S-22 period cues (2026-11-13)
 

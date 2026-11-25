@@ -1,6 +1,7 @@
 plate: III-9
-title: Golden tablets, Cocachin and the fleet
-status: accepted
+title: Cocachin’s court farewell, palace revision
+status: superseded
+superseded_by: media/plates/III-9-court-farewell-two-tablets.png
 tradition: Yuan court painting
 caption: An imagined farewell at Kublai Khan’s court around 1291. The audience’s location and precise setting are
   not established, and the Polos’ participation rests on their own account. Modern illustration in the manner of
@@ -84,7 +85,7 @@ review:
   rule_6: Pass; no sacred figures.
   idiom: Pass; fine court contours and flat colour on silk.
   ground_and_aging: Pass; even silk aging.
-  artifact_risk: Caption identifies modern origin and separate vignette.
+  artifact_risk: Caption identifies modern origin and the conjectural setting.
   print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
   sidecar: Pass; prompt, route, process and provenance recorded.
   must_get_right_fleet: 'Not applicable: fleet moved to a separate companion plate.'

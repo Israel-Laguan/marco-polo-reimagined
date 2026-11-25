@@ -25,7 +25,7 @@ Two further rules:
 | I-5 | Mosul, Baghdad | Baghdad school (Arab painting) | al-Wasiti, *Maqamat* of al-Hariri (1237) | landscape miniature |
 | I-6 – I-9 | Tabriz, Persia, Kerman, Hormuz, Badakhshan | Ilkhanid Persian painting | Rashid al-Din, *Jami' al-Tawarikh* (Tabriz, c. 1306–14) | landscape miniature |
 | I-9 (Keshimur) | Kashmir | Western Himalayan Buddhist murals | Alchi monastery murals, Ladakh (c. 1200) | landscape |
-| I-10, I-11 | Kashgar, Khotan, Lop, Sachiu, Tangut | Dunhuang / Uyghur / Tangut Buddhist painting | Mogao caves at Dunhuang (Sachiu itself), incl. Yuan-era caves 3 and 465; Bezeklik murals (Turfan); Khara-Khoto Tangut paintings | landscape / hanging |
+| I-10, I-11 | Kashgar, Khotan, Lop, Sachiu, Tangut | Dunhuang / Uyghur / Tangut Buddhist painting | Mogao wall painting (Dunhuang), Bezeklik murals (Turfan) and Khara-Khoto Tangut paintings as regional style references. No matching period scene was found for I-11. | landscape / hanging |
 | I-12 | Mongol steppe, Chinggis | Ilkhanid Persian (the canonical Mongol imagery) | *Jami' al-Tawarikh* Mongol history folios | landscape miniature |
 | I-13, II-1 – II-4 | Shangdu, Dadu, court, hunt | Yuan court painting | Liu Guandao, *Khubilai Khan Hunting* (1280); Yuan imperial portrait album (Khubilai, c. 1294) | handscroll / hanging scroll |
 | II-2 (palace) | Dadu palace | Ruled-line architectural painting (*jiehua*) | Wang Zhenpeng (fl. 1280–1329) | handscroll |

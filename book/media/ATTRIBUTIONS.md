@@ -75,7 +75,7 @@ The sidecar `.yaml` files record prompts, generation details, and review for the
 | `plates/II-2-green-mount.png` | II-2 Elephants carry trees up the Green Mount | Yuan ruled-line architectural painting (jiehua) | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–2](plates/II-2-green-mount.yaml) |
 | `plates/II-5-paper-money.png` | II-5 Printing the Kaan's paper money | Yuan woodblock illustration (pinghua) | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–5](plates/II-5-paper-money.yaml) |
 | `plates/II-6-pulisanghin-bridge.png` | II-6 Caravan crossing the Pulisanghin bridge | Yuan landscape and ruled-line architectural handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–6](plates/II-6-pulisanghin-bridge.yaml) |
-| `plates/II-9-dogs-and-tiger.png` | II-9 Two dogs hold a tiger at bay | Dali kingdom scroll painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–9](plates/II-9-dogs-and-tiger.yaml) |
+| `plates/II-9-dogs-and-tiger.png` | II-9 Two dogs hold a tiger at bay | Blue-green scroll interpretation | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–9](plates/II-9-dogs-and-tiger.yaml) |
 | `plates/II-10-song-envoys.png` | II-10 Song envoys surrender the seal to Bayan | Southern Song academy painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–10](plates/II-10-song-envoys.yaml) |
 | `plates/II-11-xiangyang-trebuchet.png` | II-11 Counterweight trebuchet at Xiangyang | Ilkhanid Jami al-Tawarikh siege illustration | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Draft](plates/II-11-xiangyang-trebuchet.yaml) |
 | `plates/II-12-kiang-trackers.png` | II-12 Trackers haul a junk up the Kiang | Yuan landscape handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–12](plates/II-12-kiang-trackers.yaml) |
@@ -92,7 +92,7 @@ The sidecar `.yaml` files record prompts, generation details, and review for the
 | `plates/III-2-shoal-rudders.png` | III-2 Junks lift their rudders in the shoal strait | Javanese temple relief | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–2](plates/III-2-shoal-rudders.yaml) |
 | `plates/III-3-samara-camp.png` | III-3 Five months stranded at Samara | Javanese and Sumatran temple relief | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–3](plates/III-3-samara-camp.yaml) |
 | `plates/III-4-adams-peak-pilgrims.png` | III-4 Pilgrims on Adam's Peak chains | Polonnaruwa mural painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–4](plates/III-4-adams-peak-pilgrims.yaml) |
-| `plates/III-6-malabar-corsairs.png` | III-6 Corsair cordon off Malabar | Western Indian Jain palm-leaf painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–6](plates/III-6-malabar-corsairs.yaml) |
+| `plates/III-6-malabar-corsairs.png` | III-6 Corsair cordon off Malabar, previous master | Western Indian Jain palm-leaf painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Superseded](plates/III-6-malabar-corsairs.yaml) |
 | `plates/III-7-rukh-elephant.png` | III-7 The rukh carries off an elephant | Persian aja'ib wonders manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–7](plates/III-7-rukh-elephant.yaml) |
 | `plates/III-8-hormos-windcatchers.png` | III-8 The wind-catchers of Hormos | Baghdad school manuscript painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–8](plates/III-8-hormos-windcatchers.yaml) |
 | `plates/C12-seagoing-junk.png` | C12 Seagoing junk cutaway | technical line and light wash | GPT image model (built-in image_gen in Codex), 2026-11-19 | [C12](plates/C12-seagoing-junk.yaml) |
@@ -101,9 +101,11 @@ The sidecar `.yaml` files record prompts, generation details, and review for the
 | `plates/C16-cane-palace-roof.png` | C16 Cane palace roof section | technical line and light wash | GPT image model (built-in image_gen in Codex), 2026-11-19 | [C16](plates/C16-cane-palace-roof.yaml) |
 | `plates/II-11-xiangyang-trebuchet-revised.png` | II-11 Xiangyang trebuchet, revised | Ilkhanid siege illustration | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Draft](plates/II-11-xiangyang-trebuchet-revised.yaml) |
 | `plates/III-9-court-farewell-no-fleet.png` | III-9 Court farewell, revised | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Draft](plates/III-9-court-farewell-no-fleet.yaml) |
-| `plates/III-9-departure-fleet.png` | III-9 Departure fleet, companion | Yuan handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Draft](plates/III-9-departure-fleet.yaml) |
+| `plates/III-9-departure-fleet.png` | III-9 Departure fleet, companion | Yuan handscroll | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Unplaced draft](plates/III-9-departure-fleet.yaml) |
 | `plates/II-11-xiangyang-trebuchet-turned.png` | II-11 Xiangyang trebuchet, turned | Ilkhanid siege illustration | GPT image model (built-in image_gen in Codex), 2026-11-19 | [II–11](plates/II-11-xiangyang-trebuchet-turned.yaml) |
-| `plates/III-9-court-farewell-palace-revised.png` | III-9 Court farewell, palace revision | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [III–9](plates/III-9-court-farewell-palace-revised.yaml) |
+| `plates/III-9-court-farewell-palace-revised.png` | III-9 Court farewell, previous master | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-19 | [Superseded](plates/III-9-court-farewell-palace-revised.yaml) |
+| `plates/III-6-malabar-corsairs-family-revised.png` | III-6 Corsair cordon off Malabar | Western Indian Jain palm-leaf painting | GPT image model (built-in image_gen in Codex), 2026-11-25 | [III–6](plates/III-6-malabar-corsairs-family-revised.yaml) |
+| `plates/III-9-court-farewell-two-tablets.png` | III-9 Cocachin’s court farewell | Yuan court painting | GPT image model (built-in image_gen in Codex), 2026-11-25 | [III–9](plates/III-9-court-farewell-two-tablets.yaml) |
 
 ## Character reference sheets (CHR.T9; not printed)
 

@@ -31,3 +31,8 @@ review:
   sidecar: Pass; prompt, route, process and provenance recorded.
   must_get_right_sheep: Pass with limit; distant animals have long curling horns but detail is small.
   must_get_right_plateau: Pass; snowy plateau and mountains.
+editorial_review:
+  date: '2026-11-25'
+  decision: Retain artwork and caption
+  rationale: >-
+    The snowy plateau, weak cooking fire, and horned sheep convey the account, with the Ramusio horn cairns omitted. The caption identifies a reconstruction. Travellers and pack animals are generic, and the distant sheep have limited species detail at book size.

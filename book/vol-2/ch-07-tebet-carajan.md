@@ -18,7 +18,7 @@ At sundown the men cut green canes and heap them on the fire. After a little whi
 
 Cotton in the ears for the people. Cloth over the horses’ heads, and ropes at all four feet. The Book knows of travellers who have lost horses that broke their halters at the first bang. A few nights of it and the animals grow used to the sound [3]. In the meantime, the men are betting their transport on the pegs they’ve driven into the ground. They’ve got twenty days of food to carry before the Book brings them to a village where they can buy more [4].
 
-![Bamboo bursts in a night camp in the Kham forests, in a reconstruction of the Book's account. *(Modern illustration in the manner of Dali kingdom scroll painting. Not a historical artifact. This edition.)*](../media/plates/II-7-exploding-bamboo.png){#fig-ii-7-exploding-bamboo}
+![Bamboo bursts in a night camp in the Kham forests, as the Book describes. The clothing, tack, and camp arrangement are conjectural. *(Modern illustration in the manner of Dali kingdom scroll painting. Not a historical artifact. This edition.)*](../media/plates/II-7-exploding-bamboo.png){#fig-ii-7-exploding-bamboo}
 
 — Stay with the horses a moment, dear reader. Out there a bear hears something that frightens it away. Here in camp you’ve made exactly the same noise for an animal you need to stay beside you.
 
