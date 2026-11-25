@@ -55,7 +55,7 @@ Peer down into the hold before the cargo is stowed. Above those stitched planks 
 
 Still, those stitched hulls worked well enough to carry horses, pearls, and spices across the Indian Sea for centuries before European carracks arrived. Polo's nervousness is that of a Venetian raised on oak planks and iron nails, looking at a ship built for a different ocean and a different carpenter's tradition.
 
-![Diagram C13. A hypothetical sewn-plank ship with a hide-covered hold and horses, after Polo’s description. No 1250–1300 example has been identified. *(Diagram: this edition, after Polo.)*](../media/diagrams/C13-sewn-plank-hormos.svg){#fig-c13-sewn-plank-hormos}
+![Diagram C13. A hypothetical sewn-plank ship with a hide-covered hold and horses, after Polo’s description. The hull shape and steering arrangement are conjectural. *(Diagram: this edition, after Polo.)*](../media/diagrams/C13-sewn-plank-hormos.svg){#fig-c13-sewn-plank-hormos}
 
 When summer heat settles over Hormos, anyone who can leaves town to sleep in gardens beside running water, under palms and awnings. When the scorching wind blows off the desert, Polo says, people wade into the water up to their chins until the blast passes [22]. You can judge a gale by how it bends a palm; Polo measures this one by how little of a man it leaves in the open air.
 
@@ -117,7 +117,7 @@ At Kerman buy bread if you like, but fill your water skins before taking the roa
 
 [19] ~ Polo describes the coastal foods and the use of date wine in the same breath as people’s explanations for staying well. Yule’s comparisons give some support for the pattern, while the rules and their effects belong to the account [@yc, 1.19 n. 2].
 
-[20] ✓ Sewn joints occur on reused marine timbers studied in the Red Sea. That evidence also includes nailing and leaves the date of the planks’ original use uncertain, so the construction can be placed in a wider tradition with variation [@yc, 1.19 n. 3; @blue2011ships].
+[20] ✓ Sewn joints occur on reused marine timbers studied in the Red Sea. That evidence also includes nailing and leaves the date of the planks’ original use uncertain, so the construction can be placed in a wider tradition with variation [@yc, 1.19 n. 3; @blue2011ships]. Reused timbers at al-Balīd in Oman also preserve evidence of sewn construction [@vosmer2019sewn, pp. 310–11].
 
 [21] ~ The single rig and the horses over the hides are Polo’s observations or reports about ships in the harbour. Yule compares other accounts of sewn ships and the traffic in horses, with the precise form of the steering gear open [@yc, 1.19 n. 3].
 

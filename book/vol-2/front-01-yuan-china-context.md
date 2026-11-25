@@ -20,7 +20,7 @@ In Volume II, Polo walks corridors he visited and describes provinces he only he
 
 The ruler at the centre of Volume II is Cublay (Kublai), grandson of Chinghis (Chinggis Khan), Great Khan of the Mongol world in claim and emperor of a Chinese-style state in practice. He gave his state the Chinese dynastic name Yuan and built rule on a double foundation: Mongol conquest elite and Chinese administrative technique. Morris Rossabi's biography remains a clear modern door into that balancing act; Yuan sources and Persian historians (Rashid al-Din's world) supply the outer frame [1].
 
-![Cublay, known after his death as Shizu, in a fur-trimmed cap and a plain white coat. *(Album of Yuan emperors, National Palace Museum, Taipei. Public-domain reproduction via Wikimedia Commons.)*](../media/public-domain/II-front_npm-yuan-album-khubilai.jpg){#fig-khubilai-portrait width=76%}
+![Cublay, known after his death as Shizu, in a fur-trimmed cap and a plain white coat. *(Album of Yuan emperors, National Palace Museum, Taipei. Detail via Shuge and Wikimedia Commons, marked public domain in the United States.)*](../media/public-domain/II-front_npm-yuan-album-khubilai.jpg){#fig-khubilai-portrait width=76%}
 
 For the book's purposes, two capitals matter more than a modern national map. **Chandu** (Shangdu / Xanadu) is the summer court you already met at the end of Volume I — hunting parks, ceremonial horses, religious specialists. **Cambaluc** (Khanbaliq / Dadu — today's Beijing) is the great winter seat: walls within walls, palace compounds, markets, and the bureaucratic hum of an empire that taxed grain, salt, and commercial traffic on a scale Latin cities could barely imagine [2].
 

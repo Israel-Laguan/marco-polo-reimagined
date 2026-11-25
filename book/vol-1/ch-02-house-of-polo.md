@@ -90,7 +90,7 @@ The Kaan still waited for learned men and for oil of the Sepulchre; Christendom 
 
 [18] ? The promise that Cublay and his people would embrace the Law of Christ if the disputants prevailed reads as conversion rhetoric rather than a recorded policy pledge. Yule doubted purely religious motives [@yc, Prol. 7 n. 3], while Allsen sets the request for learned foreigners in a court culture that collected expertise across Eurasia [-@allsen2001culture, ch. 1]; Arghun’s and Öljeitü’s later letters to Philip the Fair show the diplomatic form without proving these clauses.
 
-[19] ✓ The golden tablet (*paiza*) was a real instrument of imperial logistics, attested in Yuan archaeology and across Persian administrative writing [@yc, Prol. 8]. The Book’s report of its order — supplies, horses, escorts for the three ambassadors — matches the genre.
+[19] ✓ The golden tablet (*paiza*) was a real instrument of imperial logistics, attested in Yuan archaeology and across Persian administrative writing [@yc, Prol. 8]. The Book’s report of its order — supplies, horses, escorts for the three ambassadors — matches the genre. For the Book’s rank tablets alongside the Yuan record, see Diagram C5 in Volume II, chapter 1.
 
 [20] ~ Cogatal’s illness and abandonment at an unnamed city along the route is an uncorroborated personal detail [@yc, Prol. 8]. Leaving an ailing colleague behind explains why the two Venetians arrived at the Mediterranean coast as the sole bearers of the Kaan's letters.
 

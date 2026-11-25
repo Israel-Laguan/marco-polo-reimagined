@@ -39,9 +39,9 @@ Abbreviations:
 | I-6 | Marco questions the townsfolk at the Magi tombs of Saba | GEN | Ilkhanid (JT) | L | Brick domed tombs; Persian dress | Local tradition |
 | I-7 | Marco escapes the Caraunas in the darkness | GEN | Ilkhanid (JT) | L | **Dust storm**, not magic; mud-walled village; date palms | Uncorroborated personal claim |
 | I-8 | The Dry Tree alone on the plain | GEN | LdM marvel lens | P | A solitary tree and passing caravan; plane is one interpretation, species disputed | Legendary landmark; exact site and species uncertain |
-| I-9 | The balas-ruby mines under royal seal | GEN | Ilkhanid (JT) | L | Badakhshan highland dress; oil lamps; officers sealing stones | Balas rubies are spinels; mining scene follows Polo, not a verified excavation reconstruction |
-| I-10 | Crossing the Pamier: wild sheep and a fire that won't cook | GEN | Persianate (JT) | H | *Ovis poli*; snow plateau | Omit the horn cairns (Ramusio-only) |
-| I-11 | The straggler hears spirit voices in the Lop desert | GEN | Dunhuang wall painting | L | Night dunes, lone rider, faint phantom caravan. The landscape and traveller are conjectural. | The ghostly caravan visualizes folklore. The cavalcade is a later Ramusio detail. |
+| I-9 | The balas-ruby mines under royal seal | GEN | Ilkhanid (JT) | L | Badakhshan highland dress; oil lamps; officers sealing stones | Balas rubies are spinels. Mining and dress are conjectural. |
+| I-10 | Crossing the Pamier: wild sheep and a fire that won't cook | GEN | Persianate (JT) | H | *Ovis poli*; snow plateau. Omit the horn cairns (Ramusio-only). | Clothing and pack train are conjectural. |
+| I-11 | The straggler hears spirit voices in the Lop desert | GEN | Dunhuang wall painting | L | Night dunes, lone rider, faint phantom caravan. The landscape and traveller are conjectural. | The ghostly caravan follows Ramusio. The traveller and landscape are imagined. |
 | I-12 | Cane divination before Chinggis's battle | GEN | Ilkhanid (JT) | L | Nestorian clerics, split canes, psalter; 1203; S-22 cue C5, C6 | Book theatre; site and date wrong |
 | I-13 | Mare's-milk libation as the court leaves Chandu | GEN | YC | H | White mares; shamans and lamas; cane palace with silk guy-cords and gilt dragon columns; S-22 cue C1, C2, C3 | — |
 
@@ -62,9 +62,9 @@ Abbreviations:
 | II-8 | Battle of Vochan: dismounted archers vs war elephants | GEN | **Pagan temple murals** | L | Howdah castles breaking into the trees; dozens, not 2,000 | Numbers are inflated and identification is debated. Towers, equipment, and dress are conjectural. |
 | II-9 | Two great dogs hold a tiger at bay on the Cuiju road | GEN | Blue-green scroll interpretation from a Dali scroll brief | L | A **tiger** (the Book says "lion") | Onlookers and dress are imagined. |
 | II-10 | Song envoys surrender the seal to Bayan, 1276 | GEN | Southern Song academy (elegiac) | P | Lin'an outskirts; Empress Dowager Xie's envoys | Book compresses events; no "Hundred Eyes" |
-| II-11 | Counterweight trebuchet at Xiangyang | GEN | Ilkhanid (JT siege idiom, apt for Persian engineers) | L | Hinged box counterweight; Song walls across the Han | **No Venetians**: the Polos weren't there |
+| II-11 | Counterweight trebuchet at Xiangyang | GEN | Ilkhanid (JT siege idiom, apt for Persian engineers) | L | Hinged box counterweight; Song walls across the Han | The siege ended in 1273. Keep the Polos out of the scene. The engine and dress are conjectural. |
 | II-12 | Trackers haul a junk up the Kiang | GEN | Yuan landscape | H | Bamboo hawsers; Golden Island monastery | — |
-| II-13 | Pleasure barges on the West Lake | GEN | Song–Yuan city-genre scroll | H | Leifeng Pagoda; **no Qing pavilions** | Ramusio's description |
+| II-13 | Pleasure barges on the West Lake | GEN | Song–Yuan city-genre scroll | H | Barges and lakeside pavilions. The placed pilot uses a generic tower. For a revision, verify Leifeng Pagoda and keep the architecture within the Song–Yuan brief. | Ramusio supplies the fuller account. The architecture is imagined. |
 | II-14 | Zayton harbour: junks unloading pepper | GEN | Song–Yuan city-genre scroll | H | Quanzhou ship type; Kaiyuan stone pagodas; Arab and Tamil merchants | 100:1 ratio is rhetoric |
 | II-15 | Aijaruc throws the prince | GEN | Ilkhanid (JT) | L | Kaidu's court; wagered horses; S-22 cue C5, C6 | Folkloric; historical name Khutulun |
 
@@ -77,7 +77,7 @@ Abbreviations:
 | III-3 | Five months stranded at Samara | GEN | Javanese / Sumatran relief | L | Junks at anchor; toddy-tappers; monsoon sky; a **modest** camp | Wooden defences appear in F and V; 2,000 men and ditches appear in Z and Ramusio. The scene illustrates textual accounts; no period Samara camp reference is established. |
 | III-4 | Pilgrims climbing Adam's Peak on iron chains | GEN | Polonnaruwa murals | P | Buddhist and Muslim pilgrims together | Dual tradition; don't resolve it |
 | III-5 | Pearl divers and the shark-charmer | GEN | Chola temple mural | L | Gulf of Mannar boats; stone weights; Brahman charmer on deck | The charm is belief |
-| III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Fire or smoke relay. Family aboard a corsair craft. | Handheld signals and close spacing are artistic choices. |
+| III-6 | Corsair cordon off Malabar | GEN | Western Indian (Jain) palm-leaf | strip 4:1 | Fire or smoke relay. Family aboard a corsair craft. | Vessel forms, clothing, handheld signals, and close spacing are conjectural. |
 | III-7 | The rukh carrying off an elephant | GEN | Persian *'aja'ib* painting (al-Qazwini manuscripts); S-11 found no PD copy free for commercial use | P | Elephant in the bird's talons; sea and coast below | Legend; Aepyornis in caption |
 | III-8 | The wind-catchers of Hormos at noon | GEN | Baghdad school (al-Wasiti) | L | Old mainland Hormuz; *bād-gīr* towers as a type; S-22 cue C7 | Tower forms draw on later examples. The harbour ship and rig are conjectural. |
 | III-9 | Cocachin’s court farewell and the Polos’ two tablets | GEN | YC | H | Two blank gold *paiza* for the three Polos. Cocachin **unmarried: braids, no *boqta*** (S-05), Cublay c. 75, S-22 cues C1 and C4. | Venue and staging are conjectural. The Polos’ participation rests on their account. Map A16 and Diagram C11 cover the voyage. |

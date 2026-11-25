@@ -41,8 +41,11 @@ areas:
     path: [[40, 121], [41.5, 119.6], [44, 120], [47, 122], [49, 128], [46, 131], [42, 128.5], [40, 124], [40, 121]]
 routes:
   - vol: II
-    style: stated # YC II.35–43: selected stages of the west circuit.
-    path: [cambaluc, juju, taianfu, pianfu, kenjanfu, sindafu]
+    style: stated # YC II.35–41: selected named stages of the west road.
+    path: [cambaluc, juju, taianfu, pianfu, kenjanfu]
+  - vol: II
+    style: inferred # A10: the Qinling crossing and route to Sindafu are reconstructed.
+    path: [kenjanfu, acbalec-manzi, sindafu]
   - vol: II
     style: inferred # YC II.44–51: schematic southwest circuit through the marches.
     path: [sindafu, [29.2, 101.6], caindu, yachi, talifu, vochan]
@@ -87,3 +90,4 @@ insets:
       text:
         - {text: "Nayan theatre · 1287", at: [49.2, 122.0]}
         - {text: "Liao / Nen plains", at: [45.5, 124.1], kind: region}
+legend: {at: upper right, items: [lines]}

@@ -1,11 +1,11 @@
 # Series Status — *The Book of the Million: A Formal Retelling of Marco Polo*
 
-**Updated:** 2026-11-23. See the [planning board](plans/README.md) for current tasks and decisions.
+**Updated:** 2026-11-25. See the [planning board](plans/README.md) for current tasks and decisions.
 
 ## Overall
 
-- **Voice and Notes.** The v3 editorial pass covers all 40 chapters, including the closing reliability essay (III-12), and the 12 front and back matter files. All **52 manuscript files pass lint with zero errors**. Independent reader review remains open. The editor approved the [glossary pronunciation house style](plans/tasks/cross/GLO-glossary.md) on 2026-11-24.
-- **Sources and companions.** The Notes, reading keys, glossaries, and companion references have been revised. The [revision plan](plans/content-revision-plan.md#w5--apparatus-normalisation) records remaining source checks and the Volume III *Further reading* proposal.
+- **Voice and Notes.** The v3 editorial pass covers all 40 chapters, including the closing reliability essay (III-12), and the 12 front and back matter files. All **52 manuscript files pass lint with zero errors and zero warnings**. The independent reader review across sampled chapters and volume boundaries (`I-13 → II-1`, `II-15 → III-1`) and the editorial review of all 17 maps are complete. The editor approved the [glossary pronunciation house style](plans/tasks/cross/GLO-glossary.md) on 2026-11-24.
+- **Sources and companions.** The Notes, reading keys, glossaries, and companion references have been revised. The `II-3` prose citations and `III-11` institutional links have been converted to `bibliography.bib` keys, Volume III’s curated *Further reading* guide is placed in [III-B1](vol-3/back-01-trivia-and-afterlives.md#further-reading), and `APP.T11` is closed as best effort with pre-print hedges retained. See the [revision plan](plans/content-revision-plan.md#w5--apparatus-normalisation).
 - **Media placements.** All three volume proof PDFs now contain 36 newly placed or restored figures. The 23 November placement report records folios, plate numbers, effective resolution, source findings, inspected spreads and the remaining queue. All three PDFs built with zero placeholders and undersized-raster warnings. See the [placement report](plans/status/visual-placement-2026-11-23.md) and the [media credits](media/ATTRIBUTIONS.md) for details.
 
 ## Volumes

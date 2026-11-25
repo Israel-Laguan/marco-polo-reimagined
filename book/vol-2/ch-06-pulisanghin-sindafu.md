@@ -132,7 +132,7 @@ Drop a few copper cash onto the bridge toll-clerk’s table, leave Sindafu’s c
 
 [38] ? Major manuscript families assign twenty days to crossing Cuncun’s forested ridges, though one tradition records a notably shorter interval [@yc, 2.42 n. 1]. Such numeric discrepancy points to differing stage estimates or northern vs central passes.
 
-[39] ? Later travellers described plank-road cliff galleries (*zhandao*, such as Baoxie, Lianyun, Ziwu, and Tangluo passes) carried on timber beams socketed into limestone faces [@yc, 2.42 n. 1]. See [Map A10, the west road](ch-06-pulisanghin-sindafu.md#west-and-southwest-pulisanghin-to-sindafu) for alternative Qinling corridors and the northern tract placement.
+[39] ? Later travellers described plank-road cliff galleries (*zhandao*, such as Baoxie, Lianyun, Ziwu, and Tangluo passes) carried on timber beams socketed into limestone faces [@yc, 2.42 n. 1]. See [Map A10, the west road](ch-06-pulisanghin-sindafu.md#fig-a10-west-road) for alternative Qinling corridors and the northern tract placement.
 
 [40] ✓ Acbalec Manzi corresponds regionally to the rich Hanzhong area guarding the approach out of the Qinling passes [@yc, 2.43 n. 1]. Heavy yields of wheat and winter rice confirm the plain’s contrast with rocky mountain stages behind.
 

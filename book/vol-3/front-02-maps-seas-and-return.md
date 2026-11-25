@@ -14,11 +14,11 @@ From Trebizond (Trabzon), the Prologue takes the travellers through Constantinop
 
 ### Map of the round trip
 
-![Map A1. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashed lines show reconstructed routes and dotted lines show routes described at second hand. The dashed Chamba–Samara leg shows one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area, where the exact site of Old Hormuz remains uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
+![Map A1. Madder traces the outbound journey from Venice, ochre the circuits through Kublai’s realm, and indigo the sea and the way home. Solid lines join stages in the Book’s sequence along illustrative courses. Dashed lines show reconstructed routes and dotted lines show routes described at second hand. The dashed Chamba–Samara leg shows one reading of the Prologue’s stop at “Java.” Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book and gazetteer.)*](../media/maps/A1-series-overview.svg)
 
 ### Map of the Cocachin return
 
-![Map A16. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The solid western line joins the four stages named in the Prologue from Trebizond to Venice along an illustrative course. A separate marker locates the marriage that Rashid al-Din records at Abhar. Yule dates departure to early 1292. Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area, where the exact site of Old Hormuz remains uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
+![Map A16. Dashes show the proposed Zayton departure, possible stops at Chamba and Samara, and the reconstructed Indian and Persian stages. The Prologue names “Java.” Yule links that stop to the Book’s five months at Samara. The solid western line joins the four stages named in the Prologue from Trebizond to Venice along an illustrative course. A separate marker locates the marriage that Rashid al-Din records at Abhar. Yule dates departure to early 1292. Ma reports Yang Zhijiu’s inference of late 1290 or early 1291. Hormos? marks the Minab area; the exact site of Old Hormuz is uncertain. *(Map: this edition, from the Book, Rashid al-Din and the gazetteer.)*](../media/maps/A16-cocachin-return.svg)
 
 ### Maps in the chapters
 

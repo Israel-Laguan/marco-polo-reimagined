@@ -64,7 +64,7 @@ Inside a besieged castle, every crust is counted, and every day without relief s
 
 [4] ✓ The place is identified with Kuhbanan, which Yule finds named by medieval geographers. Later reports also mention metalworking resources in the district, including the material associated with the iron and the steel that Yule discusses, while the size of Polo’s town is open to question [@yc, 1.21 n. 1].
 
-[5] ~ Yule compares other accounts of the material marketed as tutia and its use in preparations for the eyes. The collection above the furnace is the practical detail Polo supplies [@yc, 1.21 n. 2]. See [Diagram C6, the Cobinan furnace](../media/diagrams/C6-tutia-furnace.svg).
+[5] ~ Yule compares other accounts of the material marketed as tutia and its use in preparations for the eyes. The collection above the furnace is the practical detail Polo supplies [@yc, 1.21 n. 2]. See [Diagram C6, the Cobinan furnace](ch-08-arbre-sec-old-man.md#fig-c6-tutia-furnace).
 
 [6] ~ The Book distinguishes the material left from the firing from what collects on the iron. Yule discusses different uses of the name *spodium*, which make an exact modern identification uncertain [@yc, 1.21 n. 2].
 

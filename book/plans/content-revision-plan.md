@@ -1,10 +1,10 @@
 # Content Revision Plan — *The Book of the Million*
 
-**Status:** implementation in progress (2026-11-21) · **Source:** critique pass, `critique/vol-1.md`, `critique/vol-2.md`, `critique/vol-3.md` (full findings with `file:line`, evidence and suggested rewrites)
+**Status:** complete (2026-11-25) · **Source:** critique pass, `critique/vol-1.md`, `critique/vol-2.md`, `critique/vol-3.md` (full findings with `file:line`, evidence and suggested rewrites)
 
 ## Implementation progress
 
-**Updated:** 2026-11-23
+**Updated:** 2026-11-25
 
 [Follow-up chat prompts](next-session-prompts.md#follow-up-after-the-v3-rollout) cover independent reader review, the remaining apparatus checks, and illustrations with targeted research.
 
@@ -269,6 +269,10 @@ I-2 passed targeted lint as found (1,893 words, 12% overlap, zero errors and war
 - **Lint follow-up (2026-11-24):** The name-similarity check now recognises Caidu as the registered person rather than warning that it might be the place Caindu. The four affected chapters pass targeted lint with zero warnings; the full 40-chapter run passes with zero errors and zero warnings. The earlier four-warning result above is retained as the historical run.
 - **Literary pass and aloud transition review (2026-11-24):** Reviewed all 40 narrative chapters in full against the Voice Guide v3 benchmarks (II-3 and II-4), checking scene movement, concrete merchant objects, Rustichello's pageantry, narrator pauses, varied openings, and all 39 chapter-to-chapter and volume-boundary transitions. Improved prose, pacing, and transitions across Volume I (I-01 to I-13, including verified Yule quotes, varied openers, tighter catalogue-to-scene shaping, and the I-07 `Cublay (Kublai)` gloss), Volume II (II-01, II-02, II-05 to II-12, and II-14, trimming repetitive modifiers, adding scene pauses, and stripping ungrounded props in II-09/II-11/II-14 against Yule–Cordier), and Volume III (III-01 to III-11, varying imperative/“Picture” openers, adding narrator reflections, and smoothing transitions), while preserving II-03, II-04, II-13, II-15, and III-12's distinct essay form intact. Updated each chapter's `.T3` record with post-edit lint measurements and kept independent human voice review open across all three volumes.
 - **Source follow-up:** An online transcription of Geiger’s *Cūḷavaṃsa*, part II, introductory chronology, note 26, was inspected: it places the Tooth Relic’s removal in Bhuvanekabāhu I’s reign and its recovery under Parakkamabāhu III. The online chronological table is flattened by OCR, so its dates cannot safely be assigned to rows without the page image; III-4 Note 11’s qualification and APP.T11i remain open. Source: https://books.lakdiva.org.lk/culavamsa/vol_1.html (introduction, note 26 and chronological table).
+- **Post-v3 closeout (2026-11-25):**
+  - **Citation and link clean-up:** Attached `bibliography.bib` keys (`@palladius1876elucidations`, `@bretschneider1888mediaeval`, `@pauthier1865livre`, `@wassaf1871tarikh`) to the flagged prose source references in [II-3](../vol-2/ch-03-feasts-keshican.md) Notes `[2]`, `[7]`, `[9]`, `[13]`, `[17]`, `[18]`, `[19]`, `[25]`, `[28]`, and replaced the three direct institutional links in [III-11](../vol-3/ch-11-afterlives.md) Notes `[7]`, `[30]`, `[37]` with new `bibliography.bib` entries (`@falchetta2011fra`, `@bnf2023calvino`, `@levie2024foligno`), regenerating `plans/registry/sources.md` (`393` entries).
+  - **Volume III *Further reading*:** Added a concise curated *Further reading* guide (`@kinoshita2016description`, `@larner1999marco`, `@eusebi2018devisement`, `@vogel2024marco`) to [III-B1](../vol-3/back-01-trivia-and-afterlives.md#further-reading) and updated [FRONT-BACK-MATTER.md](../FRONT-BACK-MATTER.md).
+  - **Source hedges & reader/map review:** Closed `APP.T11` as best effort with pre-print hedges retained; confirmed `MAP-maps.md` editorial review complete (`17/17` maps); completed an independent reader review across sampled chapters (`I-06`, `II-09`, `III-04`, `III-12`) and both volume boundaries (`I-13 → II-1`, `II-15 → III-1`). Full-series lint passes `52/52` (`E0`, `W0`).
 
 - **I-12** gets a separate structural fix: it is a telegraphic catalogue, not a transcription. **S-07 (2026-11-10): no split.** Both halves would fall under the 1,800 floor and renumbering touches 85 files; the customs list is retold as scenes instead (section plan in `I-12.T3`).
 - **III-10 to III-12** (S-07): re-voice with section plans, no rebuild. III-10 ends at 1324; III-11 tells the reception as events; III-12 argues (home of Wood's full case and of the series' principles). Plans in each `.T3`.

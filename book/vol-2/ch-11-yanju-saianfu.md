@@ -49,7 +49,7 @@ Nor were Italian travellers’ camp followers the engineers behind that thundero
 
 They tested their pivoted beams before Cublay in the capital, reached the Han River late in 1272, and trained their slings on the stubborn twin stronghold. First their volleys tore down the bridge piers and shattered Fancheng for storming columns in early 1273; then carpenters shifted the timber frames round to hammer the south-eastern rampart of Saianfu [34]. The shot in the Chinese account drove seven or eight feet into the earth. Yule estimates about 166 pounds if the unit is the catty, against Polo’s three hundred pounds [35].
 
-![Muslim engineers and Yuan soldiers prepare a counterweight engine across the Han from Song walls during the siege of Xiangyang. Its exact construction is unknown, and the Polos were not there. *(Modern illustration in the manner of Ilkhanid siege painting. Not a historical artifact. This edition.)*](../media/plates/II-11-xiangyang-trebuchet-turned.png){#fig-ii-11-xiangyang-trebuchet-turned}
+![Muslim engineers and Yuan soldiers prepare a counterweight engine across the Han from Song walls during the siege of Xiangyang. The engine’s construction and the engineers’ clothing are conjectural. The 1273 surrender predates the Polos’ 1275 audience. *(Modern illustration in the manner of Ilkhanid siege painting. Not a historical artifact. This edition.)*](../media/plates/II-11-xiangyang-trebuchet-turned.png){#fig-ii-11-xiangyang-trebuchet-turned}
 
 — Why did the Book put three Venetians behind Muslim counterweights? The Chinese records describe engines brought from the west to a war in which crews already used other kinds of stone-thrower. Polo makes the effect of a shot plain to listeners without explaining the machine’s mechanism [36]. The traveller may have heard the story at court. How the family came to be given the credit in the Book remains open [37].
 
@@ -107,7 +107,7 @@ Take one last look back across the wide Han River, where the broken twin fortres
 
 [21] ✗ Polo frames the siege as a three-year postscript *after* the rest of Manzi had yielded, a reversed chronology repeated by Waṣṣāf [@yc, 2.70 n. 5]. In reality, the blockade ran from late 1268 to March 1273 as the crucial opening phase of the Song conquest.
 
-[22] ✓ Chinese annals confirm that the Uighur general Ali Haiya urged Cublay in 1271 to summon western siege experts because river supply lines kept Xiangyang and Fancheng alive [@yuanshi1370, juan 128, 203; @yc, 2.70 n. 5]. See [Timeline B4, Song endgame](ch-10-manzi-sung.md#eastward-to-manzi-canal-cities-and-the-fall-of-the-sung).
+[22] ✓ Chinese annals confirm that the Uighur general Ali Haiya urged Cublay in 1271 to summon western siege experts because river supply lines kept Xiangyang and Fancheng alive [@yuanshi1370, juan 128, 203; @yc, 2.70 n. 5]. See [Timeline B4, Song endgame](ch-10-manzi-sung.md#fig-b4-song-endgame).
 
 [23] ✗ Neither Niccolò, Maffeo, nor Marco Polo could have advised the siege or arranged the engines [@yc, 2.70 n. 5]. Even under the most generous Prologue chronology, the three Venetians reached Cublay’s court about May 1275, more than two years after Xiangyang fell.
 

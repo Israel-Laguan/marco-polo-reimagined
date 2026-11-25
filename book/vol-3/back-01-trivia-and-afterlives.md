@@ -30,6 +30,15 @@ Volume III closes the sea road and opens the book’s long echo. This companion 
 
 Follow the Book from its earliest copies through maps, print, and modern scholarship in [Timeline B5, the Book's reception](ch-11-afterlives.md#fig-b5-reception). For the ledger of hits, misses, and silences across all three volumes, see [Chapter III-12](ch-12-reliability-essay.md).
 
+### Further reading
+
+For readers continuing beyond *Works cited*, four modern entry points complement Yule–Cordier:
+
+- **Accessible English translation:** Sharon Kinoshita, *The Description of the World* [@kinoshita2016description], a crisp modern translation from the Franco-Italian *F* text with historical introduction.
+- **Core narrative study:** John Larner, *Marco Polo and the Discovery of the World* [@larner1999marco], a clear account of the Book’s composition, medieval reception, and Columbus’s annotated copy.
+- **Critical edition:** Mario Eusebi and Eugenio Burgio, *Le devisement dou monde* [@eusebi2018devisement], the standard modern Franco-Italian edition behind recent textual scholarship.
+- **2024 anniversary scholarship:** Hans Ulrich Vogel and Ulrich Theobald, eds., *Marco Polo and the Mongol Empire* [@vogel2024marco], an open-access collection surveying current Yuan, Persian, and manuscript debates.
+
 ---
 
 ## Notes

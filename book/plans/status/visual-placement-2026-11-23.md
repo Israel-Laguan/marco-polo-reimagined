@@ -144,3 +144,26 @@ The folios below refer to the November 25 builds. The chapter figure anchors abo
 All three volumes rebuilt with zero placeholders, undersized-raster warnings, or overfull lines of 10 pt or more. Both revised images and their captions were inspected at proof size. The two masters each embed at 600 ppi. All 52 manuscript files passed lint, and all 51 tests passed.
 
 [Image credits and sidecars](../../media/ATTRIBUTIONS.md) · [Map ledger](../tasks/cross/MAP-maps.md) · [Plate ledger](../tasks/cross/PLT-plates.md)
+
+## Illustration package audit · 25 November 2026
+
+The [final style guide](../illustration-style-guide.md) sets separate caption requirements for modern illustrations and historical reproductions, and measures resolution at the placed size. The audit used the November 25 editorial decisions above and the rebuilt print PDFs.
+
+| Checked | Result |
+|---|---|
+| 35 modern illustrations | Each compiled figure uses its credited master. Each printed caption matches the accepted sidecar, including the modern-illustration disclosure. All 12 borderline period reviews were checked in the proof. The 32 recorded image inputs resolve to eligible manifest entries or project artwork. |
+| Nine historical reproductions | All nine masters match the checksums in the [production register](../../media/public-domain/README.md). The [credits](../../media/ATTRIBUTIONS.md#historical-images-and-facsimiles) identify the exact reproduction and its reuse terms and alterations. |
+| Five cutaway diagrams, six placements | C12 prints in [II-14](../../vol-2/ch-14-fuju-zayton.md#fig-c12-zayton-preview) as Plate II.37 (folio 173) and [III-1](../../vol-3/ch-01-ships-chipangu.md#fig-c12-seagoing-junk) as Plate III.4 (folio 3). C12, C13, C14, and C16 use raster artwork with vector labels. All five embeddings of those bases measure 400 ppi. C15 is vector throughout. |
+
+Six modern captions and their sidecars now name the conjectural details. I-9 identifies the mining operation and dress, I-10 the clothing and pack train, I-11 the traveller and landscape, II-11 the engine and engineers’ clothing, II-13 the lakeside architecture, and III-6 the vessel forms and clothing as well as the signals and spacing. The [II-13 pilot](../../media/plates/II-13-west-lake-barges.yaml) still shows the barges and pavilions clearly. Its generic tower and faint simulated mounting seam are flagged below.
+
+The [Cocachin farewell](../../vol-3/ch-09-cocachin-return.md#fig-iii-9-court-farewell-palace-revised) prints from the two-tablet master and the [Malabar scene](../../vol-3/ch-06-mutfili-kesmacoran.md#fig-iii-6-malabar-corsairs) from the master with the family aboard a signalling corsair boat. Both embed at 600 ppi. The departure fleet remains outside the printed sequence.
+
+### Items for editorial review
+
+- [II-13, West Lake barges](../../vol-2/ch-13-kinsay.md#fig-ii-13-west-lake-barges) retains a faint simulated mounting seam through the centre and a generic tower. The caption identifies the architecture as imagined. For a revised plate, use a continuous painted ground and verify the form of Leifeng Pagoda against a dated source before identifying it.
+- [II-front, Cublay portrait](../../vol-2/front-01-yuan-china-context.md#fig-khubilai-portrait) uses the Shuge crop supplied by Wikimedia Commons. The caption and source records now identify that exact file and the United States scope of the Commons public-domain statement. For distribution in other territories, confirm terms there for that crop or obtain an expressly licensed museum file for editorial review. [Commons file and licence](https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumKhubilaiPortrait.jpg) · [Museum object record](https://digitalarchive.npm.gov.tw/Collection/Detail/15489?dep=P)
+
+### Print and repository checks
+
+Rendered and inspected the 50 placements for legibility, caption placement, and clipping. Compared compiled figure labels with chapter anchors and checked the raster dimensions and effective resolution in the rebuilt PDFs. The 49 raster placements in scope, including the five cutaway raster bases, measure 322–942 effective ppi. The three volumes build to 181, 231, and 201 pages with zero placeholders, undersized-raster warnings, or overfull lines of 10 pt or more. Manuscript lint passed all 52 files and the test suite passed all 51 tests.

@@ -132,7 +132,7 @@ Leave that solitary watch-bell swinging in winter dark above silent avenues, and
 
 [37] ~ Ramusio-only in Yule. Leaving trusted families inside old southern wards because new walls could not hold everyone belongs purely to Ramusio [@yc, 2.11]. Historically, southern Jin suburbs remained thickly populated long after 1271.
 
-[38] ✗ Estimating twenty-four miles round battered earthen walls (six miles per side) exceeds archaeologically surveyed perimeters [@yc, 2.11 n. 3; @steinhardt1990chinese]. See [Map A9, Yuan Dadu](ch-02-person-palace.md#person-wives-sons-and-the-palace-inside-the-walls) for the excavated rammed-earth city trace.
+[38] ✗ Estimating twenty-four miles round battered earthen walls (six miles per side) exceeds archaeologically surveyed perimeters [@yc, 2.11 n. 3; @steinhardt1990chinese]. See [Map A9, Yuan Dadu](ch-02-person-palace.md#fig-a9-dadu-city-plan) for the excavated rammed-earth city trace.
 
 [39] ✗ Counting twelve outer city gates—matching Friar Odoric—misses the historical eleven gates uncovered by Chinese excavators [@yc, 2.11 n. 4; @steinhardt1990chinese]. Modern ground surveys documented on Map A9 verify three gates each on south, east, and west curtains but only two on the north wall.
 

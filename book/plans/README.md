@@ -31,7 +31,7 @@ New questions found during tasks become new spikes, never silent decisions.
 plans/
   README.md                  ← you are here: board, conventions, decisions
   content-revision-plan.md   ← strategy: content (W0–W6)
-  multimedia-plan.md         ← strategy: maps, timelines, diagrams, tables
+  multimedia-plan.md         ← delivered maps, timelines, diagrams, tables and glossaries
   illustration-style-guide.md← strategy: regional traditions, rules, tech spec
   illustration-plan.md       ← strategy: hero/secondary plates, pilot prompts
   critique/vol-{1,2,3}.md    ← evidence: the critique pass (source of backlogs)
@@ -123,11 +123,11 @@ Each chapter file holds: header metrics, the backlog by category (with critique 
 
 | Code | Area | Main gate |
 |---|---|---|
-| [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | S-04 ✓, S-09 ✓ |
+| [MAP](tasks/cross/MAP-maps.md) | Maps A1–A18 (A8 → C17) | **Done 2026-11-25.** Reviewed all 17 maps and 21 placements. |
 | [CHR](tasks/cross/CHR-characters.md) | Characters: registry + visual cards | **Done 2026-11-24.** Glossary coverage verified, naming lint enforced, T7 closed best effort. |
 | [PLT](tasks/cross/PLT-plates.md) | Drawings: 35 GEN + 6 PD heroes, secondaries, legacy retirement | S-10 ✓, S-11 ✓ |
 | [DIA](tasks/cross/DIA-timelines-diagrams.md) | Timelines B1–B6, diagrams C1–C17 · **done** 2026-11-24 | S-09 ✓ |
-| [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | S-08 ✓ (`TBL.T1` style done) |
+| [TBL](tasks/cross/TBL-tables.md) | Comparison tables D | **Done 2026-11-25.** Verified the 14 comparison topics in all three formats. |
 | [GAZ](tasks/cross/GAZ-gazetteer.md) | Gazetteer | S-04 |
 | [APP](tasks/cross/APP-apparatus.md) | Markers, tags, how-to-read box | S-03 |
 | [GLO](tasks/cross/GLO-glossary.md) | Names and pronunciation glossary | **Done 2026-11-24.** Pronunciation approved and all three proofs checked. |

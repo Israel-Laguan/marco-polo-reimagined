@@ -59,11 +59,13 @@ Go through the checklist in `illustration-style-guide.md` § Review checklist. Z
 
 The targets are 300 dpi on the 6×9 in trim:
 
-| Plate | Target | From Akool 4k |
+| Plate | Minimum at 4.5 in wide | From Akool 4k |
 |---|---|---|
-| half page 4:3 | ≥ 1350×1013 | 1536×1152: no upscale |
-| handscroll spread 2:1 | 2700×1350 | 1536×864 → crop to 1536×768 → ×1.76 |
-| full page 3:4 | 1350×2160 | 1152×1536 → ×1.4 or more |
+| landscape miniature 4:3 | 1350×1013 | 1536×1152, sufficient as supplied |
+| handscroll crop 2:1 | 1350×675 | 1536×864, cropped to 1536×768. The pilot made a 2700×1350 master. |
+| portrait miniature 3:4 | 1350×1800 | 1152×1536, enlarged if printed at full width |
+
+Use the actual placed dimensions for narrower figures. Verify effective ppi in the proof PDF.
 
 ```bash
 # handscroll: crop to 2:1 (adjust the +0+48 offset to the composition), then upscale

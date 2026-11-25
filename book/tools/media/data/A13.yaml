@@ -20,7 +20,7 @@ label:
   fuju: e
   zayton: e
 text:
-  - {text: "Cuju · no fixed site", at: [28.15, 117.8]}
+  - {text: "Cuju · no fixed site", at: [28.15, 117.0]}
 legend: {at: lower right, items: [lines, markers]}
 insets:
   - file: A13-tyunju-inset

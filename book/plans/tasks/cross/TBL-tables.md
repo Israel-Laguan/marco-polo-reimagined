@@ -1,6 +1,6 @@
 # TBL — Comparison tables
 
-**Status:** done — all base inventory tables, qualified S-21 commodity rows, and the III-9 return-mortality table placed in manuscript chapters; all three volumes build successfully with only existing raster-resolution and overfull-line warnings · **Plan doc:** `multimedia-plan.md` § D
+**Status:** done. Verified the 14 base comparison topics in 17 tables across all three volumes, 2026-11-25. The supplement below records its original placements · **Plan doc:** `multimedia-plan.md` § D
 
 ## Scope
 Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *written inside its chapter's manuscript*, following the shared format (`booktabs`, header row, `|---|---|` separator, no caption line, verdict column using `✓`, `~`, `✗`, `◇`, `?`). This file tracks the inventory, completion, and manuscript locations.
@@ -9,7 +9,7 @@ Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *
 
 | Ch. | Table | Owner | Status | Final Manuscript Location | Evidence / limit |
 |---|---|---|---|---|---|
-| I-1 | Who captured Marco and where; F / Pipino / Z / Ramusio / Yule | `I-01.T5` | **Done** | `vol-1/ch-01-genoa-prison.md` :65–72 | Keep witness claims, independent evidence and modern inference separate. |
+| I-1 | Who captured Marco and where (F, Jacopo d’Acqui, Pipino, Ramusio and Yule–Cordier) | `I-01.T5` | **Done** | `vol-1/ch-01-genoa-prison.md` :65–72 | Keep witness claims, independent evidence and modern inference separate. |
 | I-3 | Four scripts | `I-03.T5` | **Done** | `vol-1/ch-03-second-setting-forth.md` :35–42 | Verify Pauthier, Yule and actual script usage against primary sources. |
 | I-5 | How the Caliph died | `I-05.T5` | **Done** | `vol-1/ch-05-mausul-baudas.md` :29–34 | Polo, Hayton, Rashid and Ibn al-Furāt are separate accounts; use S16-E9 limits. |
 | I-6 | Eight kingdoms of Persia | `I-06.T5` | **Done** | `vol-1/ch-06-tauris-persia.md` :35–44 | Verify identifications against the gazetteer and S16-E18. |
@@ -19,7 +19,7 @@ Source-comparison and reference tables (plain LaTeX `booktabs`). Each table is *
 | II-5 | Ahmad's murder: Polo vs *Yuan shi* (Bolad) | `II-05.T5` | **Done** | `vol-2/ch-05-ahmad-paper-coal.md` :27–33 | Retain S-14/S-17 limits; Bolad is not Marco. |
 | II-8 | Mien battle numbers | `II-08.T5` | **Done** | `vol-2/ch-08-mien-bangala.md` :21–25 | Compare like engagements; do not settle unsupported Mien/Pagan chronology. |
 | II-11 | Saianfu; Yanju manuscript variants | `II-11.T5` | **Done** | `vol-2/ch-11-yanju-saianfu.md` :29–34 (Yanju) & :60–64 (Saianfu) | Retain checked S-14 findings, distinct Saianfu and Yanju claims. |
-| II-13 | Kinsay numbers | `II-13.T5` | **Done** | `vol-2/ch-13-kinsay.md` :21–27 | Witness-specific: 347 and 35 *li* need Mascherpa attribution and unverified-source limits. |
+| II-13 | Kinsay numbers | `II-13.T5` | **Done** | `vol-2/ch-13-kinsay.md` :21–27 | Waṣṣāf’s figures come through Yule. The Mascherpa row gives 347 and 35 *li* with the source limits. |
 | III-1 | Japan 1274/1281 | `III-01.T5` | **Done** | `vol-3/ch-01-ships-chipangu.md` :37–43 | Compare Polo, Japanese and Yuan sources without conflating the two invasions. |
 | III-9/III-12 | Cocachin in three sources | `III-09.T5`, `III-12.T5` | **Done** | `vol-3/ch-09-cocachin-return.md` :39–43; `vol-3/ch-12-reliability-essay.md` | Prologue, Rashid and the *Yongle dadian* notice; no Polos named outside the Book. |
 | III-12 | Hits, misses and silences ledger | `III-12.T5` | **Done** | `vol-3/ch-12-reliability-essay.md` :47–57 | Cross-volume ledger; qualified with witness- and verdict-based markers. |
@@ -51,5 +51,5 @@ All TBL completion conditions are satisfied:
 1. Each inventory row owned by a chapter has a pipe table in the drafted chapter.
 2. Every table has a header row, `|---|---|` separator, no separate caption line, and conforms to LaTeX `booktabs` rendering.
 3. Witness labels and verdict markers (`✓`, `~`, `✗`, `◇`, `?`) distinguish source claim, independent evidence, and modern inference.
-4. The I-7/I-9/I-11 sections share an identical coordinated column structure, and the III-9/III-12 Cocachin tables agree.
-5. All three volumes build successfully via `tools/build/build.sh vol1`, `vol2`, and `tools/build/build.sh vol3`; remaining warnings are pre-existing raster-resolution and overfull-line warnings, not table-shape or placeholder errors.
+4. The I-7, I-9 and I-11 tables compare the base text and later witnesses. The III-12 reliability ledger summarizes the Cocachin evidence from the III-9 table.
+5. All 17 base tables appear in the PDF, HTML and EPUB builds. The print review checked the rendered comparison tables, including the Waṣṣāf row in II-13.

@@ -52,7 +52,7 @@ Leave the customs clerk at the wharf before we take to the water. Far inland, Ca
 
 ## Notes
 
-[1] ✓ A single day’s ride south-east from Kinsay opens the Fujian corridor with the Book’s standard triad of paper currency, cremation, and busy handicrafts [@yc, 2.79]. See [Map A13, the Fujian road](ch-14-fuju-zayton.md#fuju-zayton-and-the-haven-of-the-world).
+[1] ✓ A single day’s ride south-east from Kinsay opens the Fujian corridor with the Book’s standard triad of paper currency, cremation, and busy handicrafts [@yc, 2.79]. See [Map A13, the Fujian road](ch-14-fuju-zayton.md#fig-a13-fujian-road).
 
 [2] ? Tanpiju is plotted at Shaoxing (Shao-hing fu), following Richthofen and Yule’s later view, though Phillips and earlier editors argued for Fuyang across the Qiantang River [@yc, 2.79 n. 1]. Xiaoshan and Tonglu have also been proposed.
 
@@ -106,7 +106,7 @@ Leave the customs clerk at the wharf before we take to the water. Far inland, Ca
 
 [27] ~ Calling Zayton one of the world’s two greatest ports and claiming a hundred pepper ships arrive for every one sent to Alexandria is merchant hyperbole capturing real Asian volume [@yc, 2.82 nn. 2–3]. Ibn Baṭṭūṭa went further and called Zaitūn the single greatest harbour in the world.
 
-[28] ✓ A ten per cent imperial customs tithe accords closely with Yuan *shibo* maritime tariff practice, though official rates varied by commodity [@yc, 2.82; @schottenhammer2001emporium]. See [Diagram C7, Zayton cost stack](ch-14-fuju-zayton.md#fuju-zayton-and-the-haven-of-the-world).
+[28] ✓ A ten per cent imperial customs tithe accords closely with Yuan *shibo* maritime tariff practice, though official rates varied by commodity [@yc, 2.82; @schottenhammer2001emporium]. See [Diagram C7, Zayton cost stack](ch-14-fuju-zayton.md#fig-c7-zayton-cost).
 
 [29] ~ Yule prints the three rates and the estimate of a good half in the main account. The Book’s calculation measures how much of a merchant’s investment goes on freight and duties [@yc, 2.82].
 

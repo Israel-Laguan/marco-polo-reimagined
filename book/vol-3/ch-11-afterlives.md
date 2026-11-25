@@ -80,7 +80,7 @@ Seven centuries on, readers still return to the Book’s opening pledge—to wei
 
 [6] ✓ Fra Mauro gives an early named depiction of Japan. The surviving map dates broadly to the middle of the fifteenth century [@yc, Introduction § 85; @liscak2018atlas].
 
-[7] ? The Venetian despatch is dated 24 April 1459 and concerns the map commissioned for Portugal [@yc, Introduction § 85; @liscak2018atlas]. Its exact relationship to the surviving Marciana planisphere remains debated in the cartographic literature; see [Falchetta’s study of the two maps](https://www.cini.it/wp-content/uploads/2013/01/201103101000.pdf).
+[7] ? The Venetian despatch is dated 24 April 1459 and concerns the map commissioned for Portugal [@yc, Introduction § 85; @liscak2018atlas]. Its exact relationship to the surviving Marciana planisphere remains debated in the cartographic literature [@falchetta2011fra, pp. 114, 122–24, 127–32].
 
 [8] ✓ Yule identifies the Polisacus on a map of 1522 as the river named Pulisanghin in the Book. Its depiction as flowing into northern waters is one of the displacements he describes [@yc, Introduction § 85].
 
@@ -126,7 +126,7 @@ Seven centuries on, readers still return to the Book’s opening pledge—to wei
 
 [29] ✓ Ma discusses Yang’s 1941 study and the comparison later made by Cleaves. Neither the Chinese notice nor the Persian record names the Polos, as Jackson notes. See [Chapter III-9](ch-09-cocachin-return.md) for the embassy [@ma2025chinese; @jackson1998travels, pp. 98–99].
 
-[30] ✓ Calvino’s *Le città invisibili* was first published in 1972 [@gadrat2026marco]; see the [Bibliothèque nationale de France bibliography, p. 4](https://www.bnf.fr/sites/default/files/2023-10/Bibliographie_Italo_Calvino.pdf). The imagined dialogues between Marco and the ageing Kaan belong to modern literary reception rather than the medieval text.
+[30] ✓ Calvino’s *Le città invisibili* was first published in 1972 [@gadrat2026marco; @bnf2023calvino, p. 4]. The imagined dialogues between Marco and the ageing Kaan belong to modern literary reception rather than the medieval text.
 
 [31] ? Wood argues that the absence of the family’s names from eastern records, Persian place-names, and omissions such as tea, foot-binding, and the Wall tell against Polo’s presence in China [@wood1995did, conclusion; @jackson1998travels, pp. 98–99]. Her 1995 book brought long-standing specialist questions to a wide popular audience.
 
@@ -140,4 +140,4 @@ Seven centuries on, readers still return to the Book’s opening pledge—to wei
 
 [36] ✓ The Palazzo Ducale exhibition ran from 6 April to 29 September 2024. Recent documentary and editorial work includes editions of the records and manuscript studies [@curatola2024mondi; @formentin2024codice; @orlando2025novita].
 
-[37] ✓ The *Le vie di Marco Polo* project announced the Foligno witness, Jacobilli A.II.9, on 6 September 2024 [@simion2024integral; @orlando2025novita]; see the [project announcement](https://leviedimarcopolo.it/en/node/6038). The number 145 represents the project's reported manuscript census total at that date.
+[37] ✓ The *Le vie di Marco Polo* project announced the Foligno witness, Jacobilli A.II.9, on 6 September 2024 [@simion2024integral; @orlando2025novita; @levie2024foligno]. The number 145 represents the project's reported manuscript census total at that date.

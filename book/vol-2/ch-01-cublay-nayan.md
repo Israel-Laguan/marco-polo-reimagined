@@ -136,7 +136,7 @@ You have handled the iron-backed warrants by which every traveller along the imp
 
 [32] ~ Promoting captains of a hundred directly to chiliarchs over a thousand captures rapid wartime advancement under imperial reward [@yc, 2.7 n. 1]. Advancing through the decimal command grades brought higher tablets of authority and larger retinues.
 
-[33] ~ Metal rank tablets (*paiza*) weighing 120 and 220 *saggi* align closely with surviving Yuan finds, though Chinese records pair the myriarch with a tiger rather than Polo’s lion [@yc, 2.7 n. 2; @hsiao1978military]. See [Diagram C5, tablets of authority](ch-01-cublay-nayan.md#cublay-kaan-puissance-nayan-and-the-ordo-of-victory).
+[33] ~ Metal rank tablets (*paiza*) weighing 120 and 220 *saggi* align closely with surviving Yuan finds, though Chinese records pair the myriarch with a tiger rather than Polo’s lion [@yc, 2.7 n. 2; @hsiao1978military]. See [Diagram C5, tablets of authority](ch-01-cublay-nayan.md#fig-c5-paiza).
 
 [34] ✓ Engraving commanding warrants directly onto metal tablets matches surviving Phags-pa and Mongol passport inscriptions [@yc, 2.7 n. 2]. Travellers along post stations honoured the sealed plaque on sight.
 

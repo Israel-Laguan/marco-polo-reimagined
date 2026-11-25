@@ -75,7 +75,7 @@ The park walls, the silk guy-cords, and the white mares all belong to the sovere
 
 [10] ✗ The Chinese Palm Hall passage locates it in the western garden of the Longfu Palace at Cambaluc. The Palace Library records it in 1311 and the dynastic annals record work in 1324–25. Cordier prints Palladius’s placement at Chandu [@tao1959nancun, juan 21; @mishujianzhi, juan 5; @yuanshi1370, juan 29; @yc, 1.61 n. 4].
 
-[11] ~ The Book gives a summer stay and the twenty-eighth of the August moon for departure. Cordier cites Palladius for a usual move to Chandu in the fourth month and return in the ninth. See [Diagram C17 in Volume II, chapter 4, the seasonal court](../media/diagrams/C17-seasonal-orbit.pdf) [@yc, 1.61 n. 5].
+[11] ~ The Book gives a summer stay and the twenty-eighth of the August moon for departure. Cordier cites Palladius for a usual move to Chandu in the fourth month and return in the ninth. See Diagram C17 in Volume II, chapter 4, for the seasonal court [@yc, 1.61 n. 5].
 
 [12] ✓ The two roads and their temporary palaces come from Palladius, quoted by Cordier. He identifies the western road for the return and gives stages and resting places for both approaches [@yc, 1.61 n. 1].
 

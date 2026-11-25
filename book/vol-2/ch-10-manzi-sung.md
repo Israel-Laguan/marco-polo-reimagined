@@ -116,7 +116,7 @@ Yet the conquest is done, and the Book brings us briskly back to the Caramoran f
 
 [29] ✗ Calling Bayan Chincsan “Hundred Eyes” mistakes his personal name (*Pe-yen*, punningly *bǎiyǎn*, “hundred eyes”) for his ministerial rank *chengxiang* (Polo’s *Chincsan*) [@yc, 2.65 n. 5]. The astrologers’ prophecy belongs to popular rumour, mirrored in a fourteenth-century Kiangnan rhyme about “a hundred wild geese” (*bǎiyàn*) and in Waṣṣāf’s garbled siege anecdote.
 
-[30] ✓ Bayan appeared before Hankow in January 1275, crossed the Yangzi, and won the decisive river victories that opened the road to the capital [@yc, 2.65 n. 3; @yc, 2.70 n. 5]. See [Timeline B4, Song endgame](ch-10-manzi-sung.md#eastward-to-manzi-canal-cities-and-the-fall-of-the-sung).
+[30] ✓ Bayan appeared before Hankow in January 1275, crossed the Yangzi, and won the decisive river victories that opened the road to the capital [@yc, 2.65 n. 3; @yc, 2.70 n. 5]. See [Timeline B4, Song endgame](ch-10-manzi-sung.md#fig-b4-song-endgame).
 
 [31] ✗ Bayan’s main army did not march down the eastern canal road from Coiganju to Kinsay [@yc, 2.65 n. 4]. His central force followed the Han and Yangzi rivers, while a separate flanking column moved across the Huai toward Yanju.
 

@@ -2,9 +2,11 @@ plate: II-11
 title: Counterweight trebuchet at Xiangyang
 status: accepted
 tradition: Ilkhanid Jami al-Tawarikh siege illustration
-caption: Muslim engineers and Yuan soldiers prepare a counterweight engine across the Han from Song walls during
-  the siege of Xiangyang. Its exact construction is unknown, and the Polos were not there. Modern illustration in
-  the manner of Ilkhanid siege painting. Not a historical artifact.
+caption: >-
+  Muslim engineers and Yuan soldiers prepare a counterweight engine across the Han from Song walls during the
+  siege of Xiangyang. The engine’s construction and the engineers’ clothing are conjectural. The 1273
+  surrender predates the Polos’ 1275 audience. Modern illustration in the manner of Ilkhanid siege painting.
+  Not a historical artifact.
 generator: GPT image model (built-in image_gen in Codex)
 model: GPT image model (version not disclosed)
 job_id: none, chat output

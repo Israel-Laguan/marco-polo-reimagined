@@ -1,9 +1,11 @@
 """BLD.T9: HTML / EPUB citations print the YC sigla like the PDF (tools/build/preview.lua)."""
 
+import io
 import re
 import subprocess
 import unittest
 from pathlib import Path
+from zipfile import ZipFile
 
 BOOK = Path(__file__).resolve().parents[1]
 
@@ -54,6 +56,24 @@ class PreviewCitationTest(unittest.TestCase):
         self.assertNotIn("Back Matter II-2", text)
         self.assertRegex(text, r'<h1[^>]+id="names-and-pronunciation">Glossary</h1>')
         self.assertIn('id="place-vuju-1"', text)
+
+
+    def test_epub_link_reaches_figure_in_another_chapter(self):
+        source = (
+            '# Chapter One\n\n[See the timeline](second.md#fig-timeline).\n\n'
+            '# Chapter Two\n\n'
+            '![Timeline](media/timelines/B1-polo-family.svg){#fig-timeline}\n'
+        )
+        result = subprocess.run(
+            ["pandoc", "-f", "markdown", "-t", "epub", "-M", "title=Figure links",
+             "--lua-filter", "tools/build/map-links.lua", "--lua-filter", "tools/build/preview.lua"],
+            input=source.encode(), cwd=BOOK, check=True, capture_output=True,
+        )
+        with ZipFile(io.BytesIO(result.stdout)) as epub:
+            first = epub.read("EPUB/text/ch001.xhtml").decode()
+            second = epub.read("EPUB/text/ch002.xhtml").decode()
+        self.assertIn('href="ch002.xhtml#fig-timeline"', first)
+        self.assertIn('id="fig-timeline"', second)
 
 
 if __name__ == "__main__":

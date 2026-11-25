@@ -22,7 +22,7 @@ routes:
 label:
   sindafu: e
   caindu: w
-  brius: {pos: w, offset: 7}
+  brius: {pos: e, offset: 7}
   yachi: se
   talifu: nw
   vochan: sw

@@ -19,6 +19,7 @@ A hundred miles round and twelve thousand stone bridges, the Book’s account be
 | Polo’s account in Yule–Cordier | 100 miles round | 12,000 stone bridges | Numbers attributed to the queen’s written account |
 | Odoric, in Yule–Cordier | 100-mile circuit, from inquiries | More than 12,000 in the main translation | Readings differ across witnesses |
 | Ibn Baṭṭūṭa, in Lee | Three days in length, six walled divisions | — | Time spent travelling measures something different from perimeter |
+| Waṣṣāf, as cited by Yule | 24 parasangs | 360 | Reported figures in Waṣṣāf’s own units [3] |
 | Mascherpa, 2024 | 35 *li* | 347 | Underlying dates, sources and boundaries still to be checked |
 
 Down in the workshops, the Book has twelve great trades, each with twelve thousand premises [5]. A man can find a dozen workers in one shop, and up to forty in another. The masters and their wives, by this account, can live like royalty while the hired hands make the goods that supply other cities. Even a man with a hundred thousand bezants, Polo maintains, is bound to his father’s trade [6]. The privilege of sitting idle is considerable if your son still has to know what the workshop does.
@@ -51,7 +52,7 @@ Pepper has a reckoning of its own. In Ramusio’s account a customs officer tell
 
 After business, the lake barges in Ramusio can carry a table and chairs and twenty guests. The crew pole them from the roof. Below, a person at dinner can open a window and watch the temple gardens slide past [34]. On land a covered carriage fitted for six will take a party to the gardens and bring them back by evening [35]. A person with money to spend can see the city from almost any height except that of a man poling the boat.
 
-![Roofed barges bring guests to the lakeside pavilions at Kinsay. Ramusio supplies the fuller account of these outings. *(Modern illustration in the manner of a Song–Yuan city-genre handscroll. Not a historical artifact. This edition.)*](../media/plates/II-13-west-lake-barges.png){#fig-ii-13-west-lake-barges}
+![Roofed barges bring guests to the lakeside pavilions at Kinsay. Ramusio supplies the fuller account of these outings. The lakeside architecture is imagined. *(Modern illustration in the manner of a Song–Yuan city-genre handscroll. Not a historical artifact. This edition.)*](../media/plates/II-13-west-lake-barges.png){#fig-ii-13-west-lake-barges}
 
 Ramusio puts an old merchant beside Polo at the former palace of Facfur, the ruler of Manzi. The earlier account has gardens, lakes and a thousand splendid rooms. The merchant points out which pavilions survive, where the women’s courts were and where the garden wall has fallen [36]. In his recollection the royal feasts could seat ten thousand, all in silk and gold. Looking at walls you can barely trace is a good way to hear a man’s idea of the years when they were full.
 

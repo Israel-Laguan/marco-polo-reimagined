@@ -95,4 +95,12 @@ local function Span(span)
   end
 end
 
-return { { Cite = Cite, Span = Span }, { Pandoc = Pandoc } }
+local function Figure(fig)
+  if not FORMAT:match('^epub') or fig.identifier == '' then return nil end
+  -- The EPUB writer resolves links across chapters for Div IDs, but misses Figure IDs.
+  local id = fig.identifier
+  fig.identifier = ''
+  return pandoc.Div({ fig }, pandoc.Attr(id))
+end
+
+return { { Cite = Cite, Span = Span, Figure = Figure }, { Pandoc = Pandoc } }

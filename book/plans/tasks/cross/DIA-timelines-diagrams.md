@@ -20,7 +20,7 @@ Timelines (TikZ from YAML), schematic diagrams (TikZ), data charts (Python), and
   - C2 yam (II-5)
   - C3 keshig rota (II-3)
   - C4 decimal army (I-12)
-  - C5 paiza hierarchy (II-1 / I-2)
+  - C5 paiza comparison (II-1, referenced from I-2)
   - C6 tutia furnace (I-8)
   - C7 Zayton cost stack (II-14)
   - C8 Ilkhan succession (II-15)
@@ -129,7 +129,7 @@ S-09 closed 2026-11-10. Visual system: `multimedia-plan.md` § Visual system (va
 
 ### DIA.C13 — Sewn-plank ship of Hormos
 - **Status:** done 2026-11-23 · `C13-sewn-plank-hormos.*`, linked in I-7 · **Placement:** I-7 · **Depends:** S-09 ✓, base plate `PLT.C13`
-- **Do:** Coir stitching, hide deck with horses.
+- **Editorial review, 2026-11-25:** The diagram’s horse transport and hide cover follow Polo. The I-7 note cites the reused timbers at al-Balīd as regional evidence for sewn construction. The caption and diagram identify the vessel’s shape and steering as conjectural. [S22-E2](../../registry/enrichment.md#s-22-supplement--cross-project-candidates-2026-11-13)
 
 ### DIA.C14 — Traction vs counterweight trebuchet
 - **Status:** done 2026-11-23 · `C14-trebuchet-comparison.*`, linked in II-11 · **Placement:** II-11 · **Depends:** S-09 ✓, base plate `PLT.C14`

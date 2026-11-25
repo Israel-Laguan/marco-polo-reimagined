@@ -1,5 +1,6 @@
 # A1 — Series overview: the whole round trip, one colour per volume (each volume's front-02).
-# Line styles follow the leg maps: A4 (Ayas to Kerman, a reconstruction), A11 (Mien, reported) and A16 (the return).
+# Line styles follow the leg maps. A1 condenses the waypoints while keeping reconstructed
+# stretches and reports distinct from the named sequence.
 id: A1
 file: A1-series-overview
 extent: [8, 124, -2, 50]
@@ -23,21 +24,36 @@ routes:
     style: inferred          # Yule reconstructs an outbound detour; Minab is a regional reference
     path: [kerman, camadi, reobarles, hormos, kerman]
   - vol: I
-    style: stated            # the Book continues from Kerman; this sequence is not proof of each visit
-    path: [kerman, cobinan, tonocain, sapurgan, balc, taican, badashan,
-           vocan, pamier, cascar, yarcan, cotan, pein, charchan, lop, sachiu, sukchur, campichu, chandu, cambaluc]
+    style: stated            # the Book continues from Kerman through Balc and Badashan
+    path: [kerman, cobinan, tonocain, sapurgan, balc, taican, badashan]
+  - vol: I
+    style: inferred          # A5: the exact crossing of the Pamier is unknown
+    path: [badashan, vocan, pamier, cascar]
+  - vol: I
+    style: stated            # the Book's Tarim and Tangut sequence
+    path: [cascar, yarcan, cotan, pein, charchan, lop, sachiu, sukchur, campichu]
+  - vol: I
+    style: inferred          # A6: the eastern itinerary is interrupted by digressions
+    path: [campichu, erguiul, egrigaia, chandu]
+  - vol: I
+    style: stated            # Chandu and Cambaluc are named stages in the Book's account
+    path: [chandu, cambaluc]
   # Volume II: the Khan's realm
   - vol: II
-    style: stated            # the west road and the south-west circuit
-    path: [cambaluc, pulisanghin, juju, taianfu, pianfu, cachanfu, kenjanfu, acbalec-manzi, sindafu, caindu,
-           yachi, talifu, vochan]
+    style: stated            # A10: named west-road sequence before the Qinling crossing
+    path: [cambaluc, pulisanghin, juju, taianfu, pianfu, cachanfu, kenjanfu]
+  - vol: II
+    style: inferred          # A10 and A11: Qinling crossing and route through the southwest marches
+    path: [kenjanfu, acbalec-manzi, sindafu, caindu, yachi, talifu, vochan]
   - vol: II
     style: reported          # The Vochan–Mien continuation is a reported side account.
     path: [vochan, mien]
   - vol: II
-    style: stated            # the canal spine and the Fujian road
-    path: [cambaluc, cacanfu, changlu, sinjumatu, piju, siju, coiganju, yanju, chinghianfu, suju, kinsay,
-           vuju-2, kelinfu, fuju, zayton]
+    style: stated            # A12: the named canal sequence
+    path: [cambaluc, cacanfu, changlu, sinjumatu, piju, siju, coiganju, yanju, chinghianfu, suju, kinsay]
+  - vol: II
+    style: inferred          # A13: the Fujian stages and the course to Zayton are reconstructed
+    path: [kinsay, vuju-2, kelinfu, fuju, zayton]
   # Volume III: the seas and the return (as A16)
   - vol: III
     style: inferred          # Prologue 18 leaves the departure port and first coastal calls unnamed.
