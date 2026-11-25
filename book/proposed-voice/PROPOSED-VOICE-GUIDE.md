@@ -2,6 +2,8 @@
 
 This guide defines the theatrical narrative voice and structural blueprint for *The Book of the Million*, using [**Chapter II-3** (`vol-2/ch-03-feasts-keshican.md`)](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-03-feasts-keshican.md) and [**Chapter II-4** (`vol-2/ch-04-hunt-traffic.md`)](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-04-hunt-traffic.md) as the primary benchmarks.
 
+For the **series-wide meta-framing** (the opening Meta-Introduction on modernizing a 700-year-old book, volume gear-shifts, the 39 chapter-to-chapter baton passes, and the closing Colophon), see [**`BIG-PICTURE-NARRATION-PLAN.md`**](file:///home/anthony/code/marco-polo-reimagined/book/proposed-voice/BIG-PICTURE-NARRATION-PLAN.md).
+
 ---
 
 ## 1. Core Philosophy: One Narrator, Two Narrative Layers

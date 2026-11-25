@@ -67,12 +67,13 @@ NAME_STOP = {"Book", "Books", "Notes", "Note", "Polo", "Marco", "Kaan", "Khan", 
 # ---------------------------------------------------------------- parsing
 
 def kind_of(rel):
-    name = Path(rel).name
+    p = Path(rel)
+    name = p.parent.name if p.name == "proposed.md" else p.name
     if name == "README.md":
         return None
     if name.startswith(("front-", "back-")):
         return "frontback"
-    return "essay" if "reliability-essay" in name else "narrative"
+    return "essay" if ("reliability-essay" in name or name == "colophon-and-closing") else "narrative"
 
 
 class Doc:
@@ -371,7 +372,8 @@ def c_tags(doc, ctx):
     """S-03: Vols. II-III narrative/essay files carry exactly one tag line; nothing else carries one."""
     head = next((i for i, l in enumerate(doc.lines) if l.startswith("---")), len(doc.lines))
     tags = [(i + 1, l.strip()) for i, l in enumerate(doc.lines[:head]) if l.startswith("**[")]
-    needs = doc.kind in ("narrative", "essay") and doc.rel.startswith(("vol-2/", "vol-3/"))
+    rel = doc.rel.removeprefix("proposed-voice/")
+    needs = doc.kind in ("narrative", "essay") and rel.startswith(("vol-2/", "vol-3/"))
     if not needs:
         for ln, l in tags:
             yield "error", ln, f"tag line {l} not allowed here (Vols. II-III chapters only)"

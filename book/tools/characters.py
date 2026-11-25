@@ -42,6 +42,7 @@ _CACHE = {}
 
 
 def in_scope(pid, rel):
+    rel = gazetteer.canonical_rel(rel)
     return not any(rel.startswith(s) for s in SCOPE_OUT.get(pid, ()))
 
 

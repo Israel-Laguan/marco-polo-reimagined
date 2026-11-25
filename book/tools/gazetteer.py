@@ -75,7 +75,17 @@ def form_re(form):
     return re.compile(r"(?<![\w’'-])" + re.escape(plain(form)) + r"(?![\w-])")
 
 
+def canonical_rel(rel):
+    rel = rel.removeprefix("proposed-voice/")
+    if rel.endswith("/proposed.md"):
+        rel = rel[:-len("/proposed.md")] + ".md"
+    if rel == "vol-3/colophon-and-closing.md":
+        rel = "vol-3/ch-12-reliability-essay.md"
+    return rel
+
+
 def in_place_scope(row, rel):
+    rel = canonical_rel(rel)
     prefixes = SCOPE.get(row["id"])
     return prefixes is None or rel.startswith(prefixes)
 
@@ -122,6 +132,7 @@ RULE_SKIP = ("vol-3/ch-10", "vol-3/ch-11", "vol-3/ch-12")
 
 
 def in_rule_scope(rel):
+    rel = canonical_rel(rel)
     name = rel.split("/")[1]
     return name.startswith("ch-") and not rel.startswith(RULE_SKIP)
 
