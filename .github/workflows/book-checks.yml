@@ -2,16 +2,14 @@ name: Book checks and proofs
 
 on:
   pull_request:
-    branches: [staging, main]
+    branches: [main]
     types: [opened, synchronize, reopened, ready_for_review]
-  push:
-    branches: [staging]
 
 permissions:
   contents: read
 
 concurrency:
-  group: book-proof-${{ github.event.pull_request.number || github.ref }}
+  group: book-proof-${{ github.event.pull_request.number }}
   cancel-in-progress: true
 
 jobs:
@@ -24,36 +22,10 @@ jobs:
         with:
           fetch-depth: 2
           persist-credentials: false
-      - id: candidate
-        name: Identify the edition and proof source
-        run: python3 tools/ci/github_release.py prepare
-        env:
-          GH_TOKEN: ${{ github.token }}
-      - name: Build and check the three volumes
-        run: tools/ci/run.sh proof
-        env:
-          SOURCE_DATE_EPOCH: ${{ steps.candidate.outputs.epoch }}
-      - name: Summarize checks
-        run: python3 tools/ci/github_release.py summarize
-      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
-        with:
-          name: book-proof-${{ github.run_attempt }}
-          path: |
-            build/proof.json
-            build/*.pdf
-            build/*.txt
-            build/*.grammar.json
-            build/*.chktex.log
-            build/*.pandoc.log
-            build/vol*.log
-            build/manuscript-lint.log
-            build/tests.log
-          if-no-files-found: error
-          retention-days: 90
+      - uses: ./.github/actions/book-proof
 
   signoff:
     name: Book release sign-off
-    if: github.event_name == 'pull_request' && github.base_ref == 'main'
     needs: checks
     runs-on: ubuntu-24.04
     timeout-minutes: 10

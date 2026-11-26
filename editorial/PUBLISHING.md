@@ -4,7 +4,7 @@
 
 1. Branch from `staging` and edit the canonical Markdown. Use [the edition manifest](../manuscript/edition.json) to add or reorder manuscript files. Place artwork cleared for print under `manuscript/assets/` and update its [credit](../manuscript/assets/ATTRIBUTIONS.md).
 2. Open a PR to `staging`. Review the checks and download the proof from the Actions run. The proof contains PDF and TXT files, per-volume LanguageTool and ChkTeX reports, and typesetting logs.
-3. Merge after addressing the findings that affect your change. The staging branch gets a new integrated proof.
+3. Merge after addressing the findings that affect your change. The merge runs **Integrated staging proof** on the updated branch.
 
 Manuscript lint is a required check. The print build also fails for LaTeX errors, unresolved citations or references, missing glyphs, missing figures, and undersized rasters. Review grammar suggestions, TeX lint messages, and overfull boxes against the text and the rendered pages.
 
