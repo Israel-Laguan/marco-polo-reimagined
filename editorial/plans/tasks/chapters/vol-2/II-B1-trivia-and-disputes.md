@@ -1,0 +1,101 @@
+# II-B1 — Trivia and Disputes — Volume II
+
+**File:** `vol-2/back-01-trivia-and-disputes.md` · **Status:** v3 drafted, reader review pending · **Kind:** back
+
+| Narrative words | Verbatim Yule | Tag | Citations | Over length? |
+|---|---|---|---|---|
+| 432 | 5% | — | ok [1–8] | no |
+
+## Backlog (from critique; not yet tasks)
+
+Each item cites its critique ID (`vol-2.md` C1/M3/m4/nit) and `file:line`. It holds facts only; no fix is decided here unless the critique gave a concrete one. Severity prefix: **[C]** critical · **[M]** major · **[m]** minor · **[N]** nit · **[W]** content-plan only.
+
+### Critical
+- **[C]** Invented epigraph: "All these cities are so great that…" (labelled "The book's habitual gasp before Manzi's numbers") is not in Yule–Cordier. Fix: a verified Kinsay line, e.g. "the city is beyond dispute the finest and the noblest in the world"; alternatively drop the quotation marks and the source label. Observation (not in critique): that Kinsay line sits inside ch-13:4's epigraph. — vol-2 C3 · back-01:4; content plan W1.1
+
+### Factual / fidelity
+- — none found
+
+### Dispute handling and Ramusio flags
+- **[M]** The "silences" cluster (tea, foot-binding, Great Wall) is filled here (:45) only because II-02's aside (ch-02:51) defers it in one meta sentence. The critique's fix goes in II-02; recheck this entry once II-02 carries the substance, so the two do not diverge. — vol-2 M12 · back-01:45
+- **[M]** "Mixed tags in the chapter heads are there on purpose" assumes the reader has been told what the tags mean; no reader-facing page explains them (fix lives in II-F1). — vol-2 M8 · back-01:43
+
+### Voice and prose
+- **[m]** Paper money, coal, Ahmad and the two capitals repeat front-01:31–39 and ch-05 almost word for word ("Coal as quiet proof" vs "Coal… quiet corroboration"). Fix: "make back-01 pure dispute shortlist plus trivia, and cut the repeats". Affected here: :15 (two capitals), :17 (paper money), :19 (coal), :21 (Ahmad). — vol-2 m12 · back-01:15–21; content plan W5
+
+### Notes and apparatus
+- — none found
+
+### Naming and gazetteer
+- — none found
+- **Resolved at policy level by S-04 (2026-10-22):** `gazetteer.csv` v2 uses Yule forms and has the missing rows; this file's names are applied in `II-B1.T1`.
+
+### Length and structure
+- **[m]** Role of back matter (dispute shortlist plus trivia, not re-explanation) is an S-07 decision shared with II-F1; content plan W5 "Front and back matter de-duplication". — vol-2 m12
+
+## Media hooks
+- **Hero plate:** — none
+- **Secondary plates:** — none
+- **Maps:** — none
+- **Timelines / diagrams / tables:** Pronunciation and names glossary ("back of each volume": book form → modern form → respelling → gloss), the print substitute for the critique's audio moments (Cambaluc/Khanbaliq, Keshican/keshig, Pul-i-Sangīn, Quinsay/Xingzai, Zayton/Zaitūn, Faghfur, Bayan Chincsan, *Sing/sheng*, Toscaol, Bularguchi, naccara/naqqāra, Aijaruc/Ai-yaruq, Natigai) — `multimedia-plan.md` §E; critique §5 "Audio and pronunciation moments"
+- **Characters appearing:** Marco Polo, Niccolò and Maffeo Polo (Saianfu), Ahmad Fanakati, Kublai (as "the Khan")
+
+## Gated by spikes
+- S-02 Acceptance lint and thresholds
+- S-03 Apparatus conventions (markers in Notes)
+- S-04 Gazetteer authority and naming policy (glossary forms)
+- S-06 Fact verification sheet (epigraph)
+- S-07 Structure and length decisions (front/back roles and de-duplication)
+- S-08 LaTeX build pipeline (glossary table)
+
+## Tasks
+_Created after the gating spikes close. Expected shapes:_
+- `II-B1.T1` Critical fix (epigraph)
+- `II-B1.T3` De-duplicate against front-01 and ch-05
+- `II-B1.T5` Pronunciation glossary · S-08 ✓: write figures and tables as `registry/markdown-conventions.md` says; done when `tools/build/build.sh` places this file's figures with no placeholder or size warning.
+- `II-B1.T6` Lint pass and human read
+
+### II-B1.T1 — Names to the S-04 policy; facts per S-06
+- **Status:** done (2026-11-24) · **Depends:** S-04 ✓, S-06 ✓
+- **Now:** 0 bare variants (`gazetteer.bare_variants` clean); Achmath/Bolad (`F-08`), Saianfu (`F-07`), and epigraph (`C3`) aligned.
+- **Do:**
+  - Prose follows the chapters' policy (book form, one gloss per place on first mention). Place tables are regenerated from `gazetteer.csv` by `GAZ.T5` — do not hand-edit them.
+  - Chapter-specific conflicts are listed under *Naming and gazetteer* above.
+  - **Facts (S-06 ✓, `registry/facts.md`):**
+    - No claim here needed a verdict: each *Factual / fidelity* item cites its Yule line, so apply it as the backlog gives it.
+- **Done when:** `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` shows no `name_policy` warnings (or the reviewer accepts the remaining ones), and a person has read the names. The factual items are applied, or hedged as `registry/facts.md` says.
+
+### II-B1.T3 — De-duplicate to the S-07 role matrix
+- **Status:** done (2026-11-24; 432 narrative words) · **Depends:** S-07 ✓; after the chapters it points to have their `.T3` (so pointers name real Notes)
+- **Do** (matrix in `plans/spikes/S-07-structure-length.md` § 2; roles in `VOICE-GUIDE.md` § Front and back matter):
+  - Disputes become a shortlist (one line each, ≤ 40 words, chapter and Note): Yanju (:33), Saianfu (:35), Kinsay numbers (:37), paper money (:39), coal (:41).
+  - Cut trivia that the chapters or II-F1 already tell (m12): two capitals (:15), paper money (:17), coal "quiet proof" (:19), Book IV (:27). Ahmad (:21) → one line (per F-08).
+  - Cut visited vs reported (:43) and silences (:45; home III-12 §4).
+  - Cut "How to use" and the Vol. III teaser (:49–51) to one sentence.
+  - Same voice rules as the chapters (no archaisms, ≤ 1 "Anyway", no recaps); no sentence reused from another file.
+- **Target:** ~550 words (lint cap 1,200).
+- **Done when:** lint `length` passes for this file, and a person has read it against the matrix: every topic here is either its home or a one-line pointer.
+
+### II-B1.T4 — Notes and apparatus to the S-03 convention
+- **Status:** done (2026-11-24; 8 Notes, 0 ★, lint clean) · **Depends:** S-03 ✓, `APP.T2` (★ sweep), —
+- **Now:** 8 Notes · 0 ★ · 0 without a lead marker
+- **Do:**
+  - Notes with no lead marker: none — resolved 2026-11-17 under `APP.T9` (lint `markers` clean); a person still reads the new markers.
+  - Run `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md` and clear the `markers`, `tags` and `citations` errors; order markers per *Apparatus conventions* (one citation per anchor, ≤ 4 marker clauses per Note, `~` with a space).
+  - Any chapter-specific Notes fixes from *Notes and apparatus* in the backlog above (orphans, swaps, renumbering) belong here too.
+  - **S-26 ✓ (2026-11-16):** The citation audit covers original Note(s) [2], [7]; preserve the checked locators, scope and corrections from [the locator registry](../../../../../research/registry/locators.md) when rewriting or renumbering. These findings do not complete the wider Notes task.
+- **Done when:** the lint shows no `markers`, `tags` or `citations` errors for this file, and a person has read the Notes.
+
+### II-B1.T6 — Lint green and human read
+- **Status:** in progress (lint E0 W0 on 2026-11-24; awaiting human read) · **Depends:** every other task in this file · S-02 ✓
+- **Baseline (2026-10-22, `plans/status/lint-baseline.md`):** 4 errors · 0 warnings — failing: markers, quote_verify
+- **Do:** from `book/`, run `python3 tools/lint.py -v vol-2/back-01-trivia-and-disputes.md`; fix every error; take the warnings into the human read.
+- **Done when:** the lint exits 0 for this file, its warnings have been reviewed, and a human has read it for voice against II-2.
+
+## S-17 research handoff (2026-11-11)
+
+Select, within the chapter budget, the 1287 official money conversion, surviving museum paiza, or Quanzhou’s serial heritage property from S17-E2–E6. Distinguish contemporary objects from Polo’s own possessions or personal presence. [Source audit and unresolved questions](../../../../../research/investigations/results/S-17-intake.md). Choose within the 2–3 enrichment-item budget; this is a backlog handoff, not a completed manuscript edit.
+
+## S-21 source handoff
+
+S-21 closed 2026-11-13 ([closure](../../../../../research/investigations/results/S-21-closure.md)). Apply in this file's chapter tasks: Trivia: use only checked S21-E rows; L items optional.
