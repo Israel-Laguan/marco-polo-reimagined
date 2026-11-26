@@ -57,8 +57,12 @@ common=(-f markdown-subscript-superscript --lua-filter tools/build/map-links.lua
 if [[ $format != latex ]]; then
     options=(-s --toc --resource-path="$volume" --lua-filter tools/build/preview.lua
              -M 'reference-section-title=Works cited')
-    if [[ $format == html && $name == vol1 ]]; then
-        options+=(--include-in-header tools/build/parallel-text.html)
+    if [[ $format == html ]]; then
+        BOOK_HTML_ASSETS=$(python3 -c 'import os, sys; print(os.path.relpath("manuscript/assets", sys.argv[1]))' "$out")
+        export BOOK_HTML_ASSETS
+        if [[ $name == vol1 ]]; then
+            options+=(--include-in-header tools/build/parallel-text.html)
+        fi
     fi
     writer=$format
     if [[ $format == txt ]]; then

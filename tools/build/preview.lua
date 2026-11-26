@@ -95,6 +95,15 @@ local function Span(span)
   end
 end
 
+local function Image(img)
+  local assets = os.getenv('BOOK_HTML_ASSETS')
+  if FORMAT ~= 'html' or not assets then return nil end
+  local src, matches = img.src:gsub('^%.%./assets/', function() return assets .. '/' end)
+  if matches == 0 then return nil end
+  img.src = src
+  return img
+end
+
 local function Figure(fig)
   if not FORMAT:match('^epub') or fig.identifier == '' then return nil end
   -- The EPUB writer resolves links across chapters for Div IDs, but misses Figure IDs.
@@ -103,4 +112,4 @@ local function Figure(fig)
   return pandoc.Div({ fig }, pandoc.Attr(id))
 end
 
-return { { Cite = Cite, Span = Span, Figure = Figure }, { Pandoc = Pandoc } }
+return { { Cite = Cite, Span = Span, Image = Image, Figure = Figure }, { Pandoc = Pandoc } }

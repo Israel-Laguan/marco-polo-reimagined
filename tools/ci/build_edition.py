@@ -33,8 +33,8 @@ def fingerprint(pdf):
     digest = hashlib.sha256()
     with TemporaryDirectory() as temporary:
         prefix = Path(temporary) / "page"
-        command("pdftoppm", "-r", "96", "-png", pdf, prefix)
-        pages = sorted(prefix.parent.glob("page-*.png"), key=lambda p: int(p.stem.split("-")[-1]))
+        command("pdftoppm", "-r", "96", pdf, prefix)
+        pages = sorted(prefix.parent.glob("page-*.ppm"), key=lambda p: int(p.stem.split("-")[-1]))
         if not pages:
             raise ValueError(f"{pdf}: no PDF pages rendered")
         for page in pages:
@@ -129,7 +129,7 @@ def build(lint):
             print(report.read_text(), end="", flush=True)
             result.check_returncode()
     names = [volume["id"] for volume in manifest["volumes"]]
-    # Avoid simultaneous LaTeX font-cache initialization and Java memory spikes.
+    # Limit parallel builds because both LuaLaTeX and LanguageTool use substantial memory.
     with ThreadPoolExecutor(max_workers=2) as pool:
         results = dict(pool.map(lambda name: build_volume(name, lint), names))
     return manifest["version"], results
