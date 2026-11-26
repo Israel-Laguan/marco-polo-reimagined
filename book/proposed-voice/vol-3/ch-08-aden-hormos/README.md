@@ -1,6 +1,6 @@
 # III-08: Aden, Esher, Dufar, Calatu, Hormos Again
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-08-aden-hormos.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-08-aden-hormos.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-08-aden-hormos/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-08-aden-hormos.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-08-aden-hormos.md)  

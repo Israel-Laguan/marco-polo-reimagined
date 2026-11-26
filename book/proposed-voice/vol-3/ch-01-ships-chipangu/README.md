@@ -1,6 +1,6 @@
 # III-01: Ships of Manzi and the Island of Chipangu
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-01-ships-chipangu.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-01-ships-chipangu.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-01-ships-chipangu/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-01-ships-chipangu.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-01-ships-chipangu.md)  

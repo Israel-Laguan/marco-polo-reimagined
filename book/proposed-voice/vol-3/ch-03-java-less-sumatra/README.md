@@ -1,6 +1,6 @@
 # III-03: Java the Less: Ferlec to Fansur — Sumatran Kingdoms
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-03-java-less-sumatra.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-03-java-less-sumatra.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-03-java-less-sumatra/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-03-java-less-sumatra.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-03-java-less-sumatra.md)  

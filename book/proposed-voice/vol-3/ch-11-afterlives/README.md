@@ -1,6 +1,6 @@
 # III-11: Afterlives: Maps, Columbus, and the Making of a Witness
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-11-afterlives.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-11-afterlives.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-11-afterlives/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-11-afterlives.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-11-afterlives.md)  

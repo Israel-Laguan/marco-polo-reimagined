@@ -1,6 +1,6 @@
 # III-12: Closing Essay: Reliability, Silence, and the Art of the Book
 
-**Status:** ✓ Phase 1 Draft Complete (`proposed.md` — synced with `vol-3/colophon-and-closing/proposed.md` — E0 · W0)  
+**Status:** ✓ Promoted to Canonical Manuscript (`proposed.md` → `vol-3/ch-12-reliability-essay.md` — synced with `vol-3/colophon-and-closing/proposed.md` — E0 · W0)  
 **Canonical Manuscript:** [`book/vol-3/ch-12-reliability-essay.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-12-reliability-essay.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-12-reliability-essay/proposed.md` (mirrored in `book/proposed-voice/vol-3/colophon-and-closing/proposed.md`)  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-12-reliability-essay.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-12-reliability-essay.md)  

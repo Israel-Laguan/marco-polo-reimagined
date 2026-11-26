@@ -1,6 +1,6 @@
 # III-F1: Volume III Prelude — The Monsoon World & The Bridal Fleet
 
-**Status:** ✓ Phase 1 Draft Complete (`proposed.md` — E0 · W0)  
+**Status:** ✓ Promoted to Canonical Manuscript (`proposed.md` → `vol-3/front-01-indian-ocean-world.md` — E0 · W0)  
 **Role:** Volume III Threshold Prelude: shifts the reader from overland horse-posts and canals to monsoon seamanship, sailors' periplus lore, Princess Cocachin's return fleet, and the afterlife of the Book.  
 **Canonical File:** [`book/vol-3/front-01-indian-ocean-world.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/front-01-indian-ocean-world.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/front-01-indian-ocean-world/proposed.md`  

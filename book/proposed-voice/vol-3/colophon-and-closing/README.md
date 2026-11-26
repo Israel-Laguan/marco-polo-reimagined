@@ -1,6 +1,6 @@
 # Closing Colophon & Final Curtain Call ('Explicit Liber')
 
-**Status:** ✓ Phase 1 Draft Complete (`proposed.md` — synced with `vol-3/ch-12-reliability-essay/proposed.md` — E0 · W0)  
+**Status:** ✓ Promoted to Canonical Manuscript (`proposed.md` — synced with `vol-3/ch-12-reliability-essay.md` — E0 · W0)  
 **Role:** The Modern Colophon closing the three-volume performance at the end of Chapter III-12 (and/or Back Matter III-1).  
 **Canonical File:** [`book/vol-3/ch-12-reliability-essay.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-12-reliability-essay.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/colophon-and-closing/proposed.md`  

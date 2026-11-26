@@ -1,6 +1,6 @@
 # I-F1: Meta-Introduction & The World Before the Road
 
-**Status:** ✓ Polished & Lint-Verified (`proposed.md` — E0 · W0)  
+**Status:** ✓ Promoted to Canonical Manuscript (`proposed.md` → `vol-1/front-01-world-before-the-road.md` — E0 · W0)  
 **Role:** Focused human introduction: (1) wanting to know the humans behind the Mongols, (2) Marco Polo as the obligatory reference & why this couch voice-over retelling exists (with a 2-sentence bridge to the back-matter reader's key), and (3) a changing thirteenth-century world (the Venice–Genoa sea war meeting the fracturing Mongol Eurasia) and a real Venetian merchant family caught in that maelstrom—handing the baton straight to the 1298 Genoese prison cell of Chapter I-1 (while leaving the brothers' eastern departure for Chapter I-2).  
 **Canonical File:** [`book/vol-1/front-01-world-before-the-road.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/front-01-world-before-the-road.md)  
 **Proposed Sandbox Draft:** [`book/proposed-voice/vol-1/front-01-world-before-the-road/proposed.md`](file:///home/anthony/code/marco-polo-reimagined/book/proposed-voice/vol-1/front-01-world-before-the-road/proposed.md)  

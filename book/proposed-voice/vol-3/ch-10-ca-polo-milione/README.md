@@ -1,6 +1,6 @@
 # III-10: Ca’ Polo, *Milione*, and the City That Would Not Believe
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-10-ca-polo-milione.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-10-ca-polo-milione.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-10-ca-polo-milione/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-10-ca-polo-milione.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-10-ca-polo-milione.md)  

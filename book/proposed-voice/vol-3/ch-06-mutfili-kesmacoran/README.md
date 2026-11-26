@@ -1,6 +1,6 @@
 # III-06: Mutfili to Kesmacoran: Diamonds, Brahmans, and the Westward Shore
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-06-mutfili-kesmacoran.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-06-mutfili-kesmacoran.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-06-mutfili-kesmacoran/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-06-mutfili-kesmacoran.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-06-mutfili-kesmacoran.md)  

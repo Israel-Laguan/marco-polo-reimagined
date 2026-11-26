@@ -1,6 +1,6 @@
 # III-04: Necuveran, Angamanain, Seilan: Islands of Rumour and the Foot on the Peak
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-3/ch-04-necuveran-seilan.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-3/ch-04-necuveran-seilan.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-3/ch-04-necuveran-seilan/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-3/III-04-necuveran-seilan.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-3/III-04-necuveran-seilan.md)  
