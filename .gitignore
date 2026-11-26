@@ -1,5 +1,6 @@
-input/
+/input/
+/build/
 __pycache__/
-book/build/
-book/tools/media/.venv/
-book/tools/media/.cache/
+.pytest_cache/
+/tools/media/.venv/
+/tools/media/.cache/

@@ -1,0 +1,72 @@
+name: Publish the book
+
+on:
+  pull_request:
+    branches: [main]
+    types: [closed]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: book-release-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Rebuild the approved edition
+    if: >
+      github.event.pull_request.merged &&
+      github.event.pull_request.head.ref == 'staging' &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    permissions:
+      actions: read
+      contents: read
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
+          fetch-depth: 2
+          persist-credentials: false
+      - id: approved
+        name: Find the sign-off for the merged tree
+        run: python3 tools/ci/github_release.py select-approval
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Verify rebuilt pages and package the edition
+        run: tools/ci/run.sh release --approved build/approval/approved.json
+        env:
+          SOURCE_DATE_EPOCH: ${{ steps.approved.outputs.epoch }}
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: book-release-${{ github.run_attempt }}
+          path: build/release/
+          if-no-files-found: error
+
+  publish:
+    name: Publish the verified release
+    needs: build
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
+          persist-credentials: false
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          # Re-running failed jobs can reuse an earlier successful build.
+          pattern: book-release-*
+          path: build/uploads
+      - name: Publish the newest verified package
+        run: |
+          release=$(find build/uploads -mindepth 1 -maxdepth 1 -type d -name 'book-release-*' | sort -V | tail -1)
+          test -n "$release"
+          mv "$release" build/release
+          python3 tools/ci/github_release.py publish
+        env:
+          GH_TOKEN: ${{ github.token }}
