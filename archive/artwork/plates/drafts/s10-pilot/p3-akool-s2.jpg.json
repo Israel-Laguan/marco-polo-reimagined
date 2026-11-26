@@ -1,0 +1,12 @@
+{
+ "prompt": "Chola temple mural painting in the style of Brihadishvara, Thanjavur: flat ochre, red, green and black, strong dark outline, figures in profile and three-quarter view, frieze-like registers, plaster ground. Pearl divers leap from small boats into a green gulf, net bags at their waists and stones in hand; on the lead boat a Brahman with sacred thread chants with raised hands while merchants watch; sharks circle below. 13th-century Tamil coastal dress, dhoti, bare torso. Plaster with light even weathering. No writing, no script, no deities, no modern objects, not photographic.",
+ "params": {
+  "prompt": "Chola temple mural painting in the style of Brihadishvara, Thanjavur: flat ochre, red, green and black, strong dark outline, figures in profile and three-quarter view, frieze-like registers, plaster ground. Pearl divers leap from small boats into a green gulf, net bags at their waists and stones in hand; on the lead boat a Brahman with sacred thread chants with raised hands while merchants watch; sharks circle below. 13th-century Tamil coastal dress, dhoti, bare torso. Plaster with light even weathering. No writing, no script, no deities, no modern objects, not photographic.",
+  "scale": "4:3",
+  "resolution": "4k",
+  "_id": "6af3afab97abb75cf0c268e7",
+  "model": "wavespeed-ai/flux-krea-dev-lora",
+  "credit": 4
+ },
+ "secs": 60.4
+}

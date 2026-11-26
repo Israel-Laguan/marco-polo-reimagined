@@ -1,0 +1,85 @@
+plate: I-1
+title: Marco dictating to Rustichello
+status: accepted
+tradition: Italian Gothic illumination
+caption: Marco Polo dictating to Rustichello of Pisa, Genoa, 1298. The civic setting and the dictation arrangement
+  follow tradition. Modern illustration in the manner of Italian Gothic illumination. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model, version not displayed
+job_id: 'none: chat output'
+date: '2026-11-18'
+params:
+  scale: '3:4'
+  resolution: 1086x1448 source
+  rounds: 1
+  tries: 1
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-1.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/marco-1298-sheet.png
+  use: accepted character sheet
+  licence: Project-owned generated reference under style-guide rule 9
+  credit: The Book of the Million, Marco Polo character sheet (1298)
+- file: media/characters/rustichello-1298-sheet.png
+  use: accepted character sheet
+  licence: Project-owned generated reference under style-guide rule 9
+  credit: The Book of the Million, Rustichello character sheet (1298)
+figures:
+- id: marco
+  year: 1298
+  cue: "[PERIOD] Marco, c. 44 in 1298: slim, dark-haired, dark-eyed; beardless at 17; short dark beard from about\
+    \ 21; trimmed beard in Venice; grey by 50, white at 69.\n         Dress (Genoa, Venice): Venetian citizen's\
+    \ long gonella and mantle in plain good cloth (green, blue or ochre), coif, small round cap or soft pointed\
+    \ hat (S-22 C39, San Marco Sant'Alipio lunette, 13th c.); in 1324 a sick-bed and a fur-lined gown.\n       \
+    \  The youngest of the three Latins in every scene before 1291.\n         A merchant's belt-purse (scarsella)\
+    \ in every scene.\n         On the Kaan's business (1275–91) and on the return: a gold paiza on a cord; never\
+    \ before 1275.\n[AVOID]  crown, coat of arms, sword-belt of a knight; a monk's habit; a paiza before 1275; Renaissance\
+    \ dress (the 16th-c. portrait)"
+- id: rustichello
+  year: 1298
+  cue: "[PERIOD] Rustichello, ? in 1298: older than Marco (in his fifties in 1298), clean-shaven or short grey beard,\
+    \ a writer's stoop.\n         Dress (Genoa): a sober tunic and mantle, with coif; dress is a visual convention,\
+    \ clerical or lay status unverified.\n         Loose parchment quires, quill, ink-horn, penknife.\n        \
+    \ A writing board on his knee.\n[AVOID]  habit or tonsure presented as documented; chains or a dungeon presented\
+    \ as documented"
+cues:
+- C31
+- C39
+- C41
+- C43
+- C45
+unsourced:
+- The exact building, room layout, window placement, furniture arrangement, bench and mat are generic reconstructions.
+  C43 is a later comparandum. C45 supplies an earlier Genoese arcade type.
+- The posture and gestures render the traditional dictation scene. Rustichello wears civilian clothes as a visual
+  convention. His lay or clerical status remains unverified.
+- C48 sea chart omitted. No third person, guards or reconstruction of a particular prison exterior.
+post: >-
+  convert media/plates/drafts/I-1/gpt-r1-1.png -filter Lanczos -resize 1350x1800 -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-1-genoa-dictation.png
+review:
+  script: Pass. Blank quires, furniture, architectural borders and four corners inspected. No writing, seal, stamp,
+    number or signature.
+  period: Pass with source limits. Compare C39 civilian dress, C43 and C45 round-arched civic interiors, and C31
+    and C41 writing furniture and posture only.
+  figures: Pass. Exactly two named figures. Marco gestures as he dictates. Rustichello listens with a quill over
+    the blank quire on his knee-board. Both match the applicable year cues and accepted house looks.
+  sacred_figures: Pass. Secular figures and setting throughout.
+  idiom: Pass. Flat Genoese manuscript space, dark contours, angular folds, strong opaque pigments and narrative
+    gestures read as Italian Gothic.
+  ground: Pass. Light, even parchment ageing, with intact pigment and no false mounting seam.
+  artifact_risk: Moderate. The period treatment is manuscript-like. The caption explicitly labels the illustration
+    and its traditional setting.
+  print: Pass. Lossless sRGB PNG, 1350x1800 at 300 ppi. Faces, hands, quill, belt-purse and upper sheet inspected
+    at 100 percent after the upscale.
+  sidecar: Pass. Scene and caution caption, model route, date, prompt, inputs, cues, exact processing and checklist
+    are recorded.
+  must_rustichello_lay_presentation: Pass. Sober civilian tunic, mantle and coif. Reserved as a pictorial convention
+    in the caption context and source notes.
+  must_loose_quires_quill_ink_horn: Pass. Blank unbound leaves on a supported writing board, quill, horn inkwell
+    and penknife are visible.
+  must_civic_room: Pass. Double arcade, plain bench and trestle, unbarred windows, and no dungeon fixtures. The
+    room is a generic reconstruction.
+  must_gonella_mantle: Pass. Marco wears a long blue gonella and ochre mantle, coif and cap. The scarsella is clearly
+    visible at his belt.
+  must_age: Pass. Marco appears about forty-four and Rustichello older, with grey hair and beard.

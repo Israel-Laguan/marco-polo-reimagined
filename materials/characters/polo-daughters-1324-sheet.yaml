@@ -1,0 +1,32 @@
+sheet: polo-daughters-1324
+people: [fantina, bellela, moreta]
+cards: none yet (CHR.T2), dress is a working convention
+year: 1324
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+scene: III-10.s2
+tradition: Italian Gothic / Venetian
+likeness: house convention, no authentic likeness
+dress_basis: S-22 C39, the San Marco Sant'Alipio lunette, provides earlier Venetian dress comparisons. The will
+  and character registry provide marriage status. The gowns, mantle colours and variation in veil and wimple are
+  house conventions.
+generator: GPT image model (built-in image_gen in Codex)
+job_id: 'none: chat output'
+date: '2026-11-18'
+params:
+  size: 1448x1086
+  tries: 1
+prompt: media/characters/prompts/polo-daughters-1324.txt
+reference_images: []
+attribution: >-
+  Generated with the GPT image model in Codex on 2026-11-18 for The Book of the Million.
+  Working reference in the manner of Venetian Gothic painting.
+review:
+  script: Pass. The parchment, clothing and corners are free of writing, seals and signatures.
+  period: Pass for comparative dress. The gowns, mantles and linen head coverings follow Venetian figure types.
+    Fantina and Bellela are married at the time of the will. Moreta is unmarried.
+  figures: Pass. Three adult women with a family resemblance and distinct silhouettes and colours. From the viewer's
+    left they are Fantina in blue, Bellela in wine and Moreta in green.
+  idiom: Pass. The dark contour, drawn highlight lines and angular turns in the mantle folds read as Venetian Gothic.
+  notes: The palette, faces and head-covering differences are design choices. The manuscript sources consulted for
+    style and period dress were described in words.

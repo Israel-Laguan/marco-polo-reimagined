@@ -1,0 +1,22 @@
+% C3 — Keshig rota (II-3). Book: vol-2/ch-03 ¶ on the Keshican, Note [2] ([@yc, 2.12]): 12,000 in four corps of 3,000, three days each.
+% Record: Palladius as cited in Yule (ch-03 Note [2]): a Yuan watch of about 400 active, cut to about 100 in 1330; the three-day change is attested.
+\path (0,0) -- (11.43,0);
+\node[dg-head] at (0,0.25) {The Book: 12,000 guards in four corps};
+\def\cx{2.3} \def\cy{2.35} \def\r{1.35}
+\foreach \i/\a/\rr in {0/-90/1.1,1/0/1.6,2/90/1.1,3/180/1.6} {
+  \node[dg-box, minimum width=1.25cm, ] (k\i) at ($(\cx,\cy)+(\a:\rr)$) {3,000};
+}
+\foreach \i/\j in {0/1,1/2,2/3,3/0} { \draw[dg-arrow, bend left=30] (k\i) to (k\j); }
+\node[dg-box, minimum width=1.25cm, fill=vII!25] at (k0) {3,000};
+\node[font=\scriptsize\itshape, text=inksoft, align=center] at (\cx,\cy) {3 days on\\9 off};
+\node[dg-note, text width=6.2cm] at (5.0,0.75) {Each corps guards the palace for three days and nights, then the next takes over (shaded: on duty now): one corps of 3,000 always on duty. The three-day change is attested.};
+% scale comparison
+\node[dg-head] at (5.0,2.5) {On duty at once};
+\def\k{0.002} % cm per guard: 3,000 = 6.0 cm
+\fill[vII] (5.0,2.95) rectangle ++({3000*\k},0.32);
+\node[dg-text, font=\scriptsize] at (5.05,3.47) {\textbf{3,000}  the Book};
+\fill[ink] (5.0,3.85) rectangle ++({400*\k},0.32);
+\node[dg-text, font=\scriptsize] at ({5.0+400*\k+0.12},4.01) {\textbf{c. 400}  Palladius: the Yuan watch};
+\fill[inksoft] (5.0,4.45) rectangle ++({100*\k},0.32);
+\node[dg-text, font=\scriptsize] at ({5.0+100*\k+0.12},4.61) {\textbf{c. 100}  after the 1330 reduction};
+\node[dg-note, text width=11.2cm] at (0,5.05) {The four-corps rota is traditional; the 12,000 is a formulaic count. Bars to scale.};

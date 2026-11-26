@@ -1,0 +1,45 @@
+id: A6
+file: A6-lop-to-chandu
+extent: [83, 124, 33.5, 57]
+graticule: 5
+scale_km: 500
+scale_at: [88, 35]
+markers: labelled
+routes:
+  - vol: I
+    style: stated # YC I.39–44 names Lop, Sachiu, Sukchur and Campichu.
+    path: [lop, sachiu, sukchur, campichu]
+  - vol: I
+    style: inferred # YC I.45 and 57–59: the itinerary resumes after digressions; the connections are reconstructed.
+    path: [campichu, erguiul, egrigaia, [40.84, 111.75], chandu]
+  - vol: I
+    style: reported # YC I.41, 45–46 and 56: northern roads and digressions, with Bargu a broad region.
+    path: [sachiu, camul]
+  - vol: I
+    style: reported # YC I.45–46: Etzina serves as the approach in the account of Caracoron.
+    path: [campichu, etzina, caracoron]
+  - vol: I
+    style: reported # YC I.56 places Bargu beyond Caracoron.
+    path: [caracoron, [53.05, 109]]
+  - vol: I
+    style: reported # YC I.57 names Sinju as a side-place.
+    path: [erguiul, sinju-1]
+label:
+  lop: w
+  sachiu: sw
+  sukchur: n
+  campichu: w
+  erguiul: se
+  sinju-1: sw
+  egrigaia: se
+  camul: n
+  etzina: nw
+  caracoron: n
+  chandu: se
+text:
+  - {text: "Tenduc?", at: [41.45, 111], kind: region}
+  - {text: Bargu, at: [53.55, 110.3], kind: region}
+  - {text: "Chingintalas · unfixed", at: [45.8, 91]}
+  - {text: "Chagannor · unfixed", at: [45.75, 115.5]}
+  - {text: Desert of Lop, at: [37.5, 91.1], kind: region}
+legend: {at: upper right, items: [lines, markers]}

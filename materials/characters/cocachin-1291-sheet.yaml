@@ -1,0 +1,27 @@
+sheet: cocachin-1291
+cards: [cocachin]
+year: 1291
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Yuan court painting
+likeness: house convention, no authentic likeness
+generator: GPT image model in the chat agent
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/cocachin-1291.txt
+reference_images:
+  - file: media/reference/s22/npm-khubilai-hunting-figures.jpg
+    use: edit OK
+    licence: Public domain
+    credit: "Liu Guandao (attr.), Khubilai Khan Hunting, 1280, National Palace Museum, Taipei. Commons scan credited to Ebrey, Cambridge Illustrated History of China (1999)."
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Yuan court painting. Not a historical artifact.
+  Reference images: Liu Guandao (attr.), Khubilai Khan Hunting, 1280, National Palace Museum, Taipei. Commons scan credited to Ebrey, Cambridge Illustrated History of China (1999).
+review:
+  script: "Pass. Blank silk and corners, cap, cuffs and the robe's repeating cloud motifs show no script or marks."
+  period: "Pass. The 1291 Cathay and voyage cue is visible in the wide-sleeved Mongol robe, small dark cap and compact ear-loop braids. No boqta."
+  figures: "Pass. One composed young woman of about eighteen, standing centrally in full length. Her features are a house convention."
+  idiom: "Pass. Fine contours, flat colours and restrained Yuan court figure modelling on silk."
+  notes: "The standing pose is for the reference sheet. The 1280 riding figure served as the cap and hair comparandum. The silk is more golden than the Kublai benchmark."

@@ -1,0 +1,32 @@
+plate: II-9
+title: Two dogs hold a tiger at bay
+status: accepted
+tradition: Blue-green scroll interpretation inspired by the Dali kingdom scroll brief
+caption: >-
+  Two dogs confront a tiger on the Cuiju road. The Book calls the animal a lion. The onlookers and their dress are imagined. Modern illustration in a blue-green scroll style. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/II-9/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-9.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- Exact landscape, animal appearances and the dress and identity of the two onlookers are illustrative conventions; no directly matching period image was checked.
+post: >-
+  convert media/plates/drafts/II-9/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-9-dogs-and-tiger.png
+review:
+  script: Pass; no writing or seals.
+  period: Borderline; generic regional travel clothing; no direct period scene source.
+  scene: Pass; two dogs confront a striped tiger.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; Chinese blue-green landscape character is stronger than a distinctive Dali scroll idiom.
+  ground_and_aging: Pass; even aging.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_tiger: Pass; clearly striped tiger rather than a lion.

@@ -1,0 +1,45 @@
+id: A5
+file: A5-balc-to-pein
+extent: [64, 84.1, 32.3, 41.7]
+graticule: 5
+scale_km: 300
+scale_at: [77, 33.8]
+markers: labelled
+routes:
+  - vol: I
+    style: stated # YC I.27–30 names the sequence through Balc and Badashan.
+    path: [sapurgan, balc, taican, casem, badashan]
+  - vol: I
+    style: inferred # YC I.32 gives days across Vocan and Pamier; the exact crossing is unknown.
+    path: [badashan, vocan, [38.5, 73.5], cascar]
+  - vol: I
+    style: stated # YC I.33, 36–37 names Cascar, Yarcan, Cotan and Pein in succession.
+    path: [cascar, yarcan, cotan, pein]
+  - vol: I
+    style: reported # YC I.29–31 digresses to Pashai and Keshimur.
+    path: [badashan, [34.8, 70.4], keshimur]
+  - vol: I
+    style: reported # YC I.34 introduces Samarcand outside the described itinerary.
+    path: [cascar, samarcan]
+  - vol: I
+    style: reported # YC I.32 mentions Bolor separately from the Pamier crossing.
+    path: [vocan, [36.0, 74.5]]
+label:
+  sapurgan: w
+  balc: n
+  taican: sw
+  casem: n
+  badashan: {pos: nw, offset: 9}
+  vocan: se
+  cascar: ne
+  yarcan: ne
+  cotan: sw
+  pein: e
+  keshimur: se
+  samarcan: nw
+text:
+  - {text: Pashai, at: [34.35, 70.0], kind: region}
+  - {text: Bolor, at: [35.55, 74.5], kind: region}
+  - {text: Pamier, at: [39, 73.25], kind: region}
+  - {text: "Dogana · unfixed", at: [33.6, 67.3]}
+legend: {at: upper right, items: [lines]}

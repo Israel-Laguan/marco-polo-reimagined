@@ -1,0 +1,33 @@
+plate: II-7
+title: Exploding bamboo in the night camp
+status: accepted
+tradition: Dali kingdom scroll painting
+caption: >-
+  Bamboo bursts in a night camp in the Kham forests, as the Book describes. The clothing, tack, and camp arrangement are conjectural. Modern illustration in the manner of Dali kingdom scroll painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/II-7/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-7.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No period lay Kham dress source or matching period camp image was found; costume, equipment and camp details are reconstruction after the literary account.
+post: >-
+  convert media/plates/drafts/II-7/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-7-exploding-bamboo.png
+review:
+  script: Pass; no lettering or seals.
+  period: Borderline; generic conjectural clothing and saddles.
+  scene: Pass; bamboo bursts at fire, forest animals flee, horses hooded and hobbled.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; fine ink and flat colour but distinctive Dali idiom needs human review.
+  ground_and_aging: Pass; even texture.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_horses: Pass; eye covers and hobbles visible, leg overlap needs visual review.
+  must_get_right_bamboo: Pass; bursting bamboo and fire.

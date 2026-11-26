@@ -1,0 +1,12 @@
+# S-18 focused archival rerun — paste-ready
+
+```text
+Please investigate only sources you can actually open through a library or archival collection. State NOT SEEN if you cannot access a passage, and give the exact shelfmark/edition, printed page, source link and access level (archive image, published scan, edition transcription, or OCR). Do not recast a failed access as an absence or cite one scholar through another as a direct reading.
+
+1. Venice: compare the original notarial register ASVe, Notarile testamenti, Pietro Pagano, b. 830, prog. 5, with the March 1328 Domini Advocatores proceeding summarized by Yule. Give each document's full dating clause and bequest context; determine only what can be determined about whether they concern the same Maffeo will and the one-year discrepancy (1308/1309 versus 1309/1310). Orlandini's edited will has two DIFFERENT sums of 1,000 lire: imprestiti bequeathed to Nicolò with a conditional destination to Marcolino; and a payment received by Marco for losses including Comnenus's district and other affairs. Do not conflate them or state that the loss was robbery.
+2. Pelliot, Notes on Marco Polo II: inspect original page images 0129, 0165–0166, 0206–0207 and the III index. Entry 313 PENTAN begins on image 0206; verify how it continues on 0207, printed pagination, and FERLEC entry 231 on 0129. Inspect SEILAN and SAGAMONI BORCAN without extrapolating absence from an unsearched index.
+3. Read Guillot and Kalus 2008 on Malik al-Salih's specific gravestone, Pankhurst 1982 on Polo's Ethiopian king, and Sasaki's 2015 book chapters on Takashima separately; return exact passages or NOT SEEN. The 2008 Sasaki thesis is a master's thesis, not a PhD, and is a different work. Do not transfer its findings into the 2015 book.
+4. Ibn ʿAbd al-Ẓāhir, Tashrīf al-ayyām, ed. Murād Kāmil (Cairo 1961), pp. 170–73: read the Arabic and, if available, a published translation on the 689/1290 Ethiopian embassy. Julien Loiseau 2019 pp. 642–43 and 652–53 reports letters carried to Cairo for the sultan, patriarch and monks at Jerusalem. Explain the precise itinerary, mission, persons and wording, and whether the passage says anything that independently identifies Polo's bishop or alleged attack; cite Loiseau separately and do not assume their identity.
+
+Return a concise evidence table and unresolved access gaps. Distinguish document quotations from an editor's paraphrase, and do not assert independent corroboration from two entries by the same author citing the same source.
+```

@@ -1,0 +1,35 @@
+plate: II-5
+title: Printing the Kaan's paper money
+status: accepted
+tradition: Yuan woodblock illustration (pinghua)
+caption: >-
+  Clerks prepare paper money from mulberry-bark sheets. The workshop is conjectural; a paired photograph shows a Zhiyuan plate and sheet, whose individual date is unverified. Modern illustration in the manner of Yuan woodblock illustration. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/II-5/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-5.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- The workshop, clothing details, tools, gestures and arrangement are conjectural; surviving comparable museum blocks are bronze and may include forgers' blocks.
+- Blank note and block surfaces are a deliberate illustration convention.
+post: >-
+  convert media/plates/drafts/II-5/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-5-paper-money.png
+review:
+  script: Pass; sheet and printing surfaces blank, no writing or seals imprinted.
+  period: Pass with limits; bronze-like plate, generic dress and conjectural workshop.
+  scene: Pass; clerks ink the plate and handle paper, official holds stamp.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; clear woodcut outlines but use of colour and modern print texture is interpretive.
+  ground_and_aging: Pass; even aged paper.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_bark: Pass; grey paper represents mulberry-bark sheets.
+  must_get_right_bronze: Pass with limit; bronze-like border shown, surface darkened by ink.
+  must_get_right_vermilion: Pass; red stamp held above blank sheet, no impression.

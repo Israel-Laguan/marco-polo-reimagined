@@ -1,0 +1,43 @@
+id: A4
+file: A4-acre-to-hormos
+extent: [31, 62, 25, 43]
+graticule: 5
+scale_km: 500
+scale_at: [44, 26]
+markers: labelled
+routes:
+  - vol: I
+    style: stated # YC Prologue 10–13: Jerusalem errand and Ayas return.
+    path: [jerusalem, acre, [33.7, 34.8], [35.6, 35.5], ayas]
+  - vol: I
+    style: inferred # Yule's introduction and itinerary map route the land stages via High Armenia and Tauris.
+    path: [ayas, [38.2, 35.6], savast, arzinga, arziron, tauris, saba, yasdi, kerman]
+  - vol: I
+    style: inferred # YC I.5–11 puts Mausul and Baudas in the narrative sequence; itinerary weight is disputed.
+    path: [ayas, [37.1, 40.0], mausul, baudas, [32.8, 47.4], [32.1, 51.7], yasdi, kerman]
+  - vol: I
+    style: inferred # YC I.16–19 and S-16: Hormos and the return to Kerman are reconstructed.
+    path: [kerman, camadi, reobarles, hormos, [27.8, 55.9], [29.4, 55.7], kerman]
+  - vol: I
+    style: stated # YC I.20–22 continues toward Cobinan and Tonocain.
+    path: [kerman, cobinan, [33.73, 59.18]]
+label:
+  jerusalem: {pos: se, text: Jerusalem}
+  acre: w
+  ayas: sw
+  savast: n
+  arziron: n
+  tauris: ne
+  mausul: n
+  baudas: s
+  saba: ne
+  yasdi: s
+  kerman: ne
+  cobinan: n
+  camadi: e
+  hormos: {pos: s, text: "Hormos? (Minab area)"}
+text:
+  - {text: Tonocain, at: [34.6, 59.0], kind: region}
+  - {text: "Canosalmi · unfixed", at: [27.0, 48.7]}
+  - {text: Persia, at: [36.9, 52.7], kind: region}
+legend: {at: lower left, items: [lines]}

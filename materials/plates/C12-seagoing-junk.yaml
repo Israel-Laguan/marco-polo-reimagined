@@ -1,0 +1,35 @@
+plate: C12
+title: Seagoing junk cutaway
+status: accepted
+use: DIA base (labels added in TikZ)
+tradition: technical line and light wash
+caption: >-
+  Lengthwise schematic of a seagoing junk; hull compartments and limber holes draw on the excavated Quanzhou wreck, while the rig and reconstruction are conjectural. Modern technical illustration. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, corrective_turns: 1, selected: media/plates/drafts/C12/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/C12.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- Three-mast rig, rudder, upper works, jar placement and exact bulkhead geometry are reconstructive; twelve bulkheads, thirteen compartments, nailed hull and limber holes follow Quanzhou wreck F-14. This drawing must not imply watertight compartments.
+post: >-
+  convert media/plates/drafts/C12/gpt-r1-2.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/C12-seagoing-junk.png
+review:
+  script: Pass; no text, labels, numbers or leaders.
+  period: Pass with limits; wreck-derived hull elements and speculative rig are separated in caption.
+  scene: Pass with limits; lengthwise cutaway, sails, jars and stock-mounted axial rudder.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; isolated technical line and light wash.
+  ground_and_aging: Pass; pale paper and broad margins.
+  artifact_risk: Caption identifies modern schematic.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_bulkheads: Pass with limit; twelve internal dividers and thirteen compartments are visible on enlarged inspection; limber holes remain small at print size.
+  must_get_right_limbers: Pass with limit; small holes drawn at bulkhead feet, not water-tight partitions.
+  must_get_right_masts: Pass with limit; the Book describes four tall masts plus two spares, while the three-mast base drawing is explicitly identified as schematic.

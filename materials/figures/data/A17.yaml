@@ -1,0 +1,7 @@
+id: A17
+file: A17-book-and-coast
+layout: strip
+strip:
+  source: "YC Book III, chs. 16, 19–26 (book order); gazetteer coastal references ordered around the peninsula."
+  coast: [mutfili, maabar, cail, comari, coilum, melibar, eli, tana, gozurat, cambaet, semenat, kesmacoran]
+  book: [maabar, mutfili, lar, cail, coilum, comari, eli, melibar, gozurat, tana, cambaet, semenat, kesmacoran]

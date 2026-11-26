@@ -1,0 +1,17 @@
+# B2 — Mongol politics, 1203–1295 (I-F1). DIA.T1: every date from plans/registry/facts.md; `fact` names the row.
+# Axis break over the empty decades. Not yet on the sheet: Baibars (F-39), the St Sabas war's end (F-38).
+id: B2
+file: B2-mongol-politics
+axis:
+  segments: [[1200, 1210], [1255, 1300]]
+  length_cm: 11
+  tick: 10
+events:
+  - {date: 1203, kind: war, label: "Aung Khan's final defeat", note: "he flees to the Naiman, who kill him", fact: F-03}
+  - {date: 1262, kind: war, label: "Mosul surrenders after a siege", fact: F-02}
+  - {from: 1262, to: 1263, kind: war, label: "Berke and Hulagu at war", note: "Hulagu's army routed at the Terek, winter 1262–63", fact: F-01}
+  - {date: 1291.2, date_label: "1291", kind: rule, label: "Argon dies, 10 March", fact: F-33}
+  - {from: 1291.55, to: 1295.25, date_label: "1291–95", kind: rule, label: "Kaikhatu reigns", note: "from 23 July 1291; put to death March–April 1295", fact: F-05}
+  - {date: 1295.75, date_label: "1295", kind: rule, label: "Baidu put to death, 4 October", fact: F-05}
+  - {date: 1295.8, date_label: "1295", kind: rule, label: "Ghazan's reign begins", fact: F-05}
+legend: true

@@ -1,0 +1,105 @@
+# A1 — Series overview: the whole round trip, one colour per volume (each volume's front-02).
+# Line styles follow the leg maps. A1 condenses the waypoints while keeping reconstructed
+# stretches and reports distinct from the named sequence.
+id: A1
+file: A1-series-overview
+extent: [8, 124, -2, 50]
+centre: [66, 24]
+projection: equal_earth
+scale: 50m
+graticule: 10
+scale_km: 1000
+scale_at: [62, 1.5]
+markers: labelled
+routes:
+  # Volume I: Venice to the Khan
+  - vol: I
+    style: stated            # Prologue 9–12 names Venice, Acre and Ayas.
+    path: [venice, [44.4, 13.2], [42.3, 16.5], [40.0, 19.0], [37.0, 20.7], [35.9, 24.0], [35.2, 28.0],
+           [34.0, 31.5], acre, [33.6, 34.7], [35.6, 35.6], ayas]
+  - vol: I
+    style: inferred          # A4: via Tauris or via Mausul/Baudas; this is the Tauris variant
+    path: [ayas, savast, arziron, tauris, saba, kashan, yasdi, kerman]
+  - vol: I
+    style: inferred          # Yule reconstructs an outbound detour; Minab is a regional reference
+    path: [kerman, camadi, reobarles, hormos, kerman]
+  - vol: I
+    style: stated            # the Book continues from Kerman through Balc and Badashan
+    path: [kerman, cobinan, tonocain, sapurgan, balc, taican, badashan]
+  - vol: I
+    style: inferred          # A5: the exact crossing of the Pamier is unknown
+    path: [badashan, vocan, pamier, cascar]
+  - vol: I
+    style: stated            # the Book's Tarim and Tangut sequence
+    path: [cascar, yarcan, cotan, pein, charchan, lop, sachiu, sukchur, campichu]
+  - vol: I
+    style: inferred          # A6: the eastern itinerary is interrupted by digressions
+    path: [campichu, erguiul, egrigaia, chandu]
+  - vol: I
+    style: stated            # Chandu and Cambaluc are named stages in the Book's account
+    path: [chandu, cambaluc]
+  # Volume II: the Khan's realm
+  - vol: II
+    style: stated            # A10: named west-road sequence before the Qinling crossing
+    path: [cambaluc, pulisanghin, juju, taianfu, pianfu, cachanfu, kenjanfu]
+  - vol: II
+    style: inferred          # A10 and A11: Qinling crossing and route through the southwest marches
+    path: [kenjanfu, acbalec-manzi, sindafu, caindu, yachi, talifu, vochan]
+  - vol: II
+    style: reported          # The Vochan–Mien continuation is a reported side account.
+    path: [vochan, mien]
+  - vol: II
+    style: stated            # A12: the named canal sequence
+    path: [cambaluc, cacanfu, changlu, sinjumatu, piju, siju, coiganju, yanju, chinghianfu, suju, kinsay]
+  - vol: II
+    style: inferred          # A13: the Fujian stages and the course to Zayton are reconstructed
+    path: [kinsay, vuju-2, kelinfu, fuju, zayton]
+  # Volume III: the seas and the return (as A16)
+  - vol: III
+    style: inferred          # Prologue 18 leaves the departure port and first coastal calls unnamed.
+    path: [zayton, [21.5, 113.5], [15, 110.5], chamba]
+  - vol: III
+    style: inferred          # Chamba–Samara connects the maritime chapters with the Prologue by inference.
+    path: [chamba, [9.0, 107.0], [8.7, 106.6], [3.5, 105.5], [1.15, 104.5], [2.6, 101.2], [4.2, 99.0], samara]
+  - vol: III
+    style: inferred          # Prologue 18 gives no list of the Indian Ocean ports.
+    path: [samara, [6.4, 94.5], [6.5, 84.0], seilan, [9.6, 80.3], maabar, [8.7, 78.1], [7.6, 77.5], [8.9, 76.6],
+           melibar, [14.5, 72.5], [21.5, 63.5], [24.6, 58.6], [26.2, 57.0], hormos]
+  - vol: III
+    style: inferred          # The Gulf landfall and Persian road are reconstructed.
+    path: [hormos, kerman, tauris, trebizond]
+  - vol: III
+    style: stated            # Prologue 18 names these four western stages; the course is illustrative.
+    path: [trebizond, [41.9, 37.5], [42.3, 35.0], [41.7, 32.0], [41.25, 29.15], constantinople, [40.8, 27.5],
+           [40.15, 26.3], [39.3, 25.0], negropont, [37.9, 24.4], [36.3, 23.3], [36.5, 21.4], [38.5, 20.3],
+           [40.0, 19.0], [42.3, 16.5], [44.4, 13.2], venice]
+label:
+  venice: w
+  acre: w
+  ayas: n
+  trebizond: n
+  tauris: e
+  kerman: w
+  hormos: {pos: se, text: "Hormos? (Minab area)"}
+  balc: n
+  cascar: n
+  cotan: s
+  sachiu: s
+  chandu: n
+  cambaluc: e
+  sindafu: w
+  vochan: w
+  mien: w
+  kinsay: w
+  zayton: {pos: w, offset: [-5, -7]}
+  chamba: e
+  samara: {pos: sw, text: "Samara (possible stop)"}
+  seilan: se
+  melibar: w
+text:
+  - {text: "Persia", at: [32.0, 54.0], kind: region}
+  - {text: "Cathay", at: [36.3, 114.6], kind: region}
+  - {text: "Manzi", at: [27.5, 113.0], kind: region}
+  - {text: "India", at: [21.0, 78.0], kind: region}
+  - {text: "Sea of India", at: [6.0, 68.0], kind: sea}
+legend: {at: lower left, items: [volumes, lines, markers]}

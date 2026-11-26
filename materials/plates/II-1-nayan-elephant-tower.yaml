@@ -1,0 +1,132 @@
+plate: II-1
+title: Kublai on the elephant-borne tower at the Nayan battle
+status: accepted
+tradition: Yuan court painting
+caption: The opposing parties wait before the Nayan battle of 1287, with Cublay seated on the elephant-borne tower
+  described by Polo. The Book’s spectacle numbers are inflated. Modern illustration in the manner of Yuan court
+  painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model, version undisclosed by the tool
+job_id: none, chat output
+date: '2026-11-18'
+route: GPT trial (not the PLT table's route)
+params:
+  scale: '2:1'
+  size: 1774x887
+  rounds: 1
+  candidates: 2
+  selected: media/plates/drafts/II-1/detail-correction-1.png
+prompt: media/plates/prompts/II-1.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/kublai-1280-sheet.webp
+  use: edit OK
+  licence: Project-generated working reference with accepted sidecar
+  credit: The Book of the Million, Kublai 1280 character sheet
+- file: media/characters/nayan-1287-sheet.png
+  use: edit OK
+  licence: Project-generated working reference with accepted sidecar
+  credit: The Book of the Million, Nayan 1287 character sheet
+- file: media/reference/s22/npm-khubilai-hunting-figures.jpg
+  use: edit OK
+  licence: Public domain
+  credit: National Palace Museum, Taipei, Liu Guandao (attributed), Khubilai Khan Hunting, 1280. Ebrey 1999 reproduction
+    via Wikimedia Commons.
+figures:
+- id: kublai
+  year: 1287
+  cue: "[PERIOD] Cublay, c. 72 in 1287: broad round face, fair-to-ruddy skin ('white and red' — Polo), dark eyes,\
+    \ thin moustache and small beard; well-built at 50, heavy by 65, corpulent and gouty after 1280.\n         Dress\
+    \ (court): single-colour Mongol robe of the feast day (white at New Year) with a crossed collar, fur trim in\
+    \ winter; the small rounded pale hat with a narrow brim and a knob on top; hair in looped braids behind the\
+    \ ears (S-22 C1; NPM portrait).\n         Dress (hunt and war): white fur coat flecked with black tufts, dark\
+    \ fur collar and cuffs, over a red robe patterned in gold; a red-topped cap; boots; quiver at the saddle; a\
+    \ dark, stocky horse with a round blue saddle-cloth (S-22 C3, Liu Guandao 1280).\n         After c. 1280 carried,\
+    \ not walking or riding far: elephant-borne chamber or litter (Polo's hunt, the Nayan battle).\n         A gerfalcon\
+    \ in hunting scenes.\n         No crown (except in the LdM lens).\n[AVOID]  Qing dragon robe, yellow as imperial\
+    \ colour, queue; crown outside the LdM lens; Chinggis-style armour at court; fur-and-leather 'barbarian' dress\
+    \ (S-22 [AVOID])"
+- id: nayan
+  year: 1287
+  cue: "[PERIOD] Nayan, ? in 1287: about 30, seen at a distance across the field.\n         Dress (the eastern plain):\
+    \ Mongol prince's armour: red-lacquered lamellae, deep bowl helmet with brow band and neck guard (Takashima\
+    \ 1281 Yuan finds, Matsuura Report 4: text, not an image).\n         The cross on his standard: he was a baptised\
+    \ Christian (the Book).\n[AVOID]  placing any Polo on the field"
+cues:
+- C3
+- C5
+unsourced:
+- The exact bartizan design, elephant harness and placement are schematic reconstructions of Polo’s literary description.
+- The open plain and disposition of the two small groups are generic. Nayan’s pennon design follows the accepted
+  sheet while its precise shape and colours remain a visual convention.
+post: convert media/plates/drafts/II-1/detail-correction-1.png -filter Lanczos -resize 2700x1350 -unsharp 0x0.75+0.5+0
+  -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-1-nayan-elephant-tower.png
+review:
+  script: Pass. Both standards, silk corners, harness and the platform carry no lettering or seal. The tiny ringed
+    cross is an emblem.
+  period: Pass with source limits. The 1287 figures follow the separate cards, the hunt painting supplies period
+    coat and tack detail, and the elephant platform is reconstructed.
+  scene: Pass. Cublay sits on a boarded platform carried by four elephants. A white tug and two mounted escorts
+    mark his party. Nayan and two attendants wait across the plain. Six people total.
+  sacred_figures: Pass. Nayan’s historical association is denoted by one cross on his pennon. There are no sacred
+    figures.
+  idiom: Pass. The fine horse and cloth outlines, graded silk washes and separate groups across spare ground read
+    as Yuan court painting.
+  ground: Pass. Even pale warm silk with fine weave and no mounting seam.
+  artifact_risk: Moderate. The old silk idiom is plausible enough to warrant the required modern illustration label.
+  print: Pass. Native 1774×887 composition fills the 2:1 crop. Master 2700×1350 at 300 ppi. Faces, fingers, banners
+    and tack checked at full scale.
+  sidecar: Pass. GPT route, prompt, selected turn, negative, inputs, figure cues, exact post command and review
+    are recorded.
+  must_get_right:
+    kublai_about_72_and_heavy: Pass. Kublai is heavyset with a head comparable to nearby riders, though elderly
+      facial detail is small at this scale.
+    white_tug: Pass. The white horsehair hangs from a separate pole against the silk.
+    modest_host: Pass. The two small groups stand in for the armies without suggesting inflated totals.
+    c3: Pass. Spotted white fur with dark collar and cuffs, red patterned robe beneath, and red-topped cap.
+    c5: Pass. Small stocky horses, simple period garments and rounded saddle cloths with restrained red tack accents.
+    elephant_tower: Pass. Four adult elephant heads and trunks are visible below the platform.
+    nayan: Pass. Seen across the field with his own narrow dark-blue pennon and gold cross. Red lamellae, bowl helmet
+      and neck guard follow his card. The Polos are absent.
+  perspective_revision: Kublai is scaled to the mounted escorts and four elephant heads and trunks are visible under
+    the tower. The elephant harness and platform remain a reconstruction.
+  detail_corrections: The foreground elephant's visible legs now connect to its body with clearer separation from
+    neighbouring animals. Four elephants remain.
+follow_up: The one tower must read as carried by FOUR Asian elephants. Do not hide the head of any of the four.
+  Use an oblique view, with the large platform on the backs of two near elephants and two farther elephants, each
+  distinct head and gently curved trunk visible as a separate silhouette left-to-right in four staggered positions.
+  Leave an empty lane immediately in front of this compact elephant group, so horses do not obscure it. Cublay’s
+  cheeks and broad jaw should show his advanced age, with wrinkles, greying small beard and much greater seated
+  weight. Keep both standards separate, the white horsehair tug above his group and Nayan's dark blue pennon with
+  the tiny gold ringed cross farther across the open field.
+candidate_reviews:
+- file: gpt-r1-1.png
+  result: Rejected. Only three elephant heads were legible and the Kaan’s face read too young.
+- file: gpt-r1-2.png
+  result: Selected. Four elephant heads, older Cublay and legible separate standards.
+perspective_revision:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  model: GPT image model, version undisclosed by the tool
+  job_id: none, chat output
+  edit_input: media/plates/drafts/II-1/before-perspective-revision.png
+  prompt: media/plates/prompts/II-1-perspective-revision.txt
+  candidates:
+  - media/plates/drafts/II-1/perspective-revision-1.png
+  - media/plates/drafts/II-1/perspective-revision-2.png
+  selected: media/plates/drafts/II-1/perspective-revision-2.png
+  previous_sidecar: media/plates/drafts/II-1/before-perspective-revision.yaml
+  previous_post: convert media/plates/drafts/II-1/gpt-r1-2.png -crop 1774x887+0+0 +repage -filter Lanczos -resize
+    2700x1350 -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density
+    300 media/plates/II-1-nayan-elephant-tower.png
+  review: Kublai is scaled to the mounted escorts and four elephant heads and trunks are visible under the tower.
+    The elephant harness and platform remain a reconstruction.
+detail_corrections:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  edit_input: media/plates/drafts/II-1/before-detail-corrections.png
+  prompt: media/plates/prompts/II-1-detail-corrections.txt
+  candidates:
+  - media/plates/drafts/II-1/detail-correction-1.png
+  selected: media/plates/drafts/II-1/detail-correction-1.png
+  previous_sidecar: media/plates/drafts/II-1/before-detail-corrections.yaml

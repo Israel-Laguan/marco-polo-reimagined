@@ -1,0 +1,17 @@
+# B3 — Kublai's reign and the Polo calendar (II-F1). DIA.T1: every date from plans/registry/facts.md; `fact` names the row.
+# Chingkim (F-06) and the fleet's sailing (F-15) are open: spans, not points.
+id: B3
+file: B3-kublai-polo-calendar
+axis:
+  segments: [[1258, 1296]]
+  length_cm: 11
+  tick: 5
+events:
+  - {date: 1260, kind: rule, label: "Kublai proclaimed Kaan", fact: "B3 Kublai and the Polo calendar"}
+  - {date: 1275.4, date_label: "c. 1275", kind: journey, label: "The Polos reach the court", note: "about May", fact: F-07}
+  - {date: 1282, kind: rule, label: "Ahmad, the finance minister, killed", note: "the record's “Po-lo” is Bolad, not Marco", fact: F-08}
+  - {from: 1284, to: 1286, date_label: "mid-1280s", kind: rule, label: "Chingkim, the heir, dies", fact: F-06}
+  - {date: 1290.3, date_label: "1290", kind: rule, label: "Envoys ordered to fetch Arghun's bride", note: "neither Chinese nor Persian account names the Polos", fact: F-15}
+  - {from: 1290.8, to: 1292.2, date_label: "1290/92", kind: journey, label: "The fleet sails with Cocachin", note: "debated: late 1290 or early 1291 (Yang); early 1292 (Yule)", fact: F-15}
+  - {date: 1294, kind: rule, label: "Kublai dies", fact: "B3 Kublai and the Polo calendar"}
+legend: true

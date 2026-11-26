@@ -1,0 +1,473 @@
+# Character cards (S-05): how each recurring figure is drawn, consistently, across the regional traditions.
+# Names and dates live in characters.yaml; this file holds the visual side, the itinerary of the Polo party,
+# and the plate scenes. python3 tools/characters.py ages   -> age of every figure in every scene + co-presence check
+#                     python3 tools/characters.py cue <card> <year> -> the [PERIOD] lines for a plate prompt
+#
+# A card is not a likeness. No authentic portrait exists of any Polo; where a period image exists (Kublai,
+# Chabi, Chinggis, Hulagu), it is the reference for face and dress, never for composition (style guide rule 5).
+# "house" lines are conventions we invented so that a figure stays recognisable from plate to plate; they are
+# not facts and are never captioned as such.
+#
+# tradition keys: gothic (Italian/French Gothic, Venetian) · ldm (Livre des merveilles marvel lens) ·
+#                 ilkhanid (Jami' al-Tawarikh) · yuan (Yuan court painting) · song (Southern Song / city scroll)
+
+cards:
+
+- id: marco
+  likeness: "none authentic. The Doria Pamphilj portrait and the 1477 Nuremberg woodcut are later inventions: do not use them; house sheet: characters/marco-1271-sheet.png, characters/marco-1285-sheet.png, characters/marco-1298-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "slim, dark-haired, dark-eyed; beardless at 17; short dark beard from about 21; trimmed beard in Venice; grey by 50, white at 69"
+  attributes:
+    - "the youngest of the three Latins in every scene before 1291"
+    - "a merchant's belt-purse (scarsella) in every scene"
+    - "on the Kaan's business (1275–91) and on the return: a gold paiza on a cord; never before 1275"
+  dress:
+    - {from: 1254, to: 1271, where: "Venice, Acre, Layas", dress: "young merchant's knee-length tunic, hooded travelling cloak, hose, low boots, felt hat or coif"}
+    - {from: 1272, to: 1275, where: "the road", dress: "young merchant's tunic and hooded cloak, layered for weather: fur-lined coat and felt boots in the Pamier and Lop"}
+    - {from: 1275, to: 1291, where: "Cathay and Manzi", dress: "Mongol-style robe over trousers and boots, cut as S-22 C1: crossed collar, short-sleeved outer robe over a long-sleeved under-robe; at court the single colour of the feast (white at the White Feast); the small rounded hat with a narrow brim and a knob on top (C1); his own short hair, not the looped braids of Mongol men; still bearded, still the purse"}
+    - {from: 1291, to: 1295, where: "the return", dress: "worn Mongol travelling robes (Ramusio: they came home in Tartar dress)"}
+    - {from: 1296, to: 1324, where: "Genoa, Venice", dress: "Venetian citizen's long gonella and mantle in plain good cloth (green, blue or ochre), coif, small round cap or soft pointed hat (S-22 C39, San Marco Sant'Alipio lunette, 13th c.); in 1324 a sick-bed and a fur-lined gown"}
+  traditions:
+    gothic: "a Venetian merchant-citizen of the 1290s; plain good cloth, no nobleman's arms"
+    ldm: "an early-15th-c. French gentleman, as the Livre des merveilles draws him; the lens itself says 'imagined'"
+    ilkhanid: "a Frank as Rashid al-Din's painters show Franks: bareheaded or in a soft cap, European-cut tunic, beside turbaned Persians and fur-hatted Mongols"
+    yuan: "a western foreigner by Chinese convention (high nose, full beard), dressed as a Mongol official"
+  avoid: ["crown, coat of arms, sword-belt of a knight", "a monk's habit", "a paiza before 1275", "Renaissance dress (the 16th-c. portrait)"]
+  references:
+    - {cue: "none", source: "characters/marco-1271-sheet.png", use: "own sheet", seen: "viewed", for: "house face at 17, Venice"}
+    - {cue: "none", source: "characters/marco-1285-sheet.png", use: "own sheet", seen: "viewed", for: "house face at 31, Mongol dress, paiza"}
+    - {cue: "none", source: "characters/marco-1298-sheet.png", use: "own sheet", seen: "viewed", for: "house face at 44, Genoese/Venetian dress"}
+    - {cue: "C1, C2", source: "reference/s22/met-1992.54-DP-32259-004.jpg", use: "edit OK", seen: "viewed", for: "Mongol court robes and boqta, c. 1330–32 (late)"}
+    - {cue: "C39", source: "Commons: Porta Sant'Alipio lunette, San Marco (registry/visual-references.md § C39)", use: "not saved", seen: "viewed", for: "Venetian civic dress, 13th c."}
+    - {cue: "C43", source: "references/ref_I-01_cocharelli-bl-add27695-f3v-genoese-dress.jpg", use: "edit OK", seen: "viewed", for: "Genoese dress, c. 1330–40 (late)"}
+    - {cue: "none", source: "references/ref_I-02_ldm-fr2810-f3r-khan-and-polos.jpg", use: "look only", seen: "viewed", for: "LdM lens only: the Khan and the Polos, c. 1410"}
+
+- id: niccolo
+  likeness: "none authentic; house sheet: characters/niccolo-maffeo-1285-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "the elder-looking brother: broad, heavy-set, greying beard by 1271, white by 1295; the one who speaks, kneels first and holds the letters"
+  attributes: ["the papal letters and the flask of oil from the Sepulchre lamp (1271–75)", "the gold paiza of 1266 on the first return"]
+  dress:
+    - {from: 1260, to: 1269, where: "the first journey", dress: "Latin merchant travel dress: tunic, hooded cloak, boots"}
+    - {from: 1269, to: 1295, where: "as Marco", dress: "as Marco's card for each period, an older man's longer robe"}
+  traditions:
+    gothic: "a senior Venetian merchant, long gown and cap"
+    ldm: "an elderly French-dressed gentleman with a long beard"
+    ilkhanid: "a Frank, as Marco"
+    yuan: "a western foreigner, as Marco, the oldest of the three"
+  avoid: ["any attribute of rank beyond the paiza"]
+  references:
+    - {cue: "none", source: "characters/niccolo-maffeo-1285-sheet.png", use: "own sheet", seen: "viewed", for: "Niccolò, left figure"}
+    - {cue: "none", source: "characters/marco-1285-sheet.png", use: "own sheet", seen: "viewed", for: "family resemblance; dress in Cathay"}
+    - {cue: "C1, C2", source: "reference/s22/met-1992.54-DP-32259-004.jpg", use: "edit OK", seen: "viewed", for: "Mongol court robes and boqta, c. 1330–32 (late)"}
+    - {cue: "none", source: "references/ref_I-02_ldm-fr2810-f3r-khan-and-polos.jpg", use: "look only", seen: "viewed", for: "LdM lens only: the Khan and the Polos, c. 1410"}
+    - {cue: "none", source: "references/ref_I-02_omont1907-pl1-f1r-page.jpg", use: "edit OK", seen: "viewed", for: "LdM lens: free monochrome facsimile"}
+
+- id: maffeo
+  likeness: "none authentic; house sheet: characters/niccolo-maffeo-1285-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "leaner and taller than Niccolò, a long dark beard going grey; carries the travelling gear"
+  attributes: ["stands behind or beside Niccolò, never in front of him"]
+  dress:
+    - {from: 1260, to: 1295, where: "both journeys", dress: "as Niccolò"}
+  traditions:
+    gothic: "as Niccolò"
+    ldm: "as Niccolò"
+    ilkhanid: "as Marco"
+    yuan: "as Marco"
+  avoid: ["depicting Marta or children as present on a journey without scene evidence; his marriage is reported by Bolognari and Simion via Burgio, children disputed"]
+  references:
+    - {cue: "none", source: "characters/niccolo-maffeo-1285-sheet.png", use: "own sheet", seen: "viewed", for: "Maffeo, right figure"}
+    - {cue: "none", source: "characters/marco-1285-sheet.png", use: "own sheet", seen: "viewed", for: "family resemblance; dress in Cathay"}
+    - {cue: "C1, C2", source: "reference/s22/met-1992.54-DP-32259-004.jpg", use: "edit OK", seen: "viewed", for: "Mongol court robes and boqta, c. 1330–32 (late)"}
+    - {cue: "none", source: "references/ref_I-02_ldm-fr2810-f3r-khan-and-polos.jpg", use: "look only", seen: "viewed", for: "LdM lens only: the Khan and the Polos, c. 1410"}
+    - {cue: "none", source: "references/ref_I-02_omont1907-pl1-f1r-page.jpg", use: "edit OK", seen: "viewed", for: "LdM lens: free monochrome facsimile"}
+
+- id: rustichello
+  likeness: "none; house sheet: characters/rustichello-1298-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "older than Marco (in his fifties in 1298), clean-shaven or short grey beard, a writer's stoop"
+  attributes: ["loose parchment quires, quill, ink-horn, penknife", "a writing board on his knee"]
+  dress:
+    - {from: 1298, to: 1299, where: "Genoa", dress: "a sober tunic and mantle, with coif; dress is a visual convention, clerical or lay status unverified"}
+  traditions:
+    gothic: "a scribe at work, as in Gothic author-portraits; no claim of religious or lay status"
+  avoid: ["habit or tonsure presented as documented", "chains or a dungeon presented as documented"]
+  references:
+    - {cue: "none", source: "characters/rustichello-1298-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C43", source: "references/ref_I-01_cocharelli-bl-add27695-f3v-genoese-dress.jpg", use: "edit OK", seen: "viewed", for: "Genoese dress, c. 1330–40 (late)"}
+    - {cue: "C31, C41", source: "Smithsonian F1956.11 (inferred); Matenadaran MS 10675 via Commons (registry/visual-references.md)", use: "not saved", seen: "viewed", for: "a writer's posture and furniture only (both are Evangelists)"}
+
+- id: kublai
+  likeness: "Yuan imperial portrait album (National Palace Museum, Taipei): face and court dress. Liu Guandao, Khubilai Khan Hunting (1280): body at 65, white fur over a red robe; house sheet: characters/kublai-1280-sheet.webp (CHR.T9, accepted 2026-11-18)"
+  house: "broad round face, fair-to-ruddy skin ('white and red' — Polo), dark eyes, thin moustache and small beard; well-built at 50, heavy by 65, corpulent and gouty after 1280"
+  attributes:
+    - "after c. 1280 carried, not walking or riding far: elephant-borne chamber or litter (Polo's hunt, the Nayan battle)"
+    - "a gerfalcon in hunting scenes"
+    - "no crown (except in the LdM lens)"
+  dress:
+    - {from: 1260, to: 1294, where: "court", dress: "single-colour Mongol robe of the feast day (white at New Year) with a crossed collar, fur trim in winter; the small rounded pale hat with a narrow brim and a knob on top; hair in looped braids behind the ears (S-22 C1; NPM portrait)"}
+    - {from: 1260, to: 1294, where: "hunt and war", dress: "white fur coat flecked with black tufts, dark fur collar and cuffs, over a red robe patterned in gold; a red-topped cap; boots; quiver at the saddle; a dark, stocky horse with a round blue saddle-cloth (S-22 C3, Liu Guandao 1280)"}
+  traditions:
+    yuan: "as the NPM portrait and Liu Guandao; Han painters show him larger than his attendants but not a giant"
+    ilkhanid: "an enthroned khan as Rashid al-Din's painters show the Great Khans: cross-legged on a wide throne, consort beside him"
+    ldm: "an old white-bearded king in a pointed gold hat (fr. 2810 fol. 3v) or a turban before a tent (fol. 2v), as the Livre des merveilles draws him"
+  avoid: ["Qing dragon robe, yellow as imperial colour, queue", "crown outside the LdM lens", "Chinggis-style armour at court", "fur-and-leather 'barbarian' dress (S-22 [AVOID])"]
+  references:
+    - {cue: "none", source: "characters/kublai-1280-sheet.webp", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "none", source: "reference/s22/npm-khubilai-portrait.jpg", use: "edit OK", seen: "saved, not examined closely", for: "face (NPM album)"}
+    - {cue: "C3, C4, C5", source: "reference/s22/npm-khubilai-hunting-figures.jpg", use: "edit OK", seen: "viewed", for: "Liu Guandao 1280: hunt dress, riders, a court woman riding"}
+    - {cue: "C1, C2", source: "reference/s22/met-1992.54-DP-32259-004.jpg", use: "edit OK", seen: "viewed", for: "Mongol court robes and boqta, c. 1330–32 (late)"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+    - {cue: "none", source: "references/ref_I-02_ldm-fr2810-f3v-golden-tablet.jpg", use: "look only", seen: "viewed", for: "LdM lens only"}
+
+- id: chabi
+  likeness: "her portrait in the NPM album of Yuan empresses, companion to the emperors' album (confirmed by S-11: Commons YuanEmpressAlbumChabi.jpg; copy in media/references/); house sheet: characters/chabi-1275-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "round face, composed; middle-aged in the 1270s"
+  attributes: ["at court, the tall boqta headdress of a married Mongol noblewoman; riding, no boqta (S-22 C4)"]
+  dress:
+    - {from: 1260, to: 1281, where: "court", dress: "very wide red-orange robe with gold pattern and a patterned band along the crossed collar; the tall red boqta, a close cap hiding all the hair, rising in a narrow column that flares to a flat top; long pearl pendants from the ears to the chest (S-22 C2)"}
+    - {from: 1260, to: 1281, where: "hunt, on horseback", dress: "no tall headdress: a plain white robe, a small dark cap with a red band, hair in looped braids at the ears (S-22 C4, Liu Guandao 1280)"}
+  traditions:
+    yuan: "as the NPM portrait; beside Kublai in Liu Guandao's hunt"
+    ilkhanid: "the consort beside the khan on the throne"
+  avoid: ["any scene after 1281: the consort is then Nambui", "loose hair or a tiara (S-22 [AVOID])"]
+  references:
+    - {cue: "none", source: "characters/chabi-1275-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "none", source: "references/ref_II-chabi_npm-yuan-empress-album.jpg", use: "edit OK", seen: "viewed", for: "face, boqta and pearls (NPM album)"}
+    - {cue: "none", source: "reference/s22/npm-chabi-portrait.jpg", use: "edit OK", seen: "saved, not examined closely", for: "face (NPM album, S-22 copy)"}
+    - {cue: "C3, C4, C5", source: "reference/s22/npm-khubilai-hunting-figures.jpg", use: "edit OK", seen: "viewed", for: "Liu Guandao 1280: hunt dress, riders, a court woman riding"}
+    - {cue: "C1, C2", source: "reference/s22/met-1992.54-DP-32259-004.jpg", use: "edit OK", seen: "viewed", for: "Mongol court robes and boqta, c. 1330–32 (late)"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: chinghis
+  likeness: "NPM album portrait (made under Kublai, long after his death; shows him old and white-bearded); house sheet: characters/chinghis-1206-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "at 41 (1203): black-bearded, broad, weather-worn; white-bearded only near 1227"
+  attributes: ["the white tug standard of the ruler"]
+  dress:
+    - {from: 1203, to: 1227, where: "steppe", dress: "felt and fur steppe coat, fur-trimmed hat; lamellar armour in battle"}
+  traditions:
+    ilkhanid: "as the Jami' al-Tawarikh folios show Chinggis enthroned or on campaign"
+    yuan: "as the NPM portrait, aged to the scene"
+  avoid: ["modern Mongolian statue iconography", "the white beard in a 1203 scene"]
+  references:
+    - {cue: "none", source: "characters/chinghis-1206-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "none", source: "NPM Yuan imperial portrait album, Chinggis (made under Kublai)", use: "not saved", seen: "not viewed", for: "face; posthumous portrait"}
+
+- id: hulagu
+  likeness: "Jami' al-Tawarikh folios of Hulagu (with Doquz Khatun); house sheet: characters/hulagu-1258-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 40 at Baghdad, stocky, moustache and thin beard"
+  attributes: ["lamellar armour and fur hat at Baghdad"]
+  dress:
+    - {from: 1256, to: 1265, where: "Persia, Iraq", dress: "Mongol lamellar armour over a robe; fur-trimmed hat, or a round helmet with a gold rim and a ring of studs framing the face; a black quiver at the back (S-22 C37, Ilkhanid horsemen c. 1299: some 35 years late)"}
+  traditions:
+    ilkhanid: "as the JT folios"
+    ldm: "an oriental king in a turban-crown, as the LdM draws him at Baudac (plate I-05 uses this lens)"
+  avoid: ["Arab dress", "European plate armour outside the LdM lens"]
+  references:
+    - {cue: "none", source: "characters/hulagu-1258-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "none", source: "reference/s22/edinburgh-orms20-siege-of-zarang.jpg", use: "edit OK", seen: "saved, not examined closely", for: "Jami' al-Tawarikh armour and idiom"}
+    - {cue: "C37", source: "Cleveland 1944.480, c. 1299 (registry/visual-references.md § C37)", use: "not saved", seen: "viewed", for: "Ilkhanid helmets, quivers (some 35 years late)"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: mustasim
+  likeness: "none; house sheet: characters/mustasim-1258-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 45, full dark beard, soft and courtly beside the armoured Mongols"
+  attributes: ["heaps of gold and silver around him in the tower (Polo's exemplum)"]
+  dress:
+    - {from: 1258, to: 1258, where: "Baudac", dress: "Abbasid black robes and black turban"}
+  traditions:
+    ldm: "an old oriental prince, as the LdM draws him"
+    ilkhanid: "an Abbasid caliph as Arab and Persian painters show one"
+  avoid: ["the Prophet or any sacred figure in the scene"]
+  references:
+    - {cue: "none", source: "characters/mustasim-1258-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: bayan
+  likeness: "none; house sheet: characters/bayan-1275-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 40 in 1276, a lean commander, moustache, composed"
+  attributes: ["receives, does not grasp: the Song seal is brought to him"]
+  dress:
+    - {from: 1274, to: 1276, where: "Manzi campaign", dress: "Mongol commander's coat of red-lacquered lamellae; a deep bowl helmet with brow band, neck guard and a crest fitting at the crown, or a fur-trimmed hat off the field; black-lacquered bow in its case, arrows in a lacquered quiver (Takashima 1281 Yuan finds, Matsuura Report 4: text, not an image)"}
+  traditions:
+    song: "seen from the Song side, small among his host, in an elegiac landscape"
+    yuan: "a victorious Mongol general"
+  avoid: ["a hundred eyes or any pun on 'Hundred-Eyes' (legend)"]
+  references:
+    - {cue: "none", source: "characters/bayan-1275-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "none", source: "Matsuura City Report 4 (2011), p. 290 (registry/visual-references.md § Text facts)", use: "text", seen: "read", for: "Yuan armour 1281: red-lacquered lamellae, bowl helmet, lacquered bow and quiver"}
+    - {cue: "none", source: "reference/s22/moko-shurai-ekotoba-scroll.jpg", use: "edit OK", seen: "viewed", for: "Yuan troops 1274/1281; take kit from the plain foot soldiers, not the post-1709 additions"}
+
+- id: nayan
+  likeness: "none; house sheet: characters/nayan-1287-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 30, seen at a distance across the field"
+  attributes: ["the cross on his standard: he was a baptised Christian (the Book)"]
+  dress:
+    - {from: 1287, to: 1287, where: "the eastern plain", dress: "Mongol prince's armour: red-lacquered lamellae, deep bowl helmet with brow band and neck guard (Takashima 1281 Yuan finds, Matsuura Report 4: text, not an image)"}
+  traditions:
+    yuan: "the enemy host, small, under the cross banner"
+  avoid: ["placing any Polo on the field"]
+  references:
+    - {cue: "none", source: "characters/nayan-1287-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "none", source: "Matsuura City Report 4 (2011), p. 290 (registry/visual-references.md § Text facts)", use: "text", seen: "read", for: "Yuan armour 1281: red-lacquered lamellae, bowl helmet, lacquered bow and quiver"}
+    - {cue: "none", source: "characters/kublai-1280-sheet.webp", use: "own sheet", seen: "viewed", for: "Yuan brushwork and palette only"}
+
+- id: kaidu
+  likeness: "none; house sheet: characters/kaidu-1280-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "in his fifties in the 1280s, hard, weathered, greying beard"
+  attributes: ["the steppe court: tents, wagered horses"]
+  dress:
+    - {from: 1270, to: 1301, where: "Central Asia", dress: "Mongol prince's robe and fur hat"}
+  traditions:
+    ilkhanid: "an enthroned steppe ruler as in the JT"
+  avoid: []
+  references:
+    - {cue: "none", source: "characters/kaidu-1280-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: aijaruc
+  likeness: "none; house sheet: characters/aijaruc-1280-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 20, very tall and strongly built ('almost a giantess' — Polo), unmarried"
+  attributes: ["wrestles in a close jerkin (the Book: sammet)", "braided hair, no boqta: she is unmarried in the scene"]
+  dress:
+    - {from: 1275, to: 1295, where: "Kaidu's court", dress: "close-fitting jerkin over trousers and boots for the bout"}
+  traditions:
+    ilkhanid: "as JT women of the Mongol house, but in a wrestling stance"
+  avoid: ["the boqta", "modern 'warrior princess' armour"]
+  references:
+    - {cue: "none", source: "characters/aijaruc-1280-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: cocachin
+  likeness: "none; house sheet: characters/cocachin-1291-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 17 at the choosing (c. 1290), composed, central in every scene she is in"
+  attributes:
+    - "unmarried at Cambaluc and Zayton (1290–91): braided hair, no boqta"
+    - "married to Ghazan from 1293/94: the boqta"
+  dress:
+    - {from: 1290, to: 1293, where: "Cathay, the voyage", dress: "Mongol noble maiden's wide-sleeved robe; hair in looped braids at the ears under a small dark cap (S-22 C4, a riding court woman: comparandum, her status unknown)"}
+    - {from: 1293, to: 1296, where: "Persia", dress: "married Mongol noblewoman's very wide robe with a patterned band along the crossed collar; the tall boqta hiding all the hair; long pearl ear pendants (S-22 C2: Met 1992.54 and the Persian Diez A fol. 70)"}
+  traditions:
+    yuan: "a Mongol bride of the Bayaut, attended by Arghun's three envoys (Oulatay, Apusca, Coja) in Persian-Mongol dress"
+    ilkhanid: "as JT consorts, beside Ghazan"
+  avoid: ["the boqta before her marriage", "loose hair or a tiara (S-22 [AVOID])"]
+  references:
+    - {cue: "none", source: "characters/cocachin-1291-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C3, C4, C5", source: "reference/s22/npm-khubilai-hunting-figures.jpg", use: "edit OK", seen: "viewed", for: "Liu Guandao 1280: hunt dress, riders, a court woman riding"}
+    - {cue: "C1, C2", source: "reference/s22/met-1992.54-DP-32259-004.jpg", use: "edit OK", seen: "viewed", for: "Mongol court robes and boqta, c. 1330–32 (late)"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: ghazan
+  likeness: "Jami' al-Tawarikh enthronement folios; house sheet: characters/ghazan-1295-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "young (about 22 in 1293), slight"
+  attributes: []
+  dress:
+    - {from: 1293, to: 1304, where: "Persia", dress: "Ilkhanid prince's robe and hat; turban after his conversion (1295)"}
+  traditions:
+    ilkhanid: "as the JT"
+  avoid: ["the turban before 1295"]
+  references:
+    - {cue: "none", source: "characters/ghazan-1295-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: tedaldo
+  likeness: "none; house sheet: characters/tedaldo-1270-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "about 60 in 1271"
+  attributes: ["the letters for the Kaan; two friars beside him"]
+  dress:
+    - {from: 1269, to: 1271, where: "Acre", dress: "archdeacon and legate: cassock, mantle, biretta-like cap"}
+    - {from: 1271, to: 1276, where: "after election", dress: "papal dress"}
+  traditions:
+    gothic: "a Gothic churchman"
+    ldm: "the LdM's pope or legate"
+  avoid: ["papal tiara before September 1271"]
+  references:
+    - {cue: "none", source: "characters/tedaldo-1270-sheet.png", use: "own sheet", seen: "viewed", for: "house convention; no period image of a legate at Acre is recorded"}
+
+- id: donata
+  likeness: "none; house sheet: characters/donata-1305-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "Venetian patrician wife; in her forties in 1324"
+  attributes: ["widow's veil only after Marco's death"]
+  dress:
+    - {from: 1300, to: 1324, where: "Venice", dress: "long gown, mantle, married woman's veil and wimple (S-22 C39: long gowns and veils, without its crowns)"}
+  traditions:
+    gothic: "as Paolo Veneziano's donor figures"
+  avoid: ["any scene before c. 1300: not at the 1295 homecoming"]
+  references:
+    - {cue: "none", source: "characters/donata-1305-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C39", source: "Commons: Porta Sant'Alipio lunette, San Marco (registry/visual-references.md § C39)", use: "not saved", seen: "viewed", for: "Venetian civic dress, 13th c."}
+
+- id: peter-the-tartar
+  likeness: "none; house sheet: characters/peter-the-tartar-1324-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "a Tatar man in Venetian service dress: a broad Central Asian face with high cheekbones and narrow dark eyes, short straight black hair greying at the temples; his foreignness is in his face, not his clothes"
+  attributes: ["present at the will, 1324"]
+  dress:
+    - {from: 1324, to: 1324, where: "Venice", dress: "a servant's tunic, Venetian cut"}
+  traditions:
+    gothic: "a servant at the bedside"
+  avoid: ["the 1295 homecoming, unless S-15 finds when he came"]
+  references:
+    - {cue: "none", source: "characters/peter-the-tartar-1324-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C39", source: "Commons: Porta Sant'Alipio lunette, San Marco (registry/visual-references.md § C39)", use: "not saved", seen: "viewed", for: "Venetian civic dress, 13th c."}
+
+- id: cepoy
+  likeness: "none; house sheet: characters/cepoy-1307-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "a French knight in his prime"
+  attributes: ["receives the manuscript"]
+  dress:
+    - {from: 1307, to: 1307, where: "Venice", dress: "French noble's surcoat and mantle, sword"}
+  traditions:
+    gothic: "as French Gothic donor portraits"
+  avoid: []
+  references:
+    - {cue: "none", source: "characters/cepoy-1307-sheet.png", use: "own sheet", seen: "viewed", for: "house convention; no period image recorded"}
+
+- id: toghrul
+  likeness: "none; house sheet: characters/toghrul-1203-sheet.png (CHR.T9, accepted 2026-11-18)"
+  house: "an older steppe ruler, spare and upright; weathered face, long jaw, a broad divided salt-and-pepper beard; not to be confused with Chinggis or Kublai"
+  attributes: ["Polo's 'Prester John': drawn as a steppe ruler, never with European royal regalia"]
+  dress:
+    - {from: 1190, to: 1203, where: "the steppe (Kereit)", dress: "long belted wrap coat with an overlapping collar, plain cloth belt, low rounded felt cap with a turned brim, dark boots (working convention from steppe court comparanda, Diez A fol. 70; no period image of him)"}
+  traditions:
+    ilkhanid: "a steppe ruler as the Jami' al-Tawarikh draws the Kereit"
+  avoid: ["crown, sceptre or Prester John regalia", "clerical vestments or a cross pendant (his Christianity is not shown on his person)", "armour at the divination"]
+  references:
+    - {cue: "none", source: "characters/toghrul-1203-sheet.png", use: "own sheet", seen: "viewed", for: "house face and dress"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: oulatay
+  likeness: "none; house sheet: characters/arghuns-envoys-1291-sheet.png, left figure (CHR.T9, accepted 2026-11-18)"
+  house: "the eldest-looking of the three envoys: broad-shouldered, square angular jaw, short salt-grey boxed beard"
+  attributes: ["always shown with Apusca and Coja, all three of equal rank"]
+  dress:
+    - {from: 1286, to: 1293, where: "Cathay, the voyage", dress: "long belted wrap coat with crossed collar and long inner sleeves in muted brick red; low dark cap; dark boots (working convention; Persian-Mongol court dress after Diez A fol. 70)"}
+  traditions:
+    yuan: "as the envoys' sheet, in Yuan contour"
+    ilkhanid: "a Persian-Mongol courtier of the Jami' al-Tawarikh"
+  avoid: ["rank insignia setting him above the other two", "Safavid turban", "any scene in Persia after the voyage: the Book says only Coja survived"]
+  references:
+    - {cue: "none", source: "characters/arghuns-envoys-1291-sheet.png", use: "own sheet", seen: "viewed", for: "left figure"}
+    - {cue: "C3, C4, C5", source: "reference/s22/npm-khubilai-hunting-figures.jpg", use: "edit OK", seen: "viewed", for: "Liu Guandao 1280: hunt dress, riders, a court woman riding"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: apusca
+  likeness: "none; house sheet: characters/arghuns-envoys-1291-sheet.png, middle figure (CHR.T9, accepted 2026-11-18)"
+  house: "the tallest and slimmest of the three envoys: angular face, narrow dark moustache"
+  attributes: ["always shown with Oulatay and Coja, all three of equal rank"]
+  dress:
+    - {from: 1286, to: 1293, where: "Cathay, the voyage", dress: "long belted wrap coat with crossed collar and long inner sleeves in indigo; round brimmed cap; dark boots (working convention; Persian-Mongol court dress after Diez A fol. 70)"}
+  traditions:
+    yuan: "as the envoys' sheet, in Yuan contour"
+    ilkhanid: "a Persian-Mongol courtier of the Jami' al-Tawarikh"
+  avoid: ["rank insignia setting him above the other two", "Safavid turban", "any scene in Persia after the voyage: the Book says only Coja survived"]
+  references:
+    - {cue: "none", source: "characters/arghuns-envoys-1291-sheet.png", use: "own sheet", seen: "viewed", for: "middle figure"}
+    - {cue: "C3, C4, C5", source: "reference/s22/npm-khubilai-hunting-figures.jpg", use: "edit OK", seen: "viewed", for: "Liu Guandao 1280: hunt dress, riders, a court woman riding"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: coja
+  likeness: "none; house sheet: characters/arghuns-envoys-1291-sheet.png, right figure (CHR.T9, accepted 2026-11-18)"
+  house: "medium height, a rounder face with a broader nose, a short full dark beard, a warm dark complexion"
+  attributes: ["always shown with Oulatay and Apusca until the landing; the only envoy at the Persian arrival (the Book alone)"]
+  dress:
+    - {from: 1286, to: 1294, where: "Cathay, the voyage, Persia", dress: "long belted wrap coat with crossed collar and long inner sleeves in muted moss green; brimmed hat with a modest fur edge; dark boots (working convention; Persian-Mongol court dress after Diez A fol. 70)"}
+  traditions:
+    yuan: "as the envoys' sheet, in Yuan contour"
+    ilkhanid: "a Persian-Mongol courtier of the Jami' al-Tawarikh"
+  avoid: ["rank insignia setting him above the other two", "Safavid turban"]
+  references:
+    - {cue: "none", source: "characters/arghuns-envoys-1291-sheet.png", use: "own sheet", seen: "viewed", for: "right figure"}
+    - {cue: "C3, C4, C5", source: "reference/s22/npm-khubilai-hunting-figures.jpg", use: "edit OK", seen: "viewed", for: "Liu Guandao 1280: hunt dress, riders, a court woman riding"}
+    - {cue: "C2, C6", source: "reference/s22/diez-a-fol70-p23-enthronement-right.jpg", use: "edit OK", seen: "viewed", for: "Persian-Mongol court dress and Ilkhanid idiom, c. 1300–20"}
+
+- id: fantina
+  likeness: "none; house sheet: characters/polo-daughters-1324-sheet.png, left figure (CHR.T9, accepted 2026-11-18)"
+  house: "the eldest daughter: dark hair and eyes, an oval face, a tall upright stance; family resemblance to her sisters in nose and jaw"
+  attributes: ["married by 1324 (to Marco Bragadin)"]
+  dress:
+    - {from: 1324, to: 1324, where: "Venice", dress: "long gown of good plain cloth (deep blue in the sheet) and a mantle; folded white linen married woman's veil over a fitted wimple (S-22 C39, without its crowns)"}
+  traditions:
+    gothic: "as Paolo Veneziano's donor figures"
+  avoid: ["a widow's veil in 1324", "a crown, halo or ornate jewellery", "uncovered flowing hair"]
+  references:
+    - {cue: "none", source: "characters/polo-daughters-1324-sheet.png", use: "own sheet", seen: "viewed", for: "left figure"}
+    - {cue: "C39", source: "Commons: Porta Sant'Alipio lunette, San Marco (registry/visual-references.md § C39)", use: "not saved", seen: "viewed", for: "Venetian civic dress, 13th c."}
+
+- id: bellela
+  likeness: "none; house sheet: characters/polo-daughters-1324-sheet.png, middle figure (CHR.T9, accepted 2026-11-18)"
+  house: "dark hair and eyes, a rounder face, a more compact figure; family resemblance to her sisters"
+  attributes: ["married by 1324 (to Bertuccio Querini)"]
+  dress:
+    - {from: 1324, to: 1324, where: "Venice", dress: "long gown of good plain cloth (muted wine in the sheet) and a mantle; folded white linen married woman's veil over a fitted wimple (S-22 C39, without its crowns)"}
+  traditions:
+    gothic: "as Paolo Veneziano's donor figures"
+  avoid: ["a widow's veil in 1324", "a crown, halo or ornate jewellery", "uncovered flowing hair"]
+  references:
+    - {cue: "none", source: "characters/polo-daughters-1324-sheet.png", use: "own sheet", seen: "viewed", for: "middle figure"}
+    - {cue: "C39", source: "Commons: Porta Sant'Alipio lunette, San Marco (registry/visual-references.md § C39)", use: "not saved", seen: "viewed", for: "Venetian civic dress, 13th c."}
+
+- id: moreta
+  likeness: "none; house sheet: characters/polo-daughters-1324-sheet.png, right figure (CHR.T9, accepted 2026-11-18)"
+  house: "the youngest-looking: dark hair and eyes, a slender face, a lightly turned, attentive posture; family resemblance to her sisters"
+  attributes: ["unmarried at the 1324 will (a dowry is left her)"]
+  dress:
+    - {from: 1324, to: 1324, where: "Venice", dress: "long gown of good plain cloth (soft olive in the sheet) and a mantle; a short light linen veil over arranged hair, no wimple (the unmarried daughter; working convention, S-22 C39)"}
+  traditions:
+    gothic: "as Paolo Veneziano's donor figures"
+  avoid: ["a married woman's wimple in 1324", "a crown, halo or ornate jewellery", "uncovered flowing hair"]
+  references:
+    - {cue: "none", source: "characters/polo-daughters-1324-sheet.png", use: "own sheet", seen: "viewed", for: "right figure"}
+    - {cue: "C39", source: "Commons: Porta Sant'Alipio lunette, San Marco (registry/visual-references.md § C39)", use: "not saved", seen: "viewed", for: "Venetian civic dress, 13th c."}
+
+# ---- where the Polo party is, by year (regions, coarse). Used to catch impossible co-presence in a plate.
+# regions: europe · levant (Acre, Layas, Armenia) · golden-horde · central-asia · ilkhanate (Persia, Iraq) · china · sea
+itinerary:
+  marco:
+    - [1254, 1270, [europe]]
+    - [1271, 1271, [europe, levant]]
+    - [1272, 1273, [levant, ilkhanate, central-asia]]
+    - [1274, 1274, [central-asia, china]]
+    - [1275, 1290, [china]]
+    - [1291, 1291, [china, sea]]
+    - [1292, 1292, [sea]]
+    - [1293, 1294, [sea, ilkhanate]]
+    - [1295, 1324, [ilkhanate, europe]]
+  niccolo: &elder
+    - [1260, 1260, [europe, golden-horde]]
+    - [1261, 1264, [golden-horde, central-asia]]
+    - [1265, 1266, [central-asia, china]]
+    - [1267, 1268, [china, central-asia, ilkhanate]]
+    - [1269, 1270, [levant, europe]]
+    - [1271, 1271, [europe, levant]]
+    - [1272, 1273, [levant, ilkhanate, central-asia]]
+    - [1274, 1274, [central-asia, china]]
+    - [1275, 1290, [china]]
+    - [1291, 1291, [china, sea]]
+    - [1292, 1292, [sea]]
+    - [1293, 1294, [sea, ilkhanate]]
+    - [1295, 1318, [ilkhanate, europe]]
+  maffeo: *elder
+
+# ---- plate scenes with recurring figures (illustration-plan.md). year = int or [from, to].
+# absent: figures who cannot have been there (dates or itinerary prove it; the tool fails if they could).
+# not_shown: figures who were in the region but whom the text does not put in the scene (a choice the plate respects).
+scenes:
+- {plate: I-01, title: "Marco dictating to Rustichello", src: GEN, year: 1298, region: europe, figures: [marco, rustichello]}
+- {plate: I-02, title: "The brothers before Kublai (LdM)", src: PD, year: [1265, 1266], region: china, figures: [kublai, niccolo, maffeo], absent: [marco]}
+- {plate: I-02.s, title: "Golden tablet given", src: GEN, year: 1266, region: china, figures: [kublai, niccolo, maffeo]}
+- {plate: I-03, title: "'Sire, 'tis my son'", src: GEN, year: 1275, region: china, figures: [kublai, marco, niccolo, maffeo]}
+- {plate: I-03.s, title: "Friars turn back at Layas", src: GEN, year: 1271, region: levant, figures: [marco, niccolo, maffeo]}
+- {plate: I-05, title: "Alaü shuts the Caliph in the treasure tower", src: GEN, year: 1258, region: ilkhanate, figures: [hulagu, mustasim]}
+- {plate: I-06, title: "Marco at the Magi tombs of Saba", src: GEN, year: 1272, region: ilkhanate, figures: [marco]}
+- {plate: I-07, title: "Escape from the Caraunas", src: GEN, year: 1272, region: ilkhanate, figures: [marco, niccolo, maffeo]}
+- {plate: I-12, title: "Cane divination before Chinghis's battle", src: GEN, year: 1203, region: china, figures: [chinghis, toghrul]}
+- {plate: I-13.s, title: "Kublai with a leopard on his crupper", src: GEN, year: [1275, 1290], region: china, figures: [kublai]}
+- {plate: II-01, title: "Kublai on the elephant tower against Nayan", src: GEN, year: 1287, region: china, figures: [kublai, nayan], not_shown: [marco, niccolo, maffeo]}
+- {plate: II-03, title: "The White Feast", src: GEN, year: [1282, 1290], region: china, figures: [kublai], absent: [chabi]}
+- {plate: II-04, title: "Khubilai Khan Hunting (Liu Guandao)", src: PD, year: 1280, region: china, figures: [kublai, chabi]}
+- {plate: II-04.s, title: "Cranes from the elephant litter", src: GEN, year: [1280, 1290], region: china, figures: [kublai]}
+- {plate: II-10, title: "Song envoys surrender the seal to Bayan", src: GEN, year: 1276, region: china, figures: [bayan], absent: [facfur], not_shown: [marco, niccolo, maffeo]}
+- {plate: II-11, title: "Counterweight trebuchet at Xiangyang", src: GEN, year: 1273, region: china, figures: [], absent: [marco, niccolo, maffeo]}
+- {plate: II-15, title: "Aijaruc throws the prince", src: GEN, year: [1280, 1290], region: central-asia, figures: [aijaruc, kaidu]}
+- {plate: III-09, title: "Kublai gives the tablets; Cocachin and the fleet", src: GEN, year: 1291, region: china, figures: [kublai, marco, niccolo, maffeo, cocachin, oulatay, apusca, coja]}
+- {plate: III-09.s, title: "Cocachin's farewell", src: GEN, year: 1294, region: ilkhanate, figures: [cocachin, ghazan, marco, niccolo, maffeo], absent: [arghun], not_shown: [kublai]}
+- {plate: III-10, title: "Jewels ripped from the seams", src: GEN, year: 1295, region: europe, figures: [marco, niccolo, maffeo], not_shown: [donata]}
+- {plate: III-10.s1, title: "The Cepoy copy", src: GEN, year: 1307, region: europe, figures: [marco, cepoy]}
+- {plate: III-10.s2, title: "Marco's will", src: GEN, year: 1324, region: europe, figures: [marco, donata, fantina, bellela, moreta, peter-the-tartar], }

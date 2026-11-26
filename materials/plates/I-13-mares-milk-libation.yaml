@@ -1,0 +1,113 @@
+plate: I-13
+title: Mare’s-milk libation as the court leaves Chandu
+status: accepted
+tradition: Yuan court painting
+caption: Officiants sprinkle mare’s milk on the ground at Chandu as Kublai’s court prepares to leave. The rite follows
+  Polo’s account, and the gilt dragons on the cane palace columns follow Ramusio’s version. The detailed staging
+  is reconstructed. Modern illustration in the manner of Yuan court painting. Not a historical artifact.
+generator: Codex built-in image_gen
+model: GPT image model (version not surfaced)
+job_id: none, chat output
+date: '2026-11-18'
+params:
+  scale: '2:1'
+  resolution: 1774x887
+  rounds: 1
+  candidates: 1
+  selected: media/plates/drafts/I-13/perspective-revision-1.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-13.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/kublai-1280-sheet.webp
+  use: accepted character sheet
+  licence: Project-generated character sheet, accepted for image input under style-guide rule 9
+  credit: The Book of the Million. Kublai Khan, face, build and outdoor dress.
+- file: media/reference/s22/npm-khubilai-hunting-figures.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Khubilai Khan Hunting (1280), attributed to Liu Guandao, National Palace Museum, Taipei. Scan credited
+    to Ebrey, Cambridge Illustrated History of China (1999), via Wikimedia Commons.
+- file: media/reference/s22/met-1992.54-DP-32259-003.jpg
+  use: edit OK
+  licence: Met Open Access
+  credit: The Metropolitan Museum of Art, Vajrabhairava mandala, 1992.54, empresses detail.
+figures:
+- id: kublai
+  year: 1280
+  cue:
+  - '[PERIOD] Cublay, c. 65 in 1280: broad round face, fair-to-ruddy skin (''white and red'' — Polo), dark eyes,
+    thin moustache and small beard; well-built at 50, heavy by 65, corpulent and gouty after 1280.'
+  - 'Dress (hunt and war): white fur coat flecked with black tufts, dark fur collar and cuffs, over a red robe patterned
+    in gold; a red-topped cap; boots; quiver at the saddle; a dark, stocky horse with a round blue saddle-cloth
+    (S-22 C3, Liu Guandao 1280).'
+  - 'After c. 1280 carried, not walking or riding far: elephant-borne chamber or litter (Polo''s hunt, the Nayan
+    battle).'
+  - No crown (except in the LdM lens).
+  - '[AVOID]  Qing dragon robe, yellow as imperial colour, queue; crown outside the LdM lens; Chinggis-style armour
+    at court; fur-and-leather ''barbarian'' dress (S-22 [AVOID])'
+cues:
+- C1
+- C2
+- C3
+unsourced:
+- Precise set of rituals, officiant roles, vestments, gestures, and implements at this departure. Costumes and vessels
+  are generic. Six people and three white mares are staging choices, with the year 1280 a representative setting.
+- Exact pavilion footprint, dimensions, roof joinery, locations of silk stays and columns, and site relative to
+  the palace city. S-23 leaves the siting unresolved. The column dragons follow solely the detail in Ramusio’s version
+  of Polo.
+- Exact shape of Kublai’s portable seat, packing procedure and bundles, anonymous court woman’s attendance, and
+  the distant hall elevation, wall facing and their relative positions. The permanent buildings are generic visual
+  suggestions.
+post: convert media/plates/drafts/I-13/perspective-revision-1.png -crop 1774x887+0+0 +repage -filter Lanczos -resize
+  2700x1350 -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density
+  300 media/plates/I-13-mares-milk-libation.png
+review:
+  script: Pass. Inspected the robe ornament, opposing corners, background wall, gilt dragons, eaves and ground stakes.
+    No script, pseudo-script, numbers, seals, stamps or signatures.
+  period: Pass with notes. Clothing follows C1, C2 and C3 with later comparanda identified in the register. Detailed
+    ritual staging and architecture are generic. Gilt dragon columns are limited to Ramusio’s account in the caption.
+  scene: Pass. Six distinct figures, three distinct white mares, one visible falling stream of milk and two attendants
+    packing the temporary palace. Kublai observes the rite.
+  rule_6: Pass. Two living ritual officiants perform the scene’s action. The image is free of decorative sacred
+    figures, halos and supernatural effects.
+  idiom: Pass. Fine contours on warm silk, restrained mineral washes, shallow perspective, calm figures and profile
+    horses read as a Yuan handscroll.
+  ground_and_aging: Pass. Continuous pale tan silk with sparse grasses and light, even ageing.
+  artifact_risk: Moderate. Period-style figure drawing and silk texture warrant the modern illustration label in
+    the caption.
+  print: Pass. Source is already 2:1. The 2700 × 1350 PNG has 300 ppi metadata and an sRGB ICC profile. Inspected
+    faces, hands, horse heads, rigging and the frame at source resolution and on the master.
+  sidecar: Pass. Prompt, in-prompt negatives, generator, date, confirmed inputs, cue lines, caption and print command
+    are recorded.
+  white_mares: Pass. Three stocky white mares with distinct profiles and lead ropes are visible.
+  shamans_and_lamas: Pass. Kneeling steppe officiant in ochre scatters milk. A shaved maroon-robed lama participates
+    holding a bowl.
+  cane_palace: Pass. Rounded lightweight pavilion with split-cane roof, exposed ribs and no fixed podium. Clearly
+    distinct from the distant low wall and timber hall.
+  silk_guy_cords: Pass. Slim, taut red and pale diagonal stays run from the cane framework to small ground stakes.
+  gilt_dragon_columns: Pass. The posts have carved gilt dragons, with the Ramusio provenance in the caption.
+  court_packing: Pass. Two attendants handle fabric and grouped cane poles amid packing bundles.
+  c1_mongol_court_men: Pass. Attendants wear crossed collars, layered sleeves, small brimmed knob hats and looped
+    hair.
+  c2_mongol_noblewoman: Pass. Anonymous adult court woman with long pearl pendants, broad robe and tall flared red
+    boqta.
+  c3_kublai_outdoors: Pass. The white coat is flecked with black tufts, with dark fur trim, red and gold layers
+    and a red-topped cap. He sits on a portable seat for the rite.
+  perspective_revision: Kublai's seated figure is smaller relative to the standing woman and the mares. The pavilion
+    and ritual group remain in the original composition.
+perspective_revision:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  model: GPT image model, version undisclosed by the tool
+  job_id: none, chat output
+  edit_input: media/plates/drafts/I-13/before-perspective-revision.png
+  prompt: media/plates/prompts/I-13-perspective-revision.txt
+  candidates:
+  - media/plates/drafts/I-13/perspective-revision-1.png
+  selected: media/plates/drafts/I-13/perspective-revision-1.png
+  previous_sidecar: media/plates/drafts/I-13/before-perspective-revision.yaml
+  previous_post: convert media/plates/drafts/I-13/gpt-r1-1.png -filter Lanczos -resize 2700x1350 -unsharp 0x0.75+0.5+0
+    -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-13-mares-milk-libation.png
+  review: Kublai's seated figure is smaller relative to the standing woman and the mares. The pavilion and ritual
+    group remain in the original composition.

@@ -1,2 +1,6 @@
-input/
+/input/
+/build/
 __pycache__/
+.pytest_cache/
+/tools/media/.venv/
+/tools/media/.cache/

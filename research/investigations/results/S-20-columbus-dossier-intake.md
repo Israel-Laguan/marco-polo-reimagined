@@ -1,0 +1,17 @@
+# S-20 — partial Columbus dossier intake (2026-11-13)
+
+[The supplied dossier](S-20-columbus-dossier-raw.md) contains one substantive finding and ends at an empty references heading. It identifies Consensus as its research tool. Although its table labels its source as an inspected secondary excerpt, the text supplied here gives a **paraphrase**, not Shawcross's passage or its underlying evidence. Its stated p. 380 n. 12 is a useful, testable locator, not a passage independently read for this intake. The lack of a supporting quotation or evidence details matters because “after summer 1499 or autumn 1501” leaves the relationship between the two alternatives and the inference from the marks unexplained.
+
+## Independent check
+
+[Teresa Shawcross, “Materiality and Marginalia across the World,” *The Medieval History Journal* 26(2) (2023), pp. 376–424](https://www.academia.edu/116101732/Teresa_Shawcross_Materiality_and_Marginalia_Across_the_World_The_Role_of_Things_in_Christopher_Columbus_s_Annotations_on_Marco_Polo_Medieval_History_Journal_2023_376_424), author-posted preview, abstract and opening through p. 377 read. Shawcross identifies the copy as Seville, Biblioteca Capitular y Colombina **10-3-2**, formerly **V-117-13**; she describes notes and drawings attributed to Columbus and members of his circle. Her opening note says her English translations of the postils are her own and identifies Gil's edition and a facsimile. Neither the library's catalogue, Gil's edition, nor the copy itself was inspected here. The author-posted preview did **not** expose p. 380 n. 12; the downloadable file was inaccessible in this check.
+
+| Claim | Verdict and book treatment |
+|---|---|
+| Dossier's 1499 / 1501 dating | **Report-only lead, not independently verified.** The dossier attributes to Shawcross a conclusion about Columbus's use of this particular copy after one of two proposed dates. Since the note and argument were not supplied or inspected, do not quote Shawcross, adopt a terminus or assign either date to a specific mark. Even if confirmed, a bound for a particular consultation or annotation would not automatically date every postil, establish first acquisition, or identify the book in John Day's letter. The warning that 1499–1501 should not be called an annotation window is sensible, but the exact source inference still needs checking. |
+| Copy and marginalia | **Supported through Shawcross's directly read secondary preview.** Use the current and former classmarks with attribution; the copy was not seen here. Her description of marks by Columbus and others supports the existing hedge on individual hands. Her opening's discussion of possible travel with the Columbus household does not by itself establish that the book sailed on any particular voyage. |
+| Scope | The dossier does not provide the requested postil counts, examples, Day identification argument, other reception findings, bibliography or remaining-questions list. Their absence is not a negative finding. |
+
+## Changes and remaining work
+
+The claim has been recorded as an explicitly attributed report-only lead in reception enrichment; Shawcross's directly read identification has been added separately. The [current follow-up prompt](../S-20-follow-up-prompt.md) now gives the new page locator and asks for the actual argument, precise dates, reading and hands, rather than treating the dates as a settled range. The [previous prompt](../S-20-columbus-dossier-request-prompt.md) is preserved. S-20 and the dating question remain open.

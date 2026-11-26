@@ -1,0 +1,39 @@
+id: A11
+file: A11-southwest-circuit
+extent: [89, 110.5, 18.4, 32.7]
+graticule: 5
+scale_km: 300
+scale_at: [102.5, 19.5]
+markers: labelled
+routes:
+  - vol: II
+    style: inferred # YC II.44–48: Tebet is a regional reference, and the course across the marches is inferred.
+    path: [sindafu, [29.1, 101.9], caindu, brius, yachi, talifu, vochan]
+  - vol: II
+    style: reported # YC II.52–54 describes Mien and the earlier battle.
+    path: [vochan, mien]
+  - vol: II
+    style: reported # YC II.55 gives a direction to Bangala, whose point is unfixed.
+    path: [[25.6, 98.0], [24.5, 90.5]]
+    arrow: true
+  - vol: II
+    style: reported # YC II.56–59 describes a subsidiary circuit with disputed identifications.
+    path: [vochan, caugigu, anin, coloman, cuiju, fungul, sindafu]
+label:
+  sindafu: e
+  caindu: w
+  brius: {pos: e, offset: 7}
+  yachi: se
+  talifu: nw
+  vochan: sw
+  mien: se
+  caugigu: s
+  anin: e
+  coloman: {pos: se, offset: 7}
+  cuiju: ne
+  fungul: e
+text:
+  - {text: "toward Bangala", at: [25.5, 92.9]}
+  - {text: Tebet, at: [29.1, 98.5], kind: region}
+  - {text: Carajan, at: [23.45, 101.0], kind: region}
+legend: {at: upper left, items: [lines, markers]}

@@ -1,0 +1,27 @@
+sheet: aijaruc-1280
+cards: [aijaruc]
+year: 1280
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: "Ilkhanid (Jami' al-Tawarikh)"
+likeness: "house convention, no authentic likeness"
+generator: "GPT image model in the chat agent"
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/aijaruc-1280.txt
+reference_images:
+  - file: "media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg"
+    use: edit OK
+    licence: "Public domain"
+    credit: "Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23, enthronement scene; scan credited to the Munich 2005 catalogue, p. 263"
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Ilkhanid (Jami' al-Tawarikh). Not a historical artifact.
+  Reference images: Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23, enthronement scene; scan credited to the Munich 2005 catalogue, p. 263.
+review:
+  script: "Pass. Blank paper and unlettered clothing, with no inscriptions, stamps or signatures."
+  period: "Pass. Checked the fitted cloth jerkin over trousers and boots against the Kaidu court cue. Braids are visible and there is no boqta."
+  figures: "Pass. One young, strongly built woman, with broad shoulders and a balanced wrestling stance. There is no second figure."
+  idiom: "Pass. The flattened pigment, elongated contours and drapery rhythm follow the Tabriz manuscript idiom."
+  notes: "The isolated figure has no comparison scale. The long proportions and silhouette carry the card's exceptional height and strength."

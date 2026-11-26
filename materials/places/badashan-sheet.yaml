@@ -1,0 +1,5 @@
+place: badashan
+status: skipped
+reason: The gap ledger records no usable period reference for the ruby mine.
+references_consulted:
+- plans/registry/visual-references.md

@@ -1,0 +1,78 @@
+# Dadu coordinates are approximate placements from Fu Xinian’s reconstruction, fig. 24a.
+# Panel (a) is used throughout. Approximate registration uses the western/eastern walls
+# 6.672 km apart, the north earthwork at about 39.9745°N, Chang’an corridor at about
+# 39.908°N, and the old central axis by Lizheng at about 116.3916°E.
+# These are editorial reference coordinates, not survey measurements of individual gates.
+id: A9
+file: A9-dadu-city-plan
+extent: [116.325, 116.461, 39.894, 39.992]
+basemap: false
+graticule: false
+scale_km: 1
+scale_at: [116.421, 39.8985]
+features:
+  - kind: reconstructed # outer walls
+    path: [[39.97450, 116.35082], [39.97450, 116.42902], [39.90800, 116.42902], [39.90800, 116.35082], [39.97450, 116.35082]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: wall # indicative stretch of the surviving northern earthen rampart
+    path: [[39.97450, 116.35276], [39.97450, 116.37006]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017). See also national site, Yuan Capital City Wall Ruins Park (northern Tucheng)."
+  - kind: reconstructed # proposed palace enclosure
+    path: [[39.93192, 116.38683], [39.93192, 116.39707], [39.91759, 116.39707], [39.91759, 116.38683], [39.93192, 116.38683]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: water # indicative Taiye lake outline west of the palace
+    path: [[39.93126, 116.38295], [39.93087, 116.38436], [39.92824, 116.38525], [39.92469, 116.38542], [39.92206, 116.38454], [39.92075, 116.38348], [39.91707, 116.38313], [39.91746, 116.38189], [39.92009, 116.38171], [39.92285, 116.38260], [39.92495, 116.38207], [39.92758, 116.38154], [39.93008, 116.38224], [39.93126, 116.38295]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Jiande
+    path: [[39.97450, 116.37465]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Anzhen
+    path: [[39.97450, 116.40431]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Suqing
+    path: [[39.95807, 116.35082]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Heyi
+    path: [[39.94138, 116.35082]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Pingze
+    path: [[39.92456, 116.35082]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Guangxi
+    path: [[39.95820, 116.42902]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Chongren
+    path: [[39.94151, 116.42902]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Qihua
+    path: [[39.92456, 116.42902]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Shuncheng
+    path: [[39.90800, 116.36759]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Lizheng
+    path: [[39.90800, 116.39160]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: gate # Wenming
+    path: [[39.90800, 116.41296]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+  - kind: site # suggested Yuan bell tower location
+    path: [[39.94927, 116.39195]]
+    source: "Fu Xinian (2001), as reproduced by Shuji Funo in 'Ancient Chinese capital models', fig. 24a (2017)."
+text:
+  - {text: "Jiande", at: [39.97765, 116.37465]}
+  - {text: "Anzhen", at: [39.97765, 116.40431]}
+  - {text: "Suqing", at: [39.95807, 116.34394]}
+  - {text: "Heyi", at: [39.94138, 116.34394]}
+  - {text: "Pingze", at: [39.92456, 116.34394]}
+  - {text: "Guangxi", at: [39.95820, 116.43626]}
+  - {text: "Chongren", at: [39.94151, 116.43626]}
+  - {text: "Qihua", at: [39.92456, 116.43626]}
+  - {text: "Shuncheng", at: [39.90301, 116.36653]}
+  - {text: "Lizheng", at: [39.90301, 116.39125]}
+  - {text: "Wenming", at: [39.90301, 116.41225]}
+  - {text: "Palace\ncity?", at: [39.92614, 116.39142]}
+  - {text: "Taiye lake?", at: [39.92666, 116.37359]}
+  - {text: "Bell tower?", at: [39.95098, 116.39901]}
+  - {text: "North wall remains", at: [39.97174, 116.36212]}
+  - {text: "↑\nN", at: [39.97857, 116.43750]}

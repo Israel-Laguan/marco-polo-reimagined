@@ -1,0 +1,160 @@
+plate: II-3
+title: The White Feast procession
+status: accepted
+tradition: Yuan court painting
+caption: >-
+  White-clad attendants lead elephants and camels past Cublay at New Year, in an imagined Cambaluc about 1285. Nine parcels stand for Ramusio’s nine times nine. The Book puts the elephants at an inflated five thousand. Modern illustration in the manner of Yuan court painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model, version undisclosed by the tool
+job_id: none, chat output
+date: '2026-11-18'
+route: GPT trial (not the PLT table's route)
+params:
+  scale: '2:1'
+  size: 1774x887
+  rounds: 1
+  candidates: 2
+  selected: media/plates/drafts/II-3/tile-unification-1.png
+prompt: media/plates/prompts/II-3.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/kublai-1280-sheet.webp
+  use: edit OK
+  licence: Project-generated working reference with accepted sidecar
+  credit: The Book of the Million, Kublai 1280 character sheet
+- file: media/reference/s22/met-1992.54-DP-32259-004.jpg
+  use: edit OK
+  licence: Met Open Access
+  credit: The Metropolitan Museum of Art, Vajrabhairava mandala, 1992.54, detail of Tugh Temür and Qoshila.
+- file: media/reference/s22/cma-1989.50-cloth-of-gold.jpg
+  use: edit OK
+  licence: CC0
+  credit: Cleveland Museum of Art, Cloth of Gold with Winged Lions and Griffins, 1989.50.
+figures:
+- id: kublai
+  year: 1285
+  cue: "[PERIOD] Cublay, c. 70 in 1285: broad round face, fair-to-ruddy skin ('white and red' — Polo), dark eyes,\
+    \ thin moustache and small beard; well-built at 50, heavy by 65, corpulent and gouty after 1280.\n         Dress\
+    \ (court): single-colour Mongol robe of the feast day (white at New Year) with a crossed collar, fur trim in\
+    \ winter; the small rounded pale hat with a narrow brim and a knob on top; hair in looped braids behind the\
+    \ ears (S-22 C1; NPM portrait).\n         Dress (hunt and war): white fur coat flecked with black tufts, dark\
+    \ fur collar and cuffs, over a red robe patterned in gold; a red-topped cap; boots; quiver at the saddle; a\
+    \ dark, stocky horse with a round blue saddle-cloth (S-22 C3, Liu Guandao 1280).\n         After c. 1280 carried,\
+    \ not walking or riding far: elephant-borne chamber or litter (Polo's hunt, the Nayan battle).\n         A gerfalcon\
+    \ in hunting scenes.\n         No crown (except in the LdM lens).\n[AVOID]  Qing dragon robe, yellow as imperial\
+    \ colour, queue; crown outside the LdM lens; Chinggis-style armour at court; fur-and-leather 'barbarian' dress\
+    \ (S-22 [AVOID])"
+cues:
+- C1
+- C2
+- C8
+- C38
+unsourced:
+- The Daming Hall terrace, architecture and staging are schematic. C38 supplies generic Yuan roof, lattice and platform
+  forms.
+- The animal and attendant counts are representative. The disposition of the three gift trays and the exact costume
+  and trappings are illustrative. Textile motifs are simplified from C8.
+post: convert media/plates/drafts/II-3/tile-unification-1.png -filter Lanczos -resize 2700x1350 -unsharp 0x0.75+0.5+0
+  -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-3-white-feast-procession.png
+review:
+  script: Pass. Blank parcels, trays, coffers, eaves, clothing and corners contain no script or seals.
+  period: Pass with source limits. The painted hall applies Yuan timber, lattice and raised platform types. C1 and
+    C2 give court clothing shapes and C8 gives textile comparisons.
+  scene: Pass. Cublay and his white-clad court watch two elephants and two camels. A separate handler leads the
+    camels, and each elephant has its own handler. Three trays hold nine gifts.
+  sacred_figures: Pass. Court procession without sacred figures or devotional props.
+  idiom: Pass. Yuan treatment of figures, timber framing and animals with fine linework, layered near and far ground
+    and muted mineral colours.
+  ground: Pass. Light even silk weave across the full spread. No mounting seam or damage.
+  artifact_risk: Moderate. The scroll idiom is plausible enough to require the caption label.
+  print: Pass. Native 1774×887 was cropped at the original 2:1 frame and rendered 2700×1350 at 300 ppi. Faces, hands,
+    bundles and animal details checked at full scale. The last camel is close to the right edge.
+  sidecar: Pass. GPT route, prompt, selected turn, date, figure cues and references, exact processing, caption and
+    review are recorded.
+  must_get_right:
+    white_clothing: Pass. The Kaan, court figures and attendants all wear white robes and headwear.
+    tribute_in_nines: Pass. Nine visible bundles are arranged as three trays of three, following the Ramusio-based
+      cue.
+    small_animal_procession: Pass. Two elephants and two camels. The last camel sits close to the frame edge.
+    c1: Pass. Crossed collars, sleeve layers, looped braids and small knobbed brimmed hats, translated into the
+      all-white feast dress.
+    c2: Pass. One anonymous court woman wears a white flared boqta and pearl strands. Chabi is absent from the post-1281
+      scene.
+    c8: Pass with stylisation. Gold winged animals in roundels are visible on animal coverings. The textile pattern
+      is simplified for scale.
+    kublai: Pass. Broad cheek, slight beard, heavy seated build and white court robe follow Cublay's card for this
+      chosen year.
+  perspective_revision: Kublai's head and seated figure are scaled closer to adjacent adults. The elephants are
+    larger and the camels share the terrace ground. Nine gift bundles remain visible.
+  detail_corrections: Terrace tile joints form a consistent grid. Both elephants have anatomically legible legs,
+    and the handlers' lead ropes visibly connect to harness rings.
+  camel_handler_correction: Pass. The added white-clad handler holds two continuous ropes connected to the camel
+    head halters. Each elephant handler holds a separate connected lead. Both elephants have four legs, with far
+    legs partly obscured.
+  elephant_leg_redraw: The red-draped elephant has a staggered leg position with forelegs below the shoulders and
+    hind legs below the rear body. Some far-side detail overlaps with the handler.
+  tile_unification: The rectangular panel band was removed and the terrace paving continues across the foreground.
+follow_up: 'In the base prompt, replace “on a plain low offering platform. Place them as a simple clearly readable
+  three-by-three arrangement, exactly three parcels in each of three staggered rows.” with “on ceremonial trays.”
+  Then append:
+
+  Prioritize the countable ceremonial gift group. To show exactly nine gifts, use THREE small distinct low rectangular
+  wooden trays placed next to each other across the lower foreground. Each tray holds exactly THREE separated small
+  white knotted bundles in a single row. A visible gap between the first tray and the second and between the second
+  and the third makes the three groups easy to count. All nine complete bundles appear in front of the seated emperor.
+  The animals are two elephants followed by two camels. All four face in the same direction toward the court. Keep
+  all four animal heads and feet comfortably inside the edges, with a particularly broad right margin beyond the
+  camel at the tail of the procession. Keep the central visual details of the White Feast and the all-white adult
+  court company.'
+candidate_reviews:
+- file: gpt-r1-1.png
+  result: Rejected. Six gifts instead of nine, and the camels faced away from the elephants.
+- file: gpt-r1-2.png
+  result: Selected. Nine countable bundles, all humans in white, and the four animals face the court.
+perspective_revision:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  model: GPT image model, version undisclosed by the tool
+  job_id: none, chat output
+  edit_input: media/plates/drafts/II-3/before-perspective-revision.png
+  prompt: media/plates/prompts/II-3-perspective-revision.txt
+  candidates:
+  - media/plates/drafts/II-3/perspective-revision-1.png
+  selected: media/plates/drafts/II-3/perspective-revision-1.png
+  previous_sidecar: media/plates/drafts/II-3/before-perspective-revision.yaml
+  previous_post: convert media/plates/drafts/II-3/gpt-r1-2.png -crop 1774x887+0+0 +repage -filter Lanczos -resize
+    2700x1350 -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density
+    300 media/plates/II-3-white-feast-procession.png
+  review: Kublai's head and seated figure are scaled closer to adjacent adults. The elephants are larger and the
+    camels share the terrace ground. Nine gift bundles remain visible.
+detail_corrections:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  edit_input: media/plates/drafts/II-3/before-detail-corrections.png
+  prompt: media/plates/prompts/II-3-detail-corrections.txt
+  candidates:
+  - media/plates/drafts/II-3/detail-correction-1.png
+  - media/plates/drafts/II-3/detail-correction-2.png
+  selected: media/plates/drafts/II-3/detail-correction-2.png
+  previous_sidecar: media/plates/drafts/II-3/before-detail-corrections.yaml
+camel_handler_correction:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  edit_input: media/plates/drafts/II-3/before-camel-handler.png
+  prompt: media/plates/prompts/II-3-camel-handler-correction.txt
+  selected: media/plates/drafts/II-3/camel-handler-correction-1.png
+  previous_sidecar: media/plates/drafts/II-3/before-camel-handler.yaml
+elephant_leg_redraw:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  edit_input: media/plates/drafts/II-3/before-elephant-leg-redraw.png
+  prompt: media/plates/prompts/II-3-elephant-leg-redraw.txt
+  selected: media/plates/drafts/II-3/elephant-leg-redraw-1.png
+  previous_sidecar: media/plates/drafts/II-3/before-elephant-leg-redraw.yaml
+tile_unification:
+  date: '2026-11-18'
+  generator: GPT image model (built-in image_gen in Codex)
+  edit_input: media/plates/drafts/II-3/before-tile-unification.png
+  prompt: media/plates/prompts/II-3-tile-unification.txt
+  selected: media/plates/drafts/II-3/tile-unification-1.png
+  previous_sidecar: media/plates/drafts/II-3/before-tile-unification.yaml

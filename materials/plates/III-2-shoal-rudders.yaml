@@ -1,0 +1,38 @@
+plate: III-2
+title: Junks lift their rudders in the shoal strait
+status: accepted
+tradition: Javanese temple relief
+caption: >-
+  Crew raise a junk's axial rudder in a shoal strait near Bintan. The lifting arrangement is conjectural. Modern illustration in the manner of Javanese temple relief. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, corrective_turns: 1, selected: media/plates/drafts/III-2/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-2.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No in-window illustration of a lifting rudder was found; the elaborate guide, hoist, local vessels, clothing and exact coast are imaginative reconstruction, not evidence of construction.
+post: >-
+  convert media/plates/drafts/III-2/gpt-r1-2.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-2-shoal-rudders.png
+review:
+  script: Pass; no writing or seals.
+  period: Borderline; rudder hoist is elaborate and wholly speculative.
+  scene: Pass with limit; crew appears to lift rudder guided at stern, mangroves and small boat visible.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; carved stone relief is legible but Javanese specificity requires user review.
+  ground_and_aging: Pass; even stone texture.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_rudder: Borderline; blade within guide but imagined elaborate lifting frame should not be treated as historical evidence.
+  must_get_right_perahu: Pass with limit; nearby local boat is generic.
+editorial_review:
+  date: '2026-11-25'
+  decision: Retain artwork and caption
+  rationale: >-
+    The crew and stern blade convey raising the axial rudder in shoal water. The caption qualifies the invented hoist and guide. The nearby boat is a generic interpretation of the perahu in the brief.

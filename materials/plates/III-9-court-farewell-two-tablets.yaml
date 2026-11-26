@@ -1,0 +1,62 @@
+plate: III-9
+title: Cocachin’s court farewell
+status: accepted
+tradition: Yuan court painting
+caption: >-
+  An imagined farewell at Kublai Khan’s court around 1291. In the Book’s account, the Khan grants the three Polos
+  two golden tablets of authority. The venue and staging are conjectural, and the Polos’ participation rests on
+  their own account. Modern illustration in the manner of Yuan court painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-25'
+params:
+  scale: '2:1'
+  resolution: 2700x1350
+  rounds: 1
+  selected: media/plates/drafts/III-9/editorial-2026-11-25/gpt-1.png
+route: Targeted edit in Codex
+prompt: media/plates/prompts/III-9-two-tablets-revision.txt
+negative: in-prompt
+reference_images:
+- file: media/plates/III-9-court-farewell-palace-revised.png
+  use: previous printed master and edit target
+  licence: project-generated
+  credit: The Book of the Million
+figures:
+- {id: kublai, year: 1291}
+- {id: marco, year: 1291}
+- {id: niccolo, year: 1291}
+- {id: maffeo, year: 1291}
+- {id: cocachin, year: 1291}
+- {id: oulatay, year: 1291}
+- {id: apusca, year: 1291}
+- {id: coja, year: 1291}
+cues: [C1, C4, C6]
+unsourced:
+- The venue, architectural arrangement, litter, canopy and exact audience are conjectural.
+- Polo’s account gives the count and material. The handover poses and blank tablet faces are artistic conventions.
+- The prior master records the character-sheet references and individual dress cues inherited by this edit.
+post: >-
+  convert media/plates/drafts/III-9/editorial-2026-11-25/gpt-1.png -filter Lanczos -resize 2700x1350\!
+  -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300
+  media/plates/III-9-court-farewell-two-tablets.png
+review:
+  script: Pass; the two tablets are blank, and no visible writing or seals appear.
+  period: Pass with limits; red columns, tiled hall and brick floor are plausible types, and the arrangement and litter are conjectural.
+  scene: Pass; the court handover shows two tablets for the Polo party.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; fine court contours and flat colour on silk.
+  ground_and_aging: Pass; even silk aging.
+  artifact_risk: Caption identifies modern origin and qualifies the staging and the Polos’ participation.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; edit target, prompt, route and process recorded.
+  must_get_right_cocachin: Pass; looped braids and low cap, no boqta.
+  must_get_right_people: Pass with limits; the eight principal figures retain the character cues from the prior master.
+  must_get_right_paiza: Pass; one blank gold tablet with the Khan and one with the bowing Polo.
+revision:
+  date: '2026-11-25'
+  input: media/plates/III-9-court-farewell-palace-revised.png
+  evidence: vol-3/ch-09-cocachin-return.md
+  selected: media/plates/drafts/III-9/editorial-2026-11-25/gpt-1.png
+  review: The five other men clasp empty hands. The court composition, costume cues and conjectural setting remain legible.

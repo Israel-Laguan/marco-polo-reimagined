@@ -1,0 +1,115 @@
+plate: I-3
+title: Sire, ’tis my son and your liegeman
+status: accepted
+tradition: Yuan court painting
+caption: >-
+  Niccolò Polo presents his son Marco to Kublai at the summer court of Kaiping, about 1275. The scene follows
+  the dramatized account in Polo’s Prologue. Modern illustration in the manner of Yuan court painting. Not
+  a historical artifact.
+generator: Codex built-in image_gen
+model: GPT image model (version not surfaced)
+job_id: none, chat output
+date: '2026-11-18'
+params:
+  scale: '4:3'
+  resolution: 1448x1086
+  rounds: 1
+  candidates: 1
+  selected: media/plates/drafts/I-3/gpt-r1-1.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-3.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/kublai-1280-sheet.webp
+  use: accepted character sheet
+  licence: Project-generated character sheet, accepted for image input under style-guide rule 9
+  credit: The Book of the Million. Kublai Khan, court face, body and attire.
+- file: media/characters/marco-1285-sheet.png
+  use: accepted character sheet
+  licence: Project-generated character sheet, accepted for image input under style-guide rule 9
+  credit: The Book of the Million. Marco Polo, face adapted to 1275 and court robe cut.
+- file: media/characters/niccolo-maffeo-1285-sheet.png
+  use: accepted character sheet
+  licence: Project-generated character sheet, accepted for image input under style-guide rule 9
+  credit: The Book of the Million. Niccolò and Maffeo Polo, respective builds, faces and robe cuts.
+figures:
+- id: kublai
+  year: 1275
+  cue:
+  - '[PERIOD] Cublay, c. 60 in 1275: broad round face, fair-to-ruddy skin (''white and red'' — Polo), dark
+    eyes, thin moustache and small beard; well-built at 50, heavy by 65, corpulent and gouty after 1280.'
+  - 'Dress (court): single-colour Mongol robe of the feast day (white at New Year) with a crossed collar,
+    fur trim in winter; the small rounded pale hat with a narrow brim and a knob on top; hair in looped
+    braids behind the ears (S-22 C1; NPM portrait).'
+  - No crown (except in the LdM lens).
+  - '[AVOID]  Qing dragon robe, yellow as imperial colour, queue; crown outside the LdM lens; Chinggis-style
+    armour at court; fur-and-leather ''barbarian'' dress (S-22 [AVOID])'
+- id: marco
+  year: 1275
+  cue:
+  - '[PERIOD] Marco, c. 21 in 1275: slim, dark-haired, dark-eyed; beardless at 17; short dark beard from
+    about 21; trimmed beard in Venice; grey by 50, white at 69.'
+  - 'Dress (Cathay and Manzi): Mongol-style robe over trousers and boots, cut as S-22 C1: crossed collar,
+    short-sleeved outer robe over a long-sleeved under-robe; at court the single colour of the feast (white
+    at the White Feast); the small rounded hat with a narrow brim and a knob on top (C1); his own short
+    hair, not the looped braids of Mongol men; still bearded, still the purse.'
+  - The youngest of the three Latins in every scene before 1291.
+  - A merchant's belt-purse (scarsella) in every scene.
+  - '[AVOID]  crown, coat of arms, sword-belt of a knight; a monk''s habit; a paiza before 1275; Renaissance
+    dress (the 16th-c. portrait)'
+- id: niccolo
+  year: 1275
+  cue:
+  - '[PERIOD] Niccolò, ? in 1275: the elder-looking brother: broad, heavy-set, greying beard by 1271, white
+    by 1295; the one who speaks, kneels first and holds the letters.'
+  - 'Dress (as Marco): as Marco''s card for each period, an older man''s longer robe.'
+  - The papal letters and the flask of oil from the Sepulchre lamp (1271–75).
+  - '[AVOID]  any attribute of rank beyond the paiza'
+- id: maffeo
+  year: 1275
+  cue:
+  - '[PERIOD] Maffeo, ? in 1275: leaner and taller than Niccolò, a long dark beard going grey; carries the
+    travelling gear.'
+  - 'Dress (both journeys): as Niccolò.'
+  - Stands behind or beside Niccolò, never in front of him.
+  - '[AVOID]  depicting Marta or children as present on a journey without scene evidence; his marriage is
+    reported by Bolognari and Simion via Burgio, children disputed'
+cues:
+- C1
+unsourced:
+- Exact audience hall elevation, plan, roof, materials and fittings at Kaiping. Timber uprights, eaves and
+  steps are generic forms in the illustration.
+- The precise appearance and material of the oil flask, the papal letters and the furnishings. The objects
+  are generic forms and the action follows Polo’s Prologue.
+- The four principal figures are isolated in the composition. The Prologue describes a larger audience,
+  whose positions and gestures are undocumented.
+post: >-
+  convert media/plates/drafts/I-3/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-3-presentation-at-kaiping.png
+review:
+  script: Pass. Inspected blank papal letters, flask, clothing, walls, eaves and corners. No script, pseudo-script,
+    numbers, seals, stamps or signatures.
+  period: Pass with notes. C1 robe layering, hat and Kublai’s braids are visible. C1’s donors are later
+    comparanda. Precise hall and prop details are generic.
+  scene: Pass. Exactly four figures match the 1275 registry scene. Niccolò gestures toward his son while
+    holding the letters. Maffeo stands behind and carries the bundle. Young Marco wears his merchant’s belt-purse.
+    Marco’s paiza belongs to his subsequent service.
+  rule_6: Pass. The folded credentials and stoppered oil flask are undecorated secular objects in the audience
+    scene.
+  idiom: Pass. Fine ink contour, flat wash, restrained facial modelling and quiet axial staging read as
+    Yuan court painting.
+  ground_and_aging: Pass. One continuous pale silk ground with fine and even ageing.
+  artifact_risk: Moderate. A silk ground and period figure drawing make the required modern illustration
+    label material.
+  print: Pass. Native 1448 × 1086 at 300 ppi metadata. Inspected the four faces, hands and props at 100%
+    without enlargement.
+  sidecar: Pass. Prompt, in-prompt negatives, model disclosure, date, sources, caption, commands and review
+    are recorded.
+  kaiping_c_1275: Pass. Uses the place and approximate date fixed by the plan and registry.
+  timber_hall_on_platform: Pass. Substantial timber columns, a beam and eaves sit above an uninterrupted
+    platform with a short staircase.
+  oil_flask: Pass. One plainly visible, stoppered amber vessel sits between the khan and the visitors.
+  papal_letters: Pass. Niccolò holds the clean folded credentials with visible unmarked faces.
+  kublai_about_sixty: Pass. Broad, mature features and a substantial build follow the house portrait at
+    about sixty.
+  c1_court_dress: Pass. Knobbed brimmed caps, crossed collars and contrasting outer and under-sleeve lengths
+    are visible. Kublai alone has looped braids.

@@ -1,0 +1,32 @@
+plate: I-8
+title: The Dry Tree alone on the plain
+status: accepted
+tradition: French Gothic manuscript marvel lens
+caption: >-
+  The Book's Dry Tree, a legendary landmark in the Alexander romance tradition; its species is disputed. Modern illustration in the manner of a French Gothic marvel manuscript. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '3:4', resolution: 1350x1800, rounds: 1, selected: media/plates/drafts/I-8/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-8.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- The tree's species and location, travellers, caravan and landscape are generic imaginative choices; the landmark is a legend.
+post: >-
+  convert media/plates/drafts/I-8/gpt-r1-1.png -filter Lanczos -resize 1350x1800\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/I-8-dry-tree.png
+review:
+  script: Pass; no lettering or seals.
+  period: Pass with limits; generic marvel-lens dress and camel caravan.
+  scene: Pass; one tree and a caravan on a plain.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; decorative Gothic manuscript marvel lens.
+  ground_and_aging: Pass; even parchment.
+  artifact_risk: Caption identifies modern origin and legend.
+  print: Pass; 1350x1800, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_tree: Pass; one generic tree with green and pale trunk.

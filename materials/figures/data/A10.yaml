@@ -1,0 +1,29 @@
+id: A10
+file: A10-west-road
+extent: [101, 120, 28.7, 42.0]
+graticule: 5
+scale_km: 300
+scale_at: [112, 31.6]
+markers: labelled
+routes:
+  - vol: II
+    style: stated # YC II.35–41 names the west-road sequence; the Yellow River crossing is approximate.
+    path: [cambaluc, pulisanghin, juju, taianfu, pianfu, caramoran, cachanfu, kenjanfu]
+  - vol: II
+    style: inferred # The route across Cuncun and Acbalec Manzi is reconstructed.
+    path: [kenjanfu, [33.6, 107.3], acbalec-manzi, sindafu]
+label:
+  cambaluc: ne
+  pulisanghin: {pos: w, offset: [-6, 2]}
+  juju: se
+  taianfu: e
+  pianfu: e
+  caramoran: {pos: nw, text: "Caramoran crossing"}
+  cachanfu: {pos: se, text: "Cachanfu (Puzhou)"}
+  kenjanfu: {pos: w, offset: 7, text: "Kenjanfu (Xi’an)"}
+  acbalec-manzi: se
+  sindafu: se
+text:
+  - {text: "Caichu · unfixed", at: [37.2, 105.4]}
+  - {text: "Cuncun?", at: [33.9, 105.4], kind: region}
+legend: {at: lower right, items: [lines]}

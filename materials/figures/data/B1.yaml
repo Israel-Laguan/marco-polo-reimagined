@@ -1,0 +1,22 @@
+# B1 — The Polo family, c. 1254–1366 (I-F1). DIA.T1: every date from plans/registry/facts.md; `fact` names the row.
+# Open dates are spans, never points. Maffeo's two will dates stay two separate, unreconciled marks (F-17).
+id: B1
+file: B1-polo-family
+axis:
+  segments: [[1250, 1370]]
+  length_cm: 11
+  tick: 20
+events:
+  - {from: 1253, to: 1255, date_label: "c. 1254", kind: life, label: "Marco born", note: "inferred from his stated age; birthplace undocumented", fact: S15-F1}
+  - {date: 1275, date_label: "c. 1275", kind: journey, label: "The Polos reach Kublai's court", note: "about May", fact: F-07}
+  - {from: 1296, to: 1298, date_label: "1296/98", kind: life, label: "Marco a prisoner of the Genoese", note: "Jacopo: near Ayas, 1296; Ramusio: Curzola, 1298", fact: "S15-F2; F-34"}
+  - {date: 1309, kind: document, label: "Uncle Maffeo's will, as Yule reports it", note: "6 Feb 1308 Venetian style", fact: F-17}
+  - {date: 1310, kind: document, label: "Uncle Maffeo's will, as Gullino cites it", note: "6 Feb 1310; the two dates are unreconciled", fact: F-17}
+  - {from: 1310, to: 1320, date_label: "1310s", kind: text, label: "Pipino's Latin translation", note: "in Marco's lifetime; Yule suggests 1315", fact: F-18}
+  - {date: 1319, kind: document, label: "Agnese's will, as reported", note: "names a father Marco Polo; her parentage is unsettled", fact: S15-F6}
+  - {date: 1324, kind: document, label: "Marco's will, 9 January", fact: "F-35; S15-F7"}
+  - {date: 1324, kind: life, label: "Marco dies, 8 or 9 January", fact: F-35}
+  - {date: 1324, kind: document, label: "Inventory of his goods", note: "probably February", fact: S15-F8}
+  - {from: 1333, to: 1336, kind: life, label: "Donata, his widow, has died", fact: F-16}
+  - {date: 1366, kind: document, label: "Fantina's lawsuit", note: "the judgment copies the 1324 inventory", fact: "F-16; S15-F8"}
+legend: true

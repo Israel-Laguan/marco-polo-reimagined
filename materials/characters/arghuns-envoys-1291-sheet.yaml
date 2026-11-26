@@ -1,0 +1,45 @@
+sheet: arghuns-envoys-1291
+people: [oulatay, apusca, coja]
+cards: none yet (CHR.T2), dress is a working convention
+year: 1291
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+scene: III-09
+tradition: Yuan court painting
+likeness: house convention, no authentic likeness
+dress_basis: Cocachin's Yuan tradition line places the three envoys in Persian-Mongol dress. S-22 C6 supplies comparative
+  long belted robes and brimmed hats. The coat colours and facial and cap differences are working conventions.
+generator: GPT image model (built-in image_gen in Codex)
+job_id: 'none: chat output'
+date: '2026-11-18'
+params:
+  size: 1448x1086
+  tries: 2
+prompt: media/characters/prompts/arghuns-envoys-1291.txt
+reference_images:
+- file: media/reference/s22/npm-khubilai-hunting-figures.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Liu Guandao (attributed), Khubilai Khan Hunting, 1280, National Palace Museum, Taipei. Scan credited to
+    Ebrey, Cambridge Illustrated History of China, 1999, via Commons.
+- file: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23, enthronement scene. Scan credited to the Munich 2005
+    catalogue, p. 263.
+attribution: >-
+  Generated with the GPT image model in Codex on 2026-11-18 for The Book of the Million.
+  Working reference in the manner of Yuan court painting.
+  Reference images are Khubilai Khan Hunting, attributed to Liu Guandao, National Palace Museum,
+  Taipei (Ebrey, Cambridge Illustrated History of China, 1999, via Commons), and the Diez A fol. 70
+  enthronement scene, Staatsbibliothek zu Berlin (Munich 2005 catalogue, p. 263).
+review:
+  script: Pass. The borders, silk, clothing and accessories show no writing, seals or signatures.
+  period: Pass for comparative dress. The three figures wear belted crossed-collar robes, layered sleeves, caps
+    and plain boots, consistent with the depicted Persian-Mongol envoy group.
+  figures: Pass. Three distinct men. From the viewer's left they are Oulatay in brick red with a grey beard, Apusca
+    in indigo with a narrow face and moustache, and Coja in moss green with a rounded dark beard and fur-edged hat.
+  idiom: Pass. Fine contour, restrained modelling and broad mineral colour fields on woven silk read as Yuan court
+    painting.
+  notes: The first try used the Kublai sheet as a style input and two faces came too close to his. The second used
+    the hunt fragment for linework and kept the envoys visually distinct. The silk is warmer than the Kublai benchmark.

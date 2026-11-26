@@ -1,0 +1,52 @@
+# The one visual system (S-09). map.py and timeline.py both read this file;
+# change a colour here and every map, timeline and diagram follows on regeneration.
+
+font: Noto Serif          # the book's body face (tools/build/book.latex): true italic, pairs with Noto Serif CJK
+fallback_fonts: [DejaVu Serif]
+size_pt: {label: 6.0, region: 5.4, sea: 6.0, legend: 5.6, graticule: 4.8, note: 5.6}
+
+# Base map. No modern borders: they would be anachronistic on a 13th-century route.
+colour:
+  land: "#F1EBDD"
+  sea: "#E3ECEF"
+  coast: "#8C8A84"
+  river: "#9FBACB"
+  lake: "#E3ECEF"
+  graticule: "#C9CCCC"
+  ink: "#2B2A28"           # labels, legend text, timeline axis
+  ink_soft: "#6E6B66"      # region and sea names, secondary text
+
+# One colour per volume, used for route lines (maps) and event marks (timelines).
+volume:
+  I: "#A8432B"             # madder: the overland road
+  II: "#B7871F"            # ochre: Cathay and Manzi
+  III: "#1F5A85"           # indigo: the seas and the return
+
+# Line semantics, fixed everywhere (multimedia-plan.md § Principles 3).
+line:
+  stated: {dash: solid, label: "route the Book states"}
+  inferred: {dash: dashed, label: "reconstructed or inferred"}
+  reported: {dash: dotted, label: "reported only, not travelled"}
+route_width_pt: 1.1
+
+# Place markers: a grey ramp by gazetteer `reliability`, so they never compete with route colours
+# and survive greyscale print. `legendary` and `unfixed` rows are never plotted.
+reliability:
+  visited: {face: "#2B2A28", edge: "#2B2A28", label: "visited"}
+  likely_visited: {face: "#8C8A84", edge: "#2B2A28", label: "probably visited"}
+  reported_only: {face: "#FFFFFF", edge: "#2B2A28", label: "reported only"}
+  uncertain: {face: "#FFFFFF", edge: "#8C8A84", label: "uncertain"}
+marker_pt: 3.2
+disputed_suffix: "?"       # id_confidence = disputed: the label gets a query mark
+
+# Timeline event kinds: TikZ marker shape and colour.
+event_kind:
+  text: {shape: circle, colour: "#2B2A28", label: "manuscript and text"}
+  print: {shape: rectangle, colour: "#1F5A85", label: "printed edition"}
+  map: {shape: diamond, colour: "#B7871F", label: "map"}
+  journey: {shape: isosceles triangle, colour: "#A8432B", label: "journey"}
+  # B1–B4 (DIA.T1). Shapes repeat across kinds, but never with the same colour in one timeline.
+  life: {shape: circle, colour: "#1F5A85", label: "Polo family"}
+  document: {shape: rectangle, colour: "#6E6B66", label: "archival document"}
+  rule: {shape: circle, colour: "#B7871F", label: "rulers and court"}
+  war: {shape: diamond, colour: "#A8432B", label: "war, siege or battle"}

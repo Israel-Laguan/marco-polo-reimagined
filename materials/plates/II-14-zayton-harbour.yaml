@@ -1,0 +1,34 @@
+plate: II-14
+title: Zayton harbour and the pepper trade
+status: accepted
+tradition: Song–Yuan city-genre handscroll
+caption: >-
+  Junks and merchants at Zayton (Quanzhou); Polo's hundred-to-one pepper ratio is rhetoric, not a verified trade volume. Modern illustration in the manner of a Song–Yuan city-genre handscroll. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '2:1', resolution: 2700x1350, rounds: 1, selected: media/plates/drafts/II-14/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/II-14.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- Exact wharf, buildings, dress, merchants' identities and ship rig are interpretive. Exterior nail-head pattern is illustrative; internal bulkheads are not visible.
+post: >-
+  convert media/plates/drafts/II-14/gpt-r1-1.png -filter Lanczos -resize 2700x1350\! -unsharp 0x0.75+0.5+0 -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-14-zayton-harbour.png
+review:
+  script: Pass; no lettering or seals visible.
+  period: Pass with limits; nailed plank junk and merchants are broadly reconstructed; nail pattern and dress not directly sourced.
+  scene: Pass; pepper baskets move between vessel and quay; diverse merchants converse.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass with limits; fine ink city scene though foreground figures are larger than typical scroll figures.
+  ground_and_aging: Pass; even silk texture.
+  artifact_risk: Caption identifies modern origin.
+  print: Pass; 2700x1350, sRGB, 300 ppi, upscaled with light sharpening.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_ship: Pass with limit; nailed plank exterior shown, internal bulkheads not visible in exterior view.
+  must_get_right_pagodas: Pass; twin pagodas in town.
+  must_get_right_merchants: Pass with limit; regional identities communicated through generalized dress, not specific portrait evidence.

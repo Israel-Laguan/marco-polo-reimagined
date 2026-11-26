@@ -1,0 +1,93 @@
+plate: I-12
+title: Cane divination before Chinggis's battle
+status: draft
+tradition: Ilkhanid Persian manuscript painting (Jami' al-Tawarikh, Tabriz, c. 1306–14)
+caption: ◇ Book theatre. In Polo’s account, Church of the East clerics read a psalm over split canes for Chinggis,
+  while Toghrul occupies the rival camp. Polo places the confrontation at Tenduc in 1200. The historical defeat
+  of Toghrul came elsewhere in 1203. Modern illustration in the manner of Ilkhanid Persian manuscript painting.
+  Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-18'
+params:
+  scale: '4:3'
+  resolution: 1448x1086
+  rounds: 1
+  turns: 1
+  selected: media/plates/drafts/I-12/gpt-r1-1.png
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/I-12.txt
+negative: in-prompt
+reference_images:
+- file: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23. Scan credited to Munich 2005 catalogue, p. 263, via
+    Wikimedia Commons
+- file: media/characters/chinghis-1206-sheet.png
+  use: accepted character sheet
+  licence: Project-generated reference approved for use (CHR.T9)
+  credit: The Book of the Million, Chinghis 1206 character sheet
+- file: media/characters/toghrul-1203-sheet.png
+  use: accepted character sheet
+  licence: Project-generated reference approved for use (CHR.T9)
+  credit: The Book of the Million, Toghrul 1203 character sheet
+figures:
+- id: chinghis
+  year: 1203
+  cue: |-
+    [PERIOD] Chinghis, c. 41 in 1203: at 41 (1203): black-bearded, broad, weather-worn; white-bearded only near 1227.
+             Dress (steppe): felt and fur steppe coat, fur-trimmed hat; lamellar armour in battle.
+             The white tug standard of the ruler.
+    [AVOID]  modern Mongolian statue iconography; the white beard in a 1203 scene
+- id: toghrul
+  year: 1203
+  cue: |-
+    no card for 'toghrul'
+    Accepted Toghrul 1203 house reference: spare older Kereit ruler with a divided greying beard, blue belted wrap coat edged in oxide red, russet felt cap and dark boots. The date and identity are in the character registry. Exact dress and appearance are working conventions.
+cues:
+- C5
+- C6
+unsourced:
+- Exact scene, arrangement of people, and physical props for Polo’s anecdote. The Book supplies the psalm, divided
+  cane and opposition of the two camps. The primary-text parallel in William of Rubruck describes twig divination
+  of a different kind and does not verify this event.
+- The two Church of the East clerics’ precise garments, caps, appearance, and the psalter’s exterior. Generic plain
+  local clothes and an undecorated bound book serve the narrative. The vellum pages are intentionally blank.
+- Exact layout and construction details of the two camps. The low felt shelters and visible lattice lines are schematic.
+  The camp separation shows the story’s geography rather than identifying a site.
+- Toghrul’s precise face, age, and clothing colours follow the accepted working design. C5 and C6 are later comparanda
+  for broad garment and saddlery forms, not evidence for 1203 costume specifics.
+post: convert media/plates/drafts/I-12/gpt-r1-1.png -profile /usr/share/color/icc/colord/sRGB.icc -units PixelsPerInch
+  -density 300 media/plates/I-12-cane-divination.png
+review:
+  script: Pass. The open psalter and both canes are blank. The hems, felt roof, tack, standard, borders and corners
+    show no characters, seals or stamps at native size.
+  period: Pass with comparative limits. Chinggis wears an unarmoured felt-and-fur coat and hat. Toghrul wears the
+    accepted wrap coat and felt cap. Clerical dress and camp details are generic.
+  scene: Pass. Exactly four humans. Chinggis and two clerics share the foreground rite. Across open ground, Toghrul
+    sits alone at his own camp, outside the divination and separately readable at print size.
+  rule_6: Pass. The clerics take part as historical types in the narrated rite. No sacred figure or decorative icon
+    appears.
+  idiom: Pass. The compact figures, warm contour, curved garment folds, flat pigment and shallow overlapping space
+    read as early Ilkhanid manuscript painting.
+  ground_and_aging: Pass. Evenly aged warm paper with a clean, plain ruled edge. No mounting seam, heavy damage
+    or stains.
+  artifact_risk: Moderate. The border and aged manuscript-paper look make the required modern illustration label
+    material. The caption identifies the episode as book theatre.
+  print: Pass. 1448 × 1086, true 4:3, embedded sRGB and 300 ppi. Faces, hands, cane halves, horse tack and corners
+    were checked at native size. No upscaling or sharpening.
+  sidecar: Pass. Prompt, negative, model, job convention, date, caption, refs, figure cues, exact post command and
+    every review item are present.
+  must_get_right_nestorian_clerics: Pass. Two clerics in plain local clothing, one reading and one presenting the
+    cane halves. Their religious identity comes from the narrative and caption.
+  must_get_right_split_canes: Pass. Two distinct pale longitudinal halves with visible curved cross-sections rest
+    on a mat in the foreground.
+  must_get_right_psalter: Pass. One open bound book held to the reader, with entirely empty leaves.
+  must_get_right_1203: Pass. Chinggis uses the 1203 cue. Caption distinguishes Polo’s 1200 Tenduc setting from Toghrul’s
+    historical defeat in 1203 elsewhere.
+  must_get_right_C5: Pass with comparative limits. Plain belted garments, hats, boots and one stocky horse with
+    a rounded saddlecloth and visible red breast-strap tassels.
+  must_get_right_C6: Pass with comparative limits. Low cross-legged seating, brimmed felt caps, belted robes, and
+    looped hair follow the comparative court treatment without introducing a separate ceremonial court.

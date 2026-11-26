@@ -1,0 +1,27 @@
+sheet: hulagu-1258
+cards: [hulagu]
+year: 1258
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Ilkhanid (Jami' al-Tawarikh)
+likeness: "Jami' al-Tawarikh folios of Hulagu (with Doquz Khatun)"
+generator: GPT image model (image_gen.imagegen)
+job_id: "none: chat output"
+date: 2026-11-18
+params: {size: 1448x1086, tries: 1}
+prompt: media/characters/prompts/hulagu-1258.txt
+reference_images:
+  - file: media/reference/s22/edinburgh-orms20-siege-of-zarang.jpg
+    use: edit OK
+    licence: Public domain
+    credit: "Jami' al-Tawarikh, Maḥmūd of Ghazna attacks Zarang, Edinburgh University Library Or.MS 20, via Wikimedia Commons"
+attribution: >-
+  Generated image (GPT image model, image_gen.imagegen, 2026-11-18) for The Book of the Million, a working reference
+  sheet in the manner of Ilkhanid (Jami' al-Tawarikh). Not a historical artifact.
+  Reference image: Jami' al-Tawarikh, Maḥmūd of Ghazna attacks Zarang, Edinburgh University Library Or.MS 20, via Wikimedia Commons.
+review:
+  script: "Pass — corners and paper ground blank. Repeated marks on the armour read as lacing holes and the robe ornament as floral."
+  period: "Pass — hulagu 1258, C37. Mongol lamellar armour over a robe, fur-trimmed hat and a visible black quiver at the back."
+  figures: "Pass — one man about 41, with a broad stocky torso, moustache and thin beard."
+  idiom: "Pass — flat mineral palette, firm fine lines, ornamental textile and miniature treatment on warm paper."
+  notes: "The equipment reference is a later 13th-century comparandum. The attached image supplied painting and armour cues, not a specific likeness."

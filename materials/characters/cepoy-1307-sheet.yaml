@@ -1,0 +1,22 @@
+sheet: cepoy-1307
+cards: [cepoy]
+year: 1307
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: "Italian Gothic"
+likeness: "house convention, no authentic likeness"
+generator: "GPT image model in the chat agent"
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 2}
+prompt: media/characters/prompts/cepoy-1307.txt
+reference_images: []
+attribution: >-
+  Generated image (GPT image model in the chat agent, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Italian Gothic. Not a historical artifact.
+review:
+  script: "Pass. The closed book cover and paper ground are blank. No script or seals on the sword or costume."
+  period: "Pass. The sleeveless surcoat, mantle and sheathed sword match the French noble's Venice dress cue."
+  figures: "Pass. One French knight in his prime, holding the closed manuscript, with precisely two hands visible."
+  idiom: "Pass. Bold, even contours, coloured drapery and the measured French-donor pose read as Gothic illumination."
+  notes: "The first attempt did not clearly separate the surcoat from the tunic. The layers are distinct in this version. The lower margin is still narrow."

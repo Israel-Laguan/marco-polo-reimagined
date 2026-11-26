@@ -1,0 +1,639 @@
+# Plate settings keyed by gazetteer ID. Source paths are relative to book/.
+# Plate identifiers follow the illustration plan; optional scenes include their title.
+# The portrait frontispiece, context-free figures and abstracts have no place entry.
+# Candidate settings and contextual references stay qualified in each entry.
+genoa:
+  plates:
+  - I-1
+  references:
+  - cue: C45
+    source: media/references/ref_I-01_annales-ianuenses-bnf-lat10136-p231-consuls-council.jpg
+    use: look only
+    seen: viewed
+    for: Arcaded civic meeting room and seating, C45.
+    period: Civic council illustration by the 1230s.
+    avoid: A prison cell or a claim that this is the dictation room.
+  - cue: C43
+    source: media/references/ref_I-01_cocharelli-bl-add27695-f8r-counting-house-clerks.jpg
+    use: look only
+    seen: viewed
+    for: Furniture and scale of a merchant’s interior.
+    period: Genoese comparandum, about 1330–40.
+    avoid: Copying the later dress or asserting that the setting is documented.
+venice:
+  plates:
+  - III-10
+  - III-10 secondary — Marco’s will
+  - III-11 secondary — Fra Mauro at his map
+  references:
+  - cue: null
+    source: https://www.basilicasanmarco.it/en/sculpture/the-decoration-of-the-facades/
+    use: text
+    seen: text only
+    for: Medieval west façade, rounded portals and the placement of the horses.
+    period: Sant’Alipio mosaic about 1265, with later fabric described separately.
+    avoid: Present-day square frontage, Gothic pinnacles, waterfront in front of the west façade.
+  - cue: null
+    source: media/references/ref_III-10_cocharelli-bl-add27695-f13r-feast.jpg
+    use: look only
+    seen: viewed
+    for: Composition and furniture scale as later comparison.
+    period: Genoese interior, around 1330–40.
+    avoid: Treating the Venetian homecoming as a documented likeness or room view.
+  sheet: media/places/venice-sheet.png
+curzola:
+  plates:
+  - I-1 secondary — Dawn at Curzola
+  references:
+  - cue: null
+    source: media/references/ref_I-01_yule1903-galley-fight.jpg
+    use: edit OK
+    seen: viewed
+    for: Galley rig and oar-bank comparandum.
+    period: Probably after a painting from around 1407.
+    avoid: Using the later costumes or treating the capture site as established.
+sarai:
+  plates:
+  - III-12
+  references:
+  - cue: null
+    source: media/public-domain/III-12-alt_loc1959-facsimile-caravan.jpg
+    use: edit OK
+    seen: viewed
+    for: The caravan inscription and Sarai as narrated origin.
+    period: Medieval design of 1375 in a hand-coloured 1959 facsimile.
+    avoid: Using facsimile colour as original or identifying the riders as the Polos.
+acre:
+  plates:
+  - I-3 secondary — Friars turn back at Layas (departure context)
+  references:
+  - cue: null
+    source: https://whc.unesco.org/en/list/1042/
+    use: text
+    seen: text only
+    for: Medieval harbour context and broad street and building materials.
+    period: Crusader town survives substantially below the later Ottoman city.
+    avoid: Copying the Ottoman citadel, walls, mosque or present skyline.
+  - cue: C40
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: Architectural and working-dress idiom of the manuscript, C40.
+    period: Acre-school Arsenal Bible, about 1250–54, used as a comparandum.
+    avoid: Treating the Biblical setting as a site view.
+  sheet: media/places/acre-sheet.png
+ayas:
+  plates:
+  - I-4
+  - I-3 secondary — Friars turn back at Layas
+  references:
+  - cue: null
+    source: https://charlvarchive.org/Site/76
+    use: text
+    seen: text only
+    for: Island fort and the relationship of castles to harbour.
+    period: Modern survey records Armenian fabric and later interventions.
+    avoid: Reconstructing the multiperiod land circuit as a solely Armenian wall.
+  - cue: C48
+    source: media/references/ref_I-04_carte-pisane-bnf-geb1118-levant-cilicia-crop.jpg
+    use: look only
+    seen: viewed
+    for: Port context from the view-only chart, C48.
+    period: Late-13th-century vellum candidate date.
+    avoid: Treating the chart as a view of the quay or attaching the BnF scan.
+  - cue: C44
+    source: media/references/ref_I-04_cocharelli-bl-add27695-f5r-harbour-galleys-roundships.jpg
+    use: look only
+    seen: viewed
+    for: Comparandum for harbour vessels, C44.
+    period: Genoese manuscript, about 1330–40.
+    avoid: Copying the Genoese harbour plan as Ayas.
+  sheet: media/places/ayas-sheet.png
+baudas:
+  plates:
+  - I-5
+  - I-5 secondary — Mountain moves at the cobbler’s prayer
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Narrative setting and limits of the tower story.
+    period: Polo’s exemplum about the 1258 conquest and a separate miracle tale.
+    avoid: Claiming an excavated prison or a documented treasury tower.
+  - cue: C6
+    source: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+    use: edit OK
+    seen: viewed
+    for: Court and guards as a Persianate comparandum, C6.
+    period: Ilkhanid drawing around 1300.
+    avoid: Treating the miniature as a city plan or as the Abbasid court.
+saba:
+  plates:
+  - I-6
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Magi tombs as a local tradition and a narrative motif.
+    period: Late-13th-century text, Book I ch. X–XI.
+    avoid: Naming surviving tomb fabric as the one Polo saw.
+  gap: The checked narrative gives no secure match to standing tombs.
+kerman:
+  plates:
+  - I-7
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Agricultural plain, foothills, settlement scale and seasonal contrast.
+    period: Late-13th-century narrative of the road south of Kerman.
+    avoid: Placing the raid at a fixed or archaeologically identified village.
+reobarles:
+  plates:
+  - I-7
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Hot lowland and orchard cues for the Kerman descent.
+    period: Late-13th-century Book I account.
+    avoid: Inferring an exact crossing or raid site from this regional reference.
+hormos:
+  plates:
+  - I-7 secondary — Stitched ships of Hormos
+  - III-8
+  - III-9 (return context)
+  references:
+  - cue: null
+    source: plans/research/results/S-16-closeout.md
+    use: text
+    seen: text only
+    for: Separates Minab, proposed mainland ruins and the later island city.
+    period: Late-13th-century mainland settlement, with modern regional proxy.
+    avoid: Treating Minab or K-103 as a fixed city plan.
+  - cue: C7
+    source: https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f248.item
+    use: look only
+    seen: viewed
+    for: Gulf vessel type, C7; the image is a regional analogue.
+    period: Gulf comparandum from the 1236–37 Maqāmāt.
+    avoid: Using the BnF scan as input or treating its ship as an exact Hormos wreck.
+  gap: The mainland townscape and the date and form of its wind-catchers remain unverified.
+  sheet_gap: media/places/hormos-sheet.yaml
+arbre-sec:
+  plates:
+  - I-8
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Solitary tree and open plain in the Book.
+    period: Legendary landmark described in the late-13th-century text.
+    avoid: A verified site or botanically certain species.
+  gap: A literary setting with no map fix.
+old-man-of-the-mountain:
+  plates:
+  - I-8 secondary — Garden of the Old Man
+  references:
+  - cue: null
+    source: plans/research/results/S-16-closeout.md
+    use: text
+    seen: text only
+    for: Separates the Alamut context from the garden as told.
+    period: Textual legend with a 13th-century fortress context.
+    avoid: Drawing the garden as an excavated feature.
+badashan:
+  plates:
+  - I-9
+  references:
+  - cue: null
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: R-3 review supports only a narrative mining reconstruction.
+    period: Text and historic accounts, no checked 1260–95 mine fabric.
+    avoid: Identifying an exact mine mouth or attaching unrelated dress as local evidence.
+  gap: The gap ledger records no usable period reference for the ruby mine.
+  sheet_gap: media/places/badashan-sheet.yaml
+pamier:
+  plates:
+  - I-10
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Elevation, open grassland, snow and wild sheep.
+    period: Late-13th-century account of a high crossing.
+    avoid: Choosing a specific pass from the account or adding Ramusio’s horn cairns to the main scene.
+  gap: The gap ledger records no checked period visual source for the crossing.
+  sheet_gap: media/places/pamier-sheet.yaml
+cotan:
+  plates:
+  - I-10 secondary — Jade gatherers of Cotan
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Jade-bearing streams and oasis setting.
+    period: Late-13th-century Book I oasis account.
+    avoid: Present-day machinery or dated claims about a particular riverbank.
+desert-of-lop:
+  plates:
+  - I-11
+  references:
+  - cue: null
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: Open dunes and a faint phantom caravan as the Book’s folklore.
+    period: The period-source review rejected Mogao caves 3 and 465 as caravan evidence.
+    avoid: Treating the caves as documentary views of the crossing.
+  gap: The gap ledger records no checked period caravan or scene image for this desert.
+  sheet_gap: media/places/desert-of-lop-sheet.yaml
+campichu:
+  plates:
+  - I-11 secondary — Reclining Buddha at Campichu
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: Reclining figure as a setting cue for the Zhangye scene.
+    period: Late-13th-century report of large Buddhist images.
+    avoid: Assigning later restoration or decor to Polo’s day.
+caracoron:
+  plates:
+  - I-12 secondary — Steppe camp with ger-carts
+  references:
+  - cue: null
+    source: refs/yule-vol1.txt
+    use: text
+    seen: text only
+    for: General steppe camp context.
+    period: Late-13th-century steppe account and early-13th-century story tradition.
+    avoid: Assigning the battle, divination or mobile camp a precise site.
+chandu:
+  plates:
+  - I-2
+  - I-3
+  - I-13
+  - I-2 secondary — Golden tablet given
+  - I-13 secondary — Kublai with a leopard on his crupper
+  references:
+  - cue: null
+    source: https://whc.unesco.org/en/list/1389/
+    use: text
+    seen: text only
+    for: Protected landscape, walled precinct and its setting at the steppe edge.
+    period: Yuan settlement founded in 1256.
+    avoid: Treating the entire protected area as the palace footprint.
+  - cue: null
+    source: media/plates/III-9-palace-evidence-2026-11-19.md
+    use: text
+    seen: text only
+    for: Permanent halls and archaeological limits on the superstructure.
+    period: Excavated Yuan foundations, later descriptions.
+    avoid: Turning the reconstructed roof or the Book’s cane-palace description into surveyed architecture.
+  sheet: media/places/chandu-sheet.png
+cambaluc:
+  plates:
+  - II-2
+  - II-3
+  - II-5
+  - II-5 secondary — Yam runner with bells
+  - III-4 secondary — Relics arrive at Cambaluc
+  - III-9 (court comparandum)
+  references:
+  - cue: null
+    source: media/plates/III-9-palace-evidence-2026-11-19.md
+    use: text
+    seen: text only
+    for: Rammed-earth foundations, palette and limits of palace reconstruction.
+    period: Yuan structural remains and later Yuan and early Ming descriptions.
+    avoid: Forbidden City, yellow Ming roof system or claiming the farewell took place in this palace.
+  - cue: C38
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: Tentative earthen city wall cue and C38 timber comparandum.
+    period: Excavation leads, with later palace analogues.
+    avoid: Later brick-faced walls, 1359 barbican or Qing White Dagoba.
+  sheet: media/places/cambaluc-sheet.png
+cathay:
+  plates:
+  - III-12
+  references:
+  - cue: null
+    source: media/public-domain/III-12-alt_loc1959-facsimile-caravan.jpg
+    use: edit OK
+    seen: viewed
+    for: Cathay as the caravan’s destination in the inscription.
+    period: Medieval design of 1375 in a hand-coloured 1959 facsimile.
+    avoid: Treating the whole journey or destination as a surveyed route.
+pulisanghin:
+  plates:
+  - II-6
+  references:
+  - cue: null
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: R-3 intake distinguishes the bridge’s age from its current fabric.
+    period: Jin bridge of 1189–92, with major later rebuilding.
+    avoid: Copying Qing stelae and current parapets into the Yuan scene.
+sindafu:
+  plates:
+  - II-6 secondary — Roofed bridge market
+  references:
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Roofed market spans and river setting as described in the Book.
+    period: Late-13th-century account of the city’s bridge and traffic.
+    avoid: Copying the modern Anshun Bridge as surviving Yuan fabric.
+tebet:
+  plates:
+  - II-7
+  - II-7 secondary — Salt-cake money
+  references:
+  - cue: null
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: Limits of the record for lay travellers and the forest camp.
+    period: R-3 records a circa 1350 monastic painting lead.
+    avoid: Using monastic garments as evidence of local lay dress.
+  gap: The place is a marches setting rather than a fixed clearing.
+vochan:
+  plates:
+  - II-8
+  references:
+  - cue: null
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: Keep the frontier terrain generic and draw the battle account as a report.
+    period: R-3 found no verified local elephant or howdah image for this scene.
+    avoid: Persian or modern ceremonial elephant furniture.
+cuiju:
+  plates:
+  - II-9
+  references:
+  - cue: null
+    source: plans/research/results/S-17-intake.md
+    use: text
+    seen: text only
+    for: Tigers and guarded river passage; regional proxy only.
+    period: Geographical reading of a late-13th-century text.
+    avoid: Using modern Guiyang cityscape or an exact identification as reference.
+saianfu:
+  plates:
+  - II-11
+  references:
+  - cue: C46
+    source: media/references/ref_II-11_annales-ianuenses-bnf-lat10136-p289-savona-1227-trabucos-tents.jpg
+    use: look only
+    seen: viewed
+    for: Trebuchet type comparandum, C46.
+    period: 1227 siege in a Genoese manuscript.
+    avoid: Copying Savona’s wall architecture or putting the Polos at the siege.
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Han River and the paired Song strongholds.
+    period: Late-13th-century narrative with a contested role for the Polos.
+    avoid: Drawing visible machine detail as a surveyed siege position.
+caiju:
+  plates:
+  - II-12 (opposite Golden Island)
+  references:
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Canal mouth and Golden Island relative to present Guazhou.
+    period: Late-13th-century text, Book II ch. LXXII note 1.
+    avoid: Confusing it with the unlocated Caiju on the Yellow River.
+chinghianfu:
+  plates:
+  - II-12 (river setting near Zhenjiang)
+  references:
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Golden Island, opposite Caiju and close to Zhenjiang.
+    period: Late-13th-century text, Book II ch. LXXII–LXXIII.
+    avoid: Using the present monastery buildings as an unaltered Yuan view.
+kinsay:
+  plates:
+  - II-10
+  - II-13
+  - II-13 secondary — Fire alarm in Kinsay
+  references:
+  - cue: null
+    source: https://whc.unesco.org/en/list/1334/
+    use: text
+    seen: text only
+    for: Basin, hills, causeways, light vegetation and lake setting.
+    period: Historic West Lake landscape with multiple construction phases.
+    avoid: Modern Leifeng replica or Qing pavilions.
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Former Southern Song seat and lake pleasure boats.
+    period: Late-13th-century report and later Ramusio witness.
+    avoid: Treating boat scenes as evidence for the composition of the city skyline.
+  sheet: media/places/kinsay-sheet.png
+kelinfu:
+  plates:
+  - II-14 secondary — Silkie fowls
+  references:
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Fujian trade setting and the story’s actual placement along the Fuju road.
+    period: Ramusio’s witness transmits the fowl description.
+    avoid: Present-day commercial show breeds as a dated local photograph.
+zayton:
+  plates:
+  - II-14
+  - II-14 secondary — Silkie fowls (Fujian harbour context)
+  - III-9 (embarkation)
+  references:
+  - cue: null
+    source: https://whc.unesco.org/en/list/1561/
+    use: text
+    seen: text only
+    for: Port-city setting, Kaiyuan stone pagodas and excavated harbour approaches.
+    period: Song–Yuan archaeological components, with later repairs.
+    avoid: Copying the later gates or assuming that the embarkation is documented.
+  - cue: null
+    source: https://whc.unesco.org/document/189212
+    use: text
+    seen: text only
+    for: Limits of the excavated site evidence for the gate.
+    period: Site evaluation dates the Deji Gate to 1230 and records later repair.
+    avoid: Inventing a complete gateway from a foundation.
+  - cue: null
+    source: https://museum.wa.gov.au/maritime-archaeology-db/sites/default/files/no._1_china_1997.pdf
+    use: text
+    seen: text only
+    for: WA Museum report 237, ch. 4 on transom stern, pegs, hull and rudder stock.
+    period: Late Southern Song ship, about 1277.
+    avoid: Reconstructing the whole rig or upper works directly from the surviving hull.
+  sheet: media/places/zayton-sheet.png
+cachar-modun:
+  plates:
+  - II-1 (narrative theatre)
+  - II-4 (royal hunting context)
+  - II-4 secondary — Cranes from the litter
+  references:
+  - cue: C5
+    source: media/reference/s22/npm-khubilai-hunting-full.jpg
+    use: edit OK
+    seen: viewed
+    for: Lowland terrain, mounted entourage and hunting camp idiom.
+    period: Dated 1280, court painting.
+    avoid: Mapping the battle plain or identifying the painting as the battle venue.
+  gap: The royal hunting scene is generic and the plain’s location has no map fix.
+chipangu:
+  plates:
+  - III-1
+  - III-1 secondary — Chipangu imagined
+  references:
+  - cue: null
+    source: media/public-domain/III-01_moko-shurai-kyushu-copy-boarding-1281.jpg
+    use: edit OK
+    seen: viewed
+    for: Japanese and Yuan vessels and boarding as depicted.
+    period: Late-13th-century combat account in a later copy.
+    avoid: Reading a typhoon or a golden palace into the scroll.
+pentam:
+  plates:
+  - III-2
+  references:
+  - cue: null
+    source: https://museum.wa.gov.au/maritime-archaeology-db/sites/default/files/no._1_china_1997.pdf
+    use: text
+    seen: text only
+    for: Regional analogue for the axial rudder stock and hull.
+    period: Southern Song ship about 1277.
+    avoid: Claiming the Quanzhou wreck proves a lifting rudder in the strait.
+  - cue: null
+    source: https://epress.nus.edu.sg/sitereports/samis/content/5.%20Kota%20Cina
+    use: text
+    seen: text only
+    for: Comparandum for local maritime activity; the item is probably a boat timber.
+    period: Modern excavation record of wood with a 1155–1270 cal CE range.
+    avoid: Treating the timber as a dated rig plan.
+malaiur:
+  plates:
+  - III-2 (port and strait context)
+  references:
+  - cue: null
+    source: plans/research/results/GAZ-intake.md
+    use: text
+    seen: text only
+    for: Keep the Jambi interpretation and alternatives distinct from the shoal scene.
+    period: Pelliot’s identification of a late-13th-century trading polity.
+    avoid: Using a later Melaka view or identifying the shoal by the city’s assumed site.
+java-the-less:
+  plates:
+  - III-3
+  - III-3 secondary — Unicorn split panel
+  references:
+  - cue: C47
+    source: media/references/ref_III-03_wereldmuseum-RV-1403-1623.png
+    use: look only
+    seen: viewed
+    for: Tropical regional sculpture and dress reference, C47.
+    period: Late-13th-century East Javanese comparison.
+    avoid: Treating Java sculpture as a Sumatran dress or house record.
+samara:
+  plates:
+  - III-3
+  references:
+  - cue: null
+    source: plans/research/results/S-18-intake.md
+    use: text
+    seen: text only
+    for: Known period limits for the Sumatran wait and camp.
+    period: Late-13th-century coastal settlement evidence and separate narrative accounts.
+    avoid: Selecting a surveyed camp site or combining witness-specific defences as a verified feature.
+  gap: Regional evidence does not establish the camp’s buildings, layout or site.
+seilan:
+  plates:
+  - III-4
+  references:
+  - cue: null
+    source: refs/yule-vol2.txt
+    use: text
+    seen: text only
+    for: Mountain and route motif, with both pilgrim traditions.
+    period: Late-13th-century hearsay about the peak, chains and rival relic traditions.
+    avoid: Implying that Polo climbed the peak or reconstructing present installations as medieval.
+maabar:
+  plates:
+  - III-5
+  - III-5 secondary — Arab horses landed in Maabar
+  - III-11 (annotated Maabar page)
+  references:
+  - cue: null
+    source: plans/research/results/S-18-intake.md
+    use: text
+    seen: text only
+    for: Gulf of Mannar pearl fishing and the limits of the shell-midden chronology.
+    period: Archaeological comparanda span several centuries.
+    avoid: Dating the exact dive gear or treating the charm as corroborated.
+  - cue: null
+    source: media/references/ref_III-11_columbus-postils-maabar-page.jpg
+    use: look only
+    seen: viewed
+    for: Illustrates reception of the Maabar passage.
+    period: Later Columbus copy and annotations.
+    avoid: Using the postils as 13th-century evidence.
+mutfili:
+  plates:
+  - III-6 secondary — Diamond valley
+  references:
+  - cue: null
+    source: https://jainqq.org/explore/032566/229
+    use: text
+    seen: text only
+    for: Motupalli and protection of merchants.
+    period: Ganapatideva inscription, 1244–45.
+    avoid: Using the edict as documentation for the diamond valley or its location.
+melibar:
+  plates:
+  - III-6
+  references:
+  - cue: null
+    source: plans/registry/visual-references.md
+    use: text
+    seen: text only
+    for: Limits of evidence for period western-Indian ships and corsair practice.
+    period: R-3 identified a 1236–37 Gulf vessel comparandum, outside Malabar.
+    avoid: Copying the Gulf rig as an exact local vessel.
+madeigascar:
+  plates:
+  - III-7 (literary setting)
+  references:
+  - cue: null
+    source: media/references/ref_III-07_walters-w659-f133b-fabulous-bird.jpg
+    use: edit OK
+    seen: viewed
+    for: Marvel painting idiom for the fabulous bird.
+    period: Later copy of a Persian wonders text.
+    avoid: Treating the creature or the coastal landscape as a documented view.

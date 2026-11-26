@@ -1,0 +1,32 @@
+sheet: chabi-1275
+cards: [chabi]
+year: 1275
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Yuan court painting
+likeness: "her portrait in the NPM album of Yuan empresses, companion to the emperors' album (confirmed by S-11: Commons YuanEmpressAlbumChabi.jpg; copy in media/references/)"
+generator: GPT image model (image_gen.imagegen)
+job_id: "none: chat output"
+date: "2026-11-18"
+params: {size: 1448x1086, tries: 4}
+prompt: media/characters/prompts/chabi-1275.txt
+reference_images:
+  - file: media/references/ref_II-chabi_npm-yuan-empress-album.jpg
+    use: edit OK
+    licence: PD-Art; credit NPM
+    credit: National Palace Museum, Taipei, via Wikimedia Commons (Shuge scan)
+  - file: media/reference/s22/npm-khubilai-hunting-figures.jpg
+    use: edit OK
+    licence: Public domain
+    credit: Liu Guandao (attr.), Khubilai Khan Hunting, 1280, National Palace Museum, Taipei. Scan credited to Ebrey, Cambridge Illustrated History of China (1999), via Wikimedia Commons.
+attribution: >-
+  Generated image (GPT image model, image_gen.imagegen, 2026-11-18) for The Book of the Million, a working reference
+  sheet in the manner of Yuan court painting. Not a historical artifact. Reference images: National Palace Museum, Taipei,
+  via Wikimedia Commons (Shuge scan of Chabi); Liu Guandao (attr.), Khubilai Khan Hunting, National Palace Museum, Taipei
+  (scan credited to Ebrey, Cambridge Illustrated History of China, 1999, via Wikimedia Commons).
+review:
+  script: "Pass. The silk, corners, robe borders and tack show no text, seal or signature."
+  period: "Pass against the 1275 C2 and C4 cues. At court she wears the red flared boqta, patterned robe and pearl pendants. Mounted, she wears a plain white wrap robe with compact looped braids under a dark cap with one red band."
+  figures: "Pass. Both views show a mature woman with a full face and closely matched head scale. The mounted figure fills the saddle of the compact horse and holds the reins in both hands. The court outfit and pose follow v1."
+  idiom: "Pass. Fine ink contours, flat mineral colour and restrained facial modelling on silk read as Yuan court painting."
+  notes: "v1 made the mounted Chabi look like a child beside the adult court figure."

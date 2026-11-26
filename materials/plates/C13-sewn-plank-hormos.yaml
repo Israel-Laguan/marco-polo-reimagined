@@ -1,0 +1,33 @@
+plate: C13
+title: Sewn-plank ship of Hormos
+status: accepted
+use: DIA base (labels added in TikZ)
+tradition: technical line and light wash
+caption: >-
+  A hypothetical sewn-plank ship with a hide-covered hold and horses, after Polo's description. No 1250–1300 example has been identified. Modern technical illustration. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, corrective_turns: 1, selected: media/plates/drafts/C13/gpt-r1-2.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/C13.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- All features are after Polo's description only: sewn hull, lack of iron nails, sail, rudder or oar, hide covering and horses. The illustrated proportions, stitching pattern, structural framing and support for the horses are invented; no securely dated sewn hull from 1250–1300 was viewed, and Vosmer 2019 is unread.
+post: >-
+  convert media/plates/drafts/C13/gpt-r1-2.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/C13-sewn-plank-hormos.png
+review:
+  script: Pass; no text, labels, numbers or leaders.
+  period: Pass with explicit limits; all elements after Polo and structural details hypothetical.
+  scene: Pass; stitched hull, hide cover, two horses, mast and oar.
+  rule_6: Pass; no sacred figures.
+  idiom: Pass; isolated technical line and light wash.
+  ground_and_aging: Pass; pale paper and broad margins.
+  artifact_risk: Caption identifies modern schematic and textual source.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_stitching: Pass with limit; visible lacing is a diagrammatic convention, not excavated construction.

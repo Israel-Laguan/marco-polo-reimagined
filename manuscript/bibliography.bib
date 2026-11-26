@@ -1,0 +1,4258 @@
+% Master bibliography for The Book of the Million (biblatex; style per S-24).
+% Keys: authorYEARword, lower case (S-12). Exception: the base text uses its
+% siglum as the key (yc, ycadd) so Notes stay readable: [@yc, 1.61]. Status of each entry lives in
+% registry/sources.md once S-12 creates it; entries here without a
+% "confirmed" comment are not yet checked.
+%
+% Rule (S-24): cite an old book by its print edition. A digitisation
+% (Project Gutenberg, Internet Archive, HathiTrust...) is the access route,
+% given in url/addendum, never the date of the work.
+
+% --- Base text -------------------------------------------------------------
+% confirmed 2026-10-22: title pages in refs/yule-vol1.txt and refs/yule-vol2.txt;
+% PG catalogue records for eBooks 10636 (released 2004-01-01) and 12410
+% (released 2004-05-01; holds 1903 vol. 2 plus the 1920 Addenda).
+
+% confirmed (title pages and PG records, see the note above)
+@book{yc,
+  author     = {Polo, Marco and {Rustichello da Pisa}},
+  title      = {The Book of Ser Marco Polo, the Venetian, Concerning the Kingdoms and Marvels of the East},
+  translator = {Yule, Henry},
+  editor     = {Cordier, Henri},
+  editortype = {reviser},
+  edition    = {3},
+  volumes    = {2},
+  publisher  = {John Murray},
+  location   = {London},
+  date       = {1903},
+  shorthand  = {YC},
+  addendum   = {Consulted in the Project Gutenberg digitisation, eBooks 10636 and 12410 (2004)},
+  url        = {https://www.gutenberg.org/ebooks/10636},
+}
+
+% confirmed (title page and PG record, see the note above)
+@book{ycadd,
+  author     = {Cordier, Henri},
+  title      = {Ser Marco Polo: Notes and Addenda to Sir Henry Yule's Edition, Containing the Results of Recent Research and Discovery},
+  publisher  = {John Murray},
+  location   = {London},
+  date       = {1920},
+  shorthand  = {YC Add.},
+  addendum   = {Consulted in the Project Gutenberg digitisation, eBook 12410 (2004)},
+  url        = {https://www.gutenberg.org/ebooks/12410},
+}
+
+% --- Phase R intake: CIT-A/B/C (2026-10-22) --------------------------------
+% Raw results: plans/research/results/CIT-*-raw.md. Status per entry below;
+% name -> key map: plans/registry/name-keys.csv.
+
+% confirmed (IA scan is the 2001 paperback)
+@book{larner1999marco,
+  author    = {Larner, John},
+  title     = {Marco Polo and the Discovery of the World},
+  publisher = {Yale University Press},
+  location  = {New Haven},
+  date      = {1999},
+  url       = {https://archive.org/details/marcopolodiscove00john},
+}
+
+% confirmed (Open Library dates it 2012; Brill imprint 2013)
+@book{vogel2013marco,
+  author    = {Vogel, Hans Ulrich},
+  title     = {Marco Polo Was in China: New Evidence from Currencies, Salts and Revenues},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {2013},
+  series    = {Monies, Markets, and Finance in East Asia, 1600--1900},
+}
+
+% confirmed (IA scan is the 2009 paperback)
+@book{haw2006marco,
+  author    = {Haw, Stephen G.},
+  title     = {Marco Polo's China: A Venetian in the Realm of Khubilai Khan},
+  publisher = {Routledge},
+  location  = {London},
+  date      = {2006},
+  url       = {https://archive.org/details/marcopoloschinav0000step},
+}
+
+% confirmed
+@book{rossabi1988khubilai,
+  author    = {Rossabi, Morris},
+  title     = {Khubilai Khan: His Life and Times},
+  publisher = {University of California Press},
+  location  = {Berkeley},
+  date      = {1988},
+  url       = {https://archive.org/details/khubilaikhanhisl00ross},
+}
+
+% confirmed
+@book{moule1938description,
+  author     = {Polo, Marco and {Rustichello da Pisa}},
+  title      = {Marco Polo: The Description of the World},
+  translator = {Moule, A. C. and Pelliot, Paul},
+  editor     = {Moule, A. C. and Pelliot, Paul},
+  volumes    = {2},
+  note       = {Vol. 1 combines manuscript readings in English translation. Vol. 2 transcribes the Toledo manuscript (Z)},
+  publisher  = {George Routledge \& Sons},
+  location   = {London},
+  date       = {1938},
+  url        = {https://archive.org/details/descriptionofwor01polo},
+}
+
+% confirmed (missed by CIT-A, which merged Moule into Moule–Pelliot)
+@book{moule1957quinsai,
+  author    = {Moule, A. C.},
+  title     = {Quinsai, with Other Notes on Marco Polo},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1957},
+}
+
+% confirmed (publisher to check: SPCK / Macmillan)
+@book{moule1930christians,
+  author    = {Moule, A. C.},
+  title     = {Christians in China before the Year 1550},
+  publisher = {Society for Promoting Christian Knowledge},
+  location  = {London},
+  date      = {1930},
+}
+
+% confirmed
+@book{pelliot1959notes,
+  author    = {Pelliot, Paul},
+  title     = {Notes on Marco Polo},
+  volumes   = {3},
+  publisher = {Imprimerie nationale and Adrien-Maisonneuve},
+  location  = {Paris},
+  date      = {1959/1973},
+}
+
+% confirmed
+@book{benedetto1928milione,
+  author    = {Polo, Marco and {Rustichello da Pisa}},
+  editor    = {Benedetto, Luigi Foscolo},
+  title     = {Il Milione: Prima edizione integrale},
+  publisher = {Leo S. Olschki},
+  location  = {Florence},
+  date      = {1928},
+  url       = {https://archive.org/details/marcopolomilionebenedetto},
+}
+
+% confirmed
+@book{allsen1997commodity,
+  author    = {Allsen, Thomas T.},
+  title     = {Commodity and Exchange in the Mongol Empire: A Cultural History of Islamic Textiles},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1997},
+}
+
+% confirmed (Cambridge University Press title page and first-publication date; introduction read for personnel, 2026-11-11)
+@book{allsen2001culture,
+  author    = {Allsen, Thomas T.},
+  title     = {Culture and Conquest in Mongol Eurasia},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {2001},
+  doi       = {10.1017/CBO9780511497445},
+  url       = {https://www.cambridge.org/core/books/culture-and-conquest-in-mongol-eurasia/7C029340250BEA313F58D0997E47892E},
+}
+
+% confirmed (added: the II-04 hunt contexts)
+@book{allsen2006royal,
+  author    = {Allsen, Thomas T.},
+  title     = {The Royal Hunt in Eurasian History},
+  publisher = {University of Pennsylvania Press},
+  location  = {Philadelphia},
+  date      = {2006},
+}
+
+% confirmed
+@book{critchley1992marco,
+  author    = {Critchley, John},
+  title     = {Marco Polo's Book},
+  publisher = {Variorum},
+  location  = {Aldershot},
+  date      = {1992},
+}
+
+% confirmed (series; each Note must name its volume)
+@book{needham1954science,
+  author    = {Needham, Joseph},
+  title     = {Science and Civilisation in China},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1954/},
+}
+
+% confirmed
+@book{steinhardt1990chinese,
+  author    = {Steinhardt, Nancy Shatzman},
+  title     = {Chinese Imperial City Planning},
+  publisher = {University of Hawaii Press},
+  location  = {Honolulu},
+  date      = {1990},
+  url       = {https://archive.org/details/chineseimperialc0000stei},
+}
+
+% confirmed
+@book{wood1995did,
+  author    = {Wood, Frances},
+  title     = {Did Marco Polo Go to China?},
+  publisher = {Secker \& Warburg},
+  location  = {London},
+  date      = {1995},
+}
+
+% confirmed FINAL-ACCESS 2026-11-17: ANU record and full HTML read (copy saved as research_notes/Marcopolo.html); no page numbers. Its n. 1 refers to ZAS 27 (1997) for the detailed argument.
+@online{derachewiltz2002wood,
+  author       = {de Rachewiltz, Igor},
+  title        = {F. Wood's \emph{Did Marco Polo Go To China?}: A Critical Appraisal},
+  organization = {Australian National University, Pacific and Asian History},
+  date         = {2002},
+  url          = {http://hdl.handle.net/1885/41883},
+}
+
+@book{derachewiltz1971papal,
+  author    = {de Rachewiltz, Igor},
+  title     = {Papal Envoys to the Great Khans},
+  publisher = {Stanford University Press},
+  location  = {Stanford},
+  date      = {1971},
+}
+
+% confirmed S-25 2026-11-13: the author's own ANU posting (in fact the 2002 paper, `derachewiltz2002wood`) (hdl.handle.net/1885/41883) cites "Zentralasiatische Studien 27 (1997), pp. 34-92"; same in three bibliographies. No catalogue/ToC opened (no DOI). Corrections in ZAS 28 (1998): 177.
+@article{derachewiltz1997marco,
+  author       = {de Rachewiltz, Igor},
+  title        = {Marco Polo Went to China},
+  journaltitle = {Zentralasiatische Studien},
+  volume       = {27},
+  date         = {1997},
+  pages        = {34--92},
+}
+
+% confirmed
+@book{derachewiltz2004secret,
+  translator = {de Rachewiltz, Igor},
+  title     = {The Secret History of the Mongols: A Mongolian Epic Chronicle of the Thirteenth Century},
+  volumes   = {2},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {2004},
+}
+
+% confirmed (Italian original 1957)
+@book{olschki1960marco,
+  author     = {Olschki, Leonardo},
+  title      = {Marco Polo's Asia: An Introduction to His ``Description of the World'' Called ``Il Milione''},
+  translator = {Scott, John A.},
+  publisher  = {University of California Press},
+  location   = {Berkeley},
+  date       = {1960},
+}
+
+% confirmed
+@book{franke1994china,
+  author    = {Franke, Herbert},
+  title     = {China under Mongol Rule},
+  publisher = {Variorum},
+  location  = {Aldershot},
+  date      = {1994},
+}
+
+% confirmed S-25 2026-11-13: WorldCat OCLC 494165759 listing (title, 1993, UMI Ann Arbor; record page behind a bot check) and the Innsbruck Marco Polo bibliography (UCLA, 1993). UMI number not found.
+@thesis{dutschke1993francesco,
+  author      = {Dutschke, Consuelo Wager},
+  title       = {Francesco Pipino and the Manuscripts of Marco Polo's Travels},
+  type        = {phdthesis},
+  institution = {University of California, Los Angeles},
+  date        = {1993},
+}
+
+% confirmed (2nd ed. 2007)
+@book{morgan1986mongols,
+  author    = {Morgan, David},
+  title     = {The Mongols},
+  publisher = {Blackwell},
+  location  = {Oxford},
+  date      = {1986},
+}
+
+% confirmed (2nd ed. 2018)
+@book{jackson2005mongols,
+  author    = {Jackson, Peter},
+  title     = {The Mongols and the West, 1221--1410},
+  publisher = {Pearson Longman},
+  location  = {Harlow},
+  date      = {2005},
+}
+
+% confirmed S-25 2026-11-13: Open Library OL11359625M (LC/Harvard MARC; LCCN 2003061696) and CiNii BA69362002 (New York, Facts on File, c2004, x, 678 p.)
+@book{atwood2004encyclopedia,
+  author    = {Atwood, Christopher P.},
+  title     = {Encyclopedia of Mongolia and the Mongol Empire},
+  publisher = {Facts on File},
+  location  = {New York},
+  date      = {2004},
+  isbn      = {978-0-8160-4671-3},
+}
+
+% confirmed
+@book{chaudhuri1985trade,
+  author    = {Chaudhuri, K. N.},
+  title     = {Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1985},
+}
+
+% confirmed (identification medium: check the Notes' context)
+@book{hall1985maritime,
+  author    = {Hall, Kenneth R.},
+  title     = {Maritime Trade and State Development in Early Southeast Asia},
+  publisher = {University of Hawaii Press},
+  location  = {Honolulu},
+  date      = {1985},
+}
+
+% confirmed (identification medium)
+@book{wolters1967early,
+  author    = {Wolters, O. W.},
+  title     = {Early Indonesian Commerce: A Study of the Origins of Śrīvijaya},
+  publisher = {Cornell University Press},
+  location  = {Ithaca},
+  date      = {1967},
+}
+
+% confirmed (2nd ed. 2007)
+@book{daftary1990ismailis,
+  author    = {Daftary, Farhad},
+  title     = {The Ismāʿīlīs: Their History and Doctrines},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1990},
+}
+
+% confirmed (French original 1959)
+@book{gernet1962daily,
+  author     = {Gernet, Jacques},
+  title      = {Daily Life in China on the Eve of the Mongol Invasion, 1250--1276},
+  translator = {Wright, H. M.},
+  publisher  = {Macmillan},
+  location   = {New York},
+  date       = {1962},
+}
+
+% known (no Open Library record found); pp. 450, 575, 593, 606 and 627 read in an Internet Archive scan, S-19 2026-11-12; copyright 1998 by the series editors
+@book{thackston1998rashiduddin,
+  author     = {{Rashīd al-Dīn}},
+  title      = {Rashiduddin Fazlullah's Jamiʿuʾt-tawarikh: Compendium of Chronicles},
+  translator = {Thackston, W. M.},
+  volumes    = {3},
+  series     = {Sources of Oriental Languages and Literatures 45},
+  publisher  = {Harvard University, Department of Near Eastern Languages and Civilizations},
+  location   = {Cambridge, MA},
+  date       = {1998/1999},
+}
+
+% confirmed
+@book{boyle1958history,
+  author     = {Juvaynī, ʿAlāʾ al-Dīn ʿAṭā-Malik},
+  title      = {The History of the World-Conqueror},
+  translator = {Boyle, John Andrew},
+  volumes    = {2},
+  publisher  = {Manchester University Press},
+  location   = {Manchester},
+  date       = {1958},
+}
+
+% confirmed (vols. 4–5 by C. F. Beckingham)
+@book{gibb1958travels,
+  author     = {{Ibn Baṭṭūṭa}},
+  title      = {The Travels of Ibn Baṭṭūṭa, A.D. 1325--1354},
+  note       = {Ibn Baṭṭūṭa’s account, written up by Ibn Juzayy. Vol. 5 is the index},
+  translator = {Gibb, H. A. R. and Beckingham, C. F.},
+  volumes    = {5},
+  publisher  = {Hakluyt Society},
+  location   = {Cambridge},
+  date       = {1958/2000},
+}
+
+% confirmed
+@book{jackson1990mission,
+  author     = {William of Rubruck},
+  title      = {The Mission of Friar William of Rubruck: His Journey to the Court of the Great Khan Möngke, 1253--1255},
+  translator = {Jackson, Peter},
+  editor     = {Jackson, Peter and Morgan, David},
+  publisher  = {Hakluyt Society},
+  location   = {London},
+  date       = {1990},
+}
+
+% known (Hakluyt 2nd ser. 33, 37, 38, 41)
+@book{yule1913cathay,
+  author    = {Yule, Henry},
+  title     = {Cathay and the Way Thither: Being a Collection of Medieval Notices of China},
+  editor    = {Cordier, Henri},
+  edition   = {new},
+  volumes   = {4},
+  publisher = {Hakluyt Society},
+  location  = {London},
+  date      = {1913/1916},
+}
+
+% confirmed (1913 title page and contents of vol. 2, see refs/odoric-yule-cordier-1913.txt)
+@incollection{odoric1913travels,
+  author     = {{Odoric of Pordenone}},
+  title      = {The Travels of Friar Odoric of Pordenone},
+  booktitle  = {Cathay and the Way Thither: Being a Collection of Medieval Notices of China},
+  volume     = {2},
+  translator = {Yule, Henry},
+  editor     = {Cordier, Henri},
+  editortype = {reviser},
+  publisher  = {Hakluyt Society},
+  location   = {London},
+  date       = {1913},
+  url        = {https://archive.org/details/cathaywaythither02yule},
+}
+
+% confirmed
+@book{evans1936pratica,
+  author    = {Pegolotti, Francesco Balducci},
+  title     = {La Pratica della Mercatura},
+  editor    = {Evans, Allan},
+  publisher = {Mediaeval Academy of America},
+  location  = {Cambridge, MA},
+  date      = {1936},
+}
+
+% known
+@book{beal1884siyuki,
+  author     = {Xuanzang},
+  title      = {Si-yu-ki: Buddhist Records of the Western World},
+  translator = {Beal, Samuel},
+  volumes    = {2},
+  publisher  = {Trübner},
+  location   = {London},
+  date       = {1884},
+}
+
+% known (Hakluyt extra ser. 42; no Open Library record found)
+@book{mills1970yingyai,
+  author     = {Ma Huan},
+  title      = {Ying-yai Sheng-lan: `The Overall Survey of the Ocean's Shores' [1433]},
+  translator = {Mills, J. V. G.},
+  publisher  = {Hakluyt Society},
+  location   = {Cambridge},
+  date       = {1970},
+}
+
+% known
+@book{defremery1853voyages,
+  author    = {Ibn Baṭṭūṭa},
+  title     = {Voyages d'Ibn Batoutah},
+  editor    = {Defrémery, C. and Sanguinetti, B. R.},
+  volumes   = {4},
+  publisher = {Imprimerie impériale},
+  location  = {Paris},
+  date      = {1853/1858},
+}
+
+% known
+@book{duhalde1735description,
+  author    = {Du Halde, Jean-Baptiste},
+  title     = {Description géographique, historique, chronologique, politique et physique de l'empire de la Chine et de la Tartarie chinoise},
+  volumes   = {4},
+  publisher = {P. G. Le Mercier},
+  location  = {Paris},
+  date      = {1735},
+}
+
+% known (journey 1838; 1872 ed. with Yule's essay)
+@book{wood1841personal,
+  author    = {Wood, John},
+  title     = {A Personal Narrative of a Journey to the Source of the River Oxus},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1841},
+}
+
+% unconfirmed (article; volume per CIT-C)
+@article{palladius1876elucidations,
+  author       = {Palladius},
+  title        = {Elucidations of Marco Polo's Travels in North-China, Drawn from Chinese Sources},
+  journaltitle = {Journal of the North-China Branch of the Royal Asiatic Society},
+  series       = {newseries},
+  volume       = {10},
+  date         = {1876},
+}
+
+% confirmed (some records date it 1866)
+@book{pauthier1865livre,
+  author    = {Polo, Marco},
+  editor    = {Pauthier, G.},
+  title     = {Le Livre de Marco Polo, citoyen de Venise},
+  volumes   = {2},
+  publisher = {Firmin Didot},
+  location  = {Paris},
+  date      = {1865},
+}
+
+% confirmed (IA vol. 2 scan is the 1910 reprint)
+@book{bretschneider1888mediaeval,
+  author    = {Bretschneider, E.},
+  title     = {Mediaeval Researches from Eastern Asiatic Sources},
+  volumes   = {2},
+  publisher = {Kegan Paul, Trench, Trübner},
+  location  = {London},
+  date      = {1888},
+  url       = {https://archive.org/details/medivalresearche02bret},
+}
+
+% confirmed
+@book{hammer1842geschichte,
+  author    = {Hammer-Purgstall, Joseph von},
+  title     = {Geschichte der Ilchane, das ist der Mongolen in Persien},
+  volumes   = {2},
+  publisher = {C. W. Leske},
+  location  = {Darmstadt},
+  date      = {1842/1843},
+  url       = {https://archive.org/details/geschichtederilc01hamm},
+}
+
+% confirmed
+@book{baber1882travels,
+  author    = {Baber, E. Colborne},
+  title     = {Travels and Researches in Western China},
+  series    = {Royal Geographical Society Supplementary Papers 1.1},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1882},
+}
+
+% confirmed
+@book{richthofen1877china,
+  author    = {Richthofen, Ferdinand von},
+  title     = {China: Ergebnisse eigener Reisen und darauf gegründeter Studien},
+  volumes   = {5},
+  publisher = {D. Reimer},
+  location  = {Berlin},
+  date      = {1877/1912},
+}
+
+% confirmed
+@book{marsden1818travels,
+  author     = {Polo, Marco},
+  translator = {Marsden, William},
+  title      = {The Travels of Marco Polo, a Venetian, in the Thirteenth Century},
+  publisher  = {Cox and Baylis},
+  location   = {London},
+  date       = {1818},
+}
+
+% confirmed
+@book{tennent1859ceylon,
+  author    = {Tennent, James Emerson},
+  title     = {Ceylon},
+  subtitle  = {An Account of the Island, Physical, Historical, and Topographical, with Notices of Its Natural History, Antiquities, and Productions},
+  volumes   = {2},
+  publisher = {Longman},
+  location  = {London},
+  date      = {1859},
+}
+
+% confirmed
+@book{sykes1902ten,
+  author    = {Sykes, Percy Molesworth},
+  title     = {Ten Thousand Miles in Persia, or Eight Years in Irán},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1902},
+}
+
+% confirmed
+@book{rockhill1891land,
+  author    = {Rockhill, William Woodville},
+  title     = {The Land of the Lamas},
+  subtitle  = {Notes of a Journey through China, Mongolia, and Tibet},
+  publisher = {Century},
+  location  = {New York},
+  date      = {1891},
+}
+
+% confirmed
+@book{shaw1871visits,
+  author    = {Shaw, Robert},
+  title     = {Visits to High Tartary, Yârkand, and Kâshghar},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1871},
+}
+
+% confirmed
+@book{dutreuil1897mission,
+  author    = {Dutreuil de Rhins, J.-L. and Grenard, Fernand},
+  title     = {Mission scientifique dans la Haute Asie, 1890--1895},
+  volumes   = {3},
+  publisher = {Ernest Leroux},
+  location  = {Paris},
+  date      = {1897/1898},
+}
+
+% confirmed
+@book{forsyth1875report,
+  author    = {Forsyth, T. D.},
+  title     = {Report of a Mission to Yarkund in 1873},
+  publisher = {Foreign Department Press},
+  location  = {Calcutta},
+  date      = {1875},
+}
+
+% confirmed
+@book{garnier1873voyage,
+  author    = {Garnier, Francis},
+  title     = {Voyage d'exploration en Indo-Chine},
+  volumes   = {2},
+  publisher = {Hachette},
+  location  = {Paris},
+  date      = {1873},
+}
+
+% confirmed
+@book{doolittle1865social,
+  author    = {Doolittle, Justus},
+  title     = {Social Life of the Chinese},
+  volumes   = {2},
+  publisher = {Harper},
+  location  = {New York},
+  date      = {1865},
+}
+
+% confirmed
+@book{degroot1892religious,
+  author    = {de Groot, J. J. M.},
+  title     = {The Religious System of China},
+  volumes   = {6},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {1892/1910},
+}
+
+% confirmed (identification medium)
+@book{mayers1874chinese,
+  author    = {Mayers, William Frederick},
+  title     = {The Chinese Reader's Manual},
+  publisher = {American Presbyterian Mission Press},
+  location  = {Shanghai},
+  date      = {1874},
+}
+
+% confirmed
+@book{stein1907ancient,
+  author    = {Stein, M. Aurel},
+  title     = {Ancient Khotan},
+  volumes   = {2},
+  publisher = {Clarendon Press},
+  location  = {Oxford},
+  date      = {1907},
+}
+
+% confirmed
+@book{hedin1898through,
+  author    = {Hedin, Sven},
+  title     = {Through Asia},
+  volumes   = {2},
+  publisher = {Methuen},
+  location  = {London},
+  date      = {1898},
+}
+
+% confirmed
+@book{dohsson1834histoire,
+  author    = {d'Ohsson, C.},
+  title     = {Histoire des Mongols, depuis Tchinguiz-Khan jusqu'à Timour Bey ou Tamerlan},
+  volumes   = {4},
+  publisher = {Les frères Van Cleef},
+  location  = {The Hague and Amsterdam},
+  date      = {1834/1835},
+}
+
+% known (no Open Library record found)
+@book{quatremere1836histoire,
+  author    = {Rashīd al-Dīn},
+  editor    = {Quatremère, Étienne},
+  title     = {Histoire des Mongols de la Perse},
+  publisher = {Imprimerie royale},
+  location  = {Paris},
+  date      = {1836},
+}
+
+% confirmed
+@book{gill1880river,
+  author    = {Gill, William},
+  title     = {The River of Golden Sand},
+  volumes   = {2},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1880},
+}
+
+% confirmed (II-08 context only; the III-03 Anderson is someone else)
+@book{anderson1876mandalay,
+  author    = {Anderson, John},
+  title     = {Mandalay to Momien},
+  publisher = {Macmillan},
+  location  = {London},
+  date      = {1876},
+}
+
+% confirmed
+@book{gordon1876roof,
+  author    = {Gordon, T. E.},
+  title     = {The Roof of the World},
+  publisher = {Edmonston and Douglas},
+  location  = {Edinburgh},
+  date      = {1876},
+}
+
+% confirmed
+@book{burnes1834travels,
+  author    = {Burnes, Alexander},
+  title     = {Travels into Bokhara},
+  volumes   = {3},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1834},
+}
+
+% confirmed
+@book{elphinstone1815account,
+  author    = {Elphinstone, Mountstuart},
+  title     = {An Account of the Kingdom of Caubul},
+  publisher = {Longman},
+  location  = {London},
+  date      = {1815},
+}
+
+% confirmed
+@book{moorcroft1841travels,
+  author    = {Moorcroft, William and Trebeck, George},
+  title     = {Travels in the Himalayan Provinces of Hindustan and the Panjab},
+  volumes   = {2},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1841},
+}
+
+% confirmed
+@book{curzon1892persia,
+  author    = {Curzon, George N.},
+  title     = {Persia and the Persian Question},
+  volumes   = {2},
+  publisher = {Longmans, Green},
+  location  = {London},
+  date      = {1892},
+}
+
+% confirmed
+@book{ferrier1856caravan,
+  author    = {Ferrier, J. P.},
+  title     = {Caravan Journeys and Wanderings in Persia, Afghanistan, Turkistan, and Beloochistan},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1856},
+}
+
+% confirmed
+@book{cunningham1854ladak,
+  author    = {Cunningham, Alexander},
+  title     = {Ladák, Physical, Statistical, and Historical},
+  publisher = {W. H. Allen},
+  location  = {London},
+  date      = {1854},
+}
+
+% confirmed
+@book{vambery1864travels,
+  author    = {Vámbéry, Arminius},
+  title     = {Travels in Central Asia},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1864},
+}
+
+% confirmed (identification medium)
+@book{michie1864siberian,
+  author    = {Michie, Alexander},
+  title     = {The Siberian Overland Route from Peking to Petersburg},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1864},
+}
+
+% --- Phase R intake: CIT-C rows 50–79 and CIT-D (2026-10-22) ---------------
+
+% confirmed
+@book{atkinson1858oriental,
+  author    = {Atkinson, Thomas Witlam},
+  title     = {Oriental and Western Siberia},
+  subtitle  = {A Narrative of Seven Years’ Explorations and Adventures in Siberia, Mongolia, the Kirghis Steppes, Chinese Tartary, and Part of Central Asia},
+  publisher = {Hurst and Blackett},
+  location  = {London},
+  date      = {1858},
+}
+
+% known (no Open Library record found)
+@book{timkowski1827travels,
+  author    = {Timkowski, George},
+  title     = {Travels of the Russian Mission through Mongolia to China},
+  volumes   = {2},
+  publisher = {Longman},
+  location  = {London},
+  date      = {1827},
+}
+
+% confirmed
+@book{hooker1854himalayan,
+  author    = {Hooker, Joseph Dalton},
+  title     = {Himalayan Journals},
+  subtitle  = {Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.},
+  volumes   = {2},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1854},
+}
+
+% confirmed
+@book{westermarck1891history,
+  author    = {Westermarck, Edward},
+  title     = {The History of Human Marriage},
+  publisher = {Macmillan},
+  location  = {London},
+  date      = {1891},
+}
+
+% confirmed
+@book{hosie1890three,
+  author    = {Hosie, Alexander},
+  title     = {Three Years in Western China},
+  publisher = {George Philip},
+  location  = {London},
+  date      = {1890},
+}
+
+% confirmed
+@book{flueckiger1874pharmacographia,
+  author    = {Flückiger, Friedrich A. and Hanbury, Daniel},
+  title     = {Pharmacographia: A History of the Principal Drugs of Vegetable Origin},
+  publisher = {Macmillan},
+  location  = {London},
+  date      = {1874},
+}
+
+% confirmed
+@book{major1857india,
+  editor    = {Major, R. H.},
+  title     = {India in the Fifteenth Century},
+  publisher = {Hakluyt Society},
+  location  = {London},
+  date      = {1857},
+}
+
+% unconfirmed (date 1876 vs 1880 per CIT-C; no record found)
+@book{groeneveldt1876notes,
+  author   = {Groeneveldt, W. P.},
+  title    = {Notes on the Malay Archipelago and Malacca, Compiled from Chinese Sources},
+  location = {Batavia},
+  date     = {1876},
+}
+
+% confirmed (identification medium)
+@book{hardy1850eastern,
+  author    = {Hardy, R. Spence},
+  title     = {Eastern Monachism},
+  publisher = {Partridge and Oakey},
+  location  = {London},
+  date      = {1850},
+}
+
+% confirmed
+@book{pridham1849historical,
+  author    = {Pridham, Charles},
+  title     = {An Historical, Political, and Statistical Account of Ceylon and Its Dependencies},
+  volumes   = {2},
+  publisher = {T. and W. Boone},
+  location  = {London},
+  date      = {1849},
+}
+
+% confirmed
+@book{elliot1867history,
+  editor    = {Elliot, H. M. and Dowson, John},
+  title     = {The History of India, as Told by Its Own Historians},
+  volumes   = {8},
+  publisher = {Trübner},
+  location  = {London},
+  date      = {1867/1877},
+}
+
+% confirmed (vol. 3 scan and contents; see refs/wassaf-elliot-dowson-1871.txt)
+@incollection{wassaf1871tarikh,
+  author    = {{Waṣṣāf}},
+  title     = {Tārīkh-i Waṣṣāf},
+  booktitle = {The History of India, as Told by Its Own Historians: The Muhammadan Period},
+  editor    = {Elliot, H. M. and Dowson, John},
+  volume    = {3},
+  publisher = {Trübner},
+  location  = {London},
+  date      = {1871},
+  url       = {https://archive.org/details/historyofindiaas03elli},
+}
+
+% confirmed
+@book{salt1814voyage,
+  author    = {Salt, Henry},
+  title     = {A Voyage to Abyssinia, and Travels into the Interior of That Country},
+  publisher = {F. C. and J. Rivington},
+  location  = {London},
+  date      = {1814},
+  url       = {https://archive.org/details/voyageAbyssinia00Salt},
+}
+
+% confirmed
+@book{younghusband1896heart,
+  author    = {Younghusband, Francis Edward},
+  title     = {The Heart of a Continent},
+  publisher = {John Murray},
+  location  = {London},
+  date      = {1896},
+}
+
+% confirmed in YC Intro § 37 (Yule's translation); edition per CIT-D, columns unconfirmed
+@incollection{jacopo1848chronica,
+  author    = {Jacopo d'Acqui},
+  title     = {Chronica imaginis mundi},
+  booktitle = {Historiae Patriae Monumenta, Scriptores},
+  volume    = {3},
+  location  = {Turin},
+  date      = {1848},
+}
+
+% confirmed (full article read for S-15 capture analysis; open access)
+@article{bolognari2024chronica,
+  author       = {Bolognari, Marcello},
+  title        = {La Chronica di Iacopo d'Acqui e il Devisement dou monde di Marco Polo: una prima ricognizione},
+  journaltitle = {TranScript},
+  volume       = {3},
+  number       = {1},
+  pages        = {21--68},
+  date         = {2024},
+  doi          = {10.30687/TranScript/2785-5708/2024/01/002},
+}
+
+% known (no Open Library record found)
+@book{gil1986libro,
+  editor    = {Gil, Juan},
+  title     = {El libro de Marco Polo: ejemplar anotado por Cristóbal Colón y que se conserva en la Biblioteca Capitular y Colombina de Sevilla},
+  series    = {Tabula Americae 5},
+  publisher = {Testimonio},
+  location  = {Madrid},
+  date      = {1986},
+}
+
+% confirmed
+@book{vignaud1902toscanelli,
+  author    = {Vignaud, Henry},
+  title     = {Toscanelli and Columbus},
+  publisher = {Sands},
+  location  = {London},
+  date      = {1902},
+}
+
+% known
+@book{ramusio1559navigationi,
+  editor    = {Ramusio, Giovanni Battista},
+  title     = {Secondo volume delle navigationi et viaggi},
+  publisher = {Giunti},
+  location  = {Venice},
+  date      = {1559},
+}
+
+
+% --- Phase R intake: CIT batch A and B and the decisions round (2026-10-22)
+
+% confirmed: Open Library record, year 1991 (the 1990 date in the research output is not supported).
+@book{columbus1991libro,
+  author     = {Columbus, Christopher},
+  editor     = {West, Delno C. and Kling, August},
+  translator = {West, Delno C. and Kling, August},
+  title      = {The ``Libro de las profecías'' of Christopher Columbus: An En Face Edition},
+  publisher  = {University Press of Florida},
+  location   = {Gainesville},
+  date       = {1991},
+}
+
+% confirmed 2026-10-22: BnF record ark:/12148/cb39245594j showed 1993 and Rusconi (the page later went down for maintenance); Nuova raccolta colombiana 3.
+@book{columbus1993rusconi,
+  author    = {Colombo, Cristoforo},
+  editor    = {Rusconi, Roberto},
+  title     = {Cristoforo Colombo, Lettere e scritti (1495--1506), tomo I: Libro de las profecías},
+  publisher = {Istituto Poligrafico e Zecca dello Stato},
+  location  = {Rome},
+  date      = {1993},
+}
+
+% confirmed 2026-10-22: Open Library OL44206919M: "an abridgment of the Muʿjam al-buldān of Yāqūt, by ʿAbd al-Muʾmin ibn ʿAbd al-Ḥaqq"; Juynboll ed., 6 tomes (iv–v introduction and annotation; vi Fleischer's annotation). Years 1852–1864 per DeepSeek (HathiTrust 008887209, not opened).
+@book{marasid1852,
+  author    = {{ʿAbd al-Muʾmin ibn ʿAbd al-Ḥaqq al-Baghdādī}},
+  volumes   = {6},
+  editor    = {Juynboll, Theodoor Willem Jan and Gaal, J. J. B.},
+  title     = {Marāṣid al-iṭṭilāʿ ʿalā asmāʾ al-amkina wa-al-biqāʿ},
+  publisher = {E. J. Brill},
+  location  = {Leiden},
+  date      = {1852/1864},
+}
+
+% claimed: DeepSeek cites Shanghai Library and NCEPU records; Shanghai rate-limited and NCEPU unreachable here; not verified.
+@book{wu2015mengliang,
+  author    = {Wu, Zimu},
+  editor    = {Kan, Haijuan},
+  title     = {Mengliang lu xin jiaozhu [夢粱錄新校注]},
+  publisher = {Bashu shushe},
+  location  = {Chengdu},
+  date      = {2015},
+}
+
+% confirmed S-25 2026-11-13: NDL Search a1000034269 (Zhonghua shuju 1959.2, 13, 385p, series 元明史料筆記叢刊; described from the 4th printing 2004) and CiNii BA36769092 (1997 reprint, same pagination); later printings are of the 1959 edition, so cite 1959. Text checked: juan 21 on Wikisource (Sibu congkan) has the Palm Hall sentence.
+@book{tao1959nancun,
+  author    = {Tao, Zongyi},
+  title     = {Nancun chuogeng lu [南村輟耕錄]},
+  publisher = {Zhonghua shuju},
+  location  = {Beijing},
+  date      = {1959},
+  series    = {Yuan Ming shiliao biji congkan},
+}
+
+% --- Palm Hall sources (enrichment E1, E2, E6, E7; 2026-10-22). Texts read on Wikisource; print editions to choose at S-12.
+
+% verified text: 上苑棕毛百尺樓 ("a hundred-foot tower of palm fibre in the upper park"), Wikisource page 上京即事. Translation ours.
+@incollection{sadulashangjing,
+  author    = {{Sa Dula}},
+  title     = {Shangjing jishi [上京即事]},
+  booktitle = {Sa Tianxi shiji [薩天錫詩集]},
+  url       = {https://zh.wikisource.org/zh-hant/上京即事},
+  note      = {Poems on Shangdu. Consulted in the digital text},
+}
+
+% verified text: 隆福宮西棕毛殿 in the 1311 entry in juan 5 (Siku quanshu text). Compilers and the 1992 Gao edition confirmed in the Nichibunken catalog.
+@book{mishujianzhi,
+  author   = {Wang, Shidian and Shang, Qiweng},
+  title    = {Mishujian zhi [秘書監志]},
+  addendum = {Consulted in the digitised Siku quanshu text. Modern edition: ed. Gao Rongsheng (Hangzhou: Zhejiang guji chubanshe, 1992)},
+  url   = {https://zh.wikisource.org/zh-hant/秘書監志_(四庫全書本)/卷05},
+  note  = {Records of the Yuan Palace Library},
+}
+
+% verified text: juan 29 (Taiding annals): 新作棕殿成 … 作棕毛殿; dated 1324–25 by Rixia jiuwen kao juan 32. Juan 106, 107 and 114 checked in the digitized text for Chabi and Dorjé (CHR-people-4 and FINAL-ACCESS intakes). Zhonghua shuju print edition not checked.
+@book{yuanshi1370,
+  author    = {Song, Lian and others},
+  title     = {Yuan shi [元史]},
+  date      = {1370},
+  addendum  = {Cited by juan. Modern edition: Beijing: Zhonghua shuju, 1976, 15 vols.},
+  url    = {https://zh.wikisource.org/zh-hant/元史/卷029},
+  note   = {Official history of the Yuan dynasty, compiled under the Ming},
+}
+
+% --- Leads round (2026-10-22): Leeu edition, postils, Marāṣid, Chinese editions, Chen Gaohua
+
+% confirmed: University of Glasgow incunabula record and BnF ark:/12148/cb31131556j: "[Gouda: Gerard Leeu, between 1483 and 11 June 1484]",
+% dated from Hellinga's HPT; Goff dated 1483-85. ISTC ip00902000; GW M34796. Columbus's copy: Seville, Biblioteca Capitular y Colombina.
+@book{polo1484consuetudinibus,
+  author     = {Polo, Marco and {Rustichello da Pisa}},
+  translator = {Pipino, Francesco},
+  title      = {De consuetudinibus et condicionibus orientalium regionum},
+  publisher  = {Gerard Leeu},
+  location   = {Gouda},
+  date       = {1483/1484},
+  note       = {ISTC ip00902000; GW M34796. Printed between 1483 and 11 June 1484},
+}
+
+% confirmed: Open Library record (ISBN 8420625000).
+@book{gil1987libro,
+  editor    = {Gil, Juan},
+  title     = {El libro de Marco Polo anotado por Cristóbal Colón; El libro de Marco Polo versión de Rodrigo de Santaella},
+  publisher = {Alianza Editorial},
+  location  = {Madrid},
+  date      = {1987},
+  isbn      = {8420625000},
+}
+
+% confirmed: CrossRef record and abstract ("notes and drawings attributable to Columbus himself and other members of his immediate circle";
+% "almost exclusively concerned with material things"). The count of c. 366 postils and Hernando's hand are claimed by the research
+% (citing the article's text), not read here.
+@article{shawcross2023materiality,
+  author       = {Shawcross, Teresa},
+  title        = {Materiality and Marginalia across the World: The Role of Things in Christopher Columbus's Annotations on Marco Polo},
+  journaltitle = {The Medieval History Journal},
+  volume       = {26},
+  number       = {2},
+  pages        = {376--424},
+  date         = {2023},
+  doi          = {10.1177/09719458231213480},
+}
+
+% confirmed: Journal of East Asian Libraries review by Xian Wu (no. 159, 2014) gives the imprint and ISBN; also reviewed by Steinhardt.
+@book{chen2015capital,
+  author     = {Chen, Gaohua},
+  translator = {Poon, Phoebe},
+  editor     = {Griffith, Glenn and Poon, Phoebe},
+  title      = {The Capital of the Yuan Dynasty},
+  publisher  = {Silkroad Press},
+  location   = {Honolulu},
+  date       = {2015},
+  isbn       = {978-981-4332-44-6},
+  note       = {Translation of \emph{Yuan Dadu} (Beijing chubanshe, 1982), per Steinhardt's review},
+}
+
+% confirmed: CrossRef record (Journal of Song-Yuan Studies 45, 2015).
+@article{steinhardt2015capital,
+  author       = {Steinhardt, Nancy Shatzman},
+  title        = {Review of \emph{The Capital of the Yuan Dynasty}, by Chen Gaohua},
+  journaltitle = {Journal of Song-Yuan Studies},
+  volume       = {45},
+  pages        = {387--391},
+  date         = {2015},
+  doi          = {10.1353/sys.2015.0011},
+}
+
+% confirmed: bibliographic record and opening page (p. 181) checked in the FINAL-ACCESS intake. The rest of the article was not inspected.
+@article{cleaves1976chinese,
+  author       = {Cleaves, Francis Woodman},
+  title        = {A Chinese Source Bearing on Marco Polo's Departure from China and a Persian Source on His Arrival in Persia},
+  journaltitle = {Harvard Journal of Asiatic Studies},
+  volume       = {36},
+  pages        = {181--203},
+  date         = {1976},
+  doi          = {10.2307/2718743},
+}
+
+% confirmed (DOI resolves to Reti Medievali Rivista; open-access PDF read 2026-10-22) — S-05 people intake
+@article{formentin2024codice,
+  author       = {Formentin, Vittorio and Schiavon, Alessandra},
+  title        = {Per il Codice Diplomatico Poliano: una sentenza memorabile (Venezia, 13 luglio 1366)},
+  journaltitle = {Reti Medievali Rivista},
+  volume       = {25},
+  number       = {1},
+  date         = {2024},
+  doi          = {10.6093/1593-2214/10840},
+}
+
+% unconfirmed (reported by the CHR-people-2 run via a Ca' Foscari press release, and by Orlando 2025, who gives the issue and pages; not seen)
+@article{bolognari2021agnes,
+  author       = {Bolognari, Marcello},
+  title        = {Agnes uxor Nicolai Calbo de confinio Sancti Iohannis Grisostomi: un nuovo documento inedito sulla famiglia Polo},
+  journaltitle = {Studi Medievali},
+  series       = {3},
+  volume       = {62},
+  number       = {2},
+  pages        = {745--758},
+  date         = {2021},
+}
+
+% confirmed: doc. 6 checked in digitized OCR (FINAL-ACCESS intake); original and clause page images uninspected. The article's title page was not checked. First name Giovanni follows Moule 1932 and the CNR bibliography.
+@article{orlandini1926marco,
+  author       = {Orlandini, Giovanni},
+  title        = {Marco Polo e la sua famiglia},
+  journaltitle = {Archivio Veneto-Tridentino},
+  volume       = {9},
+  pages        = {1--68},
+  date         = {1926},
+}
+
+% confirmed (DOI resolves; Crossref title, author, journal, year match); abstract only seen — CHR-people-3 intake
+@article{menshikova2025porcelain,
+  author       = {Menshikova, Maria},
+  title        = {Porcelain Figures for Empress Chabi of Khubilai Khan: An Attempt to Define the Image and Clarify the Dating},
+  journaltitle = {Journal of International Ceramic Studies},
+  date         = {2025},
+  doi          = {10.1016/j.joics.2025.100014},
+}
+
+% confirmed (DOI resolves; Crossref title, author, journal, year match); abstract only seen — CHR-people-3 intake
+@article{celik2022yuan,
+  author       = {Çelik, Burak},
+  title        = {Yuan Hanedanı'nın Annesi: Çabi Hatun},
+  journaltitle = {Belleten},
+  date         = {2022},
+  doi          = {10.37879/belleten.2022.843},
+}
+
+% --- Enrichment verification pass, E44–E50, E53 (2026-11-10) ----------------
+% Each entry below rests on a record seen in this pass (Crossref or Open
+% Library); contents not read unless the comment says so. See enrichment.md § 4.
+
+% confirmed (Crossref, DOI 10.1163/156853215x00310: T'oung Pao 16, pp. 627–686, 1915; Crossref OCR spells the title "Ghên-Chiang"); E44
+@article{moule1915christians,
+  author       = {Moule, A. C. and Giles, Lionel},
+  title        = {Christians at Chên-chiang Fu},
+  journaltitle = {T'oung Pao},
+  volume       = {16},
+  pages        = {627--686},
+  date         = {1915},
+  doi          = {10.1163/156853215x00310},
+}
+
+% confirmed; edited collection, online copy and the edition attribution seen in S-15 final intake
+@book{plebani2019testamento,
+  editor    = {Plebani, Tiziana},
+  title     = {Il testamento di Marco Polo},
+  publisher = {Edizioni Unicopli},
+  location  = {Milano},
+  date      = {2019},
+  isbn      = {9788840020518},
+}
+
+% confirmed (Open Library OL1614320W: Columbia University Press, New York, 1971, ISBN 0231033516); E46
+@book{boyle1971successors,
+  author     = {{Rashīd al-Dīn}},
+  title      = {The Successors of Genghis Khan},
+  translator = {Boyle, John Andrew},
+  publisher  = {Columbia University Press},
+  location   = {New York},
+  date       = {1971},
+  isbn       = {0231033516},
+}
+
+% confirmed (Open Library OL7204831W: Stanford University Press / H. Milford, Oxford University Press, 1942); E46. The 17 March 1312 Donata document in it not seen.
+@book{hart1942venetian,
+  author    = {Hart, Henry H.},
+  title     = {Venetian Adventurer},
+  publisher = {Stanford University Press},
+  location  = {Stanford},
+  date      = {1942},
+}
+
+% confirmed (Crossref: J. Southeast Asian History 5(2), pp. 43–103, Sept. 1964; abstract seen); E47
+@article{jackhinton1964marco,
+  author       = {Jack-Hinton, Colin},
+  title        = {Marco Polo in South-East Asia: A Preliminary Essay in Reconstruction},
+  journaltitle = {Journal of Southeast Asian History},
+  volume       = {5},
+  number       = {2},
+  pages        = {43--103},
+  date         = {1964},
+  doi          = {10.1017/s0217781100000946},
+}
+
+% confirmed (Crossref: J. Southeast Asian Studies 32(1), pp. 3–66, Feb. 2001; abstract seen); E47
+@article{wyatt2001relics,
+  author       = {Wyatt, David K.},
+  title        = {Relics, Oaths and Politics in Thirteenth-Century Siam},
+  journaltitle = {Journal of Southeast Asian Studies},
+  volume       = {32},
+  number       = {1},
+  pages        = {3--66},
+  date         = {2001},
+  doi          = {10.1017/s0022463401000017},
+}
+
+% confirmed (Open Library OL5600918W: University of Malaya Press, Kuala Lumpur, 1961); E48. Gemini's quotes and pages from it are invented; none used.
+@book{wheatley1961golden,
+  author    = {Wheatley, Paul},
+  title     = {The Golden Khersonese},
+  publisher = {University of Malaya Press},
+  location  = {Kuala Lumpur},
+  date      = {1961},
+}
+
+% confirmed (Open Library OL5394966W: published for Artibus Asiae and the Institute of Fine Arts, NYU, by J. J. Augustin, Locust Valley, N.Y., 1969); E48. Number of volumes not seen.
+@book{luce1969old,
+  author    = {Luce, Gordon Hannington},
+  title     = {Old Burma--Early Pagán},
+  publisher = {J. J. Augustin},
+  location  = {Locust Valley, N.Y.},
+  date      = {1969},
+}
+
+% confirmed (Crossref: Golden Horde Review 5(4), pp. 726–735, 2017); E49
+@article{sayfetdinova2017personality,
+  author       = {Sayfetdinova, Elmira G.},
+  title        = {The Personality of Sultan Baybars and His Role in Developing Relations of the Mamluk Egypt with the Golden Horde according to Arab Sources},
+  journaltitle = {Golden Horde Review},
+  volume       = {5},
+  number       = {4},
+  pages        = {726--735},
+  date         = {2017},
+  doi          = {10.22378/2313-6197.2017-5-4.726-735},
+}
+
+% confirmed (Crossref: Religions 14(11), article 1384, 2023; abstract exists); E49
+@article{mahamid2023religious,
+  author       = {Mahamid, Hatim Muhammad},
+  title        = {Religious Policy of the Mamluk Sultan Baybars (1260--1277 AC)},
+  journaltitle = {Religions},
+  volume       = {14},
+  number       = {11},
+  pages        = {1384},
+  date         = {2023},
+  doi          = {10.3390/rel14111384},
+}
+
+% confirmed (Crossref: Cogent Arts & Humanities 10(1), 2023); E49
+@article{mahamid2023mamluk,
+  author       = {Mahamid, Hatim Muhammad},
+  title        = {Mamluk Leadership between Religious and Political Arrangements under Sultan Baybars' Rule},
+  journaltitle = {Cogent Arts \& Humanities},
+  volume       = {10},
+  number       = {1},
+  date         = {2023},
+  doi          = {10.1080/23311983.2023.2188779},
+}
+
+% confirmed (Crossref: entry in The Encyclopedia of War, Wiley, 2011, ISBN 9781405190374; abstract exists); E49
+@incollection{may2011baybars,
+  author    = {May, Timothy},
+  title     = {Baybars I (1223--1277)},
+  booktitle = {The Encyclopedia of War},
+  publisher = {Wiley-Blackwell},
+  date      = {2011},
+  doi       = {10.1002/9781444338232.wbeow064},
+}
+
+% confirmed (2026-11-17: publisher metadata and online text extraction of pp. 175--178 read; source-page image and Arabic not checked; fall-of-Acre passages not seen).
+@incollection{cook2020chronicles,
+  author     = {{Ibn ʿAbd al-Ẓāhir}},
+  translator = {Cook, David},
+  title      = {Tashrīf al-ayyām wa-l-ʿuṣūr fī sīrat al-Malik al-Manṣūr},
+  booktitle  = {Chronicles of Qalāwūn and His Son al-Ashraf Khalīl},
+  publisher  = {Routledge},
+  location   = {London},
+  date       = {2020},
+  isbn       = {9780429429347},
+  doi        = {10.4324/9780429429347},
+}
+
+% confirmed (Crossref: chapter in Franks and Saracens, Routledge, 2018, pp. 189–190, ISBN 9780429474927); E50
+@incollection{falk2018eighth,
+  author    = {Falk, Avner},
+  title     = {The Eighth Crusade: ``Saint Louis'' Fails Again and Dies},
+  booktitle = {Franks and Saracens},
+  publisher = {Routledge},
+  location  = {London},
+  date      = {2018},
+  pages     = {189--190},
+  doi       = {10.4324/9780429474927-17},
+}
+
+% confirmed (Crossref monograph record DOI 10.1484/M.MV-EB.5.106133: Marianne O'Doherty, Brepols, Medieval Voyaging, 2013, ISBN 9782503532769); E53. Index entry "Locac: 199" not seen.
+@book{odoherty2013indies,
+  author    = {O'Doherty, Marianne},
+  title     = {The Indies and the Medieval West},
+  publisher = {Brepols},
+  location  = {Turnhout},
+  date      = {2013},
+  series    = {Medieval Voyaging},
+  isbn      = {9782503532769},
+  doi       = {10.1484/M.MV-EB.5.106133},
+}
+
+% --- Enrichment Batch B intake (2026-11-10) -----------------------------------
+% Records or texts seen by the intake; see research/results/ENR-B-seas-intake.md.
+
+% confirmed (IA CulavamsaII: title page and OCR text of chs. 79–101 read; chs. 83, 88, 90 used)
+@book{geiger1930culavamsa,
+  title      = {Cūlavaṃsa, Being the More Recent Part of the Mahāvaṃsa},
+  translator = {Geiger, Wilhelm},
+  part       = {2},
+  publisher  = {Pali Text Society},
+  location   = {London},
+  date       = {1930},
+  url        = {https://archive.org/details/CulavamsaII},
+}
+
+% confirmed (SEAlang table of contents of the volume, sealang.net/sala/ram91)
+@book{chamberlain1991ram,
+  editor    = {Chamberlain, James R.},
+  title     = {The Ram Khamhaeng Controversy: Collected Papers},
+  publisher = {The Siam Society},
+  location  = {Bangkok},
+  date      = {1991},
+  url       = {http://sealang.net/sala/ram91/htm/volume.htm},
+}
+
+% confirmed (SEAlang contents: pp. 3–52); text not read
+@incollection{vickery1991ram,
+  author   = {Vickery, Michael},
+  title    = {The Ram Khamhaeng Inscription: A Piltdown Skull of Southeast Asian History?},
+  crossref = {chamberlain1991ram},
+  pages    = {3--52},
+}
+
+% confirmed (SEAlang contents: pp. 333–418); text not read
+@incollection{vickery1991piltdown,
+  author   = {Vickery, Michael},
+  title    = {Piltdown Skull: Installment 2},
+  crossref = {chamberlain1991ram},
+  pages    = {333--418},
+}
+
+% confirmed (SEAlang contents: pp. 193–226); text not read, "Angels"/"Demons" not seen
+@incollection{gedney1991comments,
+  author   = {Gedney, William J.},
+  title    = {Comments on Linguistic Arguments Relating to Inscription One},
+  crossref = {chamberlain1991ram},
+  pages    = {193--226},
+}
+
+% confirmed (PDF read: SPAFA Digest 1990, vol. 11, no. 3, article opens on p. 18; sole author)
+@article{aranyanak1990scientific,
+  author       = {Aranyanak, Chiraporn},
+  title        = {The Scientific Investigation of the Inscription of King Ram Khamhaeng},
+  journaltitle = {SPAFA Digest},
+  volume       = {11},
+  number       = {3},
+  pages        = {18--21},
+  date         = {1990},
+  url          = {https://www.spafajournal.org/index.php/spafadigest/article/view/548/547},
+}
+
+% confirmed (Ostasien Verlag page: Reihe Gelbe Erde 5, 116 pp., ISBN 978-3-940527-39-4)
+@book{terwiel2010ram,
+  author    = {Terwiel, Barend Jan},
+  title     = {The Ram Khamhaeng Inscription: The Fake That Did Not Come True},
+  series    = {Reihe Gelbe Erde},
+  number    = {5},
+  publisher = {Ostasien Verlag},
+  location  = {Gossenberg},
+  date      = {2010},
+  isbn      = {978-3-940527-39-4},
+}
+
+% confirmed (Crossref; open full text PMC6587673 read)
+@article{daly2019archaeological,
+  author       = {Daly, Patrick and Sieh, Kerry and Seng, Tai Yew and Edwards McKinnon, E. and Parnell, Andrew C. and Feener, R. Michael and Ismail, Nazli and Majewski, Jedrzej},
+  title        = {Archaeological Evidence That a Late 14th-Century Tsunami Devastated the Coast of Northern Sumatra and Redirected History},
+  journaltitle = {Proceedings of the National Academy of Sciences},
+  volume       = {116},
+  number       = {24},
+  pages        = {11679--11686},
+  date         = {2019},
+  doi          = {10.1073/pnas.1902241116},
+}
+
+% verified text: 羅斛 and 暹 entries read on Wikisource (島夷誌略); print edition not yet chosen
+@book{wang1349daoyi,
+  author = {Wang Dayuan},
+  title  = {Daoyi zhilüe [島夷誌略]},
+  date   = {1349},
+  url    = {https://zh.wikisource.org/wiki/島夷誌略},
+  note   = {Print edition not yet chosen},
+}
+
+% verified text: juan 7, 諸蕃國, read on Wikisource (元大德南海志残本, simplified transcription); print edition not yet chosen
+@book{chen1304nanhai,
+  author = {Chen Dazhen and Lü Guisun},
+  title  = {Dade Nanhai zhi [大德南海志]},
+  date   = {1304},
+  url    = {https://zh.wikisource.org/wiki/南海志},
+  note   = {Surviving fragment, juan 6--10; print edition not yet chosen},
+}
+
+% --- Enrichment Batch C intake (2026-11-10) -----------------------------------
+
+% confirmed (Iranica online page read: Spuler, Vol. III, Fasc. 8, pp. 887–888, published 15 Dec. 1988)
+@incollection{spuler1988baydu,
+  author    = {Spuler, Bertold},
+  title     = {Bāydū},
+  booktitle = {Encyclopaedia Iranica},
+  volume    = {3},
+  number    = {8},
+  pages     = {887--888},
+  date      = {1988},
+  url       = {https://www.iranicaonline.org/articles/baydu-baidu-on-coins-badu-a-son-of-taragay-and-grandson-of-hleg-hulagu-reigned-as-il-khan-in-iran-from-joma/},
+}
+
+% confirmed (article read online at eah.anu.edu.au/39/haw/; print pages not seen)
+@article{haw2014persian,
+  author       = {Haw, Stephen G.},
+  title        = {The Persian Language in Yuan-Dynasty China: A Reappraisal},
+  journaltitle = {East Asian History},
+  number       = {39},
+  date         = {2014},
+  url          = {https://eah.anu.edu.au/39/haw/index.html},
+}
+
+% confirmed (Crossref; JRAS 1909 index in IA in.ernet.dli.2015.24463); text not read
+@article{houtumschindler1909marco,
+  author       = {Houtum-Schindler, A.},
+  title        = {Marco Polo's Travels; New Editions; His ``Arbre Sol'' not ``Sun-Tree'', but Cypress of Zoroaster},
+  journaltitle = {Journal of the Royal Asiatic Society},
+  volume       = {41},
+  pages        = {154--162},
+  date         = {1909},
+  doi          = {10.1017/s0035869x00038417},
+}
+
+% --- S-12 intake (2026-11-10) ----------------------------------------------
+% Raw: plans/research/results/S-12-raw.md. Modern editions and translations of
+% Polo (Task B), comparanda without an entry (Task C), Task A gaps, and three
+% of the six needs-edition names. Each status says what record was opened.
+
+% confirmed (retailer + library listings, Burgio's review; no single catalogue record opened)
+@book{menard2001devisement,
+  author    = {Polo, Marco},
+  editor    = {Ménard, Philippe},
+  title     = {Le Devisement du monde},
+  volumes   = {6},
+  publisher = {Droz},
+  location  = {Genève},
+  series    = {Textes littéraires français},
+  date      = {2001/2009},
+}
+
+% confirmed (Edizioni Ca' Foscari book page opened; DOI listed there)
+@book{eusebi2018devisement,
+  author    = {Polo, Marco and {Rustichello da Pisa}},
+  editor    = {Eusebi, Mario and Burgio, Eugenio},
+  title     = {Le Devisement dou monde},
+  volumes   = {2},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  series    = {Filologie medievali e moderne},
+  number    = {16},
+  date      = {2018},
+  doi       = {10.30687/978-88-6969-223-9},
+  url       = {https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-224-6/},
+  note      = {Vol. 1: Eusebi's critical text of BnF fr. 1116 (F), revised from the 2010 edition. Vol. 2: Burgio's glossary and indexes},
+}
+
+% confirmed (Edizioni Ca' Foscari book page opened; DOI listed there)
+@book{ramusio2015viaggi,
+  author    = {Ramusio, Giovanni Battista},
+  editor    = {Burgio, Eugenio and Simion, Samuela},
+  title     = {Dei viaggi di Messer Marco Polo},
+  subtitle  = {Edizione critica digitale progettata e coordinata da Eugenio Burgio, Marina Buzzoni, Antonella Ghersetti},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  series    = {Filologie medievali e moderne},
+  number    = {5},
+  date      = {2015},
+  doi       = {10.14277/978-88-6969-00-06},
+  url       = {https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-00-06/},
+  note      = {Open access, CC BY 4.0},
+}
+
+% confirmed (bookseller listing; Open Library OL20654275M is the 1994 printing)
+@book{bertolucci1975milione,
+  author    = {Polo, Marco},
+  editor    = {Bertolucci Pizzorusso, Valeria},
+  title     = {Milione},
+  subtitle  = {Versione toscana del Trecento},
+  note      = {Indice ragionato by Giorgio R. Cardona},
+  publisher = {Adelphi},
+  location  = {Milano},
+  date      = {1975},
+}
+
+% confirmed (Open Library OL575892W)
+@book{ronchi1982milione,
+  author    = {Polo, Marco},
+  editor    = {Ronchi, Gabriella},
+  title     = {Milione. Le divisament dou monde},
+  subtitle  = {Il Milione nelle redazioni toscana e franco-italiana},
+  foreword  = {Segre, Cesare},
+  publisher = {Mondadori},
+  location  = {Milano},
+  series    = {I Meridiani},
+  date      = {1982},
+}
+
+% confirmed (Open Library ISBN record); place of publication not seen
+@book{barbieri1998milione,
+  author    = {Polo, Marco},
+  editor    = {Barbieri, Alvaro},
+  title     = {Milione},
+  subtitle  = {Redazione latina del manoscritto Z; versione italiana a fronte},
+  publisher = {Fondazione Pietro Bembo and Guanda},
+  date      = {1998},
+  isbn      = {978-88-8246-064-8},
+}
+
+% confirmed through Burgio's review (Quaderni veneti 33, 2001); no catalogue record opened
+@book{barbieri1999milione,
+  author    = {Polo, Marco},
+  editor    = {Barbieri, Alvaro and Andreose, Alvise},
+  title     = {Il «Milione» veneto},
+  subtitle  = {Ms. CM 211 della Biblioteca Civica di Padova},
+  publisher = {Marsilio},
+  location  = {Venezia},
+  series    = {Medioevo veneto},
+  date      = {1999},
+}
+
+% confirmed (Open Library ISBN record, Hackett, 1 Mar 2016)
+@book{kinoshita2016description,
+  author     = {Polo, Marco},
+  translator = {Kinoshita, Sharon},
+  title      = {The Description of the World},
+  publisher  = {Hackett},
+  location   = {Indianapolis},
+  date       = {2016},
+  isbn       = {978-1-62466-436-6},
+}
+
+% confirmed (Open Library ISBN record of the 1982 printing; first published 1958)
+@book{latham1958travels,
+  author     = {Polo, Marco},
+  translator = {Latham, Ronald},
+  title      = {The Travels of Marco Polo},
+  publisher  = {Penguin},
+  location   = {Harmondsworth},
+  date       = {1958},
+}
+
+% confirmed (Open Library ISBN record, Penguin Classics, 29 Dec 2015)
+@book{cliff2015travels,
+  author     = {Polo, Marco},
+  translator = {Cliff, Nigel},
+  title      = {The Travels},
+  publisher  = {Penguin Classics},
+  location   = {London},
+  date       = {2015},
+  isbn       = {978-0-14-119877-4},
+}
+
+% confirmed (Open Library OL42483586W: the Viking issue; the London Routledge issue not seen)
+@book{ricci1931travels,
+  author     = {Polo, Marco},
+  translator = {Ricci, Aldo},
+  title      = {The Travels of Marco Polo},
+  note       = {Translated from the text of L. F. Benedetto; introduction and index by E. Denison Ross},
+  publisher  = {Viking Press},
+  location   = {New York},
+  date       = {1931},
+}
+
+% confirmed (Open Library OL1457505W)
+@collection{dawson1955mongol,
+  editor    = {Dawson, Christopher},
+  title     = {The Mongol Mission},
+  publisher = {Sheed and Ward},
+  location  = {London and New York},
+  date      = {1955},
+}
+
+% confirmed through the JRAS review record (cambridge.org); no catalogue record opened
+@book{menesto1989storia,
+  author    = {{Giovanni di Pian di Carpine}},
+  editor    = {Daffinà, P. and Leonardi, C. and Lungarotti, M. C. and Menestò, E. and Petech, L.},
+  title     = {Storia dei Mongoli},
+  publisher = {Centro italiano di studi sull'alto medioevo},
+  location  = {Spoleto},
+  date      = {1989},
+}
+
+% confirmed (Open Library OL32742554W); editor matched by search, title page not seen
+@book{marchisio2016relatio,
+  author    = {{Odorico da Pordenone}},
+  editor    = {Marchisio, Annalia},
+  title     = {Relatio de mirabilibus orientalium Tatarorum},
+  publisher = {SISMEL -- Edizioni del Galluzzo},
+  location  = {Firenze},
+  date      = {2016},
+  isbn      = {978-88-8450-699-3},
+}
+
+% confirmed (Open Library OL16542466W, OL20222647M); vol. 1 only, continued by the Austrian Academy from 2010
+@book{hammer1856geschichte,
+  author     = {{Waṣṣāf}},
+  editor     = {Hammer-Purgstall, Joseph von},
+  translator = {Hammer-Purgstall, Joseph von},
+  title      = {Geschichte Wassaf's},
+  volume     = {1},
+  publisher  = {Hof- und Staatsdruckerei},
+  location   = {Wien},
+  date       = {1856},
+}
+
+% confirmed (Journal of the Royal Geographical Society of London 44 table of contents). The Proceedings version is a separate record.
+@article{bushell1874notes,
+  author       = {Bushell, S. W.},
+  title        = {Notes of Journey outside the Great Wall of China},
+  journaltitle = {Journal of the Royal Geographical Society of London},
+  volume       = {44},
+  pages        = {73--97},
+  date         = {1874},
+  doi          = {10.2307/1798779},
+}
+
+% confirmed (Open Library OL17919939W)
+@book{gaubil1739histoire,
+  author    = {Gaubil, Antoine},
+  title     = {Histoire de Gentchiscan et de toute la dinastie des Mongous ses successeurs, conquérans de la Chine},
+  publisher = {Briasson et Piget},
+  location  = {Paris},
+  date      = {1739},
+}
+
+% confirmed (Open Library OL10306695W); volume count not seen
+@book{demailla1777histoire,
+  author    = {Mailla, Joseph-Anne-Marie de Moyriac de},
+  title     = {Histoire générale de la Chine},
+  publisher = {Pierres and Clousier},
+  location  = {Paris},
+  date      = {1777/1785},
+}
+
+% confirmed (Wellcome Collection record, via search)
+@book{needham1971civil,
+  author      = {Needham, Joseph and Wang, Ling and Lu, Gwei-Djen},
+  maintitle   = {Science and Civilisation in China},
+  volume      = {4},
+  part        = {3},
+  title       = {Civil Engineering and Nautics},
+  publisher   = {Cambridge University Press},
+  location    = {Cambridge},
+  date        = {1971},
+}
+
+% confirmed (Open Library OL6032232W)
+@book{tsien1985paper,
+  author    = {Tsien, Tsuen-hsuin},
+  maintitle = {Science and Civilisation in China},
+  volume    = {5},
+  part      = {1},
+  title     = {Paper and Printing},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1985},
+  isbn      = {0-521-08690-6},
+}
+
+% claimed: year disputed (Open Library OL8324873W says Jan 2000; a catalogue gives c1999); title page not seen
+@book{golas1999mining,
+  author    = {Golas, Peter J.},
+  maintitle = {Science and Civilisation in China},
+  volume    = {5},
+  part      = {13},
+  title     = {Mining},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1999},
+  isbn      = {0-521-58000-5},
+}
+
+% confirmed (Open Library OL19045716W)
+@collection{schottenhammer2001emporium,
+  editor    = {Schottenhammer, Angela},
+  title     = {The Emporium of the World},
+  subtitle  = {Maritime Quanzhou, 1000--1400},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {2001},
+  isbn      = {90-04-11773-3},
+}
+
+% confirmed (NDL Search R100000002-I025579520 opened: publisher Fujian renmin, with Ningxia renmin)
+@book{chen1984quanzhou,
+  author    = {Chen, Dasheng},
+  title     = {Quanzhou Yisilanjiao shike [泉州伊斯兰教石刻]},
+  subtitle  = {Islamic Inscriptions in Quanzhou},
+  note      = {Compiled by the Quanzhou Maritime Museum; English translation by Chen Enming},
+  publisher = {Fujian renmin chubanshe and Ningxia renmin chubanshe},
+  location  = {Fuzhou},
+  date      = {1984},
+}
+
+% confirmed (Open Library OL6799256W)
+@book{hsiao1978military,
+  author    = {Hsiao, Ch'i-ch'ing},
+  title     = {The Military Establishment of the Yuan Dynasty},
+  publisher = {Council on East Asian Studies, Harvard University},
+  location  = {Cambridge, MA},
+  date      = {1978},
+  isbn      = {0-674-57461-3},
+}
+
+% confirmed (Open Library OL32928383W) — S-12 pass B, for the II-05 astronomy citation
+@book{needham1959mathematics,
+  author    = {Needham, Joseph},
+  maintitle = {Science and Civilisation in China},
+  volume    = {3},
+  title     = {Mathematics and the Sciences of the Heavens and the Earth},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1959},
+}
+
+% --- S-13 intake (2026-11-11) ----------------------------------------------
+% Raw: plans/research/results/S-13-raw.md and S-13-raw.bib. State of the field since 2013.
+% Positions by question: registry/scholarship.md. Entries marked unconfirmed are reported
+% by a source that was read; do not quote them or give pages until a record is opened.
+
+% --- A. The three surveys the run leans on (all open access, text read) -----------------
+
+% confirmed (open-access PDF read in part: preface, Andreose, Mascherpa, Luo, Haw, Theobald; imprint page seen). CC BY-ND 4.0
+@collection{vogel2024marco,
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  title     = {Marco Polo Research},
+  subtitle  = {Past, Present, Future},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  isbn      = {9783989440067},
+  doi       = {10.15496/publikation-92606},
+  url       = {http://hdl.handle.net/10900/151266},
+}
+
+% confirmed (chapter read in full in the open-access PDF; Crossref DOI). CC BY-SA 4.0
+@incollection{orlando2025novita,
+  author    = {Orlando, Ermanno},
+  title     = {Le novità della ricerca storica su Marco Polo e Venezia},
+  booktitle = {Il Milione nel tempo tra Asia ed Europa},
+  editor    = {Mocella, Paola},
+  publisher = {Firenze University Press and USiena Press},
+  location  = {Firenze},
+  date      = {2025},
+  pages     = {47--54},
+  doi       = {10.36253/979-12-215-0883-3.07},
+}
+
+% confirmed (chapter read, text and bibliography, in the open-access PDF; Crossref DOI). CC BY-SA 4.0
+@incollection{ma2025chinese,
+  author    = {Ma, Xiaolin},
+  title     = {Chinese Research on Marco Polo's Devisement dou monde: An Overview},
+  booktitle = {Il Milione nel tempo tra Asia ed Europa},
+  editor    = {Mocella, Paola},
+  publisher = {Firenze University Press and USiena Press},
+  location  = {Firenze},
+  date      = {2025},
+  pages     = {81--96},
+  doi       = {10.36253/979-12-215-0883-3.12},
+}
+
+% confirmed (Crossref record: edited book, Firenze University Press, 2025; licence CC BY-SA 4.0). Acts of Siena, 7–8 Nov 2024, and Florence, 11 Dec 2024
+@collection{mocella2025milione,
+  editor    = {Mocella, Paola},
+  title     = {Il Milione nel tempo tra Asia ed Europa},
+  subtitle  = {Marco Polo nelle letterature medievali e contemporanee},
+  publisher = {Firenze University Press and USiena Press},
+  location  = {Firenze},
+  date      = {2025},
+  isbn      = {9791221508833},
+  doi       = {10.36253/979-12-215-0883-3},
+}
+
+% confirmed (Crossref record; read only through a fetch tool's summary, so no wording is quoted). Open access, CC BY 4.0
+@article{gadrat2026marco,
+  author       = {Gadrat-Ouerfelli, Christine},
+  title        = {Marco Polo et ses voyages: Défenseurs et détracteurs du Moyen Âge à nos jours},
+  journaltitle = {Viatica},
+  number       = {13},
+  date         = {2026},
+  doi          = {10.4000/15s1q},
+  url          = {https://journals.openedition.org/viatica/5918},
+}
+
+% --- B. Chapters of Vogel and Theobald 2024 (first page of each from its table of contents; end pages not seen) ---------
+
+% confirmed (chapter read in part in the open-access PDF: stemma history, multiple-redaction argument, Mogadishu, conclusion)
+@incollection{andreose2024textual,
+  author    = {Andreose, Alvise},
+  title     = {The Textual Transmission of the Devisement dou monde: Old Problems and New Insights},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {53},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (opening pages read in the open-access PDF)
+@incollection{simion2024integral,
+  author    = {Simion, Samuela and Eusebi, Mario and Burgio, Eugenio},
+  title     = {On the Way to an Integral Edition of the Book of Marco Polo: A First Attempt to Create a Digital Edition},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {91},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (chapter read in part in the open-access PDF: the Chinese source, the figures, the conclusions)
+@incollection{mascherpa2024quinsai,
+  author    = {Mascherpa, Giuseppe},
+  title     = {The Description of the City of Quinsai in the Early Tradition of the Devisement dou monde},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {133},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (chapter text read through indexed PDF, 2026-11-17; printed pp. 201--214)
+@incollection{gadrat2024read,
+  author    = {Gadrat-Ouerfelli, Christine},
+  title     = {Who Read Marco Polo's Book and Why?},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Theobald, Ulrich and Vogel, Hans Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {201--214},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (title and pages from the table of contents; the editors' summary in the preface read, the chapter not)
+@incollection{dang2024toponyms,
+  author    = {Dang, Baohai},
+  title     = {Two Mongolian Toponyms in Marco Polo's Account: The Green Mound and Cacciar Modun},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {361},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (chapter read in part in the open-access PDF: section 4 on Cenchu and Vanchu, and the conclusions)
+@incollection{luo2024designations,
+  author    = {Luo, Wei},
+  title     = {On Some Designations Used in the Description of the World and the Political Attitude of Marco Polo},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Theobald, Ulrich and Vogel, Hans Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {385--416},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (one passage read in the open-access PDF: Yangzhou and Polo as "governor")
+@incollection{theobald2024military,
+  author    = {Theobald, Ulrich},
+  title     = {Marco Polo on Military Affairs of the Yuan Dynasty},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {417},
+  doi       = {10.15496/publikation-92606},
+}
+
+% confirmed (opening section read in the open-access PDF: the keshig argument, the inventory belt, the toponyms)
+@incollection{haw2024kesig,
+  author    = {Haw, Stephen G.},
+  title     = {Marco Polo and the kešig, with a Further Note on the Toponym ``Singui''},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor    = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  location  = {Tübingen},
+  date      = {2024},
+  pages     = {451},
+  doi       = {10.15496/publikation-92606},
+}
+
+% --- C. The text: editions and studies ------------------------------------------------
+
+% confirmed (Crossref record with abstract; Edizioni Ca' Foscari, Filologie medievali e moderne). Open access, CC BY 4.0
+@book{simion2019devisement,
+  author    = {Polo, Marco and {Rustichello da Pisa}},
+  editor    = {Simion, Samuela},
+  title     = {Il Devisement dou monde nella redazione veneziana V (cod. Hamilton 424 della Staatsbibliothek di Berlino)},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  series    = {Filologie medievali e moderne},
+  date      = {2019},
+  isbn      = {9788869693212},
+  doi       = {10.30687/978-88-6969-321-2},
+}
+
+% confirmed (Crossref record with abstract). Open access, CC BY 4.0
+@collection{conte2020consolationem,
+  editor    = {Conte, Maria and Montefusco, Antonio and Simion, Samuela},
+  title     = {«Ad consolationem legentium»},
+  subtitle  = {Il Marco Polo dei Domenicani},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  series    = {Filologie medievali e moderne},
+  date      = {2020},
+  isbn      = {9788869694394},
+  doi       = {10.30687/978-88-6969-439-4},
+}
+
+% confirmed (Crossref record, book and all twelve chapter records with abstracts; the book page itself returned 404)
+@collection{bolognari2025pratiche,
+  editor    = {Bolognari, Marcello and Montefusco, Antonio},
+  title     = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2025},
+  isbn      = {9788869698538},
+  doi       = {10.30687/978-88-6969-853-8},
+}
+
+% confirmed (Crossref record with abstract; chapter not read)
+@incollection{mascherpa2025milione,
+  author    = {Mascherpa, Giuseppe},
+  title     = {Milione Z. Fenomenologia di una redazione `riveduta e ampliata' del libro di Marco Polo},
+  booktitle = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  editor    = {Bolognari, Marcello and Montefusco, Antonio},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2025},
+  doi       = {10.30687/978-88-6969-853-8/006},
+}
+
+% confirmed (Crossref record with abstract; chapter not read)
+@incollection{paoli2025leggendario,
+  author    = {Paoli, Emore},
+  title     = {Il Leggendario di Pietro Calò e la tradizione del Milione di Marco Polo},
+  booktitle = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  editor    = {Bolognari, Marcello and Montefusco, Antonio},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2025},
+  doi       = {10.30687/978-88-6969-853-8/007},
+}
+
+% confirmed (Crossref record with abstract; chapter not read)
+@incollection{calloni2025locis,
+  author    = {Calloni, Carlo Giovanni},
+  title     = {Il De Locis Terre Sancte di Francesco Pipino, traduttore del Devisement dou monde},
+  booktitle = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  editor    = {Bolognari, Marcello and Montefusco, Antonio},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2025},
+  doi       = {10.30687/978-88-6969-853-8/008},
+}
+
+% confirmed (Crossref record with abstract; chapter not read)
+@incollection{vogel2025political,
+  author    = {Vogel, Hans Ulrich},
+  title     = {Marco Polo and the Political Economy of the Yuan Empire: Realities and Ideologies},
+  booktitle = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  editor    = {Bolognari, Marcello and Montefusco, Antonio},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2025},
+  doi       = {10.30687/978-88-6969-853-8/010},
+}
+
+% confirmed (Crossref record, title only; the census itself not read)
+@incollection{burgio2025censimento,
+  author    = {Burgio, Eugenio and Simion, Samuela},
+  title     = {Appendice: Censimento dei manoscritti del Devisement dou monde},
+  booktitle = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  editor    = {Bolognari, Marcello and Montefusco, Antonio},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2025},
+  doi       = {10.30687/978-88-6969-853-8/011},
+}
+
+% confirmed (Crossref record: facsimile of the incunable printed in Venice by Giovanni Battista Sessa; editor not in the record). Open access, CC BY 4.0
+@book{polo2024sessa,
+  author    = {Polo, Marco},
+  title     = {Marco Polo de Veniesia de le meravegliose cose del Mondo},
+  subtitle  = {Edizione anastatica dell'incunabolo impresso a Venezia da Giovanni Battista Sessa},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  date      = {2024},
+  doi       = {10.30687/978-88-6969-875-0},
+}
+
+% confirmed (through three review records: Andreose, Romania 134, 2016, doi:10.3406/roma.2016.7498; Gaunt, Speculum 92, 2017, doi:10.1086/692447; Colombo Timelli, Studi Francesi 181, 2017); publisher from Vogel and Theobald 2024
+@book{gadrat2015lire,
+  author    = {Gadrat-Ouerfelli, Christine},
+  title     = {Lire Marco Polo au Moyen Âge},
+  subtitle  = {Traduction, diffusion et réception du «Devisement du monde»},
+  publisher = {Brepols},
+  location  = {Turnhout},
+  date      = {2015},
+}
+
+% confirmed (Crossref record; article not read)
+@article{gadrat2022dominicans,
+  author       = {Gadrat-Ouerfelli, Christine},
+  title        = {Marco Polo, the Book, and the Dominicans},
+  journaltitle = {Digital Philology: A Journal of Medieval Cultures},
+  volume       = {11},
+  number       = {2},
+  pages        = {286--301},
+  date         = {2022},
+  doi          = {10.1353/dph.2022.0016},
+}
+
+% unconfirmed (reported by Andreose 2024 as the first real stemma codicum; in Conte, ed., 2008, pp. 17–48; no record opened)
+@incollection{burgio2008nuova,
+  author    = {Burgio, Eugenio and Eusebi, Mario},
+  title     = {Per una nuova edizione del Milione},
+  date      = {2008},
+  pages     = {17--48},
+}
+
+% --- D. Presence, places, administration ----------------------------------------------
+
+% confirmed (Crossref record with abstract; article not read)
+@article{haw2020hangzhou,
+  author       = {Haw, Stephen G.},
+  title        = {Marco Polo: From Hangzhou to Quanzhou},
+  journaltitle = {Asiatische Studien -- Études Asiatiques},
+  volume       = {74},
+  number       = {3},
+  pages        = {485--512},
+  date         = {2020},
+  doi          = {10.1515/asia-2020-0010},
+}
+
+% confirmed (Crossref record; end page from Vogel and Theobald 2024; article not read)
+@article{haw2020mangi,
+  author       = {Haw, Stephen G.},
+  title        = {Marco Polo in ``Mangi'': Kuizhou, Fuling, Houguan, and the Pontoon Bridge at Fuzhou},
+  journaltitle = {Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  volume       = {170},
+  number       = {2},
+  pages        = {445--466},
+  date         = {2020},
+  doi          = {10.13173/zeitdeutmorggese.170.2.0445},
+}
+
+% confirmed (Crossref record; end page from Vogel and Theobald 2024; article not read)
+@article{haw2020overview,
+  author       = {Haw, Stephen G.},
+  title        = {The Overview of the Unified Territories of the Great Yuan and Marco Polo's Account of the Empire of Qubilai Qa'an},
+  journaltitle = {Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  volume       = {170},
+  number       = {1},
+  pages        = {215--235},
+  date         = {2020},
+  doi          = {10.13173/zeitdeutmorggese.170.1.0215},
+}
+
+% unconfirmed (cited in Haw's own 2024 chapter bibliography; the journal page was found by search but did not open; no DOI seen)
+@article{haw2021orthography,
+  author       = {Haw, Stephen G.},
+  title        = {The Orthography of Marco Polo's Toponyms},
+  journaltitle = {Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  volume       = {171},
+  number       = {2},
+  pages        = {479--502},
+  date         = {2021},
+}
+
+% confirmed (Crossref record; article not read)
+@article{haw2023units,
+  author       = {Haw, Stephen G.},
+  title        = {Yuan Administrative Units in Marco Polo's Description of the World},
+  journaltitle = {Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  volume       = {173},
+  number       = {2},
+  pages        = {467--494},
+  date         = {2023},
+  doi          = {10.13173/zdmg.173.2.467},
+}
+
+% confirmed (Crossref record, no abstract; article not read)
+@article{haw2024anachronisms,
+  author       = {Haw, Stephen G.},
+  title        = {Anachronisms and Other Misunderstandings in Studies of Marco Polo},
+  journaltitle = {Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  volume       = {174},
+  number       = {2},
+  pages        = {497--523},
+  date         = {2024},
+  doi          = {10.13173/zdmg.174.2.497},
+}
+
+% confirmed (Crossref record; review not read)
+@article{atwood2015review,
+  author       = {Atwood, Christopher P.},
+  title        = {Marco Polo Was in China, written by Hans Ulrich Vogel},
+  journaltitle = {Inner Asia},
+  volume       = {17},
+  number       = {2},
+  pages        = {351--354},
+  date         = {2015},
+  doi          = {10.1163/22105018-12340047},
+}
+
+% confirmed (Crossref record; article not read)
+@article{atwood2020three,
+  author       = {Atwood, Christopher P.},
+  title        = {Three Yuan Administrative Units in Marco Polo: Kinǰin Talas, Silingǰiu, and Kungčang},
+  journaltitle = {Journal of Song-Yuan Studies},
+  volume       = {49},
+  pages        = {417--442},
+  date         = {2020},
+  doi          = {10.1353/sys.2020.0009},
+}
+
+% unconfirmed (reported by Vogel and Theobald 2024, with pages, and by Gadrat-Ouerfelli 2026; no record opened)
+@incollection{atwood2016toponyms,
+  author    = {Atwood, Christopher P.},
+  title     = {Marco Polo's Sino-Mongolian Toponyms, with Special Attention to the Transcription of the Character zhou 州},
+  booktitle = {Make Boluo, Yangzhou, sichou zhi lu [Marco Polo, Yangzhou, the Silk Road]},
+  editor    = {Xu, Zhongwen and Rong, Xinjiang},
+  publisher = {Beijing daxue chubanshe},
+  location  = {Beijing},
+  date      = {2016},
+  pages     = {57--86},
+}
+
+% confirmed (Crossref record: Routledge, 19 June 2018, a reissue; whether the text was revised was not seen)
+@book{wood2018did,
+  author    = {Wood, Frances},
+  title     = {Did Marco Polo Go to China?},
+  publisher = {Routledge},
+  location  = {London},
+  date      = {2018},
+  doi       = {10.4324/9780429500992},
+}
+
+% --- E. Venice: documents and the anniversary -----------------------------------------
+
+% confirmed (opening pages read in the open-access PDF, with the document's shelfmark and Latin text). Open access, CC BY 4.0
+@incollection{bolognari2026venezia,
+  author    = {Bolognari, Marcello},
+  title     = {Venezia al tempo di Marco Polo (e una digressione dantesca)},
+  booktitle = {«L'incanto è qualcosa di ineffabile»: Venezia in letteratura},
+  editor    = {Cinquegrani, Alessandro and Fabris, Angela},
+  publisher = {Edizioni Ca' Foscari},
+  location  = {Venezia},
+  series    = {Quaderni Veneti. Studi e ricerche},
+  number    = {8},
+  date      = {2026},
+  pages     = {11--28},
+  doi       = {10.30687/979-12-5742-064-2/001},
+}
+
+% confirmed (Crossref record; chapter not read)
+@incollection{nanetti2023blockchain,
+  author    = {Nanetti, Andrea and Benussi, Paola and Erboso, Andrea and Niyato, Dusit},
+  title     = {Blockchain Technology for Participatory Publication of Archival Documents: Marco Polo's Diplomatic Codex as a Showcase},
+  booktitle = {Culture and Computing (HCII 2023)},
+  publisher = {Springer},
+  location  = {Cham},
+  date      = {2023},
+  pages     = {548--558},
+  doi       = {10.1007/978-3-031-34732-0_42},
+}
+
+% unconfirmed (reported by Orlando 2025; the exhibition itself is confirmed by the museum's pages; catalogue record not opened)
+@collection{curatola2024mondi,
+  editor    = {Curatola, Giovanni and Squarcina, Chiara},
+  title     = {I mondi di Marco Polo},
+  subtitle  = {Il viaggio di un mercante veneziano del Duecento},
+  publisher = {Magonza},
+  location  = {Arezzo},
+  date      = {2024},
+}
+
+% unconfirmed (reported by Orlando 2025 and Gadrat-Ouerfelli 2026; a search result gives Carocci, Rome, April 2024; no catalogue record opened)
+@collection{simion2024marco,
+  editor    = {Simion, Samuela and Burgio, Eugenio},
+  title     = {Marco Polo},
+  subtitle  = {Storia e mito di un viaggio e di un libro},
+  publisher = {Carocci},
+  location  = {Roma},
+  date      = {2024},
+}
+
+% unconfirmed (reported by Orlando 2025, with pages; not seen)
+@incollection{bolognari2024famiglia,
+  author    = {Bolognari, Marcello and Simion, Samuela},
+  title     = {Una famiglia veneziana di mercanti fra Due e Trecento: i Polo e Marco},
+  booktitle = {Marco Polo: Storia e mito di un viaggio e di un libro},
+  editor    = {Simion, Samuela and Burgio, Eugenio},
+  publisher = {Carocci},
+  location  = {Roma},
+  date      = {2024},
+  pages     = {63--91},
+}
+
+% unconfirmed (reported by Orlando 2025; not seen)
+@article{formentin2023inventario,
+  author       = {Schiavon, Alessandra and Ciaralli, Antonio and Formentin, Vittorio},
+  title        = {L'inventario dei beni mobili lasciati da Marco Polo (Venezia 1324)},
+  journaltitle = {Lingua e Stile},
+  volume       = {58},
+  pages        = {169--204},
+  date         = {2023},
+  doi          = {10.1417/109036},
+  note         = {Pages conflict: 169--204 per Ateneo Veneto and the RM 2024 bibliography; 167--202 per the IRIS record (FINAL-ACCESS 2026-11-17)},
+}
+
+% unconfirmed (reported by Orlando 2025; not seen)
+@article{mola2023tre,
+  author       = {Molà, Luca},
+  title        = {Tre documenti inediti su Marco Polo (1317) e una pergamena enigmatica (1314)},
+  journaltitle = {Archivio Veneto},
+  series       = {6},
+  volume       = {26},
+  pages        = {53--69},
+  date         = {2023},
+}
+
+% unconfirmed (reported by Orlando 2025; not seen)
+@article{bolognari2023pignus,
+  author       = {Bolognari, Marcello},
+  title        = {Marco Polo «habet pignus»: il testamento di Marco Grisoni, detto Bonpledo (Venezia, 1324)},
+  journaltitle = {Spolia: Annual Journal of Medieval Studies},
+  volume       = {19},
+  pages        = {1--11},
+  date         = {2023},
+}
+
+% confirmed; relevant passages read in author-posted copy of Plebani 2019
+@incollection{bartoli2019leggere,
+  author    = {Bartoli Langeli, Attilio},
+  title     = {Leggere un testamento},
+  booktitle = {Il testamento di Marco Polo: Il documento, la storia e il contesto},
+  editor    = {Plebani, Tiziana},
+  publisher = {Unicopli},
+  location  = {Milano},
+  date      = {2019},
+  pages     = {77--106},
+}
+
+% --- F. Chinese-language scholarship (all as reported by Ma 2025 unless noted) --------
+
+% unconfirmed (reported by Ma 2025 and by Vogel and Theobald 2024; no catalogue record opened)
+@collection{xu2016marco,
+  editor    = {Xu, Zhongwen and Rong, Xinjiang},
+  title     = {Make Boluo, Yangzhou, sichou zhi lu [马可·波罗 扬州 丝绸之路; Marco Polo, Yangzhou and the Silk Road]},
+  publisher = {Beijing daxue chubanshe},
+  location  = {Beijing},
+  date      = {2016},
+}
+
+% unconfirmed (reported by Ma 2025 and by Vogel and Theobald 2024; no catalogue record opened)
+@collection{rong2019marco,
+  editor    = {Rong, Xinjiang and Dang, Baohai},
+  title     = {Make Boluo yu 10–14 shiji de sichou zhi lu [马可·波罗与10–14世纪的丝绸之路; Marco Polo and the Silk Road, 10th–14th Centuries]},
+  publisher = {Beijing daxue chubanshe},
+  location  = {Beijing},
+  date      = {2019},
+}
+
+% unconfirmed (reported by Ma 2025; no catalogue record opened)
+@collection{rong2022marco,
+  editor    = {Rong, Xinjiang and Dang, Baohai},
+  title     = {Make Boluo yanjiu lunwen xuancui (Waiwen bian) [马可·波罗研究论文选粹（外文编）; Foreign Scholars on Marco Polo: Selected Essays]},
+  publisher = {Zhongxi shuju},
+  location  = {Shanghai},
+  date      = {2022},
+}
+
+% unconfirmed (the author's own citation in Ma 2025; no catalogue record opened)
+@book{ma2018marco,
+  author    = {Ma, Xiaolin},
+  title     = {Make Boluo yu Yuandai Zhongguo: wenben yu lisu [马可·波罗与元代中国：文本与礼俗; Marco Polo and Yuan China: Texts, Rituals and Beliefs]},
+  publisher = {Zhongxi shuju},
+  location  = {Shanghai},
+  date      = {2018},
+}
+
+% unconfirmed (reported by Ma 2025 and by Luo 2024; journal and pages not seen in full)
+@article{cai1992shilun,
+  author       = {Cai, Meibiao},
+  title        = {Shilun Make Boluo zai Zhongguo [试论马可波罗在中国; A Discussion of Marco Polo's Stay in China]},
+  date         = {1992},
+}
+
+% unconfirmed (reported by Ma 2025 and by Luo 2024, who gives pp. 89–93)
+@article{cai1998cenchu,
+  author       = {Cai, Meibiao},
+  title        = {Make Boluo suoji Ahema shijian zhong de Cenchu Vanchu [马可波罗所记阿合马事件中的 Cenchu Vanchu]},
+  journaltitle = {Zhongguo shehui kexueyuan yanjiushengyuan xuebao},
+  pages        = {89--93},
+  date         = {1998},
+}
+
+% unconfirmed (reported by Ma 2025; not seen)
+@article{huang1999great,
+  author       = {Huang, Shijian and Gong, Yingyan},
+  title        = {Marco Polo and the Great Wall: Also on Did Marco Polo Go to China?},
+  journaltitle = {Social Sciences in China},
+  volume       = {20},
+  number       = {3},
+  pages        = {117--134},
+  date         = {1999},
+}
+
+% unconfirmed (reported by Ma 2025; not seen)
+@article{qiu2021persia,
+  author       = {Qiu, Zhirong},
+  title        = {Make Boluo huicheng jing Bosi xingzong kao [马可·波罗回程经波斯行踪考; On Marco Polo's Itinerary in Persia on His Way Back to Europe]},
+  journaltitle = {Lishi yanjiu},
+  number       = {1},
+  pages        = {194--206},
+  date         = {2021},
+}
+
+% --- G. Context: the Mongol empire and its routes -------------------------------------
+
+% confirmed (Crossref record: Cambridge University Press, 17 Aug 2023; contents on Polo not read)
+@collection{biran2023cambridge,
+  editor    = {Biran, Michal and Kim, Hodong},
+  title     = {The Cambridge History of the Mongol Empire},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {2023},
+  doi       = {10.1017/9781316337424},
+}
+
+% confirmed (Crossref record: Yale University Press, 2017; not read)
+@book{jackson2017mongols,
+  author    = {Jackson, Peter},
+  title     = {The Mongols and the Islamic World},
+  subtitle  = {From Conquest to Conversion},
+  publisher = {Yale University Press},
+  location  = {New Haven},
+  date      = {2017},
+  doi       = {10.12987/yale/9780300125337.001.0001},
+}
+
+% confirmed (Crossref record: University of California Press, 2020; not read)
+@collection{biran2020silk,
+  editor    = {Biran, Michal and Brack, Jonathan and Fiaschetti, Francesca},
+  title     = {Along the Silk Roads in Mongol Eurasia},
+  subtitle  = {Generals, Merchants, and Intellectuals},
+  publisher = {University of California Press},
+  location  = {Oakland},
+  date      = {2020},
+  doi       = {10.1525/9780520970786},
+}
+
+% confirmed (Crossref record: Harvard University Press, 2021; not read)
+@book{favereau2021horde,
+  author    = {Favereau, Marie},
+  title     = {The Horde},
+  subtitle  = {How the Mongols Changed the World},
+  publisher = {Harvard University Press},
+  location  = {Cambridge, MA},
+  date      = {2021},
+  doi       = {10.4159/9780674259997},
+}
+
+% confirmed (Crossref record: Princeton University Press, 24 March 2026; the Italian original, Venezia e i Mongoli, is reviewed in Oriente Moderno 104, doi:10.1163/22138617-12340352; neither read)
+@book{dicosmo2026venice,
+  author    = {Di Cosmo, Nicola and Pubblici, Lorenzo},
+  title     = {Venice and the Mongols},
+  publisher = {Princeton University Press},
+  location  = {Princeton},
+  date      = {2026},
+  doi       = {10.1515/9780691256221},
+}
+
+% --- S-13 follow-up intake (2026-11-11) ------------------------------------
+% Raw: plans/research/results/S-13-followup-raw-consensus.md (the Qwen run added nothing usable).
+% Intake: plans/research/results/S-13-followup-intake.md.
+
+% confirmed (open-access PDF read: pp. 46, 50 and 62; Crossref DOI). The issue is dated December 2017 and was published in November 2018
+@article{mascherpa2018fonte,
+  author       = {Mascherpa, Giuseppe},
+  title        = {Sulla fonte Z del Milione di Ramusio: L'enigma di Quinsai},
+  journaltitle = {Quaderni Veneti},
+  volume       = {6},
+  number       = {2},
+  pages        = {45--64},
+  date         = {2018},
+  doi          = {10.30687/qv/1724-188x/2017/02/003},
+}
+
+% confirmed (Crossref record; open-access journal issue December 2017)
+@article{simion2018ipertesti,
+  author       = {Simion, Samuela},
+  title        = {Tradizioni attive e ipertesti: Ramusio `editore' del Milione},
+  journaltitle = {Quaderni Veneti},
+  volume       = {6},
+  number       = {2},
+  pages        = {9--30},
+  date         = {2018},
+  doi          = {10.30687/qv/1724-188x/2017/02/001},
+}
+
+% confirmed (Crossref record with abstract; open-access PDF opened for its page range, text not read). Same issue as Mascherpa
+@article{andreose2018giovanetto,
+  author       = {Andreose, Alvise},
+  title        = {«... io essendo giovanetto n'ho udito molte fiate dire...»: Alcune riflessioni sulle fonti dei Viaggi di messer Marco Polo di Giovanni Battista Ramusio},
+  journaltitle = {Quaderni Veneti},
+  volume       = {6},
+  number       = {2},
+  pages        = {31--44},
+  date         = {2018},
+  doi          = {10.30687/qv/1724-188x/2017/02/002},
+}
+
+% confirmed (Crossref record with abstract; the article page read only through a fetch summary, so nothing is quoted)
+@article{lin2017chinese,
+  author       = {Lin, Meicun and Zhang, Ran},
+  title        = {A Chinese Porcelain Jar Associated with Marco Polo: A Discussion from an Archaeological Perspective},
+  journaltitle = {European Journal of Archaeology},
+  volume       = {21},
+  number       = {1},
+  pages        = {39--56},
+  date         = {2017},
+  doi          = {10.1017/eaa.2017.21},
+}
+
+% confirmed (Crossref record, no abstract; article not read)
+@article{haw2023departure,
+  author       = {Haw, Stephen G.},
+  title        = {Marco Polo's Departure from China},
+  journaltitle = {Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  volume       = {173},
+  number       = {1},
+  pages        = {145--171},
+  date         = {2023},
+  doi          = {10.13173/zdmg.173.1.145},
+}
+
+% confirmed (Crossref record; review not read)
+@article{magone2015vogel,
+  author       = {Magone, Rui},
+  title        = {Vogel, Hans-Ulrich: Marco Polo Was in China. New Evidence from Currencies, Salts and Revenues},
+  journaltitle = {Asiatische Studien -- Études Asiatiques},
+  volume       = {69},
+  number       = {3},
+  pages        = {787--793},
+  date         = {2015},
+  doi          = {10.1515/asia-2015-1021},
+}
+
+% confirmed (Crossref record; review not read)
+@article{haw2016travels,
+  author       = {Haw, Stephen G.},
+  title        = {The Travels by Marco Polo (review)},
+  journaltitle = {China Review International},
+  volume       = {21},
+  number       = {1},
+  pages        = {23--27},
+  date         = {2016},
+  doi          = {10.1353/cri.2016.0058},
+}
+
+% --- S-14 intake (2026-11-11); passages checked, see S-14-intake.md --------
+
+% see S-14-intake.md for source status
+@article{yurekli2013musul,
+  author       = {Yürekli, Tülay},
+  title        = {İlhanlılar Döneminde Musul'da Siyasi ve Ekonomik Durum},
+  journaltitle = {A. Ü. Türkiyat Araştırmaları Enstitüsü Dergisi},
+  number       = {50},
+  pages        = {224--233},
+  date         = {2013},
+  url          = {https://dergipark.org.tr/en/download/article-file/33701},
+}
+
+@article{green1998quanzhou,
+  author       = {Green, Jeremy and Burningham, Nick and {{Museum of Overseas Communication History}}},
+  title        = {The Ship from Quanzhou, Fujian Province, People's Republic of China},
+  journaltitle = {International Journal of Nautical Archaeology},
+  volume       = {27},
+  number       = {4},
+  pages        = {277--301},
+  date         = {1998},
+  url          = {https://www.academia.edu/73625296/The_ship_from_Quanzhou_Fujian_Province_Peoples_Republic_of_China},
+}
+
+@article{pearson2002quanzhou,
+  author       = {Pearson, Richard and Li, Min and Li, Guo},
+  title        = {Quanzhou Archaeology: A Brief Review},
+  journaltitle = {International Journal of Historical Archaeology},
+  volume       = {6},
+  number       = {1},
+  date         = {2002},
+  doi          = {10.1023/A:1014881309593},
+  url          = {https://www.academia.edu/7519738/Pearson_Li_and_Li_Quanzhou_Archaeology_A_Brief_Review_2002_},
+}
+
+@article{jackson1998travels,
+  author       = {Jackson, Peter},
+  title        = {Marco Polo and His ‘Travels’},
+  journaltitle = {Bulletin of the School of Oriental and African Studies},
+  volume       = {61},
+  number       = {1},
+  pages        = {82--101},
+  date         = {1998},
+  doi          = {10.1017/S0041977X00015779},
+  url          = {https://www.amherst.edu/system/files/Jackson%20Marco%20Polo.pdf},
+}
+
+@article{jacoby2006relatives,
+  author       = {Jacoby, David},
+  title        = {Marco Polo, His Close Relatives, and His Travel Account: Some New Insights},
+  journaltitle = {Mediterranean Historical Review},
+  volume       = {21},
+  number       = {2},
+  pages        = {193--218},
+  date         = {2006},
+  doi          = {10.1080/09518960601030134},
+  url          = {https://www.academia.edu/5834114/Marco_Polo},
+}
+
+@article{feng2006cathay,
+  author       = {Feng, Tianyu},
+  title        = {Some Late Ming Western Technical Terms and Their Implications for Cultural Transformation},
+  subtitle     = {“Brain,” “Geometry,” “Globe,” and “Cathay”},
+  journaltitle = {Frontiers of History in China},
+  volume       = {1},
+  pages        = {47--60},
+  date         = {2006},
+  doi          = {10.1007/s11462-005-0005-6},
+}
+
+@article{hosne2018cathay,
+  author       = {Hosne, Ana Carolina},
+  title        = {In the Shadow of Cathay: A Survey of European Encounters in Discerning, Mapping, and Exploring Tibet during the Sixteenth and Seventeenth Centuries},
+  journaltitle = {Archivum Historicum Societatis Iesu},
+  date         = {2018},
+  url          = {https://arsi.jesuits.global/wp-content/uploads/2022/05/2-AHSI-2018_II_Article_Hosne.pdf},
+}
+
+@online{chinawh2004jiayuguan,
+  author       = {{People's Republic of China}},
+  title        = {Periodic Report: The Great Wall -- Jiayuguan Pass},
+  date         = {2004},
+  url          = {https://whc.unesco.org/document/162535},
+  note         = {State Party report hosted by UNESCO; fifth year of Hongwu, 1372},
+}
+
+@report{worldbank2007jiayuguan,
+  author       = {{World Bank}},
+  title        = {Environmental Assessment: Jiayuguan},
+  date         = {2007},
+  url          = {https://documents1.worldbank.org/curated/en/764331468241772687/pdf/E16590v30Final0EA0and0EMP0July020070VIII.pdf},
+  note         = {Report cites Ming construction and Han remains in the wider northwest},
+}
+
+% S-15: biographical reference entries read; originals and Orlandini not inspected.
+@incollection{gullino2015marco,
+  author = {Gullino, Giuseppe},
+  title = {Polo, Marco},
+  booktitle = {Dizionario Biografico degli Italiani},
+  volume = {84},
+  date = {2015},
+  url = {https://www.treccani.it/enciclopedia/marco-polo_%28Dizionario-Biografico%29/},
+}
+
+@incollection{gullino2015matteo,
+  author = {Gullino, Giuseppe},
+  title = {Polo, Matteo},
+  booktitle = {Dizionario Biografico degli Italiani},
+  volume = {84},
+  date = {2015},
+  url = {https://www.treccani.it/enciclopedia/matteo-polo_%28Dizionario-Biografico%29/},
+}
+
+@online{ferrarin2022agnese,
+  author = {Ferrarin, Federica},
+  title = {Agnese, the unknown daughter of Marco Polo},
+  organization = {Università Ca' Foscari Venezia},
+  date = {2022-02-07},
+  url = {https://www.unive.it/pag/14024/?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=11938},
+}
+
+% S-15 external intake: relevant passage read in the open access volume.
+@incollection{tanase2025educazione,
+  author = {Tanase, Thomas},
+  title = {Marco Polo, un'educazione veneziana},
+  booktitle = {Pratiche di scrittura e contesti culturali intorno a Marco Polo},
+  editor = {Bolognari, Marcello and Montefusco, Antonio},
+  publisher = {Edizioni Ca' Foscari},
+  date = {2025},
+  pages = {3--24},
+  doi = {10.30687/978-88-6969-853-8/001},
+}
+
+% Relevant passage read; Gallo's documents not inspected.
+@incollection{bolognari2020convent,
+  author = {Bolognari, Marcello},
+  title = {Marco Polo e il convento dei SS. Giovanni e Paolo nella roulette veneziana},
+  booktitle = {Ad consolationem legentium: Il Marco Polo dei Domenicani},
+  editor = {Conte, Maria and Montefusco, Antonio and Simion, Samuela},
+  publisher = {Edizioni Ca' Foscari},
+  date = {2020},
+  pages = {15--38},
+  doi = {10.30687/978-88-6969-439-4/002},
+}
+
+% Free repository copy read; Bolognari--Simion quoted indirectly.
+@incollection{burgio2024devisement,
+  author = {Burgio, Eugenio},
+  title = {Marco Polo e il Devisement dou monde},
+  booktitle = {I mondi di Marco Polo: Il viaggio di un mercante veneziano del Duecento},
+  editor = {Curatola, Giovanni and Squarcina, Chiara},
+  publisher = {Magonza},
+  date = {2024},
+  pages = {24--39},
+  url = {https://iris.unive.it/retrieve/ba890db4-d6c2-4658-84cc-b6c69702740e/art_87_burgio_marco%20polo.pdf},
+}
+
+% Relevant article passage read.
+@inreference{cigni2017rustichello,
+  author = {Cigni, Fabrizio},
+  title = {Rustichello da Pisa},
+  booktitle = {Dizionario Biografico degli Italiani},
+  volume = {89},
+  date = {2017},
+  url = {https://www.treccani.it/enciclopedia/rustichello-da-pisa_%28Dizionario-Biografico%29/},
+}
+
+% Open access article, relevant passage read; historian's factual assertions evaluated separately.
+@article{orlic2013korcula,
+  author = {Orlić, Olga},
+  title = {The Curious Case of Marco Polo from Korčula: An Example of Invented Tradition},
+  journaltitle = {Journal of Marine and Island Cultures},
+  volume = {2},
+  number = {1},
+  pages = {20--28},
+  date = {2013},
+  doi = {10.1016/j.imic.2013.05.001},
+}
+
+% University repository abstract read; full chapter not available.
+@misc{agazzi2024casa,
+  author = {Agazzi, Michela and Cester, Rossella},
+  title = {La casa di Marco Polo: Le indagini archeologiche e i documenti. Una ricostruzione},
+  date = {2024},
+  url = {https://iris.unive.it/handle/10278/5056800},
+}
+
+% Self-published; relevant passage read; alleged children not corroborated against Orlandini.
+@book{bruno2023quietanza,
+  author = {Bruno, Antonio},
+  title = {Una quietanza di Marco Polo a Pietro da Canal per un debito contratto a Creta il 13 agosto 1320},
+  publisher = {Youcanprint},
+  date = {2023},
+  isbn = {9791221457582},
+  url = {https://www.academia.edu/96246021/Una_quietanza_di_Marco_Polo_a_Pietro_da_Canal_per_un_debito_contratto_a_Creta_il_13_agosto_1320},
+}
+
+% S-15 source sweep: relevant article passages read; journal issue gives full page range.
+@article{bottin2008pietro,
+  author = {Bottin, Francesco},
+  title = {Pietro d'Abano, Marco Polo e Giovanni da Montecorvino},
+  journaltitle = {Medicina nei Secoli},
+  volume = {20},
+  number = {2},
+  pages = {427--446},
+  date = {2008},
+  url = {https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/download/404/378/767},
+}
+
+% S-15 final intake: edition's opening and item number read in online copy; original parchment not inspected.
+@incollection{bartoli2019edizione,
+  author = {Bartoli Langeli, Attilio},
+  title = {Il testamento di Marco Polo: Edizione},
+  booktitle = {Il testamento di Marco Polo: Il documento, la storia e il contesto},
+  editor = {Plebani, Tiziana},
+  publisher = {Unicopli},
+  date = {2019},
+  url = {https://www.academia.edu/38270090/IL_TESTAMENTO_DI_MARCO_POLO_Il_documento_la_storia_il_contesto_a_cura_di_Tiziana_Plebani},
+}
+
+% S-16 partial route intake: chapter read; DOI identifies the edited volume.
+@incollection{gueret2024persia,
+  author = {Guéret-Laferté, Michèle},
+  title = {Persia, a Strategical Place in the Devisement du monde: Order and Disorder in the Progress of the Narrative},
+  booktitle = {Marco Polo Research: Past, Present, Future},
+  editor = {Vogel, Hans Ulrich and Theobald, Ulrich},
+  publisher = {Tübingen Library Publishing},
+  date = {2024},
+  pages = {315--331},
+  url = {https://publikationen.uni-tuebingen.de/xmlui/handle/10900/158783},
+}
+
+@inreference{floor2004hormuz,
+  author = {Floor, Willem M.},
+  title = {Hormuz ii. Islamic Period},
+  booktitle = {Encyclopaedia Iranica},
+  date = {2004},
+  url = {https://www.iranicaonline.org/articles/hormuz-ii/},
+}
+
+@inreference{potts2022minab,
+  author = {Potts, Daniel Thomas},
+  title = {Mināb},
+  booktitle = {Encyclopaedia Iranica},
+  date = {2022},
+  url = {https://www.iranicaonline.org/articles/minab-2/},
+}
+
+@inreference{daftary2000khorshah,
+  author = {Daftary, Farhad},
+  title = {Ḵoršāh, Rokn-al-Din},
+  booktitle = {Encyclopaedia Iranica},
+  date = {2000},
+  url = {https://www.iranicaonline.org/articles/korsah-roknaldin/},
+}
+
+% English text in a related open printing read; journal article published online 2021.
+@article{virani2021garden,
+  author = {Virani, Shafique N.},
+  title = {An Old Man, a Garden, and an Assembly of Assassins: Legends and Realities of the Nizari Ismaili Muslims},
+  journaltitle = {Iran},
+  volume = {61},
+  pages = {272--284},
+  date = {2021},
+  doi = {10.1080/05786967.2021.1901062},
+  url = {https://groniek.nl/wp-content/uploads/Virani-engels-nl.pdf},
+}
+
+@article{bemmann2021karakorum,
+  author = {Bemmann, Jan and Reichert, Susanne},
+  title = {Karakorum, the First Capital of the Mongol World Empire: An Imperial City in a Non-urban Society},
+  journaltitle = {Asian Archaeology},
+  volume = {4},
+  pages = {121--143},
+  date = {2021},
+  doi = {10.1007/s41826-020-00039-x},
+}
+
+@online{dai2015hall,
+  author = {{German Archaeological Institute}},
+  title = {Conservation and Restoration of the Great Hall of Karakorum},
+  url = {https://www.dainst.org/en/research/projects/noslug/4924},
+  note = {Project page; the open-air museum opened in 2015; page publication date not stated},
+}
+
+@article{solongo2021bricks,
+  author = {Solongo, Saran and Tengis, Saran and Wagner, Günther A. and Hüttel, Hans-Georg},
+  title = {CW-OSL, LM-OSL and TL Dating of Bricks from Karakorum, Mongolia: Insights from TL Spectra},
+  journaltitle = {Geochronometria},
+  volume = {48},
+  pages = {402--414},
+  date = {2021},
+  doi = {10.2478/geochr-2020-0003},
+}
+
+@article{halbertsma2018syroturcica,
+  author = {Halbertsma, Tjalling and Dickens, Mark},
+  title = {Inner Mongolian Syro-Turcica I: Contextualizing the Syro-Turkic Gravestones from Inner Mongolia},
+  journaltitle = {Monumenta Serica},
+  volume = {66},
+  number = {2},
+  pages = {279--302},
+  date = {2018},
+  doi = {10.1080/02549948.2018.1534353},
+}
+
+@online{unesco2003derbent,
+  author = {{UNESCO World Heritage Centre}},
+  title = {Citadel, Ancient City and Fortress Buildings of Derbent},
+  url = {https://whc.unesco.org/en/list/1070/},
+  note = {World Heritage listing; inscribed 2003; page date not stated},
+}
+
+@online{unesco1987mogao,
+  author = {{UNESCO World Heritage Centre}},
+  title = {Mogao Caves},
+  url = {https://whc.unesco.org/en/list/440/},
+  note = {World Heritage listing; inscribed 1987; page date not stated},
+}
+
+@online{unesco2012xanadu,
+  author = {{UNESCO World Heritage Centre}},
+  title = {Site of Xanadu},
+  url = {https://whc.unesco.org/en/list/1389/},
+  note = {World Heritage listing; inscribed 2012; page date not stated},
+}
+
+% S-16 second research pass: inspected passages and access notes in S-16-second-research.md.
+@incollection{pogossian2024armenia,
+  author = {Pogossian, Zaroui},
+  title = {Marco Polo in Armenia: Art, Culture, Religion, and Commercial Relations},
+  booktitle = {The Worlds of Marco Polo: The Journey of a Venetian Merchant from the 13th Century},
+  editor = {Curatola, Giovanni and Squarcina, Chiara},
+  publisher = {Magonza},
+  date = {2024},
+  url = {https://flore.unifi.it/retrieve/8af4fb63-1ef7-4f57-8094-cb2c517076e6/Pogossian_ENG.pdf},
+}
+@inreference{floor2005lighting,
+  author = {Floor, Willem M.},
+  title = {Lighting Equipment and Heating Fuel},
+  booktitle = {Encyclopaedia Iranica},
+  date = {2005},
+  url = {https://www.iranicaonline.org/articles/lighting-equipment-and-heating-fuel/},
+}
+@inreference{bernardini2008polo,
+  author = {Bernardini, Michele},
+  title = {Polo, Marco},
+  booktitle = {Encyclopaedia Iranica},
+  date = {2008},
+  url = {https://www.iranicaonline.org/articles/polo-marco/},
+}
+@inreference{bernardini2000genoa,
+  author = {Bernardini, Michele},
+  title = {Genoa},
+  booktitle = {Encyclopaedia Iranica},
+  date = {2000},
+  url = {https://www.iranicaonline.org/articles/genoa/},
+}
+@inreference{alam1994tree,
+  author = {Alam, Houshang},
+  title = {Tree},
+  booktitle = {Encyclopaedia Iranica},
+  date = {1994},
+  url = {https://www.iranicaonline.org/articles/derakt/},
+}
+@article{neggaz2020deaths,
+  author = {Neggaz, Nassima},
+  title = {The Many Deaths of the Last ʿAbbāsid Caliph al-Mustaʿṣim bi-llāh (d. 1258)},
+  journaltitle = {Journal of the Royal Asiatic Society},
+  volume = {30},
+  number = {4},
+  pages = {585--612},
+  date = {2020},
+  doi = {10.1017/S1356186320000267},
+  url = {https://www.academia.edu/79828007/The_Many_Deaths_of_the_Last_Abb%C4%81sid_Caliph_al_Musta_%E1%B9%A3im_bi_ll%C4%81h_d_1258_},
+}
+@incollection{blue2011ships,
+  author = {Blue, Lucy and Whitewright, Julian and Thomas, Ross},
+  title = {Ships and Ships' Fittings},
+  booktitle = {Myos Hormos--Quseir al-Qadim: Roman and Islamic Ports on the Red Sea},
+  editor = {Peacock, David and Blue, Lucy},
+  volume = {2},
+  pages = {179--210},
+  date = {2011},
+  url = {https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/Navires/Documents/Blue2011-MyosHormosShipwrecks.pdf},
+}
+@article{vertriest2019field,
+  author = {Vertriest, Wim and Palke, Aaron C. and Renfro, Nathan D.},
+  title = {Field Gemology: Building a Research Collection and Understanding the Development of Gem Deposits},
+  journaltitle = {Gems \& Gemology},
+  volume = {55},
+  number = {4},
+  date = {2019},
+  url = {https://www.gia.edu/gems-gemology/winter-2019-building-research-collection-understanding-development-gem-deposits},
+}
+@article{wyart1981lapis,
+  author = {Wyart, Jean and Bariand, Pierre and Filippi, Jean},
+  title = {Lapis-Lazuli from Sar-e-Sang, Badakhshan, Afghanistan},
+  journaltitle = {Gems \& Gemology},
+  volume = {17},
+  number = {4},
+  date = {1981},
+  url = {https://www.gia.edu/gems-gemology/winter-1981-lapis-afghanistan-wyart},
+}
+@book{chakraborty1983mammals,
+  author = {Chakraborty, S.},
+  title = {Contribution to the Knowledge of the Mammalian Fauna of Jammu and Kashmir, India},
+  series = {Records of the Zoological Survey of India, Occasional Paper},
+  number = {38},
+  publisher = {Zoological Survey of India},
+  date = {1983},
+  url = {https://faunaofindia.nic.in/PDFVolumes/occpapers/038/index.pdf},
+}
+@online{weerawardane2009journey,
+  author = {Weerawardane, Prasani},
+  title = {Journey to the West: Dusty Roads, Stormy Seas and Transcendence},
+  organization = {National Library Board Singapore},
+  date = {2009-07-07},
+  url = {https://biblioasia.nlb.gov.sg/all-sections/vol-5-issue2-jul-2009-journey-west-dusty-road-stormy-seas/},
+}
+@book{wriggins2004xuanzang,
+  author = {Wriggins, Sally Hovey},
+  title = {The Silk Road Journey with Xuanzang},
+  publisher = {Westview Press},
+  date = {2004},
+  url = {https://www.lifelonglearningcollaborative.org/silkroads/articles/wriggins-pp-159-to-201.pdf},
+  note = {Chapter 9 scan},
+}
+@article{cameron2015asbestos,
+  author = {Cameron, Judith and Indrajaya, Agustijanto and Manguin, Pierre-Yves},
+  title = {Asbestos Textiles from Batujaya (West Java, Indonesia): Further Evidence for Early Long-Distance Interaction between the Roman Orient, Southern Asia and Island Southeast Asia},
+  journaltitle = {Bulletin de l'École française d'Extrême-Orient},
+  volume = {101},
+  pages = {159--176},
+  date = {2015},
+  doi = {10.3406/befeo.2015.6212},
+  url = {https://www.persee.fr/doc/befeo_0336-1519_2015_num_101_1_6212},
+}
+@thesis{zhang2021tara,
+  author = {Zhang, Xiaoyang},
+  title = {Devotion to Tārā in Tangut Buddhism: Based on an Art Exploration of Tārā Murals in Dunhuang Caves},
+  type = {PhD dissertation},
+  institution = {University of the West},
+  date = {2021},
+  url = {https://ir.uwest.edu/files/original/edd0bf891631068706dd9cfb9f2d81ffb42e96d5.pdf},
+}
+@online{idp1995kharakhoto,
+  author = {{International Dunhuang Programme}},
+  title = {Khara-Khoto: The Black City},
+  date = {1995-01},
+  url = {https://idp.bl.uk/newsletters/7398-2/},
+}
+@online{idp2010russia,
+  author = {{International Dunhuang Programme}},
+  title = {IDP Collections in Russia},
+  date = {2010-11-12},
+  url = {https://idp.bl.uk/blog/idp-collections-in-russia/},
+}
+@online{idpsteinfragment,
+  author = {{International Dunhuang Programme}},
+  title = {Tangut Manuscript Fragment from Kharakhoto: Or.12381/963},
+  url = {https://idp.bl.uk/collection/0F1969B2368C4A2F95E136D5E99250EB/},
+  note = {Catalogue record; undated},
+}
+@unpublished{atwoodtoponyms,
+  author = {Atwood, Christopher P.},
+  title = {Marco Polo's Sino-Mongolian Toponyms, with Special Attention to the Transcription of the Character zhou},
+  url = {https://www.academia.edu/19674253/Marco_Polo_s_Sino_Mongolian_Toponyms_with_Special_Attention_to_the_Transcription_of_the_Character_zhou_%E5%B7%9E},
+  note = {Accessible working paper; date and final publication unverified},
+}
+
+% S-16 final external intake: relevant historical discussion read; medieval originals not independently inspected.
+@article{lincoln2006terrorism,
+  author = {Lincoln, Bruce},
+  title = {An Early Moment in the Discourse of ``Terrorism'': Reflections on a Tale from Marco Polo},
+  journaltitle = {Comparative Studies in Society and History},
+  volume = {48},
+  number = {2},
+  pages = {242--259},
+  date = {2006},
+  doi = {10.1017/S0010417506000107},
+  url = {https://www.academia.edu/28288832/An_Early_Moment_in_the_Discourse_of_Terrorism_Reflections_on_a_Tale_from_Marco_Polo},
+}
+
+% S-16 final intake: introduction pp. 1--7 read, not entire book.
+@incollection{daftary1994introduction,
+  author = {Daftary, Farhad},
+  title = {Introduction},
+  booktitle = {The Assassin Legends: Myths of the Isma'ilis},
+  publisher = {I. B. Tauris},
+  location = {London},
+  pages = {1--7},
+  date = {1994},
+  url = {https://www.iis.ac.uk/media/ki3byqq3/assassin_legends-29143628.pdf},
+}
+
+% S-16 final intake: article read for the inconsistent coordinate references.
+@article{liscak2019catalan,
+  author = {Liščák, Vladimír},
+  title = {Catalan Atlas of 1375 and Hormuz around 1300},
+  journaltitle = {Advances in Cartography and GIScience of the International Cartographic Association},
+  volume = {1},
+  pages = {11:1--11:7},
+  date = {2019},
+  doi = {10.5194/ica-adv-1-11-2019},
+}
+
+% S-16 final intake: metadata verified in journal issue; full text not read.
+@article{rong2015khotan,
+  author = {Rong, Xinjiang},
+  title = {Reality or Tale? Marco Polo's Description of Khotan},
+  journaltitle = {Journal of Asian History},
+  volume = {49},
+  number = {1--2},
+  pages = {161--174},
+  date = {2015},
+  doi = {10.13173/jasiahist.49.1-2.0161},
+}
+
+% confirmed (S-17: article text, DOI and publication details opened).
+@article{guan2024yuan,
+  author = {Guan, Hanhui and Palma, Nuno and Wu, Meng},
+  title = {The Rise and Fall of Paper Money in Yuan China, 1260--1368},
+  journaltitle = {The Economic History Review},
+  volume = {77},
+  number = {4},
+  pages = {1222--1250},
+  date = {2024},
+  doi = {10.1111/ehr.13305},
+  url = {https://doi.org/10.1111/ehr.13305},
+  note = {Open full text at intake; NEW.},
+}
+
+% confirmed (S-17: Chinese review and English abstract opened; excavation reports not independently inspected. 2019 volume date confirmed by Palace Museum contents; key retained for existing references).
+@article{xu2020dadu,
+  author = {Xu, Bin},
+  title = {Yuan Dadu guihua fuyuan yanjiu zongshu [Review of Research on Reconstruction of Yuan Dadu Planning]},
+  journaltitle = {Gugong xuekan},
+  volume = {20},
+  pages = {44--55},
+  date = {2019},
+  url = {https://img.dpm.org.cn/Uploads/File/2020/11/12/u5fad16548fcc6.pdf},
+  note = {Open access; NEW; in Chinese with English abstract.},
+}
+
+% confirmed (S-17: museum catalog page opened; individual objects not directly examined).
+@misc{cuhkzhiyuanblocks,
+  author = {{Art Museum, The Chinese University of Hong Kong}},
+  title = {Two Sets of Blocks and Seals for Paper Notes},
+  url = {https://artsandculture.google.com/asset/two-sets-of-blocks-and-seals-for-paper-notes/QwGBRgJAh47r9g},
+  note = {Museum catalog, undated; publicly readable.},
+}
+
+% confirmed (S-17: museum catalog page opened; object not directly examined).
+@misc{metpaiza1993256,
+  author = {{The Metropolitan Museum of Art}},
+  title = {Safe Conduct Pass (Paiza) with Inscription in Phakpa Script},
+  url = {https://www.metmuseum.org/art/collection/search/39624},
+  note = {Object 1993.256; publicly readable catalog.},
+}
+
+% confirmed (S-17 paiza intake, 2026-11-19: essay read).
+@misc{atwood2023paiza,
+  author = {Atwood, Christopher P.},
+  title = {Mongol Messenger's Badge (Paiza or Gerege) in Pakpa Script: Signs of Authority in the Mongol Empire},
+  date = {2023},
+  organization = {Rubin Museum of Art, Project Himalayan Art},
+  url = {https://rubinmuseum.org/projecthimalayanart/essays/mongol-messengers-badge-paiza-or-gerege-in-pakpa-script},
+  note = {Online essay; publicly readable.},
+}
+
+% confirmed (S-17: museum exhibition page opened).
+@misc{met2010khubilai,
+  author = {{The Metropolitan Museum of Art}},
+  title = {The World of Khubilai Khan},
+  date = {2010},
+  url = {https://www.metmuseum.org/exhibitions/listings/2010/khubilai-khan},
+  note = {Exhibition page; publicly readable.},
+}
+
+% confirmed (S-17: review opened; Vogel's book was not directly read in this intake).
+@misc{chang2014vogel,
+  author = {Chang, Na},
+  title = {Review of Marco Polo Was in China: New Evidence from Currencies, Salts and Revenues},
+  howpublished = {Reviews in History, review no. 1667},
+  date = {2014},
+  doi = {10.14296/RiH/2014/1667},
+  url = {https://reviews.history.ac.uk/review/1667/},
+  note = {Open access; NEW; review, not Vogel's text.},
+}
+
+% confirmed (S-17: official inscription decision opened).
+@misc{unesco2021quanzhoudecision,
+  author = {{UNESCO World Heritage Committee}},
+  title = {Decision 44 COM 8B.15: Quanzhou: Emporium of the World in Song-Yuan China},
+  date = {2021},
+  url = {https://whc.unesco.org/en/decisions/7934/},
+  note = {Open access; NEW.},
+}
+
+% confirmed (S-17: Yule-based edition selection opened; manuscript not inspected).
+@misc{columbiapoloquinsai,
+  author = {{Columbia University, Asia for Educators}},
+  title = {Description of the Great City of Kinsay, Which Is the Capital of the Whole Country of Manzi},
+  url = {https://afe.easia.columbia.edu/main_pop/ps/ps_china-polo-hangzhou.htm},
+  note = {Yule-based textual selection; publicly readable, undated.},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; abstract-level content via the supplied report).
+@article{siriwardana2024pearl,
+  author = {Siriwardana, T. M. and Dissanayake, N. H. and {\c{C}}ak{\i}rlar, Canan},
+  title = {Pearl Fisheries in South Asia: Archaeological Evidence from Pre-Colonial and Colonial Shell Middens around the Gulf of Mannar in Sri Lanka},
+  journaltitle = {International Journal of Historical Archaeology},
+  volume = {28},
+  number = {4},
+  pages = {960--994},
+  date = {2024},
+  doi = {10.1007/s10761-024-00739-5},
+  note = {NEW. Access status not checked.},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; the supplied report's month table, not re-read).
+@article{deng2011monsoons,
+  author = {Deng, Hui and Li, Xin},
+  title = {The Asian Monsoons and Zheng He's Voyages to the Western Ocean},
+  journaltitle = {Journal of Navigation},
+  volume = {64},
+  number = {2},
+  pages = {207--218},
+  date = {2011},
+  doi = {10.1017/S0373463310000469},
+  note = {Ming-era voyages; used for monsoon timing by analogy.},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; article not read).
+@article{woodruff2015kamikaze,
+  author = {Woodruff, Jonathan D. and Kanamaru, Kinuyo and Kundu, Sukalpa and Cook, Timothy L.},
+  title = {Depositional Evidence for the Kamikaze Typhoons and Links to Changes in Typhoon Climatology},
+  journaltitle = {Geology},
+  volume = {43},
+  number = {1},
+  pages = {91--94},
+  date = {2015},
+  doi = {10.1130/G36209.1},
+  note = {NEW. The supplied report's "2014 study" (online 2014).},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; the report's DOI 10.1017/S0003598X24002047 does not resolve).
+@article{xu2025nanhai,
+  author = {Xu, Wenpeng and Chen, Shiyu and Xiao, Dayong and Ye, Wen},
+  title = {Unveiling Maritime Trading Practices: Micro-Provenance Analysis of Dehua-Style Porcelain from the Nanhai I Shipwreck},
+  journaltitle = {Antiquity},
+  volume = {99},
+  pages = {517--535},
+  date = {2025},
+  doi = {10.15184/aqy.2024.204},
+  note = {NEW. Online December 2024. Author given names from Crossref family names only; check before print.},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; content not read).
+@book{prange2018monsoon,
+  author = {Prange, Sebastian R.},
+  title = {Monsoon Islam: Trade and Faith on the Medieval Malabar Coast},
+  series = {Cambridge Oceanic Histories},
+  publisher = {Cambridge University Press},
+  location = {Cambridge},
+  date = {2018},
+  doi = {10.1017/9781108334860},
+  note = {NEW. Paywalled.},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; the report's identifier S2051364X1300015X does not resolve).
+@article{sen2014maritime,
+  author = {Sen, Tansen},
+  title = {Maritime Southeast Asia Between South Asia and China to the Sixteenth Century},
+  journaltitle = {TRaNS: Trans-Regional and -National Studies of Southeast Asia},
+  volume = {2},
+  number = {1},
+  pages = {31--59},
+  date = {2014},
+  doi = {10.1017/trn.2013.15},
+  note = {NEW.},
+}
+
+% confirmed (S-18: Crossref metadata 2026-11-12; the report gives 1999; content not read).
+@book{talbot2001precolonial,
+  author = {Talbot, Cynthia},
+  title = {Precolonial India in Practice: Society, Region, and Identity in Medieval Andhra},
+  publisher = {Oxford University Press},
+  location = {New York},
+  date = {2001},
+  doi = {10.1093/0195136616.001.0001},
+}
+
+% confirmed (S-18: hosted PDF opened, first pages, 2026-11-12). Book essay, not peer-reviewed.
+@incollection{kovesi2025rhinoceros,
+  author = {Kovesi, Catherine},
+  title = {Marco Polo's Rhinoceros: Cognitive Dissonance in `Freighted' Descriptions of One-Horned Animals},
+  booktitle = {Freighted},
+  editor = {Langerman, Fritha},
+  date = {2025},
+  url = {https://rhinoresourcecenter.com/wp-content/uploads/2025/10/2025-Langerman-Freighted-085-Kovesi.pdf},
+  note = {NEW. Publisher, year and pages of the book not confirmed (file name suggests p. 85). Freely hosted PDF.},
+}
+
+% confirmed (S-18 follow-up: third-party OCR of EI XII read; editor, pages and date per that text).
+@article{hultzsch1913motupalli,
+  author = {Hultzsch, E.},
+  title = {M{\=o}{\d{t}}upa{\d{l}}{\d{l}}i Pillar-Inscription of Ga{\d{n}}apatid{\=e}va},
+  journaltitle = {Epigraphia Indica},
+  volume = {12},
+  number = {22},
+  pages = {188--197},
+  date = {1913/1914},
+  url = {https://jainqq.org/pagetext/Epigraphia_Indica_Vol_12/032566/229},
+  note = {Third-party OCR of the printed volume; check against a scan before quoting.},
+}
+
+% confirmed (printed p. 531, section IX inspected in supplied text; JSTOR/Crossref)
+@article{hultzsch1913singhalese,
+  author       = {Hultzsch, E.},
+  title        = {XV Contributions to Singhalese Chronology},
+  journaltitle = {Journal of the Royal Asiatic Society of Great Britain and Ireland},
+  volume       = {45},
+  number       = {3},
+  pages        = {517--531},
+  date         = {1913},
+  doi          = {10.1017/s0035869x00045093},
+}
+
+% confirmed (S-18 follow-up: full text read from a mirrored PDF; DOI resolves via doi.org to KoreaScience, not Crossref).
+@article{dayalan2019seaports,
+  author = {Dayalan, Duraiswamy},
+  title = {Ancient Seaports on the Eastern Coast of India: The Hub of the Maritime Silk Route Network},
+  journaltitle = {Acta Via Serica},
+  volume = {4},
+  number = {1},
+  pages = {25--69},
+  date = {2019},
+  doi = {10.22679/avs.2019.4.1.025},
+  note = {NEW. Open access.},
+}
+
+% confirmed (S-18 follow-up: about 70% of the full text read; Crossref: sole author).
+@article{rougeulle2017qalhat,
+  author = {Rougeulle, Axelle},
+  title = {Medieval Qalh{\=a}t, Historical vs Archaeological Data},
+  journaltitle = {Arabian Humanities},
+  number = {9},
+  date = {2017},
+  doi = {10.4000/cy.3442},
+  url = {https://journals.openedition.org/cy/3442},
+  note = {NEW. Open access (OpenEdition).},
+}
+
+% confirmed (S-18 library intake: publisher PDF read).
+@article{ikeda2019takashima,
+  author = {Ikeda, Yoshifumi and Sasaki, Randall and Kimura, Jun},
+  title = {Recent Underwater Investigations at Takashima: Searching for the Lost Fleet of the Mongol Empire},
+  journaltitle = {Current Science},
+  volume = {117},
+  number = {10},
+  pages = {1635--1639},
+  date = {2019},
+  doi = {10.18520/cs/v117/i10/1635-1639},
+  note = {NEW. Publisher PDF read in S-18 library intake.},
+}
+
+% confirmed (S-18: book known from Crossref-listed reviews and a Project MUSE record; chapters not read).
+@book{sasaki2015origins,
+  author = {Sasaki, Randall J.},
+  title = {The Origins of the Lost Fleet of the Mongol Empire},
+  series = {Ed Rachal Foundation Nautical Archaeology Series},
+  publisher = {Texas A\&M University Press},
+  location = {College Station},
+  date = {2015},
+  isbn = {978-1-62349-194-9},
+  url = {https://www.tamupress.com/book/9781623491949/the-origins-of-the-lost-fleet-of-the-mongol-empire/},
+  note = {NEW. Publisher metadata checked; book chapters not read.},
+}
+
+% confirmed (S-18: Crossref metadata; review read by the follow-up run).
+@article{conlan2017sasaki,
+  author = {Conlan, Thomas D.},
+  title = {Review of Randall J. Sasaki, The Origins of the Lost Fleet of the Mongol Empire},
+  journaltitle = {The Historian},
+  volume = {79},
+  number = {4},
+  pages = {879--881},
+  date = {2017},
+  doi = {10.1111/hisn.12714},
+  note = {NEW.},
+}
+
+% confirmed (S-18 follow-up: large OCR read of a hosted PDF; pages may be off by one).
+@book{hall2011history,
+  author = {Hall, Kenneth R.},
+  title = {A History of Early Southeast Asia: Maritime Trade and Societal Development, 100--1500},
+  publisher = {Rowman \& Littlefield},
+  location = {Lanham},
+  date = {2011},
+  note = {Pp. 226--227 on Java as an entrepôt; Malāyu = Jambi at p. 227.},
+}
+
+% confirmed (S-18 follow-up: archive.org OCR, non-continuous read).
+@book{nilakantasastri1929pandyan,
+  author = {Nilakanta Sastri, K. A.},
+  title = {The Pandyan Kingdom from the Earliest Times to the Sixteenth Century},
+  publisher = {Luzac},
+  location = {London},
+  date = {1929},
+  url = {https://archive.org/download/ThePandyanKingdom/The-Pandyan-Kingdom_text.pdf},
+  note = {Public domain in most jurisdictions; pages from OCR (about 181, 188--189).},
+}
+
+% confirmed (S-18 priority intake: article text read, p. 273; dating disputed).
+@article{lambourn2008tombstones,
+  author = {Lambourn, Elizabeth},
+  title = {Tombstones, Texts, and Typologies: Seeing Sources for the Early History of Islam in Southeast Asia},
+  journaltitle = {Journal of the Economic and Social History of the Orient},
+  volume = {51},
+  number = {2},
+  pages = {252--286},
+  date = {2008},
+  doi = {10.1163/156852008x307447},
+}
+
+% confirmed (S-18 priority intake: full PDF text read; disputes Lambourn's dating).
+@article{ismail2022batuaceh,
+  author = {Ismail, Muhammad Uzair bin and Ramli, Zuliskandar and Ahmad Zakaria, Ros Mahwati},
+  title = {Islamic Art Influences on Several Batu Aceh Gravestones in Sumatra and the Malay Peninsular: Revisited},
+  journaltitle = {The Islamic Quarterly},
+  volume = {66},
+  number = {1},
+  pages = {1--38},
+  date = {2022},
+  url = {https://iccuk.org/2022/iq/Art_66_1_1.pdf},
+}
+
+% confirmed (S-18: Crossref chapter DOIs; the follow-up read ch. 1 in full and gave 2020; the year is 2018).
+@book{favi2018self,
+  author = {Favi, Sonia},
+  title = {Self Through the Other: Japan in Sixteenth-Century Italian Printed Sources},
+  series = {Ca' Foscari Japanese Studies},
+  publisher = {Edizioni Ca' Foscari},
+  location = {Venice},
+  date = {2018},
+  isbn = {978-88-6969-237-6},
+  note = {NEW. Open access.},
+}
+
+% confirmed (S-18 follow-up: full PDF read; peer review of the proceedings not confirmed).
+@incollection{okubo2000mining,
+  author = {{\=O}kubo, Takashi},
+  title = {Mining Frontiers and Their Impact on Money from the Viewpoint of Japanese Monetary History},
+  booktitle = {Proceedings of the ICOMON Meetings Held with the ICOM Conference, Melbourne 1998},
+  editor = {Lane, Peter and Sharples, John},
+  publisher = {Numismatic Association of Australia},
+  date = {2000},
+  pages = {19--25},
+  url = {https://icomon.mini.icom.museum/wp-content/uploads/sites/20/2018/12/Mining_frontiers_and_their_impact_on_money__from_the_viewpoint_of_Japanese_monetary_history.pdf},
+  note = {Minority, non-Polo-studies view on Chūson-ji.},
+}
+
+% --- S-19 comparative primary editions, 2026-11-12 ---
+
+% confirmed (publisher record opened; in copyright)
+@book{harris2007cambodia,
+  author     = {Zhou Daguan},
+  title      = {A Record of Cambodia: The Land and Its People},
+  translator = {Harris, Peter},
+  publisher  = {Silkworm Books},
+  location   = {Chiang Mai},
+  date       = {2007},
+  url        = {https://silkwormbooks.com/products/a-record-of-cambodia},
+}
+
+% confirmed (title page and University of Vienna bibliographic record opened; public domain)
+@book{hirth1911chaujukua,
+  author     = {Zhao Rugua},
+  title      = {Chau Ju-kua: His Work on the Chinese and Arab Trade in the Twelfth and Thirteenth Centuries, Entitled Chu-fan-chi},
+  translator = {Hirth, Friedrich and Rockhill, William Woodville},
+  publisher  = {Printing Office of the Imperial Academy of Sciences},
+  location   = {St. Petersburg},
+  date       = {1911},
+  url        = {https://archive.org/details/chaujukuahiswork00chauuoft},
+}
+
+% confirmed (publisher paperback record opened; NEW; in copyright)
+@book{mackintoshsmith2017accounts,
+  author     = {Abu Zayd al-Sirafi},
+  title      = {Accounts of China and India},
+  translator = {Mackintosh-Smith, Tim},
+  publisher  = {New York University Press},
+  location   = {New York},
+  date       = {2017},
+  note       = {Paperback edition},
+  url        = {https://nyupress.org/9781479830596/accounts-of-china-and-india/},
+}
+
+% confirmed (translator's public-domain statement and text opened; translated from an Armenian textual tradition)
+@book{bedrosianhayton,
+  author     = {Hayton of Korykos},
+  title      = {Het'um the Historian's History of the Tartars: The Flower of Histories of the East},
+  translator = {Bedrosian, Robert},
+  note       = {Undated digital translation; public domain as stated by translator},
+  url        = {https://www.attalus.org/armenian/hetumtoc.html},
+}
+
+% confirmed (article scan, pp. 66--67, and Encyclopaedia Iranica bibliography opened; translation not cleared for public-domain quotation)
+@article{boyle1970rashidfranks,
+  author       = {Boyle, John Andrew},
+  title        = {Rashīd al-Dīn and the Franks},
+  journaltitle = {Central Asiatic Journal},
+  volume       = {14},
+  number       = {1/3},
+  pages        = {62--67},
+  date         = {1970},
+  url          = {https://www.jstor.org/stable/41926863},
+}
+
+% confirmed (Internet Archive scan opened; Persian text p. 40 read, S-19 2026-11-12; title and date from the Internet Archive item, title page not viewed)
+@book{jahn1940geschichte,
+  author    = {Rashīd al-Dīn},
+  editor    = {Jahn, Karl},
+  title     = {Geschichte Ġāzān-Ḫān's aus dem Taʾrīḫ-i-mubārak-i-Ġāzānī},
+  location  = {London},
+  date      = {1940},
+  url       = {https://archive.org/details/in.ernet.dli.2015.491274},
+}
+
+% --- S-22 supplement: source records checked 2026-11-13 --------------------
+
+% confirmed (publisher abstract and Crossref metadata; full text not inspected)
+@article{niziolek2018revisiting,
+  author       = {Niziolek, Lisa C. and Feinman, Gary M. and Kimura, Jun and Respess, Amanda and Zhang, Lu},
+  title        = {Revisiting the Date of the Java Sea Shipwreck from Indonesia},
+  journaltitle = {Journal of Archaeological Science: Reports},
+  date         = {2018},
+  volume       = {19},
+  pages        = {781--790},
+  doi          = {10.1016/j.jasrep.2018.04.002},
+}
+
+% confirmed (pp. 305–11 read in full-text copy, including al-Balid discussion and dating table)
+@article{vosmer2019sewn,
+  author       = {Vosmer, Tom},
+  title        = {Sewn Boats in Oman and the Indian Ocean},
+  journaltitle = {International Journal of Nautical Archaeology},
+  date         = {2019},
+  volume       = {48},
+  number       = {2},
+  pages        = {302--313},
+  doi          = {10.1111/1095-9270.12371},
+}
+
+% confirmed (Crossref metadata; full article and artifact not inspected)
+@article{chuluun2024reconstruction,
+  author       = {Chuluun, Altantsetseg and Bayanzul, Munkhtsetseg and Palamkhan, Bolormaa},
+  title        = {Results of Reconstruction of a Deel Artifact Unearthed from the Burial of Balar's Khad, Ikh Nart},
+  journaltitle = {Mongolian Journal of Arts and Culture},
+  date         = {2024},
+  volume       = {25},
+  number       = {49},
+  pages        = {8--23},
+  doi          = {10.69561/mjac.v25i49.3826},
+}
+
+% confirmed (Biodiversity Heritage Library metadata and p. 195 previously inspected; 1841 installment, not necessarily the first naming publication)
+@article{blyth1841ovis,
+  author       = {Blyth, Edward},
+  title        = {{XXVI}. An Amended List of the Species of the Genus {Ovis}},
+  journaltitle = {The Annals and Magazine of Natural History},
+  date         = {1841},
+  volume       = {7},
+  number       = {43},
+  pages        = {195--201},
+  doi          = {10.1080/03745484109442689},
+  url          = {https://www.biodiversitylibrary.org/part/13450},
+}
+
+% confirmed (publisher/author text of 2006 study pp. 25--34 read; original annotated book not inspected)
+@incollection{gil2006marcocristobal,
+  author       = {Gil, Juan},
+  title        = {El {Libro de Marco Polo} en la vida y empresas de {Cristóbal Colón}},
+  booktitle    = {Libro del famoso Marco Polo veneciano: edición en facsímile de la impresa en Logroño por Miguel de Eguía (1529)},
+  editor       = {Cátedra, Pedro M.},
+  volume       = {2},
+  pages        = {11--43},
+  location     = {San Millán de la Cogolla},
+  publisher    = {Cilengua},
+  date         = {2006},
+  url          = {https://www.academia.edu/90754766/Libro_del_famoso_Marco_Polo_veneciano_Edici%C3%B3n_en_facs%C3%ADmile_de_la_impresa_en_Logro%C3%B1o_por_Miguel_de_Egu%C3%ADa_1529_},
+}
+
+% confirmed (publisher's 2018 article PDF pp. 5--7 read; Atlas itself not inspected; PDF footer gives an incorrect 2017 DOI)
+@article{liscak2018atlas,
+  author       = {Liščák, Vladimír},
+  title        = {Mapa mondi (Catalan Atlas of 1375), Majorcan cartographic school, and 14th century Asia},
+  journaltitle = {Proceedings of the International Cartographic Association},
+  date         = {2018},
+  volume       = {1},
+  pages        = {69:1--8},
+  doi          = {10.5194/ica-proc-1-69-2018},
+  url          = {https://ica-proc.copernicus.org/articles/1/69/2018/},
+}
+
+% confirmed (conference proceedings p. 77 n. 1 read; underlying Gil argument not independently checked)
+@incollection{pittaluga2006libri,
+  author       = {Pittaluga, Stefano},
+  title        = {Libri perduti di Cristoforo Colombo},
+  booktitle    = {Congreso Internacional Cristóbal Colón, 1506--2006: Historia y leyenda},
+  editor       = {Varela, Consuelo},
+  pages        = {77--88},
+  publisher    = {Universidad Internacional de Andalucía},
+  date         = {2006},
+  url          = {https://core.ac.uk/download/pdf/223061756.pdf},
+}
+
+
+% ---- Added 2026-11-13 from reports/Period sources for Polo plates.md (gap-source ledger); status per entry from research_notes/Period sources for Polo plates/verify_*.md ----
+
+% confirmed (verify_G4_G6.md: front matter read; Crossref 10.14220/9783737004992 dates the digital edition 2015-12-09, print year 2016 kept)
+@book{haug2016annales,
+  author    = {Haug, Henrike},
+  title     = {Annales Ianuenses: Orte und Medien des historischen Ged{\"a}chtnisses im mittelalterlichen Genua},
+  series    = {Orbis mediaevalis},
+  volume    = {15},
+  publisher = {V\&R unipress},
+  location  = {G{\"o}ttingen},
+  date      = {2016},
+  isbn      = {978-3-8471-0499-5},
+}
+
+% confirmed (verify_G1_G3_P3.md: TDL record gives title, author, issued 2009-05-15); degree type not shown on the record
+@thesis{sasaki2009lostfleet,
+  author      = {Sasaki, Randall James},
+  title       = {The Origin of the Lost Fleet of the Mongol Empire},
+  type        = {mathesis},
+  institution = {Texas A\&M University},
+  date        = {2009},
+  url         = {https://tdl-ir.tdl.org/handle/1969.1/ETD-TAMU-3100},
+}
+
+% unconfirmed (sitereports.nabunken.go.jp returned 429; the record page gives 2011-09-16; DOI pattern 10.24484/sitereports.62589 unchecked)
+@book{matsuura2011takashima,
+  author    = {{長崎県松浦市教育委員会}},
+  title     = {松浦市鷹島海底遺跡 総集編},
+  series    = {松浦市文化財調査報告書},
+  number    = {4},
+  publisher = {長崎県松浦市教育委員会},
+  date      = {2011},
+  url       = {https://sitereports.nabunken.go.jp/62589},
+  note      = {Helmets: figs. 83--86, pp. 135--138, pls. 19--20; seal pp. 8, 42--45},
+}
+
+% unconfirmed (verify_G1_G3_P3.md: sitereports record 21714 blocked, HTTP 429)
+@book{nagasaki2018takashima,
+  author    = {{長崎県埋蔵文化財センター}},
+  title     = {鷹島海底遺跡：平成25年度から平成29年度までの調査成果},
+  series    = {長崎県埋蔵文化財センター調査報告書},
+  number    = {25},
+  publisher = {長崎県教育委員会},
+  date      = {2018},
+  doi       = {10.24484/sitereports.21714},
+  url       = {https://sitereports.nabunken.go.jp/21714},
+  note      = {Ch. III on stone shot by 古澤義久, printed pp. 41--47},
+}
+
+% confirmed (verify_G1_G3_P3.md: Crossref gives title, DOP 54, 2000, start p. 71); end page 116 not in Crossref
+@article{chevedden2000trebuchet,
+  author       = {Chevedden, Paul E.},
+  title        = {The Invention of the Counterweight Trebuchet: A Study in Cultural Diffusion},
+  journaltitle = {Dumbarton Oaks Papers},
+  volume       = {54},
+  date         = {2000},
+  pages        = {71--116},
+  doi          = {10.2307/1291833},
+}
+
+% claimed (plates gap-source ledger only; not checked)
+@book{franken2022halle,
+  author    = {Franken, Christina},
+  title     = {Die ``Gro{\ss}e Halle'' von Karakorum},
+  series    = {Forschungen zur Arch{\"a}ologie Au{\ss}ereurop{\"a}ischer Kulturen},
+  volume    = {12},
+  publisher = {Deutsches Arch{\"a}ologisches Institut},
+  date      = {2022},
+  doi       = {10.34780/coic-cbqc},
+  note      = {digital edition},
+}
+
+% confirmed (verify_P1_P4_bib.md: DataCite 10.34780/133a-8dr5 and Open Library ISBN 9783895006975); subtitle not in either record
+@book{karakorum_vol1,
+  editor    = {Bemmann, Jan and Erdenebat, Ulambayar and Pohl, Ernst},
+  title     = {Mongolian-German Karakorum Expedition, Vol. 1: Excavations in the Craftsmen Quarter at the Main Road},
+  series    = {Forschungen zur Arch{\"a}ologie Au{\ss}ereurop{\"a}ischer Kulturen},
+  volume    = {8},
+  publisher = {Reichert},
+  location  = {Wiesbaden},
+  date      = {2010},
+  isbn      = {9783895006975},
+  doi       = {10.34780/133a-8dr5},
+  note      = {DAI digital edition 2022},
+}
+
+% unconfirmed (pages read in the author's PDF; year from the PDF creation date; editor Elizabeth Lillehoj and publisher, Center for the Art of East Asia, Univ. of Chicago / Art Media Resources, from memory, so not entered)
+@incollection{conlan2013myth,
+  author    = {Conlan, Thomas D.},
+  title     = {Myth, Memory, and the Scrolls of the Mongol Invasions of Japan},
+  booktitle = {Archaism and Antiquarianism in Korean and Japanese Art},
+  date      = {2013},
+  pages     = {54--73},
+  url       = {https://tconlan.scholar.princeton.edu/sites/g/files/toruqf3991/files/tconlan/files/conlan_myth_memory_.pdf},
+}
+
+% claimed (plates gap-source ledger only; DOI not opened)
+@article{testa2020moko,
+  author       = {Testa, Giuseppina Aurora},
+  title        = {``M{\=o}ko Sh{\=u}rai Ekotoba'' (Illustrated Account of the Mongol Invasions)},
+  journaltitle = {Eikon / Imago},
+  volume       = {9},
+  pages        = {35--57},
+  date         = {2020},
+  doi          = {10.5209/eiko.73275},
+}
+
+% confirmed (verify_P1_P4_bib.md: Open Library ISBN 9781885445131)
+@book{conlan2001divine,
+  author    = {Conlan, Thomas D.},
+  title     = {In Little Need of Divine Intervention: Takezaki Suenaga's Scrolls of the Mongol Invasions of Japan},
+  series    = {Cornell East Asia Series},
+  number    = {113},
+  publisher = {East Asia Program, Cornell University},
+  location  = {Ithaca, NY},
+  date      = {2001},
+  isbn      = {1-885445-13-X},
+}
+
+% confirmed (verify_G1_G3_P3.md: DOI 10.2307/3249595, vol. 44 no. 2/3, start p. 137); end page 158 not in Crossref
+@article{steinhardt1983plan,
+  author       = {Steinhardt, Nancy S.},
+  title        = {The Plan of Khubilai Khan's Imperial City},
+  journaltitle = {Artibus Asiae},
+  volume       = {44},
+  number       = {2/3},
+  date         = {1983},
+  pages        = {137--158},
+  doi          = {10.2307/3249595},
+}
+
+% claimed (plates gap-source ledger only; DOI not opened)
+@book{steinhardt2024yuan,
+  author    = {Steinhardt, Nancy S.},
+  title     = {Yuan: Chinese Architecture in a Mongol Empire},
+  publisher = {Princeton University Press},
+  date      = {2024},
+  doi       = {10.1515/9780691253350},
+}
+
+% confirmed (verify_P1_P4_bib.md: Open Library ISBN 9781588394033)
+@book{watt2010khubilai,
+  author    = {Watt, James C. Y. and others},
+  title     = {The World of Khubilai Khan: Chinese Art in the Yuan Dynasty},
+  publisher = {Metropolitan Museum of Art and Yale University Press},
+  location  = {New York and New Haven},
+  date      = {2010},
+  isbn      = {978-1-58839-403-3},
+}
+
+% claimed (plates gap-source ledger; verify_P1_P4_bib.md confirms only the Internet Archive copy, not the imprint)
+@book{watt1997silk,
+  author    = {Watt, James C. Y. and Wardwell, Anne E.},
+  title     = {When Silk Was Gold: Central Asian and Chinese Textiles},
+  publisher = {Metropolitan Museum of Art, in cooperation with the Cleveland Museum of Art},
+  location  = {New York},
+  date      = {1997},
+}
+
+% confirmed (verify_P1_P4_bib.md: ICOMOS records the dossier received 20 January 2011); dossier itself not opened
+@techreport{unesco2011xanadu,
+  author      = {{People's Republic of China}},
+  title       = {Site of Xanadu: Nomination File 1389},
+  institution = {UNESCO World Heritage Centre},
+  date        = {2011},
+  number      = {1389},
+  url         = {https://whc.unesco.org/en/list/1389/documents},
+}
+
+% confirmed (verify_P1_P4_bib.md: PDF opened; first page reads "Advies ... Vier beelden uit het tempelcomplex van Singasari")
+@misc{ckc2023singasari,
+  author   = {{Commissie Koloniale Collecties}},
+  title    = {Advies I-2023-3: Vier beelden uit het tempelcomplex van Singasari},
+  location = {The Hague},
+  date     = {2023},
+  url      = {https://zoek.officielebekendmakingen.nl/blg-1100343.pdf},
+}
+
+% confirmed (verify_G4_G6.md: DOI 10.1111/j.1095-9270.2005.00081.x, IJNA 35(1): 88--96)
+@article{tripati2006hero,
+  author       = {Tripati, Sundaresh},
+  title        = {Ships on Hero Stones from the West Coast of India},
+  journaltitle = {International Journal of Nautical Archaeology},
+  volume       = {35},
+  number       = {1},
+  date         = {2006},
+  pages        = {88--96},
+  doi          = {10.1111/j.1095-9270.2005.00081.x},
+}
+
+% claimed (plates gap-source ledger only; PDF not opened)
+@book{burke2021quseir,
+  author    = {Burke, K. S.},
+  title     = {The Sheikh's House at Quseir al-Qadim: Documenting a Thirteenth-Century Red Sea Port},
+  series    = {Oriental Institute Publications},
+  number    = {144},
+  publisher = {Oriental Institute (ISAC), University of Chicago},
+  date      = {2021},
+  isbn      = {978-1-61491-056-5},
+  url       = {https://isac-assets.s3.amazonaws.com/isac-publications/oip144.pdf},
+}
+
+% claimed (plates gap-source ledger only; not checked)
+@book{nersessian2001ark,
+  author    = {Nersessian, V.},
+  title     = {Treasures from the Ark: 1700 Years of Armenian Christian Art},
+  publisher = {British Library / J. Paul Getty Museum},
+  date      = {2001},
+  isbn      = {0-89236-639-7},
+}
+
+% confirmed (verify_G4_G6.md: BSB IIIF metadata, Wasit, "678 oder 778")
+@misc{bsb_cod_arab_464,
+  author       = {{al-Qazw{\=\i}n{\=\i}, Zakar{\=\i}y{\=a} ibn Mu{\d h}ammad}},
+  title        = {Kit{\=a}b {\textquoteleft}Aj{\=a}{\textquoteright}ib al-makhl{\=u}q{\=a}t},
+  howpublished = {Munich, Bayerische Staatsbibliothek, Cod.arab. 464; W{\=a}si{\d t}, 678 H/1280 (record also gives ``678 oder 778'')},
+  url          = {http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00037026-7},
+}
+
+% confirmed (verify_G4_G6.md: Morgan viewer heading and catalogue text)
+@misc{morgan_m500,
+  title        = {Man{\=a}fi{\textquoteleft}-i {\d h}ayav{\=a}n},
+  howpublished = {New York, Morgan Library \& Museum, MS M.500; Mar{\=a}gha, 1297--1298 or 1299--1300},
+  url          = {https://www.themorgan.org/manuscript/77363},
+}
+
+% confirmed (verify_G4_G6.md: BnF archives notice, copy dated 4 Dhu l-Hijja 689 H)
+@misc{bnf_suppl_pers_205,
+  author       = {Juvayn{\=\i}, {\textquoteleft}A{\d t}{\=a}-Malik},
+  title        = {T{\=a}r{\=\i}kh-i Jah{\=a}ngush{\=a}y},
+  howpublished = {Paris, BnF, Suppl{\'e}ment persan 205; dated 4 Dhu l-Hijja 689 H/8 December 1290},
+  url          = {https://archivesetmanuscrits.bnf.fr/ark:/12148/cc33978s},
+  note         = {Gallica ark:/12148/btv1b84149955},
+}
+
+% confirmed (verify_G4_G6.md: Stony Brook Academic Commons record and PDF)
+@book{naumann1976takht,
+  author    = {Naumann, Rudolf},
+  title     = {Takht-i Suleiman: Ausgrabung des Deutschen Arch{\"a}ologischen Instituts in Iran. Ausstellung M{\"u}nchen 1976},
+  publisher = {Pr{\"a}historische Staatssammlung},
+  location  = {M{\"u}nchen},
+  date      = {1976},
+  series    = {Ausstellungskataloge der Pr{\"a}historischen Staatssammlung},
+  volume    = {3},
+  url       = {https://commons.library.stonybrook.edu/amar/303},
+}
+
+% claimed (plates gap-source ledger only; not checked)
+@incollection{huff2006takht,
+  author    = {Huff, Dietrich},
+  title     = {The Ilkhanid Palace at Takht-i Sulayman: Excavation Results},
+  booktitle = {Beyond the Legacy of Genghis Khan},
+  editor    = {Komaroff, Linda},
+  publisher = {Brill},
+  location  = {Leiden},
+  date      = {2006},
+}
+
+% unconfirmed (verify_G1_G3_P3.md: publisher page timed out; no Crossref record for PSAS)
+@article{vosmer2011jewel,
+  author       = {Vosmer, Tom and Belfioretti, Luca and Staples, Eric and Ghidoni, Alessandro},
+  title        = {The ``Jewel of Muscat'' Project: Reconstructing an Early Ninth-Century {CE} Shipwreck},
+  journaltitle = {Proceedings of the Seminar for Arabian Studies},
+  volume       = {41},
+  date         = {2011},
+  pages        = {411--425},
+}
+
+% claimed (plates gap-source ledger only; not checked)
+@book{fircks2016oriental,
+  editor    = {von Fircks, Juliane and Schorta, Regula},
+  title     = {Oriental Silks in Medieval Europe},
+  series    = {Riggisberger Berichte},
+  number    = {21},
+  publisher = {Abegg-Stiftung},
+  location  = {Riggisberg},
+  date      = {2016},
+}
+
+% confirmed (verify_P1_P4_bib.md and verify_G1_G3_P3.md: Crossref, three parts with DOIs)
+@article{pryor1984crusader,
+  author       = {Pryor, John H.},
+  title        = {The Naval Architecture of Crusader Transport Ships: A Reconstruction of Some Archetypes for Round-Hulled Sailing Ships},
+  journaltitle = {The Mariner's Mirror},
+  volume       = {70},
+  number       = {2--4},
+  date         = {1984},
+  pages        = {171--219, 275--292, 363--386},
+  doi          = {10.1080/00253359.1984.10655967},
+  note         = {Parts I--III; DOIs of Parts II and III: 10.1080/00253359.1984.10655978, 10.1080/00253359.1984.10655992},
+}
+
+% confirmed (verify_P1_P4_bib.md: Crossref DOI 10.1038/s41598-020-76457-9); the Mogao Cave 465 subject not checked against the abstract
+@article{kogou2020mogao465,
+  author       = {Kogou, Sotiria and Shahtahmassebi, Golnaz and Lucian, Andrei and Liang, Haida and Shui, Biwen and Zhang, Wenyuan and Su, Bomin and van Schaik, Sam},
+  title        = {From Remote Sensing and Machine Learning to the History of the Silk Road: Large Scale Material Identification on Wall Paintings},
+  journaltitle = {Scientific Reports},
+  volume       = {10},
+  pages        = {19312},
+  date         = {2020},
+  doi          = {10.1038/s41598-020-76457-9},
+}
+
+% unconfirmed date (2019 is the repository file name, Lin2019PhD.pdf; the thesis front page says November 2017)
+@thesis{lin2019cilician,
+  author      = {Lin, Wei-Sheng},
+  title       = {The Role of Regional Geographical Factors and Political Institutions in Thirteenth- and Fourteenth-Century {Cilician} Long-Distance Trade},
+  type        = {phdthesis},
+  institution = {University of Birmingham},
+  date        = {2019},
+  note        = {Thesis submitted November 2017; Ayas toponyms by chart, Table 2-2; excludes the Carte Pisane (pp. 103--104)},
+  url         = {https://etheses.bham.ac.uk/id/eprint/8689/},
+}
+
+% ---- Added 2026-11-13 from the S-23 closing intake ----
+% unconfirmed (S-23-closing-raw.md: title, editor and year from two sources incl. Open Library OL15773405W; publisher, place and series number not confirmed)
+@book{balletto1989laiazzo,
+  editor = {Balletto, Laura},
+  title  = {Notai genovesi in Oltremare: atti rogati a {Laiazzo} da {Federico di Piazzalunga} (1274) e {Pietro di Bargone} (1277, 1279)},
+  date   = {1989},
+}
+
+% ---- Added 2026-11-13 from S-21 targeted rerun intake ----
+% confirmed (S-21-targeted-rerun-intake.md: bibliographic record and relevant passage read; 1856 assertion remains disputed against Kunz and Stevenson)
+@article{fernando2022seeing,
+  author       = {Fernando, Tamara},
+  title        = {Seeing Like the Sea: A Multispecies History of the Ceylon Pearl Fishery 1800--1925},
+  journaltitle = {Past \& Present},
+  volume       = {254},
+  number       = {1},
+  pages        = {127--160},
+  date         = {2022},
+  doi          = {10.1093/pastj/gtab002},
+  note         = {Published online 2021; the article's 1856 statement is not independently verified here},
+}
+
+% confirmed (S-21-targeted-rerun-intake.md: article and university summary; Bronze Age Guangdong specimens do not establish Yuan-era Yunnan occurrence)
+@article{iijima2022hanyusuchus,
+  author       = {Iijima, Masaya and Qiao, Yu and Lin, Wenbin and Peng, Youjie and Yoneda, Minoru and Liu, Jun},
+  title        = {An Intermediate Crocodylian Linking Two Extant Gharials from the Bronze Age of China and Its Human-Induced Extinction},
+  journaltitle = {Proceedings of the Royal Society B},
+  volume       = {289},
+  number       = {1970},
+  pages        = {20220085},
+  date         = {2022},
+  doi          = {10.1098/rspb.2022.0085},
+}
+
+% ---- Added 2026-11-13 from S-21 narrow follow-up intake ----
+% confirmed (S-21-narrow-followup-intake.md: authors' published scholarly transcription, p. 133 and nn. 19--20; manuscript images not inspected)
+@incollection{burgio2011terzo,
+  author    = {Burgio, Eugenio and Fornasiero, Serena},
+  title     = {Il terzo libro},
+  booktitle = {Giovanni Battista Ramusio ``editor'' del Milione: Trattamento del testo e manipolazione dei modelli},
+  location  = {Roma-Padova},
+  publisher = {Antenore},
+  date      = {2011},
+  pages     = {125--152},
+  url       = {https://iris.unive.it/retrieve/e4239ddb-4ac3-7180-e053-3705fe0a3322/burgio_atti%20ramusio.pdf},
+}
+
+% ---- Added 2026-11-13 from S-21 remaining-source checks and closure ----
+% confirmed (S-21-remaining-checks-raw.md: Gutenberg text read, pp. 115--116 on shark-charmers; its 1885 date is unsourced)
+@book{kunz1908pearl,
+  author    = {Kunz, George Frederick and Stevenson, Charles Hugh},
+  title     = {The Book of the Pearl: The History, Art, Science, and Industry of the Queen of Gems},
+  publisher = {The Century Co.},
+  location  = {New York},
+  date      = {1908},
+  addendum  = {Consulted in the Project Gutenberg digitisation, eBook 63299},
+  url       = {https://www.gutenberg.org/ebooks/63299},
+}
+
+% confirmed (S-21-remaining-checks-raw.md: open-access PDF, printed pp. 131--134 and nn. 357--367 read)
+@thesis{ostroff2016beds,
+  author      = {Ostroff, Samuel Miles},
+  title       = {The Beds of Empire: Power and Profit at the Pearl Fisheries of South India and Sri Lanka, c. 1770--1840},
+  type        = {phdthesis},
+  institution = {University of Pennsylvania},
+  date        = {2016},
+  url         = {https://core.ac.uk/download/pdf/219377928.pdf},
+}
+
+% confirmed (S-21-remaining-checks-intake.md: proof-read OCR transcription read; original issue pages not seen)
+@article{smith1912pearl,
+  author       = {Smith, Hugh M.},
+  title        = {The Pearl Fisheries of Ceylon},
+  journaltitle = {National Geographic Magazine},
+  volume       = {23},
+  number       = {2},
+  pages        = {173--194},
+  date         = {1912-02},
+  url          = {https://books.lakdiva.org.lk/pearlfisheries/ocr_text.html},
+}
+
+% confirmed (S-21-remaining-checks-intake.md: Internet Archive text read; cholera passage pp. 30--31)
+@article{vane1887pearl,
+  author       = {Vane, George},
+  title        = {The Pearl Fisheries of Ceylon},
+  journaltitle = {Journal of the Ceylon Branch of the Royal Asiatic Society},
+  volume       = {10},
+  number       = {34},
+  pages        = {14--32},
+  date         = {1887},
+  url          = {https://archive.org/details/journalofceylonb10roya},
+}
+
+% confirmed (S-21-remaining-checks-intake.md: 1994 reprint OCR read, vol. 2 p. 293; the passage is credited to Tennent)
+@book{officer1876ceylon,
+  author    = {{An Officer, Late of the Ceylon Rifles}},
+  title     = {Ceylon: A General Description of the Island, Historical, Physical, Statistical},
+  volumes   = {2},
+  location  = {London},
+  date      = {1876},
+  url       = {https://noolaham.net/project/43/4262/4262.html},
+}
+
+% see note: WorldCat OCLC 21603614 and HathiTrust uc1.b000955382 records opened; text not accessible here (bot check); p. 24 is cited by Ostroff 2016 n. 367
+@book{twynam1902report,
+  author    = {Twynam, William Crofton},
+  title     = {Report on the Ceylon Pearl Fisheries, 1899},
+  location  = {Colombo},
+  publisher = {H. C. Cottle, Acting Government Printer},
+  date      = {1902},
+  note      = {Herdman (1903) cites a Colombo 1900 printing},
+  url       = {https://catalog.hathitrust.org/Record/100654428},
+}
+
+% see note: publisher abstract and reference list read; article body paywalled
+@article{eaton2016pearlescence,
+  author       = {Eaton, Natasha},
+  title        = {In Search of Pearlescence: Pearls, Empire and Obsolescence in South Asia},
+  journaltitle = {Journal of Material Culture},
+  volume       = {21},
+  number       = {1},
+  pages        = {29--58},
+  date         = {2016},
+  doi          = {10.1177/1359183515624453},
+}
+
+% see note: citation confirmed in Progress in Geography 2011 ref. 33 and Iijima et al. 2022 ref. 81 (which translates the title with Crocodylus porosus, names the journal for Shanghai Normal University, and gives author order Wen, Xu, Huang, He); original Chinese article and distribution table not seen directly
+@article{wen1980malai,
+  author       = {Wen, Huanran and Xu, J. and Huang, Zhujian and He, Yeheng},
+  note         = {Author order differs between citing sources; Iijima et al. 2022 give Wen, Xu, Huang, He, with title translated as Crocodilus porosus; original Chinese text not inspected directly},
+  title        = {Lishi shiqi Zhongguo Malai e fenbu de bianqian ji qi yuanyin de chubu yanjiu},
+  titleaddon   = {历史时期中国马来鳄分布的变迁及其原因的初步研究},
+  journaltitle = {Huadong shifan daxue xuebao (ziran kexue ban)},
+  number       = {3},
+  pages        = {109--121},
+  date         = {1980},
+}
+
+% see note: Abstracta Iranica record of the catalogue read (title and pp. 502--509); chapter text not accessible
+@incollection{weisgerber2004turquoise,
+  author    = {Weisgerber, Gerd},
+  title     = {Die Türkisgruben von Nishapur / The Turquoise Mines at Nishapur},
+  booktitle = {Persiens Antike Pracht: Bergbau, Handwerk, Archäologie / Persia's Ancient Splendour},
+  editor    = {Stöllner, Thomas and Slotta, Rainer and Vatandoust, Abdolrasool},
+  publisher = {Deutsches Bergbau-Museum},
+  location  = {Bochum},
+  date      = {2004},
+  pages     = {502--509},
+  url       = {https://journals.openedition.org/abstractairanica/5465},
+}
+
+% confirmed (S-21 targeted-rerun and remaining-checks intakes: article and issue PDF read; its 1390--1430 Polo statement is unexplained)
+@article{shirdam2021persian,
+  author       = {Shirdam, B. and Shen, A. H. and Yang, M. X. and Mokhtari, Z. and Fazliani, H.},
+  title        = {Persian Turquoise: The Ancient Treasure of Neyshabur},
+  journaltitle = {Gems \& Gemology},
+  volume       = {57},
+  number       = {3},
+  date         = {2021},
+  url          = {https://www.gia.edu/gems-gemology/fall-2021-persian-turquoise-ancient-treasure-neyshabur},
+}
+
+% confirmed (S-18 library intake: 1952 edition, page images pp. 69--70 viewed).
+@book{trimingham1952islam,
+  author = {Trimingham, J. Spencer},
+  title = {Islam in Ethiopia},
+  publisher = {Oxford University Press},
+  location = {London},
+  date = {1952},
+}
+
+
+% confirmed (S-18 library intake: thesis OCR p. 94 read).
+@thesis{yatim1985batu,
+  author = {Yatim, Othman bin Mohammed},
+  title = {Batu Aceh: A Study of 15--19 Century Islamic Gravestones in Peninsular Malaysia},
+  type = {phdthesis},
+  institution = {Durham University},
+  date = {1985},
+  url = {https://etheses.durham.ac.uk/id/eprint/1615/},
+}
+
+% confirmed (S-18 remaining-library intake: full chapter PDF text read; underlying Arabic source not read).
+@incollection{loiseau2019hati,
+  author = {Loiseau, Julien},
+  title = {The Ḥaṭī and the Sultan: Letters and Embassies from Abyssinia to the Mamluk Court},
+  booktitle = {Mamluk Cairo, a Crossroads for Embassies: Studies on Diplomacy and Diplomatics},
+  editor = {Bauden, Frédéric and Dekkiche, Malika},
+  publisher = {Brill},
+  location = {Leiden and Boston},
+  pages = {638--657},
+  date = {2019},
+  doi = {10.1163/9789004384637_021},
+}
+
+% unconfirmed (U-1 lead: cited second-hand via a Modern Asian Studies footnote; not seen)
+@article{aubin1969qaraunas,
+  author    = {Aubin, Jean},
+  title     = {L'ethnogen{\`e}se des Qaraunas},
+  journaltitle = {Turcica},
+  volume    = {1},
+  date      = {1969},
+  pages     = {65--94},
+}
+
+% unconfirmed (U-1 lead: contents page only; App. III "Qara'unas and Negüderis", p. 328)
+@book{jackson1999delhi,
+  author    = {Jackson, Peter},
+  title     = {The Delhi Sultanate: A Political and Military History},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge},
+  date      = {1999},
+}
+
+% confirmed (web text read 2026-11-17; revised version of a paper presented 21 May 1987; print venue to check)
+@online{loewe1987jewish,
+  author    = {Loewe, Michael},
+  title     = {The Jewish Presence in Imperial China},
+  organization = {Jewish Historical Society of England},
+  url       = {https://www.jhse.org/pre-2015articles/the-jewish-presence-in-imperial-china},
+  urldate   = {2026-11-17},
+}
+
+% unconfirmed (U-2 lead: Cambridge Core abstracts and chapter list only; Pararaton pp. 249–259 per the return)
+@book{bade2013palmwine,
+  author    = {Bade, David},
+  title     = {Of Palm Wine, Women and War: The Mongolian Naval Expedition to Java in the 13th Century},
+  publisher = {ISEAS Publishing},
+  location  = {Singapore},
+  date      = {2013},
+  doi       = {10.1355/9789814517836},
+}
+
+% confirmed (publisher PDF read 2026-11-17, U-3 intake)
+@article{ragagnin2017natigay,
+  author    = {Ragagnin, Elisabetta},
+  title     = {L'ambiguit{\`a} del teonimo poliano Natigay-Na{\v c}igay},
+  journaltitle = {Quaderni Veneti},
+  volume    = {6},
+  number    = {2},
+  pages     = {103--112},
+  date      = {2017},
+  doi       = {10.14277/QV-1724-188X-2017-02-006},
+}
+
+% confirmed (journal landing page and references read 2026-11-17; body text not seen)
+@article{ragagnin2019tatar,
+  author    = {Ragagnin, Elisabetta},
+  title     = {Some Further Notes on Marco Polo's Tatar Gods},
+  journaltitle = {Acta Mongolica},
+  volume    = {18},
+  date      = {2019},
+  pages     = {63--68},
+  url       = {https://journal.num.edu.mn/actamongolica/article/view/5637},
+}
+
+% confirmed (online text read 2026-11-17)
+@incollection{spuler1987atabakan,
+  author    = {Spuler, Bertold},
+  title     = {Atābakān-e Lorestān},
+  booktitle = {Encyclopaedia Iranica},
+  volume    = {II},
+  number    = {8},
+  date      = {1987},
+  pages     = {896--898},
+  doi       = {10.1163/2330-4804_EIRO_COM_6043},
+}
+
+
+% confirmed (open-access thesis; title page, abstract and contents read 2026-11-17; basis of sasaki2015origins)
+@thesis{sasaki2008origin,
+  author      = {Sasaki, Randall James},
+  title       = {The Origin of the Lost Fleet of the Mongol Empire},
+  type        = {mathesis},
+  institution = {Texas A\&M University},
+  date        = {2008-12},
+  url         = {https://oaktrust.library.tamu.edu/server/api/core/bitstreams/79aa9984-b668-4a41-b66c-a714bad550c6/content},
+}
+
+% confirmed (publisher open-access PDF read 2026-11-17, R-2 intake; § 3 edition and commentary by Formentin)
+@article{formentin2024sentenza,
+  author       = {Formentin, Vittorio and Schiavon, Alessandra},
+  title        = {Per il Codice Diplomatico Poliano: una sentenza memorabile (Venezia, 13 luglio 1366)},
+  journaltitle = {Reti Medievali Rivista},
+  volume       = {25},
+  number       = {1},
+  date         = {2024},
+  pages        = {193--231},
+  url          = {https://www.rmoa.unina.it/7054/},
+}
+
+% confirmed (publisher page read 2026-11-17, R-4 intake)
+@article{wujastyk2013perfect,
+  author       = {Wujastyk, Dagmar},
+  title        = {Perfect Medicine: Mercury in Sanskrit Medical Literature},
+  journaltitle = {Asian Medicine},
+  volume       = {8},
+  number       = {1},
+  date         = {2013},
+  pages        = {15--},
+  url          = {https://brill.com/view/journals/asme/8/1/article-p15_2.xml},
+}
+
+
+% III-03: interpretation checked in S-21-E9; catalogue confirms publication details.
+@article{talbot1959unicorn,
+  author = {Talbot, Lee M.},
+  title = {Marco Polo's Unicorn},
+  journaltitle = {Natural History},
+  date = {1959},
+  volume = {68},
+  number = {10},
+  pages = {558--565},
+  url = {https://rhinoresourcecenter.com/library/references/marco-polos-unicorn/},
+}
+
+
+@article{brito2016ambergris,
+  author       = {Brito, Cristina and Jordão, Vera L. and Pierce, Graham J.},
+  title        = {Ambergris as an overlooked historical marine resource: its biology and role as a global economic commodity},
+  journaltitle = {Journal of the Marine Biological Association of the United Kingdom},
+  date         = {2016},
+  volume       = {96},
+  number       = {3},
+  pages        = {585--596},
+  doi          = {10.1017/S0025315415000910},
+  note         = {Publisher abstract checked for intestinal origin and the proposed mechanism},
+}
+
+@book{rockhill1900journey,
+  author     = {{William of Rubruck}},
+  translator = {Rockhill, William Woodville},
+  editor     = {Rockhill, William Woodville},
+  title      = {The Journey of William of Rubruck to the Eastern Parts of the World, 1253--55},
+  publisher  = {Hakluyt Society},
+  location   = {London},
+  date       = {1900},
+  url        = {https://archive.org/details/journeywilliamr01ruysgoog},
+}
+
+@book{gibb1992asia,
+  author     = {{Ibn Baṭṭūṭa}},
+  translator = {Gibb, Hamilton Alexander Rosskeen},
+  title      = {Ibn Battuta: Travels in Asia and Africa, 1325--1354},
+  publisher  = {Asian Educational Services},
+  location   = {New Delhi},
+  date       = {1992},
+  origdate   = {1929},
+  url        = {https://archive.org/details/in.ernet.dli.2015.39643},
+  note       = {Reprint of the London edition; locators refer to the reprint consulted},
+}
+
+% confirmed (S-20 follow-up audit)
+@article{falchetta2011fra,
+  author       = {Falchetta, Piero},
+  title        = {Il mappamondo (scomparso?) di Fra Mauro},
+  journaltitle = {Studi Veneziani},
+  volume       = {62},
+  date         = {2011},
+  pages        = {113--132},
+  url          = {https://www.cini.it/wp-content/uploads/2013/01/201103101000.pdf},
+}
+
+% confirmed (S-20 second-pass intake)
+@online{bnf2023calvino,
+  author = {{Bibliothèque nationale de France}},
+  title  = {Bibliographie Italo Calvino},
+  date   = {2023-10},
+  url    = {https://www.bnf.fr/sites/default/files/2023-10/Bibliographie_Italo_Calvino.pdf},
+}
+
+% confirmed (S-20 intake)
+@online{levie2024foligno,
+  author = {{Le vie di Marco Polo}},
+  title  = {Foligno, Biblioteca Jacobilli, A.II.9 (145th witness announcement)},
+  date   = {2024-09-06},
+  url    = {https://leviedimarcopolo.it/en/node/6038},
+}
+

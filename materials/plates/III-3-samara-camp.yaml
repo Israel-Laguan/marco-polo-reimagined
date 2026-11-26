@@ -1,0 +1,39 @@
+plate: III-3
+title: Five months stranded at Samara
+status: accepted
+tradition: Javanese and Sumatran temple relief
+caption: >-
+  A shore camp at Samara during the five-month monsoon wait, with palm-tappers and junks at anchor. The Franco-Italian and Venetian texts describe wooden defences; the Zelada Latin and Ramusio add ditches, five timber towers and about two thousand men. The shelters, vessels and dress shown are conjectural. Modern illustration in the manner of Javanese and Sumatran temple relief. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model (version not disclosed)
+job_id: none, chat output
+date: '2026-11-19'
+params: {scale: '4:3', rounds: 1, selected: media/plates/drafts/III-3/gpt-r1-1.png}
+route: GPT trial (not the PLT table's route)
+prompt: media/plates/prompts/III-3.txt
+negative: in-prompt
+reference_images: []
+figures: []
+cues: []
+unsourced:
+- No direct period camp image survives; the 2008 Lampoh Kota / Ulee Tanoh test-pit post-moulds (~25 cm circular black-soil stains at 30–40 cm depth) and 2010 Cot Astana brickwork reported in Oetomo & Surachman 2012 (Spike S-27) provide no c. 1290 shelter elevation, roof joinery, or defensive plan. Huts, garments, palm-tapping gear, junks and the unnamed party are conjectural reconstructions.
+post: >-
+  convert media/plates/drafts/III-3/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/III-3-samara-camp.png
+review:
+  script: Pass; no lettering or seals.
+  period: Borderline; vessels, clothing and camp are generic reconstructions.
+  scene: Pass; modest camp, palm tappers, junks and monsoon rain.
+  rule_6: Pass; no sacred figures.
+  idiom: Borderline; carved-stone appearance is convincing, specific regional idiom needs review.
+  ground_and_aging: Pass; even stone texture.
+  artifact_risk: Caption identifies modern origin and reconstruction.
+  print: Pass; 1448x1086, sRGB, 300 ppi.
+  sidecar: Pass; prompt, route, process and provenance recorded.
+  must_get_right_camp: Pass; small group and no ditch or grand stockade.
+  must_get_right_tappers: Pass; two climbers with vessels.
+  must_get_right_ships: Pass with limit; one anchor is clear, other moorings are obscured.
+editorial_review:
+  date: '2026-11-25'
+  decision: Retain artwork and caption
+  rationale: >-
+    The modest shore camp, palm-tappers, and offshore junks illustrate the account. The caption distinguishes the manuscript witnesses and calls the shelters, vessels, and dress conjectural. The finds reviewed in S-27 do not establish a period shelter elevation.

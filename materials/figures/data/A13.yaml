@@ -1,0 +1,38 @@
+id: A13
+file: A13-fujian-road
+extent: [114.4, 124.6, 24, 31.2]
+graticule: 5
+scale_km: 200
+scale_at: [115.2, 25]
+markers: labelled
+routes:
+  - vol: II
+    style: inferred # YC II.77–82 names the stages; several modern identifications and the link to Zayton are disputed.
+    path: [kinsay, tanpiju, vuju-2, ghiuju, changshan, kelinfu, unken, fuju, zayton]
+label:
+  kinsay: n
+  tanpiju: e
+  vuju-2: {pos: se, text: "Vuju (Jinhua)"}
+  ghiuju: {pos: s, offset: 8}
+  changshan: w
+  kelinfu: nw
+  unken: {pos: w, offset: 4}
+  fuju: e
+  zayton: e
+text:
+  - {text: "Cuju · no fixed site", at: [28.15, 117.0]}
+legend: {at: lower right, items: [lines, markers]}
+insets:
+  - file: A13-tyunju-inset
+    map:
+      width: 2.2
+      extent: [115.6, 120.3, 23.65, 26.8]
+      graticule: false
+      places: [zayton, tyunju]
+      label:
+        zayton: se
+        tyunju: {pos: ne, text: "Tyunju? (Dehua)", dispute: true}
+      text:
+        - {text: "Tingzhou / Changting?", at: [25.95, 117.17]}
+      scale_km: 100
+      scale_at: [116.15, 24.3]

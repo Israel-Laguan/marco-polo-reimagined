@@ -1,0 +1,33 @@
+plate: II-13
+title: Pleasure barges on the West Lake
+status: pilot-accepted   # S-10 pilot 2, placed in print
+tradition: Song–Yuan city-genre handscroll (Qingming shanghe tu tradition)
+caption: >-
+  Roofed barges bring guests to the lakeside pavilions at Kinsay. Ramusio supplies the fuller account of these
+  outings. The lakeside architecture is imagined. Modern illustration in the manner of a Song–Yuan city-genre
+  handscroll. Not a historical artifact.
+generator: Akool direct API (POST /api/open/v4/content/image/createBySourcePrompt)
+model: wavespeed-ai/flux-krea-dev-lora
+job_id: 6af3b0f651e26737e1e1e5b3   # Akool has no seed; the job id is the only handle, results expire after 7 days
+date: 2026-11-10
+params: {scale: "16:9", resolution: 4k, credits: 4}
+prompt: >-
+  Song-Yuan Chinese city-genre handscroll in the Qingming shanghe tu tradition: ink and light
+  colour on silk, fine line, high oblique viewpoint, mist bands between scenes, many small
+  figures. Roofed pleasure barges glide on West Lake, Hangzhou; boatmen pole from the roof
+  decks; a family party feasts at open windows; temples and willows on the far shore; a brick
+  pagoda on a hill. Southern Song dress: round-collared robes, soft caps; Song timber
+  architecture. Long horizontal silk scroll, light even aging.
+negative_prompt: >-
+  text, calligraphy, inscription, writing, seal, red stamp, colophon, signature, Qing dynasty,
+  Ming dynasty, queue hairstyle, photograph, 3d render
+post: >-
+  Raw 1536x864 → crop 1536x768 (+0+48) to the 2:1 handscroll crop → Lanczos ×1.76 to 2700x1350
+  + light unsharp (ImageMagick). Lossless PNG master.
+review:
+  idiom: good — ink and light colour, fine line, willows, mist; reads as a scroll section
+  period: pass with notes — roofs a little too upswept; the pagoda is a timber tower, not the brick Leifeng Pagoda
+  script: none (3 of 4 round-1 seeds had pseudo-calligraphy and seals; the negative prompt removed them)
+  artifact_risk: high — a fake mounting seam runs down the middle; the caption label is mandatory
+  figures: small faces smeared at source (generator, not upscale); fine at print scale
+  scene: barges and feasting party yes; boatmen poling from the roof decks no

@@ -1,0 +1,26 @@
+sheet: chinghis-1206
+cards: [chinghis]
+year: 1206
+status: accepted   # by the user, 2026-11-18
+use: reference only, never printed (CHR.T9)
+tradition: Yuan court painting
+likeness: NPM album portrait (made under Kublai, long after his death; shows him old and white-bearded)
+generator: GPT image model (built-in image_gen in Codex)
+job_id: "none: chat output"
+date: 2026-11-18
+params: {size: 1448x1086, tries: 2}
+prompt: media/characters/prompts/chinghis-1206.txt
+reference_images: []
+attribution: >-
+  Generated image (GPT image model, built-in image_gen in Codex, 2026-11-18) for The Book of the Million,
+  a working reference sheet in the manner of Yuan court painting. Not a historical artifact.
+review:
+  script: Pass. The standard, clothing, ground and corners are free of writing, seals and signatures.
+  period: Pass against the 1206 steppe cue. He wears a felt-and-fur steppe coat and a low fur-trimmed hat in a standing portrait.
+  figures: Pass. One broad, weather-worn man at about 44, with a dark moustache and beard, and the white horsehair tug standard.
+  idiom: Pass. Fine ink lines, spare folds, flat colour and fine facial washes follow the Yuan portrait idiom.
+  notes: >-
+    The NPM album portrait was consulted visually and described in the prompt. The manifests list no
+    approved attachment of that portrait. The first attempt, with the Kublai benchmark attached for
+    style, too closely resembled Kublai. The selected second attempt used prose alone. The standard
+    finial and boots fit close to the sheet edges. The generator did not expose a versioned model name.

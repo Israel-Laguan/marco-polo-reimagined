@@ -1,0 +1,37 @@
+# B5 — Reception, 1298 onward (III-11). Pilot for S-09.
+# Every date here must have a row in plans/registry/facts.md (§ "Dates a timeline may print"); `fact` names it.
+# Extended 2026-11-19 (DIA.B5 review, plans/research/results/B5-review-2026-11.md) from the S-20 closure selection.
+# Added the Cépoy, Milion and Wood entries from the fact sheet on 2026-11-24.
+id: B5
+file: B5-reception
+axis:
+  segments: [[1290, 1680], [1815, 2030]]   # one break; 1680 leaves room for the print cluster's labels above it
+  length_cm: 12.0
+  tick: 50
+events:
+  - {date: 1298, kind: text, label: "Genoa dictation, as dated by the Prologue", fact: "B5 Reception — dictation"}
+  - {date: 1307, kind: text, label: "Cépoy receives a copy, according to the colophon", fact: "B5 Reception — Cépoy"}
+  - {from: 1310, to: 1319, date_label: "1310s", kind: text, label: "Pipino's Latin translation", note: "in Marco's lifetime; Yule suggests 1315", fact: F-18}
+  - {date: 1319, kind: text, label: "“Marco Polo Milion” named in a Venetian roll", fact: "B5 Reception — Milion"}
+  - {date: 1324, kind: text, label: "Marco dies, 8 or 9 January", fact: F-35}
+  - {date: 1375, kind: map, label: "Catalan Atlas: Cathay on the map", fact: F-20}
+  # Approximate visual span for "mid-15th century", not a documented completion interval.
+  - {from: 1440, to: 1460, date_label: "c. 1450", kind: map, label: "Fra Mauro's surviving world map", note: "its link to a map sent to Portugal by 1459 is disputed", fact: F-20}
+  - {date: 1477, kind: print, label: "First printed edition: German, Nuremberg", fact: F-21}
+  - {from: 1483, to: 1484, kind: print, label: "Pipino's Latin printed at Gouda", note: "surviving copy has undated notes by Columbus and his circle", fact: F-19}
+  - {date: 1496, kind: print, label: "Venice (Sessa)", fact: F-21}
+  - {date: 1502, kind: print, label: "Lisbon: Portuguese, from Pipino", fact: F-21}
+  - {date: 1503, kind: print, label: "Seville: Castilian (Santaella)", fact: F-21}
+  - {date: 1559, kind: print, label: "Ramusio's Navigationi, vol. 2", note: "posthumous: Ramusio died in 1557", fact: F-21}
+  - {date: 1579, kind: print, label: "Frampton's English, London", fact: "B5 Reception — editions and literature"}
+  - {date: 1603, kind: journey, label: "Bento de Góis crosses the Pamir", note: "dies at Suzhou in 1607", fact: F-22}
+  - {date: 1818, kind: print, label: "Marsden's English translation", fact: "B5 Reception — editions and literature"}
+  - {date: 1871, kind: print, label: "Yule's Book of Ser Marco Polo", fact: "B5 Reception — editions and literature"}
+  - {date: 1903, kind: text, label: "Yule–Cordier, 3rd edition", note: "the text this retelling follows", fact: "B5 Reception — editions and literature"}
+  - {date: 1920, kind: print, label: "Cordier's Notes and Addenda", fact: "B5 Reception — editions and literature"}
+  # Two dated translations (partial 1929, complete 1936), drawn as one bar to save a line.
+  - {from: 1929, to: 1936, date_label: "1929/36", kind: print, label: "Zhang Xinglang's Chinese, partial then whole", fact: "B5 Reception — Chinese examples"}
+  - {date: 1972, kind: text, label: "Calvino, Le città invisibili", fact: "B5 Reception — literature, screen and airport"}
+  - {date: 1995, kind: print, label: "Frances Wood, Did Marco Polo Go to China?", fact: "B5 Reception — Wood"}
+  - {date: 2024, kind: text, label: "Foligno codex announced as a new witness", note: "the anniversary project's count: 145th; total unresolved", fact: "B5 Reception"}
+legend: true

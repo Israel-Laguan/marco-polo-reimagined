@@ -1,0 +1,12 @@
+{
+ "prompt": "Ilkhanid Persian manuscript painting in the style of the Jami al-Tawarikh, Tabriz c. 1310: horizontal band composition, Chinese-influenced swirling sky, mineral pigments on paper, minimal ground line, red and ochre accents. Mounted Mongol raiders in lamellar coats and fur-trimmed hats burst from a brown dust storm on a plain of date palms; three Venetian merchants on horseback flee toward a mud-brick village. The youngest, about 18, slim, dark-haired, beardless, with a belt-purse, looks back; one elder heavy-set and greying, one lean with a long dark beard; bareheaded or soft caps. Paper ground, light even aging, thin ruled border. No writing, no inscriptions, no seals, not photographic.",
+ "params": {
+  "prompt": "Ilkhanid Persian manuscript painting in the style of the Jami al-Tawarikh, Tabriz c. 1310: horizontal band composition, Chinese-influenced swirling sky, mineral pigments on paper, minimal ground line, red and ochre accents. Mounted Mongol raiders in lamellar coats and fur-trimmed hats burst from a brown dust storm on a plain of date palms; three Venetian merchants on horseback flee toward a mud-brick village. The youngest, about 18, slim, dark-haired, beardless, with a belt-purse, looks back; one elder heavy-set and greying, one lean with a long dark beard; bareheaded or soft caps. Paper ground, light even aging, thin ruled border. No writing, no inscriptions, no seals, not photographic.",
+  "scale": "4:3",
+  "resolution": "4k",
+  "_id": "6af3ae7451e26737e1e1ce89",
+  "model": "wavespeed-ai/flux-krea-dev-lora",
+  "credit": 4
+ },
+ "secs": 39.2
+}

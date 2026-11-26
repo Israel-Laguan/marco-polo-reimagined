@@ -1,0 +1,84 @@
+plate: II-15
+title: Aijaruc throws the prince
+status: accepted
+tradition: Ilkhanid manuscript painting
+caption: >-
+  Aijaruc stands over the fallen prince. The wager for horses belongs to Polo’s tale about Khutulun, Caidu’s daughter. Modern illustration in the manner of Ilkhanid manuscript painting. Not a historical artifact.
+generator: GPT image model (built-in image_gen in Codex)
+model: GPT image model, version undisclosed by the tool
+job_id: none, chat output
+date: '2026-11-18'
+route: GPT trial (not the PLT table's route)
+params:
+  scale: '4:3'
+  size: 1448x1086
+  rounds: 1
+  candidates: 1
+  selected:
+    draft: media/plates/drafts/II-15/gpt-r1-1.png
+    round: 1
+    turn: 1
+prompt: media/plates/prompts/II-15.txt
+negative: in-prompt
+reference_images:
+- file: media/characters/aijaruc-1280-sheet.png
+  use: edit OK
+  licence: Project-generated working reference with accepted sidecar
+  credit: The Book of the Million, Aijaruc 1280 character sheet
+- file: media/characters/kaidu-1280-sheet.png
+  use: edit OK
+  licence: Project-generated working reference with accepted sidecar
+  credit: The Book of the Million, Kaidu 1280 character sheet
+- file: media/reference/s22/diez-a-fol70-p23-enthronement-right.jpg
+  use: edit OK
+  licence: Public domain
+  credit: Staatsbibliothek zu Berlin, Diez A fol. 70, p. 23. Munich 2005 catalogue reproduction via Wikimedia
+    Commons.
+figures:
+- id: aijaruc
+  year: 1280
+  cue: |-
+    [PERIOD] Aijaruc, c. 20 in 1280: about 20, very tall and strongly built ('almost a giantess' — Polo), unmarried.
+             Dress (Kaidu's court): close-fitting jerkin over trousers and boots for the bout.
+             Wrestles in a close jerkin (the Book: sammet).
+             Braided hair, no boqta: she is unmarried in the scene.
+    [AVOID]  the boqta; modern 'warrior princess' armour
+- id: kaidu
+  year: 1280
+  cue: |-
+    [PERIOD] Caidu, c. 45 in 1280: in his fifties in the 1280s, hard, weathered, greying beard.
+             Dress (Central Asia): Mongol prince's robe and fur hat.
+             The steppe court: tents, wagered horses.
+cues:
+- C5
+- C6
+unsourced:
+- Kaidu’s pavilion and paving are generic accommodations of the tale’s palace setting. Their exact layout
+  is unknown.
+- The visiting prince’s cut and colour and the handling of the wagered horses are schematic. The text supplies
+  the jerkin types and the wager, while period art supplies broad garment and court forms.
+post: |-
+  convert media/plates/drafts/II-15/gpt-r1-1.png -profile /usr/share/color/icc/ghostscript/srgb.icc -units PixelsPerInch -density 300 media/plates/II-15-aijaruc-wrestling.png
+review:
+  script: Pass. The paving, court textiles, tack and corners are clear of script, numbers and seals.
+  period: Pass with source limits. Caidu’s robe and fur hat and Aijaruc’s fitted jerkin, trousers, boots
+    and braids follow the dated cards. The consort and horses use C6 and C5 as comparisons.
+  scene: Pass. Four people. Aijaruc stands up after the throw. The prince recovers on one elbow in the foreground
+    as Caidu and the unnamed consort watch. Three tethered horses represent the stakes.
+  sacred_figures: Pass. Human court and sporting scene throughout.
+  idiom: Pass. Fine warm ink, curved folds, compact profiles, pigment blocks, sparse tufts and a ribbon
+    cloud fit the Tabriz idiom.
+  ground: Pass. An evenly aged cream manuscript field with no false binding or text panels.
+  artifact_risk: Moderate. The caption makes both its modern origin and the folkloric basis explicit.
+  print: Pass. The lossless 1448×1086 master exceeds the 4:3 half-page minimum at 300 ppi. Checked faces,
+    hands, horse leads and hems at native scale.
+  sidecar: Pass. GPT route, prompt, negative, inputs, figure cues, exact post command and review are recorded.
+  must_get_right:
+    kaidus_court: Pass. Caidu and a consort observe from a low cushioned court seat below a felt awning
+      at the steppe court.
+    wagered_horses: Pass. Three bridled horses stand at a tie-post. The first horse extends past the framing
+      edge, while all three heads and the tether group read clearly.
+    c5: Pass. The horses are compact and the simple headstalls use the checked horse and tack idiom without
+      ceremonial clutter.
+    c6: Pass. Side-by-side ruler and consort, cushioned low seat, brimmed fur cap and consort’s boqta.
+    aijaruc: Pass. Aijaruc is markedly tall, strong and braided, with a fitted jerkin and no boqta.
