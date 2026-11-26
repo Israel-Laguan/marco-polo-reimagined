@@ -1,6 +1,6 @@
 # I-07: Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-07-kerman-hormos.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-07-kerman-hormos.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-07-kerman-hormos/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-07-kerman-hormos.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-07-kerman-hormos.md)  

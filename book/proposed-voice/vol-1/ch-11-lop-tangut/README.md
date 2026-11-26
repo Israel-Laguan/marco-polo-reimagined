@@ -1,6 +1,6 @@
 # I-11: Charchan, Lop, Tangut, Camul: Desert Voices and the Edge of Cathay
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-11-lop-tangut.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-11-lop-tangut.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-11-lop-tangut/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-11-lop-tangut.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-11-lop-tangut.md)  

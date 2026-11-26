@@ -1,6 +1,6 @@
 # I-12: Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-12-caracoron-tenduc.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-12-caracoron-tenduc.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-12-caracoron-tenduc/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-12-caracoron-tenduc.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-12-caracoron-tenduc.md)  

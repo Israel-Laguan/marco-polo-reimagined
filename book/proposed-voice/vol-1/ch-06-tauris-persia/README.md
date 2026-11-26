@@ -1,6 +1,6 @@
 # I-06: Tauris, Persia of the Three Kings, and the Eight Kingdoms
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-06-tauris-persia.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-06-tauris-persia.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-06-tauris-persia/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-06-tauris-persia.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-06-tauris-persia.md)  

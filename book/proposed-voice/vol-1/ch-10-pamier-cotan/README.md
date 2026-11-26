@@ -1,6 +1,6 @@
 # I-10: Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-10-pamier-cotan.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-10-pamier-cotan.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-10-pamier-cotan/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-10-pamier-cotan.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-10-pamier-cotan.md)  

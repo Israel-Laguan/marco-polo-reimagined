@@ -1,6 +1,6 @@
 # I-08: Cobinan, the Arbre Sec, and the Old Man of the Mountain
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-08-arbre-sec-old-man.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-08-arbre-sec-old-man.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-08-arbre-sec-old-man/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-08-arbre-sec-old-man.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-08-arbre-sec-old-man.md)  

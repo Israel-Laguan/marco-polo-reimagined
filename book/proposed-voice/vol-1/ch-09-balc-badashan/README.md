@@ -1,6 +1,6 @@
 # I-09: Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-09-balc-badashan.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-09-balc-badashan.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-09-balc-badashan/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-09-balc-badashan.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-09-balc-badashan.md)  

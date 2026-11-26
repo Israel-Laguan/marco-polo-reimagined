@@ -29,19 +29,19 @@ This workspace organizes the calm, chapter-by-chapter rollout of the **Theatrica
 
 | Ch. | Title | Folder & Diagnostic | Ramusio in Prose | Scholars in Prose | `—` Asides | Tables | Interlude Cues | Status |
 |---|---|---|---:|---:|---:|---:|---:|---|
-| **I-01** | In a Genoese Prison: How This Book Was Made | [`vol-1/ch-01-genoa-prison/`](vol-1/ch-01-genoa-prison/README.md) | 2 | 1 | 2 | 1 | 3 | Pending |
-| **I-02** | The House of Polo and the Elder Voyage | [`vol-1/ch-02-house-of-polo/`](vol-1/ch-02-house-of-polo/README.md) | 1 | 3 | 3 | 0 | 0 | Pending |
-| **I-03** | The Second Setting-Forth: Pope, Oil, and the Boy Marco | [`vol-1/ch-03-second-setting-forth/`](vol-1/ch-03-second-setting-forth/README.md) | 4 | 3 | 1 | 1 | 3 | Pending |
-| **I-04** | Lesser and Greater Hermenia; Turcomania; Georgiania | [`vol-1/ch-04-hermenia-georgiania/`](vol-1/ch-04-hermenia-georgiania/README.md) | 4 | 1 | 0 | 0 | 1 | Pending |
-| **I-05** | Mausul, Baudas, and the Mountain That Moved | [`vol-1/ch-05-mausul-baudas/`](vol-1/ch-05-mausul-baudas/README.md) | 3 | 3 | 1 | 1 | 0 | Pending |
-| **I-06** | Tauris, Persia of the Three Kings, and the Eight Kingdoms | [`vol-1/ch-06-tauris-persia/`](vol-1/ch-06-tauris-persia/README.md) | 2 | 3 | 1 | 1 | 2 | Pending |
-| **I-07** | Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman | [`vol-1/ch-07-kerman-hormos/`](vol-1/ch-07-kerman-hormos/README.md) | 4 | 2 | 0 | 1 | 1 | Pending |
-| **I-08** | Cobinan, the Arbre Sec, and the Old Man of the Mountain | [`vol-1/ch-08-arbre-sec-old-man/`](vol-1/ch-08-arbre-sec-old-man/README.md) | 2 | 3 | 2 | 0 | 3 | Pending |
-| **I-09** | Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys | [`vol-1/ch-09-balc-badashan/`](vol-1/ch-09-balc-badashan/README.md) | 4 | 1 | 1 | 1 | 0 | Pending |
-| **I-10** | Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country | [`vol-1/ch-10-pamier-cotan/`](vol-1/ch-10-pamier-cotan/README.md) | 5 | 3 | 1 | 0 | 0 | Pending |
-| **I-11** | Charchan, Lop, Tangut, Camul: Desert Voices and the Edge of Cathay | [`vol-1/ch-11-lop-tangut/`](vol-1/ch-11-lop-tangut/README.md) | 6 | 0 | 1 | 1 | 0 | Pending |
-| **I-12** | Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords | [`vol-1/ch-12-caracoron-tenduc/`](vol-1/ch-12-caracoron-tenduc/README.md) | 5 | 1 | 4 | 1 | 0 | Pending |
-| **I-13** | Chandu: Bamboo Palace, White Horses, Bacsi and Sensin | [`vol-1/ch-13-chandu/`](vol-1/ch-13-chandu/README.md) | 2 | 3 | 1 | 0 | 0 | Pending |
+| **I-01** | In a Genoese Prison: How This Book Was Made | [`vol-1/ch-01-genoa-prison/`](vol-1/ch-01-genoa-prison/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-02** | The House of Polo and the Elder Voyage | [`vol-1/ch-02-house-of-polo/`](vol-1/ch-02-house-of-polo/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-03** | The Second Setting-Forth: Pope, Oil, and the Boy Marco | [`vol-1/ch-03-second-setting-forth/`](vol-1/ch-03-second-setting-forth/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-04** | Lesser and Greater Hermenia; Turcomania; Georgiania | [`vol-1/ch-04-hermenia-georgiania/`](vol-1/ch-04-hermenia-georgiania/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-05** | Mausul, Baudas, and the Mountain That Moved | [`vol-1/ch-05-mausul-baudas/`](vol-1/ch-05-mausul-baudas/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-06** | Tauris, Persia of the Three Kings, and the Eight Kingdoms | [`vol-1/ch-06-tauris-persia/`](vol-1/ch-06-tauris-persia/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-07** | Kerman, Camadi, Hormos: Heat, Stitched Ships, and the Road Back to Kerman | [`vol-1/ch-07-kerman-hormos/`](vol-1/ch-07-kerman-hormos/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-08** | Cobinan, the Arbre Sec, and the Old Man of the Mountain | [`vol-1/ch-08-arbre-sec-old-man/`](vol-1/ch-08-arbre-sec-old-man/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-09** | Balc, Badashan, Pashai, Keshimur: Rubies, Azure, and High Valleys | [`vol-1/ch-09-balc-badashan/`](vol-1/ch-09-balc-badashan/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-10** | Pamier, Cascar, Samarcand, Yarcan, Cotan: Roof of the World to Jade Country | [`vol-1/ch-10-pamier-cotan/`](vol-1/ch-10-pamier-cotan/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-11** | Charchan, Lop, Tangut, Camul: Desert Voices and the Edge of Cathay | [`vol-1/ch-11-lop-tangut/`](vol-1/ch-11-lop-tangut/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-12** | Caracoron, Chinghis, Prester John, Tenduc: How the Tartars Became Lords | [`vol-1/ch-12-caracoron-tenduc/`](vol-1/ch-12-caracoron-tenduc/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **I-13** | Chandu: Bamboo Palace, White Horses, Bacsi and Sensin | [`vol-1/ch-13-chandu/`](vol-1/ch-13-chandu/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
 
 ## [Volume II — The Court of the Great Kaan (Chapters II-01 to II-15)](vol-2/README.md)
 

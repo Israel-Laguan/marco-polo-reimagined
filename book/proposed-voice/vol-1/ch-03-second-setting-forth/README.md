@@ -1,6 +1,6 @@
 # I-03: The Second Setting-Forth: Pope, Oil, and the Boy Marco
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-1/ch-03-second-setting-forth.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-1/ch-03-second-setting-forth.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-1/ch-03-second-setting-forth/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-1/I-03-second-setting-forth.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-1/I-03-second-setting-forth.md)  
