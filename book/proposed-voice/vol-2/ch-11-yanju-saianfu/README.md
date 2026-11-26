@@ -1,6 +1,6 @@
 # II-11: Yanju and Saianfu: Governorship Claim and the Mangonel Story
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-11-yanju-saianfu.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-11-yanju-saianfu.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-11-yanju-saianfu/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-11-yanju-saianfu.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-11-yanju-saianfu.md)  

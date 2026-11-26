@@ -1,6 +1,6 @@
 # II-06: West and Southwest: Pulisanghin to Sindafu
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-06-pulisanghin-sindafu.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-06-pulisanghin-sindafu.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-06-pulisanghin-sindafu/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-06-pulisanghin-sindafu.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-06-pulisanghin-sindafu.md)  

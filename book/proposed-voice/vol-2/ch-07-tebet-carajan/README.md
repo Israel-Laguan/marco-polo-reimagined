@@ -1,6 +1,6 @@
 # II-07: Tebet, Caindu, Carajan, Zardandan
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-07-tebet-carajan.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-07-tebet-carajan.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-07-tebet-carajan/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-07-tebet-carajan.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-07-tebet-carajan.md)  

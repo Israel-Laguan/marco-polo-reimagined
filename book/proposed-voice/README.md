@@ -16,7 +16,7 @@ This workspace organizes the calm, chapter-by-chapter rollout of the **Theatrica
 - **[`BIG-PICTURE-NARRATION-PLAN.md`](BIG-PICTURE-NARRATION-PLAN.md):** The series-wide meta-narrative plan (modernizing a 700-year-old book, volume gear-shifts, the 39 chapter-to-chapter baton passes, and the closing Colophon).
 - **Macro-Framing & Colophon Folders (Phase 1 Drafted):**
   - [`vol-1/front-01-world-before-the-road/`](vol-1/front-01-world-before-the-road/README.md) — **Opening Meta-Introduction** (*"How to Listen to a Seven-Hundred-Year-Old Book"*) & 1260 stage (`✓ Phase 1 Drafted` → [`proposed.md`](vol-1/front-01-world-before-the-road/proposed.md))
-  - [`vol-2/front-01-yuan-china-context/`](vol-2/front-01-yuan-china-context/README.md) — **Volume II Prelude** (Entering Cublay Kaan's court & state machine) (`✓ Phase 1 Drafted` → [`proposed.md`](vol-2/front-01-yuan-china-context/proposed.md))
+  - [`vol-2/front-01-yuan-china-context/`](vol-2/front-01-yuan-china-context/README.md) — **Volume II Prelude** (Entering Cublay Kaan's court & state machine) (`✓ Promoted` → [`proposed.md`](vol-2/front-01-yuan-china-context/proposed.md))
   - [`vol-3/front-01-indian-ocean-world/`](vol-3/front-01-indian-ocean-world/README.md) — **Volume III Prelude** (Monsoon seamanship, Cocachin's bridal fleet, and the afterlife pivot) (`✓ Phase 1 Drafted` → [`proposed.md`](vol-3/front-01-indian-ocean-world/proposed.md))
   - [`vol-3/colophon-and-closing/`](vol-3/colophon-and-closing/README.md) — **Closing Modern Colophon** (*"Explicit Liber"* / final curtain call) (`✓ Phase 1 Drafted` → [`proposed.md`](vol-3/colophon-and-closing/proposed.md))
 - **Approved Chapter Benchmarks:**
@@ -47,21 +47,21 @@ This workspace organizes the calm, chapter-by-chapter rollout of the **Theatrica
 
 | Ch. | Title | Folder & Diagnostic | Ramusio in Prose | Scholars in Prose | `—` Asides | Tables | Interlude Cues | Status |
 |---|---|---|---:|---:|---:|---:|---:|---|
-| **II-01** | Cublay Kaan: Puissance, Nayan, and the Ordo of Victory | [`vol-2/ch-01-cublay-nayan/`](vol-2/ch-01-cublay-nayan/README.md) | 3 | 1 | 1 | 1 | 1 | Pending |
-| **II-02** | Person, Wives, Sons, and the Palace Inside the Walls | [`vol-2/ch-02-person-palace/`](vol-2/ch-02-person-palace/README.md) | 11 | 3 | 2 | 0 | 1 | Pending |
+| **II-01** | Cublay Kaan: Puissance, Nayan, and the Ordo of Victory | [`vol-2/ch-01-cublay-nayan/`](vol-2/ch-01-cublay-nayan/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-02** | Person, Wives, Sons, and the Palace Inside the Walls | [`vol-2/ch-02-person-palace/`](vol-2/ch-02-person-palace/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
 | **II-03** | Feasts, Robes, and the Twelve Thousand Keshican | [`vol-2/ch-03-feasts-keshican/`](vol-2/ch-03-feasts-keshican/README.md) | 0 | 0 | 0 | 0 | 0 | ✓ Benchmark |
 | **II-04** | Hunt, Hounds, Litter, and the Traffic of a Million | [`vol-2/ch-04-hunt-traffic/`](vol-2/ch-04-hunt-traffic/README.md) | 1 | 0 | 0 | 0 | 11 | ✓ Benchmark |
-| **II-05** | Ahmad the Bailo, Paper Money, Posts, Coal, and Charity | [`vol-2/ch-05-ahmad-paper-coal/`](vol-2/ch-05-ahmad-paper-coal/README.md) | 13 | 2 | 1 | 1 | 2 | Pending |
-| **II-06** | West and Southwest: Pulisanghin to Sindafu | [`vol-2/ch-06-pulisanghin-sindafu/`](vol-2/ch-06-pulisanghin-sindafu/README.md) | 4 | 2 | 2 | 0 | 0 | Pending |
-| **II-07** | Tebet, Caindu, Carajan, Zardandan | [`vol-2/ch-07-tebet-carajan/`](vol-2/ch-07-tebet-carajan/README.md) | 7 | 0 | 1 | 0 | 2 | Pending |
-| **II-08** | Mien and Bangala: Elephants, Battle, Towers of Gold and Silver | [`vol-2/ch-08-mien-bangala/`](vol-2/ch-08-mien-bangala/README.md) | 1 | 3 | 2 | 1 | 2 | Pending |
-| **II-09** | Caugigu, Anin, Coloman, Cuiju — and Back | [`vol-2/ch-09-caugigu-cuiju/`](vol-2/ch-09-caugigu-cuiju/README.md) | 1 | 2 | 2 | 0 | 0 | Pending |
-| **II-10** | Eastward to Manzi: Canal Cities and the Fall of the Sung | [`vol-2/ch-10-manzi-sung/`](vol-2/ch-10-manzi-sung/README.md) | 1 | 0 | 2 | 0 | 0 | Pending |
-| **II-11** | Yanju and Saianfu: Governorship Claim and the Mangonel Story | [`vol-2/ch-11-yanju-saianfu/`](vol-2/ch-11-yanju-saianfu/README.md) | 1 | 3 | 1 | 2 | 1 | Pending |
-| **II-12** | Kian, Suju, and the Approach to Heaven’s City | [`vol-2/ch-12-kian-suju/`](vol-2/ch-12-kian-suju/README.md) | 3 | 1 | 2 | 0 | 0 | Pending |
-| **II-13** | Kinsay: Capital of Manzi | [`vol-2/ch-13-kinsay/`](vol-2/ch-13-kinsay/README.md) | 14 | 2 | 1 | 1 | 5 | Pending |
-| **II-14** | Fuju, Zayton, and the Haven of the World | [`vol-2/ch-14-fuju-zayton/`](vol-2/ch-14-fuju-zayton/README.md) | 6 | 1 | 1 | 0 | 0 | Pending |
-| **II-15** | Great Turkey, Caidu’s Daughter, and the Wars of the Ponent | [`vol-2/ch-15-great-turkey-ponent/`](vol-2/ch-15-great-turkey-ponent/README.md) | 0 | 1 | 0 | 0 | 2 | Pending |
+| **II-05** | Ahmad the Bailo, Paper Money, Posts, Coal, and Charity | [`vol-2/ch-05-ahmad-paper-coal/`](vol-2/ch-05-ahmad-paper-coal/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-06** | West and Southwest: Pulisanghin to Sindafu | [`vol-2/ch-06-pulisanghin-sindafu/`](vol-2/ch-06-pulisanghin-sindafu/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-07** | Tebet, Caindu, Carajan, Zardandan | [`vol-2/ch-07-tebet-carajan/`](vol-2/ch-07-tebet-carajan/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-08** | Mien and Bangala: Elephants, Battle, Towers of Gold and Silver | [`vol-2/ch-08-mien-bangala/`](vol-2/ch-08-mien-bangala/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-09** | Caugigu, Anin, Coloman, Cuiju — and Back | [`vol-2/ch-09-caugigu-cuiju/`](vol-2/ch-09-caugigu-cuiju/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-10** | Eastward to Manzi: Canal Cities and the Fall of the Sung | [`vol-2/ch-10-manzi-sung/`](vol-2/ch-10-manzi-sung/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-11** | Yanju and Saianfu: Governorship Claim and the Mangonel Story | [`vol-2/ch-11-yanju-saianfu/`](vol-2/ch-11-yanju-saianfu/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-12** | Kian, Suju, and the Approach to Heaven’s City | [`vol-2/ch-12-kian-suju/`](vol-2/ch-12-kian-suju/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-13** | Kinsay: Capital of Manzi | [`vol-2/ch-13-kinsay/`](vol-2/ch-13-kinsay/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-14** | Fuju, Zayton, and the Haven of the World | [`vol-2/ch-14-fuju-zayton/`](vol-2/ch-14-fuju-zayton/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
+| **II-15** | Great Turkey, Caidu’s Daughter, and the Wars of the Ponent | [`vol-2/ch-15-great-turkey-ponent/`](vol-2/ch-15-great-turkey-ponent/README.md) | 0 | 0 | 0 | 0 | 3+ | ✓ Promoted |
 
 ## [Volume III — The Seas of the Indies & Afterlives (Chapters III-01 to III-12)](vol-3/README.md)
 

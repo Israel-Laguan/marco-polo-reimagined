@@ -1,6 +1,6 @@
 # II-02: Person, Wives, Sons, and the Palace Inside the Walls
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-02-person-palace.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-02-person-palace.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-02-person-palace/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-02-person-palace.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-02-person-palace.md)  

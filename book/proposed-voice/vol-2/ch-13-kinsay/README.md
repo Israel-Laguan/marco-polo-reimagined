@@ -1,6 +1,6 @@
 # II-13: Kinsay: Capital of Manzi
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-13-kinsay.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-13-kinsay.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-13-kinsay/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-13-kinsay.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-13-kinsay.md)  

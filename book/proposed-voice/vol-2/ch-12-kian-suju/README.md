@@ -1,6 +1,6 @@
 # II-12: Kian, Suju, and the Approach to Heaven’s City
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-12-kian-suju.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-12-kian-suju.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-12-kian-suju/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-12-kian-suju.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-12-kian-suju.md)  

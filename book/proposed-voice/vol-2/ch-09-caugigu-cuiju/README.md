@@ -1,6 +1,6 @@
 # II-09: Caugigu, Anin, Coloman, Cuiju — and Back
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-09-caugigu-cuiju.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-09-caugigu-cuiju.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-09-caugigu-cuiju/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-09-caugigu-cuiju.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-09-caugigu-cuiju.md)  

@@ -1,6 +1,6 @@
 # II-F1: Volume II Prelude — Entering Yuan China
 
-**Status:** ✓ Phase 1 Draft Complete (`proposed.md` — E0 · W0)  
+**Status:** Promoted to Canonical Manuscript  
 **Role:** Volume II Threshold Prelude: shifts the reader from Volume I's desert caravan road to the imperial court theatre and state machine of Cublay Kaan.  
 **Canonical File:** [`book/vol-2/front-01-yuan-china-context.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/front-01-yuan-china-context.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/front-01-yuan-china-context/proposed.md`  

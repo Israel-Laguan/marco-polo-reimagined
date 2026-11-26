@@ -1,6 +1,6 @@
 # II-10: Eastward to Manzi: Canal Cities and the Fall of the Sung
 
-**Status:** Pending Theatrical Voice Review  
+**Status:** ✓ Promoted to Canonical Manuscript  
 **Canonical Manuscript:** [`book/vol-2/ch-10-manzi-sung.md`](file:///home/anthony/code/marco-polo-reimagined/book/vol-2/ch-10-manzi-sung.md)  
 **Proposed Sandbox Draft:** `book/proposed-voice/vol-2/ch-10-manzi-sung/proposed.md`  
 **Chapter Task & Fact Sheet:** [`book/plans/tasks/chapters/vol-2/II-10-manzi-sung.md`](file:///home/anthony/code/marco-polo-reimagined/book/plans/tasks/chapters/vol-2/II-10-manzi-sung.md)  
